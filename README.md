@@ -1,13 +1,13 @@
-# Máster Universitario en Profesorado — Matemáticas · 2026–2027
+# Máster Universitario en Profesorado — Matemáticas
 
-Repositorio personal de trabajo del **Máster Universitario en Profesorado de Educación Secundaria Obligatoria, Bachillerato, Formación Profesional y Enseñanzas de Idiomas, Artísticas y Deportivas**, especialidad **Matemáticas**, curso 2026–2027.
+Repositorio personal de trabajo del **Máster Universitario en Profesorado de Educación Secundaria Obligatoria, Bachillerato, Formación Profesional y Enseñanzas de Idiomas, Artísticas y Deportivas**, especialidad **Matemáticas**.
 
 El repositorio reúne apuntes, materiales, actividades, trabajos, bibliografía, proyectos, recursos digitales y evidencias de aprendizaje generados durante el máster.
 
 ## Estructura
 
 - `00-administracion/` — matrícula, calendario, trámites, organización y documentación administrativa.
-- `01-asignaturas/` — asignaturas del curso 2026–2027, con grupos, ECTS y espacios de trabajo.
+- `01-asignaturas/` — asignaturas del máster y espacios de trabajo.
 - `02-apuntes/` — índice general y apuntes transversales.
 - `03-materiales/` — materiales docentes y recursos reutilizables.
 - `04-pbl-abp/` — aprendizaje basado en proyectos/problemas.
@@ -21,18 +21,18 @@ El repositorio reúne apuntes, materiales, actividades, trabajos, bibliografía,
 
 ## Asignaturas obligatorias
 
-| Periodo | Grupo | Asignatura | ECTS |
-|---|---:|---|---:|
-| S1 | 7 | Psicología del desarrollo y de la educación | 4 |
-| S1 | 7 | Procesos y contextos educativos | 6 |
-| S1 | 7 | Sociedad, familia y procesos grupales | 4 |
-| S1 | 1 | Practicum I | 3 |
-| S2 | 1 | Contenidos disciplinares de Matemáticas | 6 |
-| S1 | 1 | Diseño curricular e instruccional de Matemáticas | 6 |
-| S2 | 1 | Diseño de actividades para el aprendizaje de Matemáticas | 8 |
-| S2 | 1 | Innovación e investigación educativa en Matemáticas | 4 |
-| Anual | 1 | Practicum II | 7 |
-| Anual | 99 | Trabajo fin de Máster | 6 |
+| Periodo | Asignatura |
+|---|---|
+| S1 | Psicología del desarrollo y de la educación |
+| S1 | Procesos y contextos educativos |
+| S1 | Sociedad, familia y procesos grupales |
+| S1 | Practicum I |
+| S1 | Diseño curricular e instruccional de Matemáticas |
+| S2 | Contenidos disciplinares de Matemáticas |
+| S2 | Diseño de actividades para el aprendizaje de Matemáticas |
+| S2 | Innovación e investigación educativa en Matemáticas |
+| Anual | Practicum II |
+| Anual | Trabajo fin de Máster |
 
 ## Optativas
 
@@ -40,25 +40,21 @@ Se elige **una optativa de S1 y una optativa de S2**. Además, se puede matricul
 
 ### Optativas S1
 
-| Grupo/turno | Asignatura | ECTS |
-|---|---|---:|
-| grupo 2 · tarde | Atención al alumnado con necesidades educativas específicas | 3 |
-| grupo 2-3 · tarde | Educación emocional en el profesorado | 3 |
-| grupo 2-3 · tarde | Prevención y resolución de conflictos | 3 |
+- Atención al alumnado con necesidades educativas específicas
+- Educación emocional en el profesorado
+- Prevención y resolución de conflictos
 
 ### Optativas S2
 
-| Grupo/turno | Asignatura | ECTS |
-|---|---|---:|
-| grupo 1 · tarde | Diseño de materiales para la educación a distancia | 3 |
-| grupo 1 · tarde | Enseñanza del español para alumnado inmigrante | 3 |
-| grupo 2 · tarde | Habilidades comunicativas para docentes | 3 |
-| grupo 2 · tarde | Tecnologías de la información y la comunicación para el aprendizaje | 3 |
+- Diseño de materiales para la educación a distancia
+- Enseñanza del español para alumnado inmigrante
+- Habilidades comunicativas para docentes
+- Tecnologías de la información y la comunicación para el aprendizaje
 
 ## Practicum y TFM
 
-- El turno de las clases presenciales **no determina el turno del Practicum**.
-- El Practicum se realizará **por las mañanas**, salvo que una resolución específica establezca otro turno.
+- El horario de las clases presenciales **no determina el horario del Practicum**.
+- El horario del Practicum se determinará según la resolución vigente.
 - Parte del trabajo del **TFM se desarrollará conjuntamente con el Practicum**.
 
 ## Criterio de organización

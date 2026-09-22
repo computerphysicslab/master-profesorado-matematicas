@@ -1,1 +1,7 @@
-# PBL / ABP Sección del repositorio del Máster de Profesorado de Matemáticas 2026–2027. Esta carpeta se utilizará para organizar documentación, apuntes, recursos y evidencias relacionadas con **PBL / ABP**. Los materiales se incorporarán progresivamente durante el curso académico.
+# PBL / ABP
+
+Sección del repositorio del Máster de Profesorado de Matemáticas.
+
+Esta carpeta se utilizará para organizar documentación, apuntes, recursos y evidencias relacionadas con **PBL / ABP**.
+
+Los materiales se incorporarán progresivamente durante el curso académico.

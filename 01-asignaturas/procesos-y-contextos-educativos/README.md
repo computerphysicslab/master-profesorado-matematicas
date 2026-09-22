@@ -4,7 +4,7 @@
 
 ## Descripción
 
-Espacio de trabajo para la asignatura **Procesos y contextos educativos** del Máster de Profesorado de Educación Secundaria, especialidad Matemáticas, curso 2026–2027.
+Espacio de trabajo para la asignatura **Procesos y contextos educativos** del Máster de Profesorado de Educación Secundaria, especialidad Matemáticas.
 
 ## Contenidos
 

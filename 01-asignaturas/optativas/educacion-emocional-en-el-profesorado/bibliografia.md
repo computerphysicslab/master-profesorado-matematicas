@@ -1,1 +1,3 @@
-# Bibliografía — Educación emocional en el profesorado Referencias y recursos.
+# Bibliografía — Educación emocional en el profesorado 
+
+Referencias y recursos.
