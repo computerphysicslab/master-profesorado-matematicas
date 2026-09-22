@@ -1,6 +1,4 @@
-# Índice administrativo
-
-- Matrícula
+# Índice administrativo - Matrícula
 - Documentación
 - Seguro de accidentes
 - Certificados

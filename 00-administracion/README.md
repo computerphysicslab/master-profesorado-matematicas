@@ -2,4 +2,4 @@
 
 Seguimiento de matrícula, documentación, calendario, Practicum, TFM, comunicaciones y trámites administrativos.
 
-No sustituye la información oficial de UNIZAR ni las resoluciones correspondientes.
+No sustituye la información oficial ni las resoluciones correspondientes.

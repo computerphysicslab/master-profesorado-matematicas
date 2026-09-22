@@ -1,0 +1,1 @@
+# Trabajos — Innovación e investigación educativa en Matemáticas Registro de actividades, tareas, prácticas, ejercicios y entregas relacionadas con **Innovación e investigación educativa en Matemáticas**.

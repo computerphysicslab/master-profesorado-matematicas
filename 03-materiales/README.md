@@ -1,7 +1,1 @@
-# Materiales
-
-Sección del repositorio del Máster de Profesorado de Matemáticas — UNIZAR 2026–2027.
-
-Esta carpeta se utilizará para organizar documentación, apuntes, recursos y evidencias relacionadas con **Materiales**.
-
-Los materiales se incorporarán progresivamente durante el curso académico.
+# Materiales Sección del repositorio del Máster de Profesorado de Matemáticas 2026–2027. Esta carpeta se utilizará para organizar documentación, apuntes, recursos y evidencias relacionadas con **Materiales**. Los materiales se incorporarán progresivamente durante el curso académico.

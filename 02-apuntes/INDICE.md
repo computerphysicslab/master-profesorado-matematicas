@@ -1,6 +1,4 @@
-# Índice general de apuntes
-
-- Psicología del desarrollo y de la educación
+# Índice general de apuntes - Psicología del desarrollo y de la educación
 - Procesos y contextos educativos
 - Sociedad, familia y procesos grupales
 - Practicum I
