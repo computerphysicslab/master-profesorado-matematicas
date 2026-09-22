@@ -1,263 +1,71 @@
-# Máster de Profesorado — Matemáticas · UNIZAR
+# Máster Universitario en Profesorado — Matemáticas · UNIZAR 2026–2027
 
-![UNIZAR](https://img.shields.io/badge/UNIZAR-Máster%20de%20Profesorado-blue)
-![Especialidad](https://img.shields.io/badge/Especialidad-Matemáticas-green)
-![Curso](https://img.shields.io/badge/Curso-2026--2027-orange)
+Repositorio personal de trabajo del **Máster Universitario en Profesorado de Educación Secundaria Obligatoria, Bachillerato, Formación Profesional y Enseñanzas de Idiomas, Artísticas y Deportivas**, especialidad **Matemáticas**, en la Universidad de Zaragoza (UNIZAR), curso 2026–2027.
 
-Repositorio personal de trabajo del **Máster Universitario en Profesorado de Educación Secundaria Obligatoria, Bachillerato, Formación Profesional y Enseñanzas de Idiomas, Artísticas y Deportivas**, especialidad en **Matemáticas**, de la **Universidad de Zaragoza**.
+El repositorio reúne apuntes, materiales, actividades, trabajos, bibliografía, proyectos, recursos digitales y evidencias de aprendizaje generados durante el máster.
 
-**Curso académico: 2026–2027**
+## Estructura
 
----
+- `00-administracion/` — matrícula, calendario, trámites, organización y documentación administrativa.
+- `01-asignaturas/` — asignaturas del curso 2026–2027, con códigos, grupos, ECTS y espacios de trabajo.
+- `02-apuntes/` — índice general y apuntes transversales.
+- `03-materiales/` — materiales docentes y recursos reutilizables.
+- `04-pbl-abp/` — aprendizaje basado en proyectos/problemas.
+- `05-python-jupyter/` — Python, Jupyter y recursos computacionales para educación matemática.
+- `06-inteligencia-artificial/` — IA aplicada a educación, docencia y aprendizaje.
+- `07-evaluacion/` — evaluación, instrumentos, rúbricas y evidencias.
+- `08-podcasts/` — podcasts relacionados con aprendizaje, enseñanza y Matemáticas.
+- `09-bibliografia/` — bibliografía y referencias.
+- `10-proyectos/` — proyectos integradores y propuestas didácticas.
+- `99-archivo/` — materiales históricos o no activos.
 
-## 🎓 El proyecto
+## Asignaturas obligatorias
 
-Este repositorio documenta el proceso de formación como profesor de Matemáticas de Educación Secundaria y Bachillerato.
+| Periodo | Código | Grupo | Asignatura | ECTS |
+|---|---:|---:|---|---:|
+| S1 | 63200 | 7 | Psicología del desarrollo y de la educación | 4 |
+| S1 | 63201 | 7 | Procesos y contextos educativos | 6 |
+| S1 | 63202 | 7 | Sociedad, familia y procesos grupales | 4 |
+| S1 | 63209 | 1 | Practicum I — código 12 según Resolución Practicum DGA | 3 |
+| S2 | 63222 | 1 | Contenidos disciplinares de Matemáticas | 6 |
+| S1 | 63223 | 1 | Diseño curricular e instruccional de Matemáticas | 6 |
+| S2 | 63224 | 1 | Diseño de actividades para el aprendizaje de Matemáticas | 8 |
+| S2 | 63225 | 1 | Innovación e investigación educativa en Matemáticas | 4 |
+| Anual | 63226 | 1 | Practicum II — código 12 según Resolución Practicum DGA | 7 |
+| Anual | 63227 | 99 | Trabajo fin de Máster | 6 |
 
-Aquí se reúnen apuntes, materiales, actividades, proyectos, recursos digitales, podcasts, bibliografía y reflexiones desarrollados durante el Máster.
+## Optativas
 
-El repositorio pretende ser simultáneamente:
+Se elige **una optativa de S1 y una optativa de S2**. Además, se puede matricular **un segundo Contenido Disciplinar de otra especialidad en lugar de elegir dos optativas**.
 
-* un archivo personal de aprendizaje;
-* una biblioteca de recursos docentes;
-* un espacio de experimentación;
-* un registro versionado de los trabajos realizados;
-* y una base para futuros proyectos educativos.
+### Optativas S1
 
----
+| Código | Grupo/turno | Asignatura | ECTS |
+|---|---|---|---:|
+| 63328 | grupo 2 · tarde | Atención al alumnado con necesidades educativas específicas | 3 |
+| 63305 | grupo 2-3 · tarde | Educación emocional en el profesorado | 3 |
+| 63308 | grupo 2-3 · tarde | Prevención y resolución de conflictos | 3 |
 
-## 📚 Asignaturas
+### Optativas S2
 
-Los materiales correspondientes a las asignaturas se encuentran en [`01-asignaturas/`](01-asignaturas/).
+| Código | Grupo/turno | Asignatura | ECTS |
+|---|---|---|---:|
+| 63309 | grupo 1 · tarde | Diseño de materiales para la educación a distancia | 3 |
+| 63311 | grupo 1 · tarde | Enseñanza del español para alumnado inmigrante | 3 |
+| 63312 | grupo 2 · tarde | Habilidades comunicativas para docentes | 3 |
+| 63315 | grupo 2 · tarde | Tecnologías de la información y la comunicación para el aprendizaje | 3 |
 
-Cada asignatura dispone de una estructura propia para separar:
+## Practicum y TFM
 
-* apuntes;
-* materiales;
-* trabajos;
-* actividades;
-* bibliografía.
+- El turno de las clases presenciales **no determina el turno del Practicum**.
+- El Practicum se realizará **por las mañanas**, salvo que una resolución específica establezca otro turno.
+- Parte del trabajo del **TFM se desarrollará conjuntamente con el Practicum**.
+- Los códigos de Practicum I y Practicum II se mantienen asociados al **código 12 según la Resolución Practicum DGA**.
 
-### Materias transversales
+## Criterio de organización
 
-* Sociedad, Familia y Procesos Grupales
-* Psicología Social
-* Procesos y Contextos Educativos
-* Aprendizaje y Desarrollo de la Personalidad
-* Diseño Curricular
-* Innovación e Investigación Educativa
+Cada asignatura dispone de un `README.md`, un índice de apuntes, espacios para materiales y trabajos, y una referencia bibliográfica inicial. Los contenidos concretos se incorporarán durante el curso y se distinguirán de la documentación oficial.
 
-### Especialidad de Matemáticas
+## Objetivo
 
-* Didáctica de las Matemáticas
-* materias específicas de la especialidad
-* Practicum
-
-> La estructura de asignaturas se irá ajustando a la denominación oficial y a la organización definitiva del plan docente de UNIZAR.
-
----
-
-## 📝 Apuntes
-
-La carpeta [`02-apuntes/`](02-apuntes/) contiene apuntes y documentos de estudio organizados por áreas temáticas.
-
-```text
-02-apuntes/
-├── sociologia-educacion/
-├── psicologia/
-├── didactica/
-├── matematicas/
-├── evaluacion/
-└── tecnologia-educativa/
-```
-
-Los apuntes pueden evolucionar durante el curso mediante control de versiones.
-
----
-
-## 🧑‍🏫 Materiales docentes
-
-En [`03-materiales/`](03-materiales/) se almacenan recursos destinados a la futura práctica docente:
-
-* actividades;
-* ejercicios;
-* fichas;
-* presentaciones;
-* recursos digitales;
-* materiales para ESO;
-* materiales para Bachillerato.
-
-La organización por niveles permite reutilizar posteriormente estos recursos en situaciones reales de aula.
-
----
-
-## 🚀 PBL / ABP
-
-La carpeta [`04-pbl-abp/`](04-pbl-abp/) reúne proyectos y experiencias basadas en metodologías activas:
-
-* Aprendizaje Basado en Proyectos;
-* retos;
-* situaciones de aprendizaje;
-* rúbricas;
-* actividades interdisciplinarias.
-
----
-
-## 🐍 Python y Jupyter
-
-La programación constituye una parte importante de este proyecto.
-
-En [`05-python-jupyter/`](05-python-jupyter/) se desarrollarán recursos educativos utilizando:
-
-* Python;
-* Jupyter Notebook;
-* visualización matemática;
-* simulaciones;
-* cálculo;
-* análisis de datos;
-* actividades interactivas.
-
-La programación se utilizará como herramienta para explorar y comprender las Matemáticas, no únicamente como contenido informático.
-
----
-
-## 🤖 Inteligencia Artificial
-
-[`06-inteligencia-artificial/`](06-inteligencia-artificial/) recoge recursos y reflexiones sobre la utilización de Inteligencia Artificial en educación.
-
-Incluye:
-
-* herramientas de IA;
-* actividades educativas;
-* prompts;
-* experiencias;
-* reflexiones sobre IA y aprendizaje;
-* posibilidades y limitaciones de la IA generativa.
-
-Un objetivo fundamental es estudiar cómo utilizar estas herramientas sin sustituir el razonamiento, la creatividad y la autonomía del alumno.
-
----
-
-## 📊 Evaluación
-
-La carpeta [`07-evaluacion/`](07-evaluacion/) contiene:
-
-* instrumentos de evaluación;
-* rúbricas;
-* ejemplos;
-* actividades evaluables;
-* documentación normativa;
-* propuestas de evaluación formativa.
-
----
-
-## 🎙️ Podcasts
-
-Los podcasts del proyecto están disponibles en [`08-podcasts/`](08-podcasts/).
-
-```text
-08-podcasts/
-├── episodios/
-├── guiones/
-└── recursos/
-```
-
-El primer episodio del proyecto es:
-
-**Aprender y enseñar Matemáticas — Episodio 1**
-
-Los podcasts forman parte de una reflexión más amplia sobre qué significa aprender y enseñar Matemáticas en el contexto educativo actual.
-
----
-
-## 📖 Bibliografía
-
-[`09-bibliografia/`](09-bibliografia/) contiene la bibliografía utilizada durante el Máster.
-
-Se organiza por áreas:
-
-* libros;
-* artículos científicos;
-* didáctica de las Matemáticas;
-* psicología;
-* sociología de la educación;
-* educación e Inteligencia Artificial.
-
-Se procurará conservar siempre la referencia bibliográfica completa y, cuando sea posible, el DOI o enlace a la fuente original.
-
----
-
-## 🔬 Proyectos
-
-[`10-proyectos/`](10-proyectos/) reúne proyectos de mayor alcance.
-
-Entre ellos se encuentra el desarrollo de materiales y contenidos relacionados con un proyecto personal de referencia sobre:
-
-**aprender y enseñar Ciencias y Matemáticas en la era de la Inteligencia Artificial.**
-
----
-
-## 📂 Organización
-
-```text
-00-administracion/       Gestión del Máster
-01-asignaturas/         Material específico de cada asignatura
-02-apuntes/             Apuntes generales
-03-materiales/          Recursos docentes
-04-pbl-abp/             Proyectos y metodologías activas
-05-python-jupyter/      Programación y notebooks
-06-inteligencia-artificial/ IA y educación
-07-evaluacion/          Evaluación y rúbricas
-08-podcasts/            Podcast del proyecto
-09-bibliografia/        Bibliografía y referencias
-10-proyectos/           Proyectos de mayor alcance
-99-archivo/             Material histórico
-```
-
----
-
-## 🔄 Control de versiones
-
-El repositorio utiliza **Git** para documentar la evolución del proyecto.
-
-El objetivo no es únicamente almacenar archivos, sino conservar la evolución del proceso:
-
-```text
-idea
-  ↓
-borrador
-  ↓
-experimentación
-  ↓
-revisión
-  ↓
-material docente
-  ↓
-versión final
-```
-
----
-
-## 🧑‍🔬 Perfil
-
-**Juan Ignacio Pérez Sacristán**
-
-Físico · Programador · AI Developer · Futuro profesor de Matemáticas
-
-La combinación de Física, programación e Inteligencia Artificial constituye el punto de partida para explorar nuevas formas de enseñar Matemáticas y Ciencias.
-
----
-
-## 🔗 Enlaces
-
-* [GitHub — ComputerPhysicsLab](https://github.com/computerphysicslab)
-* [Repositorio del Máster](https://github.com/computerphysicslab/master-profesorado-matematicas)
-
----
-
-## 📌 Estado del proyecto
-
-**Curso académico:** 2026–2027
-**Estado:** En desarrollo
-
-> **Aprender para enseñar. Enseñar para seguir aprendiendo.**
+Convertir este repositorio en un cuaderno digital de trabajo completo para el máster y, posteriormente, en una base de conocimiento reutilizable para la enseñanza de Matemáticas y Ciencias en Secundaria y Bachillerato.

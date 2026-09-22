@@ -1,0 +1,5 @@
+# Bibliografía — Innovación e investigación educativa en Matemáticas
+
+Referencias bibliográficas, documentos oficiales, artículos y recursos utilizados para estudiar **Innovación e investigación educativa en Matemáticas**.
+
+Las referencias se incorporarán y verificarán progresivamente.

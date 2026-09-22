@@ -1,0 +1,3 @@
+# Materiales — Diseño de actividades para el aprendizaje de Matemáticas
+
+Recursos, presentaciones, lecturas, documentos y materiales de trabajo relacionados con **Diseño de actividades para el aprendizaje de Matemáticas**.
