@@ -4,7 +4,7 @@
 |-------|--------|
 | **Autores** | Carmen Batanero, Juan D. Godino (y colaboradores del proyecto) |
 | **Idioma** | Español |
-| **Acceso** | [Edumat-Maestros](http://www.ugr.es/~jgodino/edumat-maestros/) |
+| **Acceso** | [Edumat-Maestros](https://www.ugr.es/~jgodino/edumat-maestros/) |
 | **Formato** | PDF de acceso abierto |
 | **Licencia** | Acceso abierto (proyecto Edumat-Maestros / UGR) |
 
@@ -23,4 +23,4 @@ Introducción a la estadística y la probabilidad escolares y a su didáctica: d
 
 ## Cómo citar
 
-Batanero, C. y Godino, J. D. (et al.). *Estocástica y su didáctica para maestros*. Universidad de Granada. http://www.ugr.es/~jgodino/edumat-maestros/
+Batanero, C. y Godino, J. D. (et al.). *Estocástica y su didáctica para maestros*. Universidad de Granada. https://www.ugr.es/~jgodino/edumat-maestros/

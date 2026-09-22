@@ -4,7 +4,7 @@
 |-------|--------|
 | **Autor (dir.)** | Juan D. Godino |
 | **Idioma** | Español |
-| **Acceso** | [Edumat-Maestros](http://www.ugr.es/~jgodino/edumat-maestros/) |
+| **Acceso** | [Edumat-Maestros](https://www.ugr.es/~jgodino/edumat-maestros/) |
 | **Formato** | PDF de acceso abierto |
 | **Licencia** | Acceso abierto (proyecto Edumat-Maestros / UGR) |
 
@@ -24,4 +24,4 @@ Aunque orientado a primaria, muchos desarrollos de contenido son aprovechables e
 
 ## Cómo citar
 
-Godino, J. D. (Dir.). (2004). *Matemáticas para maestros*. Universidad de Granada. http://www.ugr.es/~jgodino/edumat-maestros/
+Godino, J. D. (Dir.). (2004). *Matemáticas para maestros*. Universidad de Granada. https://www.ugr.es/~jgodino/edumat-maestros/

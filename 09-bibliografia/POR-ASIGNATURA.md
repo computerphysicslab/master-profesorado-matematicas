@@ -110,13 +110,26 @@ Los enlaces apuntan a las fichas en este directorio (resumen + usos detallados).
 
 ---
 
+
+## Educación emocional en el profesorado (optativa)
+
+| Prioridad | Recurso | Ficha |
+|-----------|---------|--------|
+| Alta | *La formación emocional del profesorado* (Darder et al.) | [educacion-emocional/darder-…](educacion-emocional/darder-formacion-emocional-profesorado.md) |
+| Alta | *Desarrollo de competencias sociales y emocionales…* (Izquierdo) | [educacion-emocional/izquierdo-…](educacion-emocional/izquierdo-competencias-socioemocionales-profesorado.md) |
+| Alta | Guía socioemocional docente — CASEL (Save the Children) | [educacion-emocional/savethechildren-…](educacion-emocional/savethechildren-guia-socioemocional-docentes.md) |
+| Media | SEL Toolkit for Teachers (Erasmus+) | [educacion-emocional/erasmus-…](educacion-emocional/erasmus-sel-toolkit-teachers.md) |
+| Media | *Educational Psychology* (Seifert & Sutton) — motivación y clima | [psicologia/seifert-sutton-…](psicologia/seifert-sutton-educational-psychology.md) |
+
+---
+
 ## Optativas (ejemplos)
 
 | Optativa (orientativa) | Recursos útiles |
 |------------------------|-----------------|
 | **Atención a la diversidad / NEE** | *Educational Psychology* (Seifert & Sutton) |
 | **TIC para el aprendizaje** | Active Calculus, JASP, Awesome Math, OpenStax |
-| **Educación emocional** | Capítulos de motivación y clima en Seifert & Sutton |
+| **Educación emocional** | Ver sección dedicada arriba + Seifert & Sutton |
 | **Diseño de materiales a distancia** | OER (OpenStax, Active Calculus, Godino PDF) como base reutilizable |
 
 ---

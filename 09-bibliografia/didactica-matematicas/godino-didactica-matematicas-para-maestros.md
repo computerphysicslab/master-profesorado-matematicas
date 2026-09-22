@@ -5,7 +5,7 @@
 | **Autores** | Juan D. Godino, Carmen Batanero, Vicenç Font, Eva Cid, Francisco Ruiz, Rafael Roa |
 | **Institución** | Departamento de Didáctica de la Matemática, Universidad de Granada |
 | **Idioma** | Español |
-| **Acceso** | [Proyecto Edumat-Maestros](http://www.ugr.es/~jgodino/edumat-maestros/) |
+| **Acceso** | [Proyecto Edumat-Maestros](https://www.ugr.es/~jgodino/edumat-maestros/) |
 | **Formato** | PDF (descarga libre desde la web del proyecto) |
 | **Licencia** | Uso educativo libre (consultar condiciones en la web del autor) |
 
@@ -28,4 +28,4 @@ No sustituye un curso completo de didáctica de secundaria, pero aporta el marco
 
 ## Cómo citar (orientativo)
 
-Godino, J. D. (Dir.). (2004). *Didáctica de las matemáticas para maestros*. Departamento de Didáctica de la Matemática, Universidad de Granada. http://www.ugr.es/~jgodino/edumat-maestros/
+Godino, J. D. (Dir.). (2004). *Didáctica de las matemáticas para maestros*. Departamento de Didáctica de la Matemática, Universidad de Granada. https://www.ugr.es/~jgodino/edumat-maestros/

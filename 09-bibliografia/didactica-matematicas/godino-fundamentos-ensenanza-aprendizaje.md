@@ -4,7 +4,7 @@
 |-------|--------|
 | **Autores** | Juan D. Godino, Carmen Batanero, Vicenç Font |
 | **Idioma** | Español |
-| **Acceso** | [Edumat-Maestros](http://www.ugr.es/~jgodino/edumat-maestros/) · [Digibug UGR](https://hdl.handle.net/10481/95591) |
+| **Acceso** | [Edumat-Maestros](https://www.ugr.es/~jgodino/edumat-maestros/) · [Digibug UGR](https://hdl.handle.net/10481/95591) |
 | **Formato** | PDF de acceso abierto |
 | **Licencia** | Acceso abierto (proyecto Edumat-Maestros / UGR) |
 
@@ -24,4 +24,4 @@ Monografía que ofrece una visión general de la educación matemática: natural
 
 ## Cómo citar
 
-Godino, J. D., Batanero, C. y Font, V. (2003/2004). *Fundamentos de la enseñanza y el aprendizaje de las matemáticas para maestros*. Universidad de Granada. http://www.ugr.es/~jgodino/edumat-maestros/
+Godino, J. D., Batanero, C. y Font, V. (2003/2004). *Fundamentos de la enseñanza y el aprendizaje de las matemáticas para maestros*. Universidad de Granada. https://www.ugr.es/~jgodino/edumat-maestros/

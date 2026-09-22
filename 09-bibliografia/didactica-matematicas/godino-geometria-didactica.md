@@ -4,7 +4,7 @@
 |-------|--------|
 | **Autores** | Juan D. Godino, Francisco Ruiz |
 | **Idioma** | Español |
-| **Acceso** | [Edumat-Maestros](http://www.ugr.es/~jgodino/edumat-maestros/) |
+| **Acceso** | [Edumat-Maestros](https://www.ugr.es/~jgodino/edumat-maestros/) |
 | **Formato** | PDF de acceso abierto |
 | **Licencia** | Acceso abierto (proyecto Edumat-Maestros / UGR) |
 
@@ -22,4 +22,4 @@ Monografía sobre el contenido geométrico escolar y su enseñanza: formas, prop
 
 ## Cómo citar
 
-Godino, J. D. y Ruiz, F. (2003). *Geometría y su didáctica para maestros*. Universidad de Granada. http://www.ugr.es/~jgodino/edumat-maestros/
+Godino, J. D. y Ruiz, F. (2003). *Geometría y su didáctica para maestros*. Universidad de Granada. https://www.ugr.es/~jgodino/edumat-maestros/

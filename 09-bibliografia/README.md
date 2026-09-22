@@ -10,6 +10,6 @@ Recopilación de referencias abiertas (libros y recursos en PDF o GitHub) para e
 |---------|-------------|
 | **[POR-ASIGNATURA.md](POR-ASIGNATURA.md)** | Índice inverso: asignatura → libros recomendados |
 | **[INDICE.md](INDICE.md)** | Listado de todos los títulos con enlace a su ficha |
-| Carpetas temáticas | `didactica-matematicas/`, `matematicas/`, `psicologia/`, etc. |
+| Carpetas temáticas | `didactica-matematicas/`, `matematicas/`, `psicologia/`, `educacion-emocional/`, etc. |
 
 Cada **ficha** (un `.md` por libro) incluye: metadatos, resumen, usos por asignatura y cómo citar.

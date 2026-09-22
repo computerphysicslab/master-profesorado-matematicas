@@ -7,7 +7,7 @@ Espacio para artículos, capítulos sueltos y guías cortas de acceso abierto.
 Para cada recurso, indicar:
 
 1. Título y autores  
-2. Enlace al PDF o al repositorio GitHub  
+2. Enlace al PDF o al repositorio GitHub (URL completa y verificada)  
 3. Licencia  
 4. Asignatura(s) del máster a las que aporta  
 
@@ -15,8 +15,8 @@ Ejemplo de entrada:
 
 ```markdown
 ### Título del artículo
-- Autores: ...
-- PDF / repo: https://...
+- Autores: …
+- PDF / repo: URL completa al PDF o repositorio
 - Licencia: CC BY 4.0
 - Útil para: Diseño de actividades, Innovación educativa
 ```
@@ -25,4 +25,4 @@ Ejemplo de entrada:
 
 - [AIM Open Textbook Initiative](https://textbooks.aimath.org/)
 - [Open Textbook Library](https://open.umn.edu/opentextbooks/)
-- Repositorios institucionales de didáctica de la matemática (UGR, etc.)
+- [Edumat-Maestros (UGR)](https://www.ugr.es/~jgodino/edumat-maestros/)

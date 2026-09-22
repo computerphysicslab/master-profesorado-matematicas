@@ -35,6 +35,16 @@ Cada título enlaza a su **ficha**. Para uso por materia, ver **[POR-ASIGNATURA.
 | Educational Psychology (Seifert & Sutton) | [seifert-sutton-…](psicologia/seifert-sutton-educational-psychology.md) |
 | Principles of Psychological Assessment (Petersen) | [petersen-…](psicologia/petersen-psychological-assessment.md) |
 
+
+## Educación emocional en el profesorado
+
+| Título | Ficha |
+|--------|--------|
+| La formación emocional del profesorado (Darder et al.) | [darder-…](educacion-emocional/darder-formacion-emocional-profesorado.md) |
+| Desarrollo de competencias sociales y emocionales… (Izquierdo) | [izquierdo-…](educacion-emocional/izquierdo-competencias-socioemocionales-profesorado.md) |
+| Guía socioemocional para el docente — CASEL (Save the Children) | [savethechildren-…](educacion-emocional/savethechildren-guia-socioemocional-docentes.md) |
+| SEL Toolkit for Teachers (Erasmus+) | [erasmus-…](educacion-emocional/erasmus-sel-toolkit-teachers.md) |
+
 ## IA y listados
 
 | Título | Ficha |

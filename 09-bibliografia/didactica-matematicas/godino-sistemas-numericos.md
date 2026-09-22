@@ -4,7 +4,7 @@
 |-------|--------|
 | **Autores** | Eva Cid, Juan D. Godino, Carmen Batanero |
 | **Idioma** | Español |
-| **Acceso** | [Edumat-Maestros](http://www.ugr.es/~jgodino/edumat-maestros/) |
+| **Acceso** | [Edumat-Maestros](https://www.ugr.es/~jgodino/edumat-maestros/) |
 | **Formato** | PDF de acceso abierto |
 | **Licencia** | Acceso abierto (proyecto Edumat-Maestros / UGR) |
 
@@ -22,4 +22,4 @@ Trata los sistemas numéricos (naturales, enteros, racionales, decimales) desde 
 
 ## Cómo citar
 
-Cid, E., Godino, J. D. y Batanero, C. (2003). *Sistemas numéricos y su didáctica para maestros*. Universidad de Granada. http://www.ugr.es/~jgodino/edumat-maestros/
+Cid, E., Godino, J. D. y Batanero, C. (2003). *Sistemas numéricos y su didáctica para maestros*. Universidad de Granada. https://www.ugr.es/~jgodino/edumat-maestros/

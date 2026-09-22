@@ -13,4 +13,4 @@ Fichas (prioridad a recursos en **español** de acceso abierto):
 | Stoffdidaktik Mathematik (Etzold) | DE | [etzold-stoffdidaktik](etzold-stoffdidaktik.md) |
 | Secondary school mathematics (Ben-Ari) | EN | [ben-ari-secondary-mathematics](ben-ari-secondary-mathematics.md) |
 
-Portal del proyecto: [Edumat-Maestros (UGR)](http://www.ugr.es/~jgodino/edumat-maestros/).
+Portal del proyecto: [Edumat-Maestros (UGR)](https://www.ugr.es/~jgodino/edumat-maestros/).
