@@ -1,5 +1,0 @@
-# Apuntes — Diseño de actividades para el aprendizaje de Matemáticas
-
-Índice de apuntes, conceptos clave, esquemas y resúmenes de **Diseño de actividades para el aprendizaje de Matemáticas**.
-
-> Los contenidos se irán incorporando durante el curso.
