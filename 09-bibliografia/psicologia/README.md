@@ -1,3 +1,8 @@
-# Psicologia
+# Psicología del desarrollo, del aprendizaje y educativa
 
-Espacio de trabajo para esta temática dentro del repositorio del Máster de Profesorado de Matemáticas.
+| Recurso | Ficha |
+|---------|--------|
+| Educational Psychology (Seifert & Sutton) | [seifert-sutton-educational-psychology.md](seifert-sutton-educational-psychology.md) |
+| Principles of Psychological Assessment (Petersen) | [petersen-psychological-assessment.md](petersen-psychological-assessment.md) |
+
+Cada ficha incluye resumen, licencia, enlace y **usos por asignatura del máster**.

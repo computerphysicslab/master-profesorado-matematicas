@@ -1,3 +1,4 @@
-# Ia
+# IA (alias)
 
-Espacio de trabajo para esta temática dentro del repositorio del Máster de Profesorado de Matemáticas.
+Esta carpeta apunta al mismo ámbito que [educacion-ia/](../educacion-ia/).  
+Consultar allí el catálogo de recursos de inteligencia artificial y tecnología educativa.

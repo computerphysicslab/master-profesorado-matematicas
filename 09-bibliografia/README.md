@@ -1,7 +1,15 @@
 # Bibliografía
 
-Sección del repositorio del Máster de Profesorado de Matemáticas.
+Recopilación de referencias abiertas (libros y recursos en PDF o GitHub) para el Máster de Profesorado — especialidad Matemáticas.
 
-Esta carpeta se utilizará para organizar documentación, apuntes, recursos y evidencias relacionadas con **Bibliografía**.
+**Criterio:** solo materiales con licencia abierta, dominio público o publicación libre por autores/instituciones.
 
-Los materiales se incorporarán progresivamente durante el curso académico.
+## Cómo navegar
+
+| Entrada | Descripción |
+|---------|-------------|
+| **[POR-ASIGNATURA.md](POR-ASIGNATURA.md)** | Índice inverso: asignatura → libros recomendados |
+| **[INDICE.md](INDICE.md)** | Listado de todos los títulos con enlace a su ficha |
+| Carpetas temáticas | `didactica-matematicas/`, `matematicas/`, `psicologia/`, etc. |
+
+Cada **ficha** (un `.md` por libro) incluye: metadatos, resumen, usos por asignatura y cómo citar.
