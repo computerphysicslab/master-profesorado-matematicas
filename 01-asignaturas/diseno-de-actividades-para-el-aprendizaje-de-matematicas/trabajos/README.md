@@ -1,1 +1,0 @@
-# Trabajos — Diseño de actividades para el aprendizaje de Matemáticas Registro de actividades, tareas, prácticas, ejercicios y entregas relacionadas con **Diseño de actividades para el aprendizaje de Matemáticas**.
