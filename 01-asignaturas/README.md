@@ -26,6 +26,8 @@ Cada asignatura tiene su propia carpeta dentro de `01-asignaturas/`.
 ├── practicum-ii/
 ├── trabajo-fin-de-master/
 │
+├── practicum/          ← diario, centro, aula, actividades, reflexiones (anonimizado)
+│
 └── optativas/
     ├── educacion-emocional-en-el-profesorado/
     ├── prevencion-y-resolucion-de-conflictos/
@@ -72,6 +74,8 @@ Estas asignaturas constituyen el núcleo específico de la especialidad de Matem
 | --- | --- |
 | [Practicum II](practicum-ii/) | Obligatoria |
 | [Trabajo Fin de Máster — Especialidad Matemáticas](trabajo-fin-de-master/) | Obligatoria |
+│
+├── practicum/          ← diario, centro, aula, actividades, reflexiones (anonimizado)
 
 El TFM integrará los conocimientos adquiridos durante el Máster y podrá relacionarse con la didáctica de las Matemáticas, la innovación educativa, las metodologías activas, la tecnología educativa, Python, la Inteligencia Artificial u otras líneas de investigación educativa.
 
