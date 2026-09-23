@@ -7,6 +7,9 @@ Los enlaces apuntan a las fichas en este directorio (resumen + usos detallados).
 
 ## Psicología del desarrollo y de la educación
 
+**Ensayo del máster:** [Trastornos de conducta, frustración y ansiedad en el aula](../01-asignaturas/psicologia-del-desarrollo-y-de-la-educacion/trabajos/ensayo-trastornos-conducta-frustracion-ansiedad-aula.md) (ejemplos de gestión en Matemáticas e Inglés).
+
+
 | Prioridad | Recurso | Ficha |
 |-----------|---------|--------|
 | Alta | *Educational Psychology* (Seifert & Sutton) | [psicologia/seifert-sutton-…](psicologia/seifert-sutton-educational-psychology.md) |
