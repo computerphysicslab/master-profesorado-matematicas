@@ -17,13 +17,21 @@ La optativa no forma terapeutas: el rol del profesor es **observar, prevenir, en
 | **[glosario.md](glosario.md)** | Terminología: eustrés, distrés, inteligencia emocional, SEL, burnout, regulación, ansiedad matemática, CASEL, etc. |
 | **[bibliografia.md](bibliografia.md)** | Recursos abiertos (PDF) y referencias académicas clave |
 
+## Apuntes
+
+| Archivo | Tema |
+|---------|------|
+| [01-inteligencia-emocional-contexto.md](apuntes/01-inteligencia-emocional-contexto.md) | Inteligencia emocional y su contexto |
+| [02-naturaleza-de-la-emocion.md](apuntes/02-naturaleza-de-la-emocion.md) | Naturaleza de la emoción |
+| [03-competencias-emocionales-instrumentos.md](apuntes/03-competencias-emocionales-instrumentos.md) | Competencias emocionales e instrumentos |
+
 ## Carpetas
 
 | Carpeta | Uso |
 |---------|-----|
-| `apuntes/` | Apuntes y resúmenes (compartibles) |
+| `apuntes/` | Apuntes y resúmenes |
 | `materiales/` | Recursos docentes y documentación |
-| `trabajos/` | Entregas personales — **no se versionan** (ver `.gitignore`) |
+| `trabajos/` | Tareas, actividades y entregas de la asignatura |
 
 ## Relación con el resto del máster
 
@@ -31,9 +39,3 @@ La optativa no forma terapeutas: el rol del profesor es **observar, prevenir, en
 - Índice por asignatura: [`09-bibliografia/POR-ASIGNATURA.md`](../../../09-bibliografia/POR-ASIGNATURA.md)
 - Practicum (plantillas anonimizadas): [`01-asignaturas/practicum/`](../../practicum/)
 - Optativa afín: Prevención y resolución de conflictos
-
-## Actualizar el clon local
-
-```bash
-git pull origin main
-```
