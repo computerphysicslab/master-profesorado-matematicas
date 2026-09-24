@@ -4,10 +4,6 @@ Material de apoyo para **Diseño curricular e instruccional de Matemáticas**: m
 
 > Los porcentajes de la tabla son una **propuesta de peso relativo orientativo** de cuatro dimensiones (no sustituyen los porcentajes oficiales de evaluación de una comunidad autónoma ni de un centro). Sirven para comparar el *énfasis formativo* de cada asignatura al diseñar programaciones, unidades y actividades.
 
-![Asignaturas de Matemáticas y dimensiones curriculares](asignaturas-dimensiones-curriculares.svg)
-
-*Figura: peso orientativo de las dimensiones cultural/conceptual, cognitiva, ética/formativa y social en cada asignatura.*
-
 ---
 
 ## 1. Las asignaturas de la etapa
@@ -68,7 +64,7 @@ Los porcentajes de cada fila **suman 100 %** y expresan un *reparto de énfasis*
 
 - El peso **cultural/conceptual (~35 %)** y **cognitivo (~30–32 %)** se mantiene estable: se construye el lenguaje y los procedimientos básicos de la etapa.
 - La dimensión **ética/formativa** baja ligeramente de 1.º a 3.º (20 % → 15 %) y la **social** sube un poco (15 % → 18 %): el alumnado gana capacidad para contextos más amplios, pero el centro sigue siendo el dominio conceptual y cognitivo.
-- **Implicación didáctica:** en estos cursos conviene no descuidar ni el significado de los objetos matemáticos ni los procesos (resolver, argumentar), e ir introduciendo situaciones con lectura social de datos sin convertir la materia en solo «aplicaciones».
+- **Implicación didáctica:** no descuidar ni el significado de los objetos matemáticos ni los procesos (resolver, argumentar), e ir introduciendo situaciones con lectura social de datos sin convertir la materia en solo «aplicaciones».
 
 ### 3.2. El corte de 4.º ESO: opción A vs opción B
 
@@ -81,25 +77,22 @@ Es el **cambio más nítido** de la etapa obligatoria:
 | Cognitiva | 25 % | **35 %** |
 | Ética / formativa | 20 % | 15 % |
 
-- **A** se desplaza hacia lo **social y aplicado**: más peso de contextos, interpretación de información y utilidad percibida; menos formalización relativa.
-- **B** se desplaza hacia lo **conceptual y cognitivo**: más formalización, mayor exigencia de razonamiento estructurado y preparación del itinerario científico.
-- **Implicación:** no es «la misma materia con distinto nombre». Las actividades, el tipo de problemas, el rigor de la notación y el papel de la modelización social deben diseñarse de forma distinta. Orientar mal al alumnado en 4.º tiene consecuencias en Bachillerato.
+- **A** se desplaza hacia lo **social y aplicado**.  
+- **B** se desplaza hacia lo **conceptual y cognitivo**.  
+- No es la misma materia con distinto nombre: cambian el tipo de problemas, el rigor de la notación y el papel de la modelización.
 
 ### 3.3. Matemáticas I y II (Bachillerato científico)
 
-- Progresión clara hacia el **máximo peso cultural/conceptual** (45 % → **50 %**) y **cognitivo** (35 % → **38 %**).
-- Las dimensiones **ética/formativa** y **social** se reducen de forma notable (hasta 8 % y 4 % en II).
-- **No significa** que dejen de importar el rigor ético o el uso social del conocimiento; significa que el *diseño dominante* de la materia prioriza la estructura formal de la disciplina y la potencia de cálculo/razonamiento exigidos en la etapa y en la selectividad / acceso a grados.
-- **Implicación:** el profesorado debe **explicitar** de vez en cuando valores (honestidad con los datos, perseverancia, error como parte del razonamiento) porque el currículum «no los carga» en el mismo porcentaje que en ESO o en Aplicadas.
+- Máximo peso **cultural/conceptual** (45 % → 50 %) y **cognitivo** (35 % → 38 %).  
+- Ético/formativo y social quedan muy reducidos en el diseño dominante.  
+- Hay que **explicitar** de vez en cuando valores y usos sociales, porque el propio peso de la materia no los garantiza.
 
 ### 3.4. Matemáticas Aplicadas a las Ciencias Sociales I y II
 
-- El peso **social** es el más alto del mapa (**35 %** y **33 %**).
-- Cultural/conceptual se mantiene en **25 %**; lo cognitivo sube ligeramente en II (25 % → 30 %).
-- Comparadas con Matemáticas I/II, aquí la modelización, la estadística, la interpretación de medios y la toma de decisiones con datos tienen **prioridad de diseño**.
-- **Implicación:** no son «Matemáticas fáciles», sino **otra arquitectura de énfasis**: menos formalización abstracta por sí misma, más competencia para leer el mundo cuantitativo social y económico.
+- Máximo peso **social** (35 % / 33 %).  
+- No son «mates fáciles»: son otra arquitectura de énfasis (estadística, optimización, lectura de datos del entorno social y económico).
 
-### 3.5. Comparación global (lectura rápida)
+### 3.5. Comparación global
 
 ```text
 Más formal / disciplinar  ────────────────────────  Más contextual / social
@@ -107,26 +100,99 @@ Más formal / disciplinar  ─────────────────�
   Mat. II  Mat. I  Mat. B (4.º)  Mat. 1.º–3.º  Mat. A (4.º)  Aplicadas CCSS
 ```
 
-- **Máximo polo disciplinar:** Matemáticas II.  
-- **Máximo polo social:** Aplicadas a las CCSS (y, en ESO, Matemáticas A de 4.º).  
-- **Puente de decisión:** 4.º ESO A/B.
+---
+
+## 4. Ejemplos concretos de temario (qué entra con más naturalidad en cada énfasis)
+
+La misma *familia* de saberes puede tratarse de formas muy distintas. Los ejemplos siguientes ilustran **qué tipo de tarea** refuerza cada dimensión y **en qué asignatura** suele tener más peso.
+
+### 4.1. Funciones y gráficas
+
+| Énfasis | Ejemplo de tarea / saber | Asignaturas donde encaja mejor |
+|---------|--------------------------|--------------------------------|
+| **Cultural / conceptual** | Definir función, dominio y recorrido; distinguir función de relación; interpretar la pendiente como razón de cambio *en el lenguaje de la disciplina* | 3.º–4.º B, Matemáticas I |
+| **Cognitiva** | Analizar monotonía y extremos a partir de la derivada; demostrar una propiedad sencilla de una función lineal o cuadrática; conectar tabla–gráfica–fórmula | 4.º B, Matemáticas I y II |
+| **Ética / formativa** | Discutir por qué no se debe «forzar» una recta de regresión cuando el diagrama de dispersión no la sugiere; reconocer el error de lectura de una escala engañosa | Todas (con más peso relativo en ESO y Aplicadas) |
+| **Social** | Interpretar la gráfica de la evolución del precio de un alquiler o de la tasa de paro; criticar un titular que confunde incremento absoluto y relativo | 4.º A, Aplicadas a las CCSS I–II |
+
+**Contraste claro:** en **Matemáticas II** una función racional se estudia por su comportamiento asintótico y su papel en modelos formales; en **Aplicadas CCSS** la misma idea de «tendencia» se trabaja con series temporales de indicadores sociales o económicos, sin exigir el aparato de límites al mismo nivel.
+
+### 4.2. Estadística y probabilidad
+
+| Énfasis | Ejemplo de tarea / saber | Asignaturas donde encaja mejor |
+|---------|--------------------------|--------------------------------|
+| **Cultural / conceptual** | Media, mediana, desviación típica como *conceptos*; qué resume cada parámetro y qué no | 2.º–3.º ESO, 4.º A/B |
+| **Cognitiva** | Elegir el gráfico adecuado; calcular e interpretar tipificación; probabilidad condicionada y teorema de Bayes en formulaciones exigentes | 4.º B, Matemáticas I; en II, distribuciones y contraste de ideas más formales según currículo |
+| **Ética / formativa** | Detectar sesgo muestral; no generalizar desde una muestra de conveniencia; citar la fuente de los datos | ESO (sobre todo 3.º–4.º) y Aplicadas |
+| **Social** | Encuesta del centro sobre hábitos de sueño; leer un sondeo electoral y sus márgenes; probabilidad en seguros o en cribados sanitarios (idea de falsos positivos) | **4.º A**, **Aplicadas CCSS I–II** (aquí es núcleo del temario) |
+
+**Qué no suele ser central en Matemáticas II:** el diseño de una encuesta ciudadana o el debate prolongado sobre un gráfico de medios. **Qué sí es central en II:** el manejo simbólico y el razonamiento estructurado (p. ej. inducción, matrices, geometría analítica según bloque), más que el caso social extendido.
+
+### 4.3. Álgebra y ecuaciones
+
+| Énfasis | Ejemplo de tarea / saber | Asignaturas donde encaja mejor |
+|---------|--------------------------|--------------------------------|
+| **Cultural / conceptual** | Sentido del símbolo; equivalencia de ecuaciones; parámetro como número genérico | 1.º–3.º ESO, 4.º B, Matemáticas I |
+| **Cognitiva** | Resolver sistemas con justificación de cada paso; discutir número de soluciones; plantear y resolver un problema reduciéndolo a ecuación | 4.º B, Matemáticas I–II |
+| **Ética / formativa** | No «inventar» una solución que no cumple la ecuación original; revisar la solución en el contexto (¿tiene sentido una longitud negativa?) | Todo ESO (muy visible en 1.º–2.º) |
+| **Social** | Sistemas que modelan ofertas de telefonía, mezclas de precios o repartos de presupuestos de un colectivo | 4.º A, Aplicadas CCSS |
+
+**Contraste 4.º A vs B:** en **A**, un sistema 2×2 puede vivir dentro de un problema de «dos tarifas de gimnasio»; en **B**, el mismo sistema se usa también para insistir en el método (sustitución, igualación, matriz) y en la discusión formal de coeficientes.
+
+### 4.4. Geometría
+
+| Énfasis | Ejemplo de tarea / saber | Asignaturas donde encaja mejor |
+|---------|--------------------------|--------------------------------|
+| **Cultural / conceptual** | Definiciones de figura, lugar geométrico, vector; teorema de Pitágoras como relación estructural | 1.º–3.º ESO, 4.º B, Matemáticas I |
+| **Cognitiva** | Demostrar una propiedad en un triángulo; geometría analítica del plano; razonar con transformaciones | 4.º B, Matemáticas I–II |
+| **Ética / formativa** | Precisión en el dibujo y en las unidades; no afirmar una igualdad sin criterio | ESO |
+| **Social** | Planos de una habitación a escala; accesibilidad (anchura mínima de un pasillo); reparto de parcelas | 4.º A (y proyectos en ESO) |
+
+**En Matemáticas II** (según currículo): geometría en el espacio, ecuaciones de rectas y planos, con fuerte carga **conceptual y cognitiva**. **En Aplicadas** ese bloque espacial formal apenas aparece; el tiempo se dedica a estadística, probabilidad y optimización con sentido social.
+
+### 4.5. Análisis (límites, derivadas, integrales) — Bachillerato
+
+| Énfasis | Ejemplo de tarea / saber | Asignatura |
+|---------|--------------------------|-----------|
+| **Cultural / conceptual** | Definición de derivada como límite; interpretación de la integral definida | **Matemáticas I–II** (núcleo) |
+| **Cognitiva** | Calcular derivadas y estudiar una función; aplicar la integral al área; resolver un problema de optimización *matemático* | **Matemáticas I–II** |
+| **Ética / formativa** | Explicitar hipótesis del modelo (¿la función es derivable en ese punto?); no extrapolar fuera del intervalo de datos | I–II (puntual pero importante) |
+| **Social** | Optimizar coste/beneficio de una empresa con función de beneficio; interpretar la derivada como ritmo de crecimiento de una magnitud económica | **Aplicadas CCSS II** (optimización y funciones en contexto); en I–II el contexto es secundario frente al método |
+
+**Regla práctica:** si el objetivo del ejercicio es *dominar la regla de la cadena*, es Matemáticas I/II. Si el objetivo es *decidir una tarifa o un stock con una función de coste*, es Aplicadas (o 4.º A), aunque aparezca una derivada sencilla.
+
+### 4.6. Un mismo saber, dos diseños de unidad (resumen)
+
+**Saber:** proporcionalidad y porcentajes.
+
+| En 1.º–2.º ESO (equilibrio) | En 4.º A / Aplicadas (social) | En 4.º B / Mat. I (conceptual-cognitivo) |
+|-----------------------------|-------------------------------|------------------------------------------|
+| Fracción, razón, porcentaje como objetos; problemas de descuentos cotidianos | IPC, tipos de interés simples, lectura de nóminas o facturas, comparativas de ofertas | Tanto por ciento como operador; encadenamiento de variaciones; precisión algebraica del factor de proporcionalidad |
+
+**Saber:** matrices (cuando el currículo las incluye).
+
+| Matemáticas II | Aplicadas CCSS |
+|----------------|----------------|
+| Álgebra matricial, rango, sistemas con argumento formal | Matrices de pago, transiciones sencillas, organización de datos tabulares en contextos económicos |
 
 ---
 
-## 4. Cómo usar esta tabla al diseñar instrucción
+## 5. Cómo usar esto al diseñar instrucción
 
-1. **Programación de aula:** si impartes Matemáticas II, planifica actividades que *explícitamente* recuperen lo social o ético (debate breve sobre un uso sesgado de un gráfico, normas de trabajo en equipo), porque el peso «natural» de la materia no lo garantiza.
-2. **4.º ESO:** alinea rúbricas y tipos de problema con A o B; evita usar el mismo examen con distinta nota de corte.
-3. **Atención a la diversidad:** un mismo contenido (p. ej. funciones) puede enseñarse con énfasis social (Aplicadas, Mat. A) o con énfasis de formalización y demostración (Mat. B, I, II).
-4. **Coherencia vertical:** de 1.º ESO a Bachillerato, la dimensión cognitiva no «aparece de golpe» en I; se prepara desde el razonamiento en ESO, pero el salto A/B y el de Bachillerato científico hay que **comunicarlo** a familias y alumnado.
+1. **Elige el énfasis antes que el ejercicio:** ¿quiero hoy formalizar el concepto, entrenar el procedimiento, formar el criterio ético o leer un contexto social?
+2. **4.º ESO:** no uses el mismo examen para A y B cambiando solo la nota de corte; cambia el *tipo* de ítem (más contexto vs. más formalización).
+3. **Bachillerato científico:** reserva ratos breves para lo ético/social (gráfico engañoso, hipótesis de un modelo); de lo contrario desaparecen del diseño.
+4. **Aplicadas:** no conviertas la asignatura en solo comentarios de prensa: mantiene exigencia cognitiva (cálculo, elección de modelo, interpretación cuantitativa rigurosa).
+5. **Coherencia vertical:** comunica a familias y alumnado que el salto A/B y el de Matemáticas I/II es de *énfasis*, no solo de «más dificultad».
 
 ---
 
-## 5. Precauciones
+## 6. Precauciones
 
 - Los porcentajes son **heurísticos de diseño**, no prescripción legal.
 - Consulta siempre el currículo autonómico vigente (saberes básicos, competencias específicas, criterios de evaluación) al redactar la programación de departamento.
 - Una dimensión con poco porcentaje **no se elimina**; se integra de forma más puntual y consciente.
+- Los ejemplos de temario son **ilustrativos**; la distribución exacta de saberes depende del decreto y de la programación de centro.
 
 ---
 
