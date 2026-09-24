@@ -65,7 +65,7 @@ Relevantes para conectar la educación emocional del docente con el aula de **Ma
 |-------------|--------------|
 | Formar *tu* competencia emocional como docente | Darder et al.; guía CASEL (Save the Children); Izquierdo |
 | Diseñar o justificar un programa SEL en el centro | Durlak et al. (2011); toolkit Erasmus+; CASEL |
-| Relacionar emociones y aprendizaje de Matemáticas | Barroso et al. (2021); Aldrup et al. (2020); ensayo del repo (ver abajo) |
+| Relacionar emociones y aprendizaje de Matemáticas | Barroso et al. (2021); Aldrup et al. (2020) |
 | Observar el clima emocional en el Practicum | Darder; Seifert & Sutton; guía CASEL (autoevaluación) |
 | Conflictos, agresividad y desregulación | Pedrini et al. (2022); Smith et al. (2026); UNESCO (2019) |
 
@@ -74,8 +74,8 @@ Relevantes para conectar la educación emocional del docente con el aula de **Ma
 ## 4. Material del propio repositorio
 
 - Fichas detalladas (resumen + usos por asignatura): [`09-bibliografia/educacion-emocional/`](../../../09-bibliografia/educacion-emocional/)
-- Ensayo formativo (ejemplos de aula Matemáticas/Inglés): si lo tienes en local bajo `trabajos/` (carpeta **no versionada** por `.gitignore`), úsalo como puente entre teoría y práctica. No se publica en GitHub para evitar plagio entre compañeros.
-- Practicum anonimizado (diario, reflexiones, clima de aula): [`01-asignaturas/practicum/`](../../practicum/) cuando esté disponible en el árbol del repo.
+- Apuntes del bloque A: [`apuntes/`](apuntes/)
+- Practicum (plantillas anonimizadas): [`01-asignaturas/practicum/`](../../practicum/)
 
 ---
 
