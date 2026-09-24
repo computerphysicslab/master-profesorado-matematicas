@@ -1,1 +1,5 @@
-# Apuntes — Diseño curricular e instruccional de Matemáticas Índice de apuntes, conceptos clave, esquemas y resúmenes de **Diseño curricular e instruccional de Matemáticas**. > Los contenidos se irán incorporando durante el curso.
+# Apuntes — Diseño curricular e instruccional de Matemáticas
+
+| Tema | Archivo |
+|------|--------|
+| 1. Matemáticas escolares: fines, estructura curricular y evolución histórica | [01-matematicas-escolares-fines-curriculo-evolucion.md](01-matematicas-escolares-fines-curriculo-evolucion.md) |
