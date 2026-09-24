@@ -28,6 +28,7 @@
 | **2. Naturaleza de la emoción** | Emoción, sentimiento, estado de ánimo, afecto; componentes (fisiológico, cognitivo, conductual); emociones básicas y complejas; eustrés y distrés | ¿Cómo se manifiesta la frustración o la ansiedad en una clase de Matemáticas? |
 | **3. Competencias emocionales e instrumentos** | Modelo pentagonal (conciencia, regulación, autonomía, competencia social, competencias para la vida y el bienestar); marco CASEL; autoevaluación orientativa (no clínica) | ¿Qué competencia necesito reforzar yo como futuro docente? |
 
+**Apuntes:** [tema 1](apuntes/01-inteligencia-emocional-contexto.md) · [tema 2](apuntes/02-naturaleza-de-la-emocion.md) · [tema 3](apuntes/03-competencias-emocionales-instrumentos.md)  
 **Lecturas sugeridas:** Darder et al.; guía CASEL (Save the Children); [bibliografía](bibliografia.md) §1–2.
 
 ---
@@ -66,7 +67,7 @@ Ajustar a horas reales del plan de estudios:
 | 1–2 | A (temas 1–3) | Mapa personal de competencias + glosario activo |
 | 3–5 | B (temas 4–7) | Breve reseña crítica de un texto abierto |
 | 6–8 | C (temas 8–10) | Diseño de una intervención de aula o de tutoría |
-| Cierre | Integración | Reflexión final / portfolio (carpeta `trabajos/`, local) |
+| Cierre | Integración | Reflexión final / portfolio |
 
 ---
 
@@ -90,8 +91,6 @@ Solo a título ilustrativo; prevalece la guía oficial:
 - Trabajo escrito o portfolio (análisis de caso, diseño de actividad, autoevaluación de competencias)  
 - Prueba o presentación según determine el centro  
 
-Los entregables personales se guardan en `trabajos/` (**no versionar** en Git público; ver `.gitignore`).
-
 ---
 
 ## Materiales del repositorio
@@ -100,6 +99,7 @@ Los entregables personales se guardan en `trabajos/` (**no versionar** en Git p�
 |---------|------|
 | Bibliografía comentada | [bibliografia.md](bibliografia.md) |
 | Glosario de términos | [glosario.md](glosario.md) |
+| Apuntes del bloque A | [apuntes/](apuntes/) |
 | Fichas PDF abiertos | [`09-bibliografia/educacion-emocional/`](../../../09-bibliografia/educacion-emocional/) |
 | Practicum (plantillas anonimizadas) | [`01-asignaturas/practicum/`](../../practicum/) |
 
