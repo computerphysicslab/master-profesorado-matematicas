@@ -1,7 +1,8 @@
-# Tema 1 · Matemáticas escolares: fines educativos, estructura curricular y evolución histórica
+# Bloques 1 y 2 · Matemáticas escolares: fines educativos, estructura curricular y evolución histórica
 
 **Asignatura:** Diseño curricular e instruccional de Matemáticas  
-**Máster en Profesorado de Educación Secundaria** · Especialidad Matemáticas
+**Máster en Profesorado de Educación Secundaria** · Especialidad Matemáticas  
+**Programa:** [bloques 1 (finalidades) y 2 (cambios curriculares LGE→LOMLOE)](../programa.md)
 
 Basado en el capítulo de **Luis Rico Romero**, *Elementos de didáctica de la matemática para el profesor de Secundaria* (Ed. Pirámide).
 
@@ -256,5 +257,6 @@ Indica si cada afirmación es **Verdadera (V)** o **Falsa (F)**.
 ## Referencias y material relacionado
 
 - Rico Romero, L. Capítulo en *Elementos de didáctica de la matemática para el profesor de Secundaria*. Ed. Pirámide.
+- [Programa de la asignatura (9 bloques)](../programa.md)
 - [Asignaturas ESO/Bachillerato y dimensiones curriculares](../materiales/asignaturas-eso-bachillerato/)
 - Normativa: LOMLOE (LO 3/2020), RD 217/2022, órdenes autonómicas de desarrollo curricular.
