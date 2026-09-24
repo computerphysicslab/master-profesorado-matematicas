@@ -4,7 +4,7 @@ Material de apoyo para **Diseño curricular e instruccional de Matemáticas**: m
 
 > Los porcentajes de la tabla son una **propuesta de peso relativo orientativo** de cuatro dimensiones (no sustituyen los porcentajes oficiales de evaluación de una comunidad autónoma ni de un centro). Sirven para comparar el *énfasis formativo* de cada asignatura al diseñar programaciones, unidades y actividades.
 
-![Asignaturas de Matemáticas y dimensiones curriculares](asignaturas-dimensiones-curriculares.png)
+![Asignaturas de Matemáticas y dimensiones curriculares](asignaturas-dimensiones-curriculares.svg)
 
 *Figura: peso orientativo de las dimensiones cultural/conceptual, cognitiva, ética/formativa y social en cada asignatura.*
 
