@@ -3,12 +3,12 @@
 | Historia | Concepto | Nivel | Estado |
 |----------|----------|-------|--------|
 | Eratóstenes y el tamaño de la Tierra | Geometría, proporcionalidad | ESO | **Publicada** |
+| Arquímedes y la corona de oro | Volumen, densidad | ESO | **Publicada** |
 | Laplace y el demonio determinista | Probabilidad | Bachillerato | **Publicada** |
 | Gauss y la suma de 1 a 100 | Progresiones | ESO | **Publicada** |
 | Sophie Germain | Primos, Fermat, elasticidad | ESO/Bach. | **Publicada** |
 | Euler y los puentes de Königsberg | Grafos | ESO/Bach. | **Publicada** |
 | Fibonacci y los conejos | Sucesiones, recurrencia | ESO | **Publicada** |
-| Arquímedes y la corona de oro | Volumen, densidad | ESO | Prevista |
 | Newton y Leibniz | Derivadas, integrales | Bachillerato | Prevista |
 | Fermat y el último teorema | Potencias, demostración | ESO/Bach. | Prevista |
 | Cantor y los infinitos | Conjuntos | Bachillerato | Prevista |
