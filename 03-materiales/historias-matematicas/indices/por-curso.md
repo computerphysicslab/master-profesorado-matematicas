@@ -6,6 +6,7 @@
 |----------|-------|
 | Eratóstenes | [eratostenes-tierra.md](../fichas/eratostenes-tierra.md) |
 | Gauss | [gauss-suma-1-a-100.md](../fichas/gauss-suma-1-a-100.md) |
+| Fibonacci | [fibonacci-conejos.md](../fichas/fibonacci-conejos.md) |
 | Sophie Germain | [sophie-germain.md](../fichas/sophie-germain.md) |
 | Euler — Königsberg | [euler-puentes-konigsberg.md](../fichas/euler-puentes-konigsberg.md) |
 
@@ -17,4 +18,4 @@
 | Sophie Germain | [sophie-germain.md](../fichas/sophie-germain.md) |
 | Euler — Königsberg | [euler-puentes-konigsberg.md](../fichas/euler-puentes-konigsberg.md) |
 
-Más títulos: [catálogo](catalogo.md).
+Más: [catálogo](catalogo.md).
