@@ -4,26 +4,15 @@
 
 | Historia | Concepto | Ficha |
 |----------|----------|-------|
-| Eratóstenes y la Tierra | Geometría, proporcionalidad | [eratostenes-tierra.md](../fichas/eratostenes-tierra.md) |
-| Gauss y la suma 1–100 | Progresiones, patrones | [gauss-suma-1-a-100.md](../fichas/gauss-suma-1-a-100.md) |
-| Arquímedes y la corona | Volumen, densidad | Catálogo |
-| Fibonacci y los conejos | Sucesiones | Catálogo |
-| Descartes y las coordenadas | Sistema cartesiano | Catálogo |
-| Galileo y la caída | Funciones, proporcionalidad | Catálogo |
-| Euler y Königsberg | Grafos | Catálogo |
+| Eratóstenes | Geometría, proporcionalidad | [eratostenes-tierra.md](../fichas/eratostenes-tierra.md) |
+| Gauss | Progresiones, patrones | [gauss-suma-1-a-100.md](../fichas/gauss-suma-1-a-100.md) |
+| Sophie Germain | Primos, potencias, perseverancia | [sophie-germain.md](../fichas/sophie-germain.md) |
+| Arquímedes, Fibonacci, Descartes, Galileo, Euler (Königsberg) | Ver [catálogo](catalogo.md) |
 
 ## Bachillerato
 
 | Historia | Concepto | Ficha |
 |----------|----------|-------|
-| Laplace y el demonio | Probabilidad, determinismo | [laplace-demonio.md](../fichas/laplace-demonio.md) |
-| Newton y Leibniz | Derivadas, integrales | Catálogo |
-| Pascal y los puntos | Probabilidad | Catálogo |
-| Bayes | Probabilidad condicionada | Catálogo |
-| Cantor y los infinitos | Conjuntos | Catálogo |
-| Turing | Algoritmos, computabilidad | Catálogo |
-| Ada Lovelace | Algoritmos | Catálogo |
-
-## ESO y Bachillerato (según profundidad)
-
-Fermat, Kepler, Mandelbrot, Nash, Galois, Emmy Noether, Maryam Mirzakhani — ver [catálogo](catalogo.md).
+| Laplace | Probabilidad, determinismo | [laplace-demonio.md](../fichas/laplace-demonio.md) |
+| Sophie Germain | Fermat, demostración parcial, elasticidad | [sophie-germain.md](../fichas/sophie-germain.md) |
+| Newton/Leibniz, Pascal, Bayes, Cantor, Turing, Noether, Galois… | [Catálogo](catalogo.md) |
