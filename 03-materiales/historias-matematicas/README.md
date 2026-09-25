@@ -12,7 +12,7 @@ Historia → pregunta / problema → intentos → idea matemática
 ## Criterios de calidad
 
 - La pregunta inicial debe hacer *necesaria* la herramienta matemática.
-- El relato es riguroso: se evita la mitología escolar sin matices (p. ej. «la manzana» como única explicación de Newton).
+- El relato es riguroso: se evita la mitología escolar sin matices.
 - Hay puente claro al objeto matemático y al nivel (ESO / Bachillerato).
 - Cierra con una tarea para el alumnado, no solo con la anécdota.
 
@@ -30,12 +30,11 @@ Historia → pregunta / problema → intentos → idea matemática
 | Ficha | Concepto | Nivel |
 |-------|----------|-------|
 | [Eratóstenes y el tamaño de la Tierra](fichas/eratostenes-tierra.md) | Geometría, proporcionalidad, medida | ESO |
+| [Gauss y la suma de 1 a 100](fichas/gauss-suma-1-a-100.md) | Progresiones, patrones, fórmula $S_n$ | ESO |
 | [Laplace y el demonio determinista](fichas/laplace-demonio.md) | Probabilidad, incertidumbre, modelización | Bachillerato |
 
 ## Relación con el resto del repo
 
-- [Diseño curricular — banco de problemas y generatrices](../01-asignaturas/diseno-curricular-e-instruccional-de-matematicas/materiales/banco-problemas/) — *ruta relativa desde `01-asignaturas/...` si se enlaza desde allí*
-- Asignaturas naturales de uso: **Diseño de actividades**, **Diseño curricular**, **Contenidos disciplinares**
-- Fuentes y lecturas largas: [09-bibliografia](../09-bibliografia/)
-
-> Ruta correcta a Diseño curricular desde aquí: [`../../01-asignaturas/diseno-curricular-e-instruccional-de-matematicas/materiales/`](../../01-asignaturas/diseno-curricular-e-instruccional-de-matematicas/materiales/)
+- Diseño curricular (problemas, generatrices, fichas de objetos): [`../../01-asignaturas/diseno-curricular-e-instruccional-de-matematicas/materiales/`](../../01-asignaturas/diseno-curricular-e-instruccional-de-matematicas/materiales/)
+- Asignaturas de uso natural: **Diseño de actividades**, **Diseño curricular**, **Contenidos disciplinares**
+- Fuentes: [09-bibliografia](../09-bibliografia/)
