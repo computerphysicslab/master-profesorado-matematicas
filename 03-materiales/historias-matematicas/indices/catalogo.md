@@ -12,9 +12,9 @@
 | Fibonacci y los conejos | Sucesiones | ESO | **Publicada** |
 | Fermat (obra y último teorema) | Números, demostración | ESO/Bach. | **Publicada** |
 | Galois | Ecuaciones, grupos | Bachillerato | **Publicada** |
+| Pascal y el problema de los puntos | Probabilidad, esperanza | Bachillerato | **Publicada** |
 | Newton y Leibniz | Derivadas, integrales | Bachillerato | Prevista |
 | Cantor y los infinitos | Conjuntos | Bachillerato | Prevista |
-| Pascal y el problema de los puntos | Probabilidad | Bachillerato | Prevista |
 | Bayes | Probabilidad condicionada | Bachillerato | Prevista |
 | Galileo y la caída | Funciones | ESO | Prevista |
 | Kepler y las órbitas | Elipse | ESO/Bach. | Prevista |
