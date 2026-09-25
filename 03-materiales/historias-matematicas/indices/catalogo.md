@@ -9,9 +9,9 @@
 | Gauss y la suma de 1 a 100 | Progresiones | ESO | **Publicada** |
 | Sophie Germain | Primos, Fermat, elasticidad | ESO/Bach. | **Publicada** |
 | Euler y los puentes de Königsberg | Grafos | ESO/Bach. | **Publicada** |
-| Fibonacci y los conejos | Sucesiones, recurrencia | ESO | **Publicada** |
+| Fibonacci y los conejos | Sucesiones | ESO | **Publicada** |
+| Fermat (obra y último teorema) | Números, demostración | ESO/Bach. | **Publicada** |
 | Newton y Leibniz | Derivadas, integrales | Bachillerato | Prevista |
-| Fermat y el último teorema | Potencias, demostración | ESO/Bach. | Prevista |
 | Cantor y los infinitos | Conjuntos | Bachillerato | Prevista |
 | Pascal y el problema de los puntos | Probabilidad | Bachillerato | Prevista |
 | Bayes | Probabilidad condicionada | Bachillerato | Prevista |
