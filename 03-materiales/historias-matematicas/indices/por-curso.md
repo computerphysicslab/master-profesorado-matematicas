@@ -19,6 +19,7 @@
 |----------|-------|
 | Laplace | [laplace-demonio.md](../fichas/laplace-demonio.md) |
 | Fermat | [fermat.md](../fichas/fermat.md) |
+| Galois | [galois.md](../fichas/galois.md) |
 | Sophie Germain | [sophie-germain.md](../fichas/sophie-germain.md) |
 | Euler — Königsberg | [euler-puentes-konigsberg.md](../fichas/euler-puentes-konigsberg.md) |
 
