@@ -12,11 +12,15 @@
 | Fermat | [fermat.md](../fichas/fermat.md) |
 | Sophie Germain | [sophie-germain.md](../fichas/sophie-germain.md) |
 | Euler — Königsberg | [euler-puentes-konigsberg.md](../fichas/euler-puentes-konigsberg.md) |
+| Pascal (puntos)* | [pascal-problema-puntos.md](../fichas/pascal-problema-puntos.md) |
+
+\*Con andamiaje numérico en 3.º–4.º.
 
 ## Bachillerato
 
 | Historia | Ficha |
 |----------|-------|
+| Pascal (puntos) | [pascal-problema-puntos.md](../fichas/pascal-problema-puntos.md) |
 | Laplace | [laplace-demonio.md](../fichas/laplace-demonio.md) |
 | Fermat | [fermat.md](../fichas/fermat.md) |
 | Galois | [galois.md](../fichas/galois.md) |
