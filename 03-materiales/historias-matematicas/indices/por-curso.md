@@ -5,7 +5,7 @@
 | Historia | Concepto | Ficha |
 |----------|----------|-------|
 | Eratóstenes y la Tierra | Geometría, proporcionalidad | [eratostenes-tierra.md](../fichas/eratostenes-tierra.md) |
-| Gauss y la suma 1–100 | Progresiones, patrones | Catálogo |
+| Gauss y la suma 1–100 | Progresiones, patrones | [gauss-suma-1-a-100.md](../fichas/gauss-suma-1-a-100.md) |
 | Arquímedes y la corona | Volumen, densidad | Catálogo |
 | Fibonacci y los conejos | Sucesiones | Catálogo |
 | Descartes y las coordenadas | Sistema cartesiano | Catálogo |
