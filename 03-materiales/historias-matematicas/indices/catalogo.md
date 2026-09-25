@@ -4,6 +4,7 @@
 |----------|----------|-------|--------|
 | Eratóstenes y el tamaño de la Tierra | Geometría, proporcionalidad | ESO | **Publicada** |
 | Arquímedes y la corona de oro | Volumen, densidad | ESO | **Publicada** |
+| Descartes y las coordenadas | Geometría analítica | ESO | **Publicada** |
 | Laplace y el demonio determinista | Probabilidad | Bachillerato | **Publicada** |
 | Gauss y la suma de 1 a 100 | Progresiones | ESO | **Publicada** |
 | Sophie Germain | Primos, Fermat, elasticidad | ESO/Bach. | **Publicada** |
@@ -16,7 +17,6 @@
 | Bayes | Probabilidad condicionada | Bachillerato | Prevista |
 | Galileo y la caída | Funciones | ESO | Prevista |
 | Kepler y las órbitas | Elipse | ESO/Bach. | Prevista |
-| Descartes y las coordenadas | Sistema cartesiano | ESO | Prevista |
 | Ada Lovelace | Algoritmos | ESO/Bach. | Prevista |
 | Alan Turing | Computabilidad | Bachillerato | Prevista |
 | Emmy Noether | Simetrías | Bachillerato | Prevista |
