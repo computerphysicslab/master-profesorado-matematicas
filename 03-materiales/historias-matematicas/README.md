@@ -9,7 +9,8 @@ Historia → pregunta → intentos → idea → formalización → problema para
 | Ficha | Concepto | Nivel |
 |-------|----------|-------|
 | [Eratóstenes](fichas/eratostenes-tierra.md) | Geometría, proporcionalidad | ESO |
-| [Arquímedes (corona)](fichas/arquimedes-corona.md) | Volumen, densidad, medida | ESO |
+| [Arquímedes (corona)](fichas/arquimedes-corona.md) | Volumen, densidad | ESO |
+| [Descartes (coordenadas)](fichas/descartes-coordenadas.md) | Plano cartesiano, geometría analítica | ESO |
 | [Gauss (suma 1–100)](fichas/gauss-suma-1-a-100.md) | Progresiones, patrones | ESO |
 | [Fibonacci (conejos)](fichas/fibonacci-conejos.md) | Sucesiones, recurrencia | ESO |
 | [Laplace](fichas/laplace-demonio.md) | Probabilidad | Bachillerato |
