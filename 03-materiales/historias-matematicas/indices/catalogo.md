@@ -6,7 +6,7 @@ Lista de trabajo. **Publicada** = ficha completa en `fichas/`.
 |------------------------|------------------------|-------|--------|
 | Eratóstenes y el tamaño de la Tierra | Geometría, proporcionalidad, trigonometría elemental | ESO | **Publicada** |
 | Laplace y el demonio determinista | Probabilidad, incertidumbre, modelización | Bachillerato | **Publicada** |
-| Gauss y la suma de 1 a 100 | Progresiones, patrones, pensamiento algebraico | ESO | Prevista |
+| Gauss y la suma de 1 a 100 | Progresiones, patrones, pensamiento algebraico | ESO | **Publicada** |
 | Arquímedes y la corona de oro | Volumen, densidad, método | ESO | Prevista |
 | Newton y Leibniz: nacimiento del cálculo | Derivadas, integrales, cambio | Bachillerato | Prevista |
 | Fermat y el último teorema | Potencias, demostración, historia de un problema | ESO/Bach. | Prevista |
