@@ -1,18 +1,20 @@
-# Índice orientativo por nivel
+# Índice por nivel
 
 ## ESO
 
-| Historia | Concepto | Ficha |
-|----------|----------|-------|
-| Eratóstenes | Geometría, proporcionalidad | [eratostenes-tierra.md](../fichas/eratostenes-tierra.md) |
-| Gauss | Progresiones, patrones | [gauss-suma-1-a-100.md](../fichas/gauss-suma-1-a-100.md) |
-| Sophie Germain | Primos, potencias, perseverancia | [sophie-germain.md](../fichas/sophie-germain.md) |
-| Arquímedes, Fibonacci, Descartes, Galileo, Euler (Königsberg) | Ver [catálogo](catalogo.md) |
+| Historia | Ficha |
+|----------|-------|
+| Eratóstenes | [eratostenes-tierra.md](../fichas/eratostenes-tierra.md) |
+| Gauss | [gauss-suma-1-a-100.md](../fichas/gauss-suma-1-a-100.md) |
+| Sophie Germain | [sophie-germain.md](../fichas/sophie-germain.md) |
+| Euler — Königsberg | [euler-puentes-konigsberg.md](../fichas/euler-puentes-konigsberg.md) |
 
 ## Bachillerato
 
-| Historia | Concepto | Ficha |
-|----------|----------|-------|
-| Laplace | Probabilidad, determinismo | [laplace-demonio.md](../fichas/laplace-demonio.md) |
-| Sophie Germain | Fermat, demostración parcial, elasticidad | [sophie-germain.md](../fichas/sophie-germain.md) |
-| Newton/Leibniz, Pascal, Bayes, Cantor, Turing, Noether, Galois… | [Catálogo](catalogo.md) |
+| Historia | Ficha |
+|----------|-------|
+| Laplace | [laplace-demonio.md](../fichas/laplace-demonio.md) |
+| Sophie Germain | [sophie-germain.md](../fichas/sophie-germain.md) |
+| Euler — Königsberg | [euler-puentes-konigsberg.md](../fichas/euler-puentes-konigsberg.md) |
+
+Más títulos: [catálogo](catalogo.md).
