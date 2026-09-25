@@ -1,39 +1,28 @@
 # Materiales — Diseño curricular e instruccional de Matemáticas
 
-Recursos reutilizables (plantillas, tablas, bancos de ejemplos) que complementan los [apuntes](../apuntes/) de la asignatura.
+Recursos reutilizables que complementan los [apuntes](../apuntes/) de la asignatura.
 
 ## Contenido
 
-| Carpeta / recurso | Descripción |
-|-------------------|-------------|
-| [asignaturas-eso-bachillerato/](asignaturas-eso-bachillerato/) | Materias de Matemáticas en ESO y Bachillerato; dimensiones curriculares y ejemplos de temario |
-| [plantillas/](plantillas/) | Programación anual, unidad didáctica, génesis de un objeto, rúbrica competencial |
-| [fichas-objetos/](fichas-objetos/) | Análisis didáctico de objetos nucleares |
-| [errores-y-obstaculos/](errores-y-obstaculos/) | Banco de errores típicos por dominios |
-| [banco-problemas/](banco-problemas/) | Cuestiones generatrices y problemas ricos de aula |
+| Carpeta | Descripción |
+|---------|-------------|
+| [curriculo-lomloe/](curriculo-lomloe/) | Mapa de competencias/criterios y sentidos por curso |
+| [asignaturas-eso-bachillerato/](asignaturas-eso-bachillerato/) | Materias de Matemáticas ESO/Bachillerato y dimensiones |
+| [plantillas/](plantillas/) | Programación anual, unidad, génesis, rúbrica |
+| [fichas-objetos/](fichas-objetos/) | Fracción, función lineal, derivada, probabilidad |
+| [errores-y-obstaculos/](errores-y-obstaculos/) | Banco de errores típicos |
+| [banco-problemas/](banco-problemas/) | Cuestiones generatrices y problemas ricos |
 
-## Plantillas
+## Acceso rápido
 
-| Plantilla | Para qué |
-|-----------|----------|
-| [programacion-anual.md](plantillas/programacion-anual.md) | Secuenciar un curso |
-| [unidad-didactica.md](plantillas/unidad-didactica.md) | Diseñar una unidad |
-| [genesis-objeto.md](plantillas/genesis-objeto.md) | Trayectoria de construcción de un concepto |
-| [rubrica-competencial.md](plantillas/rubrica-competencial.md) | Evaluar procesos |
+**Currículo:** [mapa competencias–criterios](curriculo-lomloe/mapa-competencias-criterios.md) · [sentidos por curso](curriculo-lomloe/sentidos-por-curso.md)
 
-## Fichas de objetos
+**Plantillas:** [anual](plantillas/programacion-anual.md) · [unidad](plantillas/unidad-didactica.md) · [génesis](plantillas/genesis-objeto.md) · [rúbrica](plantillas/rubrica-competencial.md)
 
-[Fracción](fichas-objetos/fraccion.md) · [Función lineal](fichas-objetos/funcion-lineal.md) · [Derivada](fichas-objetos/derivada.md) · [Probabilidad](fichas-objetos/probabilidad.md)
+**Objetos:** [fracción](fichas-objetos/fraccion.md) · [función lineal](fichas-objetos/funcion-lineal.md) · [derivada](fichas-objetos/derivada.md) · [probabilidad](fichas-objetos/probabilidad.md)
 
-## Errores y problemas
+**Aula:** [errores](errores-y-obstaculos/banco-errores-tipicos.md) · [generatrices](banco-problemas/generatrices.md) · [problemas ricos](banco-problemas/problemas-ricos.md)
 
-| Recurso | Contenido |
-|---------|-----------|
-| [banco-errores-tipicos.md](errores-y-obstaculos/banco-errores-tipicos.md) | Errores por dominio + diagnóstico e intervención |
-| [generatrices.md](banco-problemas/generatrices.md) | Cuestiones de apertura por bloques de contenido |
-| [problemas-ricos.md](banco-problemas/problemas-ricos.md) | 8 problemas con estrategias, mediación y ampliación |
+## Relación con el programa (bloques 1–9)
 
-## Relación con el programa
-
-Bloques 3–4 (currículo y programación) · 5–7 (objetos y obstáculos) · 8–9 (problemas y génesis).  
-Material adicional posible: mapa competencias–criterios LOMLOE por curso.
+Currículo y programación (3–4) · objetos y obstáculos (5–7) · problemas y génesis (8–9).
