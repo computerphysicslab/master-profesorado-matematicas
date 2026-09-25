@@ -10,9 +10,10 @@ Historia → pregunta → intentos → idea → formalización → problema para
 |-------|----------|-------|
 | [Eratóstenes](fichas/eratostenes-tierra.md) | Geometría, proporcionalidad | ESO |
 | [Arquímedes (corona)](fichas/arquimedes-corona.md) | Volumen, densidad | ESO |
-| [Descartes (coordenadas)](fichas/descartes-coordenadas.md) | Plano cartesiano, geometría analítica | ESO |
-| [Gauss (suma 1–100)](fichas/gauss-suma-1-a-100.md) | Progresiones, patrones | ESO |
-| [Fibonacci (conejos)](fichas/fibonacci-conejos.md) | Sucesiones, recurrencia | ESO |
+| [Descartes (coordenadas)](fichas/descartes-coordenadas.md) | Geometría analítica | ESO |
+| [Gauss (suma 1–100)](fichas/gauss-suma-1-a-100.md) | Progresiones | ESO |
+| [Fibonacci (conejos)](fichas/fibonacci-conejos.md) | Sucesiones | ESO |
+| [Fermat](fichas/fermat.md) | Último teorema, números, descenso | ESO / Bach. |
 | [Laplace](fichas/laplace-demonio.md) | Probabilidad | Bachillerato |
 | [Sophie Germain](fichas/sophie-germain.md) | Primos, Fermat, elasticidad | ESO / Bach. |
 | [Euler — Königsberg](fichas/euler-puentes-konigsberg.md) | Grafos | ESO / Bach. |
