@@ -11,6 +11,7 @@
 | Euler y los puentes de Königsberg | Grafos | ESO/Bach. | **Publicada** |
 | Fibonacci y los conejos | Sucesiones | ESO | **Publicada** |
 | Fermat (obra y último teorema) | Números, demostración | ESO/Bach. | **Publicada** |
+| Galois | Ecuaciones, grupos | Bachillerato | **Publicada** |
 | Newton y Leibniz | Derivadas, integrales | Bachillerato | Prevista |
 | Cantor y los infinitos | Conjuntos | Bachillerato | Prevista |
 | Pascal y el problema de los puntos | Probabilidad | Bachillerato | Prevista |
@@ -20,7 +21,6 @@
 | Ada Lovelace | Algoritmos | ESO/Bach. | Prevista |
 | Alan Turing | Computabilidad | Bachillerato | Prevista |
 | Emmy Noether | Simetrías | Bachillerato | Prevista |
-| Galois | Ecuaciones | Bachillerato | Prevista |
 | Mandelbrot | Fractales | ESO/Bach. | Prevista |
 | Maryam Mirzakhani | Geometría | Bachillerato | Prevista |
 | Monty Hall | Probabilidad condicionada | Bachillerato | Prevista |
