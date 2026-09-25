@@ -9,6 +9,7 @@ Recursos reutilizables (plantillas, tablas, bancos de ejemplos) que complementan
 | [asignaturas-eso-bachillerato/](asignaturas-eso-bachillerato/) | Materias de Matemáticas en ESO y Bachillerato; dimensiones curriculares y ejemplos de temario |
 | [plantillas/](plantillas/) | Programación anual, unidad didáctica, génesis de un objeto, rúbrica competencial |
 | [fichas-objetos/](fichas-objetos/) | Análisis didáctico de objetos nucleares (significados, fenómenos, obstáculos, cuestiones generatrices) |
+| [errores-y-obstaculos/](errores-y-obstaculos/) | Banco de errores típicos por dominios, con diagnóstico e intervención |
 
 ## Plantillas disponibles
 
@@ -28,7 +29,14 @@ Recursos reutilizables (plantillas, tablas, bancos de ejemplos) que complementan
 | [Derivada](fichas-objetos/derivada.md) | Bachillerato |
 | [Probabilidad](fichas-objetos/probabilidad.md) | 2.º–4.º ESO; ampliación Bachillerato |
 
+## Errores y obstáculos
+
+| Recurso | Contenido |
+|---------|-----------|
+| [banco-errores-tipicos.md](errores-y-obstaculos/banco-errores-tipicos.md) | Números, álgebra, funciones, geometría, estadística/probabilidad, análisis, lenguaje/representaciones |
+
 ## Relación con el programa
 
 - Bloques 3–4 → currículo, programación, unidad, rúbrica  
-- Bloques 5–9 → fichas de objetos, génesis, problemas, obstáculos (próximo material sugerido: banco de errores típicos)
+- Bloques 5–9 → fichas de objetos, génesis, problemas, banco de errores  
+- Otros materiales posibles: mapa LOMLOE, banco de problemas ricos / cuestiones generatrices
