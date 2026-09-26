@@ -4,38 +4,27 @@
 
 ## Descripción
 
-Análisis de los **procesos** educativos (enseñanza, aprendizaje, evaluación, convivencia) y de los **contextos** en los que ocurren (sistema educativo, centro, aula, entorno social), con especial atención a la normativa, los paradigmas didácticos y la práctica docente en Secundaria.
+Análisis de los **procesos** educativos (enseñanza, aprendizaje, evaluación, convivencia) y de los **contextos** en los que ocurren (sistema educativo, centro, aula, entorno social).
 
 ## Programa (6 temas)
 
-Documento completo: **[programa.md](programa.md)**
+Documento: **[programa.md](programa.md)** · Bibliografía: **[bibliografia.md](bibliografia.md)**
 
-| # | Tema |
-|---|------|
-| 1 | Evolución histórica del Sistema Educativo Español y didáctica contemporánea |
-| 2 | Estructura de la Enseñanza Secundaria, FP y enseñanzas de Idiomas, Artísticas y Deportivas |
-| 3 | Los centros educativos: organización, participación y gestión |
-| 4 | Atención a la diversidad desde una perspectiva inclusiva |
-| 5 | Metodología y recursos educativos para Educación Secundaria |
-| 6 | La evaluación en los procesos de enseñanza-aprendizaje (qué, quién, cuándo, cómo) |
-
-## Apuntes publicados
-
-| Tema | Archivo |
-|------|--------|
-| 1 | [Evolución del SEE y paradigmas](apuntes/01-evolucion-historica-sistema-educativo-paradigmas.md) |
-
-Índice: [apuntes/](apuntes/)
+| # | Tema | Apunte |
+|---|------|--------|
+| 1 | Evolución histórica del SEE y didáctica contemporánea | [01](apuntes/01-evolucion-historica-sistema-educativo-paradigmas.md) |
+| 2 | Estructura de Secundaria, FP y régimen especial | [02](apuntes/02-estructura-secundaria-fp-ensenanzas-regimen-especial.md) |
+| 3 | Centros: organización, participación y gestión | [03](apuntes/03-centros-organizacion-participacion-gestion.md) |
+| 4 | Atención a la diversidad e inclusión | [04](apuntes/04-atencion-diversidad-perspectiva-inclusiva.md) |
+| 5 | Metodología y recursos en Secundaria | [05](apuntes/05-metodologia-recursos-educacion-secundaria.md) |
+| 6 | Evaluación (qué, quién, cuándo, cómo) | [06](apuntes/06-evaluacion-procesos-ensenanza-aprendizaje.md) |
 
 ## Materiales transversales
 
 | Recurso | Uso |
 |---------|-----|
-| **[DUA — Diseño Universal para el Aprendizaje](materiales/dua-diseno-universal-aprendizaje.md)** | Marco compartido (tema 4 y programaciones de otras asignaturas) |
+| **[DUA](materiales/dua-diseno-universal-aprendizaje.md)** | Diseño universal; tema 4 y programaciones de otras asignaturas |
 
 ## Carpetas
 
-- `programa.md` — programa de la asignatura  
-- `apuntes/` — desarrollos por tema  
-- `materiales/` — recursos compartidos  
-- `bibliografia.md` — referencias  
+- `programa.md` · `bibliografia.md` · `apuntes/` · `materiales/`
