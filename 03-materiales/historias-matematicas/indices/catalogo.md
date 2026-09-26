@@ -1,6 +1,6 @@
 # Catálogo de historias matemáticas
 
-**24 fichas publicadas** (catálogo inicial + Zenón).
+**25 fichas publicadas.**
 
 | Historia | Concepto | Nivel | Estado |
 |----------|----------|-------|--------|
@@ -15,6 +15,7 @@
 | Pascal y el problema de los puntos | Probabilidad, esperanza | Bachillerato | **Publicada** |
 | Newton y Leibniz | Derivadas, integrales | Bachillerato | **Publicada** |
 | Zenón (Aquiles y dicotomía) | Series, límites | ESO/Bach. | **Publicada** |
+| Dilema del prisionero | Teoría de juegos | ESO/Bach. | **Publicada** |
 | Bayes | Probabilidad condicionada | Bachillerato | **Publicada** |
 | Laplace y el demonio determinista | Probabilidad | Bachillerato | **Publicada** |
 | Monty Hall | Probabilidad condicionada | Bachillerato | **Publicada** |
