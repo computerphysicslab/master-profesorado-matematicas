@@ -48,4 +48,3 @@ Documento completo: **[programa.md](programa.md)**
 
 - `apuntes/` — desarrollos por bloque
 - `materiales/` — plantillas, bancos, fichas de objetos
-- `trabajos/` — entregas personales (no versionadas en público; ver `.gitignore`)
