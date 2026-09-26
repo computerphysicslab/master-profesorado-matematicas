@@ -1,6 +1,6 @@
 # Catálogo de historias matemáticas
 
-**Estado: colección inicial completa (23/23).**
+**24 fichas publicadas** (catálogo inicial + Zenón).
 
 | Historia | Concepto | Nivel | Estado |
 |----------|----------|-------|--------|
@@ -14,6 +14,7 @@
 | Fermat (obra y último teorema) | Números, demostración | ESO/Bach. | **Publicada** |
 | Pascal y el problema de los puntos | Probabilidad, esperanza | Bachillerato | **Publicada** |
 | Newton y Leibniz | Derivadas, integrales | Bachillerato | **Publicada** |
+| Zenón (Aquiles y dicotomía) | Series, límites | ESO/Bach. | **Publicada** |
 | Bayes | Probabilidad condicionada | Bachillerato | **Publicada** |
 | Laplace y el demonio determinista | Probabilidad | Bachillerato | **Publicada** |
 | Monty Hall | Probabilidad condicionada | Bachillerato | **Publicada** |
@@ -28,4 +29,4 @@
 | Mandelbrot | Fractales | ESO/Bach. | **Publicada** |
 | Maryam Mirzakhani | Geometría de superficies | Bachillerato | **Publicada** |
 
-Pueden añadirse más (Hipatia, Boole, Kovalevskaya, etc.) sin cerrar el catálogo.
+Pueden añadirse más (Hipatia, Boole, Kovalevskaya, etc.).
