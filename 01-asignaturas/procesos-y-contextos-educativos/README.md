@@ -6,11 +6,24 @@
 
 Análisis de los **procesos** educativos (enseñanza, aprendizaje, evaluación, convivencia) y de los **contextos** en los que ocurren (sistema educativo, centro, aula, entorno social), con especial atención a la normativa, los paradigmas didácticos y la práctica docente en Secundaria.
 
-## Apuntes
+## Programa (6 temas)
 
-| Tema | Contenido |
-|------|-----------|
-| [Tema 1 — Evolución del SEE y paradigmas](apuntes/01-evolucion-historica-sistema-educativo-paradigmas.md) | Leyes de Moyano a LOMLOE; paradigmas positivista, interpretativo y sociocrítico; didáctica contemporánea |
+Documento completo: **[programa.md](programa.md)**
+
+| # | Tema |
+|---|------|
+| 1 | Evolución histórica del Sistema Educativo Español y didáctica contemporánea |
+| 2 | Estructura de la Enseñanza Secundaria, FP y enseñanzas de Idiomas, Artísticas y Deportivas |
+| 3 | Los centros educativos: organización, participación y gestión |
+| 4 | Atención a la diversidad desde una perspectiva inclusiva |
+| 5 | Metodología y recursos educativos para Educación Secundaria |
+| 6 | La evaluación en los procesos de enseñanza-aprendizaje (qué, quién, cuándo, cómo) |
+
+## Apuntes publicados
+
+| Tema | Archivo |
+|------|--------|
+| 1 | [Evolución del SEE y paradigmas](apuntes/01-evolucion-historica-sistema-educativo-paradigmas.md) |
 
 Índice: [apuntes/](apuntes/)
 
@@ -18,10 +31,11 @@ Análisis de los **procesos** educativos (enseñanza, aprendizaje, evaluación, 
 
 | Recurso | Uso |
 |---------|-----|
-| **[DUA — Diseño Universal para el Aprendizaje](materiales/dua-diseno-universal-aprendizaje.md)** | Marco compartido (CAST/UDL, tres principios, LOMLOE, checklist Matemáticas). Citable desde Diseño curricular, NEAE, practicum, etc. |
+| **[DUA — Diseño Universal para el Aprendizaje](materiales/dua-diseno-universal-aprendizaje.md)** | Marco compartido (tema 4 y programaciones de otras asignaturas) |
 
 ## Carpetas
 
-- `apuntes/` — desarrollos temáticos  
+- `programa.md` — programa de la asignatura  
+- `apuntes/` — desarrollos por tema  
 - `materiales/` — recursos compartidos  
 - `bibliografia.md` — referencias  
