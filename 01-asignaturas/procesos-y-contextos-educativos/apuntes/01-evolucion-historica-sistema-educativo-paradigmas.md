@@ -105,7 +105,7 @@ La **Ley Orgánica 3/2020** modifica la LOE y reorienta el currículo hacia dema
 1. **Derechos de la infancia** (Convención sobre los Derechos del Niño).  
 2. **Igualdad de género y coeducación** (prevención de violencia; impulso STEM).  
 3. **Competencia digital y ciudadanía global** (uso crítico, seguro y ético de la tecnología).  
-4. **Educación inclusiva y DUA** (personalización sin exclusión).
+4. **Educación inclusiva y DUA** (personalización sin exclusión). Desarrollo del marco: **[material DUA](../materiales/dua-diseno-universal-aprendizaje.md)**.
 
 En Matemáticas de Secundaria, esto se concreta en competencias específicas, saberes por **sentidos**, situaciones de aprendizaje y atención al dominio socioafectivo (enlace con [Diseño curricular](../../diseno-curricular-e-instruccional-de-matematicas/apuntes/03-elementos-curriculo-lomloe.md)).
 
@@ -117,7 +117,7 @@ La práctica actual articula sobre todo lo **interpretativo** y lo **sociocríti
 
 | Elemento | Idea central |
 |----------|--------------|
-| **DUA** | Múltiples formas de implicación, representación, acción y expresión; reducir barreras |
+| **DUA** | Múltiples formas de implicación, representación, acción y expresión; reducir barreras — ver [recurso completo](../materiales/dua-diseno-universal-aprendizaje.md) |
 | **Perfil de salida y competencias** | Capacidades al terminar la enseñanza básica |
 | **Situaciones de aprendizaje** | Retos contextualizados, a menudo colaborativos e interdisciplinares |
 | **Evaluación criterial y formativa** | Mejora del proceso, autorregulación y metacognición |
@@ -156,6 +156,7 @@ Un diseño LOMLOE coherente **no elimina** la precisión técnica; la pone al se
 
 ## Material relacionado
 
+- **[DUA — Diseño Universal para el Aprendizaje](../materiales/dua-diseno-universal-aprendizaje.md)** (recurso transversal)  
 - [Apuntes de la asignatura](README.md)  
 - [Elementos LOMLOE de Matemáticas](../../diseno-curricular-e-instruccional-de-matematicas/apuntes/03-elementos-curriculo-lomloe.md)  
 - [Finalidades de la enseñanza de las Matemáticas](../../diseno-curricular-e-instruccional-de-matematicas/apuntes/02-finalidades-ensenanza-matematicas.md)  
