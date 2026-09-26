@@ -17,6 +17,7 @@
 | Ada Lovelace | [ada-lovelace.md](../fichas/ada-lovelace.md) |
 | Mandelbrot | [mandelbrot.md](../fichas/mandelbrot.md) |
 | Zenón (Aquiles)* | [zenon-aquiles.md](../fichas/zenon-aquiles.md) |
+| Dilema del prisionero | [dilema-prisionero.md](../fichas/dilema-prisionero.md) |
 | Pascal / Monty Hall | Con andamiaje en 3.º–4.º |
 
 \*En 4.º: tabla y progresión geométrica; sin series formales.
@@ -28,6 +29,7 @@
 | Pascal | [pascal-problema-puntos.md](../fichas/pascal-problema-puntos.md) |
 | Newton y Leibniz | [newton-leibniz.md](../fichas/newton-leibniz.md) |
 | Zenón (Aquiles) | [zenon-aquiles.md](../fichas/zenon-aquiles.md) |
+| Dilema del prisionero | [dilema-prisionero.md](../fichas/dilema-prisionero.md) |
 | Bayes | [bayes.md](../fichas/bayes.md) |
 | Laplace | [laplace-demonio.md](../fichas/laplace-demonio.md) |
 | Monty Hall | [monty-hall.md](../fichas/monty-hall.md) |
