@@ -10,12 +10,18 @@ Análisis de los **procesos** educativos (enseñanza, aprendizaje, evaluación, 
 
 | Tema | Contenido |
 |------|-----------|
-| [Tema 1 — Evolución del SEE y paradigmas](apuntes/01-evolucion-historica-sistema-educativo-paradigmas.md) | Leyes de Moyano a LOMLOE; paradigmas positivista, interpretativo y sociocrítico; didáctica contemporánea (DUA, situaciones de aprendizaje) |
+| [Tema 1 — Evolución del SEE y paradigmas](apuntes/01-evolucion-historica-sistema-educativo-paradigmas.md) | Leyes de Moyano a LOMLOE; paradigmas positivista, interpretativo y sociocrítico; didáctica contemporánea |
 
 Índice: [apuntes/](apuntes/)
+
+## Materiales transversales
+
+| Recurso | Uso |
+|---------|-----|
+| **[DUA — Diseño Universal para el Aprendizaje](materiales/dua-diseno-universal-aprendizaje.md)** | Marco compartido (CAST/UDL, tres principios, LOMLOE, checklist Matemáticas). Citable desde Diseño curricular, NEAE, practicum, etc. |
 
 ## Carpetas
 
 - `apuntes/` — desarrollos temáticos  
-- `materiales/` — recursos complementarios  
+- `materiales/` — recursos compartidos  
 - `bibliografia.md` — referencias  
