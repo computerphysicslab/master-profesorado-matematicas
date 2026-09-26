@@ -40,7 +40,7 @@ conjuntos           significatividad
 
 - Desaparecen los estándares de aprendizaje de la LOMCE (menos fragmentación).
 - **Perfil de salida** de la enseñanza básica.
-- **DUA**, equidad, sostenibilidad, perspectiva de género.
+- **DUA**, equidad, sostenibilidad, perspectiva de género — marco desarrollado en el recurso transversal: [DUA](../../procesos-y-contextos-educativos/materiales/dua-diseno-universal-aprendizaje.md).
 - Matemáticas por **competencias específicas** y **sentidos matemáticos**.
 
 ### A.5. Cuadro comparativo
@@ -116,7 +116,7 @@ Referentes de logro por competencia y curso; progresivos y situados en contextos
 
 ### C.5. Situaciones de aprendizaje
 
-Escenarios contextualizados y significativos que movilizan **varias** competencias y saberes de forma integrada (no un ejercicio aislado).
+Escenarios contextualizados y significativos que movilizan **varias** competencias y saberes de forma integrada (no un ejercicio aislado). Conviene diseñarlas con los tres principios del **[DUA](../../procesos-y-contextos-educativos/materiales/dua-diseno-universal-aprendizaje.md)**.
 
 ---
 
@@ -218,7 +218,7 @@ No se puede vaciar un sentido entero (p. ej. nunca comunicar, nunca socioafectiv
 
 ## Orientaciones metodológicas (síntesis)
 
-Situaciones de aprendizaje; resolución de problemas como eje; variedad de representaciones; herramientas digitales pertinentes; trabajo individual y cooperativo; error como aprendizaje.
+Situaciones de aprendizaje; resolución de problemas como eje; variedad de representaciones; herramientas digitales pertinentes; trabajo individual y cooperativo; error como aprendizaje. Ver también [DUA](../../procesos-y-contextos-educativos/materiales/dua-diseno-universal-aprendizaje.md).
 
 ---
 
@@ -266,6 +266,7 @@ Situaciones de aprendizaje; resolución de problemas como eje; variedad de repre
 
 ## Material relacionado
 
+- **[DUA — Diseño Universal para el Aprendizaje](../../procesos-y-contextos-educativos/materiales/dua-diseno-universal-aprendizaje.md)** (recurso compartido)
 - [01 — Currículo y normativa](01-curriculo-educativo-y-normativa.md)
 - [02 — Finalidades](02-finalidades-ensenanza-matematicas.md)
 - [04 — Programación didáctica](04-programacion-didactica.md)
