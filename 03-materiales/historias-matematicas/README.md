@@ -4,7 +4,7 @@
 Historia → pregunta → intentos → idea → formalización → problema para el alumnado
 ```
 
-Colección ampliable (24+ fichas).
+Colección ampliable (25 fichas).
 
 ## Fichas publicadas
 
@@ -20,7 +20,8 @@ Colección ampliable (24+ fichas).
 | [Fermat](fichas/fermat.md) | Último teorema, números | ESO / Bach. |
 | [Pascal (puntos)](fichas/pascal-problema-puntos.md) | Probabilidad, esperanza | Bachillerato |
 | [Newton y Leibniz](fichas/newton-leibniz.md) | Cálculo | Bachillerato |
-| [Zenón (Aquiles)](fichas/zenon-aquiles.md) | Series, límites, movimiento | ESO / Bach. |
+| [Zenón (Aquiles)](fichas/zenon-aquiles.md) | Series, límites | ESO / Bach. |
+| [Dilema del prisionero](fichas/dilema-prisionero.md) | Teoría de juegos, matriz de pagos | ESO / Bach. |
 | [Bayes](fichas/bayes.md) | Probabilidad condicionada | Bachillerato |
 | [Laplace](fichas/laplace-demonio.md) | Probabilidad, incertidumbre | Bachillerato |
 | [Monty Hall](fichas/monty-hall.md) | Probabilidad condicionada | Bachillerato |
