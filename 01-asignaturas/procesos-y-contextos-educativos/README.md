@@ -1,18 +1,21 @@
 # Procesos y contextos educativos
 
-**Tipo:** Obligatoria
+**Tipo:** Obligatoria · Máster en Profesorado de Educación Secundaria (especialidad Matemáticas)
 
 ## Descripción
 
-Espacio de trabajo para la asignatura **Procesos y contextos educativos** del Máster de Profesorado de Educación Secundaria, especialidad Matemáticas.
+Análisis de los **procesos** educativos (enseñanza, aprendizaje, evaluación, convivencia) y de los **contextos** en los que ocurren (sistema educativo, centro, aula, entorno social), con especial atención a la normativa, los paradigmas didácticos y la práctica docente en Secundaria.
 
-## Contenidos
+## Apuntes
 
-Los contenidos, apuntes y materiales se incorporarán progresivamente durante el curso a partir de la documentación docente y del trabajo personal.
+| Tema | Contenido |
+|------|-----------|
+| [Tema 1 — Evolución del SEE y paradigmas](apuntes/01-evolucion-historica-sistema-educativo-paradigmas.md) | Leyes de Moyano a LOMLOE; paradigmas positivista, interpretativo y sociocrítico; didáctica contemporánea (DUA, situaciones de aprendizaje) |
+
+Índice: [apuntes/](apuntes/)
 
 ## Carpetas
 
-- `apuntes/` — apuntes y resúmenes.
-- `materiales/` — recursos docentes y documentación.
-- `trabajos/` — tareas, actividades y entregas.
-- `bibliografia.md` — referencias bibliográficas.
+- `apuntes/` — desarrollos temáticos  
+- `materiales/` — recursos complementarios  
+- `bibliografia.md` — referencias  
