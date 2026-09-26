@@ -16,7 +16,7 @@ Documento completo: **[programa.md](programa.md)**
 
 | # | Bloque |
 |---|--------|
-| 1 | Finalidades educativas de la enseñanza de las Matemáticas en Secundaria |
+| 1 | Finalidades y marco curricular (qué es el currículo; para qué enseñar) |
 | 2 | Cambios curriculares: LGE → LOGSE → LOE → LOMCE → LOMLOE |
 | 3 | Elementos del currículo oficial LOMLOE de Matemáticas |
 | 4 | Del diseño curricular a la programación didáctica |
@@ -26,17 +26,26 @@ Documento completo: **[programa.md](programa.md)**
 | 8 | Resolución de problemas y aceptación de la tarea como punto de partida |
 | 9 | Génesis escolar de los objetos matemáticos |
 
-## Apuntes y materiales
+## Apuntes de los bloques 1–3 (actualizados)
+
+| Tema | Archivo |
+|------|--------|
+| Currículo educativo y normativa vigente | [01-curriculo-educativo-y-normativa.md](apuntes/01-curriculo-educativo-y-normativa.md) |
+| ¿Para qué enseñar matemáticas? (Ernest, Cockcroft, Rico) | [02-finalidades-ensenanza-matematicas.md](apuntes/02-finalidades-ensenanza-matematicas.md) |
+| Evolución LGE–LOMLOE y elementos curriculares | [03-elementos-curriculo-lomloe.md](apuntes/03-elementos-curriculo-lomloe.md) |
+
+Índice completo: **[apuntes/](apuntes/)**
+
+## Otros recursos
 
 | Recurso | Descripción |
 |---------|-------------|
-| **[Apuntes (índice por bloques)](apuntes/)** | Guías y desarrollos de cada bloque |
-| **[Tema 1 ampliado — Fines y evolución curricular](apuntes/01-matematicas-escolares-fines-curriculo-evolucion.md)** | Bloques 1–2 desarrollados (Rico, LGE–LOMLOE, práctica orientativa) |
-| **[Asignaturas ESO/Bachillerato](materiales/asignaturas-eso-bachillerato/)** | Mapa de materias y dimensiones curriculares |
-| **[Bibliografía](bibliografia.md)** | Referencias |
+| [Asignaturas ESO/Bachillerato](materiales/asignaturas-eso-bachillerato/) | Mapa de materias y dimensiones |
+| [Currículo LOMLOE](materiales/curriculo-lomloe/) | Mapas competencias–criterios, sentidos |
+| [Bibliografía](bibliografia.md) | Referencias |
 
 ## Carpetas
 
-- `apuntes/` — apuntes por bloque del programa.
-- `materiales/` — recursos docentes y documentación.
-- `trabajos/` — tareas, actividades y entregas.
+- `apuntes/` — desarrollos por bloque
+- `materiales/` — plantillas, bancos, fichas de objetos
+- `trabajos/` — entregas personales (no versionadas en público; ver `.gitignore`)
