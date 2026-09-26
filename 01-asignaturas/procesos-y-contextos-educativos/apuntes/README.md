@@ -4,9 +4,11 @@ Según el [programa de la asignatura](../programa.md).
 
 | Tema | Contenido | Archivo |
 |------|-----------|--------|
-| **1** | Evolución histórica del SEE y paradigmas (positivista, interpretativo, sociocrítico) | [01-evolucion-historica-sistema-educativo-paradigmas.md](01-evolucion-historica-sistema-educativo-paradigmas.md) |
-| **2** | Estructura de Secundaria, FP e idiomas / artísticas / deportivas | *Pendiente* |
-| **3** | Centros: estructura organizativa, participación y gestión | *Pendiente* |
-| **4** | Atención a la diversidad e inclusión | *Pendiente* · ver [DUA](../materiales/dua-diseno-universal-aprendizaje.md) |
-| **5** | Metodología y recursos en Secundaria | *Pendiente* |
-| **6** | Evaluación: qué, quién, cuándo y cómo | *Pendiente* |
+| **1** | Evolución histórica del SEE y paradigmas | [01-evolucion-historica-sistema-educativo-paradigmas.md](01-evolucion-historica-sistema-educativo-paradigmas.md) |
+| **2** | Estructura de Secundaria, FP y régimen especial | [02-estructura-secundaria-fp-ensenanzas-regimen-especial.md](02-estructura-secundaria-fp-ensenanzas-regimen-especial.md) |
+| **3** | Centros: organización, participación y gestión | [03-centros-organizacion-participacion-gestion.md](03-centros-organizacion-participacion-gestion.md) |
+| **4** | Atención a la diversidad e inclusión | [04-atencion-diversidad-perspectiva-inclusiva.md](04-atencion-diversidad-perspectiva-inclusiva.md) |
+| **5** | Metodología y recursos en Secundaria | [05-metodologia-recursos-educacion-secundaria.md](05-metodologia-recursos-educacion-secundaria.md) |
+| **6** | Evaluación: qué, quién, cuándo y cómo | [06-evaluacion-procesos-ensenanza-aprendizaje.md](06-evaluacion-procesos-ensenanza-aprendizaje.md) |
+
+**Recurso transversal:** [DUA](../materiales/dua-diseno-universal-aprendizaje.md) · [Bibliografía](../bibliografia.md)
