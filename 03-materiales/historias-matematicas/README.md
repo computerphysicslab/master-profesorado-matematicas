@@ -4,7 +4,7 @@
 Historia → pregunta → intentos → idea → formalización → problema para el alumnado
 ```
 
-Colección **completa** del catálogo inicial (23 fichas).
+Colección ampliable (24+ fichas).
 
 ## Fichas publicadas
 
@@ -20,6 +20,7 @@ Colección **completa** del catálogo inicial (23 fichas).
 | [Fermat](fichas/fermat.md) | Último teorema, números | ESO / Bach. |
 | [Pascal (puntos)](fichas/pascal-problema-puntos.md) | Probabilidad, esperanza | Bachillerato |
 | [Newton y Leibniz](fichas/newton-leibniz.md) | Cálculo | Bachillerato |
+| [Zenón (Aquiles)](fichas/zenon-aquiles.md) | Series, límites, movimiento | ESO / Bach. |
 | [Bayes](fichas/bayes.md) | Probabilidad condicionada | Bachillerato |
 | [Laplace](fichas/laplace-demonio.md) | Probabilidad, incertidumbre | Bachillerato |
 | [Monty Hall](fichas/monty-hall.md) | Probabilidad condicionada | Bachillerato |
