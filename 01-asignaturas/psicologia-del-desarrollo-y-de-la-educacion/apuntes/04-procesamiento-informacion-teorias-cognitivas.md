@@ -30,6 +30,23 @@ Estímulo (enunciado, gráfica, explicación)
 
 ---
 
+## 2.1. Carga cognitiva (ampliación)
+
+La **carga cognitiva** es la demanda que una tarea impone sobre la capacidad limitada de la memoria de trabajo. Si la supera, caen la comprensión, el rendimiento y la adquisición de lo nuevo.
+
+| Tipo de carga | Significado | Qué hacer |
+|---------------|-------------|----------|
+| **Intrínseca** | Complejidad del propio contenido | Graduar y secuenciar; no eliminar el reto necesario |
+| **Extrínseca** | Dificultad por una mala presentación | Clarificar consignas; quitar ruido |
+| **Germana** | Esfuerzo útil para construir esquemas | Conectar con lo previo; reflexionar la estrategia |
+
+**Idea clave:** reducir carga no es “bajar el nivel del currículo”, sino no gastar la memoria de trabajo en lo innecesario.
+
+Ejemplos de ecuación $2(x+3)=14$ y de fracciones, checklist de diseño y formulación de examen:  
+→ **[Material: carga cognitiva en Matemáticas](../materiales/carga-cognitiva-matematicas.md)**
+
+---
+
 ## 3. Teorías cognoscitivas de referencia
 
 | Enfoque | Idea central | Eco en Matemáticas |
@@ -45,7 +62,7 @@ Estímulo (enunciado, gráfica, explicación)
 
 ## 4. Errores y obstáculos
 
-En didáctica de las matemáticas (y en psicología cognitiva) el error a menudo es **sintoma de un esquema** en construcción, no solo “falta de estudio”. Intervención:
+En didáctica de las matemáticas (y en psicología cognitiva) el error a menudo es **síntoma de un esquema** en construcción, no solo “falta de estudio”. Intervención:
 
 1. Hacer visible el razonamiento.  
 2. Confrontar con un contraejemplo o otra representación.  
@@ -68,13 +85,15 @@ En didáctica de las matemáticas (y en psicología cognitiva) el error a menudo
 ## 6. Preguntas de repaso
 
 1. ¿Por qué la memoria de trabajo limita la explicación de un sistema de tres pasos nuevos a la vez?  
-2. Diferencia aprendizaje significativo y memorístico con un ejemplo de fracciones.  
-3. Diseña una pregunta metacognitiva para después de un problema de proporcionalidad.
+2. Diferencia carga intrínseca, extrínseca y germana con un ejemplo de fracciones.  
+3. Diferencia aprendizaje significativo y memorístico.  
+4. Diseña una pregunta metacognitiva para después de un problema de proporcionalidad.
 
 ---
 
 ## Material relacionado
 
+- **[Carga cognitiva en Matemáticas](../materiales/carga-cognitiva-matematicas.md)**  
+- [ZDP y andamiaje](../materiales/zdp-andamiaje-matematicas.md)  
 - [Tema 3 — Conductual](03-teorias-conductuales-modificacion-conducta.md)  
 - [Tema 5 — Motivación](05-motivacion-ensenanza-aprendizaje.md)  
-- Diseño curricular: transposición, obstáculos, problemas ricos  
