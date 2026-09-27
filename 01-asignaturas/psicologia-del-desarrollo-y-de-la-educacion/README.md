@@ -23,6 +23,7 @@ Documento: **[programa.md](programa.md)**
 | Recurso |
 |---------|
 | **[Glosario](glosario.md)** |
+| **[Carga cognitiva en Matemáticas](materiales/carga-cognitiva-matematicas.md)** |
 | **[ZDP y andamiaje en Matemáticas](materiales/zdp-andamiaje-matematicas.md)** |
 | **[Registro ABC de conducta](materiales/registro-abc-conducta.md)** |
 
