@@ -19,6 +19,10 @@
 
 ## Bloque C — Aplicación y salud profesional
 
-Temas 8–10 pendientes (PAT/aula, salud del profesorado, casos aplicados).
+| Tema | Archivo |
+|------|--------|
+| 8. Emociones en el PAT y en el aula ordinaria | [08-emociones-pat-aula.md](08-emociones-pat-aula.md) |
+| 9. Emociones y salud del profesorado | [09-emociones-salud-profesorado.md](09-emociones-salud-profesorado.md) |
+| 10. Síntesis aplicada: casos en Matemáticas | [10-sintesis-casos-matematicas.md](10-sintesis-casos-matematicas.md) |
 
 Ver: [programa](../programa.md) · [glosario](../glosario.md) · [material afectividad–motivación](../materiales/afectividad-y-motivacion-intrinseca.md).
