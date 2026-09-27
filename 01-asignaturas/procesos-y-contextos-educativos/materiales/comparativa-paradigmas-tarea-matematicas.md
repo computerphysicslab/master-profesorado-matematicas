@@ -49,3 +49,11 @@
 Los tres pueden usar la misma “cuenta”. Cambian la **pregunta que cuenta**, la interacción y lo que se califica. La LOMLOE empuja hacia lecturas interpretativas y sociocríticas **sin renunciar** a la corrección técnica.
 
 **Ver:** [Tema 1](../apuntes/01-evolucion-historica-sistema-educativo-paradigmas.md) · [Plantilla de alineación](plantilla-alineacion-criterio-evidencia.md)
+
+---
+
+## Podcast de dramatización
+
+Escucha la dramatización de los tres casos y el análisis de las diferencias:
+
+🎧 [Podcast: Comparativa de paradigmas en una tarea de Matemáticas](https://github.com/computerphysicslab/master-profesorado-matematicas/raw/refs/heads/main/08-podcasts/recursos/podcast_comparativa_paradigmas_tarea_matematicas.mp3)
