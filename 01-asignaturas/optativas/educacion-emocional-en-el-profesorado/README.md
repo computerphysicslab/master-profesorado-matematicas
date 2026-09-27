@@ -1,48 +1,36 @@
 # Educación emocional en el profesorado
 
 **Tipo:** Optativa  
-**Enfoque:** competencias emocionales y bienestar del *docente*, con puentes al aula de Secundaria (especialmente Matemáticas y materias de exposición pública).
+**Enfoque:** competencias emocionales y bienestar del *docente*, con puentes al aula de Secundaria (especialmente Matemáticas).
 
 ## Descripción
 
-Espacio de trabajo para la asignatura **Educación emocional en el profesorado** del Máster de Profesorado de Educación Secundaria, especialidad Matemáticas.
+La optativa no forma terapeutas: el rol del profesor es **observar, prevenir, enseñar, intervenir según normas del centro y derivar** cuando proceda.
 
-La optativa no forma terapeutas: el rol del profesor es **observar, prevenir, enseñar, intervenir según normas del centro y derivar** cuando la situación lo requiera.
-
-## Documentos de la asignatura
+## Documentos
 
 | Documento | Contenido |
 |-----------|-----------|
-| **[programa.md](programa.md)** | Programa orientativo por temas (fundamentos, bienestar/motivación, aplicación en secundaria y salud profesional) |
-| **[glosario.md](glosario.md)** | Terminología: eustrés, distrés, inteligencia emocional, SEL, burnout, regulación, ansiedad matemática, CASEL, etc. |
-| **[bibliografia.md](bibliografia.md)** | Recursos abiertos (PDF) y referencias académicas clave |
+| **[programa.md](programa.md)** | 10 temas en 3 bloques |
+| **[glosario.md](glosario.md)** | Eustrés, distrés, IE, SEL, burnout, ansiedad matemática… |
+| **[bibliografia.md](bibliografia.md)** | Recursos abiertos y referencias |
 
 ## Apuntes
 
-| Archivo | Tema |
-|---------|------|
-| [01-inteligencia-emocional-contexto.md](apuntes/01-inteligencia-emocional-contexto.md) | Inteligencia emocional y su contexto |
-| [02-naturaleza-de-la-emocion.md](apuntes/02-naturaleza-de-la-emocion.md) | Naturaleza de la emoción |
-| [03-competencias-emocionales-instrumentos.md](apuntes/03-competencias-emocionales-instrumentos.md) | Competencias emocionales e instrumentos |
+| Bloque | Temas |
+|--------|-------|
+| **A — Fundamentos** | [1](apuntes/01-inteligencia-emocional-contexto.md) · [2](apuntes/02-naturaleza-de-la-emocion.md) · [3](apuntes/03-competencias-emocionales-instrumentos.md) |
+| **B — Bienestar, motivación y cerebro** | [4](apuntes/04-psicologia-positiva-bienestar.md) · [5](apuntes/05-emocion-y-motivacion.md) · [6](apuntes/06-educacion-emocional-reto-educativo.md) · [7](apuntes/07-neuroeducacion-precauciones.md) |
+| **C — Aplicación** | Temas 8–10 pendientes |
 
 ## Materiales
 
-| Recurso | Contenido |
-|---------|-----------|
-| **[Afectividad y motivación intrínseca](materiales/afectividad-y-motivacion-intrinseca.md)** | Emociones, autodeterminación, prácticas de aula y sentido socioafectivo |
+| Recurso |
+|---------|
+| **[Afectividad y motivación intrínseca](materiales/afectividad-y-motivacion-intrinseca.md)** |
 
-## Carpetas
+## Relación con el máster
 
-| Carpeta | Uso |
-|---------|-----|
-| `apuntes/` | Apuntes y resúmenes |
-| `materiales/` | Recursos docentes |
-| `trabajos/` | Tareas y entregas de la asignatura |
-
-## Relación con el resto del máster
-
-- Fichas de libros abiertos: [`09-bibliografia/educacion-emocional/`](../../../09-bibliografia/educacion-emocional/)
-- Índice por asignatura: [`09-bibliografia/POR-ASIGNATURA.md`](../../../09-bibliografia/POR-ASIGNATURA.md)
-- Practicum (plantillas anonimizadas): [`01-asignaturas/practicum/`](../../practicum/)
-- Optativa afín: Prevención y resolución de conflictos
-- Transversal: [DUA](../../procesos-y-contextos-educativos/materiales/dua-diseno-universal-aprendizaje.md)
+- [`09-bibliografia/educacion-emocional/`](../../../09-bibliografia/educacion-emocional/)  
+- [DUA](../../procesos-y-contextos-educativos/materiales/dua-diseno-universal-aprendizaje.md)  
+- [Practicum](../../practicum/)  
