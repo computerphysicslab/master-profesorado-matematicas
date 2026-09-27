@@ -1,18 +1,29 @@
 # Psicología del desarrollo y de la educación
 
-**Tipo:** Obligatoria
+**Tipo:** Obligatoria · Máster en Profesorado de Educación Secundaria (especialidad Matemáticas)
 
 ## Descripción
 
-Espacio de trabajo para la asignatura **Psicología del desarrollo y de la educación** del Máster de Profesorado de Educación Secundaria, especialidad Matemáticas.
+Estudio del **desarrollo adolescente** (procesos evolutivos, diferencias individuales, problemas frecuentes) y de la **psicología de la educación** aplicada a la enseñanza-aprendizaje: enfoques conductuales, cognoscitivos y motivación.
 
-## Contenidos
+## Programa
 
-Los contenidos, apuntes y materiales se incorporarán progresivamente durante el curso a partir de la documentación docente y del trabajo personal.
+Documento: **[programa.md](programa.md)**
+
+| # | Tema | Apunte |
+|---|------|--------|
+| 1 | Desarrollo evolutivo en la adolescencia | [01](apuntes/01-desarrollo-adolescencia.md) |
+| 2 | Diferencias individuales y problemas frecuentes | [02](apuntes/02-diferencias-individuales-problemas-adolescencia.md) |
+| 3 | Teorías conductuales y modificación de conducta | [03](apuntes/03-teorias-conductuales-modificacion-conducta.md) |
+| 4 | Procesamiento de la información y teorías cognoscitivas | [04](apuntes/04-procesamiento-informacion-teorias-cognitivas.md) |
+| 5 | Motivación en el proceso de enseñanza-aprendizaje | [05](apuntes/05-motivacion-ensenanza-aprendizaje.md) |
 
 ## Carpetas
 
-- `apuntes/` — apuntes y resúmenes.
-- `materiales/` — recursos docentes y documentación.
-- `trabajos/` — tareas, actividades y entregas.
-- `bibliografia.md` — referencias bibliográficas.
+- `programa.md` · `apuntes/` · `materiales/` · `bibliografia.md`
+
+## Enlaces del máster
+
+- [Educación emocional](../optativas/educacion-emocional-en-el-profesorado/)  
+- [Procesos y contextos](../procesos-y-contextos-educativos/)  
+- Podcast: *Pávlov, Skinner y Erikson* (`08-podcasts/`)  
