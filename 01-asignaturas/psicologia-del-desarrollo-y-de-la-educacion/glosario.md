@@ -32,7 +32,16 @@ Creencia en la propia capacidad para organizar y ejecutar acciones que permiten 
 Marco de motivación de calidad basado en las necesidades de **autonomía**, **competencia** y **relación**.
 
 ### Carga cognitiva
-Demanda impuesta a la memoria de trabajo; si es excesiva, se dificulta el aprendizaje de lo nuevo.
+Demanda que una tarea de aprendizaje impone sobre la capacidad limitada de la **memoria de trabajo**. Si supera los recursos disponibles, disminuyen la comprensión, el rendimiento y la adquisición de conocimientos nuevos. Desarrollo y ejemplos: [material carga cognitiva](materiales/carga-cognitiva-matematicas.md).
+
+### Carga extrínseca
+Dificultad añadida por la *forma* de presentar la información (consignas confusas, ruido visual, datos irrelevantes). Conviene reducirla.
+
+### Carga germana (*germane*)
+Esfuerzo mental productivo orientado a construir esquemas y comprender (relacionar lo nuevo con lo ya aprendido). Conviene favorecerla.
+
+### Carga intrínseca
+Complejidad propia del contenido (número de elementos y de relaciones entre ellos). Se gestiona secuenciando y automatizando prerrequisitos, no “vaciando” el saber.
 
 ### Condicionamiento clásico (Pávlov)
 Aprendizaje por asociación entre estímulos; relevante para respuestas emocionales ante exámenes o la pizarra.
@@ -106,5 +115,6 @@ Distancia entre lo que el alumno puede hacer solo y lo que puede hacer con media
 | **Castigo** | Cualquier consecuencia molesta; debe reducir la conducta y ser ética |
 | **Aprendizaje significativo** | Solo “motivador” o “con dibujos” |
 | **Autoeficacia** | Autoestima global |
+| **Reducir carga cognitiva** | “Bajar el nivel” del currículo; se reduce sobre todo la carga *extrínseca* |
 
 Ver: [programa](programa.md) · [apuntes](apuntes/) · [materiales](materiales/)
