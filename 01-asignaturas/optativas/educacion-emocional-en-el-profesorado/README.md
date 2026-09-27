@@ -15,13 +15,13 @@ La optativa no forma terapeutas: el rol del profesor es **observar, prevenir, en
 | **[glosario.md](glosario.md)** | Eustrés, distrés, IE, SEL, burnout, ansiedad matemática… |
 | **[bibliografia.md](bibliografia.md)** | Recursos abiertos y referencias |
 
-## Apuntes
+## Apuntes (programa completo)
 
 | Bloque | Temas |
 |--------|-------|
 | **A — Fundamentos** | [1](apuntes/01-inteligencia-emocional-contexto.md) · [2](apuntes/02-naturaleza-de-la-emocion.md) · [3](apuntes/03-competencias-emocionales-instrumentos.md) |
 | **B — Bienestar, motivación y cerebro** | [4](apuntes/04-psicologia-positiva-bienestar.md) · [5](apuntes/05-emocion-y-motivacion.md) · [6](apuntes/06-educacion-emocional-reto-educativo.md) · [7](apuntes/07-neuroeducacion-precauciones.md) |
-| **C — Aplicación** | Temas 8–10 pendientes |
+| **C — Aplicación y salud profesional** | [8](apuntes/08-emociones-pat-aula.md) · [9](apuntes/09-emociones-salud-profesorado.md) · [10](apuntes/10-sintesis-casos-matematicas.md) |
 
 ## Materiales
 
