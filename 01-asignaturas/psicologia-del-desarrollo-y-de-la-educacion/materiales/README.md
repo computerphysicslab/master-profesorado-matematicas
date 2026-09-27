@@ -2,7 +2,8 @@
 
 | Recurso | Uso |
 |---------|-----|
-| **[ZDP y andamiaje en Matemáticas](zdp-andamiaje-matematicas.md)** | Zona de desarrollo próximo, escalera de ayuda, ejemplo de proporcionalidad |
-| **[Registro ABC de conducta](registro-abc-conducta.md)** | Antecedente–conducta–consecuencia; plantilla y ejemplo de aula |
+| **[Carga cognitiva en Matemáticas](carga-cognitiva-matematicas.md)** | Memoria de trabajo; carga intrínseca / extrínseca / germana; ejemplos de ecuaciones y fracciones |
+| **[ZDP y andamiaje en Matemáticas](zdp-andamiaje-matematicas.md)** | Zona de desarrollo próximo, escalera de ayuda |
+| **[Registro ABC de conducta](registro-abc-conducta.md)** | Antecedente–conducta–consecuencia |
 
-Glosario de la asignatura: [../glosario.md](../glosario.md)
+Glosario: [../glosario.md](../glosario.md)
