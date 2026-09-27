@@ -6,7 +6,7 @@
 
 Estudio del **desarrollo adolescente** (procesos evolutivos, diferencias individuales, problemas frecuentes) y de la **psicología de la educación** aplicada a la enseñanza-aprendizaje: enfoques conductuales, cognoscitivos y motivación.
 
-## Programa
+## Programa y apuntes
 
 Documento: **[programa.md](programa.md)**
 
@@ -18,9 +18,13 @@ Documento: **[programa.md](programa.md)**
 | 4 | Procesamiento de la información y teorías cognoscitivas | [04](apuntes/04-procesamiento-informacion-teorias-cognitivas.md) |
 | 5 | Motivación en el proceso de enseñanza-aprendizaje | [05](apuntes/05-motivacion-ensenanza-aprendizaje.md) |
 
-## Carpetas
+## Glosario y materiales
 
-- `programa.md` · `apuntes/` · `materiales/` · `bibliografia.md`
+| Recurso |
+|---------|
+| **[Glosario](glosario.md)** |
+| **[ZDP y andamiaje en Matemáticas](materiales/zdp-andamiaje-matematicas.md)** |
+| **[Registro ABC de conducta](materiales/registro-abc-conducta.md)** |
 
 ## Enlaces del máster
 
