@@ -70,5 +70,6 @@ Antes de adoptar un “método neuro…”:
 ## Para seguir
 
 - [Tema 5 — Emoción y motivación](05-emocion-y-motivacion.md)  
-- [Bloque C — Aplicación](08-emociones-pat-aula.md) *(siguiente bloque)*  
+- [Tema 6 — EE como reto](06-educacion-emocional-reto-educativo.md)  
+- **Bloque C** (temas 8–10): aplicación en PAT/aula, salud docente y casos — pendiente de desarrollo  
 - [Glosario](../glosario.md): neuromito, eustrés, distrés, flow  
