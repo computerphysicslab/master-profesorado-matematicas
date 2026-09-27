@@ -25,13 +25,19 @@ La optativa no forma terapeutas: el rol del profesor es **observar, prevenir, en
 | [02-naturaleza-de-la-emocion.md](apuntes/02-naturaleza-de-la-emocion.md) | Naturaleza de la emoción |
 | [03-competencias-emocionales-instrumentos.md](apuntes/03-competencias-emocionales-instrumentos.md) | Competencias emocionales e instrumentos |
 
+## Materiales
+
+| Recurso | Contenido |
+|---------|-----------|
+| **[Afectividad y motivación intrínseca](materiales/afectividad-y-motivacion-intrinseca.md)** | Emociones, autodeterminación, prácticas de aula y sentido socioafectivo |
+
 ## Carpetas
 
 | Carpeta | Uso |
 |---------|-----|
 | `apuntes/` | Apuntes y resúmenes |
-| `materiales/` | Recursos docentes y documentación |
-| `trabajos/` | Tareas, actividades y entregas de la asignatura |
+| `materiales/` | Recursos docentes |
+| `trabajos/` | Tareas y entregas de la asignatura |
 
 ## Relación con el resto del máster
 
@@ -39,3 +45,4 @@ La optativa no forma terapeutas: el rol del profesor es **observar, prevenir, en
 - Índice por asignatura: [`09-bibliografia/POR-ASIGNATURA.md`](../../../09-bibliografia/POR-ASIGNATURA.md)
 - Practicum (plantillas anonimizadas): [`01-asignaturas/practicum/`](../../practicum/)
 - Optativa afín: Prevención y resolución de conflictos
+- Transversal: [DUA](../../procesos-y-contextos-educativos/materiales/dua-diseno-universal-aprendizaje.md)
