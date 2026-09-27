@@ -52,6 +52,12 @@ conjuntos           significatividad
 | Papel del problema | Aplicación de reglas | Medio de aprendizaje | Eje y contexto (situaciones de aprendizaje) |
 | Referentes | Deductivo formal | Piaget / Vygotsky | Freudenthal, Niss, NCTM, DUA |
 
+### A.6. ¿Qué contenidos se eliminaron, trasladaron o reformularon?
+
+No todo lo que “ya no se explica como antes” está **eliminado**. Conviene clasificar: eliminado · trasladado de curso · solo en cierta modalidad · simplificado o reformulado (p. ej. regla de tres → proporcionalidad con sentido; Ruffini; conjuntos; cálculo mental vs. sentido numérico; cónicas; técnicas de integración).
+
+Análisis y tablas: **[Contenidos eliminados, trasladados y simplificados](../materiales/contenidos-eliminados-trasladados-evolucion-curricular.md)**.
+
 ---
 
 ## Parte B · Referentes teóricos e institucionales
@@ -235,7 +241,8 @@ Situaciones de aprendizaje; resolución de problemas como eje; variedad de repre
 3. ¿Socioafectivo = test de personalidad? No: conductas de aprendizaje observables.  
 4. ¿Misma competencia en todas las CCAA? Base estatal común; criterios y saberes se concretan en la autonomía.  
 5. ¿A vs B en 4.º? Mismo marco, distinto énfasis.  
-6. ¿GeoGebra “quita” mates? No si el criterio exige interpretación y estrategia.
+6. ¿GeoGebra “quita” mates? No si el criterio exige interpretación y estrategia.  
+7. ¿Han “eliminado” la regla de tres o el cálculo mental? Ver [material de evolución de contenidos](../materiales/contenidos-eliminados-trasladados-evolucion-curricular.md).
 
 ---
 
@@ -266,7 +273,8 @@ Situaciones de aprendizaje; resolución de problemas como eje; variedad de repre
 
 ## Material relacionado
 
-- **[DUA — Diseño Universal para el Aprendizaje](../../procesos-y-contextos-educativos/materiales/dua-diseno-universal-aprendizaje.md)** (recurso compartido)
+- **[Contenidos eliminados, trasladados y simplificados](../materiales/contenidos-eliminados-trasladados-evolucion-curricular.md)**
+- **[DUA](../../procesos-y-contextos-educativos/materiales/dua-diseno-universal-aprendizaje.md)**
 - [01 — Currículo y normativa](01-curriculo-educativo-y-normativa.md)
 - [02 — Finalidades](02-finalidades-ensenanza-matematicas.md)
 - [04 — Programación didáctica](04-programacion-didactica.md)
