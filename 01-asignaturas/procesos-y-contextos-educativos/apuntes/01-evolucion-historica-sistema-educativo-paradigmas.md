@@ -303,10 +303,23 @@ Más autonomía curricular ha ido acompañada de **más responsabilidad de docum
 
 Esto conecta con el paradigma racional-tecnológico: la actividad docente tiende a convertirse en una cadena de especificaciones verificables (competencia → criterio → saber → situación → instrumento → evidencia). Tiene ventajas de transparencia y coordinación, pero también el riesgo de que lo fácilmente documentable adquiera más peso institucional que lo difícil de medir (el juicio profesional, la relación pedagógica, la adaptación improvisada).
 
-**Dato de contexto (TALIS 2024):** el 64 % del profesorado de secundaria inferior en España declara que el exceso de trabajo administrativo es fuente de estrés «bastante» o «mucho», aunque el tiempo medio dedicado a tareas administrativas (2,6 h/semana) no es el más alto de la OCDE. El problema parece residir también en la *naturaleza* de las tareas y en cómo interfieren con la enseñanza.
+**Datos de contexto (TALIS 2024, secundaria inferior — ISCED 2):**
 
-> **Para profundizar:** análisis completo, etapas, fuentes normativas y hipótesis de trabajo en  
-> [Burocratización del trabajo docente — análisis histórico](../materiales/burocratizacion-trabajo-docente-analisis-historico.md).
+| Indicador | España | OCDE (aprox.) |
+|-----------|--------|---------------|
+| Estrés por exceso de trabajo administrativo | **64 %** | ~52 % |
+| Estrés por cambios de currículo / programa | **58 %** | inferior |
+| Estrés por requisitos cambiantes de la administración | **57 %** | inferior |
+| Estrés por corregir y calificar | **54 %** | ~40 % |
+| Horas semanales en tareas administrativas | **~2,6 h** (≈5 % de la jornada) | ~3 h |
+| Horas semanales en corrección | **~6,1 h** | ~4,6 h |
+| Satisfacción global con el trabajo | **~95 %** | ~89 % |
+
+España no destaca por *más horas* de papeleo que la media OCDE, pero sí por una **mayor percepción de estrés** ligada a lo administrativo, a los **cambios de currículo** y a los **requisitos de la administración**. El problema parece residir también en la *naturaleza* y la fragmentación de las tareas (trazabilidad, evidencias, actualizaciones normativas) y en cómo interfieren con la enseñanza. Véase el cuadro completo y los límites del estudio en la ficha TALIS del repositorio.
+
+> **Para profundizar:**  
+> - [TALIS — ficha sintética](../materiales/talis-ficha-sintetica.md) (qué es, cuadro España–OCDE, límites)  
+> - [Burocratización del trabajo docente — análisis histórico](../materiales/burocratizacion-trabajo-docente-analisis-historico.md)
 
 ---
 
@@ -320,7 +333,8 @@ Esto conecta con el paradigma racional-tecnológico: la actividad docente tiende
 - Habermas, J. (1968). *Erkenntnis und Interesse* [Conocimiento e interés]. Suhrkamp.
 - López-Medialdea, A., Dieste-Gracia, B. M., y Moreno-Pinillos, C. (2025). Teorías y modelos organizativos de centros educativos. En A. M. López Medialdea y M. T. Peart (Coords.), *La organización del centro escolar y los retos de una sociedad global y digital* (pp. 49-66). Graó.
 - Magendzo, A. (1986). *Curriculum y cultura en América Latina*. PIIE.
-- OECD (2024). *TALIS 2024 Results*. OECD Publishing.
+- OECD (2025). *Results from TALIS 2024: The State of Teaching*. OECD Publishing. https://doi.org/10.1787/90df6235-en
+- OECD (2025). *TALIS 2024 Results: Participant Note – Spain*.
 - Real Decreto 157/2022, de 1 de marzo, por el que se establecen la ordenación y las enseñanzas mínimas de la Educación Primaria. *BOE*, 52.
 - Real Decreto 217/2022, de 29 de marzo, por el que se establece la ordenación y las enseñanzas mínimas de la Educación Secundaria Obligatoria. *BOE*, 76.
 - Sáez, R. (2005). Bases metodológicas de la investigación educativa y paradigmas. *Revista Complutense de Educación*, 16(1), 307-337.
