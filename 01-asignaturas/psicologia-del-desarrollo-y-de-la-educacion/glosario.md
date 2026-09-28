@@ -13,6 +13,9 @@ Respuesta afectivo-cognitiva de tensión o miedo ante tareas numéricas o matem�
 ### Atribuciones causales (Weiner)
 Explicaciones que el alumno da a su éxito o fracaso. Se organizan en locus (interno/externo), estabilidad (estable/inestable) y controlabilidad (controlable/incontrolable). Orientar hacia esfuerzo y estrategia (internos, inestables, controlables).
 
+### Autoeficacia (Bandura)
+Creencia sobre la propia capacidad para organizar y ejecutar las acciones necesarias para lograr un objetivo en un dominio concreto (p. ej. “puedo resolver este tipo de problemas de ecuaciones”). No es lo mismo que autoconcepto global ni que el resultado real. Material: [autoeficacia matemática](materiales/autoeficacia-matematica.md).
+
 ### Carga cognitiva
 Demanda que una tarea de aprendizaje impone sobre la capacidad limitada de la **memoria de trabajo**. Si supera los recursos disponibles, disminuyen la comprensión, el rendimiento y la adquisición de conocimientos nuevos. Desarrollo y ejemplos: [material carga cognitiva](materiales/carga-cognitiva-matematicas.md).
 
@@ -30,6 +33,15 @@ Dificultad específica del aprendizaje que afecta de forma primaria al **sentido
 
 ### DEA (dificultades específicas de aprendizaje)
 Categoría que agrupa dificultades significativas y persistentes en lectura, escritura o cálculo (entre otras), no explicables solo por discapacidad intelectual, escolarización inadecuada o factores sensoriales. La discalculia es la DEA del ámbito matemático.
+
+### Feedback
+Información que el alumno recibe sobre su desempeño y que puede usar para ajustar el siguiente intento. Puede ser de resultado, correctivo, de proceso/estrategia o de autorregulación. Material: [feedback efectivo](materiales/feedback-efectivo-matematicas.md).
+
+### Funciones ejecutivas (FE)
+Procesos de control cognitivo (inhibición, flexibilidad, memoria de trabajo, planificación) que permiten mantener metas, descartar impulsos y cambiar de estrategia. Esenciales en la resolución de problemas multi-paso. Material: [funciones ejecutivas](materiales/funciones-ejecutivas-matematicas.md).
+
+### Logros de dominio
+Éxitos reales en tareas similares a las que se pretende afrontar. Principal fuente de autoeficacia (Bandura). Deben ser retadores pero alcanzables con esfuerzo y estrategia.
 
 ### Memoria de trabajo
 Sistema de capacidad limitada que mantiene y manipula información mientras se realiza una tarea. En Matemáticas se satura fácilmente con enunciados largos, muchos pasos nuevos o ansiedad.
@@ -59,3 +71,5 @@ Distancia entre lo que el alumno puede hacer **solo** y lo que puede hacer **con
 | **Reducir carga cognitiva** | “Bajar el nivel” del currículo | Reducir sobre todo la carga *extrínseca* |
 | **Discalculia** | Sinónimo de “malo en mates” | Dificultad específica del sentido numérico (evaluación profesional) |
 | **Talento / habilidad fija** | Explicación definitiva del rendimiento | Preferir atribuciones a esfuerzo y estrategia |
+| **Autoeficacia** | “Motivarle” solo con frases de ánimo | Construir evidencias de dominio + feedback de estrategia |
+| **Feedback** | Solo la nota o “muy bien / mal” | Información usable sobre proceso y siguiente acción |
