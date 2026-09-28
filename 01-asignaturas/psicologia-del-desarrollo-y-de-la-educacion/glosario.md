@@ -1,120 +1,61 @@
 # Glosario — Psicología del desarrollo y de la educación
 
-Definiciones operativas para el estudio y el Practicum. No sustituyen manuales ni diagnósticos clínicos.
+Términos orientados al futuro docente de Matemáticas. Las definiciones son operativas para el aula, no sustitutos de manuales clínicos.
 
 ---
 
-### Adolescencia
-Etapa de transición entre la infancia y la adultez, con cambios biológicos, cognitivos, emocionales y sociales a menudo **asíncronos**.
-
 ### Andamiaje (*scaffolding*)
-Ayuda temporal y ajustada que permite realizar una tarea en la zona de desarrollo próximo; se retira progresivamente.
+Ayuda temporal y ajustada (del profesor o de un compañero más experto) que se retira progresivamente cuando el alumno gana autonomía. Ligado a la ZDP (Bruner / Vygotsky).
 
 ### Ansiedad matemática
-Malestar o tensión asociada a tareas, evaluación o exposición en matemáticas; puede interferir con la memoria de trabajo y favorecer la evitación.
+Respuesta afectivo-cognitiva de tensión o miedo ante tareas numéricas o matemáticas. Ocupa recursos de la **memoria de trabajo** y favorece la evitación. No se reduce solo a “falta de estudio”.
 
-### Aprendizaje significativo (Ausubel)
-Aprendizaje que se relaciona de modo no arbitrario con ideas previas relevantes; se opone al aprendizaje principalmente memorístico y desconectado.
-
-### Asimilación / acomodación (Piaget)
-Integrar información en esquemas previos (asimilación) o modificar los esquemas (acomodación) ante el conflicto cognitivo.
-
-### Atención
-Selección y mantenimiento del foco sobre estímulos relevantes; recurso limitado en el aula.
-
-### Atribución causal
-Explicación que la persona da a sus éxitos o fracasos (esfuerzo, estrategia, suerte, capacidad fija…). Influye en la motivación posterior.
-
-### Autoeficacia (Bandura)
-Creencia en la propia capacidad para organizar y ejecutar acciones que permiten alcanzar un rendimiento determinado.
-
-### Autodeterminación (Deci y Ryan)
-Marco de motivación de calidad basado en las necesidades de **autonomía**, **competencia** y **relación**.
+### Atribuciones causales (Weiner)
+Explicaciones que el alumno da a su éxito o fracaso. Se organizan en locus (interno/externo), estabilidad (estable/inestable) y controlabilidad (controlable/incontrolable). Orientar hacia esfuerzo y estrategia (internos, inestables, controlables).
 
 ### Carga cognitiva
 Demanda que una tarea de aprendizaje impone sobre la capacidad limitada de la **memoria de trabajo**. Si supera los recursos disponibles, disminuyen la comprensión, el rendimiento y la adquisición de conocimientos nuevos. Desarrollo y ejemplos: [material carga cognitiva](materiales/carga-cognitiva-matematicas.md).
 
 ### Carga extrínseca
-Dificultad añadida por la *forma* de presentar la información (consignas confusas, ruido visual, datos irrelevantes). Conviene reducirla.
+Parte de la carga debida a una mala presentación de la información (consignas confusas, ruido visual, pasos innecesarios). Se puede y debe reducir sin “bajar el nivel” del contenido.
 
 ### Carga germana (*germane*)
-Esfuerzo mental productivo orientado a construir esquemas y comprender (relacionar lo nuevo con lo ya aprendido). Conviene favorecerla.
+Esfuerzo útil dedicado a construir o automatizar esquemas. Es deseable; no se elimina al “simplificar” la tarea.
 
 ### Carga intrínseca
-Complejidad propia del contenido (número de elementos y de relaciones entre ellos). Se gestiona secuenciando y automatizando prerrequisitos, no “vaciando” el saber.
+Complejidad inherente al contenido y a la interacción entre elementos que el alumno debe procesar a la vez. Se gestiona graduando y secuenciando, no eliminando el reto necesario.
 
-### Condicionamiento clásico (Pávlov)
-Aprendizaje por asociación entre estímulos; relevante para respuestas emocionales ante exámenes o la pizarra.
+### Discalculia
+Dificultad específica del aprendizaje que afecta de forma primaria al **sentido numérico** (subitización, comparación de cantidades, línea numérica mental, hechos numéricos básicos), de manera relativamente independiente del CI global. No equivale a “bajo rendimiento en mates” ni a TDAH. Ver [material discalculia](materiales/discalculia-y-dea-matematicas.md).
 
-### Condicionamiento operante (Skinner)
-Aprendizaje por consecuencias (refuerzo, castigo, extinción) que alteran la probabilidad de una conducta.
-
-### Conducta observable
-Comportamiento definido de forma que se pueda registrar sin inferir intenciones (“levanta la mano”, no “es vago”).
-
-### Desarrollo evolutivo
-Cambios ordenados a lo largo de la vida en distintas dimensiones (cognitiva, social, emocional, física).
-
-### Diferencias individuales
-Variación entre personas en ritmo de desarrollo, aprendizajes previos, contexto, temperamento o necesidades de apoyo.
-
-### Esquema cognitivo
-Estructura de conocimiento organizada que guía la comprensión y la resolución de problemas; puede ser parcialmente errónea.
-
-### Extinción
-Disminución de una conducta al dejar de reforzarla.
-
-### Identidad (Erikson)
-Construcción del sentido de quién se es; en la escuela incluye la identidad académica (“se me dan / no se me dan las mates”).
-
-### Memoria a largo plazo
-Almacén relativamente permanente de conocimientos, procedimientos y experiencias.
+### DEA (dificultades específicas de aprendizaje)
+Categoría que agrupa dificultades significativas y persistentes en lectura, escritura o cálculo (entre otras), no explicables solo por discapacidad intelectual, escolarización inadecuada o factores sensoriales. La discalculia es la DEA del ámbito matemático.
 
 ### Memoria de trabajo
-Sistema de capacidad limitada para mantener y manipular información en el momento; se satura con demasiados elementos nuevos a la vez.
+Sistema de capacidad limitada que mantiene y manipula información mientras se realiza una tarea. En Matemáticas se satura fácilmente con enunciados largos, muchos pasos nuevos o ansiedad.
 
-### Metacognición
-Conocimiento y regulación del propio pensamiento: planificar, monitorear y evaluar la resolución de una tarea.
+### Mentalidad de crecimiento (*growth mindset*, Dweck)
+Creencia de que la habilidad (también la matemática) se puede desarrollar con práctica, estrategia y tiempo. Favorece la persistencia ante el error.
 
-### Modificación de conducta
-Intervención sistemática sobre antecedentes y consecuencias para aumentar conductas deseables y reducir indeseables, con criterios éticos.
+### Mentalidad fija (*fixed mindset*, Dweck)
+Creencia de que la habilidad es un rasgo estable. Favorece la evitación del reto y la interpretación del error como prueba de incapacidad. Ver [material mindset](materiales/mindset-atribuciones-matematicas.md).
 
-### Moldeado (*shaping*)
-Reforzar aproximaciones sucesivas a una conducta meta.
+### Operaciones formales (Piaget)
+Estadio del desarrollo cognitivo caracterizado por el razonamiento hipotético-deductivo y abstracto. **No** se alcanza de forma automática ni uniforme en toda la ESO; depende del dominio y de la instrucción.
 
-### Motivación extrínseca / intrínseca
-Extrínseca: por consecuencias externas (nota, premio, evitar castigo). Intrínseca: por interés o satisfacción inherente a la actividad.
-
-### Orientación a la maestría / al ego
-Maestría: foco en aprender y mejorar. Ego: foco en quedar por encima de otros o evitar parecer incompetente.
-
-### Pensamiento formal (Piaget)
-Capacidad de razonar sobre hipótesis, proporciones y posibilidades; no se alcanza de forma uniforme ni automática en toda la ESO.
-
-### Procesamiento de la información
-Modelo que describe el flujo atención → memoria de trabajo → memoria a largo plazo → recuperación y transferencia.
-
-### Refuerzo positivo / negativo
-Positivo: añadir un estímulo deseable tras la conducta. Negativo: retirar un estímulo aversivo tras la conducta. Ambos aumentan la probabilidad de la conducta.
-
-### Transferencia
-Aplicar lo aprendido a contextos o problemas nuevos.
+### Subitización
+Reconocimiento inmediato (sin contar) de cantidades pequeñas. Dificultades persistentes en subitización pueden ser un indicador de alerta en el sentido numérico (no un diagnóstico por sí solas).
 
 ### Zona de desarrollo próximo (ZDP, Vygotsky)
-Distancia entre lo que el alumno puede hacer solo y lo que puede hacer con mediación (adulto, par más experto, herramientas).
+Distancia entre lo que el alumno puede hacer **solo** y lo que puede hacer **con la ayuda** de un mediador más experto. No equivale al “trabajo en grupo” sin mediación ni andamiaje. Material: [ZDP y andamiaje](materiales/zdp-andamiaje-matematicas.md).
 
 ---
 
-## Pares para no confundir
+## Errores frecuentes de uso (resumen)
 
-| Término | No confundir con |
-|---------|------------------|
-| **ZDP** | “Nivel bajo” permanente; es un espacio de trabajo con ayuda |
-| **Andamiaje** | Hacer la tarea *por* el alumno de forma permanente |
-| **Refuerzo negativo** | Castigo; el refuerzo negativo *aumenta* una conducta |
-| **Castigo** | Cualquier consecuencia molesta; debe reducir la conducta y ser ética |
-| **Aprendizaje significativo** | Solo “motivador” o “con dibujos” |
-| **Autoeficacia** | Autoestima global |
-| **Reducir carga cognitiva** | “Bajar el nivel” del currículo; se reduce sobre todo la carga *extrínseca* |
-
-Ver: [programa](programa.md) · [apuntes](apuntes/) · [materiales](materiales/)
+| Término | Uso incorrecto frecuente | Uso correcto |
+|---------|--------------------------|--------------|
+| **ZDP** | “Nivel bajo” permanente; o “trabajo en equipo” sin más | Espacio de trabajo *con ayuda* que se retira |
+| **Reducir carga cognitiva** | “Bajar el nivel” del currículo | Reducir sobre todo la carga *extrínseca* |
+| **Discalculia** | Sinónimo de “malo en mates” | Dificultad específica del sentido numérico (evaluación profesional) |
+| **Talento / habilidad fija** | Explicación definitiva del rendimiento | Preferir atribuciones a esfuerzo y estrategia |

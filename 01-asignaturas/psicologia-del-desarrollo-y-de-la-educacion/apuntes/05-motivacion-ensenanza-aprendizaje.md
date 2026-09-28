@@ -3,78 +3,80 @@
 **Asignatura:** Psicología del desarrollo y de la educación  
 **Programa:** [tema 5](../programa.md)
 
-> Complemento aplicado: [Afectividad y motivación intrínseca](../../optativas/educacion-emocional-en-el-profesorado/materiales/afectividad-y-motivacion-intrinseca.md).
+---
+
+## 1. Motivación: por qué importa en Matemáticas
+
+La motivación no es solo “ganas”. Condiciona la persistencia, la elección de estrategias y la interpretación del error. En Matemáticas, donde el error es frecuente y visible, la motivación se construye (o se destruye) cada día.
 
 ---
 
-## 1. Qué es la motivación en el aula
+## 2. Tipos útiles en el aula
 
-Conjunto de procesos que **inician, dirigen y sostienen** la conducta hacia metas de aprendizaje. En Secundaria conviven motivos de interés, de logro, de pertenencia, de evitar el ridículo y de obtener nota.
-
----
-
-## 2. Intrínseca y extrínseca
-
-| Tipo | Motor | Riesgo si domina en exceso |
-|------|-------|----------------------------|
-| **Intrínseca** | Interés, reto, sentido | Puede faltar sin diseño de tareas atractivas y asequibles |
-| **Extrínseca** | Nota, premio, evitación de castigo | Aprendizaje superficial; abandono cuando no hay vigilancia |
-
-No se trata de eliminar lo extrínseco (las notas existen), sino de **no apagar** lo intrínseco con amenaza o control asfixiante.
+| Tipo | Característica | Implicación docente |
+|------|----------------|---------------------|
+| **Intrínseca** | Interés por la tarea en sí | Problemas con sentido; curiosidad; autonomía |
+| **Extrínseca** | Meta externa (nota, premio, evitar castigo) | Útil a corto plazo; no sustituye el sentido |
+| **De logro** | Orientación al dominio vs. a la nota | Feedback de proceso y de estrategia |
 
 ---
 
-## 3. Autodeterminación (Deci y Ryan)
+## 3. Atribuciones causales (Weiner)
 
-Tres necesidades que sostienen motivación de calidad:
+Los alumnos explican su éxito o fracaso atribuyéndolo a causas que varían en tres dimensiones:
 
-| Necesidad | Práctica docente |
-|-----------|------------------|
-| **Autonomía** | Elección acotada; justificar el sentido de la tarea |
-| **Competencia** | Reto alcanzable; feedback de proceso; progreso visible |
-| **Relación** | Clima de respeto; pertenencia al grupo |
+| Dimensión | Polos | Ejemplo en mates |
+|-----------|-------|------------------|
+| **Locus** | Interno ↔ Externo | “No sé” vs. “el examen era imposible” |
+| **Estabilidad** | Estable ↔ Inestable | “No se me dan las mates” vs. “esta vez no estudié la estrategia” |
+| **Controlabilidad** | Controlable ↔ Incontrolable | Esfuerzo y estrategia (controlable) vs. “talento fijo” (percibido como incontrolable) |
 
----
+**Idea clave para el docente:** orientar el éxito y el fracaso hacia factores **internos, inestables y controlables** (esfuerzo, estrategia, práctica), no hacia un “talento” fijo e inmodificable.
 
-## 4. Otras piezas útiles
-
-| Enfoque | Idea | Uso en mates |
-|---------|------|--------------|
-| **Autoeficacia (Bandura)** | “¿Puedo hacer esta tarea?” | Éxitos parciales; modelos de pares |
-| **Atribuciones** | Causas que el alumno da a su éxito/fracaso (esfuerzo, suerte, capacidad fija) | Enseñar atribuciones modificables: estrategia y práctica |
-| **Orientación a la maestría vs. al ego** | Aprender vs. quedar por encima de otros | Valorar mejora y explicación, no solo ranking |
-| **Expectativa × valor** | Me esfuerzo si espero poder y si valoro la tarea | Subir expectativa (andamiaje) y valor (contexto, utilidad, curiosidad) |
+→ **[Material: mindset y atribuciones en Matemáticas](../materiales/mindset-atribuciones-matematicas.md)**
 
 ---
 
-## 5. Desmotivación y ansiedad
+## 4. Mentalidad fija vs. mentalidad de crecimiento (Dweck)
 
-- La **ansiedad matemática** reduce recursos cognitivos y empuja a la evitación.  
-- Respuesta: menos amenaza social, más competencia percibida, criterios claros.  
-- La desmotivación crónica puede ser síntoma de lagunas, de aburrimiento o de problemas fuera del aula → observar y coordinar.
+| Mentalidad | Creencia | Consecuencia típica en mates |
+|------------|----------|------------------------------|
+| **Fija (fixed)** | La habilidad matemática es un rasgo estable | Evitación del reto; indefensión ante el error; “yo no sirvo para esto” |
+| **De crecimiento (growth)** | La habilidad se desarrolla con práctica y estrategia | Persistencia; búsqueda de estrategias; el error se interpreta como información |
+
+El feedback del profesor puede empujar hacia una u otra: elogiar solo la “inteligencia” o la velocidad refuerza la mentalidad fija; elogiar el proceso, la estrategia y la mejora refuerza la de crecimiento.
 
 ---
 
-## 6. Checklist de una sesión “pro-motivación”
+## 5. Desmotivación y ansiedad matemática
 
-- [ ] ¿Se entiende el *para qué*?  
-- [ ] ¿Hay un mínimo de elección o de reto personal?  
-- [ ] ¿El primer tramo es abordable?  
-- [ ] ¿El error se trata como información?  
-- [ ] ¿Hay feedback antes de la nota sumativa?
+- La **ansiedad matemática** reduce recursos de la memoria de trabajo y empuja a la evitación. No es solo “falta de estudio” ni un problema de conducta.
+- Se aborda combinando: tareas graduadas, feedback de proceso, normalización del error, reducción de amenaza evaluativa y, cuando proceda, coordinación con orientación.
+
+---
+
+## 6. Puntos críticos de revisión (errores comunes)
+
+| Error común | Corrección |
+|-------------|------------|
+| Clasificar la “habilidad o talento para las matemáticas” como un factor **fijo e inmodificable** a corto plazo | La creencia de habilidad fija (*fixed mindset*) genera indefensión aprendida. Orientar el éxito/fracaso al **esfuerzo y a la estrategia** (factores internos, inestables y controlables). |
+| Tratar la **ansiedad matemática** solo como falta de estudio o problema de conducta | Es un fenómeno **afectivo-cognitivo** que bloquea la memoria de trabajo. Requiere diseño de tareas, clima de error y, a veces, apoyo tutorial/orientación. |
+| Elogiar solo el resultado correcto o la “inteligencia” | Ese feedback refuerza la mentalidad fija. Preferir feedback de **proceso, estrategia y mejora**. |
+| Pensar que la motivación se resuelve solo con “más recompensas” | Las recompensas externas pueden ayudar a corto plazo, pero sin sentido de la tarea y sin atribuciones modificables la motivación intrínseca no se consolida. |
 
 ---
 
 ## 7. Preguntas de repaso
 
-1. Relaciona autoeficacia y el diseño del primer problema de una hoja de ejercicios.  
-2. ¿Por qué una orientación solo al ego fragiliza el aprendizaje de mates?  
-3. Propón un cambio en una tarea algorítmica para subir el *valor* percibido sin bajar el criterio.
+1. Clasifica según Weiner la atribución “no se me dan las mates”. ¿Qué feedback la contrarrestaría?  
+2. Diferencia mentalidad fija y de crecimiento con un ejemplo de resolución de problemas.  
+3. ¿Por qué la ansiedad matemática no se resuelve solo “estudiando más”?
 
 ---
 
 ## Material relacionado
 
-- [Afectividad y motivación intrínseca](../../optativas/educacion-emocional-en-el-profesorado/materiales/afectividad-y-motivacion-intrinseca.md)  
-- [Tema 4 — Cognición](04-procesamiento-informacion-teorias-cognitivas.md)  
-- [Educación emocional — tema 5](../../optativas/educacion-emocional-en-el-profesorado/apuntes/05-emocion-y-motivacion.md)  
+- **[Mindset y atribuciones en Matemáticas](../materiales/mindset-atribuciones-matematicas.md)**  
+- [Tema 2 — Diferencias y problemas (ansiedad matemática)](02-diferencias-individuales-problemas-adolescencia.md)  
+- [Tema 4 — Carga cognitiva y memoria de trabajo](04-procesamiento-informacion-teorias-cognitivas.md)  
+- [Afectividad y motivación (educación emocional)](../../optativas/educacion-emocional-en-el-profesorado/)  

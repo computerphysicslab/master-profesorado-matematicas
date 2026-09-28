@@ -52,7 +52,17 @@ En adolescencia se consolida (o se resquebraja) la idea “yo y las matemáticas
 
 ---
 
-## 6. Preguntas de repaso
+## 6. Puntos críticos de revisión (errores comunes)
+
+| Error común | Corrección |
+|-------------|------------|
+| Asumir que todos los adolescentes de ESO (12–16 años) alcanzan automáticamente el **pensamiento formal pleno** | El pensamiento abstracto formal depende del **dominio del contenido** y de la **instrucción explícita**. Álgebra abstracta o probabilidad requieren andamiaje previo; no se adquieren solo por maduración biológica. |
+| Tratar el estadio piagetiano como etiqueta fija del alumno | El mismo estudiante puede razonar de forma formal en un dominio familiar y de forma más concreta en otro. El contexto y la experiencia importan. |
+| Confundir “aún no formal” con “no capaz” | Muchos alumnos de ESO resuelven bien con representaciones concretas, pictóricas o con andamiaje; el objetivo es ampliar progresivamente la formalización. |
+
+---
+
+## 7. Preguntas de repaso
 
 1. ¿Por qué es un error tratar a todo 3.º ESO como “ya en estadio formal”?  
 2. Relaciona ZDP y una tarea de ecuaciones con andamiaje.  
@@ -63,4 +73,5 @@ En adolescencia se consolida (o se resquebraja) la idea “yo y las matemáticas
 ## Material relacionado
 
 - [Tema 2 — Diferencias y problemas](02-diferencias-individuales-problemas-adolescencia.md)  
+- [Tema 4 — Procesamiento y teorías cognoscitivas](04-procesamiento-informacion-teorias-cognitivas.md)  
 - [Educación emocional](../../optativas/educacion-emocional-en-el-profesorado/)  

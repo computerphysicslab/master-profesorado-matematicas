@@ -53,47 +53,43 @@ Ejemplos de ecuación $2(x+3)=14$ y de fracciones, checklist de diseño y formul
 |---------|--------------|---------------------|
 | **Piaget** | Construcción por asimilación/acomodación; estadios | Manipulación y conflicto cognitivo; no solo transmisión |
 | **Vygotsky** | Mediación social; ZDP | Andamiaje, lenguaje, pares |
-| **Ausubel** | Aprendizaje significativo vs. memorístico | Organizadores previos; ligar a ideas previas |
-| **Teoría de esquemas** | Estructuras de conocimiento organizan la comprensión | Detectar esquemas erróneos (p. ej. “multiplicar siempre aumenta”) |
-| **Metacognición** | Pensar sobre el propio pensamiento | Planificar, monitorear, evaluar la resolución de problemas |
-| **Aprendizaje autorregulado** | Metas, estrategias, reflexión | Portfolio de errores; tickets de salida |
+| **Bruner** | Representaciones enactiva → icónica → simbólica; andamiaje | Secuencia concreto-pictórico-abstracto (CPA) |
+| **Procesamiento de la información** | Límites de la memoria de trabajo; esquemas | Diseño de tareas y carga cognitiva |
 
 ---
 
-## 4. Errores y obstáculos
+## 4. Zona de desarrollo próximo y andamiaje
 
-En didáctica de las matemáticas (y en psicología cognitiva) el error a menudo es **síntoma de un esquema** en construcción, no solo “falta de estudio”. Intervención:
+La **ZDP** (Vygotsky) es la distancia entre lo que el alumno puede hacer solo y lo que puede hacer con la ayuda de un mediador más experto (profesor o compañero).
 
-1. Hacer visible el razonamiento.  
-2. Confrontar con un contraejemplo o otra representación.  
-3. Institucionalizar la forma correcta con sentido.  
-4. Practicar en contextos variados.
+El **andamiaje** (Bruner) es la ayuda temporal y ajustada que se retira progresivamente cuando el alumno gana autonomía.
+
+→ **[Material: ZDP y andamiaje en Matemáticas](../materiales/zdp-andamiaje-matematicas.md)**
 
 ---
 
-## 5. Diseño de una explicación “cognitivamente amable”
+## 5. Puntos críticos de revisión (errores comunes)
 
-1. Activar conocimientos previos (2–3 min).  
-2. Un objetivo de aprendizaje explícito.  
-3. Una idea nueva bien focalizada.  
-4. Doble código cuando ayude (simbólico + gráfico).  
-5. Práctica con feedback de proceso.  
-6. Cierre metacognitivo (“¿qué estrategia usaste?”).
+| Error común | Corrección |
+|-------------|------------|
+| Confundir la **ZDP** con el “trabajo en equipo” sin mediación | La ZDP exige la **intervención activa de un mediador** (profesor o compañero más aventajado) mediante andamiaje, desvaneciendo progresivamente la ayuda. El grupo solo no garantiza aprendizaje en la ZDP. |
+| Ignorar la limitación de la **memoria de trabajo** al diseñar problemas complejos | Diferenciar carga **intrínseca**, **extrínseca** y **germana**. Minimizar la extrínseca (consignas confusas, ruido visual, demasiados pasos simultáneos) y descomponer en pasos. |
+| Pensar que “reducir carga cognitiva” = bajar el nivel del currículo | Se reduce sobre todo la carga *extrínseca* y se gestiona la intrínseca por secuenciación; la germana (construir esquemas) debe mantenerse. |
+| Tratar el andamiaje como ayuda permanente | El andamiaje es **temporal**: se retira cuando el alumno puede transferir. Si no se retira, genera dependencia. |
 
 ---
 
 ## 6. Preguntas de repaso
 
-1. ¿Por qué la memoria de trabajo limita la explicación de un sistema de tres pasos nuevos a la vez?  
-2. Diferencia carga intrínseca, extrínseca y germana con un ejemplo de fracciones.  
-3. Diferencia aprendizaje significativo y memorístico.  
-4. Diseña una pregunta metacognitiva para después de un problema de proporcionalidad.
+1. Explica con un ejemplo de fracciones la diferencia entre carga intrínseca, extrínseca y germana.  
+2. ¿Por qué “poner a trabajar en grupo” no equivale automáticamente a trabajar en la ZDP?  
+3. Diseña un andamiaje breve para la resolución de una ecuación de primer grado.
 
 ---
 
 ## Material relacionado
 
 - **[Carga cognitiva en Matemáticas](../materiales/carga-cognitiva-matematicas.md)**  
-- [ZDP y andamiaje](../materiales/zdp-andamiaje-matematicas.md)  
-- [Tema 3 — Conductual](03-teorias-conductuales-modificacion-conducta.md)  
+- **[ZDP y andamiaje](../materiales/zdp-andamiaje-matematicas.md)**  
+- [Tema 1 — Desarrollo en la adolescencia](01-desarrollo-adolescencia.md)  
 - [Tema 5 — Motivación](05-motivacion-ensenanza-aprendizaje.md)  
