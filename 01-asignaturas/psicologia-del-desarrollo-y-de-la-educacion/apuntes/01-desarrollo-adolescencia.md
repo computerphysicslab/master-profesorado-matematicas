@@ -143,7 +143,7 @@ En la **adolescencia temprana**, el autoconcepto integra sobre todo rasgos físi
 
 La adolescencia es un periodo **crítico** para la autoestima. Una baja autoestima puede asociarse a inseguridad ante el aprendizaje, hipersensibilidad a la crítica, pasividad por miedo al fracaso, exageración de los errores y, en casos graves, malestar depresivo.
 
-**Implicación en Matemáticas:** ridiculizar el error, premiar solo la velocidad o etiquetar (“tú no eres de números”) empuja identidades académicas frágiles. El feedback de **proceso** y los retos **alcanzables** protegen la autoeficacia (véase [autoeficacia matemática](../materiales/autoeficacia-matematica.md) y [mindset y atribuciones](../materiales/mindset-atribuciones-matematicas.md)).
+**Implicación en Matemáticas:** ridiculizar el error, premiar solo la velocidad o etiquetar (“tú no eres de números”) empuja identidades académicas frágiles. El feedback de **proceso** y los retos **alcanzables** protegen la autoeficacia (véase [autoeficacia matemática](../materiales/autoeficacia-matematica.md) y [mindset y atribuciones](../materiales/mindset-atribuciones-matematicas.md)). El feedback del docente —y lo que el docente no ve de su propio impacto (**área ciega**)— contribuye a consolidar o a reabrir identidades académicas frágiles (véase [Ventana de Johari](../../optativas/habilidades-comunicativas-para-docentes/materiales/ventana-de-johari-docencia-matematicas.md)).
 
 ---
 
@@ -240,6 +240,7 @@ La búsqueda de autonomía **no tiene por qué** derivar en conflicto permanente
 - [Tema 4 — Procesamiento y teorías cognoscitivas](04-procesamiento-informacion-teorias-cognitivas.md)  
 - [ZDP y andamiaje](../materiales/zdp-andamiaje-matematicas.md) · [Carga cognitiva](../materiales/carga-cognitiva-matematicas.md)  
 - [Autoeficacia matemática](../materiales/autoeficacia-matematica.md) · [Mindset y atribuciones](../materiales/mindset-atribuciones-matematicas.md)  
+- [Ventana de Johari (autoconocimiento docente y clima de aula)](../../optativas/habilidades-comunicativas-para-docentes/materiales/ventana-de-johari-docencia-matematicas.md)  
 - [Educación emocional](../../optativas/educacion-emocional-en-el-profesorado/)
 
 ---
