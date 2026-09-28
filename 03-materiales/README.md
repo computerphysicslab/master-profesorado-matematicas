@@ -1,20 +1,19 @@
 # Materiales
 
-Recursos docentes reutilizables del máster (actividades, fichas, presentaciones, historias de aula, etc.).
+Sección del repositorio del Máster de Profesorado de Matemáticas 2026–2027.  
+Documentación, fichas de apoyo, recursos y evidencias reutilizables.
 
-## Contenido destacado
+Los materiales se organizan por ámbito temático. Se incorporan progresivamente durante el curso.
 
-| Carpeta | Descripción |
-|---------|-------------|
-| [historias-matematicas/](historias-matematicas/) | Relatos y anécdotas para introducir conceptos (arco: historia → problema → idea → formalización) |
-| `eso/` · `bachillerato/` · `secundaria/` | Materiales por etapa |
-| `actividades/` · `ejercicios/` · `fichas/` | Actividades y fichas de trabajo |
-| `matematicas/` · `stem/` | Recursos de materia y STEM |
-| `presentaciones/` · `recursos-digitales/` | Soportes y herramientas |
+## Estructura actual
 
-## Historias matemáticas (inicio de colección)
+| Carpeta | Contenido |
+|---------|-----------|
+| [`psicologia/`](psicologia/) | Fichas de apoyo de Psicología del desarrollo y de la educación (riesgos, detección, derivación, neurodivergencia, etc.) |
+| [`historias-matematicas/`](historias-matematicas/) | Fichas de historias y anécdotas matemáticas para el aula |
+| [`eso/`](eso/), [`bachillerato/`](bachillerato/), [`secundaria/`](secundaria/) | Materiales por etapa |
+| [`matematicas/`](matematicas/), [`stem/`](stem/), [`recursos-digitales/`](recursos-digitales/) | Recursos temáticos |
 
-- [Eratóstenes y el tamaño de la Tierra](historias-matematicas/fichas/eratostenes-tierra.md) (ESO)  
-- [Laplace y el demonio determinista](historias-matematicas/fichas/laplace-demonio.md) (Bachillerato)  
+## Uso
 
-Índices: [por concepto](historias-matematicas/indices/por-concepto.md) · [por curso](historias-matematicas/indices/por-curso.md) · [catálogo](historias-matematicas/indices/catalogo.md)
+Cada ficha incluye aviso de alcance (orientativo, no clínico cuando aplica) y enlaces a material relacionado. Ante situaciones de riesgo, se aplica siempre el **protocolo del centro**.
