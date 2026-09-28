@@ -1,0 +1,12 @@
+# Rúbrica de Resolución de Problemas y Conjeturas Matemáticas
+*(Alineada con CE.M.1 y CE.M.2 - LOMLOE)*
+
+Esta rúbrica evalúa la capacidad del alumnado para interpretar, formular, abordar y resolver problemas matemáticos, así como para realizar conjeturas, razonamientos y validaciones de soluciones.
+
+| Criterio / Indicador | Sobresaliente (9-10) | Notable (7-8) | Aprobado (5-6) | Insuficiente (1-4) |
+| :--- | :--- | :--- | :--- | :--- |
+| **CE.M.1.1 Comprender e interpretar** | Identifica con precisión los datos, las incógnitas y las relaciones subyacentes. Interpreta adecuadamente el problema en diferentes contextos. | Identifica los datos principales y la incógnita sin dificultad. Comprende el contexto del problema. | Identifica los datos con ayuda o comete errores leves de interpretación del enunciado. | No comprende el problema ni identifica los datos o las incógnitas relevantes. |
+| **CE.M.1.2 Estrategias y planificación** | Diseña e implementa un plan riguroso, eficiente y original (diagramas, ecuaciones, ensayo-error, descomposición). | Selecciona una estrategia válida, lógica y coherente para la resolución. | Aplica un procedimiento mecánico o estándar con cierto grado de apoyo. | Aplica métodos erróneos o realiza intentos al azar sin planificación previa. |
+| **CE.M.1.3 Ejecución y herramientas** | Desarrolla las operaciones y procesos matemáticos sin errores, seleccionando las herramientas más eficientes. | Realiza los cálculos y desarrollos correctamente con algún fallo menor que no afecta al resultado. | Comete errores operacionales o procedimentales que no alteran totalmente el proceso. | Comete errores graves de cálculo, concepto o lógica matemática. |
+| **CE.M.2.1 Conjeturas y generalización** | Formula hipótesis y conjeturas bien fundamentadas. Identifica patrones y explora la generalización de resultados. | Realiza conjeturas coherentes basándose en ejemplos previos y patrones observados. | Propone conjeturas sencillas con orientación o guiado del docente. | Es incapaz de formular hipótesis o detectar regularidades numéricas/espaciales. |
+| **CE.M.2.2 Validación y reflexión** | Comprueba la solución, analiza su sentido en el contexto original y evalúa métodos alternativos de resolución. | Verifica que el resultado es coherente con el contexto y razona sobre la validez del método. | Acepta el resultado obtenido sin verificar adecuadamente su sentido contextual. | No evalúa la coherencia del resultado o acepta respuestas absurdas sin crítica. |
