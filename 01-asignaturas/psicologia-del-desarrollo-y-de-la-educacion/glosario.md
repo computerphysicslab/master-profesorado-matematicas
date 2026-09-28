@@ -34,6 +34,9 @@ Dificultad específica del aprendizaje que afecta de forma primaria al **sentido
 ### DEA (dificultades específicas de aprendizaje)
 Categoría que agrupa dificultades significativas y persistentes en lectura, escritura o cálculo (entre otras), no explicables solo por discapacidad intelectual, escolarización inadecuada o factores sensoriales. La discalculia es la DEA del ámbito matemático.
 
+### Doble excepcionalidad (2e)
+Coexistencia de altas capacidades con una dificultad específica o condición neurodivergente (p. ej. TDAH, TEA, dislexia, discalculia). Requiere atender ambos perfiles: ni solo enriquecer ni solo “remediar”.
+
 ### Feedback
 Información que el alumno recibe sobre su desempeño y que puede usar para ajustar el siguiente intento. Puede ser de resultado, correctivo, de proceso/estrategia o de autorregulación. Material: [feedback efectivo](materiales/feedback-efectivo-matematicas.md).
 
@@ -52,11 +55,23 @@ Creencia de que la habilidad (también la matemática) se puede desarrollar con 
 ### Mentalidad fija (*fixed mindset*, Dweck)
 Creencia de que la habilidad es un rasgo estable. Favorece la evitación del reto y la interpretación del error como prueba de incapacidad. Ver [material mindset](materiales/mindset-atribuciones-matematicas.md).
 
+### Neurodivergencia
+Variación del desarrollo neurológico (p. ej. TDAH, TEA/autismo, dislexia, discalculia) que implica perfiles distintos de atención, procesamiento, comunicación o regulación. El docente observa barreras y fortalezas y adapta el diseño; no diagnostica. Material: [neurodivergencia en el aula de Matemáticas](materiales/neurodivergencia-aula-matematicas.md).
+
+### Neurodiversidad
+Perspectiva que considera esas variaciones como parte de la diversidad humana: no todo lo distinto es déficit; hay barreras contextuales y también fortalezas.
+
 ### Operaciones formales (Piaget)
 Estadio del desarrollo cognitivo caracterizado por el razonamiento hipotético-deductivo y abstracto. **No** se alcanza de forma automática ni uniforme en toda la ESO; depende del dominio y de la instrucción.
 
 ### Subitización
 Reconocimiento inmediato (sin contar) de cantidades pequeñas. Dificultades persistentes en subitización pueden ser un indicador de alerta en el sentido numérico (no un diagnóstico por sí solas).
+
+### TDAH
+Condición del neurodesarrollo que afecta de forma relevante a la atención, la inhibición y/o la hiperactividad-impulsividad. En mates suele interferir con la organización de problemas multi-paso y con la memoria de trabajo; no equivale a discalculia ni a “falta de interés”.
+
+### TEA (trastorno del espectro autista) / perfil autista
+Condición del neurodesarrollo que afecta a la comunicación social y a patrones de comportamiento e intereses. En el aula de mates importan la previsibilidad, las consignas explícitas y el manejo de la sobrecarga; puede haber fortalezas en rigor, patrones y detalle.
 
 ### Zona de desarrollo próximo (ZDP, Vygotsky)
 Distancia entre lo que el alumno puede hacer **solo** y lo que puede hacer **con la ayuda** de un mediador más experto. No equivale al “trabajo en grupo” sin mediación ni andamiaje. Material: [ZDP y andamiaje](materiales/zdp-andamiaje-matematicas.md).
@@ -73,3 +88,4 @@ Distancia entre lo que el alumno puede hacer **solo** y lo que puede hacer **con
 | **Talento / habilidad fija** | Explicación definitiva del rendimiento | Preferir atribuciones a esfuerzo y estrategia |
 | **Autoeficacia** | “Motivarle” solo con frases de ánimo | Construir evidencias de dominio + feedback de estrategia |
 | **Feedback** | Solo la nota o “muy bien / mal” | Información usable sobre proceso y siguiente acción |
+| **Neurodivergencia / TDAH / TEA** | Etiqueta de pasillo o excusa de baja expectativa | Observar, diseñar, coordinar; diagnostica orientación |

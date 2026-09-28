@@ -19,13 +19,15 @@ Recursos prácticos orientados al aula de Matemáticas.
 | [Feedback efectivo en Matemáticas](feedback-efectivo-matematicas.md) | Temas 1 y 5 — tipos de feedback, pizarra, rúbricas |
 | [Gestión del error en Matemáticas](gestion-del-error-matematicas.md) | Temas 1, 4 y 5 — clima, tipos de error, técnicas de aula |
 
-## Diversidad y conducta
+## Diversidad, neurodivergencia y conducta
 
 | Material | Tema / uso |
 |----------|------------|
+| [Neurodivergencia en el aula de Matemáticas](neurodivergencia-aula-matematicas.md) | Tema 2 — marco TDAH, TEA, dislexia, discalculia, altas capacidades/2e |
 | [Discalculia y DEA en Matemáticas](discalculia-y-dea-matematicas.md) | Tema 2 — sentido numérico, distinción TDAH/lagunas/ansiedad |
 | [Registro ABC de conducta](registro-abc-conducta.md) | Tema 3 — análisis funcional en el aula |
 
 ## Enlaces
 
-- [Apuntes](../apuntes/) · [Programa](../programa.md) · [Glosario](../glosario.md) · [Examen](../examen/) · [Bibliografía](../bibliografia.md)
+- [Apuntes](../apuntes/) · [Programa](../programa.md) · [Glosario](../glosario.md) · [Examen](../examen/) · [Bibliografía](../bibliografia.md)  
+- DUA (otra asignatura): [Procesos y contextos — DUA](../../procesos-y-contextos-educativos/materiales/dua-diseno-universal-aprendizaje.md)
