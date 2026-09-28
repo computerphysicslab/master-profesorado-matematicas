@@ -1,110 +1,65 @@
 # Carga cognitiva en Matemáticas
 
 **Asignatura:** Psicología del desarrollo y de la educación  
-**Anclaje:** [Tema 4 — Procesamiento de la información y teorías cognoscitivas](../apuntes/04-procesamiento-informacion-teorias-cognitivas.md)  
-**Relacionado:** [ZDP y andamiaje](zdp-andamiaje-matematicas.md)
+**Temas relacionados:** [4 — Procesamiento](../apuntes/04-procesamiento-informacion-teorias-cognitivas.md)
 
 ---
 
-## Definición operativa
+## 1. Idea central
 
-La **carga cognitiva** es la demanda que una tarea de aprendizaje impone sobre la capacidad **limitada** de la **memoria de trabajo**. Cuando esa demanda supera los recursos disponibles, disminuyen la comprensión, el rendimiento y la capacidad de adquirir conocimientos nuevos.
+La **memoria de trabajo** tiene capacidad limitada. Si la demanda de la tarea la satura, caen la comprensión, el rendimiento y el aprendizaje de lo nuevo.
 
-En otras palabras: es la cantidad de información y esfuerzo mental que la memoria de trabajo debe gestionar **en un momento determinado**.
+```mermaid
+flowchart LR
+  subgraph MT[Memoria de trabajo — capacidad limitada]
+    I[Carga intrínseca<br/>complejidad del contenido]
+    E[Carga extrínseca<br/>mala presentación]
+    G[Carga germana<br/>construir esquemas]
+  end
+  I --> MT
+  E --> MT
+  G --> MT
+  MT -->|si se satura| F[Baja comprensión / aprendizaje]
+  E -.->|se puede reducir| OK[Más recursos para I + G]
+```
 
----
+*Figura. Los tres tipos de carga compiten por la misma memoria de trabajo. Prioridad: recortar la extrínseca.*
 
-## Por qué importa en el aula
-
-La memoria de trabajo no puede manipular indefinidos elementos a la vez. Si una actividad exige procesar demasiadas cosas **simultáneamente**, el alumno puede:
-
-- bloquearse;
-- cometer errores de procedimiento;
-- no consolidar el conocimiento nuevo en la memoria a largo plazo.
-
-Eso **no** significa automáticamente que “no sepa matemáticas”: a menudo la tarea está **mal dimensionada** respecto a lo que ya tiene automatizado.
-
----
-
-## Ejemplo 1 — Ecuación en 2.º ESO
-
-Resolver:
-
-$$2(x+3)=14$$
-
-**Alumno que ya domina operaciones básicas** (carga relativamente baja):
-
-1. $2(x+3)=14$  
-2. Dividir entre 2 → $x+3=7$  
-3. Restar 3 → $x=4$
-
-Los procedimientos básicos están **automatizados**; la memoria de trabajo se ocupa sobre todo de la estructura de la ecuación.
-
-**Alumno que está aprendiendo a la vez** qué es una incógnita, qué es una ecuación, paréntesis, distributiva, enteros, conservación de la igualdad y la secuencia de pasos:
-
-Puede ocurrir, por ejemplo:
-
-$$2(x+3)=14 \;\rightarrow\; 2x+3=14 \;\rightarrow\; 2x=11 \;\rightarrow\; x=5{,}5$$
-
-El fallo no siempre es “falta de capacidad”: es **exceso de elementos nuevos simultáneos**.
 
 ---
 
-## Ejemplo 2 — Suma de fracciones
+## 2. Tres tipos de carga
 
-Empezar directamente con:
+| Tipo | Qué es | Qué hacer en mates |
+|------|--------|---------------------|
+| **Intrínseca** | Complejidad del contenido y de sus interacciones | Secuenciar; no eliminar el reto necesario |
+| **Extrínseca** | Dificultad por mala presentación (ruido, consignas confusas, demasiados pasos a la vez) | Clarificar; limpiar el enunciado; un foco por fase |
+| **Germana** | Esfuerzo útil para construir esquemas | Conectar con lo previo; reflexionar la estrategia |
 
-$$\frac{2}{3}+\frac{5}{6}$$
-
-mientras aún se construyen numerador/denominador, equivalencias, común denominador y el algoritmo de suma, satura la memoria de trabajo.
-
-**Reducir la carga descomponiendo el aprendizaje:**
-
-| Paso | Foco |
-|------|------|
-| 1 | Qué representa una fracción |
-| 2 | Equivalencias: $\frac{2}{3}=\frac{4}{6}$ |
-| 3 | Denominadores comunes |
-| 4 | Suma: $\frac{2}{3}+\frac{5}{6}=\frac{4}{6}+\frac{5}{6}=\frac{9}{6}=\frac{3}{2}$ |
-
-Cada operación nueva llega cuando parte del conocimiento previo ya ocupa **menos** espacio en la memoria de trabajo (está más automatizado o apoyado en representaciones externas).
+**Reducir carga ≠ bajar el nivel del currículo.** Se reduce sobre todo la *extrínseca*.
 
 ---
 
-## Tres tipos de carga (didáctica)
+## 3. Ejemplos rápidos
 
-| Tipo | Qué significa | Ejemplo |
-|------|---------------|--------|
-| **Intrínseca** | Complejidad propia del contenido (elementos e interacciones) | Una ecuación con varios elementos relacionados |
-| **Extrínseca** | Dificultad añadida por *cómo* presentamos la información | Instrucciones confusas, datos irrelevantes, diseño visual caótico |
-| **Germana** (*germane*) | Esfuerzo útil para construir esquemas y comprender | Relacionar la ecuación nueva con otras ya aprendidas |
+**Ecuación** $2(x+3)=14$: si se introducen a la vez distributiva, despeje y comprobación sin apoyo, la intrínseca + extrínseca saturan. Mejor: un objetivo por momento (expandir → despejar → sustituir).
 
-**Objetivo didáctico:** no eliminar la dificultad matemática (**intrínseca** cuando el contenido lo exige), sino **reducir la extrínseca** y favorecer la **germana**.
-
-Reducir la carga cognitiva **no** es “hacer las mates más fáciles” en el sentido de vaciar el currículo: es evitar que el alumno gaste su memoria de trabajo en lo innecesario para poder dedicarla a **comprender y aprender**.
+**Fracciones:** exigir a la vez significado de denominador, equivalencias, común denominador y el algoritmo de suma satura la memoria de trabajo.
 
 ---
 
-## Implicaciones prácticas (checklist)
+## 4. Checklist de diseño
 
-| Pregunta | Si la respuesta es no… |
-|----------|------------------------|
-| ¿Qué procedimientos dan por hechos y aún no lo están? | Enseñar o practicar antes el prerrequisito |
-| ¿Cuántos elementos *nuevos* hay a la vez? | Secuenciar; un foco nuevo por fase |
-| ¿El enunciado añade ruido? | Simplificar forma; separar contexto de lo esencial al inicio |
-| ¿Hay apoyo externo (tabla, esquema, GeoGebra)? | Ofrecer representación que descargue memoria de trabajo |
-| ¿El andamiaje está en la ZDP? | Ver [ZDP y andamiaje](zdp-andamiaje-matematicas.md) |
+- [ ] ¿La consigna es inequívoca?
+- [ ] ¿Hay datos o adornos que no aportan al objetivo?
+- [ ] ¿Los pasos nuevos son pocos a la vez?
+- [ ] ¿Lo rutinario está suficientemente automatizado?
+- [ ] ¿Queda espacio mental para la estrategia (carga germana)?
 
 ---
 
-## Enlace con motivación y emoción
+## Lecturas y enlaces
 
-La sobrecarga se vive a menudo como **ansiedad o bloqueo**. Bajar la carga extrínseca y graduar la intrínseca protege la **competencia percibida** y la motivación de calidad.
-
-Ver: [Afectividad y motivación intrínseca](../../optativas/educacion-emocional-en-el-profesorado/materiales/afectividad-y-motivacion-intrinseca.md).
-
----
-
-## Formulación breve para apuntes / exámenes
-
-> La carga cognitiva es la demanda que una tarea de aprendizaje impone sobre la capacidad limitada de la memoria de trabajo. Cuando esta demanda supera los recursos disponibles, disminuyen la comprensión, el rendimiento y la capacidad para adquirir nuevos conocimientos.
+- [Tema 4](../apuntes/04-procesamiento-informacion-teorias-cognitivas.md)  
+- [Funciones ejecutivas](funciones-ejecutivas-matematicas.md)  
+- [ZDP y andamiaje](zdp-andamiaje-matematicas.md)  

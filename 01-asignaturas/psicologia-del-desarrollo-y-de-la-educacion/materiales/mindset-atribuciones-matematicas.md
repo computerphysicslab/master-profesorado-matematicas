@@ -43,6 +43,25 @@ Las causas que el alumno atribuye al éxito o al fracaso se organizan en tres di
 | **Ante el error** | Amenaza; vergüenza; abandono | Información; ajuste de estrategia |
 | **Feedback que la refuerza** | “Eres muy inteligente”, “qué rápido lo has hecho” | “La estrategia que has usado te ha permitido…”, “¿qué probarías distinto?” |
 
+```mermaid
+flowchart TB
+  subgraph fija [Mentalidad fija]
+    R1[Reto] --> E1[Evitación]
+    E1 --> F1[Error = amenaza]
+    F1 --> A1[Abandono / “no se me dan”]
+    A1 --> R1
+  end
+  subgraph crec [Mentalidad de crecimiento]
+    R2[Reto] --> I2[Intento con estrategia]
+    I2 --> F2[Error = información]
+    F2 --> A2[Ajuste y práctica]
+    A2 --> R2
+  end
+```
+
+*Figura. Dos ciclos ante el reto y el error en Matemáticas (Dweck). El feedback docente puede empujar hacia uno u otro.*
+
+
 ### En el aula de Matemáticas
 
 - Evitar mensajes del tipo “los de ciencias / los de letras” o “tú no eres de mates”.
