@@ -18,6 +18,7 @@ Recursos prácticos orientados al aula de Matemáticas.
 | [Autoeficacia matemática](autoeficacia-matematica.md) | Tema 5 — Bandura, evitación, logros de dominio |
 | [Feedback efectivo en Matemáticas](feedback-efectivo-matematicas.md) | Temas 1 y 5 — tipos de feedback, pizarra, rúbricas |
 | [Gestión del error en Matemáticas](gestion-del-error-matematicas.md) | Temas 1, 4 y 5 — clima, tipos de error, técnicas de aula |
+| [Ventana de Johari (enlace)](../../optativas/habilidades-comunicativas-para-docentes/materiales/ventana-de-johari-docencia-matematicas.md) | Autoconocimiento docente, feedback y clima de aula |
 
 ## Diversidad, neurodivergencia y conducta
 
