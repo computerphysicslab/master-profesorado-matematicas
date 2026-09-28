@@ -4,6 +4,42 @@ Repositorio personal de trabajo del **Máster Universitario en Profesorado de Ed
 
 El repositorio reúne apuntes, materiales, actividades, trabajos, bibliografía, proyectos, recursos digitales y evidencias de aprendizaje generados durante el máster.
 
+
+```mermaid
+flowchart TB
+  subgraph gen [Formación general S1]
+    PSI[Psicología del desarrollo]
+    PCE[Procesos y contextos]
+    SFP[Sociedad · familia · grupos]
+  end
+  subgraph esp [Especialidad Matemáticas]
+    DC[Diseño curricular]
+    CD[Contenidos disciplinares]
+    DA[Diseño de actividades]
+    IN[Innovación e investigación]
+  end
+  subgraph pract [Práctica y TFM]
+    P1[Practicum I]
+    P2[Practicum II]
+    TFM[Trabajo fin de máster]
+  end
+  PSI --> DC
+  PCE --> DC
+  SFP --> DC
+  DC --> DA
+  CD --> DA
+  DA --> IN
+  PSI --> P1
+  PCE --> P1
+  P1 --> P2
+  DA --> TFM
+  IN --> TFM
+  P2 --> TFM
+```
+
+*Figura. Mapa orientativo del máster: de la formación general y la especialidad hacia el practicum y el TFM.*
+
+
 ## Estructura
 
 - `00-administracion/` — matrícula, calendario, trámites, organización y documentación administrativa.
