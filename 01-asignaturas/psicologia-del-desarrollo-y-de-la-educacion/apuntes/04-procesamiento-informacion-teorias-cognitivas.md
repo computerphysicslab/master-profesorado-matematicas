@@ -13,13 +13,17 @@ Las teorías **cognoscitivas** se interesan por lo que ocurre *entre* el estímu
 
 ## 2. Procesamiento de la información (modelo útil en el aula)
 
-```text
-Estímulo (enunciado, gráfica, explicación)
-    → Atención / percepción selectiva
-        → Memoria de trabajo (capacidad limitada)
-            → Memoria a largo plazo (esquemas, procedimientos, hechos)
-                → Recuperación y transferencia
+```mermaid
+flowchart TB
+  E[Estímulo<br/>enunciado / gráfica / explicación] --> A[Atención y percepción selectiva]
+  A --> MT[Memoria de trabajo<br/>capacidad limitada]
+  MT --> MLP[Memoria a largo plazo<br/>esquemas · procedimientos · hechos]
+  MLP --> R[Recuperación y transferencia]
+  MT -.->|si satura| X[Caen comprensión y aprendizaje]
 ```
+
+*Figura. Modelo simplificado de procesamiento de la información (útil para diseñar tareas de Matemáticas).*
+
 
 | Componente | Implicación didáctica |
 |------------|----------------------|
@@ -82,7 +86,7 @@ El **andamiaje** (Bruner) es la ayuda temporal y ajustada que se retira progresi
 ## 6. Preguntas de repaso
 
 1. Explica con un ejemplo de fracciones la diferencia entre carga intrínseca, extrínseca y germana.  
-2. ¿Por qué “poner a trabajar en grupo” no equivale automáticamente a trabajar en la ZDP?  
+2. ¿Por qué “poner a los alumnos a trabajar en grupo” no equivale automáticamente a trabajar en la **zona de desarrollo próximo (ZDP)**?  
 3. Diseña un andamiaje breve para la resolución de una ecuación de primer grado.
 
 ---
