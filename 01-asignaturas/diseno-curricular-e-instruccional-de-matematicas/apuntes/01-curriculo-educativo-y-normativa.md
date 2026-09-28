@@ -88,6 +88,18 @@ El profesor es el eslabón crítico entre lo designado y lo alcanzado.
 
 ## 5. Niveles de concreción curricular
 
+```mermaid
+flowchart TB
+  E[1. Currículo estatal<br/>LOMLOE + RD enseñanzas mínimas]
+  A[2. Currículo autonómico]
+  C[3. Proyecto / programaciones de centro]
+  P[4. Programación didáctica y de aula]
+  AD[5. Adaptación curricular · DUA]
+  E --> A --> C --> P --> AD
+```
+
+*Figura. Niveles de concreción curricular (de la norma general al ajuste individual).*
+
 | Nivel | Función |
 |-------|---------|
 | Currículo estatal | Marco general (LOE/LOMLOE + reales decretos de enseñanzas mínimas) |
