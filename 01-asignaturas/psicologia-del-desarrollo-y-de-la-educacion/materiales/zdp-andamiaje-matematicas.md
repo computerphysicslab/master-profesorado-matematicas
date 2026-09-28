@@ -1,13 +1,22 @@
-# ZDP y andamiaje en Matemáticas
+# ZDP y andamiaje en Matemáticas — ficha práctica
 
 **Asignatura:** Psicología del desarrollo y de la educación  
-**Temas relacionados:** [4 — Procesamiento y cognición](../apuntes/04-procesamiento-informacion-teorias-cognitivas.md)
+**Bases:** Vygotsky (ZDP, mediación) · temas [1](../apuntes/01-desarrollo-adolescencia.md) y [4](../apuntes/04-procesamiento-informacion-teorias-cognitivas.md)
 
 ---
 
-## 1. Zona de desarrollo próximo (Vygotsky)
+## 1. Zona de desarrollo próximo (ZDP)
 
-La **ZDP** es la distancia entre lo que el alumno puede hacer **solo** y lo que puede hacer **con la ayuda** de un mediador más experto (profesor o compañero).
+| Nivel | Qué puede hacer el alumno |
+|-------|---------------------------|
+| **Real / actual** | Solo, sin ayuda |
+| **ZDP** | Con mediación (docente, par, material, pistas) |
+| **Más allá** | Ni siquiera con ayuda razonable *hoy* |
+
+Enseñar solo en el nivel actual aburre; solo más allá genera ansiedad y abandono. El trabajo fértil está en la **ZDP**.
+
+---
+
 
 ```mermaid
 flowchart TB
@@ -27,43 +36,76 @@ flowchart TB
 *Figura. Tres zonas: solo / ZDP / fuera de alcance. El andamiaje opera en la ZDP y se retira hacia la autonomía.*
 
 
-No es un “nivel bajo” permanente ni un sinónimo de trabajo en grupo sin mediación.
+## 2. Andamiaje: principios
+
+1. **Ajuste:** la ayuda es la mínima necesaria.  
+2. **Temporalidad:** se retira cuando aparece autonomía.  
+3. **Foco:** sobre la estrategia o el significado, no solo el resultado.  
+4. **Mediación:** preguntas, representaciones, modelos parciales, trabajo con pares.
+
+Andamiaje ≠ “dárselo hecho” ni “bajar el criterio para siempre”.
 
 ---
 
-## 2. Andamiaje (Bruner)
+## 3. Escalera de ayuda (de menos a más invasiva)
 
-Ayuda **temporal y ajustada** que se ofrece en la ZDP y se **retira** cuando el alumno gana autonomía. Si no se retira, genera dependencia.
+| Escalón | Qué hace el docente | Ejemplo (ecuación / problema) |
+|---------|---------------------|-------------------------------|
+| 0 | Solo consigna clara | Enunciado + tiempo de lucha productiva |
+| 1 | Pregunta metacognitiva | “¿Qué datos tienes? ¿Qué te piden?” |
+| 2 | Pista de representación | “Prueba una tabla o una recta” |
+| 3 | Modelo parcial | Resuelve el primer paso en la pizarra; el resto el alumno |
+| 4 | Co-resolución guiada | Alternar pasos docente–alumno |
+| 5 | Re-enseñar el esquema | Mini-lección del procedimiento y vuelta a un ítem paralelo |
 
-Ejemplos en Matemáticas:
-
-- Modelar el plan en voz alta y luego pedir solo el primer paso.
-- Plantilla de pasos → palabras clave → margen en blanco.
-- Preguntas guía (“¿qué te piden?”, “¿qué datos usas?”) que el alumno interioriza.
-
----
-
-## 3. En el aula de Matemáticas
-
-| Situación | En la ZDP | Fuera de la ZDP |
-|-----------|-----------|-----------------|
-| Ecuación de primer grado con andamiaje de pasos | Sí, si con ayuda planifica y resuelve | Si ni con ayuda sostiene el objetivo |
-| Problema multi-paso sin ninguna guía ni esquema previo | Solo si ya domina el tipo | A menudo fuera: satura y abandona |
-| Trabajo en grupo sin roles ni mediación | No garantiza ZDP | Puede ser solo yuxtaposición |
+Regla: subir de escalón solo si el anterior no bastó; bajar en cuanto el alumno avance.
 
 ---
 
-## 4. Checklist de andamiaje
+## 4. Ejemplo completo — proporcionalidad (2.º–3.º ESO)
 
-- [ ] ¿La tarea está un poco por encima de lo que hace solo, no muy por encima?
-- [ ] ¿La ayuda es específica (plan, representación, pregunta) y no “hazlo tú”?
-- [ ] ¿Tengo un plan para retirar la ayuda a lo largo de la unidad?
-- [ ] ¿El éxito final es cada vez más atribuible al alumno?
+**Tarea:** Comparar dos ofertas (precio fijo + variable) y decidir a partir de qué consumo conviene cada una.
+
+| Momento | Andamiaje |
+|---------|-----------|
+| Activación | “¿Has comparado tarifas de móvil?” (sentido) |
+| Lucha inicial | 3–4 min en silencio o pareja; sin dar el método |
+| Si hay bloqueo | Escalón 1–2 (datos / tabla) |
+| Institucionalización | Formalizar con ecuación o gráfica *después* del intento |
+| Transferencia | Mismo esquema con otros números o contexto |
+| Retirada | Ítem final con menos pistas |
 
 ---
 
-## Lecturas y enlaces
+## 5. ZDP y DUA
 
-- [Tema 4 — Procesamiento](../apuntes/04-procesamiento-informacion-teorias-cognitivas.md)  
-- [Carga cognitiva](carga-cognitiva-matematicas.md)  
-- [Funciones ejecutivas](funciones-ejecutivas-matematicas.md)  
+El andamiaje se alinea con el DUA:
+
+- **Representación:** varias formas de la misma idea.  
+- **Acción/expresión:** distintas vías de evidenciar el criterio.  
+- **Compromiso:** reto alcanzable → competencia percibida → motivación.
+
+Ver: [DUA](../../procesos-y-contextos-educativos/materiales/dua-diseno-universal-aprendizaje.md).
+
+---
+
+## 6. Errores frecuentes
+
+| Error | Mejor |
+|-------|--------|
+| Ayudar al primer segundo de duda | Permitir lucha productiva breve |
+| Misma explicación idéntica tres veces | Cambiar de representación o de escalón |
+| Ayuda permanente al mismo alumno | Plan de retirada y práctica independiente |
+| Confundir ZDP con “adaptación significativa” | La ZDP es del día a día ordinario; las medidas específicas van por protocolo |
+
+---
+
+## 7. Mini-registro de practicum (anonimizado)
+
+```text
+Tarea: ________________
+Nivel aparente (solo / con ayuda / no aún): ______
+Escalón de andamiaje usado: ______
+Qué funcionó: ________________
+Próxima retirada de ayuda: ________________
+```
