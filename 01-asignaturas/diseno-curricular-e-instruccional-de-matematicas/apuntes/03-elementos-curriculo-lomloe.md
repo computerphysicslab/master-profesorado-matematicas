@@ -80,14 +80,21 @@ Análisis y tablas: **[Contenidos eliminados, trasladados y simplificados](../ma
 
 ## Parte C · Arquitectura LOMLOE
 
-```text
-                    PERFIL DE SALIDA
-                           │
-                COMPETENCIAS ESPECÍFICAS
-                    /              \
-     CRITERIOS DE EVALUACIÓN    SABERES BÁSICOS
-                               (sentidos matemáticos)
+```mermaid
+flowchart TB
+  PS[Perfil de salida]
+  CE[Competencias específicas]
+  CR[Criterios de evaluación]
+  SB[Saberes básicos<br/>sentidos matemáticos]
+  SA[Situaciones de aprendizaje]
+  PS --> CE
+  CE --> CR
+  CE --> SB
+  CR --> SA
+  SB --> SA
 ```
+
+*Figura. Arquitectura curricular LOMLOE: del perfil de salida a las situaciones de aprendizaje.*
 
 ### C.1. Perfil de salida
 
