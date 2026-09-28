@@ -239,13 +239,21 @@ evaluación de la práctica docente
 
 ## 12. Datos de contexto: TALIS 2024
 
-Según TALIS 2024 (OCDE):
-- El **64 %** del profesorado de secundaria inferior en España declara que tener demasiado trabajo administrativo es una fuente de estrés «bastante» o «mucho».
-- El **57 %** señala como fuente de estrés tener que mantenerse al día de cambios en los requisitos de las autoridades.
-- El **58 %** menciona los cambios curriculares o de programa.
-- El profesorado a tiempo completo en España dedica **2,6 horas semanales** a trabajo administrativo (frente a 3 h de media OCDE).
+Evidencia empírica contemporánea (TALIS 2024, secundaria inferior / ISCED 2):
 
-El problema no se reduce simplemente al número absoluto de horas. La relación entre burocracia y estrés depende también de la **naturaleza de las tareas** y de cómo interfieren con las actividades profesionales centrales (enseñar y relacionarse con el alumnado).
+| Indicador | España | OCDE (aprox.) |
+|-----------|--------|---------------|
+| Estrés por exceso de trabajo administrativo | **64 %** | ~52 % |
+| Estrés por cambios de currículo / programa | **58 %** | inferior |
+| Estrés por requisitos cambiantes de la administración | **57 %** | inferior |
+| Estrés por corregir y calificar | **54 %** | ~40 % |
+| Horas semanales en trabajo administrativo | **~2,6 h** | ~3 h |
+| Horas semanales en corrección | **~6,1 h** | ~4,6 h |
+| Satisfacción global con el trabajo | **~95 %** | ~89 % |
+
+El problema **no se reduce** al número absoluto de horas administrativas (España no está por encima de la media OCDE en ese indicador). La relación entre burocracia y estrés depende también de la **naturaleza y fragmentación de las tareas** (trazabilidad, evidencias, actualizaciones normativas) y de cómo interfieren con enseñar y relacionarse con el alumnado.
+
+Ficha completa del estudio (diseño, límites, cuadro ampliado): **[TALIS — ficha sintética](talis-ficha-sintetica.md)**.
 
 ---
 
