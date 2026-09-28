@@ -28,6 +28,12 @@ Recursos prácticos orientados al aula de Matemáticas.
 | [Discalculia y DEA en Matemáticas](discalculia-y-dea-matematicas.md) | Tema 2 — sentido numérico, distinción TDAH/lagunas/ansiedad |
 | [Registro ABC de conducta](registro-abc-conducta.md) | Tema 3 — análisis funcional en el aula |
 
+## Riesgos y bienestar (detección y derivación)
+
+| Material | Tema / uso |
+|----------|------------|
+| [Suicidio juvenil, RRSS y rol del docente](suicidio-juvenil-rrss-rol-docente.md) | Tema 2 — señales de alarma, redes como amplificador, protocolo, recursos (024) |
+
 ## Enlaces
 
 - [Apuntes](../apuntes/) · [Programa](../programa.md) · [Glosario](../glosario.md) · [Examen](../examen/) · [Bibliografía](../bibliografia.md)  

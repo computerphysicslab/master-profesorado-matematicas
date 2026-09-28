@@ -57,7 +57,7 @@ Perfiles, ajustes ordinarios, fortalezas y checklist:
 | **Acoso / exclusión** | Burlas, aislamiento | Protocolo inmediato |
 | **Sueño y hábitos** | Somnolencia, trabajos sin hacer | Coordinación tutorial; realismo de deberes |
 | **Identidad y autoestima** | “No valgo”, comparación social | Feedback de proceso; evitar ridículo |
-| **Riesgos (consumo, autolesión, etc.)** | Señales de alarma | **Derivar**; no improvisar terapia |
+| **Riesgos (consumo, autolesión, conducta suicida)** | Señales de alarma; RRSS como amplificador | **Derivar**; no improvisar terapia — ver [suicidio juvenil y RRSS](../materiales/suicidio-juvenil-rrss-rol-docente.md) |
 
 ---
 
@@ -97,5 +97,6 @@ Prevenir (diseño, clima, normas)
 - **[Neurodivergencia en el aula de Matemáticas](../materiales/neurodivergencia-aula-matematicas.md)**  
 - [Discalculia y DEA](../materiales/discalculia-y-dea-matematicas.md)  
 - [Funciones ejecutivas](../materiales/funciones-ejecutivas-matematicas.md)  
+- **[Suicidio juvenil, RRSS y rol del docente](../materiales/suicidio-juvenil-rrss-rol-docente.md)** — detección, derivación, factores protectores  
 - [DUA](../../procesos-y-contextos-educativos/materiales/dua-diseno-universal-aprendizaje.md)  
 - [Tema 1 — Desarrollo](01-desarrollo-adolescencia.md)  
