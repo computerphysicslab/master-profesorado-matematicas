@@ -16,7 +16,9 @@ Cada asignatura tiene su propia carpeta dentro de `01-asignaturas/`.
 ├── README.md
 │
 ├── psicologia-del-desarrollo-y-de-la-educacion/
+│   ├── apuntes/  materiales/  examen/  …
 ├── procesos-y-contextos-educativos/
+│   ├── apuntes/  materiales/  examen/  …
 ├── sociedad-familia-y-procesos-grupales/
 ├── practicum-i/
 ├── contenidos-disciplinares-de-matematicas/
@@ -30,13 +32,10 @@ Cada asignatura tiene su propia carpeta dentro de `01-asignaturas/`.
 │
 └── optativas/
     ├── educacion-emocional-en-el-profesorado/
-    ├── prevencion-y-resolucion-de-conflictos/
-    ├── atencion-al-alumnado-con-necesidades-educativas-especificas/
-    ├── diseno-de-materiales-para-la-educacion-a-distancia/
-    ├── ensenanza-del-espanol-para-alumnado-inmigrante/
-    ├── habilidades-comunicativas-para-docentes/
-    └── tecnologias-de-la-informacion-y-la-comunicacion-para-el-aprendizaje/
+    └── …
 ```
+
+En las asignaturas teóricas, la carpeta **`examen/`** recoge bancos de posibles preguntas de examen del Máster alineadas con el material del repositorio (autoevaluación y preparación; no son preguntas oficiales de convocatoria).
 
 ---
 
@@ -74,8 +73,6 @@ Estas asignaturas constituyen el núcleo específico de la especialidad de Matem
 | --- | --- |
 | [Practicum II](practicum-ii/) | Obligatoria |
 | [Trabajo Fin de Máster — Especialidad Matemáticas](trabajo-fin-de-master/) | Obligatoria |
-│
-├── practicum/          ← diario, centro, aula, actividades, reflexiones (anonimizado)
 
 El TFM integrará los conocimientos adquiridos durante el Máster y podrá relacionarse con la didáctica de las Matemáticas, la innovación educativa, las metodologías activas, la tecnología educativa, Python, la Inteligencia Artificial u otras líneas de investigación educativa.
 
