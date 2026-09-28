@@ -8,7 +8,8 @@
 5. [Resumen Comparativo de las Leyes Orgánicas](#4-resumen-comparativo-de-las-leyes-orgánicas-educativas-en-españa)
 6. [Organización del Sistema Educativo en el Estado de las Autonomías](#5-organización-del-sistema-educativo-en-el-estado-de-las-autonomías)
 7. [Implicaciones para la enseñanza de las Matemáticas](#6-implicaciones-para-la-enseñanza-de-las-matemáticas)
-8. [Bibliografía de Referencia](#bibliografía-de-referencia)
+8. [Burocratización del trabajo docente: evolución histórica](#7-burocratización-del-trabajo-docente-evolución-histórica-y-hiperregulación)
+9. [Bibliografía de Referencia](#bibliografía-de-referencia)
 
 ---
 
@@ -198,6 +199,91 @@ La LOMLOE, al situarse predominantemente en el paradigma socio-crítico e inclus
 
 ---
 
+## 7. Burocratización del trabajo docente: evolución histórica e hiperregulación
+
+> Análisis sintético. Versión completa y argumentada en  
+> [materiales/burocratizacion-trabajo-docente-analisis-historico.md](../materiales/burocratizacion-trabajo-docente-analisis-historico.md).
+
+Ninguna ley determina por sí sola todo el papeleo docente. La burocracia efectiva depende también de decretos de currículo, reglamentos, órdenes de evaluación, normativa autonómica, plataformas digitales e inspección. La comparación más útil no es «páginas de cada ley», sino **cuántas capas de planificación, evaluación y trazabilidad** se van sumando.
+
+### 7.1. Índices heurísticos de complejidad (LGE 1970 = 100)
+
+| Reforma | Año  | Complejidad curricular* | Exigencia burocrática* | Trazabilidad / evaluación* | Rasgo dominante |
+|---------|------|-------------------------|------------------------|----------------------------|-----------------|
+| LGE     | 1970 | 100                     | 100                    | 80                         | Programa + evaluación del alumno |
+| LODE    | 1985 | 110                     | 115                    | 90                         | Participación y organización |
+| LOGSE   | 1990 | 150                     | 145                    | 120                        | Currículo + proyectos + programación |
+| LOPEG   | 1995 | 165                     | 170                    | 160                        | Evaluación de centros y profesorado |
+| LOCE    | 2002 | 180                     | 180                    | 175                        | Autonomía + responsabilidad |
+| LOE     | 2006 | 200                     | 195                    | 190                        | Competencias + programación |
+| LOMCE   | 2013 | 240                     | 235                    | 250                        | Estándares evaluables |
+| LOMLOE  | 2020 | 270                     | 260                    | 280                        | Competencias + situaciones + DUA + evaluación docente |
+
+\* Índices orientativos, no estadísticas oficiales. Sirven para visualizar la tendencia relativa.
+
+### 7.2. Evolución visual de la carga burocrática
+
+```mermaid
+xychart-beta
+    title "Índices heurísticos de complejidad curricular y burocracia (LGE 1970 = 100)"
+    x-axis [1970, 1985, 1990, 1995, 2002, 2006, 2013, 2020]
+    y-axis "Índice" 50 --> 300
+    line "Complejidad curricular" [100, 110, 150, 165, 180, 200, 240, 270]
+    line "Exigencia burocrática" [100, 115, 145, 170, 180, 195, 235, 260]
+    line "Trazabilidad / evaluación" [80, 90, 120, 160, 175, 190, 250, 280]
+```
+
+```
+Complejidad curricular (barra aproximada)
+
+LGE 1970   ████████████████░░░░░░░░░░░░░░  100
+LODE 1985  █████████████████░░░░░░░░░░░░░  110
+LOGSE 1990 ███████████████████████░░░░░░░  150
+LOPEG 1995 █████████████████████████░░░░░  165
+LOCE 2002  ███████████████████████████░░░  180
+LOE 2006   █████████████████████████████░  200
+LOMCE 2013 ████████████████████████████████████  240
+LOMLOE 2020████████████████████████████████████████  270
+```
+
+### 7.3. Tres grandes etapas
+
+| Periodo   | Complejidad | Burocracia | Modelo del profesor              |
+|-----------|-------------|------------|----------------------------------|
+| 1970–1985 | 🟢 Baja     | 🟢 Baja    | Ejecutor / adaptador del programa |
+| 1990–2006 | 🟡 Media-Alta | 🟡 Media-Alta | Diseñador curricular             |
+| 2013–2020 | 🔴 Muy alta | 🔴 Muy alta | Gestor de un sistema competencial |
+
+### 7.4. Transformación de la cadena documental
+
+```
+1970     Programa → enseñanza → evaluación del alumno
+
+1990     Currículo → proyecto → programación → enseñanza
+
+1995-06  + evaluación de centros, profesorado y sistema
+
+2013     Competencias → criterios → estándares → resultados
+
+2020     Competencias clave → perfil de salida → competencias específicas
+         → criterios → saberes → situaciones de aprendizaje
+         → instrumentos → evidencias → calificación
+         → atención a la diversidad → evaluación de la práctica docente
+```
+
+### 7.5. La paradoja de la autonomía y el paradigma racional-tecnológico
+
+Más autonomía curricular ha ido acompañada de **más responsabilidad de documentar** esa autonomía. El control directo puede disminuir mientras aumenta el control mediante procedimientos, indicadores y trazabilidad.
+
+Esto conecta con el paradigma racional-tecnológico: la actividad docente tiende a convertirse en una cadena de especificaciones verificables (competencia → criterio → saber → situación → instrumento → evidencia). Tiene ventajas de transparencia y coordinación, pero también el riesgo de que lo fácilmente documentable adquiera más peso institucional que lo difícil de medir (el juicio profesional, la relación pedagógica, la adaptación improvisada).
+
+**Dato de contexto (TALIS 2024):** el 64 % del profesorado de secundaria inferior en España declara que el exceso de trabajo administrativo es fuente de estrés «bastante» o «mucho», aunque el tiempo medio dedicado a tareas administrativas (2,6 h/semana) no es el más alto de la OCDE. El problema parece residir también en la *naturaleza* de las tareas y en cómo interfieren con la enseñanza.
+
+> **Para profundizar:** análisis completo, etapas, fuentes normativas y hipótesis de trabajo en  
+> [Burocratización del trabajo docente — análisis histórico](../materiales/burocratizacion-trabajo-docente-analisis-historico.md).
+
+---
+
 ## Bibliografía de Referencia
 
 - Apple, M. W. (1979). *Ideology and curriculum*. Routledge.
@@ -208,6 +294,7 @@ La LOMLOE, al situarse predominantemente en el paradigma socio-crítico e inclus
 - Habermas, J. (1968). *Erkenntnis und Interesse* [Conocimiento e interés]. Suhrkamp.
 - López-Medialdea, A., Dieste-Gracia, B. M., y Moreno-Pinillos, C. (2025). Teorías y modelos organizativos de centros educativos. En A. M. López Medialdea y M. T. Peart (Coords.), *La organización del centro escolar y los retos de una sociedad global y digital* (pp. 49-66). Graó.
 - Magendzo, A. (1986). *Curriculum y cultura en América Latina*. PIIE.
+- OECD (2024). *TALIS 2024 Results*. OECD Publishing.
 - Real Decreto 157/2022, de 1 de marzo, por el que se establecen la ordenación y las enseñanzas mínimas de la Educación Primaria. *BOE*, 52.
 - Real Decreto 217/2022, de 29 de marzo, por el que se establece la ordenación y las enseñanzas mínimas de la Educación Secundaria Obligatoria. *BOE*, 76.
 - Sáez, R. (2005). Bases metodológicas de la investigación educativa y paradigmas. *Revista Complutense de Educación*, 16(1), 307-337.
