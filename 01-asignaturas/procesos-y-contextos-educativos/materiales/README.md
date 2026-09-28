@@ -26,6 +26,7 @@ Recursos prácticos y transversales (citables desde otras asignaturas y el pract
 | [Ratio y condiciones de enseñanza](ratio-condiciones-ensenanza.md) | Organización y metodología |
 | [Comparativa de paradigmas en una tarea de mates](comparativa-paradigmas-tarea-matematicas.md) | Tema 1 aplicado |
 | [PISA 2022, rendimiento en Matemáticas y fracaso escolar](pisa-2022-fracaso-escolar-matematicas.md) | Evaluación internacional, equidad y fracaso escolar |
+| [TALIS — ficha sintética](talis-ficha-sintetica.md) | Condiciones del profesorado (OCDE); estrés administrativo y cambios normativos |
 
 ## Enlaces
 
