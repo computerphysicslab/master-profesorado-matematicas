@@ -1,163 +1,149 @@
-# Tema 1 · Evolución histórica del Sistema Educativo Español y didáctica contemporánea
+# Tema 1: Evolución histórica del Sistema Educativo Español desde sus referencias legislativas y la didáctica contemporánea
 
-**Asignatura:** Procesos y contextos educativos  
-**Enfoque:** Análisis diacrónico de marcos legislativos, paradigmas educativos y fundamentos de la práctica docente actual.
-
----
-
-## 1. Introducción
-
-El estudio del **Sistema Educativo Español (SEE)** requiere conectar:
-
-- los **marcos normativos e institucionales** (leyes, estructuras de etapa);
-- los **paradigmas didácticos** que orientan qué se entiende por enseñar, aprender y evaluar.
-
-Un **paradigma educativo** es un marco de referencia teórico, metodológico e ideológico compartido por la comunidad educativa: orienta la enseñanza, el rol del docente y la función social de la escuela.
+## Introducción y Marco Teórico
+El análisis de la historia de la educación en España exige comprender cómo han interactuado, a lo largo de los siglos XIX, XX y XXI, la legislación educativa, las estructuras sociopolíticas y las teorías didácticas. El currículo y la organización escolar no son construcciones neutras, sino el resultado de luchas ideológicas, modelos económicos y concepciones epistemológicas sobre el conocimiento y el aprendizaje.
 
 ---
 
-## 2. Los tres paradigmas educativos fundamentales
+## 1. Teorías de la Organización Escolar y Paradigmas Educativos
 
-| Paradigma | Nombre habitual | Fundamentos | Enfoque |
-|-----------|-----------------|-------------|---------|
-| **Técnico / empírico** | **Positivista** | Conductismo (Skinner, Watson), neopositivismo, eficiencia social (Tyler) | Proceso lineal, transmisivo y cuantificable |
-| **Hermenéutico** | **Interpretativo** | Constructivismo (Piaget, Vygotsky, Ausubel), fenomenología | Construcción activa de significado |
-| **Crítico / emancipador** | **Sociocrítico** | Escuela de Frankfurt (Habermas), pedagogía crítica (Freire, Apple, Giroux) | Transformación social y equidad |
+La investigación educativa y el diseño de la organización escolar se estructuran tradicionalmente en torno a tres grandes paradigmas epistemológicos (Sáez, 2005; López-Medialdea et al., 2025):
 
-### 2.1. Positivista (técnico / empírico)
+### 1.1. Paradigma Racional-Tecnológico (Positivista)
+* **Concepción de la realidad:** La realidad es objetiva, única, independiente del observador y gobernada por leyes naturales generalizables.
+* **Finalidad de la investigación:** Predecir, medir y controlar la realidad educativa.
+* **Metodología:** Hipotético-deductiva, cuantitativa, basada en modelos matemáticos y muestras representativas.
+* **Aplicación en la escuela:**
+  * Concibe la escuela como una organización burocrática (modelo de Max Weber) o una "fábrica" eficiente.
+  * Busca la eficacia operativa mediante la estandarización, la división del trabajo y el control de resultados (evaluación cuantitativa).
+  * *Referencias clave:* F. W. Taylor, R. W. Tyler.
 
-- **Docente:** técnico ejecutor del currículo y de los objetivos.  
-- **Alumnado:** receptor de contenidos y destrezas.  
-- **Evaluación:** sumativa, estandarizada, cuantitativa.  
-- **Metodología:** transmisión, práctica controlada, medición de rendimiento.
+### 1.2. Paradigma Interpretativo-Simbólico (Constructivista / Fenomenológico)
+* **Concepción de la realidad:** La realidad es dinámica, múltiple, holística y construida socialmente por los actores.
+* **Finalidad de la investigación:** Describir, comprender e interpretar los fenómenos educativos en su propio contexto.
+* **Metodología:** Inductiva, cualitativa, etnográfica y naturalista (entrevistas, observación participante).
+* **Aplicación en la escuela:**
+  * Analiza la cultura escolar, los significados, los valores compartidos y las relaciones interpersonales.
+  * Fomenta la gestión participativa, el clima de centro seguro, la autonomía pedagógica y la evaluación formativa.
+  * *Referencias clave:* J. Schwab, L. Stenhouse.
 
-### 2.2. Interpretativo (hermenéutico)
-
-- **Docente:** mediador / guía.  
-- **Alumnado:** sujeto activo que construye conocimiento.  
-- **Evaluación:** cualitativa, procesual, formativa.  
-- **Metodología:** aprendizaje significativo, interacción, diversidad de ritmos y representaciones.
-
-### 2.3. Sociocrítico (crítico / emancipador)
-
-- **Docente:** agente de cambio e investigación-acción.  
-- **Alumnado:** agente transformador, conciencia crítica.  
-- **Evaluación:** comunitaria, democrática, orientada a la mejora colectiva.  
-- **Metodología:** contexto social, equidad, participación, cuestionamiento de desigualdades.
-
-> En la práctica real los paradigmas **se mezclan**. Una misma ley o un mismo departamento puede combinar rasgos técnicos (estándares, pruebas), interpretativos (constructivismo) y sociocríticos (inclusión, consejos escolares).
-
----
-
-## 3. Evolución histórica del SEE (referencias legislativas)
-
-### 3.1. Ley Moyano (1857)
-
-Primera gran ordenación del sistema educativo español. Concepción liberal y **centralizadora**. Tres niveles: Primaria, Segunda Enseñanza y Universidad. Consolida la **dualidad escolar** (formación de élites vs. alfabetización básica para clases populares).
-
-**Vínculo paradigmático:** positivista-técnico inicial — transmisión memorística, disciplina rígida, segregación por género, autoridad magisterial fuerte.
-
-### 3.2. Segunda República (1931–1939) e Institución Libre de Enseñanza
-
-Renovación pedagógica inspirada en la **ILE**: escuela única, laica, gratuita, obligatoria y **coeducativa**; dignidad del magisterio.
-
-**Vínculo paradigmático:** precursor de lo **interpretativo** y **sociocrítico** — aprendizaje activo, autonomía crítica, equidad.
-
-### 3.3. Franquismo (1939–1970)
-
-Ley de Educación Primaria (1945) y de Enseñanza Media (1953). Modelo de **nacionalcatolicismo**: adoctrinamiento, segregación por sexos, censura, autoridad dogmática.
-
-**Vínculo paradigmático:** positivista / dogmático — currículo cerrado, memorización, evaluación punitiva.
-
-### 3.4. LGE (1970) — modernización tecnocrática
-
-Ley General de Educación (Villar Palasí). Respuesta al desarrollo industrial. Crea **EGB** (6–14 años), BUP y FP.
-
-**Vínculo paradigmático:** positivista / tecnocrático — programación por **objetivos operativos** (taxonomía de Bloom), eficiencia, estandarización, rendimiento.
-
-### 3.5. Consolidación democrática: LODE, LOGSE, LOE, LOMCE
-
-| Norma | Aporte principal | Matiz paradigmático |
-|-------|------------------|---------------------|
-| **LODE (1985)** | Democratización de la gestión (consejos escolares); régimen de conciertos | Participativo / sociocrítico |
-| **LOGSE (1990)** | Escolaridad obligatoria hasta 16 (ESO); marco **constructivista** oficial | Interpretativo (Ausubel, Piaget) |
-| **LOE (2006)** | Competencias básicas (marco europeo); equidad e inclusión | Interpretativo + equidad |
-| **LOMCE (2013)** | Reorganización de materias; evaluaciones externas (reválidas) | Reintroducción de matices **positivistas** |
+### 1.3. Paradigma Socio-Crítico (Emancipador)
+* **Concepción de la realidad:** La realidad es una construcción histórica mediada por la ideología, el poder y las estructuras de dominación. La verdad es intersubjetiva y dialógica.
+* **Finalidad de la investigación:** Desenmascarar las injusticias, promover la concienciación crítica y transformar la realidad social hacia la equidad y los derechos humanos.
+* **Metodología:** Investigación-Acción participativa (ciclos de diagnóstico, planificación, acción, observación y reflexión).
+* **Bases históricas e intelectuales:**
+  * *Escuela de Frankfurt (Jürgen Habermas, 1968, 1981):* Teoría Crítica, distinción de los intereses del conocimiento (técnico, práctico y emancipatorio) y racionalidad comunicativa.
+  * *Pedagogía Crítica (Paulo Freire, 1968; Michael Apple, 1979; Henry Giroux, 1983):* Crítica a la "educación bancaria", análisis del *currículo oculto*, y concepción de los docentes como "intelectuales transformadores".
+* **Aplicación en la escuela:**
+  * Estudio de la *micropolítica escolar*: analiza las tensiones, pactos, alianzas informales y dinámicas de poder en los centros.
+  * Orientación hacia la justicia social, la inclusión, la diversidad y el compromiso comunitario.
 
 ---
 
-## 4. Cuadro comparativo: leyes y paradigmas
+## 2. Teorías del Currículum y su Evolución
 
-| Paradigma | Leyes de referencia (orientativo) | Rol docente / alumnado | Evaluación y metodología |
-|-----------|-----------------------------------|------------------------|---------------------------|
-| **Positivista / técnico** | Moyano (1857), LGE (1970), matices LOMCE (2013) | Técnico ejecutor / receptor pasivo | Sumativa, cuantitativa, objetivos y estándares |
-| **Interpretativo** | II República; LOGSE (1990); LOE (2006) | Mediador-guía / constructor activo | Continua y formativa; currículo más abierto; diversidad |
-| **Sociocrítico** | LODE (1985); LOMLOE (2020) | Agente de cambio / agente transformador | Situaciones contextualizadas, DUA, inclusión, investigación-acción |
+### 2.1. Concepto y Fuentes del Currículum
+El currículum es el proceso intencional y sistemático mediante el cual se toman decisiones sobre los saberes culturales que se enseñan, su organización, la metodología y los criterios de evaluación (Magendzo, 1986). Se fundamenta en cinco fuentes principales: **Sociología, Psicología, Pedagogía, Epistemología/Disciplinas y Antropología**.
 
----
-
-## 5. Marco normativo contemporáneo: LOMLOE (2020)
-
-La **Ley Orgánica 3/2020** modifica la LOE y reorienta el currículo hacia demandas del s. XXI y la Agenda 2030.
-
-### Ejes transversales
-
-1. **Derechos de la infancia** (Convención sobre los Derechos del Niño).  
-2. **Igualdad de género y coeducación** (prevención de violencia; impulso STEM).  
-3. **Competencia digital y ciudadanía global** (uso crítico, seguro y ético de la tecnología).  
-4. **Educación inclusiva y DUA** (personalización sin exclusión). Desarrollo del marco: **[material DUA](../materiales/dua-diseno-universal-aprendizaje.md)**.
-
-En Matemáticas de Secundaria, esto se concreta en competencias específicas, saberes por **sentidos**, situaciones de aprendizaje y atención al dominio socioafectivo (enlace con [Diseño curricular](../../diseno-curricular-e-instruccional-de-matematicas/apuntes/03-elementos-curriculo-lomloe.md)).
+### 2.2. Tipologías y Enfoques
+* **Currículum Prescriptivo (Oficial):** Plan explícito e intencionado regulado por las administraciones públicas.
+* **Currículum Oculto:** Conjunto de aprendizajes no explícitos (normas, sesgos, valores, jerarquías) que se transmiten de forma implícita en la práctica diaria (Apple, 1979).
+* **Evolución del término en España:**
+  * Hasta 1990, el sistema se organizaba mediante "programas de estudio".
+  * El término *currículum* se incorpora legalmente por primera vez con la **LOGSE (1990)**.
 
 ---
 
-## 6. Didáctica contemporánea (s. XXI)
+## 3. Evolución Histórica del Sistema Educativo Español
 
-La práctica actual articula sobre todo lo **interpretativo** y lo **sociocrítico** mediante:
+### 3.1. Antecedentes y Siglo XIX: Génesis del Sistema Liberal
+* **A finales del S. XVIII:** Ausencia de un sistema educativo unificado (Viñao, 2010). Control eclesiástico, baja cualificación del magisterio y elevado analfabetismo.
+* **Constitución de Cádiz (1812):** Sienta las bases del ideario liberal: educación básica obligatoria y gratuita, creación de la Dirección General de Estudios y superación de la censura.
+* **Etapa Isabelina (1833-1868):** Consolidación del modelo moderado. Creación de los primeros Institutos de Bachillerato (1835) para las élites urbanas masculinas.
+* **Ley de Instrucción Pública - Ley Moyano (1857):**
+  * Primera ley orgánica general que regula el sistema educativo español hasta 1970.
+  * Estructura centralizada y piramidal (Ministerio, Dirección General, Juntas Provinciales).
+  * Red dual: enseñanza primaria obligatoria (gratuidad relativa) frente a enseñanza secundaria y superior reservada a las clases acomodadas.
+  * *Paradigma:* **Racional-Tecnológico / Burocrático**.
 
-| Elemento | Idea central |
-|----------|--------------|
-| **DUA** | Múltiples formas de implicación, representación, acción y expresión; reducir barreras — ver [recurso completo](../materiales/dua-diseno-universal-aprendizaje.md) |
-| **Perfil de salida y competencias** | Capacidades al terminar la enseñanza básica |
-| **Situaciones de aprendizaje** | Retos contextualizados, a menudo colaborativos e interdisciplinares |
-| **Evaluación criterial y formativa** | Mejora del proceso, autorregulación y metacognición |
+### 3.2. Renovación Pedagógica y la II República (1876-1939)
+* **Institución Libre de Enseñanza - ILE (1876):** Fundada por Francisco Giner de los Ríos tras la expulsión de profesores universitarios por defender la libertad de cátedra. Promovió la europeización, el laicismo, la coeducación y el método científico activo. Colaboró activamente con el Estado mediante la Residencia de Estudiantes, la JAE y el Museo Pedagógico Nacional.
+* **II República (1931-1936):**
+  * Escuela única, laica, gratuita y obligatoria en la primaria.
+  * Creación de más de 7.000 plazas de maestro, plan masivo de construcciones escolares e institutos.
+  * Creación del *Patronato de Misiones Pedagógicas* para llevar la cultura al medio rural.
+  * Introducción de órganos democráticos (*Consejos Escolares*).
+  * *Paradigma:* **Interpretativo y Socio-Crítico**.
 
-**Síntesis:** se aspira a superar el memorismo y la fragmentación puramente técnica hacia un modelo en el que el conocimiento es **situado**, **accesible** (DUA) y abierto a la **lectura crítica** de la realidad.
+### 3.3. El Franquismo (1939-1975)
+* **Primer Franquismo (1939-1959):** Depuración y represión del magisterio republicano, supresión de la coeducación, imposición del modelo nacional-católico. Subsidiariedad del Estado frente a la Iglesia y sistema altamente elítico y segregador (reválidas y exámenes de Estado).
+* **Segundo Franquismo y Desarrollismo (1960-1975):**
+  * Campaña de alfabetización y necesidad de adaptar la educación al crecimiento industrial.
+  * **Ley General de Educación - LGE (1970):**
+    * Diseña un sistema unitario y comprensivo que extiende la escolarización obligatoria y gratuita hasta los 14 años mediante la **EGB (Educación General Básica)**.
+    * Estructura: EGB (6-14 años), BUP/COU o Formación Profesional (FP I y FP II).
+    * Introduce la orientación académica, la tutoría y la evaluación continua.
+    * *Paradigma:* **Tecnocrático / Racional-Tecnológico**.
+
+### 3.4. Transición Democrática y Etapa Constitucional
+* **Constitución Española de 1978 (Artículo 27):**
+  * Síntesis del pacto constitucional: equilibra el **derecho a la educación** (art. 27.1, 27.5) con la **libertad de enseñanza** y de creación de centros (art. 27.1, 27.6).
+  * Reconoce la participación de la comunidad educativa (27.7), la gratuidad de la enseñanza obligatoria (27.4) y la autonomía universitaria.
+* **LOECE (1980):** Primera regulación tras la Constitución (UCD).
+* **LODE (1985):** Regula la red dual de centros (públicos y concertados), los convenios de concierto y crea los Consejos Escolares de Centro y de Estado.
+* **LOGSE (1990):**
+  * Extiende la escolaridad obligatoria hasta los 16 años (**ESO: Educación Secundaria Obligatoria**).
+  * Introduce formalmente el concepto de **currículum** y adopta el marco psicopedagógico **constructivista** (Piaget, Vygotsky, Ausubel).
+  * Introduce la atención a la diversidad, la comprensividad y la autonomía de centros (PEC, PCC).
+* **LOCE (2002):** Ley no aplicada centrada en la cultura del esfuerzo y evaluaciones externas.
+* **LOE (2006):** Introduce las **Competencias Clave** derivadas de las recomendaciones de la Unión Europea y la materia de Educación para la Ciudadanía.
+* **LOMCE (2013):** Enfoque neoliberal, reintroducción de evaluaciones externas (reválidas) y estándares de aprendizaje evaluables atomizados.
+* **LOMLOE (2020):**
+  * Modernización curricular orientada a las competencias del siglo XXI (Coll & Martín, 2021).
+  * Establece el **Perfil de Salida** de la enseñanza básica, **Competencias Específicas**, **Criterios de Evaluación** y **Saberes Básicos**.
+  * Adopta de forma explícita el **Diseño Universal para el Aprendizaje (DUA)**, la inclusión, la equidad, la perspectiva de género y la educación para el desarrollo sostenible.
+  * *Paradigma:* **Socio-Crítico e Inclusivo**.
 
 ---
 
-## 7. Implicaciones para el futuro profesor de Matemáticas
+## 4. Resumen Comparativo de las Leyes Orgánicas Educativas en España
 
-| Pregunta de aula | Lectura paradigmática |
-|------------------|------------------------|
-| ¿Solo practicar algoritmos hasta el examen? | Positivista-técnico |
-| ¿Construir significados (varios de la fracción, modelizar tarifas…)? | Interpretativo |
-| ¿Analizar sesgos en gráficos de medios, inclusión y estereotipos en STEM? | Sociocrítico |
-
-Un diseño LOMLOE coherente **no elimina** la precisión técnica; la pone al servicio de competencias, contextos y equidad.
-
----
-
-## 8. Glosario breve
-
-**Paradigma educativo** · **SEE** · **ILE** · **EGB / BUP / ESO** · **Objetivos operativos** · **Constructivismo** · **Competencias básicas / clave** · **DUA** · **Perfil de salida** · **Situación de aprendizaje** · **Investigación-acción**
+| Ley / Referencia | Año | Gobierno / Contexto | Paradigma Dominante | Hitos y Cambios Curriculares Clave |
+| :--- | :--- | :--- | :--- | :--- |
+| **Ley Moyano** | 1857 | Moderado | Positivista / Burocrático | Primera ley general. Centralización, obligatoriedad básica, estructuración por etapas. |
+| **II República** | 1931 | Republicano-Socialista | Interpretativo / Crítico | Escuela laica, única, coeducativa. Misiones Pedagógicas y Consejos Escolares. |
+| **LGE** | 1970 | Franquismo (Desarrollismo) | Tecnocrático / Racional | EGB unificada (6-14 años), BUP, FP. Introducción de la tutoría y orientación. |
+| **LODE** | 1985 | PSOE | Participativo / Democrático | Regulación de conciertos educativos y creación de los Consejos Escolares. |
+| **LOGSE** | 1990 | PSOE | Interpretativo-Constructivista | ESO hasta los 16 años. Concepto de *currículum*, atención a la diversidad y autonomía. |
+| **LOE** | 2006 | PSOE | Competencial | Incorporación de las Competencias Clave (Marco Europeo) y equidad. |
+| **LOMCE** | 2013 | PP | Neoliberal / Eficacia | Estándares de aprendizaje evaluables, itinerarios tempranos y pruebas externas. |
+| **LOMLOE** | 2020 | PSOE-Unidas Podemos | Socio-Crítico / Inclusivo | Perfil de Salida, Competencias Específicas, DUA, inclusión y sostenibilidad. |
 
 ---
 
-## 9. Preguntas de repaso
+## 5. Organización del Sistema Educativo en el Estado de las Autonomías
 
-1. Define paradigma educativo y pon un ejemplo de cada uno de los tres.  
-2. Relaciona Ley Moyano, LGE y LOGSE con el paradigma dominante en cada caso.  
-3. ¿Qué rasgos de la LOMLOE acercan la norma al paradigma sociocrítico?  
-4. ¿Por qué la LOMCE se asocia a veces a un “retorno” de matices positivistas?  
-5. Diseña una tarea de Matemáticas de 3.º ESO que combine rasgos interpretativos y sociocríticos.
+### 5.1. Reparto de Competencias (Art. 149 CE)
+* **Estado (Administración Central):** Ordenación general del sistema educativo, fijación de las enseñanzas mínimas (55% en CCAA con lengua cooficial, 65% en las demás), regulación de títulos y política general de becas.
+* **Comunidades Autónomas (ej. Aragón desde 1998):** Desarrollo legislativo (decretos de currículo autonómicos), gestión y administración de centros, régimen de conciertos y políticas educativas propias.
+* **Municipios:** Conservación y mantenimiento de centros de E. Infantil y Primaria, vigilancia de la escolarización obligatoria y participación en Consejos Escolares.
+
+### 5.2. Niveles de Concreción Curricular
+1. **Primer Nivel (Administración Estatal y Autonómica):** Reales Decretos de Enseñanzas Mínimas y Decretos Autonómicos de Currículo.
+2. **Segundo Nivel (Centro Educativo):** Proyecto Educativo de Centro (PEC) y Programaciones Didácticas aprobadas por los departamentos / claustro.
+3. **Tercer Nivel (Aula / Docente):** Programación de Aula elaborada por cada profesor/a para su grupo de estudiantes.
+4. **Cuarto Nivel (Individual):** Adaptaciones Curriculares Individualizadas (ACS) y aplicación de pautas DUA para el alumnado con necesidades específicas.
 
 ---
 
-## Material relacionado
-
-- **[DUA — Diseño Universal para el Aprendizaje](../materiales/dua-diseno-universal-aprendizaje.md)** (recurso transversal)  
-- [Apuntes de la asignatura](README.md)  
-- [Elementos LOMLOE de Matemáticas](../../diseno-curricular-e-instruccional-de-matematicas/apuntes/03-elementos-curriculo-lomloe.md)  
-- [Finalidades de la enseñanza de las Matemáticas](../../diseno-curricular-e-instruccional-de-matematicas/apuntes/02-finalidades-ensenanza-matematicas.md)  
-- Podcast del repo: *Pávlov, Skinner y Erikson* (conductismo y desarrollo; contraste con constructivismo)
+## Bibliografía de Referencia
+* Apple, M. W. (1979). *Ideology and curriculum*. Routledge.
+* Bernal, J. L., Cano, J. y Lorenzo, J. (2014). *Organización de los centros educativos: LOMCE y políticas neoliberales*. Mira Editores.
+* Coll, C., y Martín, E. (2021). La LOMLOE: una oportunidad para la modernización curricular. *Avances en supervisión educativa*, 35, 1-22.
+* Freire, P. (1968). *Pedagogía del oprimido*. Siglo XXI.
+* Giroux, H. A. (1983). *Theory and Resistance in Education: A Pedagogy for the Opposition*. Bergin & Garvey.
+* Habermas, J. (1968). *Erkenntnis und Interesse* [Conocimiento e interés]. Suhrkamp.
+* López-Medialdea, A., Dieste-Gracia, B. M., & Moreno-Pinillos, C. (2025). Teorías y modelos organizativos de centros educativos. En A. M. López Medialdea & M. T. Peart (Coords.), *La organización del centro escolar y los retos de una sociedad global y digital* (pp. 49-66). Graó.
+* Magendzo, A. (1986). *Curriculum y cultura en América Latina*. PIIE.
+* Sáez, R. (2005). Bases metodológicas de la investigación educativa y paradigmas. *Revista Complutense de Educación*, 16(1), 307-337.
+* Viñao, A. (2010). El sistema educativo español: evolución histórica. En F. Imbernón (Coord.), *Procesos y contextos educativos* (pp. 13-33). Graó.
