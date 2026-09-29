@@ -4,7 +4,7 @@
 Historia → pregunta → intentos → idea → formalización → problema para el alumnado
 ```
 
-Colección ampliable (25 fichas).
+Colección ampliable (**27 fichas**).
 
 ## Fichas publicadas
 
@@ -35,5 +35,24 @@ Colección ampliable (25 fichas).
 | [Emmy Noether](fichas/emmy-noether.md) | Simetrías | Bachillerato |
 | [Mandelbrot](fichas/mandelbrot.md) | Fractales | ESO / Bach. |
 | [Mirzakhani](fichas/mirzakhani.md) | Geometría de superficies | Bachillerato |
+| [Ramanujan](fichas/ramanujan.md) | Series, particiones, 1729 | ESO / Bach. |
+| [Katherine Johnson](fichas/katherine-johnson.md) | Órbitas, verificación numérica | ESO / Bach. |
 
 [Por concepto](indices/por-concepto.md) · [Por curso](indices/por-curso.md) · [Catálogo](indices/catalogo.md)
+
+## Ocho figuras (itinerario sugerido)
+
+Selección equilibrada por época, género, campo y contexto cultural — útil para un ciclo de sesiones o un ABP de «vidas matemáticas»:
+
+| Figura | Época | Campo | Ficha |
+|--------|-------|-------|-------|
+| **Leonhard Euler** | s. XVIII | Análisis, grafos, notación | [euler-puentes-konigsberg.md](fichas/euler-puentes-konigsberg.md) |
+| **Carl F. Gauss** | s. XVIII–XIX | Progresiones, teoría de números | [gauss-suma-1-a-100.md](fichas/gauss-suma-1-a-100.md) |
+| **Évariste Galois** | s. XIX | Álgebra, grupos | [galois.md](fichas/galois.md) |
+| **Ada Lovelace** | s. XIX | Algoritmos | [ada-lovelace.md](fichas/ada-lovelace.md) |
+| **Srinivasa Ramanujan** | s. XIX–XX | Series, particiones | [ramanujan.md](fichas/ramanujan.md) |
+| **Emmy Noether** | s. XX | Álgebra, simetrías | [emmy-noether.md](fichas/emmy-noether.md) |
+| **Katherine Johnson** | s. XX | Mecánica orbital | [katherine-johnson.md](fichas/katherine-johnson.md) |
+| **Maryam Mirzakhani** | s. XX–XXI | Geometría de superficies | [mirzakhani.md](fichas/mirzakhani.md) |
+
+> **Nota:** Euler, Gauss y Galois ya estaban publicados (enfoque en un episodio matemático concreto). Se han añadido **Ramanujan** y **Katherine Johnson** para completar el panorama.

@@ -16,6 +16,8 @@
 | Euler — Königsberg | [euler-puentes-konigsberg.md](../fichas/euler-puentes-konigsberg.md) |
 | Ada Lovelace | [ada-lovelace.md](../fichas/ada-lovelace.md) |
 | Mandelbrot | [mandelbrot.md](../fichas/mandelbrot.md) |
+| Ramanujan | [ramanujan.md](../fichas/ramanujan.md) |
+| Katherine Johnson | [katherine-johnson.md](../fichas/katherine-johnson.md) |
 | Zenón (Aquiles)* | [zenon-aquiles.md](../fichas/zenon-aquiles.md) |
 | Dilema del prisionero | [dilema-prisionero.md](../fichas/dilema-prisionero.md) |
 | Pascal / Monty Hall | Con andamiaje en 3.º–4.º |
@@ -39,6 +41,8 @@
 | Turing | [turing.md](../fichas/turing.md) |
 | Emmy Noether | [emmy-noether.md](../fichas/emmy-noether.md) |
 | Mirzakhani | [mirzakhani.md](../fichas/mirzakhani.md) |
+| Ramanujan | [ramanujan.md](../fichas/ramanujan.md) |
+| Katherine Johnson | [katherine-johnson.md](../fichas/katherine-johnson.md) |
 | (+ todas las de ESO en mayor profundidad) | |
 
 [Catálogo](catalogo.md)

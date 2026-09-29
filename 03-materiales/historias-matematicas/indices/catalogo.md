@@ -1,6 +1,6 @@
 # Catálogo de historias matemáticas
 
-**25 fichas publicadas.**
+**27 fichas publicadas.**
 
 | Historia | Concepto | Nivel | Estado |
 |----------|----------|-------|--------|
@@ -29,5 +29,7 @@
 | Emmy Noether | Simetrías | Bachillerato | **Publicada** |
 | Mandelbrot | Fractales | ESO/Bach. | **Publicada** |
 | Maryam Mirzakhani | Geometría de superficies | Bachillerato | **Publicada** |
+| Srinivasa Ramanujan | Series, particiones, 1729 | ESO/Bach. | **Publicada** |
+| Katherine Johnson | Órbitas, verificación numérica | ESO/Bach. | **Publicada** |
 
-Pueden añadirse más (Hipatia, Boole, Kovalevskaya, etc.).
+Pueden añadirse más (Hipatia, Boole, Kovalevskaya, Euler–identidad $e^{i\pi}+1=0$, Gauss–Ceres, etc.).
