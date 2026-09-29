@@ -4,8 +4,10 @@
 
 | Historia | Ficha |
 |----------|-------|
+| Hipatia | [hipatia.md](../fichas/hipatia.md) |
 | Eratóstenes | [eratostenes-tierra.md](../fichas/eratostenes-tierra.md) |
 | Arquímedes | [arquimedes-corona.md](../fichas/arquimedes-corona.md) |
+| Al-Juarismi | [al-khwarizmi.md](../fichas/al-khwarizmi.md) |
 | Descartes | [descartes-coordenadas.md](../fichas/descartes-coordenadas.md) |
 | Galileo | [galileo-caida.md](../fichas/galileo-caida.md) |
 | Kepler | [kepler-orbitas.md](../fichas/kepler-orbitas.md) |
@@ -15,12 +17,11 @@
 | Sophie Germain | [sophie-germain.md](../fichas/sophie-germain.md) |
 | Euler — Königsberg | [euler-puentes-konigsberg.md](../fichas/euler-puentes-konigsberg.md) |
 | Ada Lovelace | [ada-lovelace.md](../fichas/ada-lovelace.md) |
-| Mandelbrot | [mandelbrot.md](../fichas/mandelbrot.md) |
 | Ramanujan | [ramanujan.md](../fichas/ramanujan.md) |
 | Katherine Johnson | [katherine-johnson.md](../fichas/katherine-johnson.md) |
+| Mandelbrot | [mandelbrot.md](../fichas/mandelbrot.md) |
 | Zenón (Aquiles)* | [zenon-aquiles.md](../fichas/zenon-aquiles.md) |
 | Dilema del prisionero | [dilema-prisionero.md](../fichas/dilema-prisionero.md) |
-| Pascal / Monty Hall | Con andamiaje en 3.º–4.º |
 
 \*En 4.º: tabla y progresión geométrica; sin series formales.
 
@@ -28,21 +29,16 @@
 
 | Historia | Ficha |
 |----------|-------|
-| Pascal | [pascal-problema-puntos.md](../fichas/pascal-problema-puntos.md) |
 | Newton y Leibniz | [newton-leibniz.md](../fichas/newton-leibniz.md) |
-| Zenón (Aquiles) | [zenon-aquiles.md](../fichas/zenon-aquiles.md) |
-| Dilema del prisionero | [dilema-prisionero.md](../fichas/dilema-prisionero.md) |
-| Bayes | [bayes.md](../fichas/bayes.md) |
-| Laplace | [laplace-demonio.md](../fichas/laplace-demonio.md) |
-| Monty Hall | [monty-hall.md](../fichas/monty-hall.md) |
+| Pascal | [pascal-problema-puntos.md](../fichas/pascal-problema-puntos.md) |
 | Galois | [galois.md](../fichas/galois.md) |
-| Cantor | [cantor-infinitos.md](../fichas/cantor-infinitos.md) |
-| Hilbert | [hilbert-hotel.md](../fichas/hilbert-hotel.md) |
+| Bayes / Laplace / Monty Hall | [bayes.md](../fichas/bayes.md) · [laplace-demonio.md](../fichas/laplace-demonio.md) · [monty-hall.md](../fichas/monty-hall.md) |
+| Cantor / Hilbert | [cantor-infinitos.md](../fichas/cantor-infinitos.md) · [hilbert-hotel.md](../fichas/hilbert-hotel.md) |
 | Turing | [turing.md](../fichas/turing.md) |
 | Emmy Noether | [emmy-noether.md](../fichas/emmy-noether.md) |
+| Ingrid Daubechies | [ingrid-daubechies.md](../fichas/ingrid-daubechies.md) |
 | Mirzakhani | [mirzakhani.md](../fichas/mirzakhani.md) |
-| Ramanujan | [ramanujan.md](../fichas/ramanujan.md) |
-| Katherine Johnson | [katherine-johnson.md](../fichas/katherine-johnson.md) |
-| (+ todas las de ESO en mayor profundidad) | |
+| Al-Juarismi / Hipatia / Ramanujan / Johnson | En mayor profundidad |
+| (+ todas las de ESO) | |
 
 [Catálogo](catalogo.md)

@@ -10,10 +10,8 @@ Repositorio transversal de materiales docentes, recursos digitales, lecturas y f
 
 ## Historias matemáticas
 
-Colección de **27 fichas** (pregunta generatriz → historia → idea → problema): [`historias-matematicas/`](historias-matematicas/).
+Colección de **30 fichas** (pregunta generatriz → historia → idea → problema): [`historias-matematicas/`](historias-matematicas/).
 
-**Novedades:** [Ramanujan](historias-matematicas/fichas/ramanujan.md) · [Katherine Johnson](historias-matematicas/fichas/katherine-johnson.md).
+**Últimas incorporaciones:** [Hipatia](historias-matematicas/fichas/hipatia.md) · [Al-Juarismi](historias-matematicas/fichas/al-khwarizmi.md) · [Ingrid Daubechies](historias-matematicas/fichas/ingrid-daubechies.md) · [Ramanujan](historias-matematicas/fichas/ramanujan.md) · [Katherine Johnson](historias-matematicas/fichas/katherine-johnson.md).
 
-**Itinerario de ocho figuras** (Euler, Gauss, Galois, Lovelace, Ramanujan, Noether, Johnson, Mirzakhani): ver [README de historias](historias-matematicas/README.md#ocho-figuras-itinerario-sugerido).
-
-*Más materiales se añadirán progresivamente.*
+Itinerarios (línea temporal y ocho figuras): [README de historias](historias-matematicas/README.md).

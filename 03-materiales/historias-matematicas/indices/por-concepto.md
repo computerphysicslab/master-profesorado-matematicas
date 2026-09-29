@@ -2,11 +2,11 @@
 
 | Bloque | Historias |
 |--------|-----------|
-| **Geometría y medida** | [Eratóstenes](../fichas/eratostenes-tierra.md) · [Arquímedes](../fichas/arquimedes-corona.md) · [Descartes](../fichas/descartes-coordenadas.md) · [Kepler](../fichas/kepler-orbitas.md) · [Mandelbrot](../fichas/mandelbrot.md) · [Mirzakhani](../fichas/mirzakhani.md) · [Katherine Johnson](../fichas/katherine-johnson.md) |
-| **Números, álgebra y sucesiones** | [Gauss](../fichas/gauss-suma-1-a-100.md) · [Fibonacci](../fichas/fibonacci-conejos.md) · [Fermat](../fichas/fermat.md) · [Sophie Germain](../fichas/sophie-germain.md) · [Galois](../fichas/galois.md) · [Ramanujan](../fichas/ramanujan.md) |
+| **Geometría y medida** | [Hipatia](../fichas/hipatia.md) · [Eratóstenes](../fichas/eratostenes-tierra.md) · [Arquímedes](../fichas/arquimedes-corona.md) · [Descartes](../fichas/descartes-coordenadas.md) · [Kepler](../fichas/kepler-orbitas.md) · [Mandelbrot](../fichas/mandelbrot.md) · [Mirzakhani](../fichas/mirzakhani.md) · [Katherine Johnson](../fichas/katherine-johnson.md) |
+| **Números, álgebra y sucesiones** | [Al-Juarismi](../fichas/al-khwarizmi.md) · [Gauss](../fichas/gauss-suma-1-a-100.md) · [Fibonacci](../fichas/fibonacci-conejos.md) · [Fermat](../fichas/fermat.md) · [Sophie Germain](../fichas/sophie-germain.md) · [Galois](../fichas/galois.md) · [Ramanujan](../fichas/ramanujan.md) |
 | **Funciones, cambio y series** | [Galileo](../fichas/galileo-caida.md) · [Newton–Leibniz](../fichas/newton-leibniz.md) · [Zenón](../fichas/zenon-aquiles.md) · [Ramanujan](../fichas/ramanujan.md) |
 | **Probabilidad y decisión** | [Pascal](../fichas/pascal-problema-puntos.md) · [Fermat](../fichas/fermat.md) · [Bayes](../fichas/bayes.md) · [Laplace](../fichas/laplace-demonio.md) · [Monty Hall](../fichas/monty-hall.md) · [Dilema del prisionero](../fichas/dilema-prisionero.md) |
 | **Grafos y redes** | [Euler — Königsberg](../fichas/euler-puentes-konigsberg.md) |
 | **Infinito** | [Zenón](../fichas/zenon-aquiles.md) · [Cantor](../fichas/cantor-infinitos.md) · [Hilbert](../fichas/hilbert-hotel.md) |
-| **Lógica y computación** | [Ada Lovelace](../fichas/ada-lovelace.md) · [Turing](../fichas/turing.md) |
-| **Física matemática / estructuras** | [Emmy Noether](../fichas/emmy-noether.md) · [Sophie Germain](../fichas/sophie-germain.md) · [Laplace](../fichas/laplace-demonio.md) · [Katherine Johnson](../fichas/katherine-johnson.md) · [Kepler](../fichas/kepler-orbitas.md) |
+| **Lógica y computación** | [Al-Juarismi](../fichas/al-khwarizmi.md) · [Ada Lovelace](../fichas/ada-lovelace.md) · [Turing](../fichas/turing.md) · [Daubechies](../fichas/ingrid-daubechies.md) |
+| **Física matemática / estructuras** | [Emmy Noether](../fichas/emmy-noether.md) · [Sophie Germain](../fichas/sophie-germain.md) · [Laplace](../fichas/laplace-demonio.md) · [Katherine Johnson](../fichas/katherine-johnson.md) · [Kepler](../fichas/kepler-orbitas.md) · [Daubechies](../fichas/ingrid-daubechies.md) |
