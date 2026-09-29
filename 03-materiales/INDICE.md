@@ -22,6 +22,14 @@ Colección principal de la asignatura (carga cognitiva, ZDP, mindset, neurodiver
 
 → [`01-asignaturas/psicologia-del-desarrollo-y-de-la-educacion/materiales/`](../01-asignaturas/psicologia-del-desarrollo-y-de-la-educacion/materiales/)
 
+## Matemáticas (ampliaciones STEM)
+
+| Material | Ubicación |
+|----------|-----------|
+| Aplicaciones de números complejos (Bachillerato) | [Contenidos disciplinares](../01-asignaturas/contenidos-disciplinares-de-matematicas/materiales/aplicaciones-numeros-complejos-bachillerato.md) |
+| Hipercomplejos / cuaterniones y videojuegos 3D | [Contenidos disciplinares](../01-asignaturas/contenidos-disciplinares-de-matematicas/materiales/hipercomplejos-cuaterniones-videojuegos.md) |
+| Punteros | [matematicas/README.md](matematicas/README.md) |
+
 ## Por etapa y tema
 
 | Carpeta | Notas |
@@ -36,4 +44,5 @@ Colección principal de la asignatura (carga cognitiva, ZDP, mindset, neurodiver
 |-----------|---------------------|
 | [Procesos — materiales](../01-asignaturas/procesos-y-contextos-educativos/materiales/) | Leyes educativas, DUA, TALIS, PISA, burocracia |
 | [Diseño curricular — materiales](../01-asignaturas/diseno-curricular-e-instruccional-de-matematicas/materiales/) | Temarios Aragón, plantillas, currículo LOMLOE |
+| [Contenidos disciplinares — materiales](../01-asignaturas/contenidos-disciplinares-de-matematicas/materiales/) | Complejos, cuaterniones / 3D |
 | [Educación emocional — materiales](../01-asignaturas/optativas/educacion-emocional-en-el-profesorado/materiales/) | Estrés, IE, competencias socioemocionales |
