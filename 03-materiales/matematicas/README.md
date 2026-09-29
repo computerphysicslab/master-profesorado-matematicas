@@ -2,12 +2,13 @@
 
 Punteros a recursos matemáticos del máster (ampliaciones y puentes STEM). El contenido completo vive en las asignaturas para no duplicar.
 
-## Números complejos e hipercomplejos
+## Números complejos, fractales e hipercomplejos
 
 | Material | Ubicación |
 |----------|-----------|
-| Aplicaciones prácticas de números complejos (Bachillerato) | [contenidos-disciplinares/…/aplicaciones-numeros-complejos-bachillerato.md](../../01-asignaturas/contenidos-disciplinares-de-matematicas/materiales/aplicaciones-numeros-complejos-bachillerato.md) |
-| Hipercomplejos, cuaterniones y videojuegos 3D | [contenidos-disciplinares/…/hipercomplejos-cuaterniones-videojuegos.md](../../01-asignaturas/contenidos-disciplinares-de-matematicas/materiales/hipercomplejos-cuaterniones-videojuegos.md) |
+| Aplicaciones prácticas de números complejos (Bachillerato) | [aplicaciones-numeros-complejos-bachillerato.md](../../01-asignaturas/contenidos-disciplinares-de-matematicas/materiales/aplicaciones-numeros-complejos-bachillerato.md) |
+| Fractales Mandelbrot / Julia (taller Bachillerato) | [fractales-mandelbrot-bachillerato.md](../../01-asignaturas/contenidos-disciplinares-de-matematicas/materiales/fractales-mandelbrot-bachillerato.md) |
+| Hipercomplejos, cuaterniones y videojuegos 3D | [hipercomplejos-cuaterniones-videojuegos.md](../../01-asignaturas/contenidos-disciplinares-de-matematicas/materiales/hipercomplejos-cuaterniones-videojuegos.md) |
 
 ## Currículo Aragón
 
