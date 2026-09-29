@@ -5,11 +5,11 @@
 
 ## Ideas clave
 
-Yves Chevallard es el creador de la **Teoría Antropológica de lo Didáctico (TAD)** y del concepto de **transposición didáctica**, uno de los marcos teóricos más influyentes en la educación matemática contemporánea. En 2009 recibió la **Medalla Hans Freudenthal** del ICMI en reconocimiento a su contribución al campo[reference:3].
+Yves Chevallard es el creador de la **Teoría Antropológica de lo Didáctico (TAD)** y del concepto de **transposición didáctica**, uno de los marcos teóricos más influyentes en la educación matemática contemporánea. En 2009 recibió la **Medalla Hans Freudenthal** del ICMI.
 
-La **transposición didáctica** es el proceso mediante el cual un "objeto de saber" erudito (el saber tal como lo define la disciplina académica) se transforma en un "objeto a enseñar" (contenido curricular) y, finalmente, en un "objeto de enseñanza" (lo que efectivamente se enseña y se aprende en el aula)[reference:4]. Chevallard distingue entre una acepción amplia (*sensu lato*) de este proceso y una estricta (*strictu sensu*), que se refiere a la transformación de un contenido de saber preciso en una versión didáctica de ese objeto[reference:5].
+La **transposición didáctica** es el proceso mediante el cual un "objeto de saber" erudito (el saber tal como lo define la disciplina académica) se transforma en un "objeto a enseñar" (contenido curricular) y, finalmente, en un "objeto de enseñanza" (lo que efectivamente se enseña y se aprende en el aula).
 
-La TAD, marco en el que se inscribe la transposición didáctica, analiza las prácticas sociales e institucionales en las que se produce el conocimiento matemático, incorporando dimensiones epistemológicas, institucionales y personales[reference:6].
+La TAD analiza las prácticas sociales e institucionales en las que se produce el conocimiento matemático, incorporando dimensiones epistemológicas, institucionales y personales.
 
 ## Aplicación en el aula de Matemáticas
 
@@ -20,5 +20,10 @@ La TAD, marco en el que se inscribe la transposición didáctica, analiza las pr
 ## Referencias
 
 - Chevallard, Y. (1991). *La transposición didáctica: Del saber sabio al saber enseñado*. Aique.
-- Chevallard, Y. (1992). Concepts fondamentaux de la didactique: perspectives apportées par une approche anthropologique. *Recherches en Didactique des Mathématiques*, 12(1), 73-112.
+- Chevallard, Y. (1992). Concepts fondamentaux de la didactique. *Recherches en Didactique des Mathématiques*, 12(1), 73-112.
 - Medalla Hans Freudenthal 2009. [ICMI](https://www.mathunion.org/icmi/awards/hans-freudenthal-medal)
+
+## Conexiones
+
+- [brousseau.md](brousseau.md) — situaciones didácticas y contrato didáctico.
+- [tad-aplicada-eso.md](tad-aplicada-eso.md) — aplicación de la TAD a la ESO.

@@ -5,7 +5,7 @@
 
 ## Ideas clave
 
-Viktor Frankl, psiquiatra y neurólogo austriaco, fundó la **logoterapia**, una corriente psicológica que se centra en la **búsqueda de sentido** como motivación primaria del ser humano[reference:15].
+Viktor Frankl, psiquiatra y neurólogo austriaco, fundó la **logoterapia**, una corriente psicológica que se centra en la **búsqueda de sentido** como motivación primaria del ser humano.
 
 Conceptos centrales:
 
@@ -14,7 +14,7 @@ Conceptos centrales:
 - **Valores creativos, vivenciales y actitudinales:** tres vías para encontrar sentido (lo que hacemos, lo que experimentamos y la actitud ante el sufrimiento).
 - **Autotrascendencia:** el sentido se realiza cuando nos dirigimos hacia algo o alguien más allá de nosotros mismos.
 
-Frankl insiste en que la educación debe ayudar a **afinar la conciencia** para descubrir valores y asumir responsabilidades[reference:16]. Su obra *El hombre en busca de sentido* es un testimonio fundamental sobre la resiliencia y la libertad interior.
+Frankl insiste en que la educación debe ayudar a **afinar la conciencia** para descubrir valores y asumir responsabilidades. Su obra *El hombre en busca de sentido* es un testimonio fundamental sobre la resiliencia y la libertad interior.
 
 ## Aplicación en el aula
 
@@ -26,3 +26,8 @@ Frankl insiste en que la educación debe ayudar a **afinar la conciencia** para 
 
 - Frankl, V. E. (1946/1991). *El hombre en busca de sentido*. Herder.
 - KCI. *An Interpretation of Logotherapy from a Perspective of Philosophy of Education*. [Artículo](https://www.kci.go.kr/kciportal/landing/article.kci?arti_id=ART002478023)
+
+## Conexiones
+
+- [lazarus.md](lazarus.md) — afrontamiento y significado.
+- [bandura.md](bandura.md) — autoeficacia y agency.

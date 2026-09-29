@@ -5,15 +5,13 @@
 
 ## Ideas clave
 
-El **CEMAT** (Comité Español de Matemáticas) fue creado en 2004 como reestructuración del Comité Español para la Unión Matemática Internacional. Su objetivo es **coordinar las actividades matemáticas españolas de ámbito internacional**, canalizar las iniciativas de la IMU en España y asesorar a los Ministerios de Educación y Ciencia[reference:13].
+El **CEMAT** (Comité Español de Matemáticas) fue creado en 2004 como reestructuración del Comité Español para la Unión Matemática Internacional. Su objetivo es **coordinar las actividades matemáticas españolas de ámbito internacional**, canalizar las iniciativas de la IMU en España y asesorar a los Ministerios de Educación y Ciencia.
 
 En el CEMAT participan, entre otras sociedades:
 
 - Real Sociedad Matemática Española (RSME)
 - **Federación Española de Sociedades de Profesores de Matemáticas (FESPM)**
 - Sociedad Española de Investigación en Educación Matemática (SEIEM)
-
-La FESPM es la federación que agrupa a las asociaciones de profesorado de matemáticas de toda España y tiene un papel clave en la **formación permanente del profesorado** y en la difusión de innovaciones didácticas[reference:14].
 
 ## Aplicación para el profesorado de Matemáticas
 
@@ -24,4 +22,8 @@ La FESPM es la federación que agrupa a las asociaciones de profesorado de matem
 ## Referencias
 
 - CEMAT. *Presentación*. [https://www.ce-mat.org/presentacion/](https://www.ce-mat.org/presentacion/)
-- FESPM. *Federación Española de Sociedades de Profesores de Matemáticas*. [https://www.fespm.es](https://www.fespm.es)
+
+## Conexiones
+
+- [fespm.md](fespm.md) — federación de sociedades de profesorado.
+- [sierra.md](sierra.md) — SEIEM y su fundación.

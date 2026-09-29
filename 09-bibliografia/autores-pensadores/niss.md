@@ -5,7 +5,7 @@
 
 ## Ideas clave
 
-Mogens Niss dirigió el **proyecto KOM** (Competencies and Mathematical Learning) en Dinamarca, que definió **ocho competencias matemáticas** fundamentales. Estas competencias han tenido una influencia decisiva en el marco teórico de **PISA** (OCDE) y en la orientación por competencias de los currículos europeos[reference:9].
+Mogens Niss dirigió el **proyecto KOM** (Competencies and Mathematical Learning) en Dinamarca, que definió **ocho competencias matemáticas** fundamentales. Estas competencias han tenido una influencia decisiva en el marco teórico de **PISA** (OCDE) y en la orientación por competencias de los currículos europeos.
 
 Las ocho competencias son:
 
@@ -18,7 +18,7 @@ Las ocho competencias son:
 7. **Uso de símbolos y lenguaje formal**
 8. **Uso de herramientas y tecnología**
 
-Para ser matemáticamente competente, el alumno necesita todas ellas en distintos grados, además de **confianza** en su propia capacidad para usar las matemáticas[reference:10].
+Para ser matemáticamente competente, el alumno necesita todas ellas en distintos grados, además de **confianza** en su propia capacidad para usar las matemáticas.
 
 ## Aplicación en el aula de Matemáticas
 
@@ -29,3 +29,9 @@ Para ser matemáticamente competente, el alumno necesita todas ellas en distinto
 ## Referencias
 
 - Niss, M. (2015). *Mathematical Competencies and PISA*. En *Assessing Mathematical Literacy*. Springer. [Resumen](https://www.sciencedirect.com/topics/computer-science/mathematical-thinking)
+- Niss, M., & Højgaard, T. (2019). *Mathematical Competencies in Mathematics Education*. Springer.
+
+## Conexiones
+
+- [nctm.md](nctm.md) — estándares curriculares y de proceso.
+- [schoenfeld.md](schoenfeld.md) — resolución de problemas y metacognición.

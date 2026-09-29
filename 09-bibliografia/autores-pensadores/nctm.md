@@ -5,7 +5,7 @@
 
 ## Ideas clave
 
-El NCTM (EE. UU.) publicó en 1989 y 2000 los **Principles and Standards for School Mathematics**, un referente internacional que estableció **cinco estándares de contenido** y **cinco estándares de proceso** para la educación matemática desde preescolar hasta el grado 12[reference:11].
+El NCTM (EE. UU.) publicó en 1989 y 2000 los **Principles and Standards for School Mathematics**, un referente internacional que estableció **cinco estándares de contenido** y **cinco estándares de proceso** para la educación matemática desde preescolar hasta el grado 12.
 
 Estándares de contenido:
 
@@ -23,7 +23,7 @@ Estándares de proceso:
 - Conexiones
 - Representación
 
-El NCTM insiste en que **todos los estudiantes** deben tener acceso a una educación matemática de calidad, independientemente de su origen o capacidad[reference:12].
+El NCTM insiste en que **todos los estudiantes** deben tener acceso a una educación matemática de calidad, independientemente de su origen o capacidad.
 
 ## Aplicación en el aula de Matemáticas
 
@@ -34,3 +34,8 @@ El NCTM insiste en que **todos los estudiantes** deben tener acceso a una educac
 ## Referencias
 
 - NCTM. *Principles and Standards for School Mathematics*. [Geometría](https://www.nctm.org/Standards-and-Positions/Principles-and-Standards/Geometry/)
+
+## Conexiones
+
+- [niss.md](niss.md) — competencias matemáticas y su evaluación.
+- [polya.md](polya.md) — resolución de problemas como estándar de proceso.

@@ -5,7 +5,7 @@
 
 ## Ideas clave
 
-Brousseau es el creador de la **Teoría de las Situaciones Didácticas (TSD)** , un marco fundamental para entender la enseñanza de las matemáticas como un proceso de **construcción de conocimiento** mediado por situaciones problemáticas[reference:4].
+Brousseau es el creador de la **Teoría de las Situaciones Didácticas (TSD)**, un marco fundamental para entender la enseñanza de las matemáticas como un proceso de **construcción de conocimiento** mediado por situaciones problemáticas.
 
 Conceptos centrales de la TSD:
 
@@ -15,7 +15,7 @@ Conceptos centrales de la TSD:
 - **Devolución:** el profesor transfiere al alumno la responsabilidad de resolver la situación.
 - **Institucionalización:** el saber producido por los alumnos se convierte en saber oficial y compartido.
 
-La obra de Brousseau se difundió en español gracias a traducciones de autoras como Dilma Fregona, y sus materiales están depositados en el **Centro de Recursos de Didáctica de las Matemáticas – Guy Brousseau** (Universitat Jaume I de Castelló)[reference:5].
+La obra de Brousseau se difundió en español gracias a traducciones de autoras como Dilma Fregona, y sus materiales están depositados en el **Centro de Recursos de Didáctica de las Matemáticas – Guy Brousseau** (Universitat Jaume I de Castelló).
 
 ## Aplicación en el aula de Matemáticas
 
@@ -25,4 +25,10 @@ La obra de Brousseau se difundió en español gracias a traducciones de autoras 
 
 ## Referencias
 
+- Brousseau, G. (1997). *Theory of Didactical Situations in Mathematics*. Kluwer.
 - Bessot, A., & Dorier, J.-L. (2024). *Introducción a la teoría de las situaciones*. HAL. [PDF](https://hal.science/hal-04610836v1/preview/DefCurso-M2-FundamentosDDM-Bessot2004_ES_V2.pdf)
+
+## Conexiones
+
+- [chevallard.md](chevallard.md) — transposición didáctica y TAD.
+- [tad-aplicada-eso.md](tad-aplicada-eso.md) — aplicación de la TAD a la ESO.
