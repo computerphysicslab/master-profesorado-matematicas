@@ -66,6 +66,9 @@ No todo estrés es igual.
 
 El objetivo educativo no es eliminar toda activación (a menudo el eustrés acompaña al aprendizaje exigente), sino evitar que la activación se convierta en **distrés crónico** o en ansiedad paralizante.
 
+> **Desarrollo completo del estrés** (modelo transaccional, tipos de estresores, afrontamiento, técnicas, mitos, infraexigencia):  
+> **[Estrés: impacto y gestión emocional](estres-impacto-y-gestion-emocional.md)** · [ficha modelo transaccional](../materiales/01-modelo-transaccional-estres.md).
+
 ---
 
 ## 6. Frustración y ansiedad en la clase de Matemáticas
@@ -128,6 +131,7 @@ Como **patrones observables** ligados a la tarea y a la evaluación: abandono, e
 
 ## 9. Para seguir
 
+- **Estrés (tema completo):** [estres-impacto-y-gestion-emocional.md](estres-impacto-y-gestion-emocional.md)  
 - Glosario: *emoción*, *eustrés*, *distrés*, *frustración*, *ansiedad matemática*, *regulación emocional*.  
 - Apunte anterior: [01 — Inteligencia emocional](01-inteligencia-emocional-contexto.md).  
 - Siguiente: [03 — Competencias emocionales e instrumentos](03-competencias-emocionales-instrumentos.md).
