@@ -16,10 +16,10 @@ Esta carpeta organiza documentación, guiones, recursos y episodios de podcasts 
 
 | Carpeta | Contenido |
 |---------|-----------|
-| [`recursos/`](recursos/) | Archivos de audio (MP3) |
+| [`recursos/`](recursos/) | Archivos de audio (MP3): paradigmas, Pávlov/Skinner/Erikson, diseño curricular, motivaciones LOMLOE |
+| [`episodios/`](episodios/) | Episodios numerados (p. ej. aprender y enseñar Matemáticas ep. 1) |
 | [`ideas/`](ideas/) | Ideas para futuros episodios (p. ej. [ocho figuras](ideas/ocho-figuras-matematicas.md)) |
 | [`guiones/`](guiones/) | Guiones y textos |
-| [`episodios/`](episodios/) | Metadatos / episodios |
 | [`referencias/`](referencias/) | Material de apoyo |
 
 ## Índice de episodios
