@@ -18,7 +18,7 @@ Especial atención a la prevención del burnout docente y al clima socioafectivo
 
 | Documento | Contenido |
 |-----------|-----------|
-| [01-modelo-transaccional-estres.md](01-modelo-transaccional-estres.md) | Modelo de Lazarus y Folkman, tipos de estresores, estrategias de afrontamiento, aplicaciones al profesorado y al aula |
+| [01-modelo-transaccional-estres.md](01-modelo-transaccional-estres.md) | Modelo de Lazarus y Folkman, mitos, tipos de estresores, afrontamiento (problema/emoción; aproximación/evitación), Tipo A, técnicas (D’Zurilla), aplicaciones al profesorado y al aula |
 | [02-inteligencia-emocional.md](02-inteligencia-emocional.md) | Concepto de IE (Mayer y Salovey, Goleman y otros), componentes, relación con el éxito profesional y personal |
 | [03-competencias-socioemocionales.md](03-competencias-socioemocionales.md) | Competencias socioemocionales, escala e-COM, prueba TRUST y su relevancia para la docencia |
 | [propuestas-actividades.md](propuestas-actividades.md) | Plantillas y orientaciones para diseñar actividades de educación emocional y situaciones de evaluación |
@@ -26,9 +26,11 @@ Especial atención a la prevención del burnout docente y al clima socioafectivo
 | [Afectividad y motivación intrínseca](afectividad-y-motivacion-intrinseca.md) | Emociones, autodeterminación (Deci y Ryan), ansiedad matemática, prácticas de aula y sentido socioafectivo LOMLOE |
 | [Ventana de Johari aplicada a la docencia de Matemáticas](ventana-de-johari-docencia-matematicas.md) | Autoconocimiento y comunicación: áreas pública, ciega, oculta y desconocida; feedback y autorrevelación; clima de aula de Matemáticas |
 
+**Apunte de síntesis del estrés (tema completo):** [../apuntes/estres-impacto-y-gestion-emocional.md](../apuntes/estres-impacto-y-gestion-emocional.md)
+
 ## Uso recomendado
 
-1. Leer primero el modelo transaccional del estrés para comprender la base teórica.
+1. Leer primero el modelo transaccional del estrés (ficha + apunte) para comprender la base teórica.
 2. Continuar con inteligencia emocional y competencias socioemocionales.
 3. Utilizar las propuestas de actividades como punto de partida para el diseño propio (nunca copiar literalmente).
 4. Consultar afectividad/motivación y Ventana de Johari para el puente al aula de Matemáticas.
