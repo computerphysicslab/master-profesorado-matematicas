@@ -25,12 +25,21 @@ La optativa no forma terapeutas: el rol del profesor es **observar, prevenir, en
 
 ## Materiales
 
-| Recurso |
-|---------|
-| **[Afectividad y motivación intrínseca](materiales/afectividad-y-motivacion-intrinseca.md)** |
+| Recurso | Contenido |
+|---------|-----------|
+| **[Modelo transaccional del estrés](materiales/01-modelo-transaccional-estres.md)** | Lazarus y Folkman; estresores y afrontamiento docente |
+| **[Inteligencia emocional](materiales/02-inteligencia-emocional.md)** | Mayer-Salovey, Goleman; componentes de la IE |
+| **[Competencias socioemocionales](materiales/03-competencias-socioemocionales.md)** | e-COM, TRUST; aplicación a la docencia |
+| **[Propuestas de actividades](materiales/propuestas-actividades.md)** | Plantillas orientativas (no copiar literalmente) |
+| **[Recursos y referencias](materiales/recursos.md)** | Bibliografía clave |
+| **[Afectividad y motivación intrínseca](materiales/afectividad-y-motivacion-intrinseca.md)** | Deci y Ryan; ansiedad matemática; sentido socioafectivo LOMLOE |
+| **[Ventana de Johari en docencia de Matemáticas](materiales/ventana-de-johari-docencia-matematicas.md)** | Autoconocimiento, feedback y clima de aula |
+| Índice completo | [materiales/README.md](materiales/README.md) |
 
 ## Relación con el máster
 
 - [`09-bibliografia/educacion-emocional/`](../../../09-bibliografia/educacion-emocional/)  
+- [Materiales de Psicología](../../psicologia-del-desarrollo-y-de-la-educacion/materiales/) (mindset, autoeficacia, gestión del error, suicidio juvenil)  
+- [03-materiales/psicologia — protocolos de derivación](../../../03-materiales/psicologia/)  
 - [DUA](../../procesos-y-contextos-educativos/materiales/dua-diseno-universal-aprendizaje.md)  
 - [Practicum](../../practicum/)  
