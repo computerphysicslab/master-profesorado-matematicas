@@ -9,3 +9,6 @@
 - Practicum II
 - Trabajo fin de Máster
 - Optativas
+
+## Apuntes transversales
+- [Libertad de cátedra y volumen legislativo](legislacion-educativa/libertad-catedra-volumen-legislativo.md)

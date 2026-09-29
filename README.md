@@ -53,6 +53,7 @@ flowchart TB
 - `00-administracion/` — matrícula, calendario, trámites, organización y documentación administrativa.
 - `01-asignaturas/` — asignaturas del máster y espacios de trabajo.
 - `02-apuntes/` — índice general y apuntes transversales.
+  - Apunte: [Libertad de cátedra y volumen legislativo](02-apuntes/legislacion-educativa/libertad-catedra-volumen-legislativo.md)
 - `03-materiales/` — materiales docentes y recursos reutilizables.
 - `04-pbl-abp/` — aprendizaje basado en proyectos/problemas.
 - `05-python-jupyter/` — Python, Jupyter y recursos computacionales para educación matemática.
