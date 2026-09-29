@@ -1,7 +1,12 @@
+---
+layout: default
+title: Python y Jupyter
+nav_order: 7
+permalink: /05-python-jupyter/
+---
+
 # Python y Jupyter
 
-Sección del repositorio del Máster de Profesorado de Matemáticas.
-
-Esta carpeta se utilizará para organizar documentación, apuntes, recursos y evidencias relacionadas con **Python y Jupyter**.
+Python, Jupyter y recursos computacionales para la educación matemática.
 
 Los materiales se incorporarán progresivamente durante el curso académico.

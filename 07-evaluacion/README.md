@@ -1,3 +1,10 @@
+---
+layout: default
+title: Evaluación
+nav_order: 9
+permalink: /07-evaluacion/
+---
+
 # Evaluación
 
 Sección del repositorio del Máster de Profesorado de Matemáticas.

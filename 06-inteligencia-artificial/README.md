@@ -1,7 +1,12 @@
-# Inteligencia Artificial
+---
+layout: default
+title: Inteligencia artificial
+nav_order: 8
+permalink: /06-inteligencia-artificial/
+---
 
-Sección del repositorio del Máster de Profesorado de Matemáticas.
+# Inteligencia artificial
 
-Esta carpeta se utilizará para organizar documentación, apuntes, recursos y evidencias relacionadas con **Inteligencia Artificial**.
+IA aplicada a educación, docencia y aprendizaje de Matemáticas.
 
 Los materiales se incorporarán progresivamente durante el curso académico.

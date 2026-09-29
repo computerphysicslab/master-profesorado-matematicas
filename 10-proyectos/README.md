@@ -1,7 +1,12 @@
+---
+layout: default
+title: Proyectos
+nav_order: 12
+permalink: /10-proyectos/
+---
+
 # Proyectos
 
-Sección del repositorio del Máster de Profesorado de Matemáticas.
-
-Esta carpeta se utilizará para organizar documentación, apuntes, recursos y evidencias relacionadas con **Proyectos**.
+Proyectos integradores y propuestas didácticas del Máster de Profesorado de Matemáticas.
 
 Los materiales se incorporarán progresivamente durante el curso académico.

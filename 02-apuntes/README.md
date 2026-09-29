@@ -1,3 +1,10 @@
+---
+layout: default
+title: Apuntes
+nav_order: 5
+permalink: /02-apuntes/
+---
+
 # Apuntes
 
 Sección del repositorio del Máster de Profesorado de Matemáticas.

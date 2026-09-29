@@ -1,3 +1,11 @@
+---
+layout: default
+title: Historias matemáticas
+parent: Materiales
+nav_order: 1
+permalink: /03-materiales/historias-matematicas/
+---
+
 # Historias matemáticas
 
 ```text
