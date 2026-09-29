@@ -22,6 +22,9 @@ El malestar crónico del profesor se traduce en menos paciencia, feedback más p
 
 Fuentes habituales en Secundaria: ratios, convivencia, burocracia, presión de resultados, conflictos con familias, aislamiento.
 
+> Marco completo (modelo transaccional, estresores del profesorado, afrontamiento, técnicas):  
+> **[Estrés: impacto y gestión emocional](estres-impacto-y-gestion-emocional.md)** · [ficha modelo transaccional](../materiales/01-modelo-transaccional-estres.md).
+
 ---
 
 ## 3. Burnout (síndrome de estar quemado)
@@ -95,6 +98,7 @@ Cuando la situación supera las herramientas ordinarias de aula, cuando hay ries
 
 ## Para seguir
 
+- [Estrés: impacto y gestión emocional](estres-impacto-y-gestion-emocional.md)  
 - [Tema 10 — Casos aplicados](10-sintesis-casos-matematicas.md)  
 - [Tema 4 — Bienestar](04-psicologia-positiva-bienestar.md)  
 - [Glosario](../glosario.md): burnout, distrés, engagement  
