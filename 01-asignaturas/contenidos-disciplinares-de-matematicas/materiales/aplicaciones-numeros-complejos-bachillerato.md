@@ -60,6 +60,7 @@ La iteración $z_{n+1} = z_n^2 + c$ en el plano complejo genera el conjunto de M
 
 - Software: GeoGebra, Python (matplotlib), applets online.
 - Interés alto; cuidado con no sustituir el bloque algebraico por solo «imágenes bonitas».
+- **Ficha completa de taller:** [fractales-mandelbrot-bachillerato.md](fractales-mandelbrot-bachillerato.md) (definición, cálculo a mano, 1–2 sesiones, código mínimo, evaluación).
 
 ### 3.5. Señales y filtros (idea)
 
@@ -101,6 +102,7 @@ La representación compleja de senoides y la idea de respuesta en frecuencia mot
 
 ## 7. Para seguir
 
+- Fractales Mandelbrot / Julia (taller): [fractales-mandelbrot-bachillerato.md](fractales-mandelbrot-bachillerato.md)
 - Cuaterniones y videojuegos 3D: [hipercomplejos-cuaterniones-videojuegos.md](hipercomplejos-cuaterniones-videojuegos.md)
 - Temario Mat. I Aragón: [06_matematicas_i_1_bachillerato.md](../../diseno-curricular-e-instruccional-de-matematicas/materiales/temarios-matematicas-aragon/06_matematicas_i_1_bachillerato.md)
 - Historias matemáticas (ampliación cultural): [`03-materiales/historias-matematicas/`](../../../03-materiales/historias-matematicas/)
