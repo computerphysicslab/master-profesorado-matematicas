@@ -19,12 +19,19 @@ Documento: **[programa.md](programa.md)** · Bibliografía: **[bibliografia.md](
 | 5 | Metodología y recursos en Secundaria | [05](apuntes/05-metodologia-recursos-educacion-secundaria.md) |
 | 6 | Evaluación (qué, quién, cuándo, cómo) | [06](apuntes/06-evaluacion-procesos-ensenanza-aprendizaje.md) |
 
-## Materiales transversales
+## Materiales (selección)
+
+Índice completo: **[materiales/README.md](materiales/README.md)**
 
 | Recurso | Uso |
 |---------|-----|
-| **[DUA](materiales/dua-diseno-universal-aprendizaje.md)** | Diseño universal; tema 4 y programaciones de otras asignaturas |
+| [Leyes educativas (fichas)](materiales/leyes-educativas/) | Tema 1 |
+| [Línea temporal de leyes](materiales/linea-temporal-leyes-educativas.md) | Tema 1 |
+| [DUA](materiales/dua-diseno-universal-aprendizaje.md) | Tema 4 / programaciones |
+| [TALIS — ficha sintética](materiales/talis-ficha-sintetica.md) | Condiciones docentes |
+| [Burocratización del trabajo docente](materiales/burocratizacion-trabajo-docente-analisis-historico.md) | Tema 1 §7 |
+| [PISA 2022 y Matemáticas](materiales/pisa-2022-fracaso-escolar-matematicas.md) | Evaluación internacional |
 
 ## Carpetas
 
-- `programa.md` · `bibliografia.md` · `apuntes/` · `materiales/`
+- `programa.md` · `bibliografia.md` · `apuntes/` · `materiales/` · `examen/`

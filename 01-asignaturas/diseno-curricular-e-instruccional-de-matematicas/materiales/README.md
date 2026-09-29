@@ -4,8 +4,8 @@ Recursos reutilizables que complementan los [apuntes](../apuntes/) de la asignat
 
 ## Contenido
 
-| Carpeta | Descripción |
-|---------|-------------|
+| Carpeta / archivo | Descripción |
+|-------------------|-------------|
 | [curriculo-lomloe/](curriculo-lomloe/) | Mapa de competencias/criterios y sentidos por curso |
 | [temarios-matematicas-aragon/](temarios-matematicas-aragon/) | **Temarios ESO/Bach. LOMLOE Aragón** (9 cursos + plantilla PD) |
 | [asignaturas-eso-bachillerato/](asignaturas-eso-bachillerato/) | Materias de Matemáticas ESO/Bachillerato y dimensiones |
@@ -13,6 +13,7 @@ Recursos reutilizables que complementan los [apuntes](../apuntes/) de la asignat
 | [fichas-objetos/](fichas-objetos/) | Fracción, función lineal, derivada, probabilidad |
 | [errores-y-obstaculos/](errores-y-obstaculos/) | Banco de errores típicos |
 | [banco-problemas/](banco-problemas/) | Cuestiones generatrices y problemas ricos |
+| [contenidos-eliminados-trasladados-evolucion-curricular.md](contenidos-eliminados-trasladados-evolucion-curricular.md) | Evolución curricular: qué se eliminó o trasladó |
 
 ## Acceso rápido
 

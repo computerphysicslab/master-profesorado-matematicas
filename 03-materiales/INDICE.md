@@ -2,16 +2,38 @@
 
 Repositorio transversal de materiales docentes, recursos digitales, lecturas y fichas de apoyo.
 
-## Psicología del desarrollo y de la educación
+## Historias matemáticas
+
+Colección de **30 fichas**: [`historias-matematicas/`](historias-matematicas/).
+
+- [README e itinerarios](historias-matematicas/README.md)
+- [Catálogo](historias-matematicas/indices/catalogo.md) · [Por concepto](historias-matematicas/indices/por-concepto.md) · [Por curso](historias-matematicas/indices/por-curso.md)
+
+**Últimas fichas:** [Hipatia](historias-matematicas/fichas/hipatia.md) · [Al-Juarismi](historias-matematicas/fichas/al-khwarizmi.md) · [Daubechies](historias-matematicas/fichas/ingrid-daubechies.md) · [Ramanujan](historias-matematicas/fichas/ramanujan.md) · [Katherine Johnson](historias-matematicas/fichas/katherine-johnson.md).
+
+## Psicología
 
 | Material | Descripción |
 |----------|-------------|
-| [suicidio-juvenil-rrss-rol-docente.md](psicologia/suicidio-juvenil-rrss-rol-docente.md) | Suicidio juvenil, redes sociales y rol del docente. Detección, factores de riesgo/protección, **protocolos de derivación (Aragón 2021 + esquema Mermaid)**, recursos (024) y clima de aula en Matemáticas. |
+| [suicidio-juvenil-rrss-rol-docente.md](psicologia/suicidio-juvenil-rrss-rol-docente.md) | Detección, RRSS, protocolos de derivación (Aragón), recursos 024 |
+| [README psicología](psicologia/README.md) | Índice de esta carpeta |
 
-## Historias matemáticas
+Colección principal de la asignatura (carga cognitiva, ZDP, mindset, neurodivergencia, etc.):
 
-Colección de **30 fichas** (pregunta generatriz → historia → idea → problema): [`historias-matematicas/`](historias-matematicas/).
+→ [`01-asignaturas/psicologia-del-desarrollo-y-de-la-educacion/materiales/`](../01-asignaturas/psicologia-del-desarrollo-y-de-la-educacion/materiales/)
 
-**Últimas incorporaciones:** [Hipatia](historias-matematicas/fichas/hipatia.md) · [Al-Juarismi](historias-matematicas/fichas/al-khwarizmi.md) · [Ingrid Daubechies](historias-matematicas/fichas/ingrid-daubechies.md) · [Ramanujan](historias-matematicas/fichas/ramanujan.md) · [Katherine Johnson](historias-matematicas/fichas/katherine-johnson.md).
+## Por etapa y tema
 
-Itinerarios (línea temporal y ocho figuras): [README de historias](historias-matematicas/README.md).
+| Carpeta | Notas |
+|---------|--------|
+| [eso/](eso/), [bachillerato/](bachillerato/), [secundaria/](secundaria/) | Materiales por etapa |
+| [matematicas/](matematicas/), [stem/](stem/), [recursos-digitales/](recursos-digitales/) | Recursos temáticos |
+| [actividades/](actividades/), [ejercicios/](ejercicios/), [fichas/](fichas/), [presentaciones/](presentaciones/) | Espacios en construcción |
+
+## Materiales en asignaturas (no duplicar aquí)
+
+| Ubicación | Contenido destacado |
+|-----------|---------------------|
+| [Procesos — materiales](../01-asignaturas/procesos-y-contextos-educativos/materiales/) | Leyes educativas, DUA, TALIS, PISA, burocracia |
+| [Diseño curricular — materiales](../01-asignaturas/diseno-curricular-e-instruccional-de-matematicas/materiales/) | Temarios Aragón, plantillas, currículo LOMLOE |
+| [Educación emocional — materiales](../01-asignaturas/optativas/educacion-emocional-en-el-profesorado/materiales/) | Estrés, IE, competencias socioemocionales |

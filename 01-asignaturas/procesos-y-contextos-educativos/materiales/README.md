@@ -15,19 +15,45 @@ Recursos prácticos y transversales (citables desde otras asignaturas y el pract
 | [Plantilla de alineación criterio → evidencia](plantilla-alineacion-criterio-evidencia.md) | 5–6 |
 | [DUA — Diseño Universal para el Aprendizaje](dua-diseno-universal-aprendizaje.md) | 4 (transversal) |
 
+## Historia, leyes y condiciones del sistema
+
+| Recurso | Uso |
+|---------|-----|
+| [**Leyes educativas (fichas LOECE→LOMLOE)**](leyes-educativas/) | Tema 1 — 7 fichas + README |
+| [Línea temporal de leyes educativas](linea-temporal-leyes-educativas.md) | Tema 1 |
+| [Burocratización del trabajo docente — análisis histórico](burocratizacion-trabajo-docente-analisis-historico.md) | Tema 1 (sección 7) |
+| [Comparativa de paradigmas en una tarea de mates](comparativa-paradigmas-tarea-matematicas.md) | Tema 1 aplicado |
+| [PISA 2022, rendimiento en Matemáticas y fracaso escolar](pisa-2022-fracaso-escolar-matematicas.md) | Evaluación internacional |
+| [TALIS — ficha sintética](talis-ficha-sintetica.md) | Condiciones del profesorado (OCDE) |
+| [Ratio y condiciones de enseñanza](ratio-condiciones-ensenanza.md) | Organización y metodología |
+
 ## Refuerzo transversal
 
 | Recurso | Uso |
 |---------|-----|
 | [Glosario](glosario-procesos-contextos.md) | Términos de la asignatura |
-| [Línea temporal de leyes educativas](linea-temporal-leyes-educativas.md) | Tema 1 |
-| [Burocratización del trabajo docente — análisis histórico](burocratizacion-trabajo-docente-analisis-historico.md) | Tema 1 (sección 7): evolución de la carga documental y conexión con paradigmas |
 | [Guía breve de convivencia y mediación](guia-convivencia-mediacion.md) | Tema 3 + clima de aula |
-| [Ratio y condiciones de enseñanza](ratio-condiciones-ensenanza.md) | Organización y metodología |
-| [Comparativa de paradigmas en una tarea de mates](comparativa-paradigmas-tarea-matematicas.md) | Tema 1 aplicado |
-| [PISA 2022, rendimiento en Matemáticas y fracaso escolar](pisa-2022-fracaso-escolar-matematicas.md) | Evaluación internacional, equidad y fracaso escolar |
-| [TALIS — ficha sintética](talis-ficha-sintetica.md) | Condiciones del profesorado (OCDE); estrés administrativo y cambios normativos |
+
+## Inventario completo de esta carpeta
+
+- `leyes-educativas/` (carpeta)
+- `burocratizacion-trabajo-docente-analisis-historico.md`
+- `checklist-observacion-centro-aula.md`
+- `comparativa-paradigmas-tarea-matematicas.md`
+- `dua-diseno-universal-aprendizaje.md`
+- `estructuras-aprendizaje-cooperativo.md`
+- `glosario-procesos-contextos.md`
+- `guia-convivencia-mediacion.md`
+- `instrumentos-evaluacion.md`
+- `linea-temporal-leyes-educativas.md`
+- `mapa-medidas-atencion-diversidad.md`
+- `mapa-sistema-educativo.md`
+- `organos-y-documentos-de-centro.md`
+- `pisa-2022-fracaso-escolar-matematicas.md`
+- `plantilla-alineacion-criterio-evidencia.md`
+- `ratio-condiciones-ensenanza.md`
+- `talis-ficha-sintetica.md`
 
 ## Enlaces
 
-- [Programa](../programa.md) · [Apuntes](../apuntes/) · [Bibliografía](../bibliografia.md)
+- [Programa](../programa.md) · [Apuntes](../apuntes/) · [Bibliografía](../bibliografia.md) · [Examen](../examen/)

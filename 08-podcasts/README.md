@@ -14,10 +14,14 @@ Esta carpeta organiza documentación, guiones, recursos y episodios de podcasts 
 
 ## Estructura
 
-- `episodios/` — Episodios principales
-- `recursos/` — Archivos de audio (MP3)
-- `guiones/` — Guiones y textos
-- `ideas/` — Ideas para futuros episodios
-- `referencias/` — Material de apoyo
+| Carpeta | Contenido |
+|---------|-----------|
+| [`recursos/`](recursos/) | Archivos de audio (MP3) |
+| [`ideas/`](ideas/) | Ideas para futuros episodios (p. ej. [ocho figuras](ideas/ocho-figuras-matematicas.md)) |
+| [`guiones/`](guiones/) | Guiones y textos |
+| [`episodios/`](episodios/) | Metadatos / episodios |
+| [`referencias/`](referencias/) | Material de apoyo |
 
-Consulta el [Índice de podcasts](INDICE.md) para la lista actualizada de episodios disponibles.
+## Índice de episodios
+
+Consulta el **[INDICE.md](INDICE.md)** para la lista actualizada de episodios disponibles.
