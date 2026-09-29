@@ -25,3 +25,12 @@ Carpeta transversal para el **Practicum I** y el **Practicum II** del máster (e
 ## Relación con asignaturas del máster
 
 El Practicum conecta especialmente con: Psicología del desarrollo, Procesos y contextos, Diseño curricular, Diseño de actividades, Innovación e investigación, y Evaluación.
+
+## Recursos para la programación didáctica (Aragón)
+
+Si el centro de prácticas está en Aragón, conviene usar:
+
+- [Temarios Matemáticas ESO/Bachillerato — LOMLOE Aragón](../diseno-curricular-e-instruccional-de-matematicas/materiales/temarios-matematicas-aragon/)
+- [Plantilla de programación didáctica Aragón](../diseno-curricular-e-instruccional-de-matematicas/materiales/temarios-matematicas-aragon/PLANTILLA_PROGRAMACION_DIDACTICA_ARAGON.md)
+
+Marco normativo: Órdenes ECD/1172/2022 (ESO) y ECD/1173/2022 (Bachillerato), con modificaciones ECD/867/2024 y ECD/739/2025.
