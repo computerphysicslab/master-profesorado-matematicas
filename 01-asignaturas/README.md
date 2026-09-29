@@ -1,3 +1,11 @@
+---
+layout: default
+title: Asignaturas
+nav_order: 2
+has_children: true
+permalink: /01-asignaturas/
+---
+
 # 📚 Asignaturas — Máster de Profesorado · Matemáticas
 
 Repositorio de trabajo correspondiente a las asignaturas del **Máster Universitario en Profesorado de Educación Secundaria Obligatoria, Bachillerato, Formación Profesional y Enseñanzas de Idiomas, Artísticas y Deportivas**, especialidad en **Matemáticas**.

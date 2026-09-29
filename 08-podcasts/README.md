@@ -1,3 +1,11 @@
+---
+layout: default
+title: Podcasts
+nav_order: 9
+has_children: true
+permalink: /08-podcasts/
+---
+
 # Podcasts
 
 Sección del repositorio del Máster de Profesorado de Matemáticas.

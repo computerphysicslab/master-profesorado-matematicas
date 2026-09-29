@@ -1,3 +1,11 @@
+---
+layout: home
+title: Inicio
+nav_order: 1
+description: "Máster Universitario en Profesorado — especialidad Matemáticas"
+permalink: /
+---
+
 # Máster Universitario en Profesorado — Matemáticas
 
 Repositorio personal de trabajo del **Máster Universitario en Profesorado de Educación Secundaria Obligatoria, Bachillerato, Formación Profesional y Enseñanzas de Idiomas, Artísticas y Deportivas**, especialidad **Matemáticas**.

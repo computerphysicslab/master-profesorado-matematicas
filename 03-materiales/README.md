@@ -1,3 +1,11 @@
+---
+layout: default
+title: Materiales
+nav_order: 4
+has_children: true
+permalink: /03-materiales/
+---
+
 # Materiales
 
 Sección del repositorio del Máster de Profesorado de Matemáticas 2026–2027.  

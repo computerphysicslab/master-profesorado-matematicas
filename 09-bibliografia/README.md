@@ -1,3 +1,11 @@
+---
+layout: default
+title: Bibliografía
+nav_order: 10
+has_children: true
+permalink: /09-bibliografia/
+---
+
 # Bibliografía
 
 Recopilación de referencias abiertas (libros y recursos en PDF o GitHub) para el Máster de Profesorado — especialidad Matemáticas.
