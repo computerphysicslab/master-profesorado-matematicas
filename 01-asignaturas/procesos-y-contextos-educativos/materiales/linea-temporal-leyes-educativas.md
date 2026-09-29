@@ -41,7 +41,7 @@
 ## Lectura rápida
 
 | Etapa | Palabra clave |
-|-------|----------------|
+|-------|---------------|
 | Moyano | Dualidad y centralización |
 | República / ILE | Renovación y coeducación |
 | Franquismo | Dogma y segregación |
@@ -51,3 +51,21 @@
 | LOMLOE | Competencial, inclusivo, DUA |
 
 > Las fechas marcan leyes marco; la práctica de aula siempre es más híbrida que el texto legal.
+
+## Fichas detalladas por ley (1980–2020)
+
+Para profundizar en cada ley orgánica democrática (contexto, ideología, pedagogía, críticas y relación con paradigmas):
+
+| Ley | Año | Ficha |
+|-----|-----|-------|
+| LOECE | 1980 | [loece-1980.md](leyes-educativas/loece-1980.md) |
+| LODE | 1985 | [lode-1985.md](leyes-educativas/lode-1985.md) |
+| LOGSE | 1990 | [logse-1990.md](leyes-educativas/logse-1990.md) |
+| LOCE | 2002 | [loce-2002.md](leyes-educativas/loce-2002.md) |
+| LOE | 2006 | [loe-2006.md](leyes-educativas/loe-2006.md) |
+| LOMCE | 2013 | [lomce-2013.md](leyes-educativas/lomce-2013.md) |
+| LOMLOE | 2020 | [lomloe-2020.md](leyes-educativas/lomloe-2020.md) |
+
+Índice de la carpeta: [leyes-educativas/README.md](leyes-educativas/README.md).
+
+Apunte principal: [01-evolución histórica y paradigmas](../apuntes/01-evolucion-historica-sistema-educativo-paradigmas.md).
