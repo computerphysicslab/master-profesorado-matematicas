@@ -13,14 +13,20 @@
 
 ---
 
-## Introducción y Marco Teórico
+## RESTAURACIÓN EN CURSO
 
-El análisis de la historia de la educación en España exige comprender cómo han interactuado, a lo largo de los siglos XIX, XX y XXI, la legislación educativa, las estructuras sociopolíticas y las teorías didácticas. El currículo y la organización escolar no son construcciones neutras, sino el resultado de luchas ideológicas, modelos económicos y concepciones epistemológicas sobre el conocimiento y el aprendizaje.
+El contenido completo de este apunte (aprox. 26 KB) está disponible en el commit `5e5956c7e925` del repositorio.
 
-Para el futuro profesorado de Matemáticas de Educación Secundaria, este tema no es solo un recorrido histórico: es la base para entender por qué el sistema actual es como es, qué paradigmas informaron cada reforma y qué implicaciones tiene ello para la práctica de aula.
+Para restaurarlo localmente:
+
+```bash
+git checkout 5e5956c7e925 -- 01-asignaturas/procesos-y-contextos-educativos/apuntes/01-evolucion-historica-sistema-educativo-paradigmas.md
+```
+
+Y añadir tras la figura de cronología de leyes:
 
 > **Fichas detalladas por ley (1980–2020):**  
-> [leyes-educativas/](../materiales/leyes-educativas/) — LOECE, LODE, LOGSE, LOCE, LOE, LOMCE, LOMLOE (contexto, ideología, pedagogía, críticas y paradigmas).  
+> [leyes-educativas/](../materiales/leyes-educativas/) — LOECE, LODE, LOGSE, LOCE, LOE, LOMCE, LOMLOE.  
 > Esquema visual: [Línea temporal de leyes educativas](../materiales/linea-temporal-leyes-educativas.md).
 
-**NOTA IMPORTANTE:** El contenido completo de este apunte se está restaurando. El archivo completo está disponible en el repositorio local y en commits anteriores. Si ves este mensaje, el contenido completo se está re-subiendo.
+**Estado del resto de la integración:** todas las fichas de leyes educativas y los materiales de educación emocional están ya en `main` con contenido completo.
