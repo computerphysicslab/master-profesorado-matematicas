@@ -25,4 +25,11 @@
 | 9. Emociones y salud del profesorado | [09-emociones-salud-profesorado.md](09-emociones-salud-profesorado.md) |
 | 10. Síntesis aplicada: casos en Matemáticas | [10-sintesis-casos-matematicas.md](10-sintesis-casos-matematicas.md) |
 
+## Transversal (estrés)
+
+| Documento | Contenido |
+|-----------|-----------|
+| **[Estrés: impacto y gestión emocional](estres-impacto-y-gestion-emocional.md)** | Tema completo alineado con el material de curso: modelo transaccional, eustrés/distrés, afrontamiento, técnicas, puente a Matemáticas |
+| Ficha ampliada | [materiales/01-modelo-transaccional-estres.md](../materiales/01-modelo-transaccional-estres.md) |
+
 Ver: [programa](../programa.md) · [glosario](../glosario.md) · [material afectividad–motivación](../materiales/afectividad-y-motivacion-intrinseca.md).
