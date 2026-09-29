@@ -8,4 +8,14 @@
 | **4** | Procesamiento de la información y teorías cognoscitivas (+ errores ZDP/carga) | [04-procesamiento-informacion-teorias-cognitivas.md](04-procesamiento-informacion-teorias-cognitivas.md) |
 | **5** | Motivación en el proceso de enseñanza-aprendizaje (+ Weiner/Dweck/ansiedad) | [05-motivacion-ensenanza-aprendizaje.md](05-motivacion-ensenanza-aprendizaje.md) |
 
-**Materiales clave:** [carga cognitiva](../materiales/carga-cognitiva-matematicas.md) · [ZDP/andamiaje](../materiales/zdp-andamiaje-matematicas.md) · [mindset y atribuciones](../materiales/mindset-atribuciones-matematicas.md) · [discalculia y DEA](../materiales/discalculia-y-dea-matematicas.md) · [autoeficacia](../materiales/autoeficacia-matematica.md)
+## Materiales por tema
+
+| Tema | Materiales |
+|------|------------|
+| 1–5 | [Feedback efectivo](../materiales/feedback-efectivo-matematicas.md) · [Gestión del error](../materiales/gestion-del-error-matematicas.md) |
+| 2 | [Neurodivergencia](../materiales/neurodivergencia-aula-matematicas.md) · [Discalculia y DEA](../materiales/discalculia-y-dea-matematicas.md) · [Suicidio juvenil / rol docente](../materiales/suicidio-juvenil-rrss-rol-docente.md) |
+| 3 | [Registro ABC de conducta](../materiales/registro-abc-conducta.md) |
+| 4 | [Carga cognitiva](../materiales/carga-cognitiva-matematicas.md) · [ZDP y andamiaje](../materiales/zdp-andamiaje-matematicas.md) · [Funciones ejecutivas](../materiales/funciones-ejecutivas-matematicas.md) |
+| 5 | [Mindset y atribuciones](../materiales/mindset-atribuciones-matematicas.md) · [Autoeficacia matemática](../materiales/autoeficacia-matematica.md) |
+
+Índice completo de materiales: **[../materiales/README.md](../materiales/README.md)**
