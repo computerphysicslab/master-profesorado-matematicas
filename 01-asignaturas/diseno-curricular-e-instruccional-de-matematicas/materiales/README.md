@@ -7,6 +7,7 @@ Recursos reutilizables que complementan los [apuntes](../apuntes/) de la asignat
 | Carpeta | Descripción |
 |---------|-------------|
 | [curriculo-lomloe/](curriculo-lomloe/) | Mapa de competencias/criterios y sentidos por curso |
+| [temarios-matematicas-aragon/](temarios-matematicas-aragon/) | **Temarios ESO/Bach. LOMLOE Aragón** (9 cursos + plantilla PD) |
 | [asignaturas-eso-bachillerato/](asignaturas-eso-bachillerato/) | Materias de Matemáticas ESO/Bachillerato y dimensiones |
 | [plantillas/](plantillas/) | Programación anual, unidad, génesis, rúbrica |
 | [fichas-objetos/](fichas-objetos/) | Fracción, función lineal, derivada, probabilidad |
@@ -15,7 +16,9 @@ Recursos reutilizables que complementan los [apuntes](../apuntes/) de la asignat
 
 ## Acceso rápido
 
-**Currículo:** [mapa competencias–criterios](curriculo-lomloe/mapa-competencias-criterios.md) · [sentidos por curso](curriculo-lomloe/sentidos-por-curso.md)
+**Currículo Aragón:** [temarios ESO/Bach.](temarios-matematicas-aragon/) · [plantilla programación didáctica Aragón](temarios-matematicas-aragon/PLANTILLA_PROGRAMACION_DIDACTICA_ARAGON.md)
+
+**Currículo LOMLOE:** [mapa competencias–criterios](curriculo-lomloe/mapa-competencias-criterios.md) · [sentidos por curso](curriculo-lomloe/sentidos-por-curso.md)
 
 **Plantillas:** [anual](plantillas/programacion-anual.md) · [unidad](plantillas/unidad-didactica.md) · [génesis](plantillas/genesis-objeto.md) · [rúbrica](plantillas/rubrica-competencial.md)
 

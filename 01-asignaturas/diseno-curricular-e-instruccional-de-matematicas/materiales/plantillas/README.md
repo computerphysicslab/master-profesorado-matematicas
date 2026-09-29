@@ -1,12 +1,22 @@
-# Plantillas — Diseño curricular e instruccional de Matemáticas
+# Plantillas — Diseño curricular e instruccional
 
-Documentos **rellenables** para pasar del currículo al aula. Complementan los apuntes de los bloques 4, 8 y 9.
+Plantillas reutilizables para programaciones y unidades didácticas.
 
-| Plantilla | Uso principal | Apunte relacionado |
-|-----------|---------------|--------------------|
-| [Programación anual](programacion-anual.md) | Secuenciar el curso completo | [Bloque 4](../../apuntes/04-programacion-didactica.md) |
-| [Unidad didáctica](unidad-didactica.md) | Diseñar una unidad / secuencia | [Bloque 4](../../apuntes/04-programacion-didactica.md) |
-| [Génesis de un objeto](genesis-objeto.md) | Trayectoria de construcción de un concepto | [Bloque 9](../../apuntes/09-genesis-escolar-objetos-matematicos.md) |
-| [Rúbrica competencial](rubrica-competencial.md) | Evaluar procesos, no solo el resultado | [Bloques 3–4 y 8](../../apuntes/03-elementos-curriculo-lomloe.md) |
+## Plantillas genéricas
 
-**Cómo usarlas:** copia el fichero o la tabla en tu espacio de trabajo personal; no hace falta modificar el original del repositorio público.
+| Plantilla | Uso |
+|-----------|-----|
+| [programacion-anual.md](programacion-anual.md) | Programación didáctica anual |
+| [unidad-didactica.md](unidad-didactica.md) | Unidad didáctica / situación de aprendizaje |
+| [genesis-objeto.md](genesis-objeto.md) | Génesis escolar de un objeto matemático |
+| [rubrica-competencial.md](rubrica-competencial.md) | Rúbrica alineada con competencias específicas |
+
+## Plantilla específica Aragón (LOMLOE)
+
+Para programaciones orientadas al currículo autonómico de Aragón (órdenes ECD/1172/2022 y ECD/1173/2022 y modificaciones):
+
+→ **[PLANTILLA_PROGRAMACION_DIDACTICA_ARAGON.md](../temarios-matematicas-aragon/PLANTILLA_PROGRAMACION_DIDACTICA_ARAGON.md)**
+
+Incluye marco normativo aragonés, DUA, ODS, contextualización territorial y tabla de instrumentos de evaluación.
+
+Complementa con los [temarios por curso](../temarios-matematicas-aragon/) (ESO y Bachillerato).

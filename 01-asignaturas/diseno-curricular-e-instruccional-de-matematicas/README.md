@@ -40,6 +40,8 @@ Documento completo: **[programa.md](programa.md)**
 
 | Recurso | Descripción |
 |---------|-------------|
+| [Temarios Matemáticas Aragón (ESO/Bach.)](materiales/temarios-matematicas-aragon/) | CE, criterios y saberes por curso — LOMLOE Aragón |
+| [Plantilla programación didáctica Aragón](materiales/temarios-matematicas-aragon/PLANTILLA_PROGRAMACION_DIDACTICA_ARAGON.md) | Estructura completa orientada a Aragón |
 | [Asignaturas ESO/Bachillerato](materiales/asignaturas-eso-bachillerato/) | Mapa de materias y dimensiones |
 | [Currículo LOMLOE](materiales/curriculo-lomloe/) | Mapas competencias–criterios, sentidos |
 | [Bibliografía](bibliografia.md) | Referencias |
@@ -47,4 +49,4 @@ Documento completo: **[programa.md](programa.md)**
 ## Carpetas
 
 - `apuntes/` — desarrollos por bloque
-- `materiales/` — plantillas, bancos, fichas de objetos
+- `materiales/` — plantillas, bancos, fichas de objetos, **temarios Aragón**
