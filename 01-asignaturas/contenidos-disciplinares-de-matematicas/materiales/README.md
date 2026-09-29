@@ -5,6 +5,7 @@ Recursos de ampliación y puente entre el currículo de Secundaria/Bachillerato 
 | Material | Contenido | Nivel orientativo |
 |----------|-----------|-------------------|
 | [Aplicaciones de números complejos (Bachillerato)](aplicaciones-numeros-complejos-bachillerato.md) | Para qué sirven: rotaciones, Euler, CA, fractales; secuencia de taller | 1.º Bach. Mat. I |
+| [Fractales Mandelbrot / Julia (Bachillerato)](fractales-mandelbrot-bachillerato.md) | Iteración $z^2+c$, criterio de escape, taller 1–2 sesiones, Python/GeoGebra | Ampliación 1.º Bach. |
 | [Hipercomplejos y cuaterniones en videojuegos 3D](hipercomplejos-cuaterniones-videojuegos.md) | Rotaciones sin *gimbal lock*, Slerp, motores (Unity/Unreal), situación curricular | Ampliación Bach. / máster |
 
 **Relacionado en el repo**
