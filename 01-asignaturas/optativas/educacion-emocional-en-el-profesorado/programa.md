@@ -29,6 +29,7 @@
 | **3. Competencias emocionales e instrumentos** | Modelo pentagonal (conciencia, regulación, autonomía, competencia social, competencias para la vida y el bienestar); marco CASEL; autoevaluación orientativa (no clínica) | ¿Qué competencia necesito reforzar yo como futuro docente? |
 
 **Apuntes:** [tema 1](apuntes/01-inteligencia-emocional-contexto.md) · [tema 2](apuntes/02-naturaleza-de-la-emocion.md) · [tema 3](apuntes/03-competencias-emocionales-instrumentos.md)  
+**Estrés (desarrollo completo, alineado con el Tema 2 de curso):** [estres-impacto-y-gestion-emocional.md](apuntes/estres-impacto-y-gestion-emocional.md) · [ficha modelo transaccional](materiales/01-modelo-transaccional-estres.md)  
 **Lecturas sugeridas:** Darder et al.; guía CASEL (Save the Children); [bibliografía](bibliografia.md) §1–2.
 
 ---
@@ -54,6 +55,7 @@
 | **9. Emociones y salud del profesorado** | Estrés laboral, burnout, fatiga por compasión; factores de riesgo y protección; límites del rol y derivación | ¿Cuándo dejo de «aguantar» y activo tutoría / orientación / jefatura? |
 | **10. Síntesis aplicada (Matemáticas y otras materias de exposición)** | Casos: anuncio de examen, bloqueo en prueba, rechazo a la pizarra, corrección que escala, insultos en grupo | ¿Qué secuencia *situación → emoción → respuesta → consecuencia* observo y cómo intervengo? |
 
+**Apoyo al tema 9:** [estres-impacto-y-gestion-emocional.md](apuntes/estres-impacto-y-gestion-emocional.md) (estresores crónicos del profesorado, afrontamiento, técnicas).  
 **Lecturas sugeridas:** Izquierdo; Pedrini et al.; UNESCO (2019); toolkit Erasmus+.
 
 ---
@@ -64,7 +66,7 @@ Ajustar a horas reales del plan de estudios:
 
 | Semanas (orientativo) | Bloque | Producto posible |
 |----------------------|--------|------------------|
-| 1–2 | A (temas 1–3) | Mapa personal de competencias + glosario activo |
+| 1–2 | A (temas 1–3) + estrés | Mapa personal de competencias + glosario activo |
 | 3–5 | B (temas 4–7) | Breve reseña crítica de un texto abierto |
 | 6–8 | C (temas 8–10) | Diseño de una intervención de aula o de tutoría |
 | Cierre | Integración | Reflexión final / portfolio |
@@ -99,7 +101,8 @@ Solo a título ilustrativo; prevalece la guía oficial:
 |---------|------|
 | Bibliografía comentada | [bibliografia.md](bibliografia.md) |
 | Glosario de términos | [glosario.md](glosario.md) |
-| Apuntes del bloque A | [apuntes/](apuntes/) |
+| Apuntes (incl. estrés) | [apuntes/](apuntes/) |
+| Modelo transaccional del estrés | [materiales/01-modelo-transaccional-estres.md](materiales/01-modelo-transaccional-estres.md) |
 | Fichas PDF abiertos | [`09-bibliografia/educacion-emocional/`](../../../09-bibliografia/educacion-emocional/) |
 | Practicum (plantillas anonimizadas) | [`01-asignaturas/practicum/`](../../practicum/) |
 
