@@ -2,6 +2,8 @@
 
 Selección de **TFM y guías metodológicas** en abierto, útiles como **modelos de estructura** (no como plantillas a copiar). Respetar autoría y no plagiar.
 
+Antes de elegir tema: lee el [**análisis de temáticas**](../ANALISIS-TEMATICAS.md) (áreas saturadas vs. nichos emergentes).
+
 ## Guías metodológicas
 
 | Recurso | Tipo | Ficha |
@@ -21,5 +23,9 @@ Selección de **TFM y guías metodológicas** en abierto, útiles como **modelos
 | Impacto TIC en Matemáticas (Peano Reyes) | TIC (GeoGebra, Desmos) | [tfm-impacto-tic.md](tfm-impacto-tic.md) |
 | Mejora UD álgebra 1.º ESO (García Alberti) | Atención a la diversidad | [tfm-mejora-ud-algebra.md](tfm-mejora-ud-algebra.md) |
 | Método Pólya funciones 3.º ESO (Peláez Valdivieso) | Resolución de problemas + ODS | [tfm-metodo-polya.md](tfm-metodo-polya.md) |
+| Escape room matemático 2.º ESO (López Pérez) | ABJ / escape room | [tfm-escape-room-2eso.md](tfm-escape-room-2eso.md) |
+| Escape room 3.º ESO aplicadas (Alonso Navarro) | Gamificación / escape room | [tfm-escape-room-3eso.md](tfm-escape-room-3eso.md) |
+| Funciones con Desmos y videojuegos (Peralta) | Desmos + lúdico / ansiedad | [tfm-desmos-funciones-videojuegos.md](tfm-desmos-funciones-videojuegos.md) |
+| Matemáticas y Dibujo Técnico Bachillerato (González Lobo) | Interdisciplinar + datos | [tfm-matematicas-dibujo-tecnico.md](tfm-matematicas-dibujo-tecnico.md) |
 
-También: [bibliografia.md](../bibliografia.md) · trámites administrativos en [00-administracion/tfm](../../../00-administracion/tfm/).
+También: [bibliografia.md](../bibliografia.md) · trámites en [00-administracion/tfm](../../../00-administracion/tfm/) · [análisis de temáticas](../ANALISIS-TEMATICAS.md).
