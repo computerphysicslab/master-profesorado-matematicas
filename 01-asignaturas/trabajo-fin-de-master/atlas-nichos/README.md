@@ -1,28 +1,39 @@
-# Atlas de Nichos TFM (Matemáticas) — versión 0
+# Atlas de Nichos TFM — Educación Matemática
 
-**Estado:** corpus inicial reproducible. **No** es aún el mapa estratégico definitivo (eso será la v1.0 con 100–200 TFM y matriz de coocurrencias).
+Mapa de saturación de Trabajos Fin de Máster de Educación Matemática (acceso abierto) para orientar la elección de temas originales en el Máster de Profesorado (especialidad Matemáticas).
 
-| Documento | Contenido |
-|-----------|-----------|
-| [00-hallazgos-v0.md](00-hallazgos-v0.md) | Qué muestra el corpus inicial y primeras conclusiones |
-| [01-metodologia.md](01-metodologia.md) | Esquema de extracción, fuentes y hoja de ruta hacia v1.0 |
-| [02-nichos-candidatos.md](02-nichos-candidatos.md) | Intersecciones prometedoras con **preguntas investigables** |
-| [03-mapa-saturacion.md](03-mapa-saturacion.md) | Zonas pobladas vs. poco pobladas (esquema densidad × centralidad) |
-| [corpus/](corpus/) | Plantilla CSV + filas semilla del corpus v0 |
+## Estado actual (v0.9 — 2026-09-30)
 
-**Relacionado en el repo**
+- **Corpus:** 69 TFM codificados
+- **Zaguán (Unizar):** 44 entradas (ampliación sistemática 2018–2026)
+- **Otras fuentes:** Digibuo, Titula, UAL, UAH, RUA, UJI, USJ, UVa, Zenodo
+- **Documento principal de ranking:** [04-coocurrencias-y-ranking-v09.md](04-coocurrencias-y-ranking-v09.md)
 
-- [Análisis de temáticas](../ANALISIS-TEMATICAS.md) (brújula rápida)
-- [Ejemplos de TFM](../ejemplos-tfm/)
-- [Guía de elección de tema](../ejemplos-tfm/guia-eleccion-tema-tfm.md)
-- Debate [inclusión–excelencia](../../diseno-curricular-e-instruccional-de-matematicas/materiales/curriculo-lomloe/inclusion-excelencia-diversidad-matematica-lomloe.md)
+## Empezar por aquí
 
----
+1. Leer el ranking de intersecciones prioritarias (huecos ★★★★★).
+2. Consultar el CSV de corpus para ver ejemplos concretos y URLs de PDF.
+3. Evitar zonas saturadas (funciones × secuencia_didáctica clásica).
 
-## Cómo usar el Atlas (alumno del máster)
+## Estructura
 
-1. Lee [hallazgos v0](00-hallazgos-v0.md) para no repetir lo más saturado sin aportar nada nuevo.
-2. Elige una **intersección** en [nichos candidatos](02-nichos-candidatos.md), no un tema genérico («gamificación» o «GeoGebra»).
-3. Formula una **pregunta investigable** (variable independiente → variable dependiente → nivel).
-4. Comprueba viabilidad en un TFM (Practicum, N pequeño, instrumentos realistas).
-5. Cuando exista v1.0, usa el ranking de intersecciones con evidencia de coocurrencia.
+| Archivo | Contenido |
+|---------|-----------|
+| [corpus/plantilla-corpus.csv](corpus/plantilla-corpus.csv) | Metadatos normalizados (69 filas) |
+| [04-coocurrencias-y-ranking-v09.md](04-coocurrencias-y-ranking-v09.md) | Matrices + ranking 20 intersecciones |
+| [00-hallazgos-v0.md](00-hallazgos-v0.md) | Hallazgos sintéticos |
+| [01-metodologia.md](01-metodologia.md) | Criterios de inclusión y etiquetado |
+| [03-mapa-saturacion.md](03-mapa-saturacion.md) | Mapa ASCII de densidad |
+
+## Nichos prioritarios (resumen)
+
+- videojuegos + espacial + geometría
+- IA generativa + metacognición / inclusión
+- RV/3D + sentido espacial
+- Desmos + modelización + socioafectivo
+- outdoor / magia + motivación + contenido poco tratado
+- conocimiento profesional docente (límites, derivadas)
+
+## Licencia y uso
+
+Uso educativo y de investigación. Los PDF originales pertenecen a sus autores y repositorios.
