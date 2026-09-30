@@ -1,31 +1,36 @@
 # George Pólya
 
 **Área:** Resolución de problemas  
-**Conceptos clave:** heurísticas; fases de resolución; estrategias  
-**Asignaturas del Máster relacionadas:** 63224; 63222
+**Conceptos clave:** heurísticas; cuatro fases (comprender, planear, ejecutar, revisar); analogía; problema auxiliar  
+**Ámbitos del Máster relacionados:** Contenidos disciplinares de Matemáticas; Diseño de actividades de aprendizaje de Matemáticas
 
 ## Por qué conocerlo
 
-George Pólya forma parte del mapa intelectual del Máster por su relación con **resolución de problemas**. Esta ficha sirve como punto de entrada: conviene entender las ideas fundamentales y, después, localizar una obra primaria o una revisión académica adecuada al nivel del estudiante.
+George Pólya (1887–1985) convirtió la resolución de problemas en objeto explícito de enseñanza con *How to Solve It* (1945). Sus **heurísticas** y fases siguen orientando tareas, situaciones de aprendizaje y rúbricas de proceso en secundaria.
+
+## Ideas fundamentales
+
+1. **Cuatro fases:** comprender el problema; concebir un plan; ejecutar el plan; examinar la solución.
+2. **Heurísticas:** analogía, problema más simple, descomposición, trabajar hacia atrás, etc.
+3. Enseñar a **pensar** no es solo exponer soluciones acabadas.
+
+## Relevancia para el aula de Matemáticas
+
+- Explicitar estrategias en voz alta (modelado cognitivo).
+- Evaluar el proceso, no solo el resultado.
+- Diseñar conjuntos de problemas que inviten a transferir heurísticas (no solo ejercicios rutinarios).
 
 ## Preguntas guía
 
-- ¿Qué problema educativo, psicológico, social, matemático o científico intentó abordar?
-- ¿Qué concepto suyo debería poder explicar un futuro profesor de Matemáticas?
-- ¿Cómo podría aparecer esa idea en una situación real de aula?
-- ¿Qué limitaciones o críticas tiene su enfoque?
-- ¿Qué conexiones tiene con otros autores de esta carpeta?
+- ¿Cómo se ve una fase de «revisión» real en un examen o en una SA?
+- ¿Qué heurística conviene entrenar con ecuaciones, geometría o probabilidad?
+- ¿Qué criticaría Schoenfeld al uso superficial de las cuatro fases?
 
-## Enlaces de investigación
+## Lecturas y localización
 
-- [Wikipedia / búsqueda biográfica](https://en.wikipedia.org/w/index.php?search=George+Pólya)
-- [Google Scholar — publicaciones](https://scholar.google.com/scholar?q=George+Pólya)
-- [OpenAlex — producción científica](https://openalex.org/works?search=George+Pólya)
+- Pólya, G. *How to Solve It* (traducciones al español disponibles).
+- Conexión posterior: Schoenfeld (recursos, heurísticas, control, creencias).
 
-## Relación con el Máster
+## Advertencia
 
-Las asignaturas indicadas arriba se han asignado a partir del programa del Máster recopilado en el repositorio. La ficha **no implica que el autor aparezca explícitamente en la bibliografía oficial de la asignatura**: distingue entre autores del programa y autores recomendados para construir una cultura intelectual amplia.
-
-## Lectura recomendada
-
-Buscar primero una **obra primaria**, después una introducción académica y finalmente una aplicación a Educación Matemática cuando exista. Evitar convertir la ficha en una biografía extensa: el objetivo es comprender la idea y poder utilizarla críticamente.
+Núcleo de **Educación Matemática** práctica; evitar reducir Pólya a un póster de cuatro pasos sin trabajo sostenido de heurísticas.

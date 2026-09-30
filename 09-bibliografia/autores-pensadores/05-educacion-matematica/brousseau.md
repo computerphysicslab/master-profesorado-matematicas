@@ -1,31 +1,40 @@
 # Guy Brousseau
 
-**Área:** Teoría de situaciones didácticas  
-**Conceptos clave:** situación didáctica; contrato didáctico; medio  
-**Asignaturas del Máster relacionadas:** 63223; 63224
+**Área:** Teoría de las situaciones didácticas (TSD)  
+**Conceptos clave:** situación didáctica; situación a-didáctica; contrato didáctico; medio; devolución; institucionalización  
+**Ámbitos del Máster relacionados:** Diseño curricular e instruccional de Matemáticas; Diseño de actividades de aprendizaje de Matemáticas
 
 ## Por qué conocerlo
 
-Guy Brousseau forma parte del mapa intelectual del Máster por su relación con **teoría de situaciones didácticas**. Esta ficha sirve como punto de entrada: conviene entender las ideas fundamentales y, después, localizar una obra primaria o una revisión académica adecuada al nivel del estudiante.
+Guy Brousseau (1933–2024) es una figura central de la didáctica de las matemáticas de la escuela francesa. Su **Teoría de las situaciones didácticas** modela el aprendizaje matemático como interacción entre alumnado, saber y *medio* (problemas, materiales, reglas), bajo un **contrato didáctico** implícito entre docente y estudiantes.
+
+## Ideas fundamentales
+
+1. **Situación didáctica:** dispositivo organizado por el docente para que el alumnado construya un saber.
+2. **Situación a-didáctica:** fase en la que el alumno se relaciona con el problema «como matemático», sin depender de la indicación del profesor.
+3. **Devolución:** acto por el que el docente transfiere la responsabilidad de resolver al alumnado.
+4. **Institucionalización:** momento en que se reconoce y formaliza el saber construido.
+5. **Contrato didáctico:** expectativas recíprocas (a menudo implícitas) sobre lo que cada parte debe hacer; su ruptura o negociación explica muchos fenómenos de aula.
+
+## Relevancia para el aula de Matemáticas
+
+- Diseñar tareas donde el *medio* «responda» (feedback intrínseco), no solo la corrección del profesor.
+- Analizar errores como efectos de contrato (p. ej. «el problema siempre tiene solución limpia»).
+- Planificar fases de acción, formulación, validación e institucionalización en una situación de aprendizaje o unidad.
 
 ## Preguntas guía
 
-- ¿Qué problema educativo, psicológico, social, matemático o científico intentó abordar?
-- ¿Qué concepto suyo debería poder explicar un futuro profesor de Matemáticas?
-- ¿Cómo podría aparecer esa idea en una situación real de aula?
-- ¿Qué limitaciones o críticas tiene su enfoque?
-- ¿Qué conexiones tiene con otros autores de esta carpeta?
+- ¿Qué problema del aprendizaje matemático permite analizar la idea de contrato didáctico?
+- ¿Cómo distinguirías una actividad «con pinta de problema» de una situación a-didáctica bien diseñada?
+- ¿Qué indicios de contrato didáctico observas en un aula de ESO al resolver ecuaciones?
+- ¿Qué limitaciones tiene transferir la TSD a contextos de secundaria con fuerte presión curricular?
 
-## Enlaces de investigación
+## Lecturas y localización
 
-- [Wikipedia / búsqueda biográfica](https://en.wikipedia.org/w/index.php?search=Guy+Brousseau)
-- [Google Scholar — publicaciones](https://scholar.google.com/scholar?q=Guy+Brousseau)
-- [OpenAlex — producción científica](https://openalex.org/works?search=Guy+Brousseau)
+- Brousseau, G. — *Theory of Didactical Situations in Mathematics* (ed. Springer / traducciones).
+- Revisiones en español en revistas de didáctica (escuela francesa).
+- Google Scholar, Dialnet, repositorios universitarios.
 
-## Relación con el Máster
+## Advertencia
 
-Las asignaturas indicadas arriba se han asignado a partir del programa del Máster recopilado en el repositorio. La ficha **no implica que el autor aparezca explícitamente en la bibliografía oficial de la asignatura**: distingue entre autores del programa y autores recomendados para construir una cultura intelectual amplia.
-
-## Lectura recomendada
-
-Buscar primero una **obra primaria**, después una introducción académica y finalmente una aplicación a Educación Matemática cuando exista. Evitar convertir la ficha en una biografía extensa: el objetivo es comprender la idea y poder utilizarla críticamente.
+Autor de **ampliación teórica prioritaria** en Educación Matemática; no sustituye el estudio de las guías docentes ni de los decretos curriculares.
