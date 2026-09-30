@@ -1,3 +1,6 @@
-# Evaluacion
+# Evaluación
 
-Espacio de trabajo para esta temática dentro del repositorio del Máster de Profesorado de Matemáticas.
+Cómo evaluar el aprendizaje matemático *con* IA y *sobre* el uso de IA.
+
+- [Evaluar con y sobre IA](evaluar-con-ia.md)
+- [Rúbricas orientativas](rubricas-uso-ia.md)

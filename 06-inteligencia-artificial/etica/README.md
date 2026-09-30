@@ -1,3 +1,6 @@
-# Etica
+# Ética
 
-Espacio de trabajo para esta temática dentro del repositorio del Máster de Profesorado de Matemáticas.
+Uso responsable de la IA en el aula de Matemáticas: principios, privacidad, integridad académica y profesionalidad docente.
+
+- [Uso responsable](uso-responsable.md)
+- [Privacidad e integridad académica](privacidad-integridad.md)

@@ -1,3 +1,5 @@
 # Actividades
 
-Espacio de trabajo para esta temática dentro del repositorio del Máster de Profesorado de Matemáticas.
+Propuestas concretas de aula que integran la IA de forma didáctica (no solo como resolutor).
+
+Ver: [propuestas-aula.md](propuestas-aula.md)
