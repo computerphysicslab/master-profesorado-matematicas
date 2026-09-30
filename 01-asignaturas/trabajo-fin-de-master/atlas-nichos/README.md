@@ -2,12 +2,12 @@
 
 Mapa de saturación de Trabajos Fin de Máster de Educación Matemática (acceso abierto) para orientar la elección de temas originales en el Máster de Profesorado (especialidad Matemáticas).
 
-## Estado actual (v0.9 — 2026-09-30)
+## Estado actual (v0.10 — 2026-09-30)
 
-- **Corpus:** 69 TFM codificados
-- **Zaguán (Unizar):** 44 entradas (ampliación sistemática 2018–2026)
-- **Otras fuentes:** Digibuo, Titula, UAL, UAH, RUA, UJI, USJ, UVa, Zenodo
-- **Documento principal de ranking:** [04-coocurrencias-y-ranking-v09.md](04-coocurrencias-y-ranking-v09.md)
+- **Corpus:** 89 TFM codificados
+- **Zaguán (Unizar):** 44 entradas
+- **Nuevas fuentes v0.10:** UPNA (6), UJI (5), UCM, UDIMA, UPV, UNIR, UAH + 4 internacionales (DGBL, GenAI algebra game, AR+GeoGebra, Nepal GeoGebra)
+- **Documento principal de ranking:** [04-coocurrencias-y-ranking-v09.md](04-coocurrencias-y-ranking-v09.md) (v0.9; v1.0 en preparación con ≥100)
 
 ## Empezar por aquí
 
@@ -19,7 +19,7 @@ Mapa de saturación de Trabajos Fin de Máster de Educación Matemática (acceso
 
 | Archivo | Contenido |
 |---------|-----------|
-| [corpus/plantilla-corpus.csv](corpus/plantilla-corpus.csv) | Metadatos normalizados (69 filas) |
+| [corpus/plantilla-corpus.csv](corpus/plantilla-corpus.csv) | Metadatos normalizados (89 filas) |
 | [04-coocurrencias-y-ranking-v09.md](04-coocurrencias-y-ranking-v09.md) | Matrices + ranking 20 intersecciones |
 | [00-hallazgos-v0.md](00-hallazgos-v0.md) | Hallazgos sintéticos |
 | [01-metodologia.md](01-metodologia.md) | Criterios de inclusión y etiquetado |
@@ -27,12 +27,13 @@ Mapa de saturación de Trabajos Fin de Máster de Educación Matemática (acceso
 
 ## Nichos prioritarios (resumen)
 
-- videojuegos + espacial + geometría
-- IA generativa + metacognición / inclusión
-- RV/3D + sentido espacial
-- Desmos + modelización + socioafectivo
+- videojuegos + espacial + geometría (refuerzo: revisión UDIMA 2024 + DGBL scoping 2026)
+- IA generativa + metacognición / inclusión (refuerzo: GenAI algebra game 2025)
+- RV/AR + GeoGebra + motivación (refuerzo: AR+microgames 2025)
+- Desmos / flipped + funciones + socioafectivo (refuerzo: UPNA flipped 2024)
 - outdoor / magia + motivación + contenido poco tratado
 - conocimiento profesional docente (límites, derivadas)
+- DUA + inclusión matemática (refuerzo: UAH 2024)
 
 ## Licencia y uso
 
