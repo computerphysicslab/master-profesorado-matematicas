@@ -110,3 +110,7 @@ Cada asignatura dispone de un `README.md`, un índice de apuntes, espacios para 
 ## Objetivo
 
 Convertir este repositorio en un cuaderno digital de trabajo completo para el máster y, posteriormente, en una base de conocimiento reutilizable para la enseñanza de Matemáticas y Ciencias en Secundaria y Bachillerato.
+
+## Licencia
+
+El contenido original de este repositorio se publica bajo **[CC BY-SA 4.0](LICENSE)**. Los recursos de terceros enlazados conservan su propia licencia: compruébala antes de reutilizarlos.
