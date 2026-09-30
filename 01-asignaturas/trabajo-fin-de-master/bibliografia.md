@@ -2,7 +2,9 @@
 
 ## Ejemplos y guías (en este repositorio)
 
-Ver carpeta **[ejemplos-tfm/](ejemplos-tfm/)**.
+Ver carpeta **[ejemplos-tfm/](ejemplos-tfm/)** (guía de elección de tema + 9 TFM de ejemplo en abierto).
+
+Temáticas cubiertas: fundamentación + UD, metacognición, programación didáctica, gamificación, metodologías activas, impresión 3D, TIC, atención a la diversidad, método de Pólya / ODS.
 
 ## Bibliografía abierta general del máster
 
@@ -16,5 +18,5 @@ Ver carpeta **[ejemplos-tfm/](ejemplos-tfm/)**.
 | Alta | Guía elección de tema (Orcos et al.) — en `ejemplos-tfm/` |
 | Alta | Godino (didáctica + fundamentos) — fichas en `09-bibliografia/didactica-matematicas/` |
 | Media | Aportaciones SEIEM al currículo |
-| Media | TFM ejemplo (ecuaciones / aprender a aprender / programación) |
-| Según tema | Hammack, Active Calculus, estocástica, OER… |
+| Media | TFM ejemplo según temática (ver tabla en `ejemplos-tfm/README.md`) |
+| Según tema | Hammack, Active Calculus, estocástica, OER, Pólya… |
