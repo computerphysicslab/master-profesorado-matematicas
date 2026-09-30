@@ -53,6 +53,7 @@ flowchart TB
 - `00-administracion/` — matrícula, calendario, trámites, organización y documentación administrativa.
 - `01-asignaturas/` — asignaturas del máster y espacios de trabajo.
 - `02-apuntes/` — índice general y apuntes transversales.
+  - [Recursos en GitHub para el Máster de Matemáticas (ESO)](02-apuntes/recursos-externos/recursos-github-master-matematicas.md)
   - Apunte: [Libertad de cátedra y volumen legislativo](02-apuntes/legislacion-educativa/libertad-catedra-volumen-legislativo.md)
 - `03-materiales/` — materiales docentes y recursos reutilizables.
 - `04-pbl-abp/` — aprendizaje basado en proyectos/problemas.

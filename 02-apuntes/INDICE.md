@@ -12,3 +12,6 @@
 
 ## Apuntes transversales
 - [Libertad de cátedra y volumen legislativo](legislacion-educativa/libertad-catedra-volumen-legislativo.md)
+
+## Recursos externos
+- [Recursos en GitHub para el Máster de Matemáticas (ESO)](recursos-externos/recursos-github-master-matematicas.md)
