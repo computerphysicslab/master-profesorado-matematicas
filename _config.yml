@@ -1,21 +1,17 @@
 # Site settings — Máster Profesorado Matemáticas
-# Tema: Just the Docs (remoto) para GitHub Pages
+# Tema: Just the Docs (remoto, versión fijada) para GitHub Pages
 
-remote_theme: just-the-docs/just-the-docs
+remote_theme: just-the-docs/just-the-docs@v0.10.1
 title: Máster Profesorado Matemáticas
 description: Materiales y recursos para el Máster en Profesorado de Matemáticas
 
-# URL del repo (ajusta si usas Pages en proyecto)
 repository: computerphysicslab/master-profesorado-matematicas
 
-# Idioma y encoding
 lang: es
 
-# Navegación
 nav_sort: case_insensitive
 nav_enabled: true
 
-# Búsqueda
 search_enabled: true
 search:
   heading_level: 2
@@ -23,27 +19,26 @@ search:
   preview_words_before: 5
   preview_words_after: 10
 
-# Enlaces auxiliares (esquina superior derecha)
 aux_links:
   "GitHub":
     - "https://github.com/computerphysicslab/master-profesorado-matematicas"
 aux_links_new_tab: true
 
-# Anchors en encabezados
 heading_anchors: true
 
-# Color / logo (opcional)
-# color_scheme: nil  # o "dark"
+# Mermaid (diagramas en Markdown)
+mermaid:
+  version: "11.4.0"
 
-# Plugins compatibles con GitHub Pages
 plugins:
   - jekyll-remote-theme
   - jekyll-seo-tag
 
-# Excluir del build (no páginas del sitio)
 exclude:
   - PLACEHOLDER
   - MANIFEST.md
+  - "1.py"
+  - "**/incorporar_ajedrez.py"
   - "**/.git"
   - "**/.gitignore"
   - Gemfile
@@ -52,8 +47,9 @@ exclude:
   - vendor/
   - "**/*.zip"
   - "**/*.mp3"
+  - "**/*.py"
+  - .github/
 
-# Defaults: layout para Markdown
 defaults:
   - scope:
       path: ""

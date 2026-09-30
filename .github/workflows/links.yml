@@ -1,0 +1,30 @@
+name: Check links
+
+on:
+  push:
+    branches: [main]
+  pull_request:
+  workflow_dispatch:
+
+jobs:
+  lychee:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Link Checker
+        uses: lycheeverse/lychee-action@v2
+        with:
+          args: >-
+            --verbose
+            --no-progress
+            --timeout 20
+            --max-concurrency 8
+            --accept 200,204,206,301,302,307,308,429
+            --exclude-mail
+            --exclude 'file://'
+            --exclude 'localhost'
+            --exclude '127.0.0.1'
+            '**/*.md'
+          fail: false
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}

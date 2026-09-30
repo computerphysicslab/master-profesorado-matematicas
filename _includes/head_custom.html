@@ -1,0 +1,12 @@
+{% comment %}
+  Enable Mermaid diagrams on the published site (Just the Docs).
+  Diagrams use ```mermaid fenced blocks in Markdown.
+{% endcomment %}
+{% if site.mermaid %}
+  <script src="https://cdn.jsdelivr.net/npm/mermaid@{{ site.mermaid.version }}/dist/mermaid.min.js"></script>
+  <script>
+    document.addEventListener("DOMContentLoaded", function () {
+      mermaid.initialize({ startOnLoad: true, theme: "neutral" });
+    });
+  </script>
+{% endif %}
