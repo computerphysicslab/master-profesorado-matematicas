@@ -2,7 +2,7 @@
 
 **Área:** Filosofía de la educación  
 **Conceptos clave:** educación natural; desarrollo; autonomía  
-**Asignaturas del Máster relacionadas:** 63200; 63201
+**Ámbitos del Máster relacionados:** Psicología del desarrollo y de la educación; Procesos y contextos educativos
 
 ## Por qué conocerlo
 
@@ -19,13 +19,13 @@ Jean-Jacques Rousseau forma parte del mapa intelectual del Máster por su relaci
 ## Enlaces de investigación
 
 - [Wikipedia / búsqueda biográfica](https://en.wikipedia.org/w/index.php?search=Jean-Jacques+Rousseau)
-- [Google Scholar — publicaciones](https://scholar.google.com/scholar?q=Jean-Jacques+Rousseau)
-- [OpenAlex — producción científica](https://openalex.org/works?search=Jean-Jacques+Rousseau)
+- [Google Scholar — publicaciones](https://scholar.google.com/scholar?q=Rousseau+%C3%A9ducation)
+- [OpenAlex — producción científica](https://openalex.org/works?search=Rousseau+education)
 
 ## Relación con el Máster
 
-Las asignaturas indicadas arriba se han asignado a partir del programa del Máster recopilado en el repositorio. La ficha **no implica que el autor aparezca explícitamente en la bibliografía oficial de la asignatura**: distingue entre autores del programa y autores recomendados para construir una cultura intelectual amplia.
+Los ámbitos indicados arriba se han asignado a partir del programa del Máster recopilado en el repositorio. La ficha **no implica que el autor aparezca explícitamente en la bibliografía oficial del ámbito**.
 
 ## Lectura recomendada
 
-Buscar primero una **obra primaria**, después una introducción académica y finalmente una aplicación a Educación Matemática cuando exista. Evitar convertir la ficha en una biografía extensa: el objetivo es comprender la idea y poder utilizarla críticamente.
+Buscar primero una **obra primaria**, después una introducción académica y finalmente una aplicación a Educación Matemática cuando exista.

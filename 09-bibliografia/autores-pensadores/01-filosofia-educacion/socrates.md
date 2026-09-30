@@ -14,14 +14,18 @@ Sócrates forma parte del mapa intelectual del Máster por su relación con **fi
 - ¿Qué concepto suyo debería poder explicar un futuro profesor de Matemáticas?
 - ¿Cómo podría aparecer esa idea en una situación real de aula?
 - ¿Qué limitaciones o críticas tiene su enfoque?
-- ¿Qué conexiones tiene con otros autores del mapa?
+- ¿Qué conexiones tiene con otros autores de esta carpeta?
 
-## Enlaces de localización
+## Enlaces de investigación
 
-- [Google Scholar](https://scholar.google.com/scholar?q=S%C3%B3crates+may%C3%A9utica)
-- [Semantic Scholar](https://www.semanticscholar.org/search?q=Socratic+method+education)
-- [Dialnet](https://dialnet.unirioja.es/buscar/documentos?querysDismax.DOCUMENTAL_TODO=S%C3%B3crates+educaci%C3%B3n)
+- [Wikipedia / búsqueda biográfica](https://en.wikipedia.org/w/index.php?search=S%C3%B3crates)
+- [Google Scholar — publicaciones](https://scholar.google.com/scholar?q=Socratic+method+education)
+- [OpenAlex — producción científica](https://openalex.org/works?search=Socrates+education)
 
-## Advertencia
+## Relación con el Máster
 
-Esta ficha no implica que el autor figure de forma explícita en todas las guías docentes. Distingue entre autores de núcleo del plan y autores de ampliación conceptual.
+Los ámbitos indicados arriba se han asignado a partir del programa del Máster recopilado en el repositorio. La ficha **no implica que el autor aparezca explícitamente en la bibliografía oficial del ámbito**.
+
+## Lectura recomendada
+
+Buscar primero una **obra primaria**, después una introducción académica y finalmente una aplicación a Educación Matemática cuando exista.

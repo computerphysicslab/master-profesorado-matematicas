@@ -2,7 +2,7 @@
 
 **Área:** Filosofía de la educación  
 **Conceptos clave:** conocimiento; educación; formación intelectual  
-**Asignaturas del Máster relacionadas:** 63201; 63222
+**Ámbitos del Máster relacionados:** Procesos y contextos educativos; Contenidos disciplinares de Matemáticas
 
 ## Por qué conocerlo
 
@@ -18,14 +18,14 @@ Platón forma parte del mapa intelectual del Máster por su relación con **filo
 
 ## Enlaces de investigación
 
-- [Wikipedia / búsqueda biográfica](https://en.wikipedia.org/w/index.php?search=Platón)
-- [Google Scholar — publicaciones](https://scholar.google.com/scholar?q=Platón)
-- [OpenAlex — producción científica](https://openalex.org/works?search=Platón)
+- [Wikipedia / búsqueda biográfica](https://en.wikipedia.org/w/index.php?search=Plat%C3%B3n+educaci%C3%B3n)
+- [Google Scholar — publicaciones](https://scholar.google.com/scholar?q=Plato+education)
+- [OpenAlex — producción científica](https://openalex.org/works?search=Plato+education)
 
 ## Relación con el Máster
 
-Las asignaturas indicadas arriba se han asignado a partir del programa del Máster recopilado en el repositorio. La ficha **no implica que el autor aparezca explícitamente en la bibliografía oficial de la asignatura**: distingue entre autores del programa y autores recomendados para construir una cultura intelectual amplia.
+Los ámbitos indicados arriba se han asignado a partir del programa del Máster recopilado en el repositorio. La ficha **no implica que el autor aparezca explícitamente en la bibliografía oficial del ámbito**.
 
 ## Lectura recomendada
 
-Buscar primero una **obra primaria**, después una introducción académica y finalmente una aplicación a Educación Matemática cuando exista. Evitar convertir la ficha en una biografía extensa: el objetivo es comprender la idea y poder utilizarla críticamente.
+Buscar primero una **obra primaria**, después una introducción académica y finalmente una aplicación a Educación Matemática cuando exista.
