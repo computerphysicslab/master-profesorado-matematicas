@@ -2,7 +2,7 @@
 
 Cada título enlaza a su **ficha**. Para uso por materia, ver **[POR-ASIGNATURA.md](POR-ASIGNATURA.md)**.
 
-## Didáctica de las matemáticas (español — Edumat-Maestros)
+## Didáctica de las matemáticas (español — Edumat-Maestros y otros)
 
 | Título | Ficha |
 |--------|--------|
@@ -14,6 +14,11 @@ Cada título enlaza a su **ficha**. Para uso por materia, ver **[POR-ASIGNATURA.
 | Estocástica y su didáctica | [godino-estocastica](didactica-matematicas/godino-estocastica.md) |
 | Stoffdidaktik Mathematik (Etzold) | [etzold-…](didactica-matematicas/etzold-stoffdidaktik.md) |
 | Secondary school mathematics (Ben-Ari) | [ben-ari-…](didactica-matematicas/ben-ari-secondary-mathematics.md) |
+| Didáctica de las Matemáticas (manual Ecuador) | [didactica-ecuador](didactica-matematicas/didactica-matematicas-ecuador.md) |
+| Reflexiones y propuestas en educación matemática (PUCP) | [reflexiones-pucp](didactica-matematicas/reflexiones-propuestas-educacion-matematica-pucp.md) |
+| Educación matemática: volumen 2 (UNGS) | [ungs-vol2](didactica-matematicas/educacion-matematica-volumen-2-ungs.md) |
+| Aportaciones al desarrollo del currículo (SEIEM) | [seiem-curriculo](didactica-matematicas/aportaciones-curriculo-seiem.md) |
+| Guías docentes con bibliografía (ejemplos abiertos) | [guias-docentes-biblio](didactica-matematicas/guia-docente-bibliografia-ejemplo.md) |
 
 ## Matemáticas — contenidos disciplinares
 
@@ -27,6 +32,9 @@ Cada título enlaza a su **ficha**. Para uso por materia, ver **[POR-ASIGNATURA.
 | OpenMathBooks | [openmathbooks](matematicas/openmathbooks.md) |
 | Learning Statistics with JASP | [jasp-…](matematicas/jasp-learning-statistics.md) |
 | Number theory (Lee et al.) | [lee-…](matematicas/lee-number-theory.md) |
+| Recursos TIC Matemáticas ESO | [recursos-tic](matematicas/recursos-tic-matematicas-eso.md) |
+| Matex (Canarias) | [matex](matematicas/matex-canarias.md) |
+| Temario especialidad Matemáticas (Orden 1993) | [temario-acceso](matematicas/temario-prueba-acceso-matematicas.md) |
 
 ## Psicología educativa
 
@@ -34,7 +42,6 @@ Cada título enlaza a su **ficha**. Para uso por materia, ver **[POR-ASIGNATURA.
 |--------|--------|
 | Educational Psychology (Seifert & Sutton) | [seifert-sutton-…](psicologia/seifert-sutton-educational-psychology.md) |
 | Principles of Psychological Assessment (Petersen) | [petersen-…](psicologia/petersen-psychological-assessment.md) |
-
 
 ## Educación emocional en el profesorado
 
@@ -51,3 +58,9 @@ Cada título enlaza a su **ficha**. Para uso por materia, ver **[POR-ASIGNATURA.
 |--------|--------|
 | Awesome Math | [awesome-math](educacion-ia/awesome-math.md) |
 | Free and open source math textbooks (lista Ernst) | [ernst-…](libros/ernst-open-textbooks-list.md) |
+
+## Ejemplos de TFM (fuera de esta carpeta)
+
+Los TFM de ejemplo y la guía de elección de tema están en la asignatura:
+
+→ **[01-asignaturas/trabajo-fin-de-master/ejemplos-tfm/](../01-asignaturas/trabajo-fin-de-master/ejemplos-tfm/)**
