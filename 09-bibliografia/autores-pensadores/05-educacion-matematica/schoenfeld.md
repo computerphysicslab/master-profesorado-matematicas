@@ -1,31 +1,28 @@
 # Alan Schoenfeld
 
 **Área:** Resolución de problemas  
-**Conceptos clave:** metacognición; recursos; heurísticas; creencias  
-**Asignaturas del Máster relacionadas:** 63224; 63225
+**Conceptos clave:** metacognición; recursos; heurísticas; creencias; control  
+**Ámbitos del Máster relacionados:** Diseño de actividades de aprendizaje de Matemáticas; Innovación e investigación educativa en Matemáticas
 
 ## Por qué conocerlo
 
-Alan Schoenfeld forma parte del mapa intelectual del Máster por su relación con **resolución de problemas**. Esta ficha sirve como punto de entrada: conviene entender las ideas fundamentales y, después, localizar una obra primaria o una revisión académica adecuada al nivel del estudiante.
+Alan Schoenfeld amplió el legado de Pólya: el éxito en resolución de problemas depende de **recursos**, **heurísticas**, **control metacognitivo** y **creencias** sobre las matemáticas y sobre uno mismo.
 
 ## Preguntas guía
 
-- ¿Qué problema educativo, psicológico, social, matemático o científico intentó abordar?
-- ¿Qué concepto suyo debería poder explicar un futuro profesor de Matemáticas?
-- ¿Cómo podría aparecer esa idea en una situación real de aula?
-- ¿Qué limitaciones o críticas tiene su enfoque?
-- ¿Qué conexiones tiene con otros autores de esta carpeta?
+- ¿Qué creencias del alumnado sabotean el uso de heurísticas?
+- ¿Cómo se observa el «control» (monitoreo del plan) en un examen o en una SA?
+- ¿Qué añadiría Schoenfeld a un póster de las cuatro fases de Pólya?
 
-## Enlaces de investigación
+## Enlaces de localización
 
-- [Wikipedia / búsqueda biográfica](https://en.wikipedia.org/w/index.php?search=Alan+Schoenfeld)
-- [Google Scholar — publicaciones](https://scholar.google.com/scholar?q=Alan+Schoenfeld)
-- [OpenAlex — producción científica](https://openalex.org/works?search=Alan+Schoenfeld)
+- [Google Scholar — Schoenfeld mathematical problem solving](https://scholar.google.com/scholar?q=Schoenfeld+mathematical+problem+solving)
 
 ## Relación con el Máster
 
-Las asignaturas indicadas arriba se han asignado a partir del programa del Máster recopilado en el repositorio. La ficha **no implica que el autor aparezca explícitamente en la bibliografía oficial de la asignatura**: distingue entre autores del programa y autores recomendados para construir una cultura intelectual amplia.
+Núcleo para diseño de actividades y para investigación/TFM sobre resolución de problemas y creencias.
 
-## Lectura recomendada
+## Conexiones
 
-Buscar primero una **obra primaria**, después una introducción académica y finalmente una aplicación a Educación Matemática cuando exista. Evitar convertir la ficha en una biografía extensa: el objetivo es comprender la idea y poder utilizarla críticamente.
+- [polya.md](polya.md) — heurísticas y fases.
+- [dweck.md](../02-psicologia-aprendizaje/dweck.md) — mentalidad y creencias.
