@@ -1,20 +1,43 @@
-# Apuntes — Diseño curricular e instruccional de Matemáticas
+# Integración Tema 3 — Elementos curriculares LOMLOE y evolución histórica
 
-Organizados según el [programa en nueve bloques](../programa.md).
+Paquete listo para incorporar al repositorio  
+[master-profesorado-matematicas](https://github.com/computerphysicslab/master-profesorado-matematicas)
 
-| Bloque | Contenido | Archivo |
-|--------|-----------|--------|
-| **1** | Currículo educativo, materias ESO/Bach., niveles de concreción, normativa | [01-curriculo-educativo-y-normativa.md](01-curriculo-educativo-y-normativa.md) |
-| **1–2** | Finalidades (Ernest, Cockcroft, Rico), prevalencia por asignatura | [02-finalidades-ensenanza-matematicas.md](02-finalidades-ensenanza-matematicas.md) |
-| **2–3** | Evolución LGE→LOMLOE, referentes, elementos curriculares LOMLOE | [03-elementos-curriculo-lomloe.md](03-elementos-curriculo-lomloe.md) |
-| **4** | Del currículo a la programación didáctica | [04-programacion-didactica.md](04-programacion-didactica.md) |
-| **4** | Evaluación en la programación didáctica | [10-evaluacion-en-la-programacion-didactica.md](10-evaluacion-en-la-programacion-didactica.md) |
-| **5** | Fundamentos epistemológicos y fenomenológicos | [05-fundamentos-epistemologicos-fenomenologicos.md](05-fundamentos-epistemologicos-fenomenologicos.md) |
-| **6** | Transposición didáctica | [06-transposicion-didactica.md](06-transposicion-didactica.md) |
-| **7** | Dificultades y obstáculos de aprendizaje | [07-dificultades-y-obstaculos.md](07-dificultades-y-obstaculos.md) |
-| **8** | Resolución de problemas como punto de partida | [08-resolucion-de-problemas.md](08-resolucion-de-problemas.md) |
-| **9** | Génesis escolar de los objetos matemáticos | [09-genesis-escolar-objetos-matematicos.md](09-genesis-escolar-objetos-matematicos.md) |
+## Contenido del paquete
 
-> El archivo histórico `01-matematicas-escolares-fines-curriculo-evolucion.md` queda sustituido por 01 + 02 + 03.
+| Archivo | Destino en el repo | Descripción |
+|---------|-------------------|-------------|
+| `03-elementos-curriculo-lomloe.md` | `01-asignaturas/diseno-curricular-e-instruccional-de-matematicas/apuntes/` | Apunte completo del Tema 3 (evolución LGE→LOMLOE, referentes, elementos LOMLOE) |
+| `RESUMEN-VISUAL-Tema3.md` | `01-asignaturas/diseno-curricular-e-instruccional-de-matematicas/apuntes/` (o `materiales/`) | Resumen visual con diagramas Mermaid |
+| `apuntes-README.md` | `.../apuntes/README.md` | Índice de apuntes actualizado |
+| `asignatura-README.md` | `.../diseno-curricular-e-instruccional-de-matematicas/README.md` | README de la asignatura actualizado |
 
-**Materiales complementarios:** [Asignaturas ESO/Bachillerato](../materiales/asignaturas-eso-bachillerato/) · [Currículo LOMLOE](../materiales/curriculo-lomloe/)
+## Cómo integrar
+
+```bash
+# Desde la raíz del repo clonado
+cp 03-elementos-curriculo-lomloe.md \
+   01-asignaturas/diseno-curricular-e-instruccional-de-matematicas/apuntes/
+
+cp RESUMEN-VISUAL-Tema3.md \
+   01-asignaturas/diseno-curricular-e-instruccional-de-matematicas/apuntes/
+
+# Opcional: actualizar índices
+cp apuntes-README.md \
+   01-asignaturas/diseno-curricular-e-instruccional-de-matematicas/apuntes/README.md
+cp asignatura-README.md \
+   01-asignaturas/diseno-curricular-e-instruccional-de-matematicas/README.md
+
+git add 01-asignaturas/diseno-curricular-e-instruccional-de-matematicas/
+git commit -m "Integra Tema 3 DCI: evolución LGE–LOMLOE, referentes y elementos LOMLOE + resumen visual"
+git push
+```
+
+## Qué incluye el apunte principal
+
+1. **Evolución histórica** LGE (1970) → LOGSE → LOE → LOMCE → LOMLOE  
+2. **Referentes:** Piaget, Brousseau, Freudenthal, Niss (KOM), NCTM, CEMAT  
+3. **Arquitectura LOMLOE:** perfil de salida, competencias clave, competencias específicas (5 ejes), criterios, saberes/sentidos, situaciones de aprendizaje  
+4. Preceptivo vs margen docente, ESO vs Bachillerato, orientaciones, glosario, test y tarea
+
+Los diagramas Mermaid del resumen visual se renderizan automáticamente en GitHub.
