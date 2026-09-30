@@ -1,32 +1,10 @@
-#!/usr/bin/env python3
-# -*- coding: utf-8 -*-
-"""
-Script para incorporar el artículo «El Ajedrez como Recurso Didáctico»
-en el repositorio master-profesorado-matematicas.
-
-Uso (desde la raíz del repo):
-    python3 incorporar_ajedrez.py
-    python3 incorporar_ajedrez.py --commit   # opcional: hace git add + commit
-"""
-
-import argparse
-import subprocess
-from pathlib import Path
-
-# -----------------------------------------------------------------------------
-# Contenido del artículo (dividido en partes para evitar problemas de comillas)
-# -----------------------------------------------------------------------------
-
-FRONTMATTER = """---
+---
 layout: default
 title: El Ajedrez como Recurso Didáctico en Matemáticas
 nav_order: 10
 parent: Situaciones de aprendizaje
 ---
 
-"""
-
-CUERPO = r"""
 # El Ajedrez como Recurso Didáctico en la Enseñanza de las Matemáticas en Educación Secundaria
 
 ## 1. Introducción y Justificación Pedagógica
@@ -105,6 +83,3 @@ El ajedrez se conecta directamente con los saberes básicos y las competencias e
 - **Etapa**: 4.º de ESO (Opción Académica) / 1.º de Bachillerato (Matemáticas I).
 - **Reto / Pregunta Guía**: ¿Cómo programaría un ordenador para encontrar la ruta mínima de un caballo entre dos casillas cualesquiera del tablero?
 
-"""
-
-DIAGRAMA = """
