@@ -2,7 +2,7 @@
 
 Material de **aplicación práctica** del **sentido socioafectivo** del currículo LOMLOE de Matemáticas. Refuerza la tesis de que estos saberes pueden leerse como **capacidades generales** que adquieren una **manifestación específicamente matemática** cuando se contextualizan en una actividad concreta.
 
-> Relacionado: [sentidos por curso](sentidos-por-curso.md) · [mapa competencias–criterios](mapa-competencias-criterios.md) · ficha histórica [Eratóstenes y la medida de la Tierra](../../../../03-materiales/historias-matematicas/fichas/eratostenes-tierra.md) · apunte [elementos del currículo LOMLOE](../../apuntes/03-elementos-curriculo-lomloe.md)
+> Relacionado: [sentidos por curso](sentidos-por-curso.md) · [mapa competencias–criterios](mapa-competencias-criterios.md) · ficha histórica [Eratóstenes y la medida de la Tierra](../../../../03-materiales/historias-matematicas/fichas/eratostenes-tierra.md) · apunte [elementos del currículo LOMLOE](../../apuntes/03-elementos-curriculo-lomloe.md) · **debate** [inclusión y excelencia en la LOMLOE](inclusion-excelencia-diversidad-matematica-lomloe.md)
 
 ---
 
@@ -163,6 +163,8 @@ La finalidad es convertir el «no me sale» en un proceso de análisis.
 | **Manifestación matemática** | Permitir diferentes **vías de acceso** a una misma actividad matemática. |
 | **Riesgo que debe evitarse** | La inclusión no debe convertirse en reducción automática de las expectativas. El objetivo es proporcionar apoyos y vías de participación manteniendo, cuando sea posible, un objetivo intelectual común. |
 
+> Para el otro polo (enriquecimiento y alumnado de alto rendimiento), ver [inclusión y excelencia](inclusion-excelencia-diversidad-matematica-lomloe.md).
+
 ---
 
 ## 14. Aceptación de la diversidad
@@ -234,6 +236,8 @@ Ejemplos:
 **Distinción conceptual:** el componente socioafectivo puede ser **transversal** mientras que su **aplicación** puede ser **disciplinar**.
 
 Desde esta perspectiva, puede considerarse que la LOMLOE no está identificando capacidades *exclusivamente* matemáticas, sino capacidades generales que deben **manifestarse también** dentro del aprendizaje matemático. Esta distinción es esencial para el debate sobre si los saberes socioafectivos son realmente «saberes específicos de Matemáticas» o capacidades transversales que el currículo ha decidido organizar dentro del bloque de saberes de cada disciplina.
+
+El equilibrio entre **compensar desventajas** y **desarrollar el alto rendimiento** se desarrolla en [inclusión y excelencia en la LOMLOE](inclusion-excelencia-diversidad-matematica-lomloe.md).
 
 ---
 
