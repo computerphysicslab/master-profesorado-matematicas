@@ -1,85 +1,171 @@
 ---
 layout: default
-title: El Ajedrez como Recurso Didáctico en Matemáticas
+title: "SA: Matemáticas sobre 64 casillas (ajedrez, grafos y optimización)"
 nav_order: 10
 parent: Situaciones de aprendizaje
 ---
 
-# El Ajedrez como Recurso Didáctico en la Enseñanza de las Matemáticas en Educación Secundaria
+# SA — Matemáticas sobre 64 casillas: optimización, grafos y ajedrez
 
-## 1. Introducción y Justificación Pedagógica
+> Situación de aprendizaje completa. El banco de problemas clásicos del ajedrez se resume en el anexo; el núcleo es el diseño implementable en aula.
 
-El uso del ajedrez en el aula de matemáticas no responde únicamente a un enfoque lúdico, sino a su potencia como **modelo instruccional** y **herramienta metacognitiva**. El tablero de ajedrez constituye un sistema formal finito con reglas explícitas, lo que ofrece un entorno controlado para el desarrollo del pensamiento computacional, la resolución de problemas, el razonamiento deductivo y la representación espacial.
+## 0. Metadatos
 
-Diversos estudios e investigaciones en neuroeducación y didáctica matemática destacan que la práctica guiada del ajedrez estimula:
+| Campo | Contenido |
+|-------|-----------|
+| **Título de la SA** | Matemáticas sobre 64 casillas: optimización y grafos |
+| **Nivel / curso** | 4.º ESO (opción académica) / 1.º Bachillerato (Matemáticas I) |
+| **Duración** | 7 sesiones × 50–55 min |
+| **Autor/a de la ficha** | Equipo del repositorio (adaptación del recurso de ajedrez) |
+| **Fecha / versión** | 2026-09-30 · v1.0 |
+| **Contexto de uso** | Diseño curricular / Practicum / germen de TFM (grafos, DGBL) |
 
-- **Funciones ejecutivas**: Planificación estratégica, inhibición del impulso y memoria de trabajo.
-- **Pensamiento heurístico**: Análisis de alternativas, estimación de consecuencias y reversibilidad del pensamiento.
-- **Transferencia de habilidades**: Mejora en el modelizado matemático, la abstracción y la descomposición de problemas complejos.
+**Palabras clave:** ajedrez, grafos, recorrido del caballo, vectores, combinatoria, backtracking, CE8, gamificación ligera
 
-## 2. Vinculación con el Marco Curricular LOMLOE (ESO y Bachillerato)
+---
 
-El ajedrez se conecta directamente con los saberes básicos y las competencias específicas fijadas por el currículo oficial de Matemáticas.
+## 1. Pregunta guía / reto
 
-### Competencias Específicas
+> ¿Cómo describiría un ordenador la ruta más corta de un caballo entre dos casillas cualesquiera del tablero, y qué matemáticas hacen falta para entenderlo?
 
-1. **Resolución de problemas** (CE1 y CE2): Formular hipótesis, analizar variantes, descomponer situaciones complejas en subproblemas (fases de apertura, medio juego y final) y evaluar soluciones.
-2. **Razonamiento y argumentación** (CE3): Elaborar demostraciones informales y justificaciones lógicas ("Si juego X, el adversario responde Y, lo que invalida Z").
-3. **Conexiones y modelización** (CE5 y CE6): Trasladar reglas físicas/espaciales a lenguajes numéricos, algebraicos y matriciales.
-4. **Destrezas socioemocionales** (CE8): Gestión del error, toma de decisiones bajo restricción de tiempo y tolerancia a la frustración.
+**Producto final esperado:**  
+Informe-portfolio de equipo (4–5 páginas o equivalente digital) que incluya: (1) modelo vectorial del movimiento del caballo; (2) grafo de casillas alcanzables desde una posición dada; (3) algoritmo o pseudocódigo de búsqueda de camino mínimo; (4) reflexión socioafectiva sobre ensayo-error y cooperación.
 
-### Saberes Básicos Relacionados
+---
 
-- **Sentido Espacial**: Geometría analítica en \(\mathbb{R}^2\), coordenadas cartesianas (notación algebraica \(a1\)-\(h8\)), vectores de desplazamiento (movimiento de piezas), simetrías y traslaciones.
-- **Sentido Numérico y Algebraico**: Combinatoria, crecimiento exponencial, sucesiones y funciones de evaluación numérica de posiciones.
-- **Sentido Estocástico y Algorítmico**: Árboles de decisión, probabilidad condicional, teoría de juegos y grafos.
+## 2. Justificación y sentido educativo
 
-**Referencias normativas oficiales**:
-- [Real Decreto 217/2022](https://www.boe.es/buscar/act.php?id=BOE-A-2022-4975) (Enseñanzas mínimas ESO).
-- [Real Decreto 243/2022](https://www.boe.es/buscar/act.php?id=BOE-A-2022-5521) (Enseñanzas mínimas Bachillerato).
+El tablero de ajedrez es un **sistema formal finito** con reglas explícitas: permite trabajar representación espacial, grafos, combinatoria y pensamiento algorítmico sin salir de un entorno conocido y motivador.
 
-## 3. Propuestas Didácticas y Problemas Clásicos por Bloques
+La práctica guiada del ajedrez se asocia en la literatura a funciones ejecutivas (planificación, inhibición, memoria de trabajo) y a la transferencia hacia la descomposición de problemas. En LOMLOE, conecta de forma natural con resolución de problemas, modelización y sentido socioafectivo (gestión del error, tolerancia a la frustración).
 
-### 3.1. Sentido Espacial y Geometría Analítica
+---
 
-- **Coordenadas y Vectores**: Traducir la notación algebraica de ajedrez a vectores en el plano cartesiano \(\mathbb{Z}^2\).
-  - Ejemplo: Representación del movimiento del Caballo mediante vectores del tipo \((\pm 1, \pm 2)\) y \((\pm 2, \pm 1)\).
+## 3. Objetivos de aprendizaje
 
-- **Geometría no euclídea (Métrica de Manhattan / Métrica del Ajedrez)**:
-  - La distancia del Rey (\(d_{\infty}\)) vs. la distancia del Caballo o del Peón.
-  - Análisis de la distancia de Chebyshev:  
-    \[
-    d_{\infty}(A, B) = \max\bigl(|x_2 - x_1|, |y_2 - y_1|\bigr).
-    \]
+1. Representar el movimiento de piezas (en especial el caballo) mediante **vectores** en $\mathbb{Z}^2$.
+2. Modelizar el tablero como un **grafo** y calcular grados / vecindarios de un vértice.
+3. Aplicar una estrategia de **búsqueda** (BFS o exploración sistemática) para caminos mínimos del caballo entre dos casillas.
+4. Analizar un problema clásico de combinatoria o restricción (8 reinas o trigo en el tablero) con lenguaje matemático preciso.
+5. Argumentar decisiones y **gestionar el error** en equipo (variantes, contrajuego, revisión de hipótesis).
 
-### 3.2. Sentido Algebraico, Combinatoria y Crecimiento Exponencial
+---
 
-- **El Problema del Trigo y el Tablero** (Sucesiones y Progresiones Geométricas):
+## 4. Competencias específicas y criterios de evaluación
 
-  \[
-  \sum_{k=0}^{63} 2^k = 2^{64} - 1 = 18\,446\,744\,073\,709\,551\,615
-  \]
+| CE (RD 217/2022 / 243/2022) | Criterios (enfoque) | Evidencia en esta SA |
+|-----------------------------|---------------------|----------------------|
+| **CE1–CE2** Resolución de problemas | Descomponer el reto, planificar, comprobar | Diario de intentos; camino mínimo documentado |
+| **CE3** Razonamiento y argumentación | Justificar por qué un movimiento es legal / óptimo | Explicaciones orales y escritas en el portfolio |
+| **CE5–CE6** Conexiones y modelización | Tablero → vectores → grafo → algoritmo | Modelo vectorial + diagrama de grafo |
+| **CE8** Socioafectivas | Perseverancia, cooperación, gestión del error | Rúbrica de proceso + autoevaluación |
 
-  Análisis didáctico: Modelización de crecimiento exponencial, manejo de notación científica y estimación de magnitudes reales (producción mundial de grano).
+**Competencias clave:** STEM, CD (si se usa software), CPSAA, CCL.
 
-- **Explosión Combinatoria**: Estimación del [número de Shannon](https://en.wikipedia.org/wiki/Shannon_number) (\(10^{120}\) posiciones posibles) frente al número de átomos en el universo observable (\(10^{80}\)).
+---
 
-### 3.3. Pensamiento Algorítmico, Combinatoria Compleja y Grafos
+## 5. Saberes básicos y sentidos matemáticos
 
-- **El Problema de las 8 Reinas** (\(N\)-Reinas):
-  - Colocar 8 reinas en un tablero de \(8 \times 8\) sin que se amenacen entre sí.
-  - Abordaje en el aula: Introducción a los algoritmos de *backtracking* (vuelta atrás), permutaciones sujetas a restricciones y análisis de simetrías de las 92 soluciones totales (12 soluciones fundamentales).
-  - Recurso interactivo: [Eight Queens Puzzle (Wikipedia)](https://en.wikipedia.org/wiki/Eight_queens_puzzle).
+| Sentido | Saberes / contenidos | Prioridad |
+|---------|----------------------|-----------|
+| Espacial | Coordenadas $a1$–$h8$; vectores $(\pm 1,\pm 2)$; distancia de Chebyshev $d_\infty$ | Alta |
+| Algebraico | Sucesiones geométricas (trigo); notación y generalización | Media |
+| Estocástico / algorítmico | Árboles de decisión; grafos; búsqueda de caminos | Alta |
+| Numérico | Órdenes de magnitud (Shannon $\sim 10^{120}$) | Baja |
+| Socioafectivo | Error como información; trabajo en equipo; autoconcepto | Alta |
 
-- **El Recorrido del Caballo** (Knight’s Tour):
-  - Hallar un ciclo hamiltoniano en el grafo del tablero de ajedrez.
-  - Aplicación: Teoría de grafos, grado de un vértice y propiedades topológicas de un tablero finito.
-  - Recurso: [Knight’s Tour (Wikipedia)](https://en.wikipedia.org/wiki/Knight%27s_tour).
+**Conexiones:** Tecnología (pseudocódigo / GeoGebra / Python opcional), Historia (origen del problema del trigo).
 
-## 4. Diseño de una Situación de Aprendizaje (SDA)
+---
 
-**Título**: Matemáticas sobre 64 casillas: Optimización y Grafos
+## 6. Secuencia de aprendizaje
 
-- **Etapa**: 4.º de ESO (Opción Académica) / 1.º de Bachillerato (Matemáticas I).
-- **Reto / Pregunta Guía**: ¿Cómo programaría un ordenador para encontrar la ruta mínima de un caballo entre dos casillas cualesquiera del tablero?
+| Sesión | Fase | Actividad del alumnado | Rol docente | Agrupamiento |
+|--------|------|------------------------|-------------|--------------|
+| 1 | Activación | Explorar notación algebraica y movimientos del caballo en tablero físico o app; formular conjeturas sobre «¿cuántos saltos mínimos de e4 a a8?» | Presentar el reto; recoger conjeturas | Parejas |
+| 2 | Exploración espacial | Traducir movimientos a vectores; calcular $d_\infty$ del rey vs caballo; mapa de casillas alcanzables en 1, 2, 3 saltos | Guiar formalización vectorial | Parejas → cuarteto |
+| 3 | Modelo de grafo | Construir grafo (vértices = casillas de interés; aristas = salto legal); grado de vértices centrales vs bordes | Introducir vocabulario de grafos | Equipos de 3–4 |
+| 4 | Algoritmo | Diseñar búsqueda sistemática de camino mínimo (cola BFS en papel o simulación); contrastar con fuerza bruta | Andamiaje de pseudocódigo; sin exigir lenguaje formal de programación | Equipos |
+| 5 | Problema clásico | Elegir: (A) 8 reinas a escala reducida $n=4$ o $n=5$; o (B) suma del trigo $\sum_{k=0}^{63} 2^k$ y órdenes de magnitud | Diferenciar por nivel; aportar pistas | Individual + puesta en común |
+| 6 | Producto | Redactar portfolio: modelo, grafo, camino, reflexión CE8 | Rúbrica visible; tutorías de equipo | Equipos |
+| 7 | Comunicación | Exposición breve (5 min) + coevaluación + cierre metacognitivo | Moderación; síntesis de aprendizajes | Grupo clase |
 
+**Hito intermedio (sesión 4):** diagrama de grafo + un camino mínimo correcto entre dos casillas fijadas por el docente.
+
+---
+
+## 7. Metodología y organización
+
+- **Enfoque:** indagación + modelización + ligera gamificación (retos cronometrados opcionales).
+- **Agrupamientos:** parejas (sesiones 1–2), equipos de 3–4 heterogéneos (3–6), individual en el problema clásico.
+- **Espacios:** aula con tableros o apps (Lichess board editor, Chess.com tools); opcional aula de informática.
+- **Materiales:** tableros/piezas o plantillas impresas 8×8; papel milimetrado; GeoGebra (rejilla) o Python opcional; rúbrica impresa.
+
+---
+
+## 8. Evaluación
+
+### 8.1. Formativa
+Lista de cotejo por sesión (modelo vectorial, grafo, camino); preguntas clave («¿por qué no basta la distancia euclídea?»); feedback oral en hito intermedio.
+
+### 8.2. Sumativa del producto
+Portfolio de equipo evaluado con rúbrica (modelo 30 %, algoritmo/camino 30 %, comunicación 20 %, socioafectivo/proceso 20 %).
+
+### 8.3. Autoevaluación y coevaluación
+Ficha individual de 5 ítems (contribución, gestión del error, claridad del modelo) + coevaluación entre equipos en la exposición.
+
+---
+
+## 9. Atención a la diversidad y DUA
+
+| Principio DUA | Medida concreta |
+|---------------|-----------------|
+| Implicación | Retos de dificultad escalonada (casillas cercanas → lejanas; $n=4$ reinas antes que $n=8$) |
+| Representación | Tablero físico, diagrama en papel, GeoGebra; glosario visual de vectores |
+| Acción y expresión | Portfolio escrito, oral o vídeo corto; pseudocódigo o descripción en lenguaje natural |
+
+**Refuerzo:** plantillas de grafo parcialmente rellenadas. **Ampliación:** ciclo cerrado del caballo (Knight’s tour) o implementación en Python.
+
+---
+
+## 10. Dimensión socioafectiva
+
+- **Perseverancia y gestión del error:** los caminos incorrectos se registran como datos, no como fracaso.
+- **Cooperación:** roles rotativos (modelizador, verificador, portavoz).
+- **Autoconcepto:** cierre con «una estrategia que me funcionó / una que cambiaría».
+- Registro: ítems en rúbrica de proceso + autoevaluación sesión 7.
+
+---
+
+## 11. Orientaciones para la implementación
+
+- **Dificultades:** confundir distancia euclídea con saltos de caballo; grafos demasiado densos → limitar a un subconjunto de 9–16 casillas al inicio.
+- **Variante corta (4 sesiones):** solo vectores + caminos mínimos, sin 8 reinas ni trigo.
+- **Variante Bachillerato:** formalizar BFS; conectar con matrices de adyacencia.
+- **Extensión TFM:** comparar resolución con/sin app; medir ansiedad o motivación pre-post.
+
+---
+
+## 12. Referencias
+
+### Normativa
+- [RD 217/2022](https://www.boe.es/buscar/act.php?id=BOE-A-2022-4975), [RD 243/2022](https://www.boe.es/buscar/act.php?id=BOE-A-2022-5521)
+
+### Didáctica y recursos
+1. Problemas clásicos: [Eight queens puzzle](https://en.wikipedia.org/wiki/Eight_queens_puzzle), [Knight’s tour](https://en.wikipedia.org/wiki/Knight%27s_tour), [Shannon number](https://en.wikipedia.org/wiki/Shannon_number)
+2. Literatura sobre ajedrez y cognición (Sala, Gobet y revisiones recientes) para marco teórico de TFM
+3. Materiales del repo: [plantilla SA](plantilla-situacion-aprendizaje.md), rúbricas en `../rubricas/`
+
+---
+
+## 13. Anexo — Banco breve de problemas clásicos
+
+**Vectores del caballo:** $(\pm 1,\pm 2)$, $(\pm 2,\pm 1)$.
+
+**Distancia de Chebyshev (rey):**  
+$d_{\infty}(A,B)=\max(|x_2-x_1|,|y_2-y_1|)$
+
+**Trigo en el tablero:**  
+$\sum_{k=0}^{63} 2^k = 2^{64}-1 = 18\,446\,744\,073\,709\,551\,615$
+
+**8 reinas:** 92 soluciones en $8\times 8$ (12 fundamentales por simetría); empezar por $n=4$.
