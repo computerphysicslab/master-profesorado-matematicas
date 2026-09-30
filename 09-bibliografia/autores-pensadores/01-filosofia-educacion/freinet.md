@@ -2,7 +2,7 @@
 
 **Área:** Pedagogía cooperativa  
 **Conceptos clave:** cooperación; expresión; trabajo; aula  
-**Asignaturas del Máster relacionadas:** 63201; 63202; 63224
+**Ámbitos del Máster relacionados:** Procesos y contextos educativos; Sociedad, familia y procesos grupales; Diseño de actividades de aprendizaje de Matemáticas
 
 ## Por qué conocerlo
 
@@ -14,18 +14,14 @@ Célestin Freinet forma parte del mapa intelectual del Máster por su relación 
 - ¿Qué concepto suyo debería poder explicar un futuro profesor de Matemáticas?
 - ¿Cómo podría aparecer esa idea en una situación real de aula?
 - ¿Qué limitaciones o críticas tiene su enfoque?
-- ¿Qué conexiones tiene con otros autores de esta carpeta?
+- ¿Qué conexiones tiene con otros autores del mapa?
 
-## Enlaces de investigación
+## Enlaces de localización
 
-- [Wikipedia / búsqueda biográfica](https://en.wikipedia.org/w/index.php?search=Célestin+Freinet)
-- [Google Scholar — publicaciones](https://scholar.google.com/scholar?q=Célestin+Freinet)
-- [OpenAlex — producción científica](https://openalex.org/works?search=Célestin+Freinet)
+- [Google Scholar](https://scholar.google.com/scholar?q=Freinet+pedagog%C3%ADa)
+- [Semantic Scholar](https://www.semanticscholar.org/search?q=Freinet+education)
+- [Dialnet](https://dialnet.unirioja.es/buscar/documentos?querysDismax.DOCUMENTAL_TODO=Freinet)
 
-## Relación con el Máster
+## Advertencia
 
-Las asignaturas indicadas arriba se han asignado a partir del programa del Máster recopilado en el repositorio. La ficha **no implica que el autor aparezca explícitamente en la bibliografía oficial de la asignatura**: distingue entre autores del programa y autores recomendados para construir una cultura intelectual amplia.
-
-## Lectura recomendada
-
-Buscar primero una **obra primaria**, después una introducción académica y finalmente una aplicación a Educación Matemática cuando exista. Evitar convertir la ficha en una biografía extensa: el objetivo es comprender la idea y poder utilizarla críticamente.
+Esta ficha no implica que el autor figure de forma explícita en todas las guías docentes. Distingue entre autores de núcleo del plan y autores de ampliación conceptual.

@@ -2,7 +2,7 @@
 
 **Área:** Pragmatismo y pedagogía  
 **Conceptos clave:** aprender haciendo; experiencia; democracia; problemas  
-**Asignaturas del Máster relacionadas:** 63201; 63224; 63225
+**Ámbitos del Máster relacionados:** Procesos y contextos educativos; Diseño de actividades de aprendizaje de Matemáticas; Innovación e investigación educativa en Matemáticas
 
 ## Por qué conocerlo
 
@@ -14,18 +14,14 @@ John Dewey forma parte del mapa intelectual del Máster por su relación con **p
 - ¿Qué concepto suyo debería poder explicar un futuro profesor de Matemáticas?
 - ¿Cómo podría aparecer esa idea en una situación real de aula?
 - ¿Qué limitaciones o críticas tiene su enfoque?
-- ¿Qué conexiones tiene con otros autores de esta carpeta?
+- ¿Qué conexiones tiene con otros autores del mapa?
 
-## Enlaces de investigación
+## Enlaces de localización
 
-- [Wikipedia / búsqueda biográfica](https://en.wikipedia.org/w/index.php?search=John+Dewey)
-- [Google Scholar — publicaciones](https://scholar.google.com/scholar?q=John+Dewey)
-- [OpenAlex — producción científica](https://openalex.org/works?search=John+Dewey)
+- [Google Scholar](https://scholar.google.com/scholar?q=John+Dewey+education)
+- [Semantic Scholar](https://www.semanticscholar.org/search?q=John+Dewey+education)
+- [Dialnet](https://dialnet.unirioja.es/buscar/documentos?querysDismax.DOCUMENTAL_TODO=Dewey+educaci%C3%B3n)
 
-## Relación con el Máster
+## Advertencia
 
-Las asignaturas indicadas arriba se han asignado a partir del programa del Máster recopilado en el repositorio. La ficha **no implica que el autor aparezca explícitamente en la bibliografía oficial de la asignatura**: distingue entre autores del programa y autores recomendados para construir una cultura intelectual amplia.
-
-## Lectura recomendada
-
-Buscar primero una **obra primaria**, después una introducción académica y finalmente una aplicación a Educación Matemática cuando exista. Evitar convertir la ficha en una biografía extensa: el objetivo es comprender la idea y poder utilizarla críticamente.
+Esta ficha no implica que el autor figure de forma explícita en todas las guías docentes. Distingue entre autores de núcleo del plan y autores de ampliación conceptual.
