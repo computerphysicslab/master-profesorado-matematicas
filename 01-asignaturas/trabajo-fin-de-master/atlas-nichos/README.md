@@ -7,33 +7,36 @@ Mapa de saturación de Trabajos Fin de Máster de Educación Matemática (acceso
 - **Corpus:** 89 TFM codificados
 - **Zaguán (Unizar):** 44 entradas
 - **Nuevas fuentes v0.10:** UPNA (6), UJI (5), UCM, UDIMA, UPV, UNIR, UAH + 4 internacionales (DGBL, GenAI algebra game, AR+GeoGebra, Nepal GeoGebra)
-- **Documento principal de ranking:** [04-coocurrencias-y-ranking-v09.md](04-coocurrencias-y-ranking-v09.md) (v0.9; v1.0 en preparación con ≥100)
+- **Capa doctoral:** [tesis-doctorales/](tesis-doctorales/) — 11 fichas (España + Canadá, Rumanía, EE. UU., Italia, Sudáfrica)
+- **Documento principal de ranking:** [04-coocurrencias-y-ranking-v09.md](04-coocurrencias-y-ranking-v09.md)
 
 ## Empezar por aquí
 
 1. Leer el ranking de intersecciones prioritarias (huecos ★★★★★).
-2. Consultar el CSV de corpus para ver ejemplos concretos y URLs de PDF.
-3. Evitar zonas saturadas (funciones × secuencia_didáctica clásica).
+2. Consultar el CSV de corpus y, si el nicho está tocado a nivel doctoral, la ficha en `tesis-doctorales/`.
+3. Evitar zonas saturadas (funciones × secuencia_didáctica clásica; geometría+gamificación+flipped sin variable nueva).
 
 ## Estructura
 
 | Archivo | Contenido |
 |---------|-----------|
-| [corpus/plantilla-corpus.csv](corpus/plantilla-corpus.csv) | Metadatos normalizados (89 filas) |
+| [corpus/plantilla-corpus.csv](corpus/plantilla-corpus.csv) | Metadatos normalizados (base) |
+| [corpus/plantilla-corpus-v010-addon.csv](corpus/plantilla-corpus-v010-addon.csv) | +20 entradas v0.10 |
 | [04-coocurrencias-y-ranking-v09.md](04-coocurrencias-y-ranking-v09.md) | Matrices + ranking 20 intersecciones |
 | [00-hallazgos-v0.md](00-hallazgos-v0.md) | Hallazgos sintéticos |
 | [01-metodologia.md](01-metodologia.md) | Criterios de inclusión y etiquetado |
 | [03-mapa-saturacion.md](03-mapa-saturacion.md) | Mapa ASCII de densidad |
+| [tesis-doctorales/](tesis-doctorales/) | **Capa doctoral**: 11 fichas vinculadas a nichos |
 
 ## Nichos prioritarios (resumen)
 
-- videojuegos + espacial + geometría (refuerzo: revisión UDIMA 2024 + DGBL scoping 2026)
-- IA generativa + metacognición / inclusión (refuerzo: GenAI algebra game 2025)
-- RV/AR + GeoGebra + motivación (refuerzo: AR+microgames 2025)
-- Desmos / flipped + funciones + socioafectivo (refuerzo: UPNA flipped 2024)
+- videojuegos + espacial + geometría (McGill Sharma; DGBL scoping)
+- IA generativa + metacognición / inclusión (UniGe serious games + GenAI)
+- RV/AR + GeoGebra + motivación (TECGAFLIP como techo; diferenciar)
+- Desmos / flipped + funciones + socioafectivo
 - outdoor / magia + motivación + contenido poco tratado
-- conocimiento profesional docente (límites, derivadas)
-- DUA + inclusión matemática (refuerzo: UAH 2024)
+- conocimiento profesional docente (CID/EOS: Sol Campuzano)
+- DUA + inclusión matemática
 
 ## Licencia y uso
 
