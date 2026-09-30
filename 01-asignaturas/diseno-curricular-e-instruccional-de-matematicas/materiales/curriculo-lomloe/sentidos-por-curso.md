@@ -15,7 +15,7 @@ Los **saberes básicos** del currículo LOMLOE de Matemáticas se organizan en *
 | **Estocástico** | Datos, incertidumbre, inferencia elemental |
 | **Socioafectivo** | Creencias, emociones, actitudes, trabajo en equipo ante las matemáticas |
 
-El socioafectivo es **transversal** en todos los cursos.
+El socioafectivo es **transversal** en todos los cursos. Para ver cómo se manifiesta en una actividad concreta —y distinguir el componente transversal de su expresión matemática— ver el [**anexo práctico: saberes socioafectivos (Eratóstenes)**](anexo-saberes-socioafectivos-eratostenes.md).
 
 ---
 
@@ -48,7 +48,7 @@ El socioafectivo es **transversal** en todos los cursos.
 |--------|-----------|
 | Dejar estadística para «si sobra tiempo» | Reservar sesiones en la [programación anual](../plantillas/programacion-anual.md) |
 | Álgebra como bloque único interminable | Intercalar funciones, geometría o datos |
-| Socioafectivo solo en un cartel | Rutinas de error, debate y rúbricas de perseverancia |
+| Socioafectivo solo en un cartel | Rutinas de error, debate y rúbricas de perseverancia · [anexo Eratóstenes](anexo-saberes-socioafectivos-eratostenes.md) |
 | Solo símbolo, sin gráfica ni contexto | Planificar [conversiones de registro](../fichas-objetos/) |
 
 ---
@@ -62,11 +62,13 @@ El socioafectivo es **transversal** en todos los cursos.
 | Espacial | P3, P8 |
 | Estocástico | [Probabilidad](../fichas-objetos/probabilidad.md) · P4, P7 |
 | Análisis (Bach.) | [Derivada](../fichas-objetos/derivada.md) · P6 |
+| **Socioafectivo** | [Anexo Eratóstenes (13 saberes en una actividad)](anexo-saberes-socioafectivos-eratostenes.md) |
 
 ---
 
 ## Para profundizar
 
 - [Mapa competencias–criterios](mapa-competencias-criterios.md)
+- [Anexo saberes socioafectivos](anexo-saberes-socioafectivos-eratostenes.md)
 - [Bloque 3](../../apuntes/03-elementos-curriculo-lomloe.md)
 - [Bloque 4](../../apuntes/04-programacion-didactica.md)
