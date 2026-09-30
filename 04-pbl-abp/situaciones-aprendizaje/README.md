@@ -51,11 +51,12 @@ No es lo mismo que:
 
 ## Catálogo
 
-| SA | Nivel | Sentidos principales | Duración orientativa | Estado |
-|----|-------|----------------------|----------------------|--------|
-| [Ajedrez y matemáticas](ajedrez-y-matematicas.md) | 4.º ESO / 1.º Bach | Espacial, algebraico, algorítmico, socioafectivo | 6–8 sesiones | Recurso + SA parcial (ampliar con plantilla) |
+| SA | Nivel | Sentidos principales | Duración | Estado |
+|----|-------|----------------------|----------|--------|
+| [Matemáticas sobre 64 casillas (ajedrez y grafos)](ajedrez-y-matematicas.md) | 4.º ESO / 1.º Bach | Espacial, algorítmico, algebraico, socioafectivo | 7 sesiones | **Completa v1.0** |
+| [¿Cuánto mide realmente la Tierra? (Eratóstenes)](sa-eratostenes-3eso.md) | 3.º–4.º ESO | Medida, espacial, numérico, socioafectivo | 6 sesiones | **Completa v1.0** |
 
-> **Próximas candidatas:** Eratóstenes (radio de la Tierra), modelización con tarifas de datos, PPDAC / estadística en contexto, medición outdoor, grafos y recorrido del caballo (versión corta).
+> **Próximas candidatas:** modelización con tarifas de datos, PPDAC / estadística en contexto, medición outdoor genérica, IA generativa y modelización (con límites éticos).
 
 ## Plantilla
 
@@ -79,7 +80,7 @@ Usa **[plantilla-situacion-aprendizaje.md](plantilla-situacion-aprendizaje.md)**
 
 ## Cómo contribuir
 
-1. Copia la plantilla → `sa-<tema-corto>-<nivel>.md` (ej. `sa-eratostenes-3eso.md`).
+1. Copia la plantilla → `sa-<tema-corto>-<nivel>.md` (ej. `sa-ppdac-4eso.md`).
 2. Completa el checklist.
 3. Añade una fila a la tabla del catálogo en este README.
 4. Enlaza desde [`../INDICE.md`](../INDICE.md) si se actualiza el índice global de PBL/ABP.
