@@ -71,3 +71,9 @@ Las cifras absolutas de «N TFM por metodología» varían según la muestra (un
 - Añadir filas cuando se incorporen nuevos ejemplos a `ejemplos-tfm/`.
 - Contrastar con actas SEIEM o repositorios autonómicos del último curso.
 - Cruzar con el debate curricular de [inclusión y excelencia](../diseno-curricular-e-instruccional-de-matematicas/materiales/curriculo-lomloe/inclusion-excelencia-diversidad-matematica-lomloe.md).
+
+---
+
+## Atlas de nichos (proyecto en curso)
+
+Para un tratamiento más sistemático (corpus, intersecciones, preguntas investigables y hoja de ruta a coocurrencias), ver el **[Atlas de Nichos TFM](atlas-nichos/)**.
