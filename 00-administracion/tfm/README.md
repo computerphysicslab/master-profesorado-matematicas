@@ -1,1 +1,5 @@
-# Tfm Espacio de trabajo para esta temática dentro del repositorio del Máster de Profesorado de Matemáticas.
+# TFM — trámites administrativos
+
+| Archivo | Contenido |
+|---------|-----------|
+| [tramite-tfm.md](tramite-tfm.md) | Matrícula, modalidades, depósito, defensa, título |
