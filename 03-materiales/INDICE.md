@@ -15,6 +15,7 @@ Colección de **30 fichas**: [`historias-matematicas/`](historias-matematicas/).
 
 | Material | Descripción |
 |----------|-------------|
+| [guia-practica-accion-docente.md](psicologia/guia-practica-accion-docente.md) | Guía práctica: 9 situaciones + 6 ampliaciones (gestión de aula, error, ABP, feedback, IA) con fundamentos teóricos y enlaces a autores |
 | [suicidio-juvenil-rrss-rol-docente.md](psicologia/suicidio-juvenil-rrss-rol-docente.md) | Detección, RRSS, protocolos de derivación (Aragón), recursos 024 |
 | [README psicología](psicologia/README.md) | Índice de esta carpeta |
 
