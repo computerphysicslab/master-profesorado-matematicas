@@ -1,0 +1,1087 @@
+[
+  {
+    "name": "Sócrates",
+    "slug": "socrates",
+    "category": "01-filosofia-educacion",
+    "role": "Filosofía del diálogo",
+    "concepts": [
+      "mayéutica",
+      "preguntas",
+      "diálogo socrático"
+    ],
+    "subjects": [
+      "63201",
+      "63224",
+      "63312"
+    ]
+  },
+  {
+    "name": "Platón",
+    "slug": "platon",
+    "category": "01-filosofia-educacion",
+    "role": "Filosofía de la educación",
+    "concepts": [
+      "conocimiento",
+      "educación",
+      "formación intelectual"
+    ],
+    "subjects": [
+      "63201",
+      "63222"
+    ]
+  },
+  {
+    "name": "Aristóteles",
+    "slug": "aristoteles",
+    "category": "01-filosofia-educacion",
+    "role": "Filosofía de la educación y del conocimiento",
+    "concepts": [
+      "experiencia",
+      "hábito",
+      "virtud",
+      "lógica"
+    ],
+    "subjects": [
+      "63200",
+      "63201"
+    ]
+  },
+  {
+    "name": "Jan Amos Comenio",
+    "slug": "comenio",
+    "category": "01-filosofia-educacion",
+    "role": "Didáctica moderna",
+    "concepts": [
+      "educación universal",
+      "enseñanza sistemática",
+      "organización escolar"
+    ],
+    "subjects": [
+      "63201"
+    ]
+  },
+  {
+    "name": "Jean-Jacques Rousseau",
+    "slug": "rousseau",
+    "category": "01-filosofia-educacion",
+    "role": "Filosofía de la educación",
+    "concepts": [
+      "educación natural",
+      "desarrollo",
+      "autonomía"
+    ],
+    "subjects": [
+      "63200",
+      "63201"
+    ]
+  },
+  {
+    "name": "Johann Heinrich Pestalozzi",
+    "slug": "pestalozzi",
+    "category": "01-filosofia-educacion",
+    "role": "Pedagogía",
+    "concepts": [
+      "intuición",
+      "experiencia",
+      "educación integral"
+    ],
+    "subjects": [
+      "63201",
+      "63224"
+    ]
+  },
+  {
+    "name": "John Dewey",
+    "slug": "dewey",
+    "category": "01-filosofia-educacion",
+    "role": "Pragmatismo y pedagogía",
+    "concepts": [
+      "aprender haciendo",
+      "experiencia",
+      "democracia",
+      "problemas"
+    ],
+    "subjects": [
+      "63201",
+      "63224",
+      "63225"
+    ]
+  },
+  {
+    "name": "Maria Montessori",
+    "slug": "montessori",
+    "category": "01-filosofia-educacion",
+    "role": "Pedagogía",
+    "concepts": [
+      "autonomía",
+      "ambiente preparado",
+      "actividad"
+    ],
+    "subjects": [
+      "63200",
+      "63224"
+    ]
+  },
+  {
+    "name": "Célestin Freinet",
+    "slug": "freinet",
+    "category": "01-filosofia-educacion",
+    "role": "Pedagogía cooperativa",
+    "concepts": [
+      "cooperación",
+      "expresión",
+      "trabajo",
+      "aula"
+    ],
+    "subjects": [
+      "63201",
+      "63202",
+      "63224"
+    ]
+  },
+  {
+    "name": "Paulo Freire",
+    "slug": "freire",
+    "category": "01-filosofia-educacion",
+    "role": "Pedagogía crítica",
+    "concepts": [
+      "diálogo",
+      "conciencia crítica",
+      "educación como práctica social"
+    ],
+    "subjects": [
+      "63201",
+      "63202",
+      "63306"
+    ]
+  },
+  {
+    "name": "Jean Piaget",
+    "slug": "piaget",
+    "category": "02-psicologia-aprendizaje",
+    "role": "Psicología del desarrollo",
+    "concepts": [
+      "constructivismo",
+      "desarrollo cognitivo",
+      "esquemas"
+    ],
+    "subjects": [
+      "63200"
+    ]
+  },
+  {
+    "name": "Lev Vygotsky",
+    "slug": "vygotsky",
+    "category": "02-psicologia-aprendizaje",
+    "role": "Psicología sociocultural",
+    "concepts": [
+      "zona de desarrollo próximo",
+      "mediación",
+      "lenguaje"
+    ],
+    "subjects": [
+      "63200",
+      "63202"
+    ]
+  },
+  {
+    "name": "Jerome Bruner",
+    "slug": "bruner",
+    "category": "02-psicologia-aprendizaje",
+    "role": "Psicología cognitiva",
+    "concepts": [
+      "andamiaje",
+      "descubrimiento",
+      "representación"
+    ],
+    "subjects": [
+      "63200",
+      "63224"
+    ]
+  },
+  {
+    "name": "David Ausubel",
+    "slug": "ausubel",
+    "category": "02-psicologia-aprendizaje",
+    "role": "Psicología cognitiva",
+    "concepts": [
+      "aprendizaje significativo",
+      "conocimientos previos"
+    ],
+    "subjects": [
+      "63200",
+      "63224"
+    ]
+  },
+  {
+    "name": "B. F. Skinner",
+    "slug": "skinner",
+    "category": "02-psicologia-aprendizaje",
+    "role": "Conductismo",
+    "concepts": [
+      "refuerzo",
+      "conducta",
+      "modificación de conducta"
+    ],
+    "subjects": [
+      "63200"
+    ]
+  },
+  {
+    "name": "Albert Bandura",
+    "slug": "bandura",
+    "category": "02-psicologia-aprendizaje",
+    "role": "Aprendizaje social",
+    "concepts": [
+      "modelado",
+      "aprendizaje vicario",
+      "autoeficacia"
+    ],
+    "subjects": [
+      "63200",
+      "63202"
+    ]
+  },
+  {
+    "name": "Robert Gagné",
+    "slug": "gagne",
+    "category": "02-psicologia-aprendizaje",
+    "role": "Diseño instruccional",
+    "concepts": [
+      "condiciones del aprendizaje",
+      "eventos instruccionales"
+    ],
+    "subjects": [
+      "63200",
+      "63224"
+    ]
+  },
+  {
+    "name": "Howard Gardner",
+    "slug": "gardner",
+    "category": "02-psicologia-aprendizaje",
+    "role": "Psicología cognitiva",
+    "concepts": [
+      "inteligencias múltiples",
+      "perfiles de aprendizaje"
+    ],
+    "subjects": [
+      "63200"
+    ]
+  },
+  {
+    "name": "Daniel Kahneman",
+    "slug": "kahneman",
+    "category": "02-psicologia-aprendizaje",
+    "role": "Psicología cognitiva",
+    "concepts": [
+      "pensamiento rápido/lento",
+      "sesgos",
+      "heurísticos"
+    ],
+    "subjects": [
+      "63200",
+      "63306"
+    ]
+  },
+  {
+    "name": "John Sweller",
+    "slug": "sweller",
+    "category": "02-psicologia-aprendizaje",
+    "role": "Ciencia cognitiva",
+    "concepts": [
+      "carga cognitiva",
+      "memoria de trabajo",
+      "diseño instruccional"
+    ],
+    "subjects": [
+      "63200",
+      "63224"
+    ]
+  },
+  {
+    "name": "Carol Dweck",
+    "slug": "dweck",
+    "category": "02-psicologia-aprendizaje",
+    "role": "Motivación y aprendizaje",
+    "concepts": [
+      "mentalidad fija/de crecimiento",
+      "creencias sobre capacidad"
+    ],
+    "subjects": [
+      "63200",
+      "63305",
+      "63306"
+    ]
+  },
+  {
+    "name": "Abraham Maslow",
+    "slug": "maslow",
+    "category": "02-psicologia-aprendizaje",
+    "role": "Motivación",
+    "concepts": [
+      "necesidades",
+      "motivación",
+      "autorrealización"
+    ],
+    "subjects": [
+      "63200",
+      "63305"
+    ]
+  },
+  {
+    "name": "Carl Rogers",
+    "slug": "rogers",
+    "category": "02-psicologia-aprendizaje",
+    "role": "Psicología humanista",
+    "concepts": [
+      "aprendizaje centrado en la persona",
+      "relación educativa"
+    ],
+    "subjects": [
+      "63200",
+      "63305"
+    ]
+  },
+  {
+    "name": "Émile Durkheim",
+    "slug": "durkheim",
+    "category": "03-sociologia",
+    "role": "Sociología de la educación",
+    "concepts": [
+      "socialización",
+      "función social de la educación"
+    ],
+    "subjects": [
+      "63202"
+    ]
+  },
+  {
+    "name": "Max Weber",
+    "slug": "weber",
+    "category": "03-sociologia",
+    "role": "Sociología",
+    "concepts": [
+      "autoridad",
+      "racionalización",
+      "burocracia"
+    ],
+    "subjects": [
+      "63201",
+      "63202"
+    ]
+  },
+  {
+    "name": "Karl Marx",
+    "slug": "marx",
+    "category": "03-sociologia",
+    "role": "Teoría social",
+    "concepts": [
+      "clase social",
+      "trabajo",
+      "reproducción social"
+    ],
+    "subjects": [
+      "63202"
+    ]
+  },
+  {
+    "name": "Pierre Bourdieu",
+    "slug": "bourdieu",
+    "category": "03-sociologia",
+    "role": "Sociología de la educación",
+    "concepts": [
+      "capital cultural",
+      "habitus",
+      "reproducción"
+    ],
+    "subjects": [
+      "63202"
+    ]
+  },
+  {
+    "name": "Basil Bernstein",
+    "slug": "bernstein",
+    "category": "03-sociologia",
+    "role": "Sociología de la educación",
+    "concepts": [
+      "códigos lingüísticos",
+      "pedagogía",
+      "desigualdad"
+    ],
+    "subjects": [
+      "63202",
+      "63312"
+    ]
+  },
+  {
+    "name": "Michel Foucault",
+    "slug": "foucault",
+    "category": "03-sociologia",
+    "role": "Teoría social",
+    "concepts": [
+      "poder",
+      "disciplina",
+      "normalización",
+      "vigilancia"
+    ],
+    "subjects": [
+      "63202",
+      "63201"
+    ]
+  },
+  {
+    "name": "Erving Goffman",
+    "slug": "goffman",
+    "category": "03-sociologia",
+    "role": "Microsociología",
+    "concepts": [
+      "interacción",
+      "roles",
+      "presentación del yo"
+    ],
+    "subjects": [
+      "63202",
+      "63312"
+    ]
+  },
+  {
+    "name": "Kurt Lewin",
+    "slug": "lewin",
+    "category": "04-psicologia-social",
+    "role": "Psicología social",
+    "concepts": [
+      "dinámica de grupos",
+      "investigación-acción",
+      "campo"
+    ],
+    "subjects": [
+      "63202",
+      "63225"
+    ]
+  },
+  {
+    "name": "Solomon Asch",
+    "slug": "asch",
+    "category": "04-psicologia-social",
+    "role": "Psicología social",
+    "concepts": [
+      "conformidad",
+      "influencia de grupo"
+    ],
+    "subjects": [
+      "63202"
+    ]
+  },
+  {
+    "name": "Stanley Milgram",
+    "slug": "milgram",
+    "category": "04-psicologia-social",
+    "role": "Psicología social",
+    "concepts": [
+      "obediencia",
+      "autoridad"
+    ],
+    "subjects": [
+      "63202"
+    ]
+  },
+  {
+    "name": "Henri Tajfel",
+    "slug": "tajfel",
+    "category": "04-psicologia-social",
+    "role": "Psicología social",
+    "concepts": [
+      "identidad social",
+      "categorización",
+      "grupos"
+    ],
+    "subjects": [
+      "63202"
+    ]
+  },
+  {
+    "name": "Leon Festinger",
+    "slug": "festinger",
+    "category": "04-psicologia-social",
+    "role": "Psicología social",
+    "concepts": [
+      "disonancia cognitiva",
+      "comparación social"
+    ],
+    "subjects": [
+      "63200",
+      "63202"
+    ]
+  },
+  {
+    "name": "Muzafer Sherif",
+    "slug": "sherif",
+    "category": "04-psicologia-social",
+    "role": "Psicología social",
+    "concepts": [
+      "conflicto intergrupal",
+      "cooperación",
+      "normas"
+    ],
+    "subjects": [
+      "63202"
+    ]
+  },
+  {
+    "name": "George Pólya",
+    "slug": "polya",
+    "category": "05-educacion-matematica",
+    "role": "Resolución de problemas",
+    "concepts": [
+      "heurísticas",
+      "fases de resolución",
+      "estrategias"
+    ],
+    "subjects": [
+      "63224",
+      "63222"
+    ]
+  },
+  {
+    "name": "Hans Freudenthal",
+    "slug": "freudenthal",
+    "category": "05-educacion-matematica",
+    "role": "Educación Matemática Realista",
+    "concepts": [
+      "matematización",
+      "reinvención guiada",
+      "realidad"
+    ],
+    "subjects": [
+      "63222",
+      "63224"
+    ]
+  },
+  {
+    "name": "Guy Brousseau",
+    "slug": "brousseau",
+    "category": "05-educacion-matematica",
+    "role": "Teoría de situaciones didácticas",
+    "concepts": [
+      "situación didáctica",
+      "contrato didáctico",
+      "medio"
+    ],
+    "subjects": [
+      "63223",
+      "63224"
+    ]
+  },
+  {
+    "name": "Yves Chevallard",
+    "slug": "chevallard",
+    "category": "05-educacion-matematica",
+    "role": "Teoría antropológica de lo didáctico",
+    "concepts": [
+      "transposición didáctica",
+      "praxeologías",
+      "saber escolar"
+    ],
+    "subjects": [
+      "63223",
+      "63224"
+    ]
+  },
+  {
+    "name": "Gérard Vergnaud",
+    "slug": "vergnaud",
+    "category": "05-educacion-matematica",
+    "role": "Teoría de campos conceptuales",
+    "concepts": [
+      "conceptos",
+      "esquemas",
+      "situaciones"
+    ],
+    "subjects": [
+      "63223",
+      "63224"
+    ]
+  },
+  {
+    "name": "Raymond Duval",
+    "slug": "duval",
+    "category": "05-educacion-matematica",
+    "role": "Cognición matemática",
+    "concepts": [
+      "registros semióticos",
+      "representación",
+      "conversión"
+    ],
+    "subjects": [
+      "63222",
+      "63224"
+    ]
+  },
+  {
+    "name": "Michèle Artigue",
+    "slug": "artigue",
+    "category": "05-educacion-matematica",
+    "role": "Didáctica de las Matemáticas",
+    "concepts": [
+      "ingeniería didáctica",
+      "análisis didáctico"
+    ],
+    "subjects": [
+      "63225",
+      "63227"
+    ]
+  },
+  {
+    "name": "Alan Schoenfeld",
+    "slug": "schoenfeld",
+    "category": "05-educacion-matematica",
+    "role": "Resolución de problemas",
+    "concepts": [
+      "metacognición",
+      "recursos",
+      "heurísticas",
+      "creencias"
+    ],
+    "subjects": [
+      "63224",
+      "63225"
+    ]
+  },
+  {
+    "name": "Ubiratan D'Ambrosio",
+    "slug": "dambrosio",
+    "category": "05-educacion-matematica",
+    "role": "Etnomatemáticas",
+    "concepts": [
+      "cultura",
+      "prácticas matemáticas",
+      "diversidad"
+    ],
+    "subjects": [
+      "63202",
+      "63224"
+    ]
+  },
+  {
+    "name": "Ole Skovsmose",
+    "slug": "skovsmose",
+    "category": "05-educacion-matematica",
+    "role": "Educación Matemática crítica",
+    "concepts": [
+      "escenarios de investigación",
+      "ciudadanía",
+      "crítica"
+    ],
+    "subjects": [
+      "63202",
+      "63224"
+    ]
+  },
+  {
+    "name": "Paul Ernest",
+    "slug": "ernest",
+    "category": "05-educacion-matematica",
+    "role": "Filosofía de la Educación Matemática",
+    "concepts": [
+      "epistemología",
+      "filosofía de las matemáticas",
+      "educación"
+    ],
+    "subjects": [
+      "63222",
+      "63223"
+    ]
+  },
+  {
+    "name": "Jeremy Kilpatrick",
+    "slug": "kilpatrick",
+    "category": "05-educacion-matematica",
+    "role": "Investigación en Educación Matemática",
+    "concepts": [
+      "competencia matemática",
+      "investigación",
+      "currículo"
+    ],
+    "subjects": [
+      "63225",
+      "63227"
+    ]
+  },
+  {
+    "name": "João Pedro da Ponte",
+    "slug": "ponte",
+    "category": "05-educacion-matematica",
+    "role": "Didáctica de las Matemáticas",
+    "concepts": [
+      "tareas",
+      "investigación",
+      "formación docente"
+    ],
+    "subjects": [
+      "63224",
+      "63225"
+    ]
+  },
+  {
+    "name": "Ralph Tyler",
+    "slug": "tyler",
+    "category": "06-curriculo-evaluacion-investigacion",
+    "role": "Teoría curricular",
+    "concepts": [
+      "objetivos",
+      "experiencias de aprendizaje",
+      "evaluación"
+    ],
+    "subjects": [
+      "63201",
+      "63223"
+    ]
+  },
+  {
+    "name": "Hilda Taba",
+    "slug": "taba",
+    "category": "06-curriculo-evaluacion-investigacion",
+    "role": "Currículo",
+    "concepts": [
+      "desarrollo curricular",
+      "selección y organización de contenidos"
+    ],
+    "subjects": [
+      "63223"
+    ]
+  },
+  {
+    "name": "Lawrence Stenhouse",
+    "slug": "stenhouse",
+    "category": "06-curriculo-evaluacion-investigacion",
+    "role": "Currículo e investigación",
+    "concepts": [
+      "currículo como proceso",
+      "profesor investigador"
+    ],
+    "subjects": [
+      "63223",
+      "63225"
+    ]
+  },
+  {
+    "name": "John Elliott",
+    "slug": "elliott",
+    "category": "06-curriculo-evaluacion-investigacion",
+    "role": "Investigación-acción",
+    "concepts": [
+      "reflexión",
+      "investigación de la práctica",
+      "mejora"
+    ],
+    "subjects": [
+      "63225",
+      "63226",
+      "63227"
+    ]
+  },
+  {
+    "name": "Donald Schon",
+    "slug": "schoen",
+    "category": "06-curriculo-evaluacion-investigacion",
+    "role": "Profesional reflexivo",
+    "concepts": [
+      "reflexión en la acción",
+      "conocimiento profesional"
+    ],
+    "subjects": [
+      "63225",
+      "63226"
+    ]
+  },
+  {
+    "name": "Lee Shulman",
+    "slug": "shulman",
+    "category": "06-curriculo-evaluacion-investigacion",
+    "role": "Conocimiento profesional docente",
+    "concepts": [
+      "PCK",
+      "conocimiento didáctico del contenido"
+    ],
+    "subjects": [
+      "63223",
+      "63224",
+      "63225"
+    ]
+  },
+  {
+    "name": "Benjamin Bloom",
+    "slug": "bloom",
+    "category": "06-curriculo-evaluacion-investigacion",
+    "role": "Evaluación y objetivos",
+    "concepts": [
+      "taxonomía",
+      "objetivos educativos",
+      "evaluación"
+    ],
+    "subjects": [
+      "63201",
+      "63224"
+    ]
+  },
+  {
+    "name": "Michael Scriven",
+    "slug": "scriven",
+    "category": "06-curriculo-evaluacion-investigacion",
+    "role": "Evaluación",
+    "concepts": [
+      "evaluación formativa/sumativa",
+      "evaluación de programas"
+    ],
+    "subjects": [
+      "63224",
+      "63225"
+    ]
+  },
+  {
+    "name": "Paul Black",
+    "slug": "black",
+    "category": "06-curriculo-evaluacion-investigacion",
+    "role": "Evaluación formativa",
+    "concepts": [
+      "assessment for learning",
+      "retroalimentación"
+    ],
+    "subjects": [
+      "63224"
+    ]
+  },
+  {
+    "name": "Dylan Wiliam",
+    "slug": "william",
+    "category": "06-curriculo-evaluacion-investigacion",
+    "role": "Evaluación formativa",
+    "concepts": [
+      "evidencias de aprendizaje",
+      "feedback",
+      "evaluación en aula"
+    ],
+    "subjects": [
+      "63224",
+      "63225"
+    ]
+  },
+  {
+    "name": "Karl Popper",
+    "slug": "popper",
+    "category": "06-curriculo-evaluacion-investigacion",
+    "role": "Filosofía de la ciencia",
+    "concepts": [
+      "falsación",
+      "problemas de investigación",
+      "racionalidad crítica"
+    ],
+    "subjects": [
+      "63225",
+      "63227"
+    ]
+  },
+  {
+    "name": "Thomas Kuhn",
+    "slug": "kuhn",
+    "category": "06-curriculo-evaluacion-investigacion",
+    "role": "Filosofía de la ciencia",
+    "concepts": [
+      "paradigmas",
+      "ciencia normal",
+      "cambio científico"
+    ],
+    "subjects": [
+      "63225"
+    ]
+  },
+  {
+    "name": "Imre Lakatos",
+    "slug": "lakatos",
+    "category": "06-curriculo-evaluacion-investigacion",
+    "role": "Filosofía de la ciencia",
+    "concepts": [
+      "programas de investigación",
+      "heurística"
+    ],
+    "subjects": [
+      "63225",
+      "63227"
+    ]
+  },
+  {
+    "name": "Seymour Papert",
+    "slug": "papert",
+    "category": "07-tecnologia-ia",
+    "role": "Tecnología educativa",
+    "concepts": [
+      "construccionismo",
+      "Logo",
+      "programación para pensar"
+    ],
+    "subjects": [
+      "63315",
+      "63224"
+    ]
+  },
+  {
+    "name": "Alan Kay",
+    "slug": "kay",
+    "category": "07-tecnologia-ia",
+    "role": "Computación educativa",
+    "concepts": [
+      "Dynabook",
+      "ordenador personal",
+      "aprendizaje"
+    ],
+    "subjects": [
+      "63315"
+    ]
+  },
+  {
+    "name": "Mitchel Resnick",
+    "slug": "resnick",
+    "category": "07-tecnologia-ia",
+    "role": "Creatividad y programación",
+    "concepts": [
+      "Scratch",
+      "creatividad",
+      "proyectos",
+      "espiral creativa"
+    ],
+    "subjects": [
+      "63315",
+      "63224"
+    ]
+  },
+  {
+    "name": "George Siemens",
+    "slug": "siemens",
+    "category": "07-tecnologia-ia",
+    "role": "Aprendizaje en red",
+    "concepts": [
+      "conectivismo",
+      "redes",
+      "conocimiento distribuido"
+    ],
+    "subjects": [
+      "63315"
+    ]
+  },
+  {
+    "name": "Etienne Wenger",
+    "slug": "wenger",
+    "category": "07-tecnologia-ia",
+    "role": "Aprendizaje social",
+    "concepts": [
+      "comunidades de práctica",
+      "participación",
+      "identidad"
+    ],
+    "subjects": [
+      "63202",
+      "63315"
+    ]
+  },
+  {
+    "name": "Neil Selwyn",
+    "slug": "selwyn",
+    "category": "07-tecnologia-ia",
+    "role": "Educación y tecnología",
+    "concepts": [
+      "análisis crítico de tecnología educativa",
+      "política tecnológica"
+    ],
+    "subjects": [
+      "63201",
+      "63315"
+    ]
+  },
+  {
+    "name": "Euclides",
+    "slug": "euclides",
+    "category": "08-matematicas-ciencia-computacion",
+    "role": "Geometría y axiomatización",
+    "concepts": [
+      "axiomas",
+      "demostración",
+      "geometría sintética"
+    ],
+    "subjects": [
+      "63222"
+    ]
+  },
+  {
+    "name": "Galileo Galilei",
+    "slug": "galileo",
+    "category": "08-matematicas-ciencia-computacion",
+    "role": "Ciencia y matematización",
+    "concepts": [
+      "experimento",
+      "medición",
+      "matematización de la naturaleza"
+    ],
+    "subjects": [
+      "63222"
+    ]
+  },
+  {
+    "name": "Isaac Newton",
+    "slug": "newton",
+    "category": "08-matematicas-ciencia-computacion",
+    "role": "Matemática y física",
+    "concepts": [
+      "modelización",
+      "cálculo",
+      "leyes matemáticas"
+    ],
+    "subjects": [
+      "63222"
+    ]
+  },
+  {
+    "name": "David Hilbert",
+    "slug": "hilbert",
+    "category": "08-matematicas-ciencia-computacion",
+    "role": "Fundamentos de las Matemáticas",
+    "concepts": [
+      "axiomatización",
+      "formalismo",
+      "problemas"
+    ],
+    "subjects": [
+      "63222"
+    ]
+  },
+  {
+    "name": "Alan Turing",
+    "slug": "turing",
+    "category": "08-matematicas-ciencia-computacion",
+    "role": "Computación",
+    "concepts": [
+      "algoritmos",
+      "computabilidad",
+      "pensamiento computacional"
+    ],
+    "subjects": [
+      "63315",
+      "63224"
+    ]
+  },
+  {
+    "name": "Donald Knuth",
+    "slug": "knuth",
+    "category": "08-matematicas-ciencia-computacion",
+    "role": "Pensamiento algorítmico",
+    "concepts": [
+      "algoritmos",
+      "programación",
+      "rigor computacional"
+    ],
+    "subjects": [
+      "63315",
+      "63224"
+    ]
+  }
+]
