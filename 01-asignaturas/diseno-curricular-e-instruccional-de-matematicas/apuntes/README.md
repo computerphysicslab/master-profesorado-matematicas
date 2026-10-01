@@ -1,43 +1,41 @@
-# Integración Tema 3 — Elementos curriculares LOMLOE y evolución histórica
+---
+layout: default
+title: Apuntes — Diseño curricular
+parent: Diseño curricular e instruccional de Matemáticas
+---
 
-Paquete listo para incorporar al repositorio  
-[master-profesorado-matematicas](https://github.com/computerphysicslab/master-profesorado-matematicas)
+# Apuntes — Diseño curricular e instruccional de Matemáticas
 
-## Contenido del paquete
+Organizados según el **programa de la asignatura** (nueve bloques).
 
-| Archivo | Destino en el repo | Descripción |
-|---------|-------------------|-------------|
-| `03-elementos-curriculo-lomloe.md` | `01-asignaturas/diseno-curricular-e-instruccional-de-matematicas/apuntes/` | Apunte completo del Tema 3 (evolución LGE→LOMLOE, referentes, elementos LOMLOE) |
-| `RESUMEN-VISUAL-Tema3.md` | `01-asignaturas/diseno-curricular-e-instruccional-de-matematicas/apuntes/` (o `materiales/`) | Resumen visual con diagramas Mermaid |
-| `apuntes-README.md` | `.../apuntes/README.md` | Índice de apuntes actualizado |
-| `asignatura-README.md` | `.../diseno-curricular-e-instruccional-de-matematicas/README.md` | README de la asignatura actualizado |
+## Programa ↔ apuntes
 
-## Cómo integrar
+| # | Bloque del programa | Apunte(s) |
+|---|---------------------|----------|
+| **1** | Finalidades educativas de la enseñanza de las Matemáticas | [02-finalidades-ensenanza-matematicas.md](02-finalidades-ensenanza-matematicas.md) · [01-matematicas-escolares-fines-curriculo-evolucion.md](01-matematicas-escolares-fines-curriculo-evolucion.md) |
+| **2** | Evolución curricular (LGE → LOGSE → LOE → LOMCE → LOMLOE) | [01-curriculo-educativo-y-normativa.md](01-curriculo-educativo-y-normativa.md) · evolución detallada en [03-elementos-curriculo-lomloe.md](03-elementos-curriculo-lomloe.md) (§ histórica) |
+| **3** | Currículo LOMLOE de Matemáticas (CE, criterios, saberes, orientaciones) | [03-elementos-curriculo-lomloe.md](03-elementos-curriculo-lomloe.md) · [RESUMEN-VISUAL-Tema3.md](RESUMEN-VISUAL-Tema3.md) |
+| **4** | Del diseño curricular a la programación didáctica | [04-programacion-didactica.md](04-programacion-didactica.md) · [10-evaluacion-en-la-programacion-didactica.md](10-evaluacion-en-la-programacion-didactica.md) |
+| **5** | Fundamentos epistemológicos y fenomenológicos | [05-fundamentos-epistemologicos-fenomenologicos.md](05-fundamentos-epistemologicos-fenomenologicos.md) |
+| **6** | Transposición didáctica | [06-transposicion-didactica.md](06-transposicion-didactica.md) |
+| **7** | Dificultades y obstáculos de aprendizaje | [07-dificultades-y-obstaculos.md](07-dificultades-y-obstaculos.md) |
+| **8** | Resolución de problemas y aceptación de la tarea | [08-resolucion-de-problemas.md](08-resolucion-de-problemas.md) |
+| **9** | Génesis escolar de los objetos matemáticos | [09-genesis-escolar-objetos-matematicos.md](09-genesis-escolar-objetos-matematicos.md) |
 
-```bash
-# Desde la raíz del repo clonado
-cp 03-elementos-curriculo-lomloe.md \
-   01-asignaturas/diseno-curricular-e-instruccional-de-matematicas/apuntes/
+## Lectura recomendada
 
-cp RESUMEN-VISUAL-Tema3.md \
-   01-asignaturas/diseno-curricular-e-instruccional-de-matematicas/apuntes/
+1. Bloques **1 → 3** (finalidades, evolución, LOMLOE)  
+2. Bloque **4** (programación y evaluación)  
+3. Bloques **5 → 9** (didáctica de contenidos y tareas)
 
-# Opcional: actualizar índices
-cp apuntes-README.md \
-   01-asignaturas/diseno-curricular-e-instruccional-de-matematicas/apuntes/README.md
-cp asignatura-README.md \
-   01-asignaturas/diseno-curricular-e-instruccional-de-matematicas/README.md
+## Materiales complementarios
 
-git add 01-asignaturas/diseno-curricular-e-instruccional-de-matematicas/
-git commit -m "Integra Tema 3 DCI: evolución LGE–LOMLOE, referentes y elementos LOMLOE + resumen visual"
-git push
-```
+- [materiales/curriculo-lomloe/](../materiales/curriculo-lomloe/) — mapas CE–criterios, sentidos, anexos  
+- [materiales/plantillas/](../materiales/plantillas/) — PD, UD, rúbrica, génesis de objeto  
+- [materiales/errores-y-obstaculos/](../materiales/errores-y-obstaculos/) — banco de errores  
+- [materiales/banco-problemas/](../materiales/banco-problemas/) — generatrices y problemas ricos  
+- [Situaciones de aprendizaje (PBL)](../../../04-pbl-abp/situaciones-aprendizaje/) — ejemplos LOMLOE listos para aula  
 
-## Qué incluye el apunte principal
+## README de la asignatura
 
-1. **Evolución histórica** LGE (1970) → LOGSE → LOE → LOMCE → LOMLOE  
-2. **Referentes:** Piaget, Brousseau, Freudenthal, Niss (KOM), NCTM, CEMAT  
-3. **Arquitectura LOMLOE:** perfil de salida, competencias clave, competencias específicas (5 ejes), criterios, saberes/sentidos, situaciones de aprendizaje  
-4. Preceptivo vs margen docente, ESO vs Bachillerato, orientaciones, glosario, test y tarea
-
-Los diagramas Mermaid del resumen visual se renderizan automáticamente en GitHub.
+Ver [../README.md](../README.md).

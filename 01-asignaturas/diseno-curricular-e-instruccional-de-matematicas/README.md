@@ -1,3 +1,9 @@
+---
+layout: default
+title: Diseño curricular e instruccional de Matemáticas
+nav_order: 1
+---
+
 # Diseño curricular e instruccional de Matemáticas
 
 **Tipo:** Obligatoria  
@@ -12,41 +18,35 @@ Currículo → diseño curricular → programación → diseño instruccional
 
 ## Programa (nueve bloques)
 
-Documento completo: **[programa.md](programa.md)**
+| # | Bloque | Apunte |
+|---|--------|--------|
+| 1 | Finalidades educativas de la enseñanza de las Matemáticas | [02-finalidades…](apuntes/02-finalidades-ensenanza-matematicas.md) |
+| 2 | Evolución curricular (LGE → LOMLOE) | [01-curriculo…](apuntes/01-curriculo-educativo-y-normativa.md) · [03-elementos…](apuntes/03-elementos-curriculo-lomloe.md) |
+| 3 | Currículo LOMLOE de Matemáticas | [03-elementos…](apuntes/03-elementos-curriculo-lomloe.md) · [Resumen visual](apuntes/RESUMEN-VISUAL-Tema3.md) |
+| 4 | Del diseño curricular a la programación didáctica | [04-programacion…](apuntes/04-programacion-didactica.md) · [10-evaluación…](apuntes/10-evaluacion-en-la-programacion-didactica.md) |
+| 5 | Fundamentos epistemológicos y fenomenológicos | [05-fundamentos…](apuntes/05-fundamentos-epistemologicos-fenomenologicos.md) |
+| 6 | Transposición didáctica | [06-transposicion…](apuntes/06-transposicion-didactica.md) |
+| 7 | Dificultades y obstáculos de aprendizaje | [07-dificultades…](apuntes/07-dificultades-y-obstaculos.md) |
+| 8 | Resolución de problemas y aceptación de la tarea | [08-resolucion…](apuntes/08-resolucion-de-problemas.md) |
+| 9 | Génesis escolar de los objetos matemáticos | [09-genesis…](apuntes/09-genesis-escolar-objetos-matematicos.md) |
 
-| # | Bloque |
-|---|--------|
-| 1 | Finalidades y marco curricular (qué es el currículo; para qué enseñar) |
-| 2 | Cambios curriculares: LGE → LOGSE → LOE → LOMCE → LOMLOE |
-| 3 | Elementos del currículo oficial LOMLOE de Matemáticas |
-| 4 | Del diseño curricular a la programación didáctica |
-| 5 | Fundamentos epistemológicos y fenomenológicos del contenido matemático |
-| 6 | La transposición didáctica habitual |
-| 7 | Dificultades y obstáculos de aprendizaje |
-| 8 | Resolución de problemas y aceptación de la tarea como punto de partida |
-| 9 | Génesis escolar de los objetos matemáticos |
-
-## Apuntes de los bloques 1–3 (actualizados)
-
-| Tema | Archivo |
-|------|--------|
-| Currículo educativo y normativa vigente | [01-curriculo-educativo-y-normativa.md](apuntes/01-curriculo-educativo-y-normativa.md) |
-| ¿Para qué enseñar matemáticas? (Ernest, Cockcroft, Rico) | [02-finalidades-ensenanza-matematicas.md](apuntes/02-finalidades-ensenanza-matematicas.md) |
-| Evolución LGE–LOMLOE y elementos curriculares | [03-elementos-curriculo-lomloe.md](apuntes/03-elementos-curriculo-lomloe.md) |
-
-Índice completo: **[apuntes/](apuntes/)**
+Índice de apuntes: **[apuntes/README.md](apuntes/README.md)**
 
 ## Otros recursos
 
 | Recurso | Descripción |
 |---------|-------------|
-| [Temarios Matemáticas Aragón (ESO/Bach.)](materiales/temarios-matematicas-aragon/) | CE, criterios y saberes por curso — LOMLOE Aragón |
-| [Plantilla programación didáctica Aragón](materiales/temarios-matematicas-aragon/PLANTILLA_PROGRAMACION_DIDACTICA_ARAGON.md) | Estructura completa orientada a Aragón |
-| [Asignaturas ESO/Bachillerato](materiales/asignaturas-eso-bachillerato/) | Mapa de materias y dimensiones |
-| [Currículo LOMLOE](materiales/curriculo-lomloe/) | Mapas competencias–criterios, sentidos |
+| [Temarios Matemáticas Aragón](materiales/temarios-matematicas-aragon/) | CE, criterios y saberes por curso |
+| [Plantillas](materiales/plantillas/) | PD, UD, rúbrica, génesis de objeto |
+| [Currículo LOMLOE](materiales/curriculo-lomloe/) | Mapas competencias–criterios, sentidos, anexos |
+| [Errores y obstáculos](materiales/errores-y-obstaculos/) | Banco de errores típicos |
+| [Banco de problemas](materiales/banco-problemas/) | Generatrices y problemas ricos |
+| [SA (PBL)](../../04-pbl-abp/situaciones-aprendizaje/) | Situaciones de aprendizaje de ejemplo |
 | [Bibliografía](bibliografia.md) | Referencias |
+| [Examen](examen/) | Banco de preguntas |
 
 ## Carpetas
 
-- `apuntes/` — desarrollos por bloque
-- `materiales/` — plantillas, bancos, fichas de objetos, **temarios Aragón**
+- `apuntes/` — desarrollos por bloque del programa  
+- `materiales/` — plantillas, bancos, fichas, temarios Aragón  
+- `examen/` — evaluación de la asignatura del máster  
