@@ -10,6 +10,14 @@ nav_order: 1
 **Máster en Profesorado de Educación Secundaria** · Especialidad Matemáticas  
 **6 ECTS** · Primer semestre
 
+## Empieza aquí
+
+| Recurso | Para qué |
+|---------|----------|
+| [**Introducción for dummies**](introduccion-for-dummies.md) | Visión global en lenguaje sencillo |
+| [**Glosario**](glosario.md) | Términos frecuentes de la asignatura |
+| [**Infografía**](materiales/infografia-asignatura.md) | Resumen visual (Mermaid + ASCII) |
+
 ## Hilo conductor
 
 ```text
@@ -45,10 +53,10 @@ Programa detallado: **[programa.md](programa.md)**
 | [Banco de problemas](materiales/banco-problemas/) | Generatrices y problemas ricos |
 | [SA (PBL)](../../04-pbl-abp/situaciones-aprendizaje/) | Situaciones de aprendizaje de ejemplo |
 | [Bibliografía](bibliografia.md) | Referencias oficiales + fuentes docentes |
-| [Examen](examen/) | Banco de preguntas |
+| [Examen](examen/) | Exámenes por niveles y banco de preguntas |
 
 ## Carpetas
 
 - `apuntes/` — desarrollos por bloque del programa  
-- `materiales/` — plantillas, bancos, fichas, temarios Aragón  
-- `examen/` — evaluación de la asignatura del máster  
+- `materiales/` — plantillas, bancos, fichas, temarios Aragón, infografía  
+- `examen/` — autoevaluación por niveles  

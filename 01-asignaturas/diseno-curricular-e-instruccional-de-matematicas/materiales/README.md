@@ -6,8 +6,9 @@ Recursos reutilizables que complementan los [apuntes](../apuntes/) de la asignat
 
 | Carpeta / archivo | Descripción |
 |-------------------|-------------|
+| [**infografia-asignatura.md**](infografia-asignatura.md) | **Resumen visual** de la asignatura (Mermaid + ASCII) |
 | [curriculo-lomloe/](curriculo-lomloe/) | Mapa de competencias/criterios y sentidos por curso |
-| [temarios-matematicas-aragon/](temarios-matematicas-aragon/) | **Temarios ESO/Bach. LOMLOE Aragón** (9 cursos + plantilla PD) |
+| [temarios-matematicas-aragon/](temarios-matematicas-aragon/) | **Temarios ESO/Bach. LOMLOE Aragón** (incl. Matemáticas Generales + plantilla PD) |
 | [asignaturas-eso-bachillerato/](asignaturas-eso-bachillerato/) | Materias de Matemáticas ESO/Bachillerato y dimensiones |
 | [plantillas/](plantillas/) | Programación anual, unidad, génesis, rúbrica |
 | [fichas-objetos/](fichas-objetos/) | Fracción, función lineal, derivada, probabilidad |
@@ -16,6 +17,8 @@ Recursos reutilizables que complementan los [apuntes](../apuntes/) de la asignat
 | [contenidos-eliminados-trasladados-evolucion-curricular.md](contenidos-eliminados-trasladados-evolucion-curricular.md) | Evolución curricular: qué se eliminó o trasladó |
 
 ## Acceso rápido
+
+**Visión global:** [infografía](infografia-asignatura.md) · [introducción for dummies](../introduccion-for-dummies.md) · [glosario](../glosario.md)
 
 **Currículo Aragón:** [temarios ESO/Bach.](temarios-matematicas-aragon/) · [plantilla programación didáctica Aragón](temarios-matematicas-aragon/PLANTILLA_PROGRAMACION_DIDACTICA_ARAGON.md)
 
