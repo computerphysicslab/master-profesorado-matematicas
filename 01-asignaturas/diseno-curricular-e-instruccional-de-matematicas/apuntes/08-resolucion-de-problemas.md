@@ -1,4 +1,4 @@
-# Bloque 8 · Resolución de problemas y aceptación de la tarea como puntos de partida
+# Bloque 8 · Resolución de problemas y aceptación de la tarea
 
 **Asignatura:** Diseño curricular e instruccional de Matemáticas  
 **Programa:** [bloque 8](../programa.md)

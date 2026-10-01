@@ -1,4 +1,4 @@
-# Bloque 5 · Fundamentos epistemológicos y fenomenológicos del contenido matemático
+# Bloque 5 · Fundamentos epistemológicos y fenomenológicos
 
 **Asignatura:** Diseño curricular e instruccional de Matemáticas  
 **Programa:** [bloque 5](../programa.md)

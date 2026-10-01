@@ -1,4 +1,4 @@
-# Bloque 6 · La transposición didáctica habitual
+# Bloque 6 · Transposición didáctica
 
 **Asignatura:** Diseño curricular e instruccional de Matemáticas  
 **Programa:** [bloque 6](../programa.md)

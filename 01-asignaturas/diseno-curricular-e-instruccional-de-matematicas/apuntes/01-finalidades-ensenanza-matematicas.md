@@ -1,9 +1,11 @@
-# Bloque 1–2 · ¿Para qué enseñar matemáticas?
+# Bloque 1 · Finalidades educativas de la enseñanza de las Matemáticas
 
 **Asignatura:** Diseño curricular e instruccional de Matemáticas  
-**Programa:** [finalidades educativas](../programa.md)
+**Programa:** finalidades educativas
 
 > La justificación del aprendizaje de las matemáticas determina la práctica docente, la selección de contenidos, la metodología y la evaluación.
+
+---
 
 ---
 
@@ -103,6 +105,6 @@ Ver también: [asignaturas y dimensiones](../materiales/asignaturas-eso-bachille
 
 ## Material relacionado
 
-- [01 — Currículo y normativa](01-curriculo-educativo-y-normativa.md)
-- [03 — Elementos LOMLOE y evolución detallada](03-elementos-curriculo-lomloe.md)
+- [02 — Evolución curricular y normativa](02-evolucion-curricular-y-normativa.md)
+- [03 — Elementos del currículo LOMLOE](03-elementos-curriculo-lomloe.md)
 - [Programa](../programa.md)

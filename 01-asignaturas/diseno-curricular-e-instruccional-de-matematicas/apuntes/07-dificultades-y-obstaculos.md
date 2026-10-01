@@ -1,4 +1,4 @@
-# Bloque 7 · Consecuencias para el aprendizaje: dificultades y obstáculos
+# Bloque 7 · Dificultades y obstáculos de aprendizaje
 
 **Asignatura:** Diseño curricular e instruccional de Matemáticas  
 **Programa:** [bloque 7](../programa.md)

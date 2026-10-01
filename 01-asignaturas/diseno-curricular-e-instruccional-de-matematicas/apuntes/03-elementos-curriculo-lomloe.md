@@ -1,95 +1,11 @@
-# Bloque 2–3 · Evolución curricular y elementos LOMLOE de Matemáticas
+# Bloque 3 · Currículo LOMLOE de Matemáticas (CE, criterios, saberes, orientaciones)
 
 **Asignatura:** Diseño curricular e instruccional de Matemáticas  
-**Programa:** [bloques 2 y 3](../programa.md)  
-**Fuente principal de este apunte:** Tema 3 de los apuntes de la asignatura (DCI, Universidad de Zaragoza) + desarrollo práctico orientado a Aragón.
+**Programa:** elementos del currículo LOMLOE de Matemáticas
 
 > Currículo básico estatal: RD 217/2022 (ESO), RD 243/2022 (Bachillerato).  
 > Desarrollo autonómico Aragón (vigente a 2024–25): Orden ECD/1172/2022 (modificada por ECD/867/2024) para ESO y Orden ECD/1173/2022 (modificada por ECD/886/2024) para Bachillerato.  
 > Consulta siempre el BOA / sede electrónica del Gobierno de Aragón.
-
----
-
-## Parte A · Evolución del currículo de Matemáticas en España (LGE → LOMLOE)
-
-Transformación de un enfoque **enciclopédico y formal** hacia un modelo **funcional, inclusivo y competencial**.
-
-```text
-LGE (1970)          LOGSE (1990)         LOE / LOMCE           LOMLOE (2020)
-Matemática moderna  Constructivismo      Competencias +        Competencias específicas,
-Abstracción,        Procedimientos y     estándares (LOMCE)    DUA, sentidos matemáticos
-conjuntos           significatividad
-```
-
-### A.1. LGE (1970) — Matemática moderna
-
-- Contexto: consolidación de valores morales y políticos tras conflictos internacionales; España se acerca al desarrollo europeo en el final de la dictadura.
-- Influencia internacional de la **New Mathematics / Matemática moderna** (post-Sputnik, Bourbaki).
-- Programas fundamentados en enseñanza **formalista y estructuralista**:
-  - Estructuras algebraicas (grupo, anillo, cuerpo…).
-  - Noción formal de función.
-  - Construcción de conjuntos numéricos desde teoría de conjuntos (aplicaciones, relaciones de equivalencia).
-  - Geometría a través de grupos de transformaciones.
-- En las *Nuevas Orientaciones para la EGB* (1971): organización por **objetivos operativos** y contenidos; se realza el papel **cultural y formativo** de las matemáticas como “materia de expresión”.
-- Problema: abstracción temprana y poca anclaje en la realidad del alumnado de EGB → **fracaso escolar** elevado y crítica internacional (Kline, 1976).
-
-### A.2. LOGSE (1990) — Del formalismo al “saber hacer”
-
-- Tras la Constitución: Diseño Curricular Base (DCB, 1989) y LOGSE.
-- Fracaso de las New Mathematics → contrarreforma ya visible en Programas Renovados (1982) en los dos primeros ciclos de EGB.
-- Grupos de renovación de la enseñanza de las matemáticas y posterior creación de sociedades de profesores.
-- Enfoque: alejamiento del formalismo; énfasis en **destrezas procedimentales**, **resolución de problemas**, calculadora y Nuevas Tecnologías.
-- Elementos curriculares estatales LOGSE:
-  - Objetivos generales
-  - Contenidos (conceptos / procedimientos / actitudes)
-  - Criterios de evaluación
-  - Orientaciones metodológicas
-- Transferencia de competencias a las CCAA → currículos autonómicos diferenciados.
-
-### A.3. LOE (2006) y LOMCE (2013) — Competencias y estándares
-
-**LOE (2006)**  
-- Globalización, tecnologías y responsabilidad social → pruebas PISA y noción de **competencia**.
-- Referente: proyecto danés **KOM** (Niss, 2003): competencia matemática = habilidad para entender, juzgar, hacer y usar las matemáticas en contextos intra- y extramatemáticos. Ocho subcompetencias (pensar, plantear/resolver problemas, modelar, razonar, representar, manipular símbolos, comunicar, usar herramientas).
-- Definición PISA de competencia matemática (marco 2015): capacidad de **formular, emplear e interpretar** las matemáticas en distintos contextos.
-- En España: ocho **competencias básicas** (una de ellas, matemática). Elementos: objetivos, competencias básicas, contenidos, métodos pedagógicos / orientaciones didácticas, criterios de evaluación.
-
-**LOMCE (2013)**  
-- Modifica (no deroga) la LOE. Competencias clave (siete); una de ellas es *Competencia matemática y competencias básicas en ciencia y tecnología*.
-- Énfasis en evaluación y reválidas (no llegaron a aplicarse plenamente).
-- Novedades: **estándares de aprendizaje evaluables** vinculados a cada criterio; criterios ligados a bloques de contenidos; mayor autonomía de CCAA y centros (asignaturas troncales / específicas / libre configuración).
-- En matemáticas: doble oferta Matemáticas A/B adelantada a 3.º ESO.
-- Problema detectado: distancia excesiva entre competencias clave y desarrollo por materias; atomización de la evaluación por el elevado número de estándares.
-
-### A.4. LOMLOE (2020) — Competencias específicas, sentidos y DUA
-
-- Deroga la LOMCE. Propósitos principales:
-  - Revertir cambios de evaluación, autonomía del director y trayectorias.
-  - Enfoque inclusivo (DUA) y condiciones de titulación.
-  - Modernizar el currículo (redefinición de elementos).
-  - Más modalidades de Bachillerato (incluida la general).
-  - Flexibilización de primeros cursos de Secundaria por **ámbitos**.
-- Cambios de calado en matemáticas (Contreras, 2022: “el primer cambio relevante del siglo XXI… en la dirección apropiada”).
-- Críticas recibidas: reducción inicial de obligatoriedad de matemáticas en Humanidades y Ciencias Sociales; implementación precipitada de ámbitos (RSME, Quílez Pardo, 2021) por falta de co-docencia real, riesgo de instrumentalizar las matemáticas, evaluación centrada en el producto y formación docente insuficiente.
-- Desaparecen los estándares de aprendizaje → menos fragmentación.
-- Aparecen: **perfil de salida**, **competencias específicas**, **saberes básicos** organizados en **sentidos**, **situaciones de aprendizaje**, orientaciones didácticas y metodológicas más desarrolladas.
-- Marco inclusivo: DUA, equidad, sostenibilidad, perspectiva de género.
-
-### A.5. Cuadro comparativo de elementos curriculares
-
-| Ley | Elementos principales |
-|-----|------------------------|
-| **LGE** | Objetivos operativos, contenidos (estructura formal) |
-| **LOGSE** | Objetivos, contenidos (conceptos / procedimientos / actitudes), criterios de evaluación, orientaciones metodológicas |
-| **LOE** | Objetivos, **competencias básicas**, contenidos, métodos pedagógicos, criterios de evaluación |
-| **LOMCE** | Objetivos, **competencias clave**, contenidos por bloques, criterios de evaluación, **estándares de aprendizaje evaluables**, metodología |
-| **LOMLOE** | Objetivos de etapa, **competencias clave** + descriptores operativos, **perfil de salida**, **competencias específicas**, criterios de evaluación, **saberes básicos** (sentidos), **situaciones de aprendizaje**, orientaciones didácticas y metodológicas |
-
-### A.6. ¿Qué contenidos se eliminaron, trasladaron o reformularon?
-
-No todo lo que “ya no se explica como antes” está **eliminado**. Conviene clasificar: eliminado · trasladado de curso · solo en cierta modalidad · simplificado o reformulado (p. ej. regla de tres → proporcionalidad con sentido; Ruffini; conjuntos; cálculo mental vs. sentido numérico; cónicas; técnicas de integración).
-
-Análisis y tablas: **[Contenidos eliminados, trasladados y simplificados](../materiales/contenidos-eliminados-trasladados-evolucion-curricular.md)**.
 
 ---
 
@@ -362,3 +278,252 @@ Ver también: [DUA](../../procesos-y-contextos-educativos/materiales/dua-diseno-
 ---
 
 *Apunte actualizado integrando el Tema 3 de los apuntes DCI (evolución histórica LGE–LOMLOE, referentes Piaget / Brousseau / Freudenthal / Niss / NCTM / CEMAT y elementos curriculares LOMLOE).*
+
+
+---
+
+# Resumen visual · Tema 3 (complemento)
+
+
+**Asignatura:** Diseño curricular e instruccional de Matemáticas  
+**Bloques del programa:** 2 (cambios curriculares) + 3 (elementos LOMLOE)
+
+---
+
+## 1. Línea temporal de leyes y enfoques
+
+```mermaid
+timeline
+    title Evolución del currículo de Matemáticas en España
+    1970 : LGE
+         : Matemática moderna
+         : Formalismo · Conjuntos · Estructuras
+    1990 : LOGSE
+         : Constructivismo
+         : Saber hacer · Procedimientos · RP
+    2006 : LOE
+         : Competencias básicas
+         : PISA · KOM (Niss)
+    2013 : LOMCE
+         : Estándares de aprendizaje
+         : Evaluación atomizada
+    2020 : LOMLOE
+         : Competencias específicas
+         : Sentidos · Situaciones · DUA
+```
+
+| Ley | Enfoque dominante | Elementos clave | Problema / límite |
+|-----|-------------------|-----------------|-------------------|
+| **LGE** | Estructural / New Math | Objetivos operativos, conjuntos | Fracaso escolar, lejanía de la realidad |
+| **LOGSE** | Constructivista | Conceptos / procedimientos / actitudes | — |
+| **LOE** | Competencial (básicas) | 8 competencias básicas | Distancia competencia ↔ materia |
+| **LOMCE** | Competencial + estándares | Estándares evaluables | Atomización de la evaluación |
+| **LOMLOE** | Competencial + sentidos | CE, criterios, saberes, situaciones | Implementación (ámbitos, formación) |
+
+---
+
+## 2. Referentes que alimentan la LOMLOE
+
+```mermaid
+mindmap
+  root((LOMLOE<br/>Matemáticas))
+    Psicología y didáctica
+      Piaget
+        Estadios · Concreto→Formal
+      Brousseau
+        Situaciones didácticas
+        Devolución · Institucionalización
+      Freudenthal
+        Matemáticas como actividad
+        Matematización H + V
+      Niss / KOM
+        8 subcompetencias
+        Base de PISA
+    Institucionales
+      NCTM 2000
+        6 principios
+        Procesos: resolver · razonar · comunicar · conectar · representar
+      CEMAT 2021
+        Sentidos matemáticos
+        Grandes ideas
+        Pensamiento computacional
+    Marcos internacionales
+      PISA / OCDE
+      DUA
+```
+
+### Eco curricular de cada referente
+
+| Referente | Idea nuclear | Huella en LOMLOE |
+|-----------|--------------|------------------|
+| **Piaget** | Construcción activa, estadios | Ritmos, manipulación, respeto cognitivo |
+| **Brousseau** | Situación adidáctica + devolución | Situaciones de aprendizaje con sentido |
+| **Freudenthal** | Matematización horizontal y vertical | Contexto real ↔ abstracción; sentidos |
+| **Niss** | Competencia = usar matemáticas en contextos | Competencias específicas |
+| **NCTM** | Procesos matemáticos | Ejes de las CE (salvo socioafectivo) |
+| **CEMAT** | Sentidos + grandes ideas | Organización de saberes básicos |
+
+---
+
+## 3. Arquitectura curricular LOMLOE
+
+```mermaid
+flowchart TB
+  subgraph N1["NIVEL 1 · Finalidades de etapa"]
+    OBJ[Objetivos de etapa]
+  end
+
+  subgraph N2["NIVEL 2 · Perfil de salida"]
+    CK[Competencias clave]
+    DO[Descriptores operativos]
+    CK --> DO
+  end
+
+  subgraph N3["NIVEL 3 · Materia Matemáticas"]
+    CE[Competencias específicas<br/>5 ejes]
+    CR[Criterios de evaluación]
+    SB[Saberes básicos<br/>por sentidos]
+    OD[Orientaciones didácticas]
+    SA[Situaciones de aprendizaje]
+    CE --> CR
+    CE --> SB
+    CR --> SA
+    SB --> SA
+    OD -.-> SA
+  end
+
+  OBJ --> CK
+  DO --> CE
+```
+
+**Prescriptivo (norma estatal):** CE, criterios, saberes.  
+**Margen docente / currículo designado (CCAA + centro):** orientaciones, ejemplos de situaciones, secuenciación fina, materiales.
+
+---
+
+## 4. Los cinco ejes de las competencias específicas
+
+```mermaid
+flowchart LR
+  subgraph EJES["Competencias específicas · Matemáticas"]
+    direction TB
+    E1["① Resolución de problemas<br/>CE.M.1 · CE.M.2"]
+    E2["② Razonamiento y prueba<br/>CE.M.3 · CE.M.4<br/>(+ pensamiento computacional)"]
+    E3["③ Conexiones<br/>CE.M.5 intramatemáticas<br/>CE.M.6 con otras materias / realidad"]
+    E4["④ Comunicación y representación<br/>CE.M.7 · CE.M.8"]
+    E5["⑤ Socioafectivo<br/>CE.M.9 personales<br/>CE.M.10 sociales"]
+  end
+```
+
+> En Bachillerato el eje ⑤ se agrupa en una sola CE.
+
+**Novedad del socioafectivo:** no es solo “emociones positivas”. Incluye:
+- Gestión del error y la incertidumbre
+- Actitudes matemáticas (procesos, epistemología)
+- Trabajo en equipos heterogéneos e identidad positiva como estudiante de matemáticas
+
+---
+
+## 5. Saberes básicos organizados en sentidos
+
+```mermaid
+pie showData
+  title Sentidos matemáticos (organización de saberes)
+  “Numérico” : 18
+  “De la medida” : 14
+  “Espacial” : 16
+  “Algebraico” : 18
+  “Estocástico” : 16
+  “Socioafectivo” : 18
+```
+
+*Los pesos son orientativos para visualización; en el currículo no hay jerarquía numérica fija.*
+
+| Sentido | Ideas clave |
+|---------|-------------|
+| **Numérico** | Cantidad, operaciones, proporcionalidad, estimación |
+| **Medida** | Magnitud, medición, relaciones entre magnitudes |
+| **Espacial** | Figuras, localización, movimientos, visualización |
+| **Algebraico** | Patrones, variable, modelo, funciones, equivalencia |
+| **Estocástico** | Distribución, incertidumbre, inferencia |
+| **Socioafectivo** | Creencias, emociones, error, trabajo colaborativo |
+
+**Grandes ideas** (CEMAT): patrones, modelo, variable, relaciones y funciones, movimientos, distribución, incertidumbre, magnitud…
+
+---
+
+## 6. De la competencia a la tarea (cadena de diseño)
+
+```mermaid
+flowchart LR
+  CE[Competencia<br/>específica] --> CR[Criterio de<br/>evaluación]
+  CR --> SB[Saberes<br/>de 1–2 sentidos]
+  SB --> SA[Situación de<br/>aprendizaje]
+  SA --> EV[Evidencias<br/>de desempeño]
+```
+
+**Regla práctica:** una situación de aprendizaje rica moviliza **varios criterios** y **al menos dos sentidos**.
+
+---
+
+## 7. Preceptivo vs margen docente
+
+```mermaid
+quadrantChart
+    title Espacio de decisión del docente
+    x-axis Bajo control --> Alto control
+    y-axis Bajo impacto curricular --> Alto impacto curricular
+    quadrant-1 Diseñar con libertad
+    quadrant-2 Respetar y concretar
+    quadrant-3 Evitar
+    quadrant-4 Cuidar coherencia
+    Competencias específicas: [0.2, 0.9]
+    Criterios de evaluación: [0.25, 0.85]
+    Saberes del curso: [0.3, 0.75]
+    Secuenciación diaria: [0.85, 0.55]
+    Contextos y ejemplos: [0.9, 0.45]
+    Materiales y herramientas: [0.88, 0.4]
+    Agrupamientos: [0.8, 0.35]
+```
+
+| No se puede | Sí se puede |
+|-------------|-------------|
+| Vaciar un sentido entero | Decidir *cómo* trabajarlo |
+| Ignorar criterios de evaluación | Elegir instrumentos y evidencias |
+| Sustituir CE por “temario del libro” | Secuenciar y contextualizar |
+
+---
+
+## 8. Mapa mental de una sola página (síntesis extrema)
+
+```text
+                    LOMLOE Matemáticas
+                           │
+         ┌─────────────────┼─────────────────┐
+         │                 │                 │
+    EVOLUCIÓN         REFERENTES        ELEMENTOS
+    LGE→…→LOMLOE    Piaget·Brousseau    Perfil de salida
+    Formal →        Freudenthal·Niss    Competencias clave
+    Competencial    NCTM·CEMAT          Competencias específicas
+                                        Criterios
+                                        Saberes / sentidos
+                                        Situaciones de aprendizaje
+                           │
+                    DISEÑO DOCENTE
+                    CE → Criterio → Saberes → Situación → Evidencia
+```
+
+---
+
+## 9. Checklist rápido para programar
+
+- [ ] ¿Qué **competencia(s) específica(s)** trabajo?
+- [ ] ¿Qué **criterios** voy a evidenciar?
+- [ ] ¿Qué **saberes** de qué **sentidos** movilizo? (≥2 recomendable)
+- [ ] ¿La tarea es una **situación de aprendizaje** (abierta, contextualizada) o solo un ejercicio?
+- [ ] ¿Hay espacio para **comunicación, argumentación y error** (socioafectivo)?
+- [ ] ¿Qué es **preceptivo** y qué decido yo?
+
+---
+
+*Resumen visual del Tema 3 · Diseño curricular e instruccional de Matemáticas · Universidad de Zaragoza*

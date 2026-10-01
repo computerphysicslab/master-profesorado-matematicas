@@ -6,16 +6,17 @@ parent: Diseño curricular e instruccional de Matemáticas
 
 # Apuntes — Diseño curricular e instruccional de Matemáticas
 
-Organizados según el **programa de la asignatura** (nueve bloques).
+Organizados según el **programa de la asignatura** (nueve bloques).  
+Cada bloque está integrado en un único fichero `.md`.
 
 ## Programa ↔ apuntes
 
-| # | Bloque del programa | Apunte(s) |
-|---|---------------------|----------|
-| **1** | Finalidades educativas de la enseñanza de las Matemáticas | [02-finalidades-ensenanza-matematicas.md](02-finalidades-ensenanza-matematicas.md) · [01-matematicas-escolares-fines-curriculo-evolucion.md](01-matematicas-escolares-fines-curriculo-evolucion.md) |
-| **2** | Evolución curricular (LGE → LOGSE → LOE → LOMCE → LOMLOE) | [01-curriculo-educativo-y-normativa.md](01-curriculo-educativo-y-normativa.md) · evolución detallada en [03-elementos-curriculo-lomloe.md](03-elementos-curriculo-lomloe.md) (§ histórica) |
-| **3** | Currículo LOMLOE de Matemáticas (CE, criterios, saberes, orientaciones) | [03-elementos-curriculo-lomloe.md](03-elementos-curriculo-lomloe.md) · [RESUMEN-VISUAL-Tema3.md](RESUMEN-VISUAL-Tema3.md) |
-| **4** | Del diseño curricular a la programación didáctica | [04-programacion-didactica.md](04-programacion-didactica.md) · [10-evaluacion-en-la-programacion-didactica.md](10-evaluacion-en-la-programacion-didactica.md) |
+| # | Bloque del programa | Apunte |
+|---|---------------------|--------|
+| **1** | Finalidades educativas de la enseñanza de las Matemáticas | [01-finalidades-ensenanza-matematicas.md](01-finalidades-ensenanza-matematicas.md) |
+| **2** | Evolución curricular (LGE → LOGSE → LOE → LOMCE → LOMLOE) | [02-evolucion-curricular-y-normativa.md](02-evolucion-curricular-y-normativa.md) |
+| **3** | Currículo LOMLOE de Matemáticas (CE, criterios, saberes, orientaciones) | [03-elementos-curriculo-lomloe.md](03-elementos-curriculo-lomloe.md) |
+| **4** | Del diseño curricular a la programación didáctica | [04-programacion-didactica.md](04-programacion-didactica.md) |
 | **5** | Fundamentos epistemológicos y fenomenológicos | [05-fundamentos-epistemologicos-fenomenologicos.md](05-fundamentos-epistemologicos-fenomenologicos.md) |
 | **6** | Transposición didáctica | [06-transposicion-didactica.md](06-transposicion-didactica.md) |
 | **7** | Dificultades y obstáculos de aprendizaje | [07-dificultades-y-obstaculos.md](07-dificultades-y-obstaculos.md) |
@@ -39,3 +40,7 @@ Organizados según el **programa de la asignatura** (nueve bloques).
 ## README de la asignatura
 
 Ver [../README.md](../README.md).
+
+---
+
+**Nota de reorganización:** Los contenidos que antes estaban repartidos en varios ficheros por bloque se han integrado en un único `.md` por bloque, sin pérdida de información. El antiguo fichero de redirección `01-matematicas-escolares-fines-curriculo-evolucion.md` y el resumen visual independiente se han absorbido en los bloques correspondientes.
