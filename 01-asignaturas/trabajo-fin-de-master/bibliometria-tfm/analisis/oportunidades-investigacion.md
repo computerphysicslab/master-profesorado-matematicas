@@ -2,8 +2,8 @@
 
 ## Idea central
 
-El [Atlas de nichos](../../atlas-nichos/) responde: *¿dónde hay huecos temáticos?*
-Esta bibliometría responde: *¿qué formas de TFM llegan a trascender?*
+El [Atlas de nichos](../../atlas-nichos/) responde: *¿dónde hay huecos temáticos?*  
+Esta bibliometría responde: *¿qué formas de TFM llegan a trascender?*  
 La combinación útil es:
 
 ```text
@@ -24,17 +24,17 @@ baja saturación (atlas)  +  diseño investigable (bibliometría)  +  viabilidad
 
 ## Preguntas abiertas para la fase 2 del corpus
 
-1. ¿Qué proporción de TFM con paper tuvieron intervención experimental?
-2. ¿GeoGebra vs gamificación: cuál genera más publicaciones *por TFM publicado*?
-3. ¿Hay temas del atlas con ★★★★★ de hueco y cero papers derivados en el corpus ampliado?
+1. ¿Qué proporción de TFM con paper tuvieron intervención experimental?  
+2. ¿GeoGebra vs gamificación: cuál genera más publicaciones *por TFM publicado*?  
+3. ¿Hay temas del atlas con ★★★★★ de hueco y cero papers derivados en el corpus ampliado?  
 4. ¿Los TFM que publican citan investigación en Educación Matemática o solo normativa y blogs metodológicos?
 
 ## Uso práctico al elegir tema
 
-1. Abre el [ranking de intersecciones del atlas](../../atlas-nichos/04-coocurrencias-y-ranking-v09.md).
-2. Descarta saturación dura.
-3. Exige a tu idea el patrón de [características de TFM trascendentes](caracteristicas-tfm-trascendentes.md).
-4. Redacta un párrafo «si esto fuera un artículo, el título sería…».
+1. Abre el [ranking de intersecciones del atlas](../../atlas-nichos/04-coocurrencias-y-ranking-v09.md).  
+2. Descarta saturación dura.  
+3. Exige a tu idea el patrón de [características de TFM trascendentes](caracteristicas-tfm-trascendentes.md).  
+4. Redacta un párrafo «si esto fuera un artículo, el título sería…».  
 5. Si no puedes imaginar datos del Prácticum, reformula la pregunta.
 
 ## Relación con `ideas-interesantes/`

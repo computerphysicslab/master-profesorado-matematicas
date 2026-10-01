@@ -52,8 +52,8 @@ Un mismo TFM puede estar en varias líneas.
 
 Si el objetivo es un trabajo con vida posterior al máster, conviene planificar desde el inicio:
 
-1. Pregunta de investigación acotada.
-2. Marco teórico explícito (no solo «LOMLOE + motivación»).
-3. Intervención o recogida de datos viable en el Prácticum.
-4. Instrumento (rúbrica, cuestionario, análisis de producciones).
+1. Pregunta de investigación acotada.  
+2. Marco teórico explícito (no solo «LOMLOE + motivación»).  
+3. Intervención o recogida de datos viable en el Prácticum.  
+4. Instrumento (rúbrica, cuestionario, análisis de producciones).  
 5. Límites y preguntas abiertas (semilla de artículo o tesis).

@@ -69,4 +69,4 @@ fecha_verificacion, observaciones
 - ¿Qué proporción de TFM con publicación derivada tuvieron intervención experimental?
 - ¿Qué temas producen más artículos (GeoGebra, flipped, gamificación, estadística…)?
 - ¿Qué metodologías aparecen en los TFM que luego generan paper?
-- ¿Qué intersecciones tienen a la vez baja saturación (atlas) y alto potencial de publicación?
+- ¿Qué intersecciones tienen a la vez baja saturación (atlas) y alto potencial de publicación (bibliometría)?
