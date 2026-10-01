@@ -1,42 +1,40 @@
-# Oportunidades de investigación (cruce bibliometría × nichos)
+# Oportunidades de investigación (bibliometría × nichos)
 
-## Idea central
-
-El [Atlas de nichos](../../atlas-nichos/) responde: *¿dónde hay huecos temáticos?*  
-Esta bibliometría responde: *¿qué formas de TFM llegan a trascender?*  
-La combinación útil es:
+La bibliometría pregunta qué características presentan los TFM que pueden trascender; el atlas pregunta dónde hay huecos.
 
 ```text
-baja saturación (atlas)  +  diseño investigable (bibliometría)  +  viabilidad en el Prácticum
+baja saturación + diseño investigable + viabilidad en Prácticum + posible salida editorial
 ```
 
-## Líneas con fuerza en la preselección (cuidado con la saturación)
+## Señales nuevas del corpus v0.2
 
-| Línea | Trascendencia potencial | Riesgo según atlas |
-|-------|-------------------------|---------------------|
-| Flipped + contenido específico + datos | Alta si hay pretest/postest | Media (muchas propuestas sin datos) |
-| GeoGebra + evaluación / variable poco vista | Alta | Media–alta en geometría genérica |
-| Gamificación / Escape Room | Difusión social alta | **Alta saturación** sin variable nueva |
-| Estadística con proyectos y contextos | Media–alta | Menos saturada que funciones×secuencia clásica |
-| Programación (Scratch) + mates | Media | Nicho todavía abrible |
-| ABP / STEAM con evidencia | Media–alta | Depende del contenido matemático |
-| Investigación de aula (funciones, RP) | Alta como *modelo* | Elegir objeto no trillado |
+### IA generativa + Educación Matemática
 
-## Preguntas abiertas para la fase 2 del corpus
+Los registros 026 y 028 introducen una línea emergente: IA generativa + GeoGebra + geometría + pensamiento crítico + sesgo de automatización + «estudiante auditor». Son trabajos de 2026, por lo que todavía **no permiten hablar de impacto bibliométrico**; sí permiten registrar un nicho emergente.
 
-1. ¿Qué proporción de TFM con paper tuvieron intervención experimental?  
-2. ¿GeoGebra vs gamificación: cuál genera más publicaciones *por TFM publicado*?  
-3. ¿Hay temas del atlas con ★★★★★ de hueco y cero papers derivados en el corpus ampliado?  
-4. ¿Los TFM que publican citan investigación en Educación Matemática o solo normativa y blogs metodológicos?
+### Matemáticas + modelización + contexto auténtico
 
-## Uso práctico al elegir tema
+El registro 027 combina geometría analítica, arquitectura, modelización, ABP y GeoGebra. Es una combinación más informativa para el atlas que contar simplemente «TFM sobre GeoGebra».
 
-1. Abre el [ranking de intersecciones del atlas](../../atlas-nichos/04-coocurrencias-y-ranking-v09.md).  
-2. Descarta saturación dura.  
-3. Exige a tu idea el patrón de [características de TFM trascendentes](caracteristicas-tfm-trascendentes.md).  
-4. Redacta un párrafo «si esto fuera un artículo, el título sería…».  
-5. Si no puedes imaginar datos del Prácticum, reformula la pregunta.
+### Gamificación: de la presencia a la medición
 
-## Relación con `ideas-interesantes/`
+Los registros 021–023 permiten comparar tres enfoques: estadística + gamificación, razonamiento matemático + gamificación y gamificación + dimensión emocional. La pregunta interesante para la fase bibliométrica es qué trabajos miden realmente aprendizaje y cuáles se limitan a diseñar una propuesta.
 
-Las ideas de proyecto concreto viven en [ideas-interesantes](../../ideas-interesantes/). Esta carpeta no sustituye esas propuestas: aporta **criterios de impacto y publicabilidad** para filtrarlas.
+## Matriz de búsqueda futura
+
+| Línea | Señal actual | Pregunta |
+|---|---|---|
+| Gamificación | Alta presencia | ¿Qué variable de aprendizaje se mide además de motivación? |
+| GeoGebra | Alta presencia | ¿Qué usos producen evidencia y cuáles solo materiales? |
+| Estadística | Recurrente | ¿Qué contextos favorecen razonamiento estadístico? |
+| Scratch/programación | Menor presencia | ¿Puede conectarse con razonamiento matemático medible? |
+| Modelización | Menor que gamificación | ¿Qué competencias matemáticas son observables en tareas auténticas? |
+| IA generativa | Emergente | ¿Cómo cambia la validación matemática ante respuestas de IA? |
+| IA + GeoGebra | Emergente | ¿Puede GeoGebra mediar la verificación y no solo la representación? |
+| Pensamiento crítico + IA | Emergente | ¿Cómo se desarrolla el papel de «auditor» de una solución automática? |
+
+## Hipótesis de seguimiento
+
+> ¿Está apareciendo una transición desde «usar tecnología para enseñar matemáticas» hacia «enseñar a validar matemáticamente las respuestas producidas por tecnología/IA»?
+
+Los TFM de 2026 permiten formular esta hipótesis como **línea emergente**, no como conclusión.
