@@ -2,12 +2,12 @@
 
 Referencias organizadas en dos grandes bloques para distinguir claramente:
 
-1. **Bibliografía oficial de la asignatura** (guía docente UNIZAR).
+1. **Bibliografía oficial de la asignatura** (según guía docente del centro).
 2. **Fuentes docentes ampliadas** utilizadas en el material de la asignatura (apuntes, temas DCI, etc.).
 
 ---
 
-## 1. Bibliografía oficial (guía docente UNIZAR)
+## 1. Bibliografía oficial (guía docente)
 
 *(Se completará / verificará con la guía vigente de cada curso. Base habitual en la especialidad.)*
 

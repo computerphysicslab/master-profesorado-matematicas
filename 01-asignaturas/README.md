@@ -71,8 +71,7 @@ Estas materias constituyen parte de la formación psicopedagógica y contextual 
 | [Diseño de actividades para el aprendizaje de Matemáticas](diseno-de-actividades-para-el-aprendizaje-de-matematicas/) | Obligatoria | S2 |
 | [Innovación e investigación educativa en Matemáticas](innovacion-e-investigacion-educativa-en-matematicas/) | Obligatoria | S2 |
 
-Estas asignaturas constituyen el núcleo específico de la especialidad de Matemáticas.  
-*Nota: «Diseño curricular e instruccional de Matemáticas» (63223) es oficialmente **Optativa** según la guía docente de la Universidad de Zaragoza.*
+Estas asignaturas constituyen el núcleo específico de la especialidad de Matemáticas.
 
 ---
 

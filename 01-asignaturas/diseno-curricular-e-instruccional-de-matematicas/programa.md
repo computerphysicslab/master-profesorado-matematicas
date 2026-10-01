@@ -1,10 +1,9 @@
 # Programa — Diseño curricular e instruccional de Matemáticas
 
 **Tipo:** Optativa · Máster en Profesorado de Educación Secundaria (especialidad Matemáticas)  
-**Código:** 63223 · 6 ECTS · Primer semestre
+**6 ECTS** · Primer semestre
 
-> Propuesta de organización por bloques. No sustituye la guía docente oficial del centro donde se curse el máster.  
-> Guía oficial UNIZAR: *Clase de asignatura: Optativa*.
+> Propuesta de organización por bloques. No sustituye la guía docente oficial del centro donde se curse el máster.
 
 ## Hilo conductor de la asignatura
 

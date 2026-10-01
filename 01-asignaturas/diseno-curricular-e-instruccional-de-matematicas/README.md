@@ -8,9 +8,7 @@ nav_order: 1
 
 **Tipo:** Optativa  
 **Máster en Profesorado de Educación Secundaria** · Especialidad Matemáticas  
-**Código:** 63223 · 6 ECTS · Primer semestre
-
-> Guía docente oficial UNIZAR 2024/25: *Clase de asignatura: Optativa*.
+**6 ECTS** · Primer semestre
 
 ## Hilo conductor
 
