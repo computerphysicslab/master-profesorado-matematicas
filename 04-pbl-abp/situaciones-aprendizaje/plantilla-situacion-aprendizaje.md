@@ -56,6 +56,8 @@ Enumera 3–6 objetivos en infinitivo, observables.
 
 ## 4. Competencias específicas y criterios de evaluación
 
+Indica las **CE** del currículo de Matemáticas (ESO o Bachillerato) y los **criterios de evaluación** que se trabajan de forma prioritaria.
+
 | CE (código o enunciado breve) | Criterios de evaluación | Evidencia principal en esta SA |
 |-------------------------------|-------------------------|--------------------------------|
 | CE… | | |
@@ -66,6 +68,8 @@ Enumera 3–6 objetivos en infinitivo, observables.
 ---
 
 ## 5. Saberes básicos y sentidos matemáticos
+
+Marca los sentidos implicados y concreta saberes (redacción libre o códigos autonómicos).
 
 | Sentido | Saberes / contenidos | Prioridad (alta/media/baja) |
 |---------|----------------------|-----------------------------|
@@ -82,6 +86,8 @@ Enumera 3–6 objetivos en infinitivo, observables.
 
 ## 6. Secuencia de aprendizaje
 
+Describe la progresión sesión a sesión (o por fases). Incluye qué hace el **alumnado** y qué hace el **docente**.
+
 | Sesión | Fase | Actividad del alumnado | Rol docente | Agrupamiento |
 |--------|------|------------------------|-------------|--------------|
 | 1 | Activación / reto | | | |
@@ -97,26 +103,30 @@ Enumera 3–6 objetivos en infinitivo, observables.
 ## 7. Metodología y organización
 
 - **Enfoque:** indagación / modelización / ABP / aula invertida / juego serio / otro
-- **Agrupamientos:** individual, pareja, equipo
+- **Agrupamientos:** individual, pareja, equipo (tamaño y criterios de formación)
 - **Espacios:** aula, patio, aula de informática, salida…
-- **Materiales y recursos:** manipulativos, software, lecturas, datos
+- **Materiales y recursos:** manipulativos, software (GeoGebra, hojas de cálculo…), lecturas, datos
 
 ---
 
 ## 8. Evaluación
 
 ### 8.1. Evaluación formativa
-- Instrumentos y momentos de feedback
+- Instrumentos (diario de aprendizaje, listas de cotejo, preguntas clave, coevaluación…)
+- Momentos de feedback
 
 ### 8.2. Evaluación sumativa del producto
 - Criterios e indicadores (o enlace a rúbrica en `../rubricas/`)
 - Peso orientativo proceso / producto / metacognición
 
 ### 8.3. Autoevaluación y coevaluación
+- Breve descripción de cómo se incorporan
 
 ---
 
 ## 9. Atención a la diversidad y DUA
+
+Indica al menos **una medida por principio** (o justifica N/A):
 
 | Principio DUA | Medida concreta en esta SA |
 |---------------|----------------------------|
@@ -130,9 +140,11 @@ Enumera 3–6 objetivos en infinitivo, observables.
 
 ## 10. Dimensión socioafectiva
 
-- Actitudes o destrezas (perseverancia, gestión del error, cooperación…)
+Relaciona con CE9–CE10 / sentido socioafectivo:
+
+- Actitudes o destrezas trabajadas (perseverancia, gestión del error, cooperación, autoconcepto matemático…)
 - Situaciones de aula donde se observan
-- Cómo se evalúan o registran (CE9–CE10)
+- Cómo se evalúan o registran (si procede)
 
 ---
 
@@ -151,12 +163,13 @@ Enumera 3–6 objetivos en infinitivo, observables.
 
 ### Didáctica y recursos
 1. …
+2. …
 
 ### Materiales del repositorio (si aplica)
-- Enlaces a apuntes, otras SA…
+- Enlaces a apuntes, anexos socioafectivos, temarios, otras SA…
 
 ---
 
 ## 13. Anexo (opcional)
 
-Fichas de trabajo, datos, código, solución orientativa para el docente, etc.
+Fichas de trabajo, datos, código, capturas, solución orientativa para el docente, etc.
