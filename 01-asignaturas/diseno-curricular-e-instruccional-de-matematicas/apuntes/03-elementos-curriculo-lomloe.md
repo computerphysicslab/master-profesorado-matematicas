@@ -61,7 +61,7 @@ NIVEL 3 – Desarrollo curricular de la materia
 
 *Figura conceptual (basada en la Fig. 3.2 de los apuntes de la asignatura).*
 
-Algunos elementos son **prescriptivos** (competencias clave y específicas, criterios, saberes básicos) y proceden de la norma estatal; otros (orientaciones didácticas, ejemplos de situaciones de aprendizaje) se desarrollan en el currículo autonómico y forman parte del “currículo oficial designado” (Remillard & Heck, 2014).
+Algunos elementos son **prescriptivos** (competencias clave y específicas, criterios, saberes básicos) y proceden de la norma estatal; otros (orientaciones didácticas, ejemplos de situaciones de aprendizaje) se desarrollan en el currículo autonómico y forman parte del "currículo oficial designado" (Remillard & Heck, 2014).
 
 ---
 
@@ -121,7 +121,7 @@ Dos componentes claros:
 1. Gestión de emociones y su influencia en actitudes y creencias hacia las matemáticas.
 2. Destrezas sociales orientadas a la participación en igualdad y respeto.
 
-No se reduce a “emociones positivas”. Gómez-Chacón y Marbán (2019) advierten del riesgo de considerar positiva una actitud que ve las matemáticas solo como reglas a memorizar. Hay que atender también a las **actitudes matemáticas** (procesos, epistemología).
+No se reduce a "emociones positivas". Gómez-Chacón y Marbán (2019) advierten del riesgo de considerar positiva una actitud que ve las matemáticas solo como reglas a memorizar. Hay que atender también a las **actitudes matemáticas** (procesos, epistemología).
 
 Las situaciones de aprendizaje que vive el alumnado influyen directamente en sus creencias. Conviene reservar momentos de reflexión sobre cómo se afrontan las emociones (ansiedad, etc.) y potenciar la interacción en condiciones de igualdad.
 
@@ -139,7 +139,7 @@ Son los **referentes que indican los niveles de desempeño esperados** en las si
 
 ## Parte G · Saberes básicos y sentidos matemáticos
 
-Los saberes básicos son los **conocimientos, destrezas y actitudes** que se movilizan para el desarrollo de las competencias específicas. No constituyen un “temario a dar” lineal.
+Los saberes básicos son los **conocimientos, destrezas y actitudes** que se movilizan para el desarrollo de las competencias específicas. No constituyen un "temario a dar" lineal.
 
 ### Sentidos matemáticos (organización LOMLOE / CEMAT)
 
@@ -228,13 +228,13 @@ Ver también: [DUA](../../procesos-y-contextos-educativos/materiales/dua-diseno-
 
 ## Dudas frecuentes
 
-1. ¿Saberes = temario a “dar” entero? → No: se movilizan para **competencias**.  
+1. ¿Saberes = temario a "dar" entero? → No: se movilizan para **competencias**.  
 2. ¿Solo examen algorítmico? → Insuficiente para muchos criterios.  
 3. ¿Socioafectivo = test de personalidad? → No: conductas de aprendizaje observables y actitudes matemáticas.  
 4. ¿Misma competencia en todas las CCAA? → Base estatal común; criterios y saberes se concretan en la autonomía.  
 5. ¿A vs B en 4.º? → Mismo marco competencial, distinto énfasis y saberes.  
-6. ¿GeoGebra “quita” mates? → No si el criterio exige interpretación, estrategia y argumentación.  
-7. ¿Han “eliminado” la regla de tres o el cálculo mental? → Ver [material de evolución de contenidos](../materiales/contenidos-eliminados-trasladados-evolucion-curricular.md).
+6. ¿GeoGebra "quita" mates? → No si el criterio exige interpretación, estrategia y argumentación.  
+7. ¿Han "eliminado" la regla de tres o el cálculo mental? → Ver [material de evolución de contenidos](../materiales/contenidos-eliminados-trasladados-evolucion-curricular.md).
 
 ---
 
@@ -417,7 +417,7 @@ flowchart LR
 
 > En Bachillerato el eje ⑤ se agrupa en una sola CE.
 
-**Novedad del socioafectivo:** no es solo “emociones positivas”. Incluye:
+**Novedad del socioafectivo:** no es solo "emociones positivas". Incluye:
 - Gestión del error y la incertidumbre
 - Actitudes matemáticas (procesos, epistemología)
 - Trabajo en equipos heterogéneos e identidad positiva como estudiante de matemáticas
@@ -429,12 +429,12 @@ flowchart LR
 ```mermaid
 pie showData
   title Sentidos matemáticos (organización de saberes)
-  “Numérico” : 18
-  “De la medida” : 14
-  “Espacial” : 16
-  “Algebraico” : 18
-  “Estocástico” : 16
-  “Socioafectivo” : 18
+  "Numérico" : 18
+  "De la medida" : 14
+  "Espacial" : 16
+  "Algebraico" : 18
+  "Estocástico" : 16
+  "Socioafectivo" : 18
 ```
 
 *Los pesos son orientativos para visualización; en el currículo no hay jerarquía numérica fija.*
@@ -490,7 +490,7 @@ quadrantChart
 |-------------|-------------|
 | Vaciar un sentido entero | Decidir *cómo* trabajarlo |
 | Ignorar criterios de evaluación | Elegir instrumentos y evidencias |
-| Sustituir CE por “temario del libro” | Secuenciar y contextualizar |
+| Sustituir CE por "temario del libro" | Secuenciar y contextualizar |
 
 ---
 
