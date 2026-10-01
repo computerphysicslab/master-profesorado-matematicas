@@ -23,8 +23,11 @@ Las ideas se incorporan cuando aparece una combinación especialmente interesant
 
 ## Relación con otras secciones
 
-- [Atlas de nichos](../atlas-nichos/): identifica áreas, intersecciones y nichos potencialmente interesantes.
-- [Ejemplos de TFM](../ejemplos-tfm/): reúne trabajos que sirven como referencia de estructura y alcance.
-- [Análisis de temáticas](../ANALISIS-TEMATICAS.md): proporciona una visión general de áreas más o menos exploradas.
+| Sección | Pregunta |
+|---------|----------|
+| [Atlas de nichos](../atlas-nichos/) | ¿Dónde hay huecos temáticos? |
+| [Bibliometría de TFM](../bibliometria-tfm/) | ¿Qué TFM han trascendido y con qué diseño? |
+| [Ejemplos de TFM](../ejemplos-tfm/) | ¿Cómo se estructuran trabajos reales? |
+| [Análisis de temáticas](../ANALISIS-TEMATICAS.md) | Visión general de saturación |
 
-La carpeta `ideas-interesantes/` funciona como puente entre la **detección de un nicho** y la **formulación de una propuesta concreta de TFM**.
+La carpeta `ideas-interesantes/` funciona como puente entre la **detección de un nicho**, la **lectura de impacto** y la **formulación de una propuesta concreta de TFM**.

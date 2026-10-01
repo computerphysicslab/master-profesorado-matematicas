@@ -2,7 +2,7 @@
 
 Documento orientativo para **elegir tema** y para situar los [ejemplos de TFM](ejemplos-tfm/) del repositorio. No es un metaanálisis exhaustivo de todos los másteres españoles: sintetiza tendencias documentadas en la producción de TFM y en repositorios institucionales, y las contrasta con lo que **ya cubre** este repo.
 
-> Complementa: [guía de elección de tema](ejemplos-tfm/guia-eleccion-tema-tfm.md) · [bibliografía de la asignatura](bibliografia.md)
+> Complementa: [guía de elección de tema](ejemplos-tfm/guia-eleccion-tema-tfm.md) · [bibliografía](bibliografia.md) · [atlas de nichos](atlas-nichos/) · [bibliometría](bibliometria-tfm/)
 
 ---
 
@@ -10,13 +10,13 @@ Documento orientativo para **elegir tema** y para situar los [ejemplos de TFM](e
 
 | Área temática | Contexto |
 |---------------|----------|
-| **Aprendizaje basado en juegos (ABJ) y gamificación** | Muy frecuente en innovaciones de aula (escape rooms, puntos, niveles, retos). En algunos recuentos de TFM de la especialidad aparece como una de las metodologías más repetidas. |
+| **Aprendizaje basado en juegos (ABJ) y gamificación** | Muy frecuente (escape rooms, puntos, niveles, retos). |
 | **Metodologías activas** (aula invertida, cooperativo, ABP) | Combinaciones de flipped + cooperativo + TIC sobre álgebra, funciones o estadística. |
-| **Integración de TIC** | GeoGebra, Desmos, hojas de cálculo, calculadoras; más recientemente **IA generativa** aplicada a geometría o resolución de problemas. |
-| **Diseño / mejora de programaciones y unidades didácticas** | Gran parte de los TFM se articulan como programación completa o mejora de una UD concreta de ESO/Bachillerato. |
-| **Tecnologías emergentes** (impresión 3D, realidad aumentada) | En auge, aunque menos masivas que la gamificación «clásica» o el ABP. |
+| **Integración de TIC** | GeoGebra, Desmos, hojas de cálculo; más recientemente **IA generativa**. |
+| **Diseño / mejora de programaciones y unidades didácticas** | Gran parte de los TFM se articulan como programación completa o mejora de una UD. |
+| **Tecnologías emergentes** (impresión 3D, realidad aumentada) | En auge, aunque menos masivas que la gamificación o el ABP. |
 
-**En este repo (ejemplos actuales):** gamificación (figuras planas), metodologías activas (ecuaciones), impresión 3D, impacto TIC, Pólya + ODS, atención a la diversidad (UD álgebra), programación «Tortuga matemática», ecuaciones algebraicas, aprender a aprender.
+**En este repo (`ejemplos-tfm/`):** gamificación, metodologías activas, impresión 3D, impacto TIC, Pólya + ODS, atención a la diversidad, programación «Tortuga matemática», ecuaciones, aprender a aprender, Desmos + videojuegos, interdisciplinar con Dibujo Técnico.
 
 ---
 
@@ -24,56 +24,53 @@ Documento orientativo para **elegir tema** y para situar los [ejemplos de TFM](e
 
 | Área temática | Por qué interesa |
 |---------------|------------------|
-| **Videojuegos y cognición espacial** | La investigación general sí relaciona videojuegos de acción/puzles (p. ej. tipo Tetris) con habilidades espaciales. En TFM del máster de Matemáticas ESO/Bach. que tomen la **cognición espacial como variable dependiente** los ejemplos en abierto son escasos o indirectos. **Nicho prometedor** para propuestas originales. |
-| **Atención a la diversidad con evidencia de aula** | Hay TFM de inclusión, pero menos que de ABJ/TIC. Faltan análisis sistemáticos de barreras, DUA y medidas concretas en Matemáticas. |
-| **Heurísticas de resolución de problemas con contexto real** | Hay buenos ejemplos (p. ej. Pólya + ODS), pero no es tan masivo como la gamificación. |
-| **Interdisciplinariedad** (p. ej. Matemáticas ↔ Dibujo Técnico) | Pocos TFM con datos de correlación entre materias o propuestas de coordinación real. |
-| **Estadística con ciclo investigativo** (PPDAC y análogos) | Menos saturado que el álgebra gamificado; útil para el sentido estocástico LOMLOE. |
-| **Alto rendimiento / enriquecimiento** | En línea con el debate [inclusión–excelencia](../diseno-curricular-e-instruccional-de-matematicas/materiales/curriculo-lomloe/inclusion-excelencia-diversidad-matematica-lomloe.md): refuerzo es frecuente; **enriquecimiento** aparece menos. |
+| **Videojuegos y cognición espacial** | Pocas propuestas con la **cognición espacial como variable dependiente**. |
+| **Atención a la diversidad / DUA con evidencia de aula** | Hay inclusión, pero menos análisis sistemáticos de barreras y evidencias. |
+| **Heurísticas de resolución de problemas con contexto real** | Menos masivo que la gamificación. |
+| **Interdisciplinariedad con datos** | Pocos TFM con correlación entre materias o coordinación real. |
+| **Estadística con ciclo investigativo** (PPDAC) | Menos saturado que el álgebra gamificado. |
+| **Alto rendimiento / enriquecimiento** | Refuerzo es frecuente; **enriquecimiento** aparece menos. |
+| **IA generativa + pensamiento crítico / evaluación del aprendizaje** | Oleada 2025–2026; conviene no repetir solo «uso de ChatGPT» sin variable. |
+| **Aprendizaje-servicio en Matemáticas** | Poco frecuente respecto a ABP genérico. |
 
 ---
 
 ## 3. Mapa rápido: repo vs. saturación
 
-| Temática | Saturación relativa en la producción general | Cobertura en `ejemplos-tfm/` |
-|----------|-----------------------------------------------|------------------------------|
-| Gamificación / ABJ | Alta | Sí (figuras planas; escape room) |
-| Flipped + cooperativo | Alta | Sí (ecuaciones 3.º ESO) |
-| TIC (GeoGebra, Desmos) | Alta | Sí (impacto TIC; Desmos + lúdico) |
-| Impresión 3D | Media–alta (emergente) | Sí |
+| Temática | Saturación relativa | Cobertura en `ejemplos-tfm/` |
+|----------|---------------------|------------------------------|
+| Gamificación / ABJ | Alta | Sí |
+| Flipped + cooperativo | Alta | Sí |
+| TIC (GeoGebra, Desmos) | Alta | Sí |
+| Impresión 3D | Media–alta | Sí |
 | Método de Pólya / RP | Media | Sí |
-| Atención a la diversidad | Media–baja | Sí (mejora UD álgebra) |
-| Escape room | Alta dentro de ABJ | Sí (2.º ESO) |
-| Interdisciplinar (Dibujo Técnico) | Baja | Sí (nuevo) |
-| Cognición espacial + videojuegos | **Muy baja** (nicho) | Parcial (Desmos + videojuegos; no VD espacial pura) |
-| Estadística / PPDAC | Media–baja | Pendiente de ampliar |
+| Atención a la diversidad | Media–baja | Sí |
+| Interdisciplinar | Baja | Sí (Dibujo Técnico) |
+| Cognición espacial + videojuegos | **Muy baja** | Parcial |
+| Estadística / PPDAC | Media–baja | Ampliar |
 | Altas capacidades / excelencia | Baja | Pendiente |
+| IA + evaluación del aprendizaje real | Baja–media (emergente) | Ver idea 01 |
 
 ---
 
 ## 4. Recomendaciones para elegir tema
 
-1. **Si buscas originalidad:** cognición espacial con videojuegos o entornos 3D; enriquecimiento para alto rendimiento; estadística con ciclo PPDAC y datos reales del centro; interdisciplinariedad con datos.
-2. **Si buscas modelos consolidados:** ABJ, flipped + cooperativo, GeoGebra/Desmos, mejora de una UD con LOMLOE.
-3. **Siempre:** anclar en el currículo autonómico, definir indicadores observables y **no** copiar texto de TFM previos (solo estructura y alcance).
-4. Leer la [guía de elección de tema](ejemplos-tfm/guia-eleccion-tema-tfm.md) antes de cerrar el título.
+1. **Originalidad:** cognición espacial; enriquecimiento; estadística PPDAC; interdisciplinariedad con datos; IA + medida de aprendizaje *sin* asistencia.
+2. **Modelos consolidados:** ABJ, flipped + cooperativo, GeoGebra/Desmos, mejora de UD LOMLOE.
+3. **Siempre:** currículo autonómico, indicadores observables, no plagiar TFM previos.
+4. Cruzar [atlas-nichos](atlas-nichos/) (huecos) con [bibliometria-tfm](bibliometria-tfm/) (diseños que trascienden).
+5. Leer la [guía de elección de tema](ejemplos-tfm/guia-eleccion-tema-tfm.md).
 
 ---
 
 ## 5. Nota metodológica
 
-Las cifras absolutas de «N TFM por metodología» varían según la muestra (universidad, años, criterios de codificación). Úsalas como **brújula de saturación**, no como ranking oficial. Para un TFM de *Innovación e investigación* se puede convertir esto en hipótesis de análisis de contenido (conteo de palabras clave en repositorios).
+Las cifras de saturación son **brújula**, no ranking oficial. Complementar con el corpus del atlas y el de bibliometría.
 
 ---
 
 ## 6. Cómo ampliar este análisis
 
-- Añadir filas cuando se incorporen nuevos ejemplos a `ejemplos-tfm/`.
-- Contrastar con actas SEIEM o repositorios autonómicos del último curso.
-- Cruzar con el debate curricular de [inclusión y excelencia](../diseno-curricular-e-instruccional-de-matematicas/materiales/curriculo-lomloe/inclusion-excelencia-diversidad-matematica-lomloe.md).
-
----
-
-## Atlas de nichos (proyecto en curso)
-
-Para un tratamiento más sistemático (corpus, intersecciones, preguntas investigables y hoja de ruta a coocurrencias), ver el **[Atlas de Nichos TFM](atlas-nichos/)**.
+- Añadir filas cuando se incorporen ejemplos a `ejemplos-tfm/`.
+- Contrastar con actas SEIEM y repositorios del último curso.
+- Actualizar tras cada ampliación de [bibliometria-tfm/corpus](bibliometria-tfm/corpus/).
