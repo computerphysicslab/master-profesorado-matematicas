@@ -5,8 +5,7 @@ Mapa de saturación de Trabajos Fin de Máster de Educación Matemática (acceso
 ## Estado actual (v0.10 — 2026-09-30)
 
 - **Corpus:** 89 TFM codificados
-- **Zaguán (Unizar):** 44 entradas
-- **Nuevas fuentes v0.10:** UPNA (6), UJI (5), UCM, UDIMA, UPV, UNIR, UAH + 4 internacionales (DGBL, GenAI algebra game, AR+GeoGebra, Nepal GeoGebra)
+- **Fuentes principales:** repositorios universitarios en abierto (incl. Zaragoza, UPNA, UJI, UCM, UDIMA, UPV, UNIR, UAH) + entradas internacionales
 - **Capa doctoral:** [tesis-doctorales/](tesis-doctorales/) — 11 fichas (España + Canadá, Rumanía, EE. UU., Italia, Sudáfrica)
 - **Documento principal de ranking:** [04-coocurrencias-y-ranking-v09.md](04-coocurrencias-y-ranking-v09.md)
 
@@ -15,6 +14,25 @@ Mapa de saturación de Trabajos Fin de Máster de Educación Matemática (acceso
 1. Leer el ranking de intersecciones prioritarias (huecos ★★★★★).
 2. Consultar el CSV de corpus y, si el nicho está tocado a nivel doctoral, la ficha en `tesis-doctorales/`.
 3. Evitar zonas saturadas (funciones × secuencia_didáctica clásica; geometría+gamificación+flipped sin variable nueva).
+4. Cruzar con la **bibliometría** (siguiente sección) si ambicionas publicación posterior.
+
+## Impacto de los TFM
+
+El atlas de nichos describe la **densidad temática** del corpus.
+
+Para estudiar qué características tienen los trabajos que han trascendido el ámbito del TFM —por ejemplo mediante publicaciones científicas, comunicaciones, citas o continuidad investigadora— consultar:
+
+→ **[Bibliometría de TFM](../bibliometria-tfm/)**
+
+Resumen de la división de trabajo:
+
+| Recurso | Pregunta |
+|---------|----------|
+| `atlas-nichos/` | Saturación temática |
+| `bibliometria-tfm/` | Trascendencia académica |
+| `ideas-interesantes/` | Proyectos concretos |
+
+La combinación permite buscar temas **poco saturados**, **investigables** y con **potencial de resultados publicables**.
 
 ## Estructura
 
