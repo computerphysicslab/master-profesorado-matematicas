@@ -6,8 +6,7 @@ parent: Diseño curricular e instruccional de Matemáticas
 
 # Apuntes — Diseño curricular e instruccional de Matemáticas
 
-Organizados según el **programa de la asignatura** (nueve bloques).  
-Cada bloque está integrado en un único fichero `.md`.
+Organizados según el **programa de la asignatura** (nueve bloques).
 
 ## Programa ↔ apuntes
 
@@ -40,7 +39,3 @@ Cada bloque está integrado en un único fichero `.md`.
 ## README de la asignatura
 
 Ver [../README.md](../README.md).
-
----
-
-**Nota de reorganización:** Los contenidos que antes estaban repartidos en varios ficheros por bloque se han integrado en un único `.md` por bloque, sin pérdida de información. El antiguo fichero de redirección `01-matematicas-escolares-fines-curriculo-evolucion.md` y el resumen visual independiente se han absorbido en los bloques correspondientes.
