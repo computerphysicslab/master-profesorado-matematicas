@@ -8,63 +8,59 @@ permalink: /04-pbl-abp/situaciones-aprendizaje/
 
 # Situaciones de aprendizaje (Matemáticas)
 
-Colección de **situaciones de aprendizaje (SA)** listas para adaptar al contexto de centro y al decreto autonómico. Cada ficha sigue la [plantilla](plantilla-situacion-aprendizaje.md) del repositorio (metadatos, reto, CE, saberes, secuencia, DUA, socioafectivo, evaluación).
+Colección de **situaciones de aprendizaje (SA)** organizadas según el **programa de Diseño curricular e instruccional de Matemáticas**. Cada ficha sigue la [plantilla](04-programacion-didactica/plantilla-situacion-aprendizaje.md).
 
-## Checklist rápido (antes de dar por cerrada una SA)
+## Estructura = bloques del programa
+
+| # | Bloque del programa | Carpeta | Contenido principal |
+|---|---------------------|---------|---------------------|
+| 1 | Finalidades educativas de la enseñanza de las Matemáticas | [01-finalidades-educativas/](01-finalidades-educativas/) | Lecturas y SA que concretan finalidades |
+| 2 | Evolución curricular (LGE → LOMLOE) | [02-evolucion-curricular/](02-evolucion-curricular/) | Marco: SA en clave LOMLOE |
+| 3 | Currículo LOMLOE (CE, criterios, saberes, orientaciones) | [03-curriculo-lomloe/](03-curriculo-lomloe/) | Mapa de SA ↔ elementos LOMLOE |
+| 4 | Del diseño curricular a la programación didáctica | [04-programacion-didactica/](04-programacion-didactica/) | **Plantilla SA** + ejemplos |
+| 5 | Fundamentos epistemológicos y fenomenológicos | [05-fundamentos-epistemologicos/](05-fundamentos-epistemologicos/) | Kepler III |
+| 6 | Transposición didáctica | [06-transposicion-didactica/](06-transposicion-didactica/) | Eratóstenes, exoplanetas |
+| 7 | Dificultades y obstáculos de aprendizaje | [07-dificultades-obstaculos/](07-dificultades-obstaculos/) | Cumpleaños, independencia/Drake |
+| 8 | Resolución de problemas y aceptación de la tarea | [08-resolucion-problemas/](08-resolucion-problemas/) | Ajedrez, folio→Luna |
+| 9 | Génesis escolar (cuestiones generatrices, tareas) | [09-genesis-escolar/](09-genesis-escolar/) | Enlaces a tareas generatrices |
+
+> Una misma SA puede ilustrar **varios** bloques: la carpeta indica la **ubicación principal**; los README de cada bloque listan también relaciones cruzadas.
+
+## Catálogo completo (acceso directo)
+
+| SA | Nivel | Ubicación principal | Duración |
+|----|-------|---------------------|----------|
+| [Plantilla SA](04-programacion-didactica/plantilla-situacion-aprendizaje.md) | — | 04 Programación | — |
+| [Ajedrez / grafos](08-resolucion-problemas/ajedrez-y-matematicas.md) | 4.º ESO / 1.º Bach | 08 Resolución de problemas | 7 ses. |
+| [Eratóstenes](06-transposicion-didactica/sa-eratostenes-3eso.md) | 3.º–4.º ESO | 06 Transposición | 6 ses. |
+| [Kepler III](05-fundamentos-epistemologicos/sa-kepler-ley-planetas-4eso.md) | 4.º ESO / 1.º Bach | 05 Epistemología | 6 ses. |
+| [Exoplanetas (tránsito)](06-transposicion-didactica/sa-exoplanetas-transito-4eso.md) | 4.º ESO / 1.º Bach | 06 Transposición | 6 ses. |
+| [Paradoja del cumpleaños](07-dificultades-obstaculos/sa-paradoja-cumpleanos-3eso.md) | 3.º–4.º ESO | 07 Obstáculos | 5 ses. |
+| [Folio → Luna](08-resolucion-problemas/sa-papel-luna-exponencial-2eso.md) | 2.º–3.º ESO | 08 Resolución de problemas | 4 ses. |
+| [Independencia y Drake](07-dificultades-obstaculos/sa-independencia-drake-4eso.md) | 4.º ESO / 1.º Bach | 07 Obstáculos | 7 ses. |
+
+## Checklist rápido
 
 - [ ] Pregunta guía / reto explícito
 - [ ] Producto final definido
-- [ ] CE y criterios explícitos (códigos o redacción del RD / decreto autonómico)
-- [ ] Saberes básicos / sentidos identificados
-- [ ] Secuencia de sesiones (qué hace el alumnado en cada una)
-- [ ] Producto final y evidencias de aprendizaje
-- [ ] Evaluación (formativa + sumativa; rúbrica o indicadores)
-- [ ] Atención a la diversidad / DUA (mínimo 2–3 vías de acceso o expresión)
-- [ ] Dimensión socioafectiva (al menos un objetivo o evidencia)
-- [ ] Recursos listados (manipulativos, digitales, espacios)
-- [ ] Referencias (normativa + 1–3 fuentes didácticas)
+- [ ] CE y criterios explícitos
+- [ ] Saberes / sentidos identificados
+- [ ] Secuencia de sesiones
+- [ ] Evaluación formativa + sumativa
+- [ ] DUA (2–3 vías)
+- [ ] Dimensión socioafectiva (CE9–CE10)
+- [ ] Referencias
 
-## Catálogo
+## Normativa
 
-| SA | Nivel | Sentidos principales | Duración | Estado |
-|----|-------|----------------------|----------|--------|
-| [Matemáticas sobre 64 casillas (ajedrez y grafos)](ajedrez-y-matematicas.md) | 4.º ESO / 1.º Bach | Espacial, algorítmico, algebraico, socioafectivo | 7 sesiones | **Completa v1.0** |
-| [¿Cuánto mide realmente la Tierra? (Eratóstenes)](sa-eratostenes-3eso.md) | 3.º–4.º ESO | Medida, espacial, numérico, socioafectivo | 6 sesiones | **Completa v1.0** |
-| [Los planetas guardan un secreto (Kepler III)](sa-kepler-ley-planetas-4eso.md) | 4.º ESO / 1.º Bach | Algebraico, numérico, modelización · **astronomía** | 6 sesiones | **Completa v1.0** |
-| [Cazadores de exoplanetas (tránsito)](sa-exoplanetas-transito-4eso.md) | 4.º ESO / 1.º Bach | Espacial, algebraico, medida · **astronomía** | 6 sesiones | **Completa v1.0** |
-| [¿Cuántas personas para compartir cumpleaños?](sa-paradoja-cumpleanos-3eso.md) | 3.º–4.º ESO | Estocástico, numérico, socioafectivo | 5 sesiones | **Completa v1.0** |
-| [¿Puede un folio llegar a la Luna?](sa-papel-luna-exponencial-2eso.md) | 2.º–3.º ESO | Numérico, algebraico, medida · **astronomía ligera** | 4 sesiones | **Completa v1.0** |
-| [Lotería, independencia y Drake](sa-independencia-drake-4eso.md) | 4.º ESO / 1.º Bach | Estocástico, numérico, modelización · **astronomía / SETI** | 7 sesiones | **Completa v1.0** |
-
-> **Hilo conductor:** varias SA buscan un *momento de sorpresa cognitiva* (el dato que nadie intuye) y lo convierten en modelización matemática.
-
-> **Hilo estocástico:** cumpleaños · independencia/Drake — contraste intuición vs modelo y sensibilidad de un producto de factores.
-
-> **Próximas candidatas:** tarifas de datos / modelización lineal a trozos; PPDAC con datos del centro; anamorfosis y proporcionalidad; logaritmos y decibelios.
-
-## Plantilla
-
-Usa **[plantilla-situacion-aprendizaje.md](plantilla-situacion-aprendizaje.md)** como base obligatoria para nuevas fichas. Mantén los encabezados; rellena o marca «N/A» lo que no aplique.
-
-## Normativa de referencia
-
-- [Real Decreto 217/2022](https://www.boe.es/buscar/act.php?id=BOE-A-2022-4975) (ESO, enseñanzas mínimas)
-- [Real Decreto 243/2022](https://www.boe.es/buscar/act.php?id=BOE-A-2022-5521) (Bachillerato, enseñanzas mínimas)
-- Decretos autonómicos de currículo (ver materiales de diseño curricular del repo)
-
-## Relación con otras partes del máster
-
-| Recurso del repo | Uso con SA |
-|------------------|------------|
-| Diseño curricular / temarios | Ajustar saberes y criterios al curso concreto |
-| Educación emocional / socioafectivo | Explicitar CE9–CE10 y gestión del error |
-| DUA / atención a la diversidad | Vías de acceso, representación y acción |
-| Rúbricas (`../rubricas/`) | Evaluación del producto y del proceso |
-| Atlas de nichos TFM | Una SA bien documentada puede ser germen de TFM |
+- [RD 217/2022](https://www.boe.es/buscar/act.php?id=BOE-A-2022-4975) · [RD 243/2022](https://www.boe.es/buscar/act.php?id=BOE-A-2022-5521)
 
 ## Cómo contribuir
 
-1. Copia la plantilla → `sa-<tema-corto>-<nivel>.md` (ej. `sa-ppdac-4eso.md`).
-2. Completa el checklist.
-3. Añade una fila a la tabla del catálogo en este README.
-4. Enlaza desde [`../INDICE.md`](../INDICE.md) si se actualiza el índice global de PBL/ABP.
+1. Copia la [plantilla](04-programacion-didactica/plantilla-situacion-aprendizaje.md) → `sa-<tema>-<nivel>.md` **dentro del bloque** del programa más adecuado.
+2. Añade la fila al catálogo de este README y un enlace en el README del bloque.
+3. Si la SA ilustra otros bloques, menciónala en sus README (sin duplicar el archivo).
+
+## Compatibilidad
+
+Los nombres de archivo en la **raíz** de esta carpeta son **redirecciones** a la nueva ubicación (para no romper enlaces antiguos).
