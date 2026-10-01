@@ -12,7 +12,7 @@ Estructuración temática de las asignaturas del departamento de Matemáticas pa
 | **Estatal ESO** | [RD 217/2022](https://www.boe.es/buscar/act.php?id=BOE-A-2022-4975), de 29 de marzo |
 | **Estatal Bachillerato** | [RD 243/2022](https://www.boe.es/buscar/act.php?id=BOE-A-2022-5521), de 5 de abril |
 | **Aragón ESO** | [Orden ECD/1172/2022](https://educa.aragon.es/-/normativa-eso), de 2 de agosto (modificada por [Orden ECD/867/2024](https://educa.aragon.es/-/normativa-eso), de 25 de julio) |
-| **Aragón Bachillerato** | [Orden ECD/1173/2022](https://educa.aragon.es/-/norma-bachillerato), de 3 de agosto (modificada por [Orden ECD/739/2025](https://educa.aragon.es/-/norma-bachillerato), de 24 de junio) |
+| **Aragón Bachillerato** | [Orden ECD/1173/2022](https://educa.aragon.es/-/norma-bachillerato), de 3 de agosto (modificada por [Orden ECD/886/2024](https://educa.aragon.es/-/norma-bachillerato) y por [Orden ECD/739/2025](https://educa.aragon.es/-/norma-bachillerato), de 24 de junio) |
 
 *Verificado en Educaragon / BOA (septiembre 2026).*
 
@@ -39,6 +39,12 @@ Estructuración temática de las asignaturas del departamento de Matemáticas pa
 |-------|--------|
 | Mat. Aplicadas a las CCSS I (1.º) | [08_matematicas_aplicadas_ccss_i_1_bachillerato.md](./08_matematicas_aplicadas_ccss_i_1_bachillerato.md) |
 | Mat. Aplicadas a las CCSS II (2.º) | [09_matematicas_aplicadas_ccss_ii_2_bachillerato.md](./09_matematicas_aplicadas_ccss_ii_2_bachillerato.md) |
+
+## Bachillerato — General / opción generalista
+
+| Curso | Ficha |
+|-------|--------|
+| **Matemáticas Generales (1.º)** | [10_matematicas_generales_1_bachillerato.md](./10_matematicas_generales_1_bachillerato.md) |
 
 ## Plantilla de programación didáctica (Aragón)
 
