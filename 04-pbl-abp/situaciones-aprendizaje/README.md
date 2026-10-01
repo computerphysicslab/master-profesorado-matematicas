@@ -34,8 +34,11 @@ Colección de **situaciones de aprendizaje (SA)** listas para adaptar al context
 | [Cazadores de exoplanetas (tránsito)](sa-exoplanetas-transito-4eso.md) | 4.º ESO / 1.º Bach | Espacial, algebraico, medida · **astronomía** | 6 sesiones | **Completa v1.0** |
 | [¿Cuántas personas para compartir cumpleaños?](sa-paradoja-cumpleanos-3eso.md) | 3.º–4.º ESO | Estocástico, numérico, socioafectivo | 5 sesiones | **Completa v1.0** |
 | [¿Puede un folio llegar a la Luna?](sa-papel-luna-exponencial-2eso.md) | 2.º–3.º ESO | Numérico, algebraico, medida · **astronomía ligera** | 4 sesiones | **Completa v1.0** |
+| [Lotería, independencia y Drake](sa-independencia-drake-4eso.md) | 4.º ESO / 1.º Bach | Estocástico, numérico, modelización · **astronomía / SETI** | 7 sesiones | **Completa v1.0** |
 
 > **Hilo conductor:** varias SA buscan un *momento de sorpresa cognitiva* (el dato que nadie intuye) y lo convierten en modelización matemática.
+
+> **Hilo estocástico:** cumpleaños · independencia/Drake — contraste intuición vs modelo y sensibilidad de un producto de factores.
 
 > **Próximas candidatas:** tarifas de datos / modelización lineal a trozos; PPDAC con datos del centro; anamorfosis y proporcionalidad; logaritmos y decibelios.
 
