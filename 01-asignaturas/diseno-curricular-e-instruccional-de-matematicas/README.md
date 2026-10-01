@@ -6,8 +6,11 @@ nav_order: 1
 
 # Diseño curricular e instruccional de Matemáticas
 
-**Tipo:** Obligatoria  
-**Máster en Profesorado de Educación Secundaria** · Especialidad Matemáticas
+**Tipo:** Optativa  
+**Máster en Profesorado de Educación Secundaria** · Especialidad Matemáticas  
+**Código:** 63223 · 6 ECTS · Primer semestre
+
+> Guía docente oficial UNIZAR 2024/25: *Clase de asignatura: Optativa*.
 
 ## Hilo conductor
 
@@ -30,19 +33,20 @@ Currículo → diseño curricular → programación → diseño instruccional
 | 8 | Resolución de problemas y aceptación de la tarea | [08-resolucion-de-problemas.md](apuntes/08-resolucion-de-problemas.md) |
 | 9 | Génesis escolar de los objetos matemáticos | [09-genesis-escolar-objetos-matematicos.md](apuntes/09-genesis-escolar-objetos-matematicos.md) |
 
-Índice de apuntes: **[apuntes/README.md](apuntes/README.md)**
+Índice de apuntes: **[apuntes/README.md](apuntes/README.md)**  
+Programa detallado: **[programa.md](programa.md)**
 
 ## Otros recursos
 
 | Recurso | Descripción |
 |---------|-------------|
-| [Temarios Matemáticas Aragón](materiales/temarios-matematicas-aragon/) | CE, criterios y saberes por curso |
+| [Temarios Matemáticas Aragón](materiales/temarios-matematicas-aragon/) | CE, criterios y saberes por curso (incluye Matemáticas Generales) |
 | [Plantillas](materiales/plantillas/) | PD, UD, rúbrica, génesis de objeto |
 | [Currículo LOMLOE](materiales/curriculo-lomloe/) | Mapas competencias–criterios, sentidos, anexos |
 | [Errores y obstáculos](materiales/errores-y-obstaculos/) | Banco de errores típicos |
 | [Banco de problemas](materiales/banco-problemas/) | Generatrices y problemas ricos |
 | [SA (PBL)](../../04-pbl-abp/situaciones-aprendizaje/) | Situaciones de aprendizaje de ejemplo |
-| [Bibliografía](bibliografia.md) | Referencias |
+| [Bibliografía](bibliografia.md) | Referencias oficiales + fuentes docentes |
 | [Examen](examen/) | Banco de preguntas |
 
 ## Carpetas

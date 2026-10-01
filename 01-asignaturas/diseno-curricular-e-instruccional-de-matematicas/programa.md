@@ -1,8 +1,10 @@
 # Programa — Diseño curricular e instruccional de Matemáticas
 
-**Tipo:** Obligatoria · Máster en Profesorado de Educación Secundaria (especialidad Matemáticas)
+**Tipo:** Optativa · Máster en Profesorado de Educación Secundaria (especialidad Matemáticas)  
+**Código:** 63223 · 6 ECTS · Primer semestre
 
-> Propuesta de organización por bloques. No sustituye la guía docente oficial del centro donde se curse el máster.
+> Propuesta de organización por bloques. No sustituye la guía docente oficial del centro donde se curse el máster.  
+> Guía oficial UNIZAR: *Clase de asignatura: Optativa*.
 
 ## Hilo conductor de la asignatura
 
@@ -25,22 +27,22 @@ El objetivo no es solo «conocer la normativa», sino **tomar decisiones didáct
 
 ---
 
-## Bloque 1 · Finalidades y marco curricular
+## Bloque 1 · Finalidades educativas de la enseñanza de las Matemáticas
 
 **Para qué** se enseñan Matemáticas y **qué es** el currículo.
 
 - Matemáticas escolares, educación matemática, currículo.
 - Cuatro preguntas: para qué, qué, cómo, qué resultados.
-- Organización de materias en ESO y Bachillerato (A/B, I/II, optativas).
+- Organización de materias en ESO y Bachillerato (A/B, I/II, Matemáticas Generales, optativas).
 - Niveles de concreción e implementación (previsto / implementado / alcanzado).
 - Finalidades: Ernest, Cockcroft, dimensiones de Rico (cultural, social, formativa, ética).
 - Prevalencia de dimensiones según asignatura.
 
-**Material:** [01 — Currículo y normativa](apuntes/01-curriculo-educativo-y-normativa.md) · [02 — Finalidades](apuntes/02-finalidades-ensenanza-matematicas.md) · [Asignaturas ESO/Bachillerato](materiales/asignaturas-eso-bachillerato/)
+**Material:** [01-finalidades-ensenanza-matematicas.md](apuntes/01-finalidades-ensenanza-matematicas.md) · [Asignaturas ESO/Bachillerato](materiales/asignaturas-eso-bachillerato/)
 
 ---
 
-## Bloque 2 · Cambios curriculares: LGE → LOMLOE
+## Bloque 2 · Evolución curricular y normativa (LGE → LOMLOE)
 
 ```text
 LGE → LOGSE → LOE → LOMCE → LOMLOE
@@ -48,7 +50,7 @@ LGE → LOGSE → LOE → LOMCE → LOMLOE
 
 Cómo cambia la concepción de la enseñanza: de la matemática moderna y los algoritmos al enfoque **competencial** (sentidos, situaciones de aprendizaje, DUA).
 
-**Material:** [03 — Evolución y elementos LOMLOE](apuntes/03-elementos-curriculo-lomloe.md) (Parte A)
+**Material:** [02-evolucion-curricular-y-normativa.md](apuntes/02-evolucion-curricular-y-normativa.md)
 
 ---
 
@@ -58,8 +60,9 @@ Cómo cambia la concepción de la enseñanza: de la matemática moderna y los al
 - Situaciones de aprendizaje; preceptivo vs margen docente.
 - Referentes: Piaget, Brousseau, Freudenthal, Niss, NCTM, CEMAT.
 - Cadena: competencia → criterio → saberes → tareas → evaluación.
+- Marco normativo de Aragón actualizado a septiembre de 2026.
 
-**Material:** [03 — Elementos LOMLOE](apuntes/03-elementos-curriculo-lomloe.md) · [Mapa competencias–criterios](materiales/curriculo-lomloe/)
+**Material:** [03-elementos-curriculo-lomloe.md](apuntes/03-elementos-curriculo-lomloe.md) · [Mapa competencias–criterios](materiales/curriculo-lomloe/)
 
 ---
 
@@ -69,7 +72,7 @@ Cómo cambia la concepción de la enseñanza: de la matemática moderna y los al
 Currículo oficial → programación didáctica → unidades → actividades → evaluación
 ```
 
-Secuenciación anual argumentada para ESO o Bachillerato.
+Secuenciación anual argumentada para ESO o Bachillerato. Análisis didáctico curricular (contenido → cognitivo → instrucción → actuación).
 
 **Material:** [04-programacion-didactica.md](apuntes/04-programacion-didactica.md)
 
@@ -86,8 +89,11 @@ Naturaleza de los objetos matemáticos; fenómenos que dan sentido; enseñar un 
 ## Bloque 6 · Transposición didáctica
 
 ```text
-Matemática académica → conocimiento escolar → enseñado → aprendido
+Saber sabio → saber a enseñar → saber enseñado → saber aprendido
 ```
+
+Conceptos clave: noosfera, vigilancia epistemológica, contrato didáctico.  
+Fuente principal: Chevallard (y desarrollos con Bosch & Gascón).
 
 **Material:** [06-transposicion-didactica.md](apuntes/06-transposicion-didactica.md)
 
@@ -95,7 +101,7 @@ Matemática académica → conocimiento escolar → enseñado → aprendido
 
 ## Bloque 7 · Dificultades y obstáculos
 
-Errores, obstáculos epistemológicos, representaciones, efectos de ciertas formas de enseñar.
+Errores, obstáculos epistemológicos, representaciones, efectos de ciertas formas de enseñar. Contrato didáctico y modelos intuitivos.
 
 **Material:** [07-dificultades-y-obstaculos.md](apuntes/07-dificultades-y-obstaculos.md)
 
@@ -103,7 +109,7 @@ Errores, obstáculos epistemológicos, representaciones, efectos de ciertas form
 
 ## Bloque 8 · Resolución de problemas como punto de partida
 
-ABP, tareas, investigación matemática, trabajo colaborativo.
+ABP, tareas, investigación matemática, trabajo colaborativo. Contrato didáctico en la resolución de problemas.
 
 **Material:** [08-resolucion-de-problemas.md](apuntes/08-resolucion-de-problemas.md)
 
@@ -121,14 +127,15 @@ Cuestiones generatrices, construcción progresiva del concepto.
 
 | Bloque | Archivo |
 |--------|--------|
-| 1 | [01](apuntes/01-curriculo-educativo-y-normativa.md) · [02](apuntes/02-finalidades-ensenanza-matematicas.md) |
-| 2–3 | [03](apuntes/03-elementos-curriculo-lomloe.md) |
-| 4 | [04](apuntes/04-programacion-didactica.md) |
-| 5 | [05](apuntes/05-fundamentos-epistemologicos-fenomenologicos.md) |
-| 6 | [06](apuntes/06-transposicion-didactica.md) |
-| 7 | [07](apuntes/07-dificultades-y-obstaculos.md) |
-| 8 | [08](apuntes/08-resolucion-de-problemas.md) |
-| 9 | [09](apuntes/09-genesis-escolar-objetos-matematicos.md) |
+| 1 | [01-finalidades-ensenanza-matematicas.md](apuntes/01-finalidades-ensenanza-matematicas.md) |
+| 2 | [02-evolucion-curricular-y-normativa.md](apuntes/02-evolucion-curricular-y-normativa.md) |
+| 3 | [03-elementos-curriculo-lomloe.md](apuntes/03-elementos-curriculo-lomloe.md) |
+| 4 | [04-programacion-didactica.md](apuntes/04-programacion-didactica.md) |
+| 5 | [05-fundamentos-epistemologicos-fenomenologicos.md](apuntes/05-fundamentos-epistemologicos-fenomenologicos.md) |
+| 6 | [06-transposicion-didactica.md](apuntes/06-transposicion-didactica.md) |
+| 7 | [07-dificultades-y-obstaculos.md](apuntes/07-dificultades-y-obstaculos.md) |
+| 8 | [08-resolucion-de-problemas.md](apuntes/08-resolucion-de-problemas.md) |
+| 9 | [09-genesis-escolar-objetos-matematicos.md](apuntes/09-genesis-escolar-objetos-matematicos.md) |
 
 ---
 
