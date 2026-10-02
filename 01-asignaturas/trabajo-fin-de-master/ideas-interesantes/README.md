@@ -21,6 +21,7 @@ Las ideas se incorporan cuando aparece una combinación especialmente interesant
 |---|---|---|
 | [01 — Penalización del aprendizaje asociada al uso de IA generativa](01-penalizacion-aprendizaje-ia-generativa.md) | Diferencia entre rendimiento en tareas y aprendizaje demostrado sin asistencia de IA | IA generativa · evaluación · cognición · Matemáticas |
 | [02 — Tecnoestrés digital y autorregulación cognitiva](02-tecnoestres-digital.md) | Impacto del tecnoestrés, FOMO e hipervigilancia en la atención profunda y el razonamiento matemático (3.º ESO) | Tecnoestrés · carga cognitiva · higiene digital · didáctica analógica · Matemáticas |
+| [03 — Burocratización docente y carga administrativa](03-burocratizacion-docente-y-carga-administrativa.md) | Relación entre carga administrativa/evaluativa, autonomía profesional, bienestar y tiempo disponible para enseñar Matemáticas | Burocracia · TALIS · autonomía · bienestar docente · coste de oportunidad |
 
 ## Relación con otras secciones
 
