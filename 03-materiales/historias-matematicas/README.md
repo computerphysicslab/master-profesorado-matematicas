@@ -12,7 +12,7 @@ permalink: /03-materiales/historias-matematicas/
 Historia → pregunta → intentos → idea → formalización → problema para el alumnado
 ```
 
-Colección ampliable (**30 fichas**).
+Colección ampliable (**31 fichas**).
 
 ## Fichas publicadas
 
@@ -48,6 +48,7 @@ Colección ampliable (**30 fichas**).
 | [Mandelbrot](fichas/mandelbrot.md) | Fractales | ESO / Bach. |
 | [Ingrid Daubechies](fichas/ingrid-daubechies.md) | Wavelets, compresión | Bachillerato |
 | [Mirzakhani](fichas/mirzakhani.md) | Geometría de superficies | Bachillerato |
+| [Hamlet y π](fichas/hamlet-pi.md) | Codificación, probabilidad, órdenes de magnitud | ESO / Bach. |
 
 [Por concepto](indices/por-concepto.md) · [Por curso](indices/por-curso.md) · [Catálogo](indices/catalogo.md)
 
