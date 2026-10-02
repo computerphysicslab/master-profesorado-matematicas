@@ -89,12 +89,6 @@ La actividad respeta el principio de partir de los sentidos y de las cosas, avan
 
 ---
 
-## ENLACE ABIERTO A LA INFOGRAFÍA ELABORADA POR EL GRUPO DE EXPERTOS:
-
-*(Pendiente de elaboración por el grupo.)*
-
----
-
 ## REFERENCIAS (APA 7):
 
 Comenius, J. A. (1657/1896). *The great didactic* (M. W. Keatinge, Trans.). A. & C. Black. (Obra original publicada en 1657).
