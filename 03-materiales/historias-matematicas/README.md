@@ -12,7 +12,7 @@ permalink: /03-materiales/historias-matematicas/
 Historia → pregunta → intentos → idea → formalización → problema para el alumnado
 ```
 
-Colección ampliable (**31 fichas**).
+Colección ampliable (**32 fichas**).
 
 ## Fichas publicadas
 
@@ -49,6 +49,7 @@ Colección ampliable (**31 fichas**).
 | [Ingrid Daubechies](fichas/ingrid-daubechies.md) | Wavelets, compresión | Bachillerato |
 | [Mirzakhani](fichas/mirzakhani.md) | Geometría de superficies | Bachillerato |
 | [Hamlet y π](fichas/hamlet-pi.md) | Codificación, probabilidad, órdenes de magnitud | ESO / Bach. |
+| [La campana que esconde un círculo](fichas/la-campana-que-esconde-un-circulo.md) | Integral gaussiana, coordenadas polares, cambio de representación | Bachillerato (adaptable) |
 
 [Por concepto](indices/por-concepto.md) · [Por curso](indices/por-curso.md) · [Catálogo](indices/catalogo.md)
 

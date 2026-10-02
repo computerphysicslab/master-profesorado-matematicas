@@ -1,6 +1,6 @@
 # Catálogo de historias matemáticas
 
-**31 fichas publicadas.**
+**32 fichas publicadas.**
 
 | Historia | Concepto | Nivel | Estado |
 |----------|----------|-------|--------|
@@ -35,3 +35,4 @@
 | Ingrid Daubechies | Wavelets, compresión | Bachillerato | **Publicada** |
 | Maryam Mirzakhani | Geometría de superficies | Bachillerato | **Publicada** |
 | Hamlet y los dígitos de π | Codificación, probabilidad, órdenes de magnitud | ESO/Bach. | **Publicada** |
+| La campana que esconde un círculo | Integral gaussiana, coordenadas polares, cambio de representación | Bachillerato (adaptable) | **Publicada** |

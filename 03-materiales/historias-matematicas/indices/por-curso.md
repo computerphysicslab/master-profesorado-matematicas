@@ -23,6 +23,7 @@
 | Zenón (Aquiles)* | [zenon-aquiles.md](../fichas/zenon-aquiles.md) |
 | Dilema del prisionero | [dilema-prisionero.md](../fichas/dilema-prisionero.md) |
 | Hamlet y π | [hamlet-pi.md](../fichas/hamlet-pi.md) |
+| La campana que esconde un círculo (variante sin integral formal) | [la-campana-que-esconde-un-circulo.md](../fichas/la-campana-que-esconde-un-circulo.md) |
 
 \*En 4.º: tabla y progresión geométrica; sin series formales.
 
@@ -40,6 +41,7 @@
 | Ingrid Daubechies | [ingrid-daubechies.md](../fichas/ingrid-daubechies.md) |
 | Mirzakhani | [mirzakhani.md](../fichas/mirzakhani.md) |
 | Hamlet y π (ampliación: normalidad de π) | [hamlet-pi.md](../fichas/hamlet-pi.md) |
+| La campana que esconde un círculo | [la-campana-que-esconde-un-circulo.md](../fichas/la-campana-que-esconde-un-circulo.md) |
 | Al-Juarismi / Hipatia / Ramanujan / Johnson | En mayor profundidad |
 | (+ todas las de ESO) | |
 
