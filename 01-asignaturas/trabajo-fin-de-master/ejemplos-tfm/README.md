@@ -2,7 +2,16 @@
 
 Selección de **TFM y guías metodológicas** en abierto, útiles como **modelos de estructura** (no como plantillas a copiar). Respetar autoría y no plagiar.
 
-Antes de elegir tema: lee el [**análisis de temáticas**](../ANALISIS-TEMATICAS.md) (áreas saturadas vs. nichos emergentes).
+Antes de elegir tema: lee el [**análisis de temáticas**](../ANALISIS-TEMATICAS.md) (áreas saturadas vs. nichos emergentes) y cruza con el resto de capas del TFM.
+
+## Relación con las otras capas
+
+| Carpeta | Pregunta |
+|---------|----------|
+| **ejemplos-tfm/** | ¿Cómo son los TFM existentes? |
+| [Atlas de nichos](../atlas-nichos/) | ¿Dónde hay huecos temáticos? |
+| [Bibliometría de TFM](../bibliometria-tfm/) | ¿Qué TFM han trascendido y por qué? |
+| [Ideas interesantes](../ideas-interesantes/) | ¿Qué idea concreta desarrollo? |
 
 ## Guías metodológicas
 
