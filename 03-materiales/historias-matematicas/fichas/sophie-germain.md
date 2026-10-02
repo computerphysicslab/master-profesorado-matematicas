@@ -1,19 +1,15 @@
-# Sophie Germain: matemáticas a contracorriente
+# Sophie Germain: primos, Fermat y elasticidad
 
 | Campo | Contenido |
 |-------|-----------|
 | **Nivel** | ESO (motivación, primos, potencias) · Bachillerato (Fermat, demostración, modelización) |
 | **Conceptos** | Números primos, potencias, idea de demostración; opcional: vibraciones / elasticidad como modelización |
-| **Sentidos** | Numérico, algebraico; conexiones con la ciencia; socioafectivo (perseverancia, sesgos) |
+| **Sentidos** | Numérico, algebraico; conexiones con la ciencia; socioafectivo (perseverancia) |
 | **Tiempo de aula** | 1 sesión de historia + problema; o 2 si se profundiza en Fermat / primos de Germain |
 
 ---
 
 ## 1. Pregunta generatriz
-
-> ¿Puede alguien hacer **matemática original de primer nivel** sin poder entrar en la universidad de su época? ¿Qué hace falta: título, o ideas y persistencia?
-
-Versión más matemática:
 
 > Fermat afirmó que $x^n + y^n = z^n$ no tiene soluciones enteras positivas si $n > 2$. Durante siglos casi nadie avanzó de forma general. ¿Qué tipo de **resultado parcial** ya sería un progreso enorme?
 
@@ -21,42 +17,30 @@ Versión más matemática:
 
 ## 2. Historia (relato para el aula)
 
-**Marie-Sophie Germain** (París, 1776–1831) fue matemática y física en una época en la que las instituciones formales de élite estaban **cerradas a las mujeres**.
+**Marie-Sophie Germain** (París, 1776–1831) fue matemática y física. Se formó en gran medida de modo autodidacta a partir de textos de Euler y de apuntes de la **École Polytechnique**, institución a la que no pudo matricularse según las normas de acceso de la época.
 
-### Formación a contracorriente
+### Formación y correspondencia
 
-- Hija de un comerciante de seda; descubrió las matemáticas en la biblioteca familiar (relatos de la vida de Arquímedes, textos de Euler, etc.), en el contexto de la Revolución francesa.
-- La tradición cuenta que sus padres intentaron disuadirla (quitar luz, calefacción, material de escritura); ella persistió hasta que la familia dejó de oponerse.
-- No pudo matricularse en la **École Polytechnique** (reservada a hombres). Obtuvo apuntes de los cursos —en particular de análisis— y trabajó como autodidacta.
-- Usó el seudónimo **«M. Le Blanc»** (nombre de un antiguo alumno) para hacer llegar trabajos y correspondencia a matemáticos como **Lagrange**, **Legendre** y **Gauss**.
-
-### Correspondencia con Gauss
-
-Gauss tomó en serio los escritos de «Le Blanc». Cuando las tropas napoleónicas ocuparon su región, Germain intervino ante un general francés (conocido de su familia) preocupada por la seguridad de Gauss —recordando el destino legendario de Arquímedes—. Al descubrirse su identidad real, Gauss respondió con respeto explícito a su talento, en contraste con prejuicios habituales de la época.
+- Trabajó problemas de teoría de números y mantuvo correspondencia matemática con **Lagrange**, **Legendre** y **Gauss**, en ocasiones bajo el seudónimo **«M. Le Blanc»**.
+- Gauss valoró sus resultados por su contenido matemático; la correspondencia es un ejemplo de diálogo científico basado en las ideas, no en el prestigio institucional.
 
 ### Elasticidad y el premio de la Academia
 
-La Academia de Ciencias de París planteó un premio sobre la **teoría matemática de las superficies elásticas** y su acuerdo con la experiencia (vibraciones de placas, figuras de Chladni). Germain presentó memorias en sucesivas convocatorias; en **1816** obtuvo el **gran premio**, siendo la primera mujer en recibirlo en ese marco. Su trabajo, imperfecto a ojos de algunos contemporáneos, abrió camino en la modelización matemática de la elasticidad.
+La Academia de Ciencias de París planteó un premio sobre la **teoría matemática de las superficies elásticas** y su acuerdo con la experiencia (vibraciones de placas, figuras de Chladni). Germain presentó memorias en sucesivas convocatorias; en **1816** obtuvo el **gran premio**, un reconocimiento excepcional en ese marco. Su trabajo, imperfecto a ojos de algunos contemporáneos, abrió camino en la modelización matemática de la elasticidad.
 
 ### Teoría de números y Fermat
 
 Germain trabajó de forma sostenida en el **último teorema de Fermat**. No lo demostró por completo (eso ocurrió con Wiles a finales del s. XX), pero obtuvo resultados **parciales de gran alcance** para la época: estrategias para el «primer caso» del teorema y condiciones que implican restricciones fuertes sobre posibles soluciones. Legendre recogió y reconoció parte de su contribución; el resultado se conoce como **teorema de Sophie Germain** (en formulaciones modernas sobre primos y potencias módulo un primo auxiliar).
 
-También se asocia a los **primos de Sophie Germain**: un primo $p$ tal que $2p+1$ también es primo (p. ej. $5$, porque $11$ es primo). Aparecen en contextos de teoría de números y, más tarde, en criptografía educativa a nivel divulgativo.
-
-### Final
-
-Murió en 1831 (cáncer de mama). En el certificado de defunción figuró como *rentier* (propietaria / rentista), no como matemática: detalle que resume el reconocimiento social incompleto de su oficio.
-
 ---
 
 ## 3. Intentos y debate
 
-- ¿Por qué un seudónimo masculino cambia el trato que recibe un texto matemático?
+- ¿Qué papel juega el anonimato o el prestigio institucional en cómo se lee un texto matemático?
 - ¿Un premio «con lagunas» puede ser históricamente decisivo?
 - ¿Qué diferencia hay entre «demostrar del todo» y «acotar enormemente el problema»?
 
-Errores a evitar en el relato: presentar a Germain solo como víctima (sin su obra); o solo como heroína sin matices técnicos; o afirmar que «demostró el último teorema de Fermat».
+Errores a evitar en el relato: presentar solo la biografía sin su obra; o afirmar que «demostró el último teorema de Fermat».
 
 ---
 
@@ -103,10 +87,6 @@ Errores a evitar en el relato: presentar a Germain solo como víctima (sin su ob
 
 > Escribe un párrafo: «Germain no demostró el último teorema de Fermat, pero…». Debe incluir al menos un hecho matemático y un hecho histórico.
 
-**Socioafectivo (con cuidado)**
-
-> ¿Qué barreras institucionales existen hoy para estudiar mates —y cuáles ya no son las de 1800? Evitar moralina; centrar en hechos y en la práctica del aula.
-
 ---
 
 ## 7. Criterios LOMLOE (orientación)
@@ -117,10 +97,9 @@ Conjeturar y comprobar; sentido numérico; comunicar argumentos; conexiones con 
 
 ## 8. Precauciones docentes
 
-- No reducir la sesión a «las mujeres también pueden»: el eje es **su matemática** y el oficio de demostrar.  
-- No inventar diálogos ni detalles íntimos no documentados; la anécdota de las velas es tradición biográfica, no acta notarial.  
-- No sobrecargar ESO con la formulación técnica del teorema de Germain.  
-- Nombrar también a otras matemáticas cuando el curso lo permita (Hipatia, Lovelace, Noether, Mirzakhani…), sin convertir una sola figura en símbolo único.
+- El eje de la sesión es **su matemática** y el oficio de demostrar, no un mensaje moral genérico.  
+- No inventar diálogos ni detalles íntimos no documentados.  
+- No sobrecargar ESO con la formulación técnica del teorema de Germain.
 
 ---
 
