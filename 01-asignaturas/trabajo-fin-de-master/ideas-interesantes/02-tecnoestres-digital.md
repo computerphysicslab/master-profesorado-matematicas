@@ -1,107 +1,258 @@
-# Proyecto TFM-01: Autorregulación cognitiva, prevención del tecnoestrés y protocolo de higiene digital en 3.º de ESO
+# Idea de TFM: tecnoestrés digital, autorregulación cognitiva e higiene digital en el aula de Matemáticas
 
-> **Especialidad:** Matemáticas  
-> **Nivel Objetivo:** 3.º de Educación Secundaria Obligatoria (ESO)  
-> **Línea de Investigación:** Didáctica de las Matemáticas, Organización Escolar, Salud Mental Digital y Políticas Educativas Comparadas  
-> **Repositorio / Ubicación:** `01-asignaturas/trabajo-fin-de-master/ideas-interesantes/`
+## 1. Idea central
 
----
+Estudiar el impacto del **tecnoestrés, la hipervigilancia (notificaciones continuas), la tecnoansiedad y el FOMO** (*Fear Of Missing Out*) sobre la capacidad de atención sostenida (*Deep Work*) y el procesamiento formal abstracto en Matemáticas de 3.º de ESO.
 
-## 1. Resumen Ejecutivo
+La idea parte de una premisa:
 
-Este proyecto de TFM propone abordar la problemática del **tecnoestrés, la hipervigilancia (notificaciones continuas), la tecnoansiedad y el fenómeno FOMO (*Fear Of Missing Out*)** en la adolescencia, analizando su impacto directo en la capacidad de atención sostenida (*Deep Work*) y el procesamiento formal abstracto en el área de Matemáticas.
+> **La hiperconectividad puede degradar la memoria de trabajo y el control ejecutivo necesarios para el razonamiento matemático complejo.**
 
-Frente a la digitalización indiscriminada de la última década, la propuesta defiende la **necesidad de un andamiaje regulatorio y pedagógico** que combine:
-1. El **retorno estratégico al soporte analógico** (cuaderno de papel y texto impreso) en materias con alta carga cognitiva.
-2. Un **protocolo transversal de desconexión digital de centro**.
-3. Una **propuesta de borrador legislativo/normativo** alineado con las directrices más recientes de organismos internacionales (UNESCO, OMS, UE) y reformas europeas de reversión/regulación digital.
+Frente a la digitalización indiscriminada, se plantea la necesidad de un andamiaje regulatorio y pedagógico que combine:
 
----
+1. Retorno estratégico al soporte analógico (cuaderno y texto impreso) en materias de alta carga cognitiva.
+2. Protocolo transversal de desconexión digital de centro.
+3. Posible propuesta de marco normativo alineado con directrices internacionales (UNESCO, OMS, UE) y reformas europeas de regulación digital.
 
-## 2. Justificación y Fundamentación Teórica
-
-### 2.1. Carga Cognitiva y Razonamiento Matemático en 3.º de ESO
-El currículo de 3.º de ESO representa un punto de inflexión crítico hacia la **abstracción formal** (álgebra, ecuaciones de segundo grado, sistemas, funciones y geometría analítica). La resolución de problemas matemáticos complejos exige:
-* **Uso intensivo de la memoria de trabajo** (*Working Memory*).
-* **Control ejecutivo y resistencia a la frustración**.
-* **Atención focalizada libre de microinterrupciones** (*Theory of Cognitive Load*, Sweller).
-
-La hiperconectividad y la multitarea digital degradan el rendimiento lógico-matemático al fragmentar la atención y saturar la memoria de trabajo con la anticipación constante de notificaciones.
-
-### 2.2. La Paradoja de la Conexión: FOMO, Phubbing y Aislamiento Social
-Aunque el smartphone promete conectividad 24/7, el uso compulsivo de las redes sociales genera una **"ilusión de conexión"** que incrementa la percepción de soledad y aislamiento afectivo en el aula (*phubbing* presencial). En el ámbito educativo, esto se traduce en **tecnoansiedad académica**: la revisión compulsiva de plataformas educativas (Google Classroom, Aulas, Alexia) fuera del horario lectivo por miedo a perder información o calificaciones.
-
-### 2.3. Contexto Internacional y Evidencia Organísmica
-* **UNESCO (Informe GEM 2023 - *Technology in education: A tool on whose terms?*):** Alerta sobre la correlación negativa entre el uso excesivo de dispositivos móviles/pantallas y el rendimiento escolar, solicitando una regulación estricta en los entornos educativos.
-* **Organización Mundial de la Salud (OMS):** Directrices sobre tiempo de pantalla, sedentarismo y salud mental en adolescentes.
-* **Tendencia Internacional (Suecia, Francia, Reino Unido):** Reversión de los planes de sustitución digital total del papel tras constatarse caídas en la comprensión lectora, cálculo mental y capacidad de concentración.
-* **Marco Nacional (España 2024):** Recomendaciones del Consejo Escolar del Estado e instrucciones de restricción de móviles aprobadas por diversas CCAA.
+**Pregunta central:** ¿Cómo afecta el tecnoestrés digital a la atención profunda y al rendimiento en tareas matemáticas de alta demanda cognitiva, y qué diseños de aula y de centro pueden mitigarlo?
 
 ---
 
-## 3. Objetivos del TFM
+## 2. Punto de partida y fundamentación
 
-1. **Objetivo General:** Diseñar un marco integral (normativo, organizativo y didáctico) de higiene digital y desconexión para 3.º de ESO que preserve la capacidad de concentración profunda necesaria para el aprendizaje de las Matemáticas.
-2. **Objetivos Específicos:**
-   * **Análisis Normativo:** Sintetizar la evidencia internacional (UNESCO, OMS) y autonómica/nacional sobre la restricción de pantallas en las aulas.
-   * **Propuesta Legislativa (Macro):** Redactar una propuesta de texto normativo (borrador de Disposición Adicional para la legislación educativa) sobre la desconexión digital infantil/adolescente y la preservación del soporte impreso/manual.
-   * **Protocolo de Centro (Meso):** Diseñar un protocolo transversal para el Plan Digital de Centro (PDC) que regule los horarios de plataformas virtuales, notificaciones y uso de dispositivos personales.
-   * **Protocolo de Aula en Matemáticas (Micro):** Establecer un protocolo didáctico para 3.º de ESO donde el cuaderno impreso actúe como reestructurador cognitivo central, relegando la tecnología a un uso puntual y quirúrgico (ej. verificación con GeoGebra).
+### 2.1. Carga cognitiva y razonamiento matemático en 3.º ESO
 
----
+El currículo de 3.º de ESO supone un punto de inflexión hacia la abstracción formal (álgebra, ecuaciones de segundo grado, sistemas, funciones, geometría analítica). La resolución de problemas complejos exige:
 
-## 4. Estructura Proyectada de la Memoria
+- uso intensivo de la memoria de trabajo;
+- control ejecutivo y resistencia a la frustración;
+- atención focalizada libre de microinterrupciones (Theory of Cognitive Load, Sweller).
 
-```
-├── Bloque I: Introducción, Justificación y Marco Teórico
-│   ├── 1.1. Las Matemáticas en 3.º de ESO: Carga cognitiva y atención profunda.
-│   ├── 1.2. Tecnoestrés, FOMO, hipervigilancia y su impacto en la salud mental/académica.
-│   └── 1.3. El mito de la multitarea y la pérdida del espacio analógico.
-├── Bloque II: Estado de la Cuestión y Marco Comparado Internacional
-│   ├── 2.1. Dictámenes de la UNESCO (GEM Report 2023), OMS y UE.
-│   ├── 2.2. Políticas de desdigitalización/regulación en Suecia, Francia y Reino Unido.
-│   └── 2.3. Panorama normativo en España: Instrucciones de CCAA y Consejo Escolar del Estado.
-├── Bloque III: Propuesta de Intervención Multisectorial
-│   ├── 3.1. NIVEL MACRO: Borrador de propuesta normativa/legislativa de higiene digital.
-│   ├── 3.2. NIVEL MESO: Protocolo Transversal de Centro para la Desconexión Digital Educativa.
-│   └── 3.3. NIVEL MICRO: Protocolo de Aula en Matemáticas para 3.º de ESO ("Aprender a Pensar en Papel").
-├── Bloque IV: Evaluación del Impacto e Indicadores
-│   ├── 4.1. Cuestionarios pre/post intervención de tecnoestrés y percepción de atención.
-│   └── 4.2. Rúbricas de perseverancia en la resolución autónoma de problemas algebraicos.
-└── Bloque V: Conclusiones y Líneas Futuras de Investigación
-```
+La hiperconectividad y la multitarea digital fragmentan la atención y saturan la memoria de trabajo con la anticipación constante de notificaciones.
+
+### 2.2. FOMO, phubbing y aislamiento
+
+El uso compulsivo de redes y plataformas educativas genera una «ilusión de conexión» que puede incrementar la percepción de soledad y la tecnoansiedad académica (revisión compulsiva de Classroom, Alexia, etc. fuera del horario lectivo).
+
+### 2.3. Evidencia internacional
+
+- UNESCO (Informe GEM 2023): correlación negativa entre uso excesivo de dispositivos y rendimiento escolar; solicita regulación estricta.
+- OMS: directrices sobre tiempo de pantalla y salud mental adolescente.
+- Tendencias en Suecia, Francia y Reino Unido: reversión o regulación de la digitalización total tras constatar caídas en comprensión lectora, cálculo mental y concentración.
+- España: recomendaciones del Consejo Escolar del Estado e instrucciones de restricción de móviles en diversas CCAA.
 
 ---
 
-## 5. Propuesta de Intervención (Detalle por Niveles)
+## 3. Posibles preguntas de investigación
 
-### A. Nivel Macro: Propuesta de Articulado Normativo
-* **Derecho a la Desconexión Digital Escolar:** Garantía por ley de "franjas de silencio" en plataformas de aprendizaje (imposibilidad de publicar tareas o avisos entre las 18:00 y las 08:00 h y fines de semana).
-* **Priorización del Soporte Analógico:** Requisito legal para que en las áreas de desarrollo científico, abstracto y lingüístico se preserve el soporte en papel como base primaria de la evaluación continua.
-* **Prohibición de Dispositivos Personales:** Limitación del uso de teléfonos inteligentes durante toda la jornada lectiva (incluidos recreos) en la enseñanza obligatoria.
+### Variante A — Impacto cognitivo
 
-### B. Nivel Meso: Protocolo Transversal de Centro
-* **Gestión de Notificaciones y Entregas:** Publicación de calificaciones y tareas únicamente en horario de mañana para evitar picos de tecnoansiedad nocturnos.
-* **Espacios Escolare Libre de Pantallas (*Phone-Free Zones*):** Regulación de la convivencia en pasillos y patios para incentivar la interacción presencial y frenar el aislamiento.
+> ¿Qué relación existe entre indicadores de tecnoestrés / hipervigilancia y el rendimiento en tareas matemáticas de alta demanda de memoria de trabajo en 3.º de ESO?
 
-### C. Nivel Micro: Aula de Matemáticas (3.º ESO)
-* **El Cuaderno Manual como Reestructurador Visuoespacial:** Obligatoriedad del trazado manual en álgebra y geometría para fijar relaciones espaciales y variables.
-* **Uso Quirúrgico de la Tecnología (Regla 80/20):**
-  * **80% del tiempo (Fase Analógica):** Razonamiento, ensayo-error, borrador y resolución autónoma en soporte físico.
-  * **20% del tiempo (Fase Tecnológica):** Comprobación y exploración gráfica puntual (ej. verificación de sistemas de ecuaciones en GeoGebra o calculadoras científicas no conectadas).
+### Variante B — Diseño de aula
 
----
+> ¿En qué medida un protocolo de «uso quirúrgico» de la tecnología (regla 80/20: 80 % analógico + 20 % verificación digital) mejora la perseverancia y la calidad del razonamiento en problemas algebraicos?
 
-## 6. Posibles Títulos para el TFM
+### Variante C — Nivel de centro
 
-1. *«Autorregulación cognitiva y control del tecnoestrés en 3.º de la ESO: Directrices organizativas de centro y retorno a la didáctica analógica en el aula de Matemáticas.»*
-2. *«Del tecnoestrés a la concentración profunda: Marco regulatorio y protocolo de higiene digital en la enseñanza de las Matemáticas en Educación Secundaria.»*
-3. *«Higiene cognitiva y prevención de la tecnoansiedad en 3.º de ESO: Análisis de políticas públicas y propuesta didáctica para el área de Matemáticas.»*
+> ¿Qué elementos de un protocolo de higiene digital de centro (gestión de notificaciones, franjas de silencio, espacios phone-free) se asocian con menor tecnoansiedad y mayor capacidad de atención sostenida?
+
+### Variante D — Dimensión normativa
+
+> ¿Cómo se articulan las recomendaciones de UNESCO/OMS y las experiencias europeas de regulación digital en una propuesta viable de marco organizativo para centros de secundaria?
+
+Las variantes A–C se acercan a un TFM de investigación o innovación con intervención; la D se orienta más hacia un análisis de políticas educativas aplicadas a la didáctica de las Matemáticas.
 
 ---
 
-## 7. Valor Diferencial e Innovación del Trabajo
+## 4. Hipótesis posibles
 
-* **Inédito en la Especialidad:** Rompe con la tendencia habitual de los TFMs de matemáticas centrados exclusivamente en la digitalización, aportando un enfoque de **freno crítico y regulación basada en la neurocognición**.
-* **Integración Multinivel:** Conecta la alta política educativa (UNESCO, leyes nacionales) con la didáctica diaria del aula de matemáticas.
-* **Criterio Científico:** Apoyado en la *Theory of Cognitive Load* de Sweller y la evidencia empírica de evaluaciones internacionales (PISA/TIMSS).
+Estas hipótesis son **propuestas de trabajo**, no conclusiones establecidas.
+
+### H1. Carga cognitiva y fragmentación
+
+Un mayor nivel de hipervigilancia digital se asocia con menor rendimiento en tareas que exigen atención sostenida y manipulación de representaciones algebraicas.
+
+### H2. Soporte analógico
+
+El uso prioritario del cuaderno manual como reestructurador visuoespacial favorece la fijación de relaciones espaciales y el ensayo-error controlado frente al uso continuo de pantallas.
+
+### H3. Regla 80/20
+
+Una secuencia didáctica que reserve la tecnología a la verificación puntual (GeoGebra, calculadora no conectada) produce mayor perseverancia y mejor calidad de justificación que una secuencia predominantemente digital.
+
+### H4. Nivel meso
+
+La introducción de franjas de silencio en plataformas educativas y de espacios libres de pantallas reduce la tecnoansiedad percibida por el alumnado.
+
+---
+
+## 5. Variables que podrían estudiarse
+
+| Dimensión | Posibles indicadores |
+|---|---|
+| Tecnoestrés / FOMO | cuestionarios validados o ad hoc de hipervigilancia y ansiedad digital |
+| Atención sostenida | tiempo de trabajo concentrado, número de interrupciones autodeclaradas |
+| Rendimiento matemático | puntuación en problemas de alta carga cognitiva (álgebra, sistemas, funciones) |
+| Perseverancia | rúbricas de persistencia ante el error y calidad de la justificación |
+| Uso de dispositivos | tiempo de pantalla en clase y fuera de clase; tipo de uso |
+| Soporte de trabajo | proporción de trabajo en papel vs. digital |
+| Percepción del alumnado | cuestionarios pre/post sobre atención, ansiedad y preferencia de soporte |
+
+---
+
+## 6. Aplicación específica a Matemáticas (3.º ESO)
+
+Posible experiencia en una unidad de álgebra o funciones:
+
+### Fase 1 — Diagnóstico
+
+Medición inicial de tecnoestrés percibido y rendimiento en una tarea de referencia.
+
+### Fase 2 — Intervención de aula (micro)
+
+- 80 % del tiempo: razonamiento, ensayo-error y resolución en soporte físico.
+- 20 % del tiempo: verificación gráfica o numérica puntual (GeoGebra, calculadora).
+- Obligatoriedad del trazado manual en álgebra y geometría.
+
+### Fase 3 — Elementos de centro (meso) — opcional según alcance
+
+- Gestión de notificaciones y publicacíón de tareas solo en horario de mañana.
+- Espacios escolares libres de pantallas.
+
+### Fase 4 — Evaluación
+
+Comparación pre/post de:
+
+- rendimiento en problemas equivalentes;
+- indicadores de perseverancia;
+- percepción de atención y ansiedad digital.
+
+---
+
+## 7. Diseño experimental posible
+
+Un diseño viable para TFM podría ser cuasi-experimental de un solo grupo o de dos grupos (intervención vs. práctica habitual), con:
+
+- muestra accesible (uno o dos grupos de 3.º ESO);
+- cuestionarios pre/post;
+- rúbricas de resolución de problemas;
+- registro de uso de dispositivos (si es factible y ético);
+- análisis cuantitativo básico + análisis cualitativo de las producciones del alumnado.
+
+No es necesario un estudio longitudinal de gran escala. Un piloto bien delimitado es suficiente.
+
+---
+
+## 8. Potencial para TFM
+
+### Interés científico
+
+Conecta neurocognición (carga cognitiva, memoria de trabajo), salud mental digital y didáctica de las Matemáticas en un momento de fuerte debate público sobre pantallas en la escuela.
+
+### Interés didáctico
+
+Puede generar protocolos concretos de aula y de centro, y recomendaciones sobre el equilibrio analógico-digital en materias de alta abstracción.
+
+### Viabilidad
+
+Accesible desde el Prácticum. No requiere tecnología compleja ni muestras enormes.
+
+### Potencial de ampliación
+
+- Estudio comparativo entre cursos o centros.
+- Línea de investigación sobre «higiene cognitiva» en educación matemática.
+- Conexión con políticas educativas y recomendaciones internacionales.
+
+---
+
+## 9. Riesgos y limitaciones
+
+- Dificultad para controlar el uso de dispositivos fuera del aula.
+- Posible resistencia del alumnado o del centro a protocolos de desconexión.
+- Efecto novedad.
+- Medición del tecnoestrés (instrumentos validados vs. ad hoc).
+- Tamaño de muestra limitado en un TFM.
+- Riesgo de polarización ideológica del tema (digitalización vs. «vuelta al papel»).
+
+Conviene formularlo como **estudio exploratorio o de diseño de intervención**, no como evaluación definitiva de políticas.
+
+---
+
+## 10. Posibles títulos
+
+### Línea de investigación
+
+**Tecnoestrés digital y atención profunda en el aprendizaje de Matemáticas: un estudio exploratorio en 3.º de ESO**
+
+### Línea de innovación
+
+**Del tecnoestrés a la concentración: protocolo de higiene digital y retorno al soporte analógico en el aula de Matemáticas de 3.º ESO**
+
+### Línea organizativa / de centro
+
+**Autorregulación cognitiva y prevención del tecnoestrés: propuestas de aula y de centro para la enseñanza de Matemáticas en Educación Secundaria**
+
+### Línea de políticas educativas
+
+**Higiene digital y didáctica de las Matemáticas: análisis de recomendaciones internacionales y diseño de un marco organizativo para centros de secundaria**
+
+---
+
+## 11. Palabras clave
+
+- Tecnoestrés
+- FOMO
+- Hipervigilancia digital
+- Carga cognitiva
+- Memoria de trabajo
+- Atención sostenida
+- Deep Work
+- Higiene digital
+- Didáctica analógica
+- Educación matemática
+- 3.º ESO
+- Álgebra
+- Protocolo de centro
+- UNESCO GEM
+- Autorregulación
+
+---
+
+## 12. Encaje con el Atlas de Nichos, Bibliometría y Análisis de temáticas
+
+Esta idea se sitúa en la intersección de varios ejes poco saturados:
+
+**Carga cognitiva × Salud mental digital × Didáctica de las Matemáticas × Organización escolar × Políticas educativas**
+
+No es otro TFM de «uso de TIC» ni de gamificación. Su posible nicho está en estudiar **el coste cognitivo de la hiperconectividad** y en proponer diseños que protejan la atención profunda necesaria para el razonamiento matemático abstracto.
+
+### Conexiones recomendadas
+
+- [Atlas de nichos](../atlas-nichos/) — buscar intersecciones relacionadas con atención, metacognición, DUA o contextos de alta demanda cognitiva.
+- [Bibliometría de TFM](../bibliometria-tfm/) — revisar si existen trabajos con datos de aula sobre atención, perseverancia o efectos de dispositivos.
+- [Análisis de temáticas](../ANALISIS-TEMATICAS.md) — el tema de IA + evaluación del aprendizaje (idea 01) es complementario; ambos cuestionan supuestos sobre tecnología y aprendizaje real.
+
+---
+
+## 13. Estado actual de la idea
+
+**Estado:** idea preliminar / candidata a desarrollo.
+
+**No es todavía:** un título definitivo de TFM ni un proyecto cerrado.
+
+### Siguiente paso recomendado
+
+1. Revisión bibliográfica específica sobre:
+   - cognitive load and digital devices in mathematics education;
+   - technostress in secondary students;
+   - UNESCO GEM 2023 y políticas europeas de regulación de pantallas;
+   - estudios sobre soporte analógico vs. digital en álgebra y geometría.
+2. Delimitar el alcance (solo micro/aula vs. micro + meso/centro).
+3. Diseñar instrumentos sencillos y éticamente viables para el Prácticum.
+
+---
+
+## 14. Pregunta que puede guiar la evolución de la idea
+
+> **Si la atención profunda es un recurso limitado y necesario para aprender Matemáticas, ¿qué diseños de aula y de centro la protegen en un entorno saturado de notificaciones y pantallas?**
