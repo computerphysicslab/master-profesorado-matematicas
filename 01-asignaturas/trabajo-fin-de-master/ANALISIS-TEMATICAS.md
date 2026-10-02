@@ -2,7 +2,7 @@
 
 Documento orientativo para **elegir tema** y para situar los [ejemplos de TFM](ejemplos-tfm/) del repositorio. No es un metaanálisis exhaustivo de todos los másteres españoles: sintetiza tendencias documentadas en la producción de TFM y en repositorios institucionales, y las contrasta con lo que **ya cubre** este repo.
 
-> Complementa: [guía de elección de tema](ejemplos-tfm/guia-eleccion-tema-tfm.md) · [bibliografía](bibliografia.md) · [atlas de nichos](atlas-nichos/) · [bibliometría](bibliometria-tfm/)
+> Complementa: [guía de elección de tema](ejemplos-tfm/guia-eleccion-tema-tfm.md) · [bibliografía](bibliografia.md) · [atlas de nichos](atlas-nichos/) · [bibliometría](bibliometria-tfm/) · [ideas interesantes](ideas-interesantes/)
 
 ---
 
@@ -30,8 +30,9 @@ Documento orientativo para **elegir tema** y para situar los [ejemplos de TFM](e
 | **Interdisciplinariedad con datos** | Pocos TFM con correlación entre materias o coordinación real. |
 | **Estadística con ciclo investigativo** (PPDAC) | Menos saturado que el álgebra gamificado. |
 | **Alto rendimiento / enriquecimiento** | Refuerzo es frecuente; **enriquecimiento** aparece menos. |
-| **IA generativa + pensamiento crítico / evaluación del aprendizaje** | Oleada 2025–2026; conviene no repetir solo «uso de ChatGPT» sin variable. |
+| **IA generativa + pensamiento crítico / evaluación del aprendizaje** | Oleada 2025–2026; conviene no repetir solo «uso de ChatGPT» sin variable. Ver [idea 01](ideas-interesantes/01-penalizacion-aprendizaje-ia-generativa.md). |
 | **Aprendizaje-servicio en Matemáticas** | Poco frecuente respecto a ABP genérico. |
+| **Tecnoestrés, atención profunda e higiene digital** | Poco tratado desde la didáctica de las Matemáticas. Ver [idea 02](ideas-interesantes/02-tecnoestres-digital.md). |
 
 ---
 
@@ -50,16 +51,17 @@ Documento orientativo para **elegir tema** y para situar los [ejemplos de TFM](e
 | Estadística / PPDAC | Media–baja | Ampliar |
 | Altas capacidades / excelencia | Baja | Pendiente |
 | IA + evaluación del aprendizaje real | Baja–media (emergente) | Ver idea 01 |
+| Tecnoestrés / higiene digital / atención profunda | **Muy baja** | Ver idea 02 |
 
 ---
 
 ## 4. Recomendaciones para elegir tema
 
-1. **Originalidad:** cognición espacial; enriquecimiento; estadística PPDAC; interdisciplinariedad con datos; IA + medida de aprendizaje *sin* asistencia.
+1. **Originalidad:** cognición espacial; enriquecimiento; estadística PPDAC; interdisciplinariedad con datos; IA + medida de aprendizaje *sin* asistencia; tecnoestrés y atención profunda.
 2. **Modelos consolidados:** ABJ, flipped + cooperativo, GeoGebra/Desmos, mejora de UD LOMLOE.
 3. **Siempre:** currículo autonómico, indicadores observables, no plagiar TFM previos.
 4. Cruzar [atlas-nichos](atlas-nichos/) (huecos) con [bibliometria-tfm](bibliometria-tfm/) (diseños que trascienden).
-5. Leer la [guía de elección de tema](ejemplos-tfm/guia-eleccion-tema-tfm.md).
+5. Leer la [guía de elección de tema](ejemplos-tfm/guia-eleccion-tema-tfm.md) y las [ideas interesantes](ideas-interesantes/).
 
 ---
 
@@ -74,3 +76,4 @@ Las cifras de saturación son **brújula**, no ranking oficial. Complementar con
 - Añadir filas cuando se incorporen ejemplos a `ejemplos-tfm/`.
 - Contrastar con actas SEIEM y repositorios del último curso.
 - Actualizar tras cada ampliación de [bibliometria-tfm/corpus](bibliometria-tfm/corpus/).
+- Incorporar nuevas ideas de [ideas-interesantes/](ideas-interesantes/) cuando maduren.
