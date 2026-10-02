@@ -91,12 +91,6 @@ La actividad parte de la realidad del alumnado, usa el diálogo como método, co
 
 ---
 
-## ENLACE ABIERTO A LA INFOGRAFÍA ELABORADA POR EL GRUPO DE EXPERTOS:
-
-*(Pendiente de elaboración por el grupo.)*
-
----
-
 ## REFERENCIAS (APA 7):
 
 Freire, P. (1970/2005). *Pedagogy of the oppressed* (M. B. Ramos, Trans.). Continuum. (Obra original publicada en 1968).
