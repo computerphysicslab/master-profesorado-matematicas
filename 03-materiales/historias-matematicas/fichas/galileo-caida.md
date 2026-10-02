@@ -21,7 +21,7 @@
 
 Conclusión central (idealizada): en ausencia de resistencia del aire, la distancia recorrida en caída libre es **proporcional al cuadrado del tiempo** ($s \propto t^2$), no depende del peso. La leyenda de la torre de Pisa es dudosa; los planos inclinados sí están documentados en su método.
 
-También defiende el heliocentrismo (conflicto con la Iglesia); el foco de *esta* ficha es el **modelo matemático del movimiento**.
+El foco de *esta* ficha es el **modelo matemático del movimiento** (caída y planos inclinados), no el debate cosmológico.
 
 ---
 
@@ -41,7 +41,7 @@ También defiende el heliocentrismo (conflicto con la Iglesia); el foco de *esta
 
 ## 5. Precauciones
 
-No presentar a Galileo solo como «mártir»; resaltar el **método** (medida + matemática). Enlace a [Newton–Leibniz](newton-leibniz.md).
+Resaltar el **método** (medida + matemática). Enlace a [Newton–Leibniz](newton-leibniz.md).
 
 ## 6. Relacionado
 

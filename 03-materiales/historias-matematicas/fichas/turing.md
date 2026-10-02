@@ -21,8 +21,6 @@
 
 En la Segunda Guerra Mundial contribuye de forma decisiva a descifrar códigos del Eje (Bletchley Park). Después trabaja en los primeros computadores electrónicos y en inteligencia artificial (test de Turing).
 
-Fue perseguido por su homosexualidad; murió en 1954. El relato de aula debe ser **respetuoso y factual**, sin morbo.
-
 ---
 
 ## 3. Idea matemática
