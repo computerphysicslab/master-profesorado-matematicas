@@ -111,12 +111,6 @@ Estas críticas no anulan el valor de sus aportaciones, pero invitan a una lectu
 
 ---
 
-## ENLACE ABIERTO A LA INFOGRAFÍA ELABORADA POR EL GRUPO DE EXPERTOS:
-
-*(Pendiente de elaboración por el grupo. Se puede insertar aquí el enlace cuando esté disponible, por ejemplo en Canva, Genially o PDF del repositorio.)*
-
----
-
 ## REFERENCIAS (APA 7):
 
 Freinet, C. (1964). *Les invariants pédagogiques*. Bibliothèque de l’École Moderne.
