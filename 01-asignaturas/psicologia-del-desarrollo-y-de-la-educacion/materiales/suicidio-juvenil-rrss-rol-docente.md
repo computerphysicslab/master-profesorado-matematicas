@@ -43,7 +43,7 @@ La evidencia **no** permite afirmar que “las redes causan el suicidio”. Sí 
 - Conflictos familiares graves, maltrato  
 - Fracaso o presión escolar intensa sin apoyo  
 - Exposición reiterada a contenidos de riesgo online  
-- Pertenencia a colectivos con mayor discriminación (p. ej. LGTBI+ en contextos hostiles)
+- Acoso escolar o exclusión social sostenida
 
 ### Factores protectores que el centro puede reforzar
 
