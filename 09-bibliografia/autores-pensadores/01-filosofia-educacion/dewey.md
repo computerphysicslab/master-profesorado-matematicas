@@ -94,12 +94,6 @@ La actividad parte de una ocupación real, genera problemas auténticos, exige c
 
 ---
 
-## ENLACE ABIERTO A LA INFOGRAFÍA ELABORADA POR EL GRUPO DE EXPERTOS:
-
-*(Pendiente de elaboración por el grupo.)*
-
----
-
 ## REFERENCIAS (APA 7):
 
 Dewey, J. (1916/2004). *Democracy and education*. Dover Publications. (Obra original publicada en 1916).
