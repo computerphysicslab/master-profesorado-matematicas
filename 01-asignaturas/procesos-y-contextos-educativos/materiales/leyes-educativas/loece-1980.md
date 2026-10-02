@@ -9,12 +9,12 @@
 
 ### 1.1. Contexto Político y Social
 
-- **Escenario político:** Aprobada durante el gobierno de la Unión de Centro Democrático (UCD) presidido por Adolfo Suárez. Ministro de Educación: José Manuel Otero Novas. Contó con el apoyo de Alianza Popular (Manuel Fraga) y partidos nacionalistas de derecha. Fue la primera norma que intentó desarrollar el complejo y ambiguo artículo 27 de la Constitución.
+- **Escenario político:** Aprobada durante el gobierno de la Unión de Centro Democrático (UCD) presidido por Adolfo Suárez. Ministro de Educación: José Manuel Otero Novas. Contó con el apoyo de Alianza Popular (Manuel Fraga) y de partidos nacionalistas. Fue la primera norma que intentó desarrollar el complejo y ambiguo artículo 27 de la Constitución.
   
-- **Clima social y político:** España se encontraba en plena Transición. El artículo 27 de la Constitución había sido un compromiso forzado entre dos concepciones antagónicas de la educación: la que prioriza el derecho a la educación como servicio público y la que prioriza la libertad de enseñanza y la iniciativa privada (especialmente la de la Iglesia católica, muy presente en la red de centros no estatales durante el franquismo).
+- **Clima social y político:** España se encontraba en plena Transición. El artículo 27 de la Constitución había sido un compromiso entre dos concepciones de la educación: la que prioriza el derecho a la educación como servicio público y la que prioriza la libertad de enseñanza y la iniciativa privada.
 
 - **Posicionamiento de la comunidad educativa:**  
-  - **Apoyo:** Sectores conservadores, Iglesia católica y titulares de centros privados.  
+  - **Apoyo:** Titulares de centros privados y sectores favorables a la libertad de enseñanza.  
   - **Rechazo frontal:** PSOE, PCE y movimientos de renovación pedagógica. Consideraron que la ley privilegiaba desequilibradamente los derechos del titular del centro privado sobre los de la comunidad escolar y sobre la libertad de cátedra.
 
 ### 1.2. Directrices e Influencias Internacionales
@@ -29,23 +29,23 @@ No hubo una influencia internacional fuerte y explícita (a diferencia de leyes 
 
 ---
 
-## 2. Dimensión Ideológica y Finalidad Educativa
+## 2. Orientación del discurso normativo y finalidad educativa
 
 ### 2.1. Concepciones de la Educación y del Sujeto
 
 La LOECE no desarrolla un proyecto pedagógico propio. Su centro de gravedad es la **libertad de enseñanza** entendida prioritariamente como libertad de creación y dirección de centros por parte de los titulares (privados), y el reconocimiento del **ideario** o carácter propio del centro.
 
-### 2.2. Ideología Subyacente
+### 2.2. Orientación del discurso normativo
 
 Defensa de la iniciativa privada en educación y del derecho de los titulares a definir el proyecto educativo del centro, con limitaciones a la participación de la comunidad y a la libertad de cátedra cuando chocan con el ideario.
 
-### 2.3. Principales Controversias Ideológicas
+### 2.3. Principales controversias
 
 - El derecho del titular del centro a establecer un ideario educativo.
 - La subordinación de la libertad de cátedra de los profesores a ese ideario.
 - Amplias facultades de dirección del titular en los centros privados (incluso en los sostenidos con fondos públicos).
 
-Desde la izquierda se denunció que convertía los centros privados en “ghettos ideológicos” y que vaciaba de contenido el derecho de padres, profesores y alumnos a intervenir en el control y gestión de los centros sostenidos con fondos públicos.
+Sectores críticos argumentaron que reforzaba el peso de los titulares de centros privados y limitaba la participación de padres, profesores y alumnos en el control y gestión de los centros sostenidos con fondos públicos.
 
 ---
 
@@ -83,4 +83,4 @@ La LOECE no es una ley de ordenación del sistema educativo ni de currículo. Es
 
 ## 5. Relación con los Paradigmas de Investigación
 
-La LOECE se sitúa más cerca del **Paradigma Racional-Tecnológico** en su vertiente organizativa y de control, pero con un fuerte componente **neoconservador** en la defensa de la libertad de enseñanza y del ideario de los centros. No es una ley pedagógica, sino una ley de poder y de distribución de derechos entre titulares, profesores y familias.
+La LOECE se sitúa más cerca del **Paradigma Racional-Tecnológico** en su vertiente organizativa y de control, con énfasis en la libertad de enseñanza y en el ideario de los centros. Es sobre todo una ley de distribución de derechos entre titulares, profesores y familias, más que una ley de pedagogía de aula.
