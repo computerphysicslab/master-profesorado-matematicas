@@ -45,4 +45,5 @@ No exigir la ecuación cartesiana de la elipse en todos los cursos. Enlace a [Ne
 
 ## 6. Relacionado
 
-[Galileo](galileo-caida.md) · [Catálogo](../indices/catalogo.md)
+- **SA completa (6 sesiones):** [Los planetas guardan un secreto (Kepler III)](../../../04-pbl-abp/situaciones-aprendizaje/sa-kepler-ley-planetas-4eso.md) — indagación con datos, producto, CE
+- [Galileo](galileo-caida.md) · [Catálogo](../indices/catalogo.md)

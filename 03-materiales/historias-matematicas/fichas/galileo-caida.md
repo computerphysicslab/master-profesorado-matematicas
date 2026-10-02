@@ -45,4 +45,5 @@ No presentar a Galileo solo como «mártir»; resaltar el **método** (medida + 
 
 ## 6. Relacionado
 
-[Descartes](descartes-coordenadas.md) · [Catálogo](../indices/catalogo.md)
+- **Ficha de autor (mapa del Máster):** [Galileo](../../../09-bibliografia/autores-pensadores/08-matematicas-ciencia-computacion/galileo.md)
+- [Descartes](descartes-coordenadas.md) · [Catálogo](../indices/catalogo.md)

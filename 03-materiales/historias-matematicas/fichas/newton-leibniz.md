@@ -48,4 +48,5 @@ No reducir la disputa a «quién copió a quién». Enlazar con [Derivada](../..
 
 ## 6. Relacionado
 
-[Galileo](galileo-caida.md) · [Laplace](laplace-demonio.md) · [Catálogo](../indices/catalogo.md)
+- **Ficha de autor (mapa del Máster):** [Newton](../../../09-bibliografia/autores-pensadores/08-matematicas-ciencia-computacion/newton.md)
+- [Galileo](galileo-caida.md) · [Laplace](laplace-demonio.md) · [Catálogo](../indices/catalogo.md)

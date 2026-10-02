@@ -14,6 +14,15 @@ Historia → pregunta → intentos → idea → formalización → problema para
 
 Colección ampliable (**32 fichas**).
 
+## Qué es (y qué no es) esta carpeta
+
+| Esta carpeta **sí** | Esta carpeta **no** |
+|---------------------|---------------------|
+| Relatos y enigmas para abrir o enriquecer 1–2 sesiones | Situaciones de aprendizaje completas (CE, producto, 5–7 sesiones, DUA) → ver [`04-pbl-abp/situaciones-aprendizaje`](../../04-pbl-abp/situaciones-aprendizaje/) |
+| Idea matemática + problema para el alumnado | Fichas del mapa intelectual del Máster (lectura, ámbitos) → ver [`09-bibliografia/autores-pensadores`](../../09-bibliografia/autores-pensadores/) |
+
+Algunas figuras aparecen también en **Autores-pensadores** (mapa de lectura) o tienen una **SA** hermana (desarrollo de aula). Los enlaces cruzados en cada ficha evitan duplicar contenido.
+
 ## Fichas publicadas
 
 | Ficha | Concepto | Nivel |

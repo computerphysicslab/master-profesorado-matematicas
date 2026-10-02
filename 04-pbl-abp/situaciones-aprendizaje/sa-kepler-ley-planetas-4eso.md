@@ -37,6 +37,8 @@ nav_order: 20
 - Modelo de **indagación con datos**: conjeturar → probar → refinar → predecir (ciclo cercano a la modelización matemática).
 - Astronomía accesible sin telescopio: basta una hoja de cálculo o calculadora.
 
+**Germen narrativo:** la [historia matemática de Kepler](../../03-materiales/historias-matematicas/fichas/kepler-orbitas.md) puede usarse como apertura antes de esta SA.
+
 ---
 
 ## 3. Objetivos de aprendizaje
@@ -163,6 +165,7 @@ Peso orientativo: proceso 40 % · producto 40 % · metacognición 20 %.
 1. Datos planetarios simplificados (NASA / textbooks) — ver anexo.
 2. Kepler, *Harmonices Mundi* (contexto histórico breve).
 3. SA hermana: [Eratóstenes](sa-eratostenes-3eso.md) (medida de la Tierra).
+4. Historia matemática: [Kepler y las órbitas](../../03-materiales/historias-matematicas/fichas/kepler-orbitas.md).
 
 ---
 

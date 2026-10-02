@@ -44,4 +44,5 @@ No reducir a «el de la película». Enlace a [Ada Lovelace](ada-lovelace.md), [
 
 ## 6. Relacionado
 
-[Catálogo](../indices/catalogo.md)
+- **Ficha de autor (mapa del Máster):** [Turing](../../../09-bibliografia/autores-pensadores/08-matematicas-ciencia-computacion/turing.md)
+- [Catálogo](../indices/catalogo.md)

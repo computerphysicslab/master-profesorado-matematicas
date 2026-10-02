@@ -106,12 +106,13 @@ Modelizar una situación; usar proporcionalidad y geometría; representar; comun
 
 - No presentar la historia como un cuento cerrado e inmutable: es una **reconstrucción didáctica** de un método.
 - Evitar ridiculizar a quienes «no sabían» en la Antigüedad: el logro es precisamente estimar con geometría y medida.
-- Si hay alumnado sensible a temas religiosos o culturales sobre la forma de la Tierra, centrase en el **modelo matemático** y la evidencia de medida.
+- Si hay alumnado sensible a temas religiosos o culturales sobre la forma de la Tierra, centrarse en el **modelo matemático** y la evidencia de medida.
 
 ---
 
 ## 9. Material relacionado en el repo
 
+- **SA completa (6 sesiones):** [¿Cuánto mide realmente la Tierra?](../../../04-pbl-abp/situaciones-aprendizaje/sa-eratostenes-3eso.md) — producto, CE, DUA, socioafectivo
 - [Banco de generatrices (geometría)](../../../01-asignaturas/diseno-curricular-e-instruccional-de-matematicas/materiales/banco-problemas/generatrices.md)
 - [Bloque 8 — Resolución de problemas](../../../01-asignaturas/diseno-curricular-e-instruccional-de-matematicas/apuntes/08-resolucion-de-problemas.md)
 - [Bloque 9 — Génesis escolar](../../../01-asignaturas/diseno-curricular-e-instruccional-de-matematicas/apuntes/09-genesis-escolar-objetos-matematicos.md)

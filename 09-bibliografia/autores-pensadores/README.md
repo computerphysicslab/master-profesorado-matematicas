@@ -4,6 +4,15 @@ Esta carpeta construye una **biblioteca intelectual orientada al Máster de Prof
 
 No pretende ser una lista de autores «obligatorios» ni sustituir las guías docentes. Es un mapa de autores que ayuda a conectar psicología, pedagogía, sociología, didáctica de las Matemáticas, currículo, evaluación, investigación y tecnología.
 
+## Qué es (y qué no es) esta carpeta
+
+| Esta carpeta **sí** | Esta carpeta **no** |
+|---------------------|---------------------|
+| Fichas de **mapa intelectual**: área, conceptos, ámbitos del Máster, preguntas de lectura, localización bibliográfica | Historias o enigmas de aula (1–2 sesiones) → ver [`historias-matematicas`](../../03-materiales/historias-matematicas/) |
+| Orientación de lectura para el futuro profesor | Situaciones de aprendizaje con CE, producto y secuencia → ver [`situaciones-aprendizaje`](../../04-pbl-abp/situaciones-aprendizaje/) |
+
+Algunos nombres (Galileo, Newton, Hilbert, Turing, …) tienen también una **historia matemática** para el aula. Son complementarias: aquí el foco es el lugar del autor en el mapa del Máster; allí, el relato didáctico.
+
 ## Estructura
 
 | Carpeta | Contenido |

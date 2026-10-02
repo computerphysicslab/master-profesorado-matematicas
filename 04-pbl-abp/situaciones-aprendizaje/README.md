@@ -10,6 +10,15 @@ permalink: /04-pbl-abp/situaciones-aprendizaje/
 
 Colección de **situaciones de aprendizaje (SA)** listas para adaptar al contexto de centro y al decreto autonómico. Cada ficha sigue la [plantilla](plantilla-situacion-aprendizaje.md).
 
+## Qué es (y qué no es) esta carpeta
+
+| Esta carpeta **sí** | Esta carpeta **no** |
+|---------------------|---------------------|
+| SA completas: reto, producto final, CE/criterios, saberes, secuencia de sesiones, evaluación, DUA, socioafectivo | Relatos o enigmas de 1–2 sesiones sin diseño LOMLOE completo → ver [`historias-matematicas`](../../03-materiales/historias-matematicas/) |
+| Diseño de aula listo para Practicum / programación | Fichas bibliográficas del mapa intelectual del Máster → ver [`autores-pensadores`](../../09-bibliografia/autores-pensadores/) |
+
+Cuando exista una **historia matemática** hermana (germen narrativo), se enlaza desde la SA y viceversa.
+
 ## Checklist rápido
 
 - [ ] Pregunta guía / reto explícito
@@ -51,3 +60,4 @@ Colección de **situaciones de aprendizaje (SA)** listas para adaptar al context
 | Educación emocional / socioafectivo | CE9–CE10 |
 | DUA | Vías de acceso y expresión |
 | Atlas de nichos TFM | SA como germen de TFM |
+| Historias matemáticas | Germen narrativo de algunas SA (Eratóstenes, Kepler, …) |

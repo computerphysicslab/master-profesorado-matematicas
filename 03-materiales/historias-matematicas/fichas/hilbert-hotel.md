@@ -165,6 +165,7 @@ Argumentar con ejemplos y contraejemplos; generalizar patrones numéricos; disti
 
 ## 13. Material relacionado
 
+- **Ficha de autor (mapa del Máster):** [Hilbert](../../../09-bibliografia/autores-pensadores/08-matematicas-ciencia-computacion/hilbert.md) — formalismo, axiomatización, problemas de Hilbert
 - [Cantor y los infinitos](cantor-infinitos.md)  
 - [Galois](galois.md) (otro tipo de «límites» del método)  
 - [Catálogo](../indices/catalogo.md)

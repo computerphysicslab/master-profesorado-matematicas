@@ -23,3 +23,7 @@ Galileo Galilei forma parte del mapa intelectual del Máster. Esta ficha es un p
 ## Relación con el Máster
 
 Los ámbitos indicados orientan la lectura; **no implican** presencia obligatoria en las guías docentes.
+
+## Material de aula relacionado
+
+- **Historia matemática (aula):** [Galileo y la caída de los cuerpos](../../../03-materiales/historias-matematicas/fichas/galileo-caida.md) — relato, $s \propto t^2$, problema para el alumnado

@@ -39,6 +39,8 @@ El experimento de Eratóstenes (Siena–Alejandría) es un **modelo histórico d
 
 Permite trabajar proporcionalidad, ángulos, circunferencia y estimación del error en un contexto narrativo fuerte, interdisciplinar (Historia, Geografía, Física elemental) y socioafectivo (hipótesis públicas, contraste entre equipos, gestión de la incertidumbre).
 
+**Germen narrativo:** la [historia matemática de Eratóstenes](../../03-materiales/historias-matematicas/fichas/eratostenes-tierra.md) puede usarse como apertura (1 sesión) antes de esta SA.
+
 ---
 
 ## 3. Objetivos de aprendizaje
@@ -166,7 +168,7 @@ Aplicación explícita de saberes socioafectivos en contexto matemático:
 ### Didáctica y recursos
 1. Relato histórico del método de Eratóstenes (divulgación científica escolar y museos de ciencia).
 2. GeoGebra: applets de sombra y arco de circunferencia (recursos abiertos «Eratosthenes Earth»).
-3. Materiales del repo: [plantilla SA](plantilla-situacion-aprendizaje.md); anexos de sentido socioafectivo (actividad de referencia Eratóstenes).
+3. Materiales del repo: [plantilla SA](plantilla-situacion-aprendizaje.md); [historia matemática de Eratóstenes](../../03-materiales/historias-matematicas/fichas/eratostenes-tierra.md); anexos de sentido socioafectivo.
 
 ---
 

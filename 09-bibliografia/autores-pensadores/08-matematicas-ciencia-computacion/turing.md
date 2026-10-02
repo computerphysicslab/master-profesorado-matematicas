@@ -23,3 +23,7 @@ Alan Turing forma parte del mapa intelectual del Máster. Esta ficha es un punto
 ## Relación con el Máster
 
 Los ámbitos indicados orientan la lectura; **no implican** presencia obligatoria en las guías docentes.
+
+## Material de aula relacionado
+
+- **Historia matemática (aula):** [Alan Turing: computación y límites de lo calculable](../../../03-materiales/historias-matematicas/fichas/turing.md) — decidibilidad, problema de la parada, actividad de aula

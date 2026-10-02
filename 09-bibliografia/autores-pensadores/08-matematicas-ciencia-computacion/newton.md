@@ -23,3 +23,7 @@ Isaac Newton forma parte del mapa intelectual del Máster. Esta ficha es un punt
 ## Relación con el Máster
 
 Los ámbitos indicados orientan la lectura; **no implican** presencia obligatoria en las guías docentes.
+
+## Material de aula relacionado
+
+- **Historia matemática (aula):** [Newton y Leibniz: el nacimiento del cálculo](../../../03-materiales/historias-matematicas/fichas/newton-leibniz.md) — fluxiones, notación, problema de velocidad instantánea

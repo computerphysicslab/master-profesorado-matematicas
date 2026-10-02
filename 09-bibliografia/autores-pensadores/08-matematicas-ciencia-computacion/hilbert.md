@@ -23,3 +23,7 @@ David Hilbert forma parte del mapa intelectual del Máster. Esta ficha es un pun
 ## Relación con el Máster
 
 Los ámbitos indicados orientan la lectura; **no implican** presencia obligatoria en las guías docentes.
+
+## Material de aula relacionado
+
+- **Historia matemática (aula):** [Hilbert y el hotel infinito](../../../03-materiales/historias-matematicas/fichas/hilbert-hotel.md) — infinito numerable, biyecciones, debate de aula
