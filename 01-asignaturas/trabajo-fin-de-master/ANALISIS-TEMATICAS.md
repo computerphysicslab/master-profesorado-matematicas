@@ -33,6 +33,7 @@ Documento orientativo para **elegir tema** y para situar los [ejemplos de TFM](e
 | **IA generativa + pensamiento crítico / evaluación del aprendizaje** | Oleada 2025–2026; conviene no repetir solo «uso de ChatGPT» sin variable. Ver [idea 01](ideas-interesantes/01-penalizacion-aprendizaje-ia-generativa.md). |
 | **Aprendizaje-servicio en Matemáticas** | Poco frecuente respecto a ABP genérico. |
 | **Tecnoestrés, atención profunda e higiene digital** | Poco tratado desde la didáctica de las Matemáticas. Ver [idea 02](ideas-interesantes/02-tecnoestres-digital.md). |
+| **Burocratización docente, autonomía y bienestar** | Muy poco explorado desde la especialidad de Matemáticas; anclaje en TALIS 2024. Ver [idea 03](ideas-interesantes/03-burocratizacion-docente-y-carga-administrativa.md). |
 
 ---
 
@@ -52,12 +53,13 @@ Documento orientativo para **elegir tema** y para situar los [ejemplos de TFM](e
 | Altas capacidades / excelencia | Baja | Pendiente |
 | IA + evaluación del aprendizaje real | Baja–media (emergente) | Ver idea 01 |
 | Tecnoestrés / higiene digital / atención profunda | **Muy baja** | Ver idea 02 |
+| Burocratización / autonomía / bienestar docente | **Muy baja** (desde Matemáticas) | Ver idea 03 |
 
 ---
 
 ## 4. Recomendaciones para elegir tema
 
-1. **Originalidad:** cognición espacial; enriquecimiento; estadística PPDAC; interdisciplinariedad con datos; IA + medida de aprendizaje *sin* asistencia; tecnoestrés y atención profunda.
+1. **Originalidad:** cognición espacial; enriquecimiento; estadística PPDAC; interdisciplinariedad con datos; IA + medida de aprendizaje *sin* asistencia; tecnoestrés y atención profunda; burocratización y autonomía docente.
 2. **Modelos consolidados:** ABJ, flipped + cooperativo, GeoGebra/Desmos, mejora de UD LOMLOE.
 3. **Siempre:** currículo autonómico, indicadores observables, no plagiar TFM previos.
 4. Cruzar [atlas-nichos](atlas-nichos/) (huecos) con [bibliometria-tfm](bibliometria-tfm/) (diseños que trascienden).
