@@ -1,23 +1,23 @@
-# Katherine Johnson: trayectorias, cálculo y la carrera espacial
+# Katherine Johnson: trayectorias y verificación numérica
 
 | Campo | Contenido |
 |-------|-----------|
 | **Nivel** | ESO · Bachillerato |
-| **Conceptos** | Funciones; geometría analítica; órbitas; cálculo numérico; verificación |
-| **Sentidos** | Espacial; algebraico; socioafectivo |
+| **Conceptos** | Modelización; órbitas; cálculo numérico; verificación |
+| **Sentidos** | Espacial; numérico; algebraico |
 | **Tiempo** | 1 sesión |
 
 ---
 
 ## 1. Pregunta generatriz
 
-> Antes de que un ordenador fuera «de fiar» en la NASA, ¿quién comprobaba las trayectorias de un vuelo espacial? ¿Qué matemáticas hacen falta para que una cápsula regrese a la Tierra?
+> Si un ordenador calcula una trayectoria orbital, ¿por qué alguien pediría que una persona **volviera a comprobar** las cifras a mano antes del lanzamiento?
 
 ---
 
 ## 2. Historia
 
-**Katherine Coleman Goble Johnson** (White Sulphur Springs, Virginia, 1918 – 2020). Matemática afroamericana. Graduada con excelencia en matemáticas y francés; trabaja desde 1953 en el comité asesor nacional de aeronáutica (NACA, luego **NASA**) en Langley, en el grupo de «computadoras humanas» — muchas de ellas mujeres negras en un contexto de segregación.
+**Katherine Coleman Goble Johnson** (White Sulphur Springs, Virginia, 1918 – 2020). Matemática estadounidense. Graduada con excelencia en matemáticas y francés; trabaja desde 1953 en el comité asesor nacional de aeronáutica (NACA, luego **NASA**) en Langley, en el grupo de «computadoras humanas» que realizaban cálculos de trayectorias y tablas numéricas.
 
 Sus cálculos de **mecánica orbital** y trayectorias fueron decisivos en:
 
@@ -25,7 +25,7 @@ Sus cálculos de **mecánica orbital** y trayectorias fueron decisivos en:
 - el vuelo orbital de **John Glenn** (1962), quien pidió explícitamente que Johnson verificara las cifras del ordenador antes del lanzamiento;
 - más adelante, trabajo ligado a las misiones Apolo.
 
-Recibió la Medalla Presidencial de la Libertad (2015). Su historia (y la de colegas como Dorothy Vaughan y Mary Jackson) se popularizó con el libro y la película *Hidden Figures* (2016).
+Recibió la Medalla Presidencial de la Libertad (2015). Trabajó junto a colegas como Dorothy Vaughan y Mary Jackson en los cálculos de la NASA.
 
 ---
 
@@ -51,14 +51,14 @@ Sin formalismo de ecuaciones diferenciales en ESO: basta la idea de que **peque�
 
 **Historia**
 
-> ¿Qué obstáculos institucionales y sociales enfrentó Johnson? ¿Por qué importa nombrar a las «computadoras humanas» en la historia de la NASA?
+> ¿Por qué importa nombrar a las «computadoras humanas» en la historia de la NASA y qué papel jugó el cálculo manual junto al electrónico?
 
 ---
 
 ## 5. Precauciones
 
-- No reducir a «la mujer que salvó la misión» sin **qué** calculaba.  
-- Nombrar el contexto de segregación y el trabajo colectivo (Vaughan, Jackson, equipo).  
+- No reducir la ficha a un eslogan mediático: el centro es **qué** calculaba (trayectorias, ventanas de lanzamiento).  
+- Señalar el trabajo colectivo del equipo de cálculo (Vaughan, Jackson y otros).  
 - Evitar que la sesión sea solo cine: el centro es la **modelización orbital** y la cultura de la verificación.  
 - Enlace a [Kepler](kepler-orbitas.md), [Ada Lovelace](ada-lovelace.md), [Emmy Noether](emmy-noether.md).
 

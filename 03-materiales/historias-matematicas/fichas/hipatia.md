@@ -11,7 +11,7 @@
 
 ## 1. Pregunta generatriz
 
-> En el s. IV, en Alejandría, una mujer dirige una escuela de filosofía y matemáticas. ¿Qué se enseñaba allí? ¿Qué se perdió —y qué se conservó— de la tradición griega?
+> En el s. IV, en Alejandría, Hipatia dirige una escuela de filosofía y matemáticas. ¿Qué se enseñaba allí? ¿Qué se perdió —y qué se conservó— de la tradición griega?
 
 ---
 
@@ -19,9 +19,9 @@
 
 **Hipatia** (c. 355/370 – 415 d. C.), matemática y filósofa neoplatónica de **Alejandría**. Hija de Teón (astrónomo y editor de Euclides). Enseña geometría, astronomía y filosofía; se le atribuyen comentarios a **Diofanto**, a las **Cónicas de Apolonio** y trabajo sobre el **Almagesto** / tablas astronómicas, aunque los textos originales no se conservan de forma segura.
 
-Fue figura pública respetada; su muerte violenta en 415, en un contexto de tensión política y religiosa en Alejandría, la convirtió en símbolo (a veces mitificado) de la ciencia frente a la intolerancia.
+Fue figura pública respetada en Alejandría. Murió de forma violenta en 415, en un contexto de tensión política de la ciudad. Para el aula, el centro de interés es su **trabajo matemático y la transmisión del saber**, no la mitificación de su muerte.
 
-**Precisión histórica:** no es «la primera mujer matemática de la historia» en sentido absoluto (hay indicios anteriores más fragmentarios), pero sí una de las **mejor documentadas** de la Antigüedad tardía y un hito en la transmisión del saber helenístico.
+**Precisión histórica:** es una de las figuras matemáticas **mejor documentadas** de la Antigüedad tardía y un hito en la transmisión del saber helenístico.
 
 ---
 
@@ -45,15 +45,14 @@ Fue figura pública respetada; su muerte violenta en 415, en un contexto de tens
 
 **Historia**
 
-> Busca qué obras de Euclides o Apolonio conocemos gracias a copistas y comentaristas. ¿Qué riesgo hay al romantizar solo la muerte de Hipatia?
+> Busca qué obras de Euclides o Apolonio conocemos gracias a copistas y comentaristas. ¿Qué se pierde si solo se recuerda a una figura por su muerte y no por su trabajo?
 
 ---
 
 ## 5. Precauciones
 
 - Evitar leyendas no documentadas (inventos mecánicos espectaculares sin fuente).  
-- No reducir su figura a víctima: el centro es la **enseñanza y la geometría**.  
-- Contextualizar Alejandría cristiana/pagana sin maniqueísmos.  
+- El centro de la ficha es la **enseñanza y la geometría**, no el relato trágico.  
 - Enlace a [Eratóstenes](eratostenes-tierra.md), [Arquímedes](arquimedes-corona.md), [Descartes](descartes-coordenadas.md), [Sophie Germain](sophie-germain.md).
 
 ## 6. Relacionado
