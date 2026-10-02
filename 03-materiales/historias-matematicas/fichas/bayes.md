@@ -43,4 +43,5 @@ No asustar con diagnósticos reales; usar números de ficción. Enlace a [Pascal
 
 ## 6. Relacionado
 
-[Ficha probabilidad](../../../01-asignaturas/diseno-curricular-e-instruccional-de-matematicas/materiales/fichas-objetos/probabilidad.md) · [Catálogo](../indices/catalogo.md)
+- **SA relacionada (simulación + puente bayesiano):** [¿Te conviene cambiar de puerta? (Monty Hall)](../../../04-pbl-abp/situaciones-aprendizaje/sa-monty-hall-4eso.md)
+- [Ficha probabilidad](../../../01-asignaturas/diseno-curricular-e-instruccional-de-matematicas/materiales/fichas-objetos/probabilidad.md) · [Monty Hall](monty-hall.md) · [Catálogo](../indices/catalogo.md)

@@ -46,4 +46,5 @@ El presentador **siempre** abre una puerta con cabra y nunca la del concursante.
 
 ## 6. Relacionado
 
-[Pascal](pascal-problema-puntos.md) · [Catálogo](../indices/catalogo.md)
+- **SA completa (5 sesiones):** [¿Te conviene cambiar de puerta? (Monty Hall)](../../../04-pbl-abp/situaciones-aprendizaje/sa-monty-hall-4eso.md) — simulación, producto, CE, puente a Bayes
+- [Pascal](pascal-problema-puntos.md) · [Bayes](bayes.md) · [Catálogo](../indices/catalogo.md)
