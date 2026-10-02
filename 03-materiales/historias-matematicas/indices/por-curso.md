@@ -22,6 +22,7 @@
 | Mandelbrot | [mandelbrot.md](../fichas/mandelbrot.md) |
 | Zenón (Aquiles)* | [zenon-aquiles.md](../fichas/zenon-aquiles.md) |
 | Dilema del prisionero | [dilema-prisionero.md](../fichas/dilema-prisionero.md) |
+| Hamlet y π | [hamlet-pi.md](../fichas/hamlet-pi.md) |
 
 \*En 4.º: tabla y progresión geométrica; sin series formales.
 
@@ -38,6 +39,7 @@
 | Emmy Noether | [emmy-noether.md](../fichas/emmy-noether.md) |
 | Ingrid Daubechies | [ingrid-daubechies.md](../fichas/ingrid-daubechies.md) |
 | Mirzakhani | [mirzakhani.md](../fichas/mirzakhani.md) |
+| Hamlet y π (ampliación: normalidad de π) | [hamlet-pi.md](../fichas/hamlet-pi.md) |
 | Al-Juarismi / Hipatia / Ramanujan / Johnson | En mayor profundidad |
 | (+ todas las de ESO) | |
 
