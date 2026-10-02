@@ -97,12 +97,6 @@ La secuencia respeta el paso de lo concreto a lo abstracto, utiliza material con
 
 ---
 
-## ENLACE ABIERTO A LA INFOGRAFÍA ELABORADA POR EL GRUPO DE EXPERTOS:
-
-*(Pendiente de elaboración por el grupo.)*
-
----
-
 ## REFERENCIAS (APA 7):
 
 Montessori, M. (1912/1964). *The Montessori method*. Schocken Books. (Obra original publicada en 1909).
