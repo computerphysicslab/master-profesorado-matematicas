@@ -88,12 +88,6 @@ La actividad privilegia la experiencia sobre la instrucción verbal prematura, s
 
 ---
 
-## ENLACE ABIERTO A LA INFOGRAFÍA ELABORADA POR EL GRUPO DE EXPERTOS:
-
-*(Pendiente de elaboración por el grupo.)*
-
----
-
 ## REFERENCIAS (APA 7):
 
 Rousseau, J.-J. (1762/1979). *Emile, or On education* (A. Bloom, Trans.). Basic Books. (Obra original publicada en 1762).
