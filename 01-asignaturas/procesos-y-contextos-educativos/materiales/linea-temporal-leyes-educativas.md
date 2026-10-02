@@ -1,71 +1,58 @@
+---
+layout: default
+title: Línea temporal de leyes educativas
+parent: Procesos y contextos educativos
+---
+
 # Línea temporal de leyes educativas (España)
 
-**Tema 1** · Esquema de apoyo al [apunte de evolución y paradigmas](../apuntes/01-evolucion-historica-sistema-educativo-paradigmas.md).
-
 ```text
-1857  Ley Moyano
-        │  Ordenación liberal-centralizadora; dualidad escolar
-        │  Paradigma: técnico-positivista inicial
-        ▼
-1931–39 Segunda República / ILE
-        │  Escuela única, laica, coeducativa (proyecto)
-        │  Matices interpretativos y sociocríticos
-        ▼
-1939–70 Franquismo (leyes de primaria y media)
+1970  LGE (Ley General de Educación)
         │  Nacionalcatolicismo; segregación; currículo cerrado
-        │  Positivista / dogmático
         ▼
-1970  LGE (Villar Palasí)
-        │  EGB, BUP, FP; objetivos operativos; tecnocracia
-        │  Positivista-tecnocrático
+1978  Constitución (art. 27)
+        │  Compromiso: derecho a la educación + libertad de enseñanza
+        ▼
+1980  LOECE
+        │  Estatuto de centros; ideario; parcialmente anulada (TC 1981)
         ▼
 1985  LODE
-        │  Participación; consejos escolares; conciertos
-        │  Impulso participativo / sociocrítico
+        │  Derecho a la educación; participación; conciertos
         ▼
 1990  LOGSE
-        │  ESO hasta 16; constructivismo oficial
-        │  Interpretativo
+        │  Comprensividad; constructivismo; ESO; atención a la diversidad
+        ▼
+2002  LOCE
+        │  Itinerarios; cultura del esfuerzo (poca aplicación efectiva)
         ▼
 2006  LOE
-        │  Competencias básicas; equidad
+        │  Competencias; Educación para la Ciudadanía; equilibrio
         ▼
 2013  LOMCE
-        │  Estándares; reválidas; matices positivistas
+        │  Reválidas; itinerarios; recentralización curricular
         ▼
-2020  LOMLOE
-        │  Competencias específicas; DUA; inclusión; sentidos
-        │  Interpretativo + sociocrítico en el discurso oficial
+2020  LOMLOE (vigente)
+        │  Perfil de salida; DUA; situaciones de aprendizaje; competencias específicas
 ```
 
-## Lectura rápida
+## Lectura rápida por etapas
 
-| Etapa | Palabra clave |
-|-------|---------------|
-| Moyano | Dualidad y centralización |
-| República / ILE | Renovación y coeducación |
+| Etapa | Clave |
+|-------|--------|
 | Franquismo | Dogma y segregación |
-| LGE | Modernización y objetivos |
-| LODE–LOGSE–LOE | Democracia, ESO, competencias |
-| LOMCE | Estándares y evaluación externa |
-| LOMLOE | Competencial, inclusivo, DUA |
+| Transición | Compromiso constitucional (art. 27) |
+| LODE–LOGSE | Expansión del derecho y modelo comprensivo |
+| LOCE–LOMCE | Énfasis en evaluación, diferenciación y esfuerzo |
+| LOMLOE | Competencias, inclusión, DUA |
 
-> Las fechas marcan leyes marco; la práctica de aula siempre es más híbrida que el texto legal.
+## Fichas de análisis
 
-## Fichas detalladas por ley (1980–2020)
+Para profundizar en cada ley orgánica democrática (contexto, pedagogía, críticas y relación con paradigmas):
 
-Para profundizar en cada ley orgánica democrática (contexto, ideología, pedagogía, críticas y relación con paradigmas):
-
-| Ley | Año | Ficha |
-|-----|-----|-------|
-| LOECE | 1980 | [loece-1980.md](leyes-educativas/loece-1980.md) |
-| LODE | 1985 | [lode-1985.md](leyes-educativas/lode-1985.md) |
-| LOGSE | 1990 | [logse-1990.md](leyes-educativas/logse-1990.md) |
-| LOCE | 2002 | [loce-2002.md](leyes-educativas/loce-2002.md) |
-| LOE | 2006 | [loe-2006.md](leyes-educativas/loe-2006.md) |
-| LOMCE | 2013 | [lomce-2013.md](leyes-educativas/lomce-2013.md) |
-| LOMLOE | 2020 | [lomloe-2020.md](leyes-educativas/lomloe-2020.md) |
-
-Índice de la carpeta: [leyes-educativas/README.md](leyes-educativas/README.md).
-
-Apunte principal: [01-evolución histórica y paradigmas](../apuntes/01-evolucion-historica-sistema-educativo-paradigmas.md).
+- [LOECE (1980)](leyes-educativas/loece-1980.md)
+- [LODE (1985)](leyes-educativas/lode-1985.md)
+- [LOGSE (1990)](leyes-educativas/logse-1990.md)
+- [LOCE (2002)](leyes-educativas/loce-2002.md)
+- [LOE (2006)](leyes-educativas/loe-2006.md)
+- [LOMCE (2013)](leyes-educativas/lomce-2013.md)
+- [LOMLOE (2020)](leyes-educativas/lomloe-2020.md)
