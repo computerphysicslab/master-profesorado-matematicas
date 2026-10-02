@@ -1,6 +1,6 @@
 # Catálogo de historias matemáticas
 
-**30 fichas publicadas.**
+**31 fichas publicadas.**
 
 | Historia | Concepto | Nivel | Estado |
 |----------|----------|-------|--------|
@@ -34,3 +34,4 @@
 | Mandelbrot | Fractales | ESO/Bach. | **Publicada** |
 | Ingrid Daubechies | Wavelets, compresión | Bachillerato | **Publicada** |
 | Maryam Mirzakhani | Geometría de superficies | Bachillerato | **Publicada** |
+| Hamlet y los dígitos de π | Codificación, probabilidad, órdenes de magnitud | ESO/Bach. | **Publicada** |
