@@ -42,6 +42,8 @@ Cuando exista una **historia matemática** hermana (germen narrativo), se enlaza
 | [¿Cuántas personas para compartir cumpleaños?](sa-paradoja-cumpleanos-3eso.md) | 3.º–4.º ESO | Estocástico, numérico, socioafectivo | 5 sesiones | Completa v1.0 |
 | [¿Puede un folio llegar a la Luna?](sa-papel-luna-exponencial-2eso.md) | 2.º–3.º ESO | Numérico, algebraico, medida · astronomía ligera | 4 sesiones | Completa v1.0 |
 | [Lotería, independencia y Drake](sa-independencia-drake-4eso.md) | 4.º ESO / 1.º Bach | Estocástico, numérico, modelización · SETI | 7 sesiones | Completa v1.0 |
+| [La campana que esconde un círculo (gaussiana)](sa-campana-gaussiana-bach.md) | 2.º Bach. (adaptable 1.º) | Algebraico, medida, espacial · análisis | 6 sesiones | Completa v1.0 |
+| [Hamlet y los dígitos de π](sa-hamlet-pi-4eso.md) | 4.º ESO / 1.º Bach | Numérico, estocástico, algebraico · computacional | 5 sesiones | Completa v1.0 |
 
 ## Plantilla
 
@@ -60,4 +62,4 @@ Cuando exista una **historia matemática** hermana (germen narrativo), se enlaza
 | Educación emocional / socioafectivo | CE9–CE10 |
 | DUA | Vías de acceso y expresión |
 | Atlas de nichos TFM | SA como germen de TFM |
-| Historias matemáticas | Germen narrativo de algunas SA (Eratóstenes, Kepler, …) |
+| Historias matemáticas | Germen narrativo de algunas SA (Eratóstenes, Kepler, campana, Hamlet–π, …) |

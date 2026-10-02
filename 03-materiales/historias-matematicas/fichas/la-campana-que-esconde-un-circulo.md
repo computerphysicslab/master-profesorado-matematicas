@@ -133,6 +133,7 @@ Modelizar; establecer conexiones entre análisis y geometría; cambiar de repres
 
 ## 9. Material relacionado en el repo
 
+- **SA completa (6 sesiones):** [La campana que esconde un círculo](../../../04-pbl-abp/situaciones-aprendizaje/sa-campana-gaussiana-bach.md) — producto, CE, DUA, numérico con GeoGebra/Python
 - [Newton y Leibniz](newton-leibniz.md) (cálculo, áreas)
 - [Descartes](descartes-coordenadas.md) (cambio de representación, coordenadas)
 - [Kepler](kepler-orbitas.md) (geometría y modelización)

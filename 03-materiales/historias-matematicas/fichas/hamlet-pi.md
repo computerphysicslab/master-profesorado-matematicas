@@ -169,6 +169,7 @@ Modelizar una situación; usar potencias de 10 y órdenes de magnitud; interpret
 
 ## 9. Material relacionado en el repo
 
+- **SA completa (5 sesiones):** [Hamlet y los dígitos de π](../../../04-pbl-abp/situaciones-aprendizaje/sa-hamlet-pi-4eso.md) — producto, CE, DUA, comparación de escalas
 - [Pascal — problema de los puntos](pascal-problema-puntos.md) (probabilidad, esperanza)
 - [Monty Hall](monty-hall.md) / [Bayes](bayes.md) (probabilidad condicionada y modelos)
 - [Hilbert (hotel)](hilbert-hotel.md) / [Cantor](cantor-infinitos.md) (infinito y contrastes de cardinalidad/escala)
