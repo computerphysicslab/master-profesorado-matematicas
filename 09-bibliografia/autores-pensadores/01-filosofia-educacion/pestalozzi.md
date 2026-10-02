@@ -93,12 +93,6 @@ La actividad respeta el principio de *Anschauung*, avanza de lo concreto a lo ab
 
 ---
 
-## ENLACE ABIERTO A LA INFOGRAFÍA ELABORADA POR EL GRUPO DE EXPERTOS:
-
-*(Pendiente de elaboración por el grupo.)*
-
----
-
 ## REFERENCIAS (APA 7):
 
 Pestalozzi, J. H. (1801/1894). *How Gertrude teaches her children* (L. E. Holland & F. C. Turner, Trans.). Swan Sonnenschein. (Obra original publicada en 1801).
