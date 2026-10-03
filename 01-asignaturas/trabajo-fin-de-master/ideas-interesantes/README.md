@@ -34,14 +34,16 @@ Las ideas se incorporan cuando aparece una combinación especialmente interesant
 | [13 — Fatiga de innovación metodológica](13-fatiga-innovacion-metodologica.md) | Rotación continua de metodologías | Innovación · coherencia · TALIS | semilla |
 | [14 — Datos reales vs. datos de libro en Estadística](14-datos-reales-vs-libro-estadistica.md) | Datos reales vs. tablas artificiales | Estadística · alfabetización de datos | semilla |
 | [15 — Corrección entre iguales y metacognición](15-correccion-entre-iguales-metacognicion.md) | Corregir el error ajeno para detectar el propio | Evaluación formativa · metacognición | semilla |
-| [16 — Margen de acción docente bajo LOMLOE](16-margen-accion-docente-lomloe-libertad-catedra.md) | Éxito matemático dentro de la norma; libertad de cátedra y burocracia | LOMLOE · autonomía · PISA · aula | **expandida** |
+| [16 — Margen de acción docente bajo LOMLOE](16-margen-accion-docente-lomloe-libertad-catedra.md) | Éxito matemático dentro de la norma; libertad de cátedra y burocracia | LOMLOE · autonomía · PISA · aula | expandida |
+| [17 — Matemáticas y salud mental](17-matematicas-y-salud-mental.md) | Ansiedad, clima de error, bienestar y rol docente (límites y derivación) | Salud mental · ansiedad · feedback | **expandida** |
 
 ### Prioridad sugerida (línea crítica del repo)
 
-1. **16** — margen de acción bajo LOMLOE (síntesis sistema + aula; enlaza PISA 2025, leyes y burocracia).
-2. **06** — ilusión de competencia ([protocolo Prácticum](06-protocolo-practicum.md)).
-3. **11** — pizarra infinita ([protocolo Prácticum](11-protocolo-practicum.md)).
-4. **10** — ansiedad transmitida (puente a investigación posterior / tesis).
+1. **16** — margen de acción bajo LOMLOE (síntesis sistema + aula).
+2. **17** — matemáticas y salud mental (aula + ética de derivación; complementa a la 10).
+3. **06** — ilusión de competencia ([protocolo](06-protocolo-practicum.md)).
+4. **11** — pizarra infinita ([protocolo](11-protocolo-practicum.md)).
+5. **10** — ansiedad transmitida (familia; puente a tesis).
 
 ## Cruce rápido con el Atlas de saturación (v0.9–v0.10)
 
@@ -51,10 +53,10 @@ Las ideas se incorporan cuando aparece una combinación especialmente interesant
 | 07 | Gamificación × motivación genérica | *Crowding-out*; retirada de recompensas |
 | 08 | Álgebra × secuencia clásica | Lenguaje como predictor del error algebraico |
 | 09 | Debate calculadora sí/no | Estimación y detección de absurdos |
-| 10 | «Juegos para bajar la ansiedad» sin medida | Transmisión familiar/docente; AMAS + autoeficacia |
+| 10, **17** | «Juegos para bajar la ansiedad» sin medida | Ansiedad medida; clima de error; **rol y límites docentes** |
 | 11 | GeoGebra × geometría sin más | **Espacio de la pizarra** como variable cognitiva |
 | 12–15 | Escape room genérico; funciones × secuencia | Fermi; fatiga de innovación; datos reales vs. libro; peer correction |
-| **16** | Opinión pro/contra LOMLOE sin aula | **Margen docente real** × mates × autonomía × burocracia |
+| 16 | Opinión pro/contra LOMLOE sin aula | Margen docente real × mates × autonomía × burocracia |
 
 Fuente: [Atlas de nichos](../atlas-nichos/) · [mapa de saturación](../atlas-nichos/03-mapa-saturacion.md) · [ranking de intersecciones](../atlas-nichos/04-coocurrencias-y-ranking-v09.md).
 
@@ -66,6 +68,7 @@ Fuente: [Atlas de nichos](../atlas-nichos/) · [mapa de saturación](../atlas-ni
 | [Bibliometría de TFM](../bibliometria-tfm/) | ¿Qué TFM han trascendido y con qué diseño? |
 | [Ejemplos de TFM](../ejemplos-tfm/) | ¿Cómo se estructuran trabajos reales? |
 | [Análisis de temáticas](../ANALISIS-TEMATICAS.md) | Visión general de saturación |
-| [Leyes educativas / PISA 2025](../../procesos-y-contextos-educativos/materiales/leyes-educativas/) | Marco normativo e internacional de la idea 16 |
+| [Leyes educativas / PISA 2025](../../procesos-y-contextos-educativos/materiales/leyes-educativas/) | Marco de la idea 16 |
+| [Materiales de psicología](../../../03-materiales/psicologia/) | Acción docente y derivación (ideas 10 y 17) |
 
 La carpeta `ideas-interesantes/` funciona como puente entre la **detección de un nicho**, la **lectura de impacto** y la **formulación de una propuesta concreta de TFM**.
