@@ -4,6 +4,8 @@ Los ámbitos del Máster se indican **por nombre de materia**, sin códigos num�
 
 > **Ruta de estudio prioritaria (por relevancia para el Máster):** ver [INDICE-POR-RELEVANCIA.md](./INDICE-POR-RELEVANCIA.md) — orden descendente para estudiar primero lo más transversal y aplicable al aula de Matemáticas.
 
+> **Organismos y sociedades** (FESPM, CEMAT, NCTM, etc.): no son pensadores individuales → [../organismos-sociedades/](../organismos-sociedades/).
+
 | Autor | Área | Conceptos | Ámbitos del Máster |
 |---|---|---|---|
 | [Sócrates](./01-filosofia-educacion/socrates.md) | Filosofía del diálogo | mayéutica; preguntas; diálogo socrático | Procesos y contextos educativos; Diseño de actividades de aprendizaje de Matemáticas; Habilidades comunicativas |
@@ -47,9 +49,6 @@ Los ámbitos del Máster se indican **por nombre de materia**, sin códigos num�
 | [Luis Rico](./05-educacion-matematica/rico.md) | Didáctica de la Matemática | análisis didáctico; organización de contenidos | Diseño curricular e instruccional de Matemáticas; Contenidos disciplinares de Matemáticas |
 | [Martín Socas](./05-educacion-matematica/socas.md) | Errores y dificultades | errores; álgebra; afecto | Diseño de actividades de aprendizaje de Matemáticas; Psicología del desarrollo y de la educación |
 | [Modesto Sierra](./05-educacion-matematica/sierra.md) | Historia e institucionalización | SEIEM; historia de la educación matemática | Innovación e investigación educativa en Matemáticas |
-| [CEMAT](./05-educacion-matematica/cemat.md) | Coordinación institucional | sociedades matemáticas; currículo | Procesos y contextos educativos |
-| [FESPM](./05-educacion-matematica/fespm.md) | Desarrollo profesional | federación; JAEM | Procesos y contextos educativos; Innovación e investigación educativa en Matemáticas |
-| [NCTM](./05-educacion-matematica/nctm.md) | Estándares curriculares | principles and standards; procesos | Diseño curricular e instruccional de Matemáticas |
 | [Lee Shulman](./06-curriculo-evaluacion-investigacion/shulman.md) | Conocimiento profesional docente | PCK; conocimiento didáctico del contenido | Diseño curricular e instruccional de Matemáticas; Diseño de actividades; Innovación e investigación |
 | [Dylan Wiliam](./06-curriculo-evaluacion-investigacion/william.md) | Evaluación formativa | evidencias de aprendizaje; feedback | Diseño de actividades de aprendizaje de Matemáticas; Innovación e investigación educativa en Matemáticas |
 | [Seymour Papert](./07-tecnologia-ia/papert.md) | Tecnología educativa | construccionismo; Logo | TIC para el aprendizaje; Diseño de actividades de aprendizaje de Matemáticas |
@@ -57,4 +56,5 @@ Los ámbitos del Máster se indican **por nombre de materia**, sin códigos num�
 
 > Índice selectivo ampliado. El listado completo por carpeta está en las subcarpetas `01`–`08` y en [`MAPA-AUTOR-AMBITO.md`](./MAPA-AUTOR-AMBITO.md).
 
-> **Orden de estudio prioritario:** [INDICE-POR-RELEVANCIA.md](./INDICE-POR-RELEVANCIA.md).
+> **Orden de estudio prioritario:** [INDICE-POR-RELEVANCIA.md](./INDICE-POR-RELEVANCIA.md).  
+> **Organismos (FESPM, CEMAT, NCTM):** [../organismos-sociedades/](../organismos-sociedades/).

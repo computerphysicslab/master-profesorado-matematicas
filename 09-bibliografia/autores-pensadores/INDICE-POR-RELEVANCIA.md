@@ -10,6 +10,8 @@ Orden orientativo de estudio: **de mayor a menor utilidad transversal** para las
 
 > Este orden es una **ruta de estudio prioritaria**, no un juicio sobre la importancia histórica de cada pensador.
 
+> **FESPM, CEMAT y NCTM** son organismos, no pensadores → [../organismos-sociedades/](../organismos-sociedades/).
+
 ---
 
 ## Nivel 1 — Núcleo imprescindible (estudiar primero)
@@ -98,19 +100,18 @@ Estudiar cuando el núcleo y el nivel 2–3 estén consolidados, o según el tem
 
 ---
 
-## Nivel 5 — Consulta puntual / instituciones / fichas breves
+## Nivel 5 — Consulta puntual / fichas breves
 
 Útiles como **referencia** o cuando el programa o el TFM lo exijan; no priorizar al inicio del curso.
 
-| Autor / entidad | Uso típico | Ficha |
+| Autor / recurso | Uso típico | Dónde |
 |-----------------|------------|-------|
 | Modesto Sierra | Historia SEIEM / institucionalización | [sierra.md](./05-educacion-matematica/sierra.md) |
-| NCTM | Estándares y procesos (comparación internacional) | [nctm.md](./05-educacion-matematica/nctm.md) |
-| FESPM / CEMAT | Profesión docente matemática en España | [fespm.md](./05-educacion-matematica/fespm.md), [cemat.md](./05-educacion-matematica/cemat.md) |
 | Alan Turing | Computabilidad; puente TIC/mates | [turing.md](./08-matematicas-ciencia-computacion/turing.md) |
-| Michèle Artigue, Raymond Duval, Paul Ernest, Ubiratan D’Ambrosio, Jeremy Kilpatrick | Didáctica avanzada / epistemología / etnomatemática | carpeta [05-educacion-matematica/](./05-educacion-matematica/) |
+| Michèle Artigue, Raymond Duval, Paul Ernest, Ubiratan D’Ambrosio, Jeremy Kilpatrick | Didáctica avanzada / epistemología / etnomatemática | [05-educacion-matematica/](./05-educacion-matematica/) |
 | Bernstein, Foucault, Marx, Weber, Goffman | Sociología crítica ampliada | [03-sociologia/](./03-sociologia/) |
 | Lewin, Festinger, Asch, Milgram, Sherif, Tajfel | Psicología social (grupo, conformidad, identidad) | [04-psicologia-social/](./04-psicologia-social/) |
+| **FESPM, CEMAT, NCTM** | Profesión docente, coordinación, estándares internacionales | **[../organismos-sociedades/](../organismos-sociedades/)** (no son pensadores) |
 
 ---
 
@@ -129,11 +130,12 @@ Ampliación    Nivel 4–5 según examen, TFM o interés
 |---------------------|-----------|
 | Psicología del desarrollo y de la educación | Vygotsky, Piaget, Ausubel, Bruner, Sweller, Bandura, Dweck, Skinner, Lazarus |
 | Procesos y contextos educativos | Dewey, Freire, Freinet, Rousseau, Pestalozzi, Bourdieu, Durkheim, Illich |
-| Diseño curricular e instruccional de Matemáticas | Shulman, Chevallard, Brousseau, Godino, Rico, Niss, NCTM |
+| Diseño curricular e instruccional de Matemáticas | Shulman, Chevallard, Brousseau, Godino, Rico, Niss (+ NCTM en organismos) |
 | Diseño de actividades de aprendizaje de Matemáticas | Pólya, Schoenfeld, Freudenthal, Sweller, Ausubel, Bruner, Wiliam, Socas |
 | Innovación e investigación / TFM | Godino, Schoenfeld, Wiliam, Shulman, Socas |
 | Educación emocional | Lazarus, Dweck, Bandura, Rogers, Frankl, Maslow |
 | TIC | Papert, Turing |
+| Profesión / desarrollo profesional | [FESPM, CEMAT](../organismos-sociedades/) |
 
 ---
 
@@ -141,5 +143,6 @@ Ampliación    Nivel 4–5 según examen, TFM o interés
 
 - Listado alfabético / por carpeta: [INDICE.md](./INDICE.md)
 - Mapa autor–ámbito (si existe): [MAPA-AUTOR-AMBITO.md](./MAPA-AUTOR-AMBITO.md)
+- Organismos y sociedades: [../organismos-sociedades/](../organismos-sociedades/)
 
 *Última orientación de relevancia: coherente con un Máster de Profesorado de Secundaria, especialidad Matemáticas (LOMLOE y didáctica específica).*
