@@ -4,14 +4,13 @@
 
 Investigar la **codocencia (docencia compartida)** no como consigna («dos es mejor que uno»), sino como **variable de diseño interactivo**: el segundo docente puede aumentar recursos de atención y apoyo, pero también introducir **costes de coordinación, ambigüedad, competencia atencional y divergencia de explicaciones**.
 
-La intuición de partida (reformulada como hipótesis, no como dogma evolutivo) es:
-
-> **Añadir un segundo agente al proceso de enseñanza no garantiza más aprendizaje; puede incrementar la capacidad pedagógica o la interferencia, según cómo se estructure la interacción entre ambos docentes.**
+**Tesis de trabajo (sistémica):**  
+En un mismo canal de enseñanza y en el mismo intervalo temporal, los sistemas eficientes tienden a un **centro de mando claro** (unidad de mando / un solo plan dominante). Un segundo agente añade capacidad cuando **especializa** (apoyo a la diversidad, subgrupo, observación) e introduce interferencia cuando actúa como **mando equivalente** que compite por el mismo discurso y la misma atención del alumnado.
 
 **Pregunta central:**  
-¿Bajo qué modelos de codocencia mejora el aprendizaje matemático (o la claridad percibida) respecto a un solo docente, y bajo cuáles aparece confusión, sobrecarga o null effect?
+¿Bajo qué modelos de codocencia mejora el aprendizaje matemático (o la claridad percibida) respecto a un solo docente, y bajo cuáles aparece confusión, sobrecarga o *null effect*?
 
-El TFM no busca demostrar que la codocencia sea «buena» o «mala», sino **falsar o matizar** la hipótesis de interferencia con evidencia local y lectura crítica de la literatura.
+El TFM no busca demostrar que la codocencia sea «buena» o «mala», sino **poner a prueba** la hipótesis de interferencia y el principio de no duplicación funcional del canal de enseñanza, con evidencia local y lectura crítica de la literatura —incluida la de sistemas de alto rendimiento, donde la codocencia suele ser **apoyo a la diversidad**, no co-dirección equivalente de la clase.
 
 ---
 
@@ -22,203 +21,265 @@ Comparar solo *1 docente ↔ 2 docentes* es insuficiente. Los efectos dependen d
 | Modelo | Qué ocurre | Riesgo / potencial |
 |--------|------------|---------------------|
 | Uno enseña + otro observa | Segundo registra / evalúa | Poco cambio para el alumno |
-| Uno enseña + otro apoya | Apoyo individualizado | Beneficio si el apoyo es experto y no interrumpe |
+| **Uno enseña + otro apoya** | Apoyo individualizado / diversidad | **Alineado con sistemas de alto rendimiento** si el rol no es equivalente |
 | Enseñanza paralela | Dos grupos simultáneos | Ratio efectiva menor; exige misma calidad |
 | Estaciones | Rotación por tareas | Organización alta; posible dispersión |
 | Alternativa | Un subgrupo con uno de los dos | Útil para refuerzo/ampliación |
-| Team teaching conjunto | Ambos explican a la vez o se reparten el discurso | **Máximo riesgo de interferencia** si no hay guion |
-| Diálogo / contraste deliberado | Discrepancia pedagógica planificada | Puede entrenar argumentación si está diseñada |
+| Team teaching conjunto | Ambos explican a la vez o se reparten el discurso | **Máximo riesgo de interferencia** si no hay guion ni jerarquía de canal |
+| Diálogo / contraste deliberado | Discrepancia pedagógica planificada | Puede entrenar argumentación si está diseñada y *secuenciada* |
 
 Sin especificar el modelo, la literatura y el aula mezclan peras con manzanas.
 
 ---
 
-## 3. Fundamentación y estado de la evidencia (controversia real)
+## 3. Fundamento sistémico: unidad de mando y un solo canal de control
 
-### 3.1. Resultados nulos o no superiores (a favor de la cautela)
+La dualidad en sistemas biológicos y técnicos **sí existe**, pero casi siempre como **especialización e integración** (p. ej. simpático/parasimpático; campos visuales complementarios), no como dos mandos iguales compitiendo por la misma función en el mismo instante. La tesis aplicable al aula es más precisa:
 
-- **Vembye, Weiss y Bhat (2024):** metaanálisis amplio (cientos de estudios cribados; decenas incluidos tras exclusión por sesgo). Base seria frente a anécdotas de centros “exitosos”. El efecto de la codocencia **no es automáticamente positivo**.
-- **Stefanidis et al. (2023):** 28 estudios, datos de más de 20.000 alumnos; comparación aulas codocentes vs. un solo docente. **Rendimiento académico no significativamente superior** en codocencia, ni para alumnado con discapacidad ni sin ella. Señalan problemas de fidelidad de implementación y de calidad en la descripción de la intervención.
+> **Principio de no duplicación funcional en el canal de enseñanza:** evitar dos controladores equivalentes sobre el mismo canal de información en el mismo intervalo temporal. El segundo docente suma cuando su función es distinta y subordinada a un plan único; resta cuando introduce un segundo mando concurrente.
 
-Lectura para el TFM: la presencia física de dos profesores **no es una variable mágica** productora de aprendizaje.
+### 3.1. Teoría de la organización
 
-### 3.2. Resultados favorables (a favor de no descartar)
+**Henri Fayol** (*Administration industrielle et générale*, 1916) formula:
 
-- **King-Sears et al. (2021):** en determinados contextos (alumnado con discapacidad; comparación con ciertos entornos de educación especial), efectos favorables a la codocencia; matices por etapa (secundaria citada de forma positiva en ese marco).
-- **Triana-Teherán y Armengol (2026):** estudio mixto en Primaria catalana (pretest/postest, control/experimental); mejora en el grupo experimental y percepción de mayor atención; los propios autores piden más muestra y control de variables.
+| Principio | Enunciado | Implicación para el aula |
+|---------|-----------|---------------------------|
+| **Unidad de mando** | Cada persona recibe órdenes de **un solo superior** | El alumno no debería recibir dos criterios contradictorios sobre “cómo se hace” el procedimiento |
+| **Unidad de dirección** | Mismo objetivo → **un plan y un responsable** | Una secuencia matemática, un hilo conductor |
 
-### 3.3. Percepciones del alumnado: confusión e interferencia
+Fayol advierte que romper la unidad de mando amenaza autoridad, orden y estabilidad.
 
-- **Wagner et al. (2024)** y revisiones de experiencias K–12: junto a valoraciones positivas, aparecen **confusión y frustración** cuando los docentes hablan a la vez, el ritmo es excesivo o no está claro quién dirige.
-- Estudios cualitativos: algunos alumnos describen sobrecarga al seguir **dos estilos o dos fuentes** simultáneas.
+**Takahashi (1986):** modelo matemático y datos empíricos en empresas japonesas; bajo certeza o riesgo, una estructura de **línea única** resulta preferible a la organización matricial (que viola la unidad de mando).
 
-Eso operacionaliza la hipótesis de interferencia sin demostrar aún sobrecarga cognitiva generalizada.
+### 3.2. Cognición: un ejecutivo central, no dos en paralelo
 
-### 3.4. El segundo docente también cambia al primero (Matemáticas)
+- **Baddeley** — *central executive* de la memoria de trabajo: control atencional de capacidad limitada (priorizar, inhibir, coordinar).
+- **Pashler / cuello de botella central** y evidencia de neuroimagen (p. ej. Dux et al., 2006): en doble tarea, la selección de respuesta/decisión no se ejecuta con plena eficiencia en paralelo.
 
-- Estudio finlandés en educación matemática con **eye-tracking** (2025): atención visual del profesor de mates hacia el compañero durante clases de 7.º. El segundo docente **modifica el comportamiento atencional del primero**.
+El alumnado no es un receptor de ancho de banda infinito: dos explicaciones concurrentes compiten por el **mismo** recurso de control.
 
-Sistema relevante:
+### 3.3. Mando, seguridad y control
 
-```text
-1 docente:   Profesor A → Alumno
-2 docentes:  Profesor A ↔ Profesor B → Alumno
-```
+- Doctrina de **unity of command**: un solo responsable con autoridad para alinear el esfuerzo; sin ella, la “unidad de esfuerzo” queda al azar.
+- Ingeniería de seguridad: fallos por **múltiples controladores no coordinados** (p. ej. instrucciones contradictorias en el caso Überlingen entre controlador aéreo y TCAS).
+- Teoría de control: sistemas con **comandos en conflicto** no se comportan de forma neutra; el resultado puede quedar dominado por el conflicto.
 
-El segundo no es solo “más recurso”; es un **nuevo nodo de interacción**.
+### 3.4. Lectura para la codocencia
 
-### 3.5. Formación y heterogeneidad
+| Evidencia | Traducción |
+|-----------|------------|
+| Unidad de mando (Fayol, Takahashi) | En cada tramo, **quién dirige el discurso matemático** debe ser inequívoco |
+| Central executive / bottleneck | Dos fuentes simultáneas elevan confusión y carga |
+| Controladores en conflicto | Team teaching sin guion ≈ doble mando sin arbitrador |
+| Especialización (no equivalencia) | Segundo docente como **apoyo a la diversidad**, no como co-explicador permanente |
 
-- **Rytivaara et al. (2024):** tras un cribado amplio, pocos estudios cumplen criterios estrictos sobre cómo los docentes **aprenden a codocer**. La investigación sobre desarrollo profesional en codocencia sigue escasa y heterogénea.
+---
 
-### 3.6. Producción española útil para el estado del arte
+## 4. Codocencia en sistemas de alto rendimiento: el caso China (apoyo, no equivalencia)
+
+En sistemas asociados a **alto rendimiento escolar** (p. ej. China), la codocencia (协同教学, *xiétóng jiàoxué*) **existe**, pero no como modelo universal de “dos profesores iguales al frente de todas las clases”. Se articula de forma **selectiva** y, en lo sustancial, con roles **no equivalentes**.
+
+### 4.1. Modalidades principales en China
+
+| Modalidad | Qué es | Rol del “segundo” agente |
+|-----------|--------|---------------------------|
+| **Aula de doble docente** (双师课堂) | Docente principal (a menudo remoto, de alta cualificación) + docente local de apoyo | Gestión de aula, observación, feedback, tutoría individual; **no** co-dirección del contenido al mismo nivel |
+| **Inclusiva / 随班就读** | Docente ordinario + docente de educación especial o de recursos | Apoyo al alumnado con NEE en el aula ordinaria (“entorno menos restrictivo”) |
+| **Formación inicial** | Formador universitario + docente de escuela en co-impartición | Puente teoría–práctica; roles definidos |
+| **Idiomas / bilingüe** | Nativo + no nativo | Especialización lingüística vs. currículo local |
+| **STEM / proyectos** | Especialistas de distintas disciplinas | Integración interdisciplinar, no doble explicación de lo mismo |
+
+### 4.2. El “Aula de Doble Docente” (la más extendida)
+
+- Impulsada por TIC para **reducir la brecha** urbano–rural (p. ej. regiones con menos recursos).
+- El docente principal imparte; el de apoyo gestiona, observa y tutela.
+- Se usa en primaria y secundaria (mates, inglés, ciencias, etc.).
+- Encaja con **unidad de dirección del contenido** + segundo agente en función de **soporte**.
+
+### 4.3. Codocencia e inclusión: potencial y límites
+
+La colaboración regular–especial es estrategia de inclusión, no sustituto del docente de materia como autoridad didáctica única. Estudios cualitativos recientes señalan, no obstante, problemas reales: escasez de personal, **roles poco claros**, baja frecuencia e implementación inconsistente. Es decir: incluso cuando el diseño teórico es “apoyo a la diversidad”, la práctica puede degradarse hacia ambigüedad de mando —precisamente el riesgo que esta idea de TFM quiere medir.
+
+### 4.4. Implicación para el argumento
+
+En el caso chino (y de forma convergente en buena parte de la literatura de co-teaching inclusivo internacional):
+
+- La codocencia **no** se presenta como modelo por defecto de toda clase ordinaria con dos docentes equivalentes.
+- Se concentra en **brecha territorial**, **NEE/inclusión**, **formación** o **especialización** (idiomas, STEM).
+- El segundo rol es, de diseño, de **apoyo**, no de segundo cerebro que compite por el mismo canal explicativo.
+
+Eso refuerza H2 de esta ficha y debilita el eslogan genérico “poner siempre dos profesores mejora el aprendizaje”.
+
+*(Nota: Corea, Estonia, Polonia, etc. merecen el mismo tipo de lectura en el TFM: ¿codocencia universal o recurso focalizado? El caso China ilustra el patrón “éxito + uso selectivo”.)*
+
+---
+
+## 5. Fundamentación empírica sobre codocencia (controversia real)
+
+### 5.1. Resultados nulos o no superiores
+
+- **Vembye, Weiss y Bhat (2024):** metaanálisis amplio; efecto **no automáticamente positivo**.
+- **Stefanidis et al. (2023):** >20.000 alumnos; rendimiento **no significativamente superior** en aulas codocentes vs. un docente; problemas de fidelidad y descripción de la intervención.
+
+### 5.2. Resultados favorables (contexto importa)
+
+- **King-Sears et al. (2021):** efectos favorables en marcos de discapacidad / comparación con ciertos entornos de educación especial.
+- **Triana-Teherán y Armengol (2026):** Primaria catalana; mejora en experimental; los autores piden más control de variables.
+
+### 5.3. Confusión del alumnado
+
+- **Wagner et al. (2024)** y revisiones K–12: junto a lo positivo, **confusión y frustración** si hablan a la vez, el ritmo es excesivo o no está claro quién dirige.
+
+### 5.4. El segundo docente cambia al primero (Matemáticas)
+
+- Eye-tracking en educación matemática (Finlandia, 2025, 7.º): la atención visual del profesor de mates se reorienta hacia el compañero. Sistema: `A → alumno` vs. `A ↔ B → alumno`.
+
+### 5.5. Producción española
 
 | Trabajo | Por qué importa |
 |---------|-----------------|
-| Gutiérrez Moñino (2024, tesis, Univ. Oviedo) | Docencia compartida e inclusión; investigación-acción en Primaria; potencialidades y límites |
-| Tesis UAB (2023) | Docencia compartida en **Secundaria** (música) |
-| TFM UPNA (2021) | Codocencia e inclusión; intervención en centro de Secundaria; pruebas estandarizadas |
-| TFM (2026, FLE, embargado hasta 2028) | Cuasi-experimental: enseñanza tradicional vs. codocencia en paralelo |
+| Gutiérrez Moñino (2024, tesis, Oviedo) | Docencia compartida e inclusión; investigación-acción |
+| Tesis UAB (2023) | Secundaria (música) |
+| TFM UPNA (2021) | Inclusión; intervención en Secundaria |
+| TFM FLE (2026, embargado) | Cuasi-experimental tradicional vs. paralelo |
 
 ---
 
-## 4. Hipótesis científica (metáfora de los «dos cerebros» reformulada)
+## 6. Hipótesis de trabajo
 
-La analogía evolutiva de “dos cerebros en un organismo” **no** es un argumento biológico válido contra la codocencia; sí sirve como **provocación** para formular:
+**Hipótesis de interferencia cognitiva y de mando en la codocencia**  
+La incorporación de un segundo docente puede aumentar los recursos para atender a la diversidad, pero también introducir costes de coordinación, competencia atencional, divergencia de explicaciones y ambigüedad de mando. El efecto neto depende de si el segundo rol es de **especialización/apoyo** o de **equivalencia concurrente** en el mismo canal.
 
-**Hipótesis de interferencia cognitiva en la codocencia**  
-La incorporación de un segundo docente puede aumentar los recursos disponibles para atender al alumnado, pero también introducir costes de coordinación, competencia atencional, divergencia de explicaciones y ambigüedad comunicativa. El **efecto neto** depende de cómo se estructure la interacción entre ambos docentes.
-
-Hipótesis operativas:
-
-- **H1.** El modelo “ambos hablan sin guion / team teaching descoordinado” eleva la confusión percibida y no mejora (o empeora) la retención respecto a un solo docente claro.
-- **H2.** El modelo “uno enseña + otro apoya” con roles explícitos puede mejorar la atención a alumnado con dificultades sin degradar la claridad del grupo.
-- **H3.** Un contraste deliberado y breve (dos estrategias resueltas en diálogo estructurado) puede mejorar la argumentación matemática más que una doble exposición simultánea.
-- **H4.** La calidad de la **coordinación previa** (minutos de planificación conjunta) predice mejor los resultados que el mero hecho de ser dos.
-
----
-
-## 5. Preguntas de investigación
-
-### Variante A — Comparación de modelos (recomendada)
-
-> ¿Qué diferencias hay en aprendizaje inmediato, retención a 7 días y claridad percibida entre: (A) un docente; (B) uno enseña + otro apoya; (C) explicación coordinada; (D) contraste/debate breve deliberado?
-
-### Variante B — Percepción y carga
-
-> ¿El alumnado reporta más confusión o doble mensaje en team teaching conjunto que en enseñanza + apoyo?
-
-### Variante C — Proceso docente
-
-> ¿Cómo cambia la atención y el discurso del profesor A cuando está presente B? (observación estructurada; eye-tracking solo si hay medios).
-
-### Variante D — Inclusión
-
-> ¿El apoyo del segundo docente mejora la participación de alumnos con dificultades sin reducir la demanda cognitiva del grupo?
+| Id | Hipótesis operativa |
+|----|---------------------|
+| **H1** | Team teaching descoordinado (ambos hablan / criterios no unificados) eleva la confusión y no mejora la retención frente a un solo docente claro |
+| **H2** | «Uno enseña + otro apoya» con roles explícitos (modelo cercano a inclusión / doble docente chino) puede mejorar la atención a alumnado con dificultades **sin** degradar la claridad del grupo |
+| **H3** | Un contraste deliberado y *secuenciado* puede mejorar la argumentación más que la doble exposición simultánea |
+| **H4** | La calidad de la coordinación previa predice mejor los resultados que el mero hecho de ser dos |
+| **H5** | En la percepción del alumnado, la claridad es mayor cuando hay **un responsable inequívoco del discurso** en cada tramo de la sesión |
 
 ---
 
-## 6. Diseño mínimo viable de TFM
+## 7. Preguntas de investigación
 
-### Condiciones sugeridas (Matemáticas, ESO)
+**Variante A (recomendada):** ¿Qué diferencias hay en aprendizaje, retención a ~7 días y claridad percibida entre (A) un docente, (B) uno enseña + otro apoya, (C) explicación coordinada, (D) contraste deliberado?
 
-| Condición | Rol del profesorado |
-|-----------|---------------------|
+**Variante B:** ¿Más confusión en team teaching conjunto que en enseñanza + apoyo?
+
+**Variante C:** ¿Cómo cambia el discurso/atención del profesor A con B presente?
+
+**Variante D:** ¿El apoyo del segundo mejora la participación de alumnos con dificultades sin bajar la demanda cognitiva del grupo?
+
+**Variante E (comparada):** ¿En qué medida la codocencia en el centro se parece al uso *selectivo* (diversidad/brecha) de sistemas de alto rendimiento o a un modelo de equivalencia permanente?
+
+---
+
+## 8. Diseño mínimo viable de TFM
+
+### Condiciones (Matemáticas, ESO)
+
+| Condición | Rol |
+|-----------|-----|
 | **A** | 1 docente; explicación estructurada + práctica |
-| **B** | 2 docentes; uno enseña, otro apoya con reglas claras |
+| **B** | 2 docentes; **uno enseña, otro apoya** (reglas claras; patrón “éxito escolar / inclusión”) |
 | **C** | 2 docentes; explicación coordinada (guion de turnos) |
-| **D** | 2 docentes; contraste deliberado (2 vías a un problema, cierre conjunto) |
+| **D** | 2 docentes; contraste deliberado secuenciado |
 
-En un Prácticum realista: **A vs B** o **A vs D** basta; C y D completan el mapa si hay otro docente disponible (tutor, PT, compañero de prácticas).
+En Prácticum realista: **A vs B** es la comparación más alineada con la tesis sistémica y con el uso en China/inclusión.
 
 ### Medidas
 
 | Variable | Indicador |
 |----------|-----------|
-| Aprendizaje inmediato | Post-test de la sesión |
-| Retención | Prueba paralela a ~7 días |
+| Aprendizaje inmediato | Post-test |
+| Retención | Prueba a ~7 días |
 | Transferencia | Problema isomorfo |
-| Claridad / confusión | Escala breve del alumno |
-| Carga cognitiva percibida | Ítems tipo NASA-TLX simplificado o similar |
-| Participación | Conteo de intervenciones / peticiones de ayuda |
+| Claridad / confusión | Escala breve |
+| Carga percibida | Ítems tipo NASA-TLX simplificado |
+| Participación | Intervenciones / peticiones de ayuda |
 | Errores conceptuales | Rúbrica de justificaciones |
-| (Opcional) Proceso | Guion de observación de solapamientos de habla |
+| Proceso (opcional) | Solapamientos de habla; ¿quién manda el canal? |
 
-**Contenido:** un procedimiento de varios pasos (ecuaciones, proporcionalidad, sistemas sencillos) igual en todas las condiciones.
-
-**Ética:** mismo contenido curricular; no perjudicar a un grupo de forma deliberada; rotar condiciones si es el mismo grupo en días distintos (controlar efecto orden).
+**Ética:** mismo contenido; no perjudicar deliberadamente; rotar condiciones si aplica; control de orden.
 
 ---
 
-## 7. Posibles títulos
+## 9. Posibles títulos
 
 - **Codocencia en Matemáticas: ¿más capacidad o más interferencia?**
-- **Cuando el segundo docente confunde: modelos de docencia compartida y claridad del aprendizaje en ESO**
-- **Uno enseña, dos interactúan: efecto de la estructura de la codocencia en el aprendizaje matemático**
+- **Unidad de mando en el aula: cuándo el segundo docente debe ser apoyo y no co-explicador**
+- **Uno enseña, el otro apoya: codocencia, diversidad y claridad del aprendizaje en ESO**
 - **Docencia compartida más allá del eslogan: condiciones bajo las cuales dos profesores no suman**
 
 ---
 
-## 8. Riesgos y limitaciones
+## 10. Riesgos y limitaciones
 
-- Confundir mala implementación con fracaso de “la codocencia” en abstracto.
-- Efecto novedad o efecto de tener más adultos en el aula (supervisión).
-- Dificultad de igualar calidad didáctica del docente único y de la pareja.
+- Confundir mala implementación con fracaso de toda codocencia.
+- Efecto novedad / más adultos en el aula.
+- Dificultad de igualar calidad didáctica entre condiciones.
 - Muestra pequeña de Prácticum.
-- Sesgo de publicación a favor de experiencias exitosas en la literatura gris de centros.
-- No usar la metáfora de los dos cerebros como prueba; solo como origen de la hipótesis.
+- Sesgo de publicación a favor de experiencias exitosas.
+- Sobre-generalizar el caso China a todos los sistemas de alto PISA sin contraste adicional.
+- No presentar la unidad de mando como ley biológica cerrada, sino como **principio organizativo y cognitivo** contrastable en el aula.
 
 ---
 
-## 9. Bibliografía semilla
+## 11. Bibliografía semilla
 
-**Metaanálisis y revisiones**
-- Vembye, M. H., Weiss, F., & Bhat, B. H. (2024). Metaanálisis sobre codocencia / co-teaching (estudios 1984–2020; cribado de sesgo).
-- Stefanidis, A., et al. (2023). Comparación aulas codocentes vs. un docente; rendimiento académico.
-- King-Sears, M. E., et al. (2021). Codocencia y alumnado con discapacidad.
-- Wagner et al. (2024). Percepciones del alumnado K–12 sobre codocencia.
-- Rytivaara, A., et al. (2024). Cómo aprenden los docentes a codocer (revisión restringida).
+**Unidad de mando y sistemas**
+- Fayol, H. (1916). *Administration industrielle et générale* (principios de unidad de mando y de dirección).
+- Takahashi, N. (1986). On the principle of unity of command… *Behavioral Science, 31*(1), 42–51.
+- Baddeley, A. (1996). Exploring the central executive. *QJEP*.
+- Pashler, H. — dual-task interference / central bottleneck.
+- Dux, P. E., et al. (2006). Isolation of a central bottleneck… *Neuron*.
+- Literatura de *unity of command* (doctrina conjunta) y fallos por múltiples controladores (p. ej. análisis tipo Überlingen / STAMP).
+
+**Codocencia (meta y revisiones)**
+- Vembye, Weiss & Bhat (2024); Stefanidis et al. (2023); King-Sears et al. (2021); Wagner et al. (2024); Rytivaara et al. (2024).
 
 **España**
-- Gutiérrez Moñino, Y. (2024). *La docencia compartida como estrategia para la inclusión educativa* (tesis doctoral, Universidad de Oviedo).
-- Tesis UAB (2023) sobre docencia compartida en Secundaria (música).
-- TFM UPNA (2021) sobre docencia compartida e inclusión en Secundaria.
-- Triana-Teherán & Armengol (2026). Estudio mixto Primaria Cataluña.
+- Gutiérrez Moñino (2024, tesis Oviedo); tesis UAB (2023); TFM UPNA (2021); Triana-Teherán & Armengol (2026).
 
 **Matemáticas / proceso**
-- Estudio eye-tracking (2025) sobre atención visual del profesor de Matemáticas hacia el compañero de codocencia (Finlandia, 7.º curso).
+- Eye-tracking codocencia en mates (Finlandia, 2025).
 
-**Marco cognitivo (opcional)**
-- Sweller — carga cognitiva (para interpretar confusión / doble canal).
-- Idea 05 y 11 del repo — demanda cognitiva y estructura del discurso en el aula.
+**China / alto rendimiento (codocencia selectiva)**
+- Fuentes sobre 双师课堂 (aula de doble docente) y reducción de brecha urbano–rural.
+- Codocencia en 随班就读 (inclusión) y estudios cualitativos sobre roles poco claros / baja frecuencia (p. ej. 2025).
+- Comparar en el TFM con usos en formación inicial, idiomas y STEM.
+
+**Repo**
+- Ideas 04, 05, 11, 16, 17; comparativa PISA 2025 (leyes-educativas).
 
 ---
 
-## 10. Encaje con Atlas e ideas del repo
+## 12. Encaje con Atlas e ideas del repo
 
 | Recurso | Relación |
 |---------|----------|
-| [Idea 04 — Intensificación](04-punto-optimo-intensificacion-educativa.md) | Más recurso ≠ más aprendizaje automático |
-| [Idea 05 — Esfuerzo cognitivo](05-esfuerzo-cognitivo-y-pensamiento-critico.md) | Claridad vs. ruido en el canal de enseñanza |
-| [Idea 11 — Pizarra](11-pizarra-infinita-perdida-estructura.md) | Estructura del mensaje; dos voces pueden desestructurar |
-| [Idea 16 — Margen LOMLOE](16-margen-accion-docente-lomloe-libertad-catedra.md) | Codocencia como decisión organizativa dentro del marco |
-| [Idea 17 — Salud mental](17-matematicas-y-salud-mental.md) | Confusión y agobio percibido por el alumnado |
-| Atlas | Evitar TFM de “codocencia = inclusión” sin medir aprendizaje ni modelo |
+| [Idea 04](04-punto-optimo-intensificacion-educativa.md) | Más recurso ≠ más aprendizaje automático |
+| [Idea 05](05-esfuerzo-cognitivo-y-pensamiento-critico.md) | Claridad del canal vs. ruido; pensamiento crítico aplicado a la moda organizativa |
+| [Idea 11](11-pizarra-infinita-perdida-estructura.md) | Estructura del mensaje |
+| [Idea 16](16-margen-accion-docente-lomloe-libertad-catedra.md) | Codocencia como decisión organizativa bajo LOMLOE |
+| [Idea 17](17-matematicas-y-salud-mental.md) | Confusión y agobio percibido |
+| [PISA 2025](../../procesos-y-contextos-educativos/materiales/leyes-educativas/comparativa-pisa-2025-y-sistemas-internacionales.md) | Contexto de sistemas de alto rendimiento |
+| Atlas | Evitar TFM “codocencia = inclusión” sin medir modelo ni aprendizaje |
 
-**Nicho en una frase:** dejar de preguntar si la codocencia “funciona” y preguntar **en qué diseño el segundo docente suma capacidad y en cuál suma interferencia**, con datos de Matemáticas en Secundaria.
+**Nicho:** no debatir si la codocencia “funciona”, sino **en qué diseño el segundo docente es apoyo especializado (diversidad) y en cuál es interferencia de mando**.
 
 ---
 
-## 11. Estado y siguientes pasos
+## 13. Estado y siguientes pasos
 
-**Estado:** idea expandida a partir del debate crítico de la conversación; lista para estado del arte y diseño de Prácticum.
+**Estado:** idea expandida con (1) fundamento de unidad de mando / canal único y (2) patrón China: codocencia selectiva como apoyo, no como equivalencia.
 
-1. Fijar 2 condiciones realistas (p. ej. A vs B o A vs D) con el tutor del centro.
-2. Redactar guiones de sesión idénticos en contenido matemático.
-3. Preparar post-test / retención / escala de claridad.
-4. Protocolo de observación de solapamientos de habla (si hay dos docentes).
-5. Revisar Vembye (2024) y Stefanidis (2023) en profundidad para el marco teórico.
+1. Fijar comparación **A vs B** en el centro de prácticas.
+2. Guiones idénticos de contenido matemático; protocolo de roles del docente de apoyo.
+3. Post-test, retención, escala de claridad/confusión.
+4. Observación de solapamientos de habla y de “quién lleva el canal”.
+5. Marco teórico: Fayol/Takahashi + bottleneck + metaanálisis + 双师课堂 / inclusión.
 
 **Pregunta guía:**
 
-> **¿Cuándo el segundo docente añade capacidad pedagógica y cuándo añade interferencia?**
+> **¿Cuándo el segundo docente añade capacidad pedagógica (sobre todo como apoyo a la diversidad) y cuándo añade interferencia de mando en el mismo canal de enseñanza?**
