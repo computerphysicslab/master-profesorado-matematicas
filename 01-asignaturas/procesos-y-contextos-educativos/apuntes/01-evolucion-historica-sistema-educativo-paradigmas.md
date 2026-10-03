@@ -28,6 +28,9 @@ parent: Procesos y contextos educativos
 
 Fichas detalladas: [leyes-educativas/](../materiales/leyes-educativas/) — LOECE, LODE, LOGSE, LOCE, LOE, LOMCE, LOMLOE (contexto, pedagogía, críticas y paradigmas).
 
+**Comparativa internacional (PISA 2025):** [España frente a Corea, Estonia, Polonia y China; implicaciones LOMCE/LOMLOE](../materiales/leyes-educativas/comparativa-pisa-2025-y-sistemas-internacionales.md).  
+Ciclo anterior: [PISA 2022 y fracaso escolar en Matemáticas](../materiales/pisa-2022-fracaso-escolar-matematicas.md).
+
 ## Bibliografía orientativa
 
 - Apple, M. W. (1979). *Ideology and curriculum*. Routledge.

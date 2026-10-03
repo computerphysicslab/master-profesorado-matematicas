@@ -20,10 +20,11 @@ Recursos prácticos y transversales (citables desde otras asignaturas y el pract
 | Recurso | Uso |
 |---------|-----|
 | [**Leyes educativas (fichas LOECE→LOMLOE)**](leyes-educativas/) | Tema 1 — 7 fichas + README |
+| [**Comparativa PISA 2025 y sistemas internacionales**](leyes-educativas/comparativa-pisa-2025-y-sistemas-internacionales.md) | Tema 1 — España vs. Corea, Estonia, Polonia, China; LOMCE/LOMLOE |
 | [Línea temporal de leyes educativas](linea-temporal-leyes-educativas.md) | Tema 1 |
 | [Burocratización del trabajo docente — análisis histórico](burocratizacion-trabajo-docente-analisis-historico.md) | Tema 1 (sección 7) |
 | [Comparativa de paradigmas en una tarea de mates](comparativa-paradigmas-tarea-matematicas.md) | Tema 1 aplicado |
-| [PISA 2022, rendimiento en Matemáticas y fracaso escolar](pisa-2022-fracaso-escolar-matematicas.md) | Evaluación internacional |
+| [PISA 2022, rendimiento en Matemáticas y fracaso escolar](pisa-2022-fracaso-escolar-matematicas.md) | Evaluación internacional (ciclo anterior) |
 | [TALIS — ficha sintética](talis-ficha-sintetica.md) | Condiciones del profesorado (OCDE) |
 | [Ratio y condiciones de enseñanza](ratio-condiciones-ensenanza.md) | Organización y metodología |
 
@@ -36,7 +37,7 @@ Recursos prácticos y transversales (citables desde otras asignaturas y el pract
 
 ## Inventario completo de esta carpeta
 
-- `leyes-educativas/` (carpeta)
+- `leyes-educativas/` (carpeta: fichas de leyes + comparativa PISA 2025)
 - `burocratizacion-trabajo-docente-analisis-historico.md`
 - `checklist-observacion-centro-aula.md`
 - `comparativa-paradigmas-tarea-matematicas.md`

@@ -56,3 +56,8 @@ Para profundizar en cada ley orgánica democrática (contexto, pedagogía, crít
 - [LOE (2006)](leyes-educativas/loe-2006.md)
 - [LOMCE (2013)](leyes-educativas/lomce-2013.md)
 - [LOMLOE (2020)](leyes-educativas/lomloe-2020.md)
+
+## Resultados internacionales (contexto de las leyes vigentes)
+
+- [Comparativa PISA 2025 y sistemas de referencia (Corea, Estonia, Polonia, China)](leyes-educativas/comparativa-pisa-2025-y-sistemas-internacionales.md)
+- [PISA 2022 — rendimiento en Matemáticas y fracaso escolar](pisa-2022-fracaso-escolar-matematicas.md)
