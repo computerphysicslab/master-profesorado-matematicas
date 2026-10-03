@@ -2,77 +2,175 @@
 
 ## 1. Idea central
 
-Investigar el **coste cognitivo de la pizarra digital infinita** (OneNote, Jamboard, PDF infinito, tablet sin borrado obligatorio): el alumno puede perder jerarquía, síntesis y reconstrucción del razonamiento.
+Investigar el **coste cognitivo y organizativo de la pizarra digital infinita** (OneNote, Jamboard, Explain Everything, PDF/lienzo sin límite, tablet sin protocolo de cierre) frente a soportes de **espacio limitado** que obligan a estructurar, sintetizar y borrar.
 
-> **La pizarra tradicional obliga a estructurar y borrar; la infinita puede generar acumulación sin jerarquía y sobrecarga de memoria de trabajo externa mal organizada.**
+Hipótesis orientadora:
 
-**Pregunta central:** ¿Qué diferencias hay en la calidad de los apuntes, la reconstrucción del razonamiento y el rendimiento cuando la explicación se hace en pizarra de espacio limitado frente a lienzo infinito?
+> **La pizarra tradicional (o cualquier soporte de espacio finito) fuerza jerarquía y síntesis; el lienzo infinito puede favorecer la acumulación sin estructura y dificultar la reconstrucción del razonamiento.**
 
----
+**Pregunta central:** ¿Qué diferencias hay en la calidad estructural de los apuntes, en la capacidad de reconstruir el razonamiento y en el rendimiento en problemas de varios pasos cuando la explicación se desarrolla en espacio limitado frente a lienzo infinito sin protocolo de cierre?
 
-## 2. Problema educativo
-
-Poco investigado en TFMs de Matemáticas. Hipótesis pedagógica:
-
-- el borrado fuerza síntesis y selección;
-- el espacio limitado impone jerarquía visual (qué queda, qué se borra);
-- el lienzo infinito favorece la yuxtaposición y dificulta «ver el argumento entero».
+No se afirma que «lo digital sea peor». Se investiga el **efecto del diseño del espacio de representación** y de las normas de uso.
 
 ---
 
-## 3. Preguntas investigables
+## 2. Distinción clave: más superficie ≠ más claridad
 
-- ¿Los cuadernos de alumnos expuestos a pizarra infinita muestran menos estructura (títulos, pasos numerados, resultado destacado)?
-- ¿Pueden reconstruir peor una demostración o un procedimiento al día siguiente?
-- ¿Un protocolo de «cierre de pizarra» (síntesis obligatoria en 5 líneas) mitiga el efecto?
+| Soporte | Permite | Puede costar |
+|---------|---------|--------------|
+| Pizarra de espacio finito | Borrado, síntesis, jerarquía forzada | Menos historial; hay que decidir qué queda |
+| Lienzo infinito sin normas | Conservar todo, zoom, colores | Yuxtaposición, pérdida del «hilo», búsqueda visual |
+| Lienzo infinito **con** protocolo de cierre | Historial + síntesis final obligatoria | Disciplina de uso; tiempo de cierre |
 
----
-
-## 4. Hipótesis
-
-**H1.** La condición de espacio limitado produce apuntes más jerarquizados.
-
-**H2.** La reconstrucción del razonamiento (explicar el procedimiento sin mirar) es mejor tras clases con síntesis forzada.
-
-**H3.** La pizarra infinita sin normas aumenta la carga de búsqueda visual y reduce la retención de la estructura del argumento.
+El objeto de estudio es la interacción **herramienta × normas de uso × tipo de contenido matemático** (sobre todo procedimientos y argumentaciones de varios pasos).
 
 ---
 
-## 5. Diseño mínimo viable
+## 3. Fundamentación
 
-- Misma unidad; mismas tareas.
-- Condición A: pizarra (o espacio) limitado + borrado/síntesis.
+### 3.1. Memoria de trabajo y representaciones externas
+
+La memoria de trabajo es limitada (Baddeley; Sweller). Las representaciones externas (pizarra, cuaderno) descargan parte de esa carga, pero solo si están **organizadas**. Un lienzo caótico puede aumentar la carga de búsqueda y reducir la disponibilidad del esquema del argumento.
+
+### 3.2. Note-taking y aprendizaje
+
+La investigación sobre toma de apuntes distingue transcripción pasiva y organización generativa. La pizarra del profesor es el modelo de estructura que muchos alumnos copian. Si el modelo es una ristra infinita sin títulos, números de paso ni cierre, el cuaderno tiende a reproducir ese patrón.
+
+### 3.3. Andamiaje por borrado
+
+El borrado no es solo pérdida de información: es una **decisión pedagógica** (qué es esencial). El espacio finito impone esa decisión. El infinito la pospone.
+
+### 3.4. Cruce con el Atlas de saturación
+
+| Atlas | Lectura |
+|-------|--------|
+| Saturado | Secuencias didácticas clásicas; gamificación × motivación; GeoGebra × geometría sin variable nueva |
+| Huecos | Variables cognitivas finas; metacognición; diseño del medio de enseñanza |
+| Tecnología en el corpus | Mucha «GeoGebra/Desmos»; casi nada sobre **pizarra digital como espacio de razonamiento** |
+
+**Nicho ★★★★★ de originalidad en el mapa local:** casi nadie en el corpus de TFMs de mates está preguntando por el coste de la pizarra infinita. Es compatible con Prácticum (observación de aulas 1:1 / PDI).
+
+Conecta con ideas 02 (atención), 04 (intensificación digital), 05 (demanda cognitiva) y 06 (fluidez vs. dominio).
+
+---
+
+## 4. Preguntas de investigación
+
+### Variante A — Estructura de apuntes
+
+> ¿Los cuadernos de alumnos expuestos a explicaciones en lienzo infinito muestran peor jerarquía (títulos, pasos, resultado destacado) que los expuestos a espacio limitado o a infinito con cierre?
+
+### Variante B — Reconstrucción del razonamiento
+
+> ¿Pueden reconstruir peor al día siguiente un procedimiento de varios pasos?
+
+### Variante C — Intervención de protocolo
+
+> ¿Un protocolo de «cierre de pizarra» (síntesis en 5 líneas / 3 pasos clave) mitiga los efectos del lienzo infinito?
+
+### Variante D — Rendimiento
+
+> ¿Hay diferencias en problemas de varios pasos (no en ítems de un solo cálculo)?
+
+---
+
+## 5. Hipótesis de trabajo
+
+**H1.** El espacio limitado produce apuntes más jerarquizados (rúbrica de estructura).
+
+**H2.** La reconstrucción del razonamiento (explicar el procedimiento sin mirar el cuaderno) es mejor tras clases con síntesis forzada.
+
+**H3.** El lienzo infinito **sin** normas aumenta el tiempo para localizar información en los apuntes y reduce la retención de la estructura del argumento.
+
+**H4.** Un protocolo de cierre en lienzo infinito reduce la diferencia respecto al espacio limitado.
+
+---
+
+## 6. Diseño posible de TFM
+
+### Diseño mínimo viable
+
+- Misma unidad de contenido (p. ej. sistemas, factorización, semejanza).
+- Condición A: explicación en espacio limitado (pizarra física o zona fija) + borrado/síntesis.
 - Condición B: lienzo infinito sin protocolo.
-- Análisis de cuadernos (rúbrica de estructura).
-- Prueba de reconstrucción oral o escrita del razonamiento.
-- (Opcional) eye-tracking low-cost o registro de tiempo de búsqueda en apuntes.
+- Condición C (opcional): infinito **con** cierre obligatorio (3–5 ideas clave al final).
+
+Medidas:
+
+1. Rúbrica de estructura de cuadernos (ciega al grupo si es posible).
+2. Tarea de reconstrucción: «Explica cómo se resuelve este tipo de problema» (sin apuntes).
+3. Problemas de varios pasos (rendimiento).
+4. (Opcional) tiempo para encontrar en el cuaderno el paso donde se aisló la incógnita.
+
+**Eye-tracking:** interesante pero no necesario para un TFM; puede quedar como ampliación.
 
 ---
 
-## 6. Variables
+## 7. Variables e indicadores
 
-Estructura de apuntes, completitud del razonamiento reconstruido, rendimiento en problemas de varios pasos, preferencia subjetiva, tiempo para localizar información en el cuaderno.
-
----
-
-## 7. Riesgos
-
-- Confundir herramienta con uso (la infinita bien usada puede ser potente).
-- Efecto docente.
-- Dificultad de eye-tracking en un TFM (puede omitirse).
-
----
-
-## 8. Bibliografía semilla
-
-- Carga cognitiva y diseño instruccional (Sweller).
-- Investigación sobre *note-taking* y aprendizaje.
-- Trabajos sobre representación externa y memoria de trabajo.
+| Dimensión | Indicadores |
+|-----------|-------------|
+| Estructura de apuntes | Títulos, numeración de pasos, destacado del resultado, limpieza |
+| Reconstrucción | Rúbrica de completitud del razonamiento oral/escrito |
+| Rendimiento | Problemas multi-paso |
+| Búsqueda en apuntes | Tiempo / éxito al localizar un paso |
+| Preferencia subjetiva | Escala breve (no confundir con eficacia) |
+| Condición de pizarra | Limitado / infinito / infinito+cierre |
 
 ---
 
-## 9. Encaje
+## 8. Posibles títulos
 
-Muy original respecto al corpus actual. Conecta con ideas 02 (atención), 04 (intensificación digital) y 05 (demanda cognitiva).
+- **Pizarra infinita y estructura del razonamiento matemático en Secundaria**
+- **Cuando no hay que borrar: espacio digital, apuntes y reconstrucción de procedimientos**
+- **Del lienzo al esquema: efecto del diseño de la pizarra en la claridad del argumento matemático**
 
-**Estado:** idea preliminar prioritaria (nicho abierto).
+---
+
+## 9. Riesgos y limitaciones
+
+- Confundir la herramienta con el uso (el infinito bien protocolizado puede ser excelente).
+- Efecto docente (estilo, velocidad, claridad oral).
+- Preferencia subjetiva del alumnado ≠ aprendizaje.
+- Variabilidad de dispositivos entre centros.
+- No convertir el TFM en nostalgia de la tiza: mantener el foco en **estructura y reconstrucción**.
+
+---
+
+## 10. Bibliografía semilla
+
+- Sweller — cognitive load y diseño instruccional.
+- Baddeley — working memory.
+- Investigación sobre *note-taking*, *signaling* y organización visual.
+- Trabajos sobre representaciones externas en educación matemática.
+- (Opcional) literatura de HCI sobre infinite canvas y sobrecarga.
+
+---
+
+## 11. Encaje con Atlas, Bibliometría e ideas del repo
+
+| Recurso | Relación |
+|---------|----------|
+| Atlas | Hueco fuerte: nadie etiqueta «pizarra digital» como variable cognitiva |
+| Idea 02 | Atención y medio |
+| Idea 04 | Intensificación de herramientas digitales |
+| Idea 05 | Demanda cognitiva y condiciones para pensar |
+| Idea 06 | Otra forma de fluidez engañosa (seguir la pizarra ≠ retener la estructura) |
+
+**Nicho en una frase:** el medio donde el profesor escribe matemáticas puede estar organizando —o desorganizando— la memoria externa del alumno.
+
+---
+
+## 12. Estado y siguientes pasos
+
+**Estado:** idea prioritaria expandida; muy viable en Prácticum con observación y rúbricas.
+
+1. Definir rúbrica de estructura de apuntes (piloto con 5 cuadernos).
+2. Acordar con el tutor de centro dos modos de pizarra en la misma unidad.
+3. Diseñar tarea de reconstrucción y problemas multi-paso paralelos.
+4. Protocolo de cierre (condición C) de 3 minutos al final de clase.
+5. Análisis descriptivo + comparación de grupos.
+
+**Pregunta guía:**
+
+> **Si la pizarra puede crecer sin límite, ¿quién se ocupa de que el razonamiento siga teniendo forma?**
