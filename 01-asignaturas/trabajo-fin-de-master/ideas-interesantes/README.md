@@ -24,12 +24,12 @@ Las ideas se incorporan cuando aparece una combinación especialmente interesant
 | [03 — Burocratización docente y carga administrativa](03-burocratizacion-docente-y-carga-administrativa.md) | Carga administrativa, autonomía y tiempo para enseñar mates | Burocracia · TALIS · bienestar | expandida |
 | [04 — Punto óptimo e intensificación educativa](04-punto-optimo-intensificacion-educativa.md) | Rendimientos decrecientes de la innovación intensificada | Intensificación · coste de oportunidad | expandida |
 | [05 — Esfuerzo cognitivo y pensamiento crítico](05-esfuerzo-cognitivo-y-pensamiento-critico.md) | Demanda cognitiva, abstracción, PC; auditoría de respuestas | PC · demanda cognitiva · IA | expandida |
-| [06 — Ilusión de competencia por tutoriales cortos](06-ilusion-competencia-tutoriales-cortos.md) | «Lo he pillado» en el Short vs. retención a 48 h | Fluidez · memoria · Shorts | **expandida + [protocolo Prácticum](06-protocolo-practicum.md)** |
+| [06 — Ilusión de competencia por tutoriales cortos](06-ilusion-competencia-tutoriales-cortos.md) | «Lo he pillado» en el Short vs. retención a 48 h | Fluidez · memoria · Shorts | **expandida + [protocolo](06-protocolo-practicum.md)** |
 | [07 — Gamificación y efecto crowding-out](07-gamificacion-crowding-out.md) | Puntos/Kahoot que desplazan motivación intrínseca | Motivación · autodeterminación | semilla |
 | [08 — Lenguaje natural como cuello de botella del álgebra](08-lenguaje-natural-cuello-botella-algebra.md) | Error lingüístico vs. error simbólico | Lectura · lenguaje algebraico | semilla |
 | [09 — Calculadora temprana y sentido numérico](09-calculadora-temprana-sentido-numerico.md) | Calculadora vs. estimación y control del resultado | Sentido numérico · estimación | semilla |
 | [10 — Ansiedad matemática transmitida](10-ansiedad-matematica-transmitida.md) | Ansiedad familiar/docente → alumno | Ansiedad · familia · género | expandida |
-| [11 — Pizarra infinita y pérdida de estructura](11-pizarra-infinita-perdida-estructura.md) | Lienzo infinito vs. jerarquía del razonamiento | Memoria de trabajo · apuntes | expandida |
+| [11 — Pizarra infinita y pérdida de estructura](11-pizarra-infinita-perdida-estructura.md) | Lienzo infinito vs. jerarquía del razonamiento | Memoria de trabajo · apuntes | **expandida + [protocolo](11-protocolo-practicum.md)** |
 | [12 — Problemas de Fermi y orden de magnitud](12-problemas-fermi-orden-magnitud.md) | Estimación realista y juicio crítico cuantitativo | Fermi · modelización · STEM | semilla |
 | [13 — Fatiga de innovación metodológica](13-fatiga-innovacion-metodologica.md) | Rotación continua de metodologías | Innovación · coherencia · TALIS | semilla |
 | [14 — Datos reales vs. datos de libro en Estadística](14-datos-reales-vs-libro-estadistica.md) | Datos reales vs. tablas artificiales | Estadística · alfabetización de datos | semilla |
@@ -37,8 +37,8 @@ Las ideas se incorporan cuando aparece una combinación especialmente interesant
 
 ### Prioridad sugerida (línea crítica del repo)
 
-1. **06** — ilusión de competencia ([protocolo de Prácticum](06-protocolo-practicum.md) listo).
-2. **11** — pizarra infinita (nicho casi vacío en el Atlas).
+1. **06** — ilusión de competencia ([protocolo Prácticum](06-protocolo-practicum.md)).
+2. **11** — pizarra infinita ([protocolo Prácticum](11-protocolo-practicum.md)).
 3. **10** — ansiedad transmitida (puente a investigación posterior / tesis).
 
 ## Cruce rápido con el Atlas de saturación (v0.9–v0.10)
