@@ -20,6 +20,8 @@ delta = rendimiento_inmediato − rendimiento_diferido
 
 Un `delta` grande en la condición Short, y más pequeño en la condición de estudio activo, sería evidencia a favor de la ilusión de competencia.
 
+> **Protocolo de Prácticum listo para usar:** [06-protocolo-practicum.md](06-protocolo-practicum.md) (ítems, rúbricas, guion del Short, secuencia de sesiones, hoja de registro).
+
 ---
 
 ## 2. Distinción clave: fluidez de procesamiento ≠ dominio
@@ -120,22 +122,21 @@ Según el [Atlas v0.9–v0.10](../atlas-nichos/):
 | A | Vídeo corto (2–3 min) + apunte breve |
 | B | Libro/apunte + **intento sin ayuda** antes de la solución canónica |
 
-Protocolo:
+Protocolo operativo completo: **[06-protocolo-practicum.md](06-protocolo-practicum.md)**.
 
-1. Pretest breve (opcional) de conocimientos previos.
+Resumen:
+
+1. Pretest breve (opcional).
 2. Sesión de aprendizaje según grupo.
-3. **Post-test inmediato** (misma sesión).
-4. Autoevaluación de confianza (escala 1–5).
-5. **Post-test diferido a 48 h** sin apuntes ni vídeo.
-6. (Opcional) ítem de transferencia isomorfo.
+3. Post-test inmediato + confianza.
+4. Post-test diferido a 48 h (sin apuntes ni vídeo) + confianza previa.
+5. Ítem de transferencia opcional.
 
-**Contenido sugerido:** ecuaciones de primer grado, proporcionalidad o sistemas sencillos (2.º–3.º ESO).
-
-**Muestra:** 1–2 grupos del Prácticum; no hace falta gran escala.
+**Contenido sugerido:** ecuaciones de primer grado o proporcionalidad (2.º–3.º ESO).
 
 ### Variante de innovación
 
-Diseñar un protocolo de «Short inteligente» (pausa, predicción, error plantado) y compararlo con Short pasivo.
+Short con pausas de predicción vs. Short pasivo (ampliación de H2).
 
 ---
 
@@ -143,14 +144,13 @@ Diseñar un protocolo de «Short inteligente» (pausa, predicción, error planta
 
 | Dimensión | Indicadores |
 |-----------|-------------|
-| Rendimiento inmediato | Aciertos, calidad de justificación |
+| Rendimiento inmediato | Aciertos, calidad de justificación (rúbrica 0–9) |
 | Rendimiento diferido | Misma rúbrica a 48 h |
 | `delta` | Inmediato − diferido |
-| Confianza subjetiva | Escala 1–5 pre/post y pre-diferido |
-| Calibración | \|confianza − rendimiento normalizado\| |
-| Tiempo de estudio | Minutos |
+| Confianza subjetiva | Escala 1–5 |
+| Calibración | desajuste = confianza_norm − rendimiento_norm |
 | Transferencia | Problema isomorfo |
-| Tipo de material | Short pasivo / Short con predicción / texto + intento |
+| Tipo de material | Short pasivo / texto + intento |
 
 ---
 
@@ -197,13 +197,13 @@ Diseñar un protocolo de «Short inteligente» (pausa, predicción, error planta
 
 ## 12. Estado y siguientes pasos
 
-**Estado:** idea prioritaria expandida; lista para delimitación en Prácticum.
+**Estado:** idea prioritaria expandida + **protocolo de Prácticum operativo**.
 
-1. Elegir unidad (ecuaciones / proporcionalidad).
-2. Preparar 1 Short controlado + material texto equivalente.
-3. Diseñar pretest/postest paralelo (inmediato y diferido).
-4. Definir rúbrica de justificación y escala de confianza.
-5. Revisar ética (menores, grabación si la hubiera).
+1. Usar [06-protocolo-practicum.md](06-protocolo-practicum.md) en el centro de prácticas.
+2. Grabar el Short controlado (2–2,5 min).
+3. Imprimir pruebas con códigos anónimos.
+4. Ejecutar sesión 1 + sesión 2 (~48 h).
+5. Analizar deltas y calibración; redactar el capítulo de resultados del TFM.
 
 **Pregunta guía:**
 
