@@ -2,6 +2,8 @@
 
 Los ámbitos del Máster se indican **por nombre de materia**, sin códigos numéricos de plan de estudios.
 
+> **Ruta de estudio prioritaria (por relevancia para el Máster):** ver [INDICE-POR-RELEVANCIA.md](./INDICE-POR-RELEVANCIA.md) — orden descendente para estudiar primero lo más transversal y aplicable al aula de Matemáticas.
+
 | Autor | Área | Conceptos | Ámbitos del Máster |
 |---|---|---|---|
 | [Sócrates](./01-filosofia-educacion/socrates.md) | Filosofía del diálogo | mayéutica; preguntas; diálogo socrático | Procesos y contextos educativos; Diseño de actividades de aprendizaje de Matemáticas; Habilidades comunicativas |
@@ -54,3 +56,5 @@ Los ámbitos del Máster se indican **por nombre de materia**, sin códigos num�
 | [Alan Turing](./08-matematicas-ciencia-computacion/turing.md) | Computación | algoritmos; computabilidad | TIC para el aprendizaje; Diseño de actividades de aprendizaje de Matemáticas |
 
 > Índice selectivo ampliado. El listado completo por carpeta está en las subcarpetas `01`–`08` y en [`MAPA-AUTOR-AMBITO.md`](./MAPA-AUTOR-AMBITO.md).
+
+> **Orden de estudio prioritario:** [INDICE-POR-RELEVANCIA.md](./INDICE-POR-RELEVANCIA.md).
