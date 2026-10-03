@@ -12,6 +12,8 @@ Hipótesis orientadora:
 
 No se afirma que «lo digital sea peor». Se investiga el **efecto del diseño del espacio de representación** y de las normas de uso.
 
+> **Protocolo de Prácticum listo para usar:** [11-protocolo-practicum.md](11-protocolo-practicum.md) (rúbrica de cuadernos, reconstrucción, condiciones A/B/C, secuencia, CSV).
+
 ---
 
 ## 2. Distinción clave: más superficie ≠ más claridad
@@ -95,14 +97,14 @@ Conecta con ideas 02 (atención), 04 (intensificación digital), 05 (demanda cog
 - Condición B: lienzo infinito sin protocolo.
 - Condición C (opcional): infinito **con** cierre obligatorio (3–5 ideas clave al final).
 
+Protocolo operativo completo: **[11-protocolo-practicum.md](11-protocolo-practicum.md)**.
+
 Medidas:
 
-1. Rúbrica de estructura de cuadernos (ciega al grupo si es posible).
-2. Tarea de reconstrucción: «Explica cómo se resuelve este tipo de problema» (sin apuntes).
-3. Problemas de varios pasos (rendimiento).
-4. (Opcional) tiempo para encontrar en el cuaderno el paso donde se aisló la incógnita.
-
-**Eye-tracking:** interesante pero no necesario para un TFM; puede quedar como ampliación.
+1. Rúbrica de estructura de cuadernos (0–10; puntuación ciega si es posible).
+2. Tarea de reconstrucción sin apuntes (0–6).
+3. Problemas multi-paso (0–8).
+4. (Opcional) tiempo de búsqueda de un paso clave en el cuaderno.
 
 ---
 
@@ -110,12 +112,12 @@ Medidas:
 
 | Dimensión | Indicadores |
 |-----------|-------------|
-| Estructura de apuntes | Títulos, numeración de pasos, destacado del resultado, limpieza |
-| Reconstrucción | Rúbrica de completitud del razonamiento oral/escrito |
-| Rendimiento | Problemas multi-paso |
-| Búsqueda en apuntes | Tiempo / éxito al localizar un paso |
-| Preferencia subjetiva | Escala breve (no confundir con eficacia) |
-| Condición de pizarra | Limitado / infinito / infinito+cierre |
+| Estructura de apuntes | Título, pasos, resultado destacado, separación, usabilidad (0–10) |
+| Reconstrucción | Completitud del método sin cuaderno (0–6) |
+| Rendimiento | Problemas multi-paso (0–8) |
+| Búsqueda en apuntes | Éxito y tiempo (opcional) |
+| Preferencia subjetiva | Claridad percibida 1–5 (covariable) |
+| Condición de pizarra | A limitado / B infinito / C infinito+cierre |
 
 ---
 
@@ -163,13 +165,13 @@ Medidas:
 
 ## 12. Estado y siguientes pasos
 
-**Estado:** idea prioritaria expandida; muy viable en Prácticum con observación y rúbricas.
+**Estado:** idea prioritaria expandida + **protocolo de Prácticum operativo**.
 
-1. Definir rúbrica de estructura de apuntes (piloto con 5 cuadernos).
-2. Acordar con el tutor de centro dos modos de pizarra en la misma unidad.
-3. Diseñar tarea de reconstrucción y problemas multi-paso paralelos.
-4. Protocolo de cierre (condición C) de 3 minutos al final de clase.
-5. Análisis descriptivo + comparación de grupos.
+1. Usar [11-protocolo-practicum.md](11-protocolo-practicum.md) en el centro de prácticas.
+2. Fijar contenido multi-paso y ensayar condiciones A/B.
+3. Aplicar rúbrica de cuadernos (mejor a ciegas).
+4. Medir reconstrucción y rendimiento.
+5. Analizar y redactar el capítulo de resultados del TFM.
 
 **Pregunta guía:**
 
