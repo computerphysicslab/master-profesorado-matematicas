@@ -13,6 +13,8 @@ No se trata de un TFM de “cómo reescribir la ley”, sino de:
 **Pregunta central:**  
 > Dentro de la LOMLOE y del currículo de Matemáticas vigente, ¿qué decisiones del profesor (tareas, secuenciación, evaluación, profundización) son legalmente posibles, pedagógicamente fundadas y operativas en un instituto real, y cómo condiciona ese margen la carga regulatoria y burocrática?
 
+Complemento socioemocional: [idea 17 — Matemáticas y salud mental](17-matematicas-y-salud-mental.md) (ansiedad, clima de error, límites del rol docente).
+
 ---
 
 ## 2. Dos capas del problema (no confundirlas)
@@ -73,7 +75,7 @@ Derivadas del contraste con sistemas de alto rendimiento y de la lectura crític
 4. **Profesorado como eje** (conocimiento disciplinar y didáctico + tiempo para enseñar).
 5. **Estabilidad de lo nuclear** más allá de una legislatura (en el aula: criterios de “imprescindible del curso”).
 
-El TFM traduce cada punto en **decisiones docentes legales bajo LOMLOE**, no solo en desiderata de reforma.
+El TFM traduce cada punto en **decisiones docentes legales bajo LOMLOE**, no solo en desiderata de reforma. El clima emocional del aula (seguridad para errar, ansiedad matemática) se desarrolla en la [idea 17](17-matematicas-y-salud-mental.md).
 
 ---
 
@@ -202,6 +204,7 @@ El TFM traduce cada punto en **decisiones docentes legales bajo LOMLOE**, no sol
 | [Idea 04 — Intensificación](04-punto-optimo-intensificacion-educativa.md) | Rendimientos decrecientes de la reforma permanente |
 | [Idea 05 — Esfuerzo cognitivo y PC](05-esfuerzo-cognitivo-y-pensamiento-critico.md) | Demanda cognitiva productiva |
 | [Idea 06 — Tutoriales / fluidez](06-ilusion-competencia-tutoriales-cortos.md) | Comprensión + fluidez reales |
+| [Idea 17 — Matemáticas y salud mental](17-matematicas-y-salud-mental.md) | Clima de error, ansiedad y límites del rol docente |
 | [Comparativa PISA 2025](../../procesos-y-contextos-educativos/materiales/leyes-educativas/comparativa-pisa-2025-y-sistemas-internacionales.md) | Marco internacional |
 | [Leyes educativas](../../procesos-y-contextos-educativos/materiales/leyes-educativas/) | LOMCE / LOMLOE |
 | Atlas | Hueco: autonomía docente × matemáticas × evaluación (no otro TFM de “situación de aprendizaje” genérica) |
