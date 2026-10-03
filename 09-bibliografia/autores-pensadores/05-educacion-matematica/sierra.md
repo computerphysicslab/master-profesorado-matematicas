@@ -18,5 +18,5 @@ Modesto Sierra Vázquez (Universidad de Salamanca) ha contribuido a la **institu
 
 ## Conexiones
 
-- [cemat.md](cemat.md) — coordinación institucional.
-- [fespm.md](fespm.md) — desarrollo profesional docente.
+- [CEMAT](../../organismos-sociedades/cemat.md) — coordinación institucional.
+- [FESPM](../../organismos-sociedades/fespm.md) — desarrollo profesional docente.
