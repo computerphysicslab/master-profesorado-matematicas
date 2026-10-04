@@ -36,15 +36,17 @@ Las ideas se incorporan cuando aparece una combinación especialmente interesant
 | [15 — Corrección entre iguales y metacognición](15-correccion-entre-iguales-metacognicion.md) | Corregir el error ajeno para detectar el propio | Evaluación formativa · metacognición | semilla |
 | [16 — Margen de acción docente bajo LOMLOE](16-margen-accion-docente-lomloe-libertad-catedra.md) | Éxito matemático dentro de la norma; libertad de cátedra y burocracia | LOMLOE · autonomía · PISA · aula | expandida |
 | [17 — Matemáticas y salud mental](17-matematicas-y-salud-mental.md) | Ansiedad, clima de error, bienestar y rol docente (límites y derivación) | Salud mental · ansiedad · feedback | expandida |
-| [18 — Codocencia e interferencia cognitiva](18-codocencia-interferencia-cognitiva.md) | Cuándo el 2.º docente suma capacidad o coste; modelos de interacción | Codocencia · carga cognitiva · mates | **expandida** |
+| [18 — Codocencia e interferencia cognitiva](18-codocencia-interferencia-cognitiva.md) | Cuándo el 2.º docente suma capacidad o coste; modelos de interacción | Codocencia · carga cognitiva · mates | expandida |
+| [19 — SimulaESO: software offline en Go para Matemáticas ESO](19-simulaeso-software-offline-go-matematicas.md) | App open source local, UI 2D ligera, simulación y estadística sin nube | Offline · Go · open source · estadística | **expandida** |
 
 ### Prioridad sugerida (línea crítica del repo)
 
 1. **16** — margen de acción bajo LOMLOE.
 2. **18** — codocencia e interferencia (pregunta experimental fuerte; bibliografía a favor/en contra).
-3. **17** — matemáticas y salud mental.
-4. **06** — ilusión de competencia ([protocolo](06-protocolo-practicum.md)).
-5. **11** — pizarra infinita ([protocolo](11-protocolo-practicum.md)).
+3. **19** — SimulaESO (innovación con producto + piloto de aula; encaja con 02).
+4. **17** — matemáticas y salud mental.
+5. **06** — ilusión de competencia ([protocolo](06-protocolo-practicum.md)).
+6. **11** — pizarra infinita ([protocolo](11-protocolo-practicum.md)).
 
 ## Cruce rápido con el Atlas de saturación (v0.9–v0.10)
 
@@ -59,6 +61,7 @@ Las ideas se incorporan cuando aparece una combinación especialmente interesant
 | 12–15 | Escape room genérico; funciones × secuencia | Fermi; fatiga de innovación; datos reales; peer correction |
 | 16 | Opinión pro/contra LOMLOE sin aula | Margen docente real × mates × autonomía |
 | **18** | «Codocencia = inclusión» sin medir aprendizaje | **Modelo de interacción** × claridad × interferencia |
+| **19** | Otra app educativa sin evaluación de aula | **Offline + portabilidad + fricción de red/arranque** medidos |
 
 Fuente: [Atlas de nichos](../atlas-nichos/) · [mapa de saturación](../atlas-nichos/03-mapa-saturacion.md) · [ranking de intersecciones](../atlas-nichos/04-coocurrencias-y-ranking-v09.md).
 
