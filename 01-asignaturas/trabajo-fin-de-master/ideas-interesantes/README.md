@@ -37,13 +37,13 @@ Las ideas se incorporan cuando aparece una combinación especialmente interesant
 | [16 — Margen de acción docente bajo LOMLOE](16-margen-accion-docente-lomloe-libertad-catedra.md) | Éxito matemático dentro de la norma; libertad de cátedra y burocracia | LOMLOE · autonomía · PISA · aula | expandida |
 | [17 — Matemáticas y salud mental](17-matematicas-y-salud-mental.md) | Ansiedad, clima de error, bienestar y rol docente (límites y derivación) | Salud mental · ansiedad · feedback | expandida |
 | [18 — Codocencia e interferencia cognitiva](18-codocencia-interferencia-cognitiva.md) | Cuándo el 2.º docente suma capacidad o coste; modelos de interacción | Codocencia · carga cognitiva · mates | expandida |
-| [19 — SimulaESO: software offline en Go para Matemáticas ESO](19-simulaeso-software-offline-go-matematicas.md) | App open source local, UI 2D ligera, simulación y estadística sin nube | Offline · Go · open source · estadística | **expandida** |
+| [19 — SimulaESO: motor offline de SdA en Go](19-simulaeso-software-offline-go-matematicas.md) | Motor + DSL de escenarios; repositorio de SdA; informes locales | Offline · DSL · SdA · Go · open source | **expandida** |
 
 ### Prioridad sugerida (línea crítica del repo)
 
 1. **16** — margen de acción bajo LOMLOE.
 2. **18** — codocencia e interferencia (pregunta experimental fuerte; bibliografía a favor/en contra).
-3. **19** — SimulaESO (innovación con producto + piloto de aula; encaja con 02).
+3. **19** — SimulaESO (motor de escenarios + piloto; encaja con 02 y 03).
 4. **17** — matemáticas y salud mental.
 5. **06** — ilusión de competencia ([protocolo](06-protocolo-practicum.md)).
 6. **11** — pizarra infinita ([protocolo](11-protocolo-practicum.md)).
@@ -61,7 +61,7 @@ Las ideas se incorporan cuando aparece una combinación especialmente interesant
 | 12–15 | Escape room genérico; funciones × secuencia | Fermi; fatiga de innovación; datos reales; peer correction |
 | 16 | Opinión pro/contra LOMLOE sin aula | Margen docente real × mates × autonomía |
 | **18** | «Codocencia = inclusión» sin medir aprendizaje | **Modelo de interacción** × claridad × interferencia |
-| **19** | Otra app educativa sin evaluación de aula | **Offline + portabilidad + fricción de red/arranque** medidos |
+| **19** | App de ejercicios cableados en el código | **SdA como dato + motor/DSL + evidencias locales** |
 
 Fuente: [Atlas de nichos](../atlas-nichos/) · [mapa de saturación](../atlas-nichos/03-mapa-saturacion.md) · [ranking de intersecciones](../atlas-nichos/04-coocurrencias-y-ranking-v09.md).
 
