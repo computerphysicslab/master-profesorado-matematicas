@@ -34,6 +34,10 @@ Fichas detalladas: [leyes-educativas/](../materiales/leyes-educativas/) — LOEC
 **Comparativa internacional (PISA 2025):** [España frente a Corea, Estonia, Polonia y China; implicaciones LOMCE/LOMLOE](../materiales/leyes-educativas/comparativa-pisa-2025-y-sistemas-internacionales.md).  
 Ciclo anterior: [PISA 2022 y fracaso escolar en Matemáticas](../materiales/pisa-2022-fracaso-escolar-matematicas.md).
 
+> **Análisis de microdatos PISA 2018 (Aragón / España / B-S-J-Z):**  
+> Control por ESCS: Aragón +14–16 puntos netos sobre España; B-S-J-Z mantiene >110 puntos de ventaja en todos los quintiles socioeconómicos.  
+> → [Análisis completo PISA 2018](../materiales/pisa-2018-aragon-china/analisis-pisa-2018-aragon-china-escs.md)
+
 ## Bibliografía orientativa
 
 - Apple, M. W. (1979). *Ideology and curriculum*. Routledge.

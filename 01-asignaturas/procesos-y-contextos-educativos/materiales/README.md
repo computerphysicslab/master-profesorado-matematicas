@@ -22,6 +22,7 @@ Recursos prácticos y transversales (citables desde otras asignaturas y el pract
 | [**Leyes educativas (fichas LOECE→LOMLOE)**](leyes-educativas/) | Tema 1 — 7 fichas + README |
 | [**Mapa epistemológico de paradigmas**](mapa-epistemologico-paradigmas-educativos.md) | Tema 1 — triángulo positivista / interpretativo / sociocrítico; LOMCE, LOMLOE, China ([PNG](img/mapa_epistemologico_modelos_educativos.png)) |
 | [**Comparativa PISA 2025 y sistemas internacionales**](leyes-educativas/comparativa-pisa-2025-y-sistemas-internacionales.md) | Tema 1 — España vs. Corea, Estonia, Polonia, China; LOMCE/LOMLOE |
+| [**PISA 2018 — Aragón, España y B-S-J-Z (análisis de microdatos + ESCS)**](pisa-2018-aragon-china/) | Tema 1 — medias, quintiles ESCS, regresiones; scripts de reproducción |
 | [Línea temporal de leyes educativas](linea-temporal-leyes-educativas.md) | Tema 1 |
 | [Burocratización del trabajo docente — análisis histórico](burocratizacion-trabajo-docente-analisis-historico.md) | Tema 1 (sección 7) |
 | [Comparativa de paradigmas en una tarea de mates](comparativa-paradigmas-tarea-matematicas.md) | Tema 1 aplicado |
@@ -39,6 +40,7 @@ Recursos prácticos y transversales (citables desde otras asignaturas y el pract
 ## Inventario completo de esta carpeta
 
 - `leyes-educativas/` (carpeta: fichas de leyes + comparativa PISA 2025)
+- `pisa-2018-aragon-china/` (análisis de microdatos + scripts)
 - `mapa-epistemologico-paradigmas-educativos.md`
 - `img/mapa_epistemologico_modelos_educativos.png`
 - `burocratizacion-trabajo-docente-analisis-historico.md`
