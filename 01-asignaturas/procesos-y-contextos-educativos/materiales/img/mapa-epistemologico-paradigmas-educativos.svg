@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 780" font-family="Segoe UI, Helvetica, Arial, sans-serif">
+  <title>Mapa epistemológico de los paradigmas educativos</title>
+  <desc>Triángulo positivista / interpretativo / sociocrítico con LOMCE, LOMLOE y modelo chino</desc>
+
+  <!-- Background -->
+  <rect width="900" height="780" fill="#fafbfc"/>
+
+  <!-- Title -->
+  <text x="450" y="36" text-anchor="middle" font-size="20" font-weight="700" fill="#1a1a2e">MAPA EPISTEMOLÓGICO DE LOS PARADIGMAS EDUCATIVOS</text>
+  <text x="450" y="58" text-anchor="middle" font-size="11" fill="#555">Autores clave (posición cualitativa) y marcos: LOMCE · LOMLOE · modelo chino</text>
+
+  <!-- Triangle zones (filled) -->
+  <!-- Positivist apex (top) -->
+  <path d="M450 90 L520 340 L380 340 Z" fill="#dbeafe" opacity="0.9"/>
+  <!-- Interpretative left -->
+  <path d="M450 90 L100 680 L380 340 Z" fill="#fef3c7" opacity="0.75"/>
+  <!-- Sociocritical right -->
+  <path d="M450 90 L800 680 L520 340 Z" fill="#fce7f3" opacity="0.75"/>
+  <!-- Hybrid center circle -->
+  <circle cx="450" cy="420" r="95" fill="#f8fafc" stroke="#94a3b8" stroke-width="1.5" stroke-dasharray="6 4" opacity="0.95"/>
+
+  <!-- Triangle outline -->
+  <path d="M450 90 L100 680 L800 680 Z" fill="none" stroke="#1e293b" stroke-width="2.5"/>
+
+  <!-- Vertex labels -->
+  <text x="450" y="78" text-anchor="middle" font-size="12" font-weight="700" fill="#1e40af">POSITIVISTA / EMPÍRICO-ANALÍTICO</text>
+  <text x="450" y="105" text-anchor="middle" font-size="9" fill="#3b82f6">Medición · Evidencia · Estándares</text>
+
+  <text x="120" y="710" text-anchor="start" font-size="12" font-weight="700" fill="#b45309">INTERPRETATIVO / CONSTRUCTIVISTA</text>
+  <text x="120" y="726" text-anchor="start" font-size="9" fill="#d97706">Significado · Contexto · Experiencia · Inclusión</text>
+
+  <text x="780" y="710" text-anchor="end" font-size="12" font-weight="700" fill="#9d174d">SOCIOCRÍTICO</text>
+  <text x="780" y="726" text-anchor="end" font-size="9" fill="#db2777">Poder · Emancipación · Justicia social</text>
+
+  <!-- Hybrid zone label -->
+  <text x="450" y="415" text-anchor="middle" font-size="10" font-weight="600" fill="#64748b">Zona de intersección</text>
+  <text x="450" y="430" text-anchor="middle" font-size="10" font-weight="600" fill="#64748b">/ hibridación</text>
+
+  <!-- Author dots: positivist (blue) -->
+  <g fill="#3b82f6" font-size="9">
+    <circle cx="450" cy="160" r="4"/><text x="462" y="163">Thorndike</text>
+    <circle cx="430" cy="190" r="4"/><text x="442" y="193">Skinner</text>
+    <circle cx="470" cy="200" r="4"/><text x="482" y="203">Tyler</text>
+    <circle cx="440" cy="230" r="4"/><text x="452" y="233">Bloom</text>
+    <circle cx="465" cy="250" r="4"/><text x="477" y="253">Hattie</text>
+    <circle cx="435" cy="270" r="4"/><text x="447" y="273">Sweller</text>
+  </g>
+
+  <!-- Author dots: interpretative (orange) -->
+  <g fill="#ea580c" font-size="9">
+    <circle cx="220" cy="480" r="4"/><text x="232" y="483">Piaget</text>
+    <circle cx="200" cy="510" r="4"/><text x="212" y="513">Vygotsky</text>
+    <circle cx="240" cy="530" r="4"/><text x="252" y="533">Ausubel</text>
+    <circle cx="180" cy="550" r="4"/><text x="192" y="553">Bruner</text>
+    <circle cx="260" cy="560" r="4"/><text x="272" y="563">Rogers</text>
+    <circle cx="210" cy="590" r="4"/><text x="222" y="593">Dewey</text>
+  </g>
+
+  <!-- Author dots: sociocritical (red) -->
+  <g fill="#be123c" font-size="9">
+    <circle cx="680" cy="500" r="4"/><text x="620" y="503">Freire</text>
+    <circle cx="700" cy="530" r="4"/><text x="640" y="533">Bourdieu</text>
+    <circle cx="720" cy="560" r="4"/><text x="660" y="563">Illich</text>
+    <circle cx="660" cy="580" r="4"/><text x="600" y="583">Apple</text>
+    <circle cx="690" cy="610" r="4"/><text x="630" y="613">Bernstein</text>
+    <circle cx="710" cy="640" r="4"/><text x="650" y="643">Skovsmose</text>
+  </g>
+
+  <!-- Hybrid authors -->
+  <g fill="#ea580c" font-size="9">
+    <circle cx="400" cy="400" r="4"/><text x="340" y="404">Perrenoud</text>
+    <circle cx="480" cy="450" r="4"/><text x="492" y="453">Gimeno</text>
+    <circle cx="420" cy="470" r="4"/><text x="360" y="473">Hargreaves</text>
+  </g>
+
+  <!-- Framework markers -->
+  <!-- LOMCE -->
+  <rect x="400" y="285" width="14" height="14" fill="#1e3a8a" transform="rotate(45 407 292)"/>
+  <text x="425" y="298" font-size="10" font-weight="700" fill="#1e3a8a">LOMCE (estándares & rendimiento)</text>
+
+  <!-- LOMLOE -->
+  <polygon points="380,480 390,500 370,500" fill="#b45309"/>
+  <text x="250" y="510" font-size="10" font-weight="700" fill="#b45309">LOMLOE (competencias, inclusión)</text>
+
+  <!-- China -->
+  <polygon points="530,320 540,340 520,340" fill="#7c3aed"/>
+  <text x="545" y="335" font-size="10" font-weight="700" fill="#7c3aed">Modelo chino (eval. + control estatal)</text>
+
+  <!-- Legend -->
+  <rect x="20" y="90" width="200" height="110" rx="6" fill="#fff" stroke="#cbd5e1" stroke-width="1"/>
+  <text x="30" y="110" font-size="11" font-weight="700" fill="#334155">Leyenda</text>
+  <rect x="30" y="122" width="10" height="10" fill="#1e3a8a" transform="rotate(45 35 127)"/>
+  <text x="50" y="132" font-size="9" fill="#334155">LOMCE (España 2013)</text>
+  <polygon points="30,148 40,162 20,162" fill="#b45309"/>
+  <text x="50" y="160" font-size="9" fill="#334155">LOMLOE (España 2020)</text>
+  <polygon points="30,172 40,186 20,186" fill="#7c3aed"/>
+  <text x="50" y="184" font-size="9" fill="#334155">Modelo educativo chino</text>
+  <circle cx="35" cy="200" r="4" fill="#3b82f6"/>
+  <text x="50" y="203" font-size="9" fill="#334155">Autores (posición orientativa)</text>
+
+  <!-- Footer note -->
+  <text x="450" y="760" text-anchor="middle" font-size="9" fill="#64748b">Codificación cualitativa — no es una medición métrica de las teorías. Los paradigmas orientan; pocos autores ocupan un vértice puro.</text>
+</svg>
