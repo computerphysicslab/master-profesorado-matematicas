@@ -40,8 +40,7 @@ Recursos prácticos y transversales (citables desde otras asignaturas y el pract
 
 - `leyes-educativas/` (carpeta: fichas de leyes + comparativa PISA 2025)
 - `mapa-epistemologico-paradigmas-educativos.md`
-- `img/mapa_epistemologico_modelos_educativos.png` (mapa principal)
-- `img/mapa-epistemologico-paradigmas-educativos.svg` (versión vectorial simplificada)
+- `img/mapa_epistemologico_modelos_educativos.png`
 - `burocratizacion-trabajo-docente-analisis-historico.md`
 - `checklist-observacion-centro-aula.md`
 - `comparativa-paradigmas-tarea-matematicas.md`

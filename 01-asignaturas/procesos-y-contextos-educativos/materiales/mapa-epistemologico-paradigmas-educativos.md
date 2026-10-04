@@ -75,17 +75,14 @@ Ninguno de los tres sistemas coincide con un vértice puro. Esa es precisamente 
 
 ## 6. Limitaciones y mejora editorial
 
-- Densidad de nombres en algunas zonas del PNG: en versiones futuras se puede priorizar un subconjunto “núcleo Máster”.
+- Densidad de nombres en algunas zonas: en versiones futuras se puede priorizar un subconjunto “núcleo Máster”.
 - El mapa **no sustituye** la lectura de las leyes ni de los autores; orienta la conversación.
 - Codificación **cualitativa**: no es una medición métrica de las teorías.
 
 ---
 
-## Archivos gráficos
+## Archivo gráfico
 
-| Archivo | Uso |
-|---------|-----|
-| [`img/mapa_epistemologico_modelos_educativos.png`](img/mapa_epistemologico_modelos_educativos.png) | **Mapa principal** (autores + LOMCE / LOMLOE / China) |
-| [`img/mapa-epistemologico-paradigmas-educativos.svg`](img/mapa-epistemologico-paradigmas-educativos.svg) | Versión vectorial simplificada (núcleo de autores) |
+- [`img/mapa_epistemologico_modelos_educativos.png`](img/mapa_epistemologico_modelos_educativos.png) — mapa principal (autores + LOMCE / LOMLOE / China).
 
 Fuente de trabajo: mapa generado en el proceso formativo del repositorio (codificación cualitativa de autores y marcos).
