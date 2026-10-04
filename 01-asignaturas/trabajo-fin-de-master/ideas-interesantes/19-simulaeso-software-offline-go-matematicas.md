@@ -45,10 +45,10 @@ Elementos que la ficha debería contemplar de forma casi obligatoria (aprendizaj
 | Fases | Secuencia cronológica de la actividad |
 | Preguntas / tareas | Enunciados; posibles planteamientos del alumno |
 | Respuestas esperadas | Criterios de corrección (no solo «la solución») |
-| Errores previsibles | Diagnóstico didáctico |
+| Errores previsibles | Diagnóstico didáctico (banco de malentendidos del escenario) |
 | Pistas | Andamiaje gradual |
 | Condiciones de avance | Cuándo se pasa de fase |
-| Evidencias | Qué se registra (elecciones, intentos, tiempo, justificación) |
+| Evidencias | Qué se registra (elecciones, intentos, tiempo, justificación, tipo de error) |
 | Instrumentos | Rúbrica / checklist para el informe |
 | Observación docente | Campos abiertos que **no** automatiza el programa |
 
@@ -73,8 +73,8 @@ El motor interpreta el escenario:
 
 ```text
 presentar situación → proponer tarea → recibir respuesta / planteamiento
-  → evaluar → ofrecer pista (si procede) → registrar evidencia
-  → decidir siguiente fase → finalizar → generar informe
+  → evaluar → clasificar error (si procede) → ofrecer pista → registrar evidencia
+  → decidir siguiente fase → finalizar → generar informe / exportar
 ```
 
 Principios didácticos embebidos en el motor (no opcionales en el DSL):
@@ -82,7 +82,7 @@ Principios didácticos embebidos en el motor (no opcionales en el DSL):
 - Situación antes que fórmula.
 - Espacio para **planteamientos** evaluables, no solo respuesta final.
 - Pistas graduadas.
-- Registro de trayectoria (intentos, tiempos, ayudas usadas).
+- Registro de trayectoria (intentos, tiempos, ayudas usadas, códigos de error del banco del escenario).
 
 ### 2.4. Ciclo completo (profesor ↔ alumno)
 
@@ -97,7 +97,7 @@ MOTOR SIMULAESO (offline)
    ↓
 ALUMNO (identificado de forma única)
    ↓  respuestas, decisiones, evidencias
-INFORME LOCAL (SQLite)
+INFORME LOCAL (SQLite) + EXPORTACIÓN (CSV/JSON)
    ↓
 PROFESOR
    ↓  consulta listados + añade observación cualitativa
@@ -108,7 +108,7 @@ EVALUACIÓN PROFESIONAL (el software no sustituye al docente)
 
 ---
 
-## 3. Repositorio comunitario de escenarios
+## 3. Repositorio comunitario de escenarios y licencias
 
 Al ser software libre, el valor a medio plazo no es solo el motor, sino una **biblioteca de escenarios** versionada (p. ej. en el mismo repo o en uno hermano):
 
@@ -130,26 +130,61 @@ Cada carpeta de escenario puede contener:
 
 - `ficha.md` — capa pedagógica;
 - `escenario.yaml` (o `.json`) — capa formal;
+- `errores.yaml` — banco de errores típicos / malentendidos del escenario;
 - `recursos/` — datos CSV, imágenes 2D ligeras;
-- `metadatos.yaml` — curso, saberes, autoría, licencia, versión.
+- `metadatos.yaml` — curso, saberes, autoría, **licencia del contenido**, versión.
+
+### 3.1. Licencia dual (código vs. contenidos)
+
+| Capa | Licencia recomendada | Motivo |
+|------|----------------------|--------|
+| **Código del motor** (Go, UI, validador) | **GPL-3.0** | Garantiza que mejoras del software sigan siendo libres |
+| **Escenarios didácticos** (fichas, YAML, recursos educativos) | **CC BY-SA 4.0** (o compatible) | Facilita que el profesorado copie, adapte y remezcle SdA citando autoría |
+
+Así el repositorio de escenarios puede crecer como **bien común docente** sin obligar a que cada adaptación de una ficha de fracciones herede las obligaciones de copyleft del código ejecutable. En `metadatos.yaml` debe figurar siempre la licencia del contenido.
 
 Crecimiento posterior (fuera del MVP del TFM): rankings por uso, resultados educativos agregados y anónimos, revisión por pares de escenarios.
 
 ---
 
-## 4. Identidad del alumnado, persistencia e informes
+## 4. Identidad del alumnado, persistencia, informes y exportación
 
 - **Identificador único** por alumno/a en el ámbito del centro o del grupo (código interno; no basta nombre+apellido).
 - **Persistencia local:** **SQLite** embebido (p. ej. `modernc.org/sqlite`) — portable, sin servidor, coherente con el diseño offline.  
   *Nota:* Redis u otras bases cliente-servidor **no** encajan en el núcleo offline; quedarían para una eventual arquitectura multiusuario futura.
-- **Informes:** por alumno, por grupo, exportables (CSV/PDF simple); el profesor completa con anotaciones subjetivas.
+- **Informes en la aplicación:** por alumno, por grupo; el profesor completa con anotaciones subjetivas.
+- **Exportación interoperable (sin LMS):**  
+  - **CSV** — listados de resultados, evidencias por criterio, frecuencias de error; pensado para abrir en hojas de cálculo o plantillas de evaluación del centro.  
+  - **JSON** — volcado estructurado de sesión (fases, intentos, códigos de error, tiempos) para archivo o análisis posterior.  
+  - Objetivo: **no depender de un campus virtual**; el profesor pega o importa en la herramienta que ya use el centro.
 - **RGPD:** datos en local; sin telemetría obligatoria; consentimiento y minimización de datos en el piloto.
 
 ---
 
-## 5. Punto de partida y fundamentación
+## 5. Banco de errores típicos (didáctica del error)
 
-### 5.1. Contexto curricular (Aragón / LOMLOE)
+Cada escenario declara un **banco de malentendidos** versionado (en la ficha pedagógica y en la capa formal):
+
+| Código | Descripción didáctica (ej. fracciones) |
+|--------|------------------------------------------|
+| `E_DENOM_IGUAL` | Compara numeradores sin igualar denominadores |
+| `E_ENTEROS` | Trata fracciones como enteros independientes |
+| `E_INV_OP` | Invierte el orden al pasar a común denominador |
+| … | … |
+
+**Uso en el ciclo:**
+
+1. El motor intenta **clasificar** la respuesta o el planteamiento (cuando sea posible de forma fiable).
+2. El informe del alumno y el del **grupo** agregan frecuencias por código de error.
+3. El profesor ve de un vistazo qué malentendidos dominan la clase y orienta la siguiente sesión (no solo “aprobado / suspenso”).
+
+Esto conecta SimulaESO con la tradición de **análisis de errores** en didáctica de las Matemáticas y da valor añadido al informe frente a un simple score.
+
+---
+
+## 6. Punto de partida y fundamentación
+
+### 6.1. Contexto curricular (Aragón / LOMLOE)
 
 - Sentido **computacional** y **estocástico**; competencias y criterios evaluables.
 - Competencia digital: entornos seguros y sostenibles; local frente a remoto.
@@ -157,7 +192,7 @@ Crecimiento posterior (fuera del MVP del TFM): rankings por uso, resultados educ
 
 Normativa: Orden ECD/1172/2022 (ESO) y ECD/1173/2022 (Bachillerato) en Aragón.
 
-### 5.2. Por qué Go y UI 2D ligera
+### 6.2. Por qué Go y UI 2D ligera
 
 | Criterio | Ventaja |
 |----------|---------|
@@ -165,20 +200,20 @@ Normativa: Orden ECD/1172/2022 (ESO) y ECD/1173/2022 (Bachillerato) en Aragón.
 | Equipos modestos | Bajo consumo; sin GPU |
 | Offline real | Sin servidor en tiempo de ejecución |
 | Motor + validación DSL | Go adecuado para CLIs, parsers y binarios estáticos |
-| Soberanía | GPL-3.0; SQLite local |
+| Soberanía | GPL-3.0 (código); escenarios CC BY-SA; SQLite local |
 
 UI candidatas: Fyne v2, Gio, SDL2 software. Gráficas: `gonum/plot`.
 
-### 5.3. Encaje con otras ideas del repo
+### 6.3. Encaje con otras ideas del repo
 
 - [02 — tecnoestrés](02-tecnoestres-digital.md): menos navegador y menos ruido digital.
 - [01](01-penalizacion-aprendizaje-ia-generativa.md) / [05](05-esfuerzo-cognitivo-y-pensamiento-critico.md): la IA asiste al **autor** del escenario, no sustituye el pensamiento del alumno en la ejecución.
-- [03 — burocracia docente](03-burocratizacion-docente-y-carga-administrativa.md): informes semi-preparados como alivio de carga, no como evaluación opaca.
+- [03 — burocracia docente](03-burocratizacion-docente-y-carga-administrativa.md): informes y export CSV como alivio de carga, no como evaluación opaca.
 - [14 — datos reales](14-datos-reales-vs-libro-estadistica.md): escenarios de estadística con CSV locales.
 
 ---
 
-## 6. Preguntas de investigación
+## 7. Preguntas de investigación
 
 ### Variante A — Arquitectura (núcleo del TFM de innovación)
 
@@ -190,7 +225,7 @@ UI candidatas: Fyne v2, Gio, SDL2 software. Gráficas: `gonum/plot`.
 
 ### Variante C — Evaluación docente
 
-> ¿Percibe el profesorado que los informes generados agilizan la recogida de evidencias sin sustituir su juicio profesional?
+> ¿Percibe el profesorado que los informes y la exportación CSV/JSON agilizan la recogida de evidencias sin sustituir su juicio profesional?
 
 ### Variante D — Aprendizaje (opcional / ambiciosa)
 
@@ -200,16 +235,17 @@ UI candidatas: Fyne v2, Gio, SDL2 software. Gráficas: `gonum/plot`.
 
 ---
 
-## 7. Hipótesis posibles
+## 8. Hipótesis posibles
 
 - **H1.** Un escenario adicional se incorpora al sistema modificando únicamente ficheros de especificación (y recursos), no el código Go del motor.
 - **H2.** El tiempo de arranque y la tasa de fallos por red mejoran frente al flujo cloud habitual en el mismo hardware.
-- **H3.** El informe local reduce el tiempo percibido de «poner notas/evidencias en limpio» sin eliminar la necesidad de observación docente.
+- **H3.** El informe local y la exportación CSV reducen el tiempo percibido de «poner evidencias en limpio» sin eliminar la observación docente.
 - **H4.** El alumnado completa más fases de la SdA en el tiempo lectivo cuando no hay dependencia de login/red.
+- **H5.** El agregado de códigos de error del banco del escenario resulta útil al docente para planificar la siguiente sesión.
 
 ---
 
-## 8. Variables
+## 9. Variables
 
 | Dimensión | Indicadores |
 |-----------|-------------|
@@ -217,62 +253,71 @@ UI candidatas: Fyne v2, Gio, SDL2 software. Gráficas: `gonum/plot`.
 | Eficiencia de aula | Tiempo de arranque; fallos de red; tiempo hasta primera tarea útil |
 | Completitud | % de fases / escenarios terminados en la sesión |
 | Focalización | Observación / autodeclaración de interrupciones |
-| Evaluación docente | Tiempo percibido; utilidad del informe; campos que el profesor edita a mano |
+| Evaluación docente | Tiempo percibido; utilidad del informe; uso real del CSV/JSON exportado |
+| Didáctica del error | Frecuencia de códigos de error; coherencia con observación del profesor |
 | Usabilidad | SUS breve; nº de clics hasta empezar |
 | Réplica en casa | Ejecución del binario + escenario sin ayuda técnica |
 
 ---
 
-## 9. MVP técnico y didáctico del TFM
+## 10. MVP técnico y didáctico del TFM
 
 No hace falta una biblioteca enorme de actividades. Basta demostrar el concepto:
 
 | Pieza | Contenido mínimo |
 |-------|------------------|
-| Motor | Carga de escenario formal, bucle de fases, evaluación simple, pistas, registro |
-| DSL | Esquema documentado (campos obligatorios + grafo de fases) |
+| Motor | Carga de escenario formal, bucle de fases, evaluación simple, pistas, registro de errores |
+| DSL | Esquema documentado (campos obligatorios + grafo de fases + códigos de error) |
 | Validación | CLI o paso previo que rechace escenarios mal formados |
-| Escenarios | **2–3** (p. ej. ordenación de fracciones; uno de estadística con CSV; uno de probabilidad/Monte Carlo) |
+| Escenarios | **2–3** (p. ej. ordenación de fracciones; estadística con CSV; probabilidad/Monte Carlo) |
 | Identidad + SQLite | Altas de grupo; sesión; informe por alumno |
-| UI 2D | Suficiente para presentar situación, capturar respuesta y mostrar feedback |
-| Documentación | Guía de autoría de fichas + especificación del DSL + guía rápida de aula |
+| Exportación | CSV (listado grupo) + JSON (sesión detallada) |
+| UI 2D | Situación, respuesta, feedback |
+| Documentación | Guía de autoría + especificación del DSL + **protocolo de Prácticum** |
 
 **Experimento de arquitectura del TFM:** crear el tercer escenario **solo** tocando la especificación (y recursos), no el motor.
 
-Fuera de alcance del MVP: CAS simbólico completo, multiusuario en red, Redis, rankings comunitarios en producción, Android.
+Fuera de alcance del MVP: CAS simbólico completo, multiusuario en red, Redis, rankings comunitarios en producción, Android, integración nativa con un LMS concreto.
 
 ---
 
-## 10. Diseño de validación en el aula
+## 11. Protocolo de Prácticum (validación en el aula)
 
-| Fase | Acción |
-|------|--------|
-| 1 | DSL + motor + 2 escenarios + una SdA documentada completa |
-| 2 | Piloto: experimental (SimulaESO) vs. control (cloud/navegador), mismo contenido |
-| 3 | Tiempos, completitud, observación; cuestionario usabilidad; breve feedback docente sobre informes |
-| 4 | Análisis descriptivo; limitaciones de muestra y de causalidad explícitas |
+Diseño operativo inspirado en los protocolos de las ideas 06 y 11: una secuencia breve, medible y éticamente viable durante el Prácticum.
 
-**Ética:** consentimiento; identificadores no equivalentes a datos personales innecesarios; sin subir datos a la nube.
+| Momento | Acción | Datos a recoger |
+|---------|--------|-----------------|
+| **Antes** | Instalar/copiar binario + 1 escenario; alta de grupo con IDs | Tiempo de preparación; incidencias técnicas |
+| **Sesión 0 (opcional)** | Familiarización 10–15 min | Usabilidad percibida |
+| **Sesión experimental** | Misma SdA con SimulaESO (grupo E) | Arranque; fallos de red (0 esperados); % fases completadas; observación de focalización |
+| **Sesión control** | Misma SdA con herramienta cloud/navegador habitual (grupo C o semana alterna) | Mismos indicadores |
+| **Después** | Exportar CSV; el tutor completa 3–5 observaciones cualitativas | Utilidad del informe; tiempo “en limpio”; impresión sobre el banco de errores |
+| **Cierre** | Cuestionario breve alumnado (4–6 ítems) + nota de campo del profesor en prácticas | Satisfacción; barreras |
+
+**Rúbrica mínima de observación (ejemplo):** interrupciones por técnica / por distracción; pide ayuda de contenido vs. de “cómo va el programa”; termina la fase con justificación o solo con resultado.
+
+**Ética:** consentimiento familias/centro; IDs no equivalentes a datos personales innecesarios; sin subir la base SQLite a la nube.
 
 ---
 
-## 11. Alcance realista y riesgos
+## 12. Alcance realista y riesgos
 
 | Riesgo | Mitigación |
 |--------|------------|
-| Ambición de «plataforma total» | MVP = motor + DSL + 2–3 escenarios |
+| Ambición de «plataforma total» | MVP = motor + DSL + 2–3 escenarios + export |
 | IA que genera basura formal | Esquema cerrado + validación estricta; IA solo asistida |
-| Confundir informe automático con evaluación | Campos obligatorios de observación docente; discurso claro en la memoria |
-| Identidad y privacidad | IDs locales; SQLite en carpeta del centro/profesor; sin cuentas cloud |
+| Confundir informe automático con evaluación | Campos de observación docente; discurso claro en la memoria |
+| Clasificación de errores poco fiable | Códigos solo cuando la detección sea clara; resto “sin clasificar” |
+| Identidad y privacidad | IDs locales; SQLite en carpeta del profesor; sin cuentas cloud |
 | Curva Go/UI | Plan B: motor CLI + UI mínima |
 | Efecto novedad | Medir fricción técnica, no solo motivación |
 
 ---
 
-## 12. Potencial para TFM y títulos posibles
+## 13. Potencial para TFM y títulos posibles
 
 - Innovación **tecnológica y educativa** (motor + lenguaje + piloto).
-- Transferencia: repo de escenarios, licencia libre, documentación de autoría.
+- Transferencia: repo de escenarios (CC BY-SA), código GPL-3.0, documentación de autoría.
 - Escalabilidad social: comunidad de profesores-autores si el núcleo funciona.
 
 **Títulos posibles:**
@@ -283,7 +328,7 @@ Fuera de alcance del MVP: CAS simbólico completo, multiusuario en red, Redis, r
 
 ---
 
-## 13. Palabras clave
+## 14. Palabras clave
 
 - Motor de escenarios
 - Situaciones de aprendizaje (SdA)
@@ -291,50 +336,55 @@ Fuera de alcance del MVP: CAS simbólico completo, multiusuario en red, Redis, r
 - Software offline
 - Go / Golang
 - Open source (GPL-3.0)
+- Contenidos CC BY-SA
 - UI 2D ligera
 - SQLite
+- Exportación CSV/JSON
+- Banco de errores / didáctica del error
 - Evaluación formativa / evidencias
 - Repositorio de escenarios
 - LOMLOE Aragón
-- Sentido computacional / estocástico
+- Prácticum
 - Soberanía tecnológica
 
 ---
 
-## 14. Encaje con Atlas y bibliometría
+## 15. Encaje con Atlas y bibliometría
 
 | Evitar | Apostar |
 |--------|--------|
 | Otra app de ejercicios cerrados | **SdA como dato + motor reutilizable** |
 | «IA que enseña mates» | IA solo en **autoría formal** del escenario |
-| Evaluación automática total | Evidencias + **juicio docente** |
-| Solo código sin aula | Piloto con indicadores de fricción y usabilidad |
+| Evaluación automática total | Evidencias + export + **juicio docente** |
+| Solo código sin aula | **Protocolo de Prácticum** con indicadores de fricción |
 
 ---
 
-## 15. Estado y siguientes pasos
+## 16. Estado y siguientes pasos
 
 **Estado:** propuesta elaborada; candidata fuerte a TFM de **innovación** (arquitectura + piloto).
 
-1. Congelar el **esquema del DSL** (v0.1) y un ejemplo completo: *ordenación de fracciones*.
-2. Implementar motor mínimo + validación.
+1. Congelar el **esquema del DSL** (v0.1) y un ejemplo completo: *ordenación de fracciones* (con `errores.yaml`).
+2. Implementar motor mínimo + validación + registro de códigos de error.
 3. Segundo escenario **sin tocar el motor** (prueba de arquitectura).
-4. UI 2D suficiente + SQLite + informe.
-5. Piloto breve en Prácticum + memoria con especificación y guía de autoría.
+4. UI 2D + SQLite + informe + **export CSV/JSON**.
+5. Redactar **protocolo de Prácticum** operativo (sección 11).
+6. Piloto breve + memoria (especificación DSL, licencias duales, guía de autoría).
 
 ---
 
-## 16. Bibliografía y recursos semilla
+## 17. Bibliografía y recursos semilla
 
 - Orden ECD/1172/2022 y ECD/1173/2022 (currículo Aragón).
 - Go: https://go.dev · Fyne / Gio · gonum / gonum/plot.
 - SQLite embebido en Go (`modernc.org/sqlite`).
+- GPL-3.0 · Creative Commons BY-SA 4.0 (contenidos).
 - RGPD / AEPD — protección de datos en centros educativos.
 - Literatura sobre software libre en educación matemática; carga cognitiva y entornos digitales (idea 02).
-- Referencias de diseño de lenguajes de dominio (DSL) y de sistemas autor (e-learning): posicionar SimulaESO como **autoría didáctica → ejecución local**, no como LMS cloud.
+- Análisis de errores en educación matemática; sistemas autor y lenguajes de dominio (DSL): posicionar SimulaESO como **autoría didáctica → ejecución local**, no como LMS cloud.
 
 ---
 
-## 17. Pregunta guía
+## 18. Pregunta guía
 
 > **Si una situación de aprendizaje bien diseñada pudiera ejecutarse como un escenario validado —sin reprogramar el aula digital cada vez— ¿qué motor, qué lenguaje formal y qué evidencias de aula demuestran que ese camino es mejor que depender de la nube o de actividades cableadas en el código?**
