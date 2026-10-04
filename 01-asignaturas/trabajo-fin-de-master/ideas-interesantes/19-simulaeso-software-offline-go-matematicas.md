@@ -143,7 +143,7 @@ Cada carpeta de escenario puede contener:
 | **Código del motor** (Go, UI, validador) | **GPL-3.0** | Garantiza que mejoras del software sigan siendo libres |
 | **Escenarios didácticos** (fichas, YAML, recursos educativos) | **CC BY-SA 4.0** (o compatible) | Facilita que el profesorado copie, adapte y remezcle SdA citando autoría |
 
-Así el repositorio de escenarios puede crecer como **bien común docente** sin obligar a que cada adaptación de una ficha de fracciones herede las obligaciones de copyleft del código ejecutable. En `metadatos.yaml` debe figurar siempre la licencia del contenido.
+Así el repositorio de escenarios puede crecer como **bien común docente** sin obligar a que cada adaptación de una ficha de fracciones herede las obligaciones de copyleft del código ejecutable. En `metadatos.yaml` debe figurar siempre la licencia del contenido. Los ficheros YAML del escenario se tratan como **contenido** (CC BY-SA), no como código del motor.
 
 Crecimiento posterior (fuera del MVP del TFM): rankings por uso, resultados educativos agregados y anónimos, revisión por pares de escenarios.
 
@@ -152,28 +152,18 @@ Crecimiento posterior (fuera del MVP del TFM): rankings por uso, resultados educ
 ## 4. Identidad del alumnado, persistencia, informes y exportación
 
 - **Identificador único** por alumno/a en el ámbito del centro o del grupo (código interno; no basta nombre+apellido).
-- **Persistencia local:** **SQLite** embebido (p. ej. `modernc.org/sqlite`) — portable, sin servidor, coherente con el diseño offline.  
-  *Nota:* Redis u otras bases cliente-servidor **no** encajan en el núcleo offline; quedarían para una eventual arquitectura multiusuario futura.
-- **Informes en la aplicación:** por alumno, por grupo; el profesor completa con anotaciones subjetivas.
-- **Exportación interoperable (sin LMS):**  
-  - **CSV** — listados de resultados, evidencias por criterio, frecuencias de error; pensado para abrir en hojas de cálculo o plantillas de evaluación del centro.  
-  - **JSON** — volcado estructurado de sesión (fases, intentos, códigos de error, tiempos) para archivo o análisis posterior.  
-  - Objetivo: **no depender de un campus virtual**; el profesor pega o importa en la herramienta que ya use el centro.
+- **Persistencia local:** **SQLite** embebido (p. ej. `modernc.org/sqlite`) — portable, sin servidor, coherente con el diseño offline. El esquema de tablas debe documentarse en la implementación (ver también §19).
+- **Informes en la aplicación:** por alumno, por grupo; el profesor completa con anotaciones subjetivas combinadas con evidencias automáticas en el mismo informe.
+- **Exportación interoperable (sin LMS):** CSV y JSON; post-MVP, PDF/XLSX si aporta (§19).
 - **RGPD:** datos en local; sin telemetría obligatoria; consentimiento y minimización de datos en el piloto.
 
 ---
 
 ## 5. Banco de errores típicos (didáctica del error)
 
-Cada escenario declara un **banco de malentendidos** versionado (en la ficha pedagógica y en la capa formal). Ejemplo completo en el [Anexo A](#anexo-a--ejemplo-dsl-v01-ordenación-de-fracciones).
+Cada escenario declara un **banco de malentendidos** versionado. Ejemplo en el [Anexo A](#anexo-a--ejemplo-dsl-v01-ordenación-de-fracciones).
 
-**Uso en el ciclo:**
-
-1. El motor intenta **clasificar** la respuesta o el planteamiento (cuando sea posible de forma fiable).
-2. El informe del alumno y el del **grupo** agregan frecuencias por código de error.
-3. El profesor ve de un vistazo qué malentendidos dominan la clase y orienta la siguiente sesión (no solo “aprobado / suspenso”).
-
-Esto conecta SimulaESO con la tradición de **análisis de errores** en didáctica de las Matemáticas y da valor añadido al informe frente a un simple score.
+En el **MVP**, la clasificación automática solo debe aplicarse cuando sea **fiable** (p. ej. opción múltiple con mapeo explícito). Códigos ambiciosos sobre texto libre se dejan en gran medida a `E_SIN_CLASIFICAR` + observación docente; el enriquecimiento del banco es línea post-MVP (§19).
 
 ---
 
@@ -201,42 +191,42 @@ UI candidatas: Fyne v2, Gio, SDL2 software. Gráficas: `gonum/plot`.
 
 ### 6.3. Encaje con otras ideas del repo
 
-- [02 — tecnoestrés](02-tecnoestres-digital.md): menos navegador y menos ruido digital.
-- [01](01-penalizacion-aprendizaje-ia-generativa.md) / [05](05-esfuerzo-cognitivo-y-pensamiento-critico.md): la IA asiste al **autor** del escenario, no sustituye el pensamiento del alumno en la ejecución.
-- [03 — burocracia docente](03-burocratizacion-docente-y-carga-administrativa.md): informes y export CSV como alivio de carga, no como evaluación opaca.
-- [14 — datos reales](14-datos-reales-vs-libro-estadistica.md): escenarios de estadística con CSV locales.
+- [02 — tecnoestrés](02-tecnoestres-digital.md)
+- [01](01-penalizacion-aprendizaje-ia-generativa.md) / [05](05-esfuerzo-cognitivo-y-pensamiento-critico.md)
+- [03 — burocracia docente](03-burocratizacion-docente-y-carga-administrativa.md)
+- [14 — datos reales](14-datos-reales-vs-libro-estadistica.md)
 
 ---
 
 ## 7. Preguntas de investigación
 
-### Variante A — Arquitectura (núcleo del TFM de innovación)
+### Variante A — Arquitectura
 
-> ¿Puede un motor + DSL mínimo ejecutar un escenario nuevo (p. ej. ordenación de fracciones) definido solo por especificación formal, sin recompilar ni alterar el código del motor?
+> ¿Puede un motor + DSL mínimo ejecutar un escenario nuevo definido solo por especificación formal, sin recompilar el motor?
 
 ### Variante B — Viabilidad de aula
 
-> ¿Reduce el paquete offline (motor + escenarios locales) el tiempo de preparación y las interrupciones por red respecto a la misma secuencia en herramientas cloud?
+> ¿Reduce el paquete offline el tiempo de preparación y las interrupciones por red respecto a herramientas cloud?
 
 ### Variante C — Evaluación docente
 
-> ¿Percibe el profesorado que los informes y la exportación CSV/JSON agilizan la recogida de evidencias sin sustituir su juicio profesional?
+> ¿Percibe el profesorado que los informes y la exportación CSV/JSON agilizan la recogida de evidencias sin sustituir su juicio?
 
-### Variante D — Aprendizaje (opcional / ambiciosa)
+### Variante D — Aprendizaje (opcional)
 
-> ¿Hay diferencias de rendimiento o de calidad de justificación entre grupo experimental y control a igualdad de contenidos?
+> ¿Hay diferencias de rendimiento o de calidad de justificación entre experimental y control?
 
-**Recomendación:** A + B como eje del TFM; C con entrevista/cuestionario breve; D solo si el piloto lo permite.
+**Recomendación:** A + B como eje; C con feedback breve; D solo si el piloto lo permite.
 
 ---
 
 ## 8. Hipótesis posibles
 
-- **H1.** Un escenario adicional se incorpora al sistema modificando únicamente ficheros de especificación (y recursos), no el código Go del motor.
-- **H2.** El tiempo de arranque y la tasa de fallos por red mejoran frente al flujo cloud habitual en el mismo hardware.
-- **H3.** El informe local y la exportación CSV reducen el tiempo percibido de «poner evidencias en limpio» sin eliminar la observación docente.
-- **H4.** El alumnado completa más fases de la SdA en el tiempo lectivo cuando no hay dependencia de login/red.
-- **H5.** El agregado de códigos de error del banco del escenario resulta útil al docente para planificar la siguiente sesión.
+- **H1.** Un escenario adicional se incorpora solo con ficheros de especificación, no con código Go del motor.
+- **H2.** Mejoran tiempo de arranque y fallos de red frente al flujo cloud en el mismo hardware.
+- **H3.** Informe local + CSV reducen el tiempo percibido de «poner evidencias en limpio».
+- **H4.** Mayor completitud de fases sin dependencia de login/red.
+- **H5.** El agregado de códigos de error (cuando sea fiable) ayuda a planificar la siguiente sesión.
 
 ---
 
@@ -244,54 +234,47 @@ UI candidatas: Fyne v2, Gio, SDL2 software. Gráficas: `gonum/plot`.
 
 | Dimensión | Indicadores |
 |-----------|-------------|
-| Arquitectura | Escenarios cargados sin recompilar; errores de validación del DSL |
-| Eficiencia de aula | Tiempo de arranque; fallos de red; tiempo hasta primera tarea útil |
-| Completitud | % de fases / escenarios terminados en la sesión |
-| Focalización | Observación / autodeclaración de interrupciones |
-| Evaluación docente | Tiempo percibido; utilidad del informe; uso real del CSV/JSON exportado |
-| Didáctica del error | Frecuencia de códigos de error; coherencia con observación del profesor |
-| Usabilidad | SUS breve; nº de clics hasta empezar |
-| Réplica en casa | Ejecución del binario + escenario sin ayuda técnica |
+| Arquitectura | Escenarios sin recompilar; errores de validación del DSL |
+| Eficiencia de aula | Arranque; fallos de red; tiempo hasta primera tarea útil |
+| Completitud | % de fases terminadas |
+| Focalización | Observación / autodeclaración |
+| Evaluación docente | Utilidad del informe; uso del CSV/JSON |
+| Didáctica del error | Frecuencias de códigos; coherencia con observación |
+| Usabilidad | SUS breve |
+| Réplica en casa | Ejecución sin ayuda técnica |
 
 ---
 
 ## 10. MVP técnico y didáctico del TFM
 
-No hace falta una biblioteca enorme de actividades. Basta demostrar el concepto:
-
 | Pieza | Contenido mínimo |
 |-------|------------------|
-| Motor | Carga de escenario formal, bucle de fases, evaluación simple, pistas, registro de errores |
-| DSL | Esquema documentado (campos obligatorios + grafo de fases + códigos de error) — ver [Anexo A](#anexo-a--ejemplo-dsl-v01-ordenación-de-fracciones) |
-| Validación | CLI o paso previo que rechace escenarios mal formados |
-| Escenarios | **2–3** (ordenación de fracciones + estadística CSV + probabilidad/Monte Carlo) |
-| Identidad + SQLite | Altas de grupo; sesión; informe por alumno |
-| Exportación | CSV (listado grupo) + JSON (sesión detallada) |
+| Motor | Carga de escenario, fases, pistas, registro de errores fiables |
+| DSL | [Anexo A](#anexo-a--ejemplo-dsl-v01-ordenación-de-fracciones) + limitaciones A.8 |
+| Validación | Rechazo de escenarios mal formados |
+| Escenarios | 2–3 |
+| SQLite + export | Informe + CSV/JSON |
 | UI 2D | Situación, respuesta, feedback |
-| Documentación | Guía de autoría + especificación del DSL + **protocolo de Prácticum** |
+| Documentación | Guía de autoría + protocolo de Prácticum |
 
-**Experimento de arquitectura del TFM:** crear el tercer escenario **solo** tocando la especificación (y recursos), no el motor.
+**Experimento de arquitectura:** tercer escenario solo con YAML nuevos.
 
-Fuera de alcance del MVP: CAS simbólico completo, multiusuario en red, Redis, rankings comunitarios en producción, Android, integración nativa con un LMS concreto.
+Fuera del MVP: lo listado en [§19](#19-mejoras-previstas-para-versiones-avanzadas-post-mvp).
 
 ---
 
-## 11. Protocolo de Prácticum (validación en el aula)
+## 11. Protocolo de Prácticum
 
-Diseño operativo inspirado en los protocolos de las ideas 06 y 11: una secuencia breve, medible y éticamente viable durante el Prácticum.
+| Momento | Acción | Datos |
+|---------|--------|-------|
+| Antes | Binario + escenario; alta de grupo | Tiempo de preparación |
+| Sesión 0 (opc.) | Familiarización | Usabilidad |
+| Experimental | SimulaESO | Arranque; red; % fases; focalización |
+| Control | Cloud/navegador habitual | Mismos indicadores |
+| Después | Export CSV + 3–5 notas docentes | Utilidad del informe |
+| Cierre | Cuestionario breve | Satisfacción; barreras |
 
-| Momento | Acción | Datos a recoger |
-|---------|--------|-----------------|
-| **Antes** | Instalar/copiar binario + 1 escenario; alta de grupo con IDs | Tiempo de preparación; incidencias técnicas |
-| **Sesión 0 (opcional)** | Familiarización 10–15 min | Usabilidad percibida |
-| **Sesión experimental** | Misma SdA con SimulaESO (grupo E) | Arranque; fallos de red (0 esperados); % fases completadas; observación de focalización |
-| **Sesión control** | Misma SdA con herramienta cloud/navegador habitual (grupo C o semana alterna) | Mismos indicadores |
-| **Después** | Exportar CSV; el tutor completa 3–5 observaciones cualitativas | Utilidad del informe; tiempo “en limpio”; impresión sobre el banco de errores |
-| **Cierre** | Cuestionario breve alumnado (4–6 ítems) + nota de campo del profesor en prácticas | Satisfacción; barreras |
-
-**Rúbrica mínima de observación (ejemplo):** interrupciones por técnica / por distracción; pide ayuda de contenido vs. de “cómo va el programa”; termina la fase con justificación o solo con resultado.
-
-**Ética:** consentimiento familias/centro; IDs no equivalentes a datos personales innecesarios; sin subir la base SQLite a la nube.
+**Ética:** consentimiento; IDs locales; sin subir SQLite a la nube.
 
 ---
 
@@ -299,23 +282,16 @@ Diseño operativo inspirado en los protocolos de las ideas 06 y 11: una secuenci
 
 | Riesgo | Mitigación |
 |--------|------------|
-| Ambición de «plataforma total» | MVP = motor + DSL + 2–3 escenarios + export |
-| IA que genera basura formal | Esquema cerrado + validación estricta; IA solo asistida |
-| Confundir informe automático con evaluación | Campos de observación docente; discurso claro en la memoria |
-| Clasificación de errores poco fiable | Códigos solo cuando la detección sea clara; resto “sin clasificar” |
-| Identidad y privacidad | IDs locales; SQLite en carpeta del profesor; sin cuentas cloud |
-| Curva Go/UI | Plan B: motor CLI + UI mínima |
-| Efecto novedad | Medir fricción técnica, no solo motivación |
+| Plataforma total | MVP acotado; §19 es post-MVP |
+| IA que genera basura formal | Esquema cerrado + validación |
+| Evaluación automática total | Observación docente obligatoria en el discurso |
+| Clasificación de errores frágil | Solo mapeos fiables; resto sin clasificar (A.8) |
+| Privacidad | SQLite local |
+| Efecto novedad | Medir fricción técnica |
 
 ---
 
-## 13. Potencial para TFM y títulos posibles
-
-- Innovación **tecnológica y educativa** (motor + lenguaje + piloto).
-- Transferencia: repo de escenarios (CC BY-SA), código GPL-3.0, documentación de autoría.
-- Escalabilidad social: comunidad de profesores-autores si el núcleo funciona.
-
-**Títulos posibles:**
+## 13. Potencial y títulos posibles
 
 - **SimulaESO: un motor offline de situaciones de aprendizaje para Matemáticas de ESO**
 - **Del diseño didáctico al escenario ejecutable: DSL y motor open source para el aula de Matemáticas**
@@ -325,22 +301,7 @@ Diseño operativo inspirado en los protocolos de las ideas 06 y 11: una secuenci
 
 ## 14. Palabras clave
 
-- Motor de escenarios
-- Situaciones de aprendizaje (SdA)
-- DSL educativo
-- Software offline
-- Go / Golang
-- Open source (GPL-3.0)
-- Contenidos CC BY-SA
-- UI 2D ligera
-- SQLite
-- Exportación CSV/JSON
-- Banco de errores / didáctica del error
-- Evaluación formativa / evidencias
-- Repositorio de escenarios
-- LOMLOE Aragón
-- Prácticum
-- Soberanía tecnológica
+Motor de escenarios · SdA · DSL · offline · Go · GPL-3.0 · CC BY-SA · SQLite · CSV/JSON · banco de errores · LOMLOE · Prácticum · soberanía tecnológica
 
 ---
 
@@ -348,35 +309,30 @@ Diseño operativo inspirado en los protocolos de las ideas 06 y 11: una secuenci
 
 | Evitar | Apostar |
 |--------|--------|
-| Otra app de ejercicios cerrados | **SdA como dato + motor reutilizable** |
-| «IA que enseña mates» | IA solo en **autoría formal** del escenario |
-| Evaluación automática total | Evidencias + export + **juicio docente** |
-| Solo código sin aula | **Protocolo de Prácticum** con indicadores de fricción |
+| App de ejercicios cableados | SdA como dato + motor |
+| IA que enseña mates | IA solo en autoría formal |
+| Evaluación automática total | Evidencias + juicio docente |
+| Solo código sin aula | Protocolo de Prácticum |
 
 ---
 
 ## 16. Estado y siguientes pasos
 
-**Estado:** propuesta elaborada; candidata fuerte a TFM de **innovación** (arquitectura + piloto). El [Anexo A](#anexo-a--ejemplo-dsl-v01-ordenación-de-fracciones) fija un **DSL v0.1 de referencia** (provisional).
-
-1. Validar/ajustar el esquema del Anexo A con el tutor del TFM.
-2. Implementar motor mínimo + validación + registro de códigos de error.
-3. Segundo escenario **sin tocar el motor** (prueba de arquitectura).
-4. UI 2D + SQLite + informe + **export CSV/JSON**.
-5. Aplicar el **protocolo de Prácticum** (sección 11).
-6. Memoria (especificación DSL, licencias duales, guía de autoría).
+1. Ajustar Anexo A (incl. correcciones A.8 si hay margen).
+2. Motor mínimo + validación.
+3. Segundo escenario sin tocar el motor.
+4. UI + SQLite + export.
+5. Protocolo de Prácticum.
+6. Memoria (DSL, licencias, líneas futuras §19).
 
 ---
 
 ## 17. Bibliografía y recursos semilla
 
-- Orden ECD/1172/2022 y ECD/1173/2022 (currículo Aragón).
-- Go: https://go.dev · Fyne / Gio · gonum / gonum/plot.
-- SQLite embebido en Go (`modernc.org/sqlite`).
-- GPL-3.0 · Creative Commons BY-SA 4.0 (contenidos).
-- RGPD / AEPD — protección de datos en centros educativos.
-- Literatura sobre software libre en educación matemática; carga cognitiva y entornos digitales (idea 02).
-- Análisis de errores en educación matemática; sistemas autor y lenguajes de dominio (DSL): posicionar SimulaESO como **autoría didáctica → ejecución local**, no como LMS cloud.
+- Orden ECD/1172/2022 y ECD/1173/2022 (Aragón).
+- Go · Fyne / Gio · gonum · SQLite (`modernc.org/sqlite`).
+- GPL-3.0 · CC BY-SA 4.0 · RGPD/AEPD.
+- Software libre en educación matemática; análisis de errores; diseño de DSL.
 
 ---
 
@@ -386,9 +342,44 @@ Diseño operativo inspirado en los protocolos de las ideas 06 y 11: una secuenci
 
 ---
 
+## 19. Mejoras previstas para versiones avanzadas (post-MVP)
+
+El MVP del TFM debe permanecer acotado (motor + DSL v0.1 + 2–3 escenarios + piloto). Lo siguiente es **hoja de ruta posterior**, útil como sección de «líneas futuras» en la memoria.
+
+### 19.1. Robustez del DSL y la validación
+- **JSON Schema** (o equivalente) del DSL para validación máquina-legible y posibles editores.
+- Política explícita ante **tipos de fase desconocidos** (rechazo en validación por defecto).
+- **Validadores paramétricos** (p. ej. `multiplo_comun` de una lista de denominadores) en lugar de listas cerradas `[30, 60, 90]`.
+- **Parser de fracciones y órdenes** con normalización (`1/2 < 3/5 < 2/3`).
+- `error_por_defecto` por fase; versionado semántico del DSL con compatibilidad hacia atrás.
+
+### 19.2. Pedagogía y feedback
+- Registrar avance **por acierto** vs. **por agotamiento de intentos**.
+- **Feedback específico por código de error** además de pistas graduadas.
+- Banco de errores con ejemplos y patrones solo cuando la detección sea fiable.
+- Ítems breves de **metacognición** (confianza / estrategia) al cierre de fase.
+- Modos **práctica** vs. **evaluación** (pistas y tiempo configurables).
+
+### 19.3. Datos, informes y arquitectura
+- **Esquema SQL documentado** (`alumno`, `sesion`, `fase_intento`, `evidencia`, …).
+- Exportación a **PDF** (e XLSX si aporta).
+- Servidor **solo LAN** opcional para centralizar resultados del aula sin Internet.
+- Tipos de fase ampliables y más dominios (álgebra, geometría, estadística).
+
+### 19.4. Ecosistema (largo plazo)
+- Editor visual de escenarios que genere YAML.
+- Análisis de trayectorias y frecuencias de error por grupo.
+- Compilación a **WebAssembly** (navegador local sin instalación).
+- Catálogo de escenarios (descarga puntual; ejecución offline).
+- Multiidioma.
+
+> **Criterio:** nada de esta lista debe ampliar el alcance del piloto del TFM.
+
+---
+
 ## Anexo A — Ejemplo DSL v0.1: ordenación de fracciones
 
-> **Estado:** propuesta de esquema para el MVP. No es una API cerrada; puede evolucionar a v0.2 tras el primer prototipo.  
+> **Estado:** propuesta de esquema para el MVP.  
 > **Carpeta prevista:** `escenarios/aritmetica/ordenacion-fracciones/`
 
 ### A.1. Estructura de ficheros
@@ -396,10 +387,10 @@ Diseño operativo inspirado en los protocolos de las ideas 06 y 11: una secuenci
 ```text
 escenarios/aritmetica/ordenacion-fracciones/
 ├── metadatos.yaml
-├── ficha.md              # capa pedagógica (humana)
-├── escenario.yaml        # capa formal (motor)
-├── errores.yaml          # banco de malentendidos
-└── recursos/             # opcional (imágenes, CSV)
+├── ficha.md
+├── escenario.yaml
+├── errores.yaml
+└── recursos/
 ```
 
 ### A.2. `metadatos.yaml`
@@ -408,7 +399,7 @@ escenarios/aritmetica/ordenacion-fracciones/
 id: aritmetica.ordenacion-fracciones
 version: "0.1.0"
 titulo: Ordenación de fracciones
-curso: "1 ESO"          # orientativo; adaptable
+curso: "1 ESO"
 tematica: aritmetica
 saberes_basicos:
   - fracciones
@@ -421,192 +412,125 @@ dsl_version: "0.1"
 duracion_minutos_orientativa: 45
 ```
 
-### A.3. `errores.yaml` (banco de errores)
+### A.3. `errores.yaml`
 
 ```yaml
 dsl_version: "0.1"
 errores:
   - codigo: E_DENOM_IGUAL
-    descripcion: Compara numeradores (o denominadores) sin reducir a común denominador o a la misma unidad.
+    descripcion: Compara numeradores o denominadores sin común denominador / misma unidad.
     gravedad: alta
   - codigo: E_ENTEROS
-    descripcion: Trata numerador y denominador como cantidades independientes (como enteros sueltos).
+    descripcion: Trata numerador y denominador como enteros independientes.
     gravedad: alta
   - codigo: E_INV_ORDEN
-    descripcion: Invierte el orden (coloca la fracción menor como mayor o al revés).
+    descripcion: Invierte el orden de magnitud.
     gravedad: media
   - codigo: E_EQUIV_NO_REC
-    descripcion: No reconoce fracciones equivalentes (p. ej. 1/2 y 2/4).
+    descripcion: No reconoce fracciones equivalentes.
     gravedad: media
   - codigo: E_SIN_JUSTIFICAR
-    descripcion: Da un orden plausible pero no aporta criterio o justificación cuando se pide.
+    descripcion: Orden sin criterio o justificación cuando se pide.
     gravedad: baja
   - codigo: E_SIN_CLASIFICAR
-    descripcion: Respuesta incorrecta o incompleta que el motor no puede asociar a un malentendido concreto.
+    descripcion: Incorrecto o incompleto sin malentendido identificable de forma fiable.
     gravedad: baja
 ```
 
-### A.4. `escenario.yaml` (capa formal ejecutable)
+### A.4. `escenario.yaml` (extracto estructural)
 
 ```yaml
 dsl_version: "0.1"
 id: aritmetica.ordenacion-fracciones
-
-# Referencia al banco de errores del mismo directorio
 errores_ref: errores.yaml
 
 situacion:
   titulo: "Reparto de pizza en la excursión"
   texto: >
-    En la excursión, tres grupos han pedido pizza. El grupo A ha comido 2/3 de una pizza,
-    el grupo B 3/5 y el grupo C 1/2. Antes de pedir más, la clase debe ordenar de menor
-    a mayor qué grupo ha comido más cantidad de pizza (misma pizza unitaria).
-  # Principio didáctico: situación antes que fórmula
+    Tres grupos: A ha comido 2/3, B 3/5 y C 1/2 de una misma pizza unitaria.
+    Hay que ordenar de menor a mayor la cantidad comida.
 
 fases:
   - id: fase_1_estimacion
     tipo: eleccion_orden
-    enunciado: >
-      Sin hacer todavía cálculos largos, ¿cuál crees que es el orden de menor a mayor
-      cantidad comida (A = 2/3, B = 3/5, C = 1/2)?
+    enunciado: "¿Cuál es el orden de menor a mayor (A=2/3, B=3/5, C=1/2)?"
     opciones:
-      - id: o1
-        etiqueta: "C < B < A"
-      - id: o2
-        etiqueta: "B < C < A"
-      - id: o3
-        etiqueta: "C < A < B"
-      - id: o4
-        etiqueta: "A < B < C"
+      - {id: o1, etiqueta: "C < B < A"}   # correcto: 1/2 < 3/5 < 2/3
+      - {id: o2, etiqueta: "B < C < A"}
+      - {id: o3, etiqueta: "C < A < B"}
+      - {id: o4, etiqueta: "A < B < C"}
     respuesta_correcta: o1
-    # Orden real: 1/2 < 3/5 < 2/3
+    error_por_defecto: E_SIN_CLASIFICAR
+    errores_si_falla: {o2: E_INV_ORDEN, o3: E_DENOM_IGUAL, o4: E_INV_ORDEN}
     pistas:
-      - nivel: 1
-        texto: "Piensa qué fracción se acerca más a un entero completo (casi 1) y cuál se queda más cerca de la mitad."
-      - nivel: 2
-        texto: "1/2 es exactamente la mitad. ¿2/3 y 3/5 están por encima o por debajo de la mitad?"
-    errores_si_falla:
-      # Mapeo opcional opción → código (si no, E_SIN_CLASIFICAR)
-      o2: E_INV_ORDEN
-      o3: E_DENOM_IGUAL
-      o4: E_INV_ORDEN
-    avance:
-      tipo: tras_respuesta   # o: tras_correcta | tras_max_intentos
-      max_intentos: 3
-      siguiente: fase_2_comun_denominador
+      - {nivel: 1, texto: "¿Cuál se acerca más a un entero y cuál a la mitad?"}
+      - {nivel: 2, texto: "1/2 es la mitad; sitúa 2/3 y 3/5 respecto a 1/2."}
+    avance: {tipo: tras_respuesta, max_intentos: 3, siguiente: fase_2_comun_denominador}
 
   - id: fase_2_comun_denominador
     tipo: respuesta_corta
-    enunciado: >
-      Propón un denominador común que te permita comparar 1/2, 3/5 y 2/3.
-      Escribe solo el número (denominador común).
-    validacion:
-      tipo: entero_en_conjunto
-      valores_aceptados: [30, 60, 90]   # múltiplos útiles; 30 es el mcm
-      # El motor puede aceptar cualquier común múltiplo de 2,3,5 en v0.2;
-      # en v0.1 se acota para simplificar la implementación.
+    enunciado: "Propón un denominador común para comparar 1/2, 3/5 y 2/3."
+    # MVP simplificado (ver limitaciones A.8): lista acotada.
+    # Post-MVP preferible: validacion.tipo = multiplo_comun, denominadores: [2,3,5]
+    validacion: {tipo: entero_en_conjunto, valores_aceptados: [30, 60, 90]}
+    error_por_defecto: E_DENOM_IGUAL
     pistas:
-      - nivel: 1
-        texto: "Los denominadores son 2, 5 y 3. Busca un número en el que quepan los tres."
-      - nivel: 2
-        texto: "Prueba con 2×3×5."
-    errores_si_falla:
-      por_defecto: E_DENOM_IGUAL
-    avance:
-      tipo: tras_correcta
-      max_intentos: 4
-      siguiente: fase_3_orden_justificado
+      - {nivel: 1, texto: "Denominadores 2, 5 y 3: busca un múltiplo común."}
+      - {nivel: 2, texto: "Prueba con 2×3×5."}
+    avance: {tipo: tras_correcta, max_intentos: 4, siguiente: fase_3_orden_justificado}
 
   - id: fase_3_orden_justificado
     tipo: orden_y_texto
-    enunciado: >
-      Escribe el orden de menor a mayor usando las fracciones (por ejemplo: 1/2 < 3/5 < 2/3)
-      y en una frase indica el criterio que has usado.
+    enunciado: "Escribe el orden (p. ej. 1/2 < 3/5 < 2/3) y una frase con el criterio."
     validacion:
-      orden_esperado: ["1/2", "3/5", "2/3"]
-      texto_justificacion:
-        obligatorio: true
-        min_caracteres: 15
+      orden_esperado: ["1/2", "3/5", "2/3"]  # post-MVP: parser de fracciones
+      texto_justificacion: {obligatorio: true, min_caracteres: 15}
+    error_por_defecto: E_SIN_CLASIFICAR
+    errores_si_falla: {orden_incorrecto: E_INV_ORDEN, sin_texto: E_SIN_JUSTIFICAR}
     pistas:
-      - nivel: 1
-        texto: "Con denominador 30: 1/2 = 15/30, 3/5 = 18/30, 2/3 = 20/30."
-    errores_si_falla:
-      orden_incorrecto: E_INV_ORDEN
-      sin_texto: E_SIN_JUSTIFICAR
-    avance:
-      tipo: tras_respuesta
-      max_intentos: 3
-      siguiente: fin
+      - {nivel: 1, texto: "Con den. 30: 15/30, 18/30, 20/30."}
+    avance: {tipo: tras_respuesta, max_intentos: 3, siguiente: fin}
 
 fin:
-  mensaje: >
-    Has comparado fracciones en un contexto de reparto. Revisa en el informe
-    cuántas pistas usaste y qué tipo de errores aparecieron; el profesor completará
-    la valoración con lo observado en clase.
+  mensaje: "Revisa pistas y errores en el informe; el profesor completará la valoración."
 
-evidencias_registradas:
-  - fase_id
-  - intento_n
-  - respuesta_bruta
-  - correcta
-  - codigo_error      # de errores.yaml o E_SIN_CLASIFICAR
-  - pistas_usadas
-  - tiempo_segundos
-
-observacion_docente:
-  # Campos que el software deja vacíos para el profesor
-  - actitud
-  - trabajo_en_pareja
-  - notas_libres
+evidencias_registradas: [fase_id, intento_n, respuesta_bruta, correcta, codigo_error, pistas_usadas, tiempo_segundos, tipo_avance]
+observacion_docente: [actitud, trabajo_en_pareja, notas_libres]
 ```
 
-### A.5. Esquema mínimo del DSL v0.1 (campos que el validador debe exigir)
+### A.5. Campos mínimos que el validador debe exigir
 
-| Campo / estructura | Obligatorio | Notas |
-|--------------------|-------------|--------|
-| `dsl_version` | sí | Debe coincidir con la que entiende el motor |
-| `id` | sí | Único en el repositorio |
-| `situacion.texto` | sí | No empezar por “Calcula…” sin contexto |
-| `fases[]` | sí (≥1) | Grafo con `siguiente` sin ciclos |
-| `fases[].id` | sí | Identificador estable |
-| `fases[].tipo` | sí | Catálogo v0.1: `eleccion_orden`, `respuesta_corta`, `orden_y_texto` |
-| `fases[].enunciado` | sí | |
-| `fases[].avance.siguiente` | sí | `fin` o id de otra fase |
-| `errores_ref` o errores embebidos | sí | Códigos estables |
-| `evidencias_registradas` | recomendado | Contrato con SQLite/export |
-| `observacion_docente` | recomendado | Recuerda que el juicio es humano |
+| Campo | Obligatorio |
+|-------|-------------|
+| `dsl_version`, `id` | sí |
+| `situacion.texto` | sí |
+| `fases[]` (≥1), `fases[].id`, `tipo`, `enunciado`, `avance.siguiente` | sí |
+| `error_por_defecto` por fase (o global) | recomendado en v0.1; sí en v0.2 |
+| `errores_ref` o errores embebidos | sí |
+| `evidencias_registradas`, `observacion_docente` | recomendado |
 
-Tipos de fase adicionales se añaden en **v0.2** sin romper escenarios v0.1 (el motor ignora tipos desconocidos o los rechaza en validación según política elegida).
+**Política por defecto (fijada):** tipos de fase desconocidos → **rechazo en validación** (no ejecución silenciosa).
 
-### A.6. Boceto de `ficha.md` (capa humana, extracto)
+### A.6. Boceto de `ficha.md`
 
-```markdown
-# SdA: Ordenación de fracciones (excursión y pizzas)
+Capa humana: situación, objetivos, errores previsibles (enlace a `errores.yaml`), evidencias automáticas vs. observación docente.
 
-**Curso:** 1.º ESO (adaptable)  
-**Saberes:** fracciones; orden; común denominador  
-**Competencias:** STEM, CD (uso de entorno local seguro)
+### A.7. Uso por el motor
 
-## Situación
-[Texto narrativo alineado con escenario.yaml]
+1. Leer metadatos + escenario + errores.  
+2. Validar.  
+3. Ejecutar fases y registrar evidencias.  
+4. Exportar; el profesor completa observación.
 
-## Objetivos
-- Comparar fracciones con distinto denominador en un contexto significativo.
-- Justificar el orden con un criterio explícito (no solo intuición).
+### A.8. Limitaciones conscientes del ejemplo v0.1
 
-## Errores previsibles
-Ver errores.yaml (E_DENOM_IGUAL, E_ENTEROS, …).
-
-## Evaluación
-- Evidencias automáticas: intentos, pistas, códigos de error.
-- Observación docente: actitud, colaboración, calidad de la explicación oral.
-```
-
-### A.7. Cómo lo usa el motor (resumen)
-
-1. Lee `metadatos.yaml` + `escenario.yaml` + `errores.yaml`.
-2. Valida el esquema (campos obligatorios, `siguiente` existente, códigos de error declarados).
-3. Ejecuta `fase_1` → … → `fin`, registrando evidencias en SQLite.
-4. Exporta CSV/JSON; el profesor rellena `observacion_docente`.
-
-Con este anexo, el experimento de arquitectura del TFM queda acotado: **implementar el motor para este DSL v0.1** y demostrar que un segundo escenario (p. ej. proporcionalidad) se añade solo con nuevos YAML, sin recompilar la lógica de fases.
+| Punto | Problema | Corrección prioritaria |
+|-------|----------|-------------------------|
+| Fase 2 lista `[30,60,90]` | Falsos negativos (p. ej. 120) | `multiplo_comun: [2,3,5]` |
+| Fase 3 por cadenas | Fallos por formato/espacios | Parser / normalización de fracciones |
+| Sin `error_por_defecto` | Casos indefinidos | Campo explícito → `E_SIN_CLASIFICAR` |
+| Tipos desconocidos | Comportamiento ambiguo | Rechazo en validación |
+| Códigos ricos en texto libre | Poco fiables | Solo mapeos claros; resto sin clasificar + docente |
+| Justificación por longitud | Texto vacío de contenido | Aceptable en MVP; post-MVP palabras clave o revisión |
+| SQLite sin tablas aquí | Implementación incompleta | Documentar esquema en la memoria |
+| YAML del escenario | ¿Código o contenido? | **Contenido CC BY-SA**; motor GPL-3.0 |
