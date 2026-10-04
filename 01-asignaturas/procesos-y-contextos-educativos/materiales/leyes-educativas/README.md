@@ -22,11 +22,12 @@ Cada documento de ley sigue una estructura académica homogénea que facilita la
 | **LOMCE** | 2013 | PP (Rajoy) | [lomce-2013.md](lomce-2013.md) |
 | **LOMLOE** | 2020 | PSOE-UP (Sánchez) | [lomloe-2020.md](lomloe-2020.md) |
 
-## Comparativa internacional (PISA y sistemas de referencia)
+## Comparativa internacional y mapa de paradigmas
 
 | Recurso | Contenido |
 |---------|-----------|
 | [**Comparativa PISA 2025 y sistemas internacionales**](comparativa-pisa-2025-y-sistemas-internacionales.md) | Resultados España vs. Corea, Estonia, Polonia y media OCDE; evolución 2022→2025; China frente a LOMCE/LOMLOE; transferibilidad de políticas |
+| [**Mapa epistemológico de paradigmas**](../mapa-epistemologico-paradigmas-educativos.md) | Triángulo positivista / interpretativo / sociocrítico; posición orientativa de LOMCE, LOMLOE y modelo chino |
 
 Material de debate para situar LOMCE y LOMLOE en el marco de los sistemas de alto rendimiento (sin reducir la explicación a una sola ley).
 
@@ -37,6 +38,7 @@ Relacionado en la carpeta de materiales: [PISA 2022 — fracaso escolar y matem�
 - Leer el resumen comparativo del apunte principal del Tema 1.
 - Consultar el documento detallado de cada ley según se trabaje en clase o en el estudio personal.
 - Utilizar la sección 5 (Paradigmas) para conectar con el marco teórico del tema (Racional-Tecnológico, Interpretativo-Constructivista, Socio-Crítico).
+- Situar LOMCE / LOMLOE / China en el [mapa epistemológico](../mapa-epistemologico-paradigmas-educativos.md).
 - Contrastar con la [comparativa PISA 2025](comparativa-pisa-2025-y-sistemas-internacionales.md) al debatir resultados y transferibilidad de políticas.
 
 ## Ubicación en el repositorio

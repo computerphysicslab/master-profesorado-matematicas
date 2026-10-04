@@ -14,6 +14,9 @@ parent: Procesos y contextos educativos
 | Interpretativo | Significados, constructivismo, comprensión |
 | Socio-crítico | Equidad, inclusión, poder y contexto |
 
+**Mapa visual (autores + LOMCE / LOMLOE / China):**  
+[Mapa epistemológico de los paradigmas educativos](../materiales/mapa-epistemologico-paradigmas-educativos.md) — triángulo positivista / interpretativo / sociocrítico; zona de hibridación; lectura orientativa de los marcos regulatorios.
+
 ## Leyes educativas (mapa rápido)
 
 | Ley | Año | Gobierno | Paradigma dominante (orientativo) | Clave |
