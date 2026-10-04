@@ -67,6 +67,8 @@ Puntos de diseño importantes:
 - El resultado debe poder **validarse** antes de cargarse en el motor (campos obligatorios, tipos, grafo de fases acíclico, etc.).
 - La transformación puede ser asistida por IA en el flujo de autoría; la **ejecución en el aula sigue siendo offline** (el escenario ya validado viaja con el binario o en carpeta local).
 
+Ejemplo concreto del esquema (**DSL v0.1**): [Anexo A — Ordenación de fracciones](#anexo-a--ejemplo-dsl-v01-ordenación-de-fracciones).
+
 ### 2.3. Capa de ejecución — motor SimulaESO
 
 El motor interpreta el escenario:
@@ -163,14 +165,7 @@ Crecimiento posterior (fuera del MVP del TFM): rankings por uso, resultados educ
 
 ## 5. Banco de errores típicos (didáctica del error)
 
-Cada escenario declara un **banco de malentendidos** versionado (en la ficha pedagógica y en la capa formal):
-
-| Código | Descripción didáctica (ej. fracciones) |
-|--------|------------------------------------------|
-| `E_DENOM_IGUAL` | Compara numeradores sin igualar denominadores |
-| `E_ENTEROS` | Trata fracciones como enteros independientes |
-| `E_INV_OP` | Invierte el orden al pasar a común denominador |
-| … | … |
+Cada escenario declara un **banco de malentendidos** versionado (en la ficha pedagógica y en la capa formal). Ejemplo completo en el [Anexo A](#anexo-a--ejemplo-dsl-v01-ordenación-de-fracciones).
 
 **Uso en el ciclo:**
 
@@ -267,9 +262,9 @@ No hace falta una biblioteca enorme de actividades. Basta demostrar el concepto:
 | Pieza | Contenido mínimo |
 |-------|------------------|
 | Motor | Carga de escenario formal, bucle de fases, evaluación simple, pistas, registro de errores |
-| DSL | Esquema documentado (campos obligatorios + grafo de fases + códigos de error) |
+| DSL | Esquema documentado (campos obligatorios + grafo de fases + códigos de error) — ver [Anexo A](#anexo-a--ejemplo-dsl-v01-ordenación-de-fracciones) |
 | Validación | CLI o paso previo que rechace escenarios mal formados |
-| Escenarios | **2–3** (p. ej. ordenación de fracciones; estadística con CSV; probabilidad/Monte Carlo) |
+| Escenarios | **2–3** (ordenación de fracciones + estadística CSV + probabilidad/Monte Carlo) |
 | Identidad + SQLite | Altas de grupo; sesión; informe por alumno |
 | Exportación | CSV (listado grupo) + JSON (sesión detallada) |
 | UI 2D | Situación, respuesta, feedback |
@@ -362,14 +357,14 @@ Diseño operativo inspirado en los protocolos de las ideas 06 y 11: una secuenci
 
 ## 16. Estado y siguientes pasos
 
-**Estado:** propuesta elaborada; candidata fuerte a TFM de **innovación** (arquitectura + piloto).
+**Estado:** propuesta elaborada; candidata fuerte a TFM de **innovación** (arquitectura + piloto). El [Anexo A](#anexo-a--ejemplo-dsl-v01-ordenación-de-fracciones) fija un **DSL v0.1 de referencia** (provisional).
 
-1. Congelar el **esquema del DSL** (v0.1) y un ejemplo completo: *ordenación de fracciones* (con `errores.yaml`).
+1. Validar/ajustar el esquema del Anexo A con el tutor del TFM.
 2. Implementar motor mínimo + validación + registro de códigos de error.
 3. Segundo escenario **sin tocar el motor** (prueba de arquitectura).
 4. UI 2D + SQLite + informe + **export CSV/JSON**.
-5. Redactar **protocolo de Prácticum** operativo (sección 11).
-6. Piloto breve + memoria (especificación DSL, licencias duales, guía de autoría).
+5. Aplicar el **protocolo de Prácticum** (sección 11).
+6. Memoria (especificación DSL, licencias duales, guía de autoría).
 
 ---
 
@@ -388,3 +383,230 @@ Diseño operativo inspirado en los protocolos de las ideas 06 y 11: una secuenci
 ## 18. Pregunta guía
 
 > **Si una situación de aprendizaje bien diseñada pudiera ejecutarse como un escenario validado —sin reprogramar el aula digital cada vez— ¿qué motor, qué lenguaje formal y qué evidencias de aula demuestran que ese camino es mejor que depender de la nube o de actividades cableadas en el código?**
+
+---
+
+## Anexo A — Ejemplo DSL v0.1: ordenación de fracciones
+
+> **Estado:** propuesta de esquema para el MVP. No es una API cerrada; puede evolucionar a v0.2 tras el primer prototipo.  
+> **Carpeta prevista:** `escenarios/aritmetica/ordenacion-fracciones/`
+
+### A.1. Estructura de ficheros
+
+```text
+escenarios/aritmetica/ordenacion-fracciones/
+├── metadatos.yaml
+├── ficha.md              # capa pedagógica (humana)
+├── escenario.yaml        # capa formal (motor)
+├── errores.yaml          # banco de malentendidos
+└── recursos/             # opcional (imágenes, CSV)
+```
+
+### A.2. `metadatos.yaml`
+
+```yaml
+id: aritmetica.ordenacion-fracciones
+version: "0.1.0"
+titulo: Ordenación de fracciones
+curso: "1 ESO"          # orientativo; adaptable
+tematica: aritmetica
+saberes_basicos:
+  - fracciones
+  - orden_y_comparacion
+  - comun_denominador
+idioma: es
+autor: "Propuesta TFM SimulaESO"
+licencia: CC-BY-SA-4.0
+dsl_version: "0.1"
+duracion_minutos_orientativa: 45
+```
+
+### A.3. `errores.yaml` (banco de errores)
+
+```yaml
+dsl_version: "0.1"
+errores:
+  - codigo: E_DENOM_IGUAL
+    descripcion: Compara numeradores (o denominadores) sin reducir a común denominador o a la misma unidad.
+    gravedad: alta
+  - codigo: E_ENTEROS
+    descripcion: Trata numerador y denominador como cantidades independientes (como enteros sueltos).
+    gravedad: alta
+  - codigo: E_INV_ORDEN
+    descripcion: Invierte el orden (coloca la fracción menor como mayor o al revés).
+    gravedad: media
+  - codigo: E_EQUIV_NO_REC
+    descripcion: No reconoce fracciones equivalentes (p. ej. 1/2 y 2/4).
+    gravedad: media
+  - codigo: E_SIN_JUSTIFICAR
+    descripcion: Da un orden plausible pero no aporta criterio o justificación cuando se pide.
+    gravedad: baja
+  - codigo: E_SIN_CLASIFICAR
+    descripcion: Respuesta incorrecta o incompleta que el motor no puede asociar a un malentendido concreto.
+    gravedad: baja
+```
+
+### A.4. `escenario.yaml` (capa formal ejecutable)
+
+```yaml
+dsl_version: "0.1"
+id: aritmetica.ordenacion-fracciones
+
+# Referencia al banco de errores del mismo directorio
+errores_ref: errores.yaml
+
+situacion:
+  titulo: "Reparto de pizza en la excursión"
+  texto: >
+    En la excursión, tres grupos han pedido pizza. El grupo A ha comido 2/3 de una pizza,
+    el grupo B 3/5 y el grupo C 1/2. Antes de pedir más, la clase debe ordenar de menor
+    a mayor qué grupo ha comido más cantidad de pizza (misma pizza unitaria).
+  # Principio didáctico: situación antes que fórmula
+
+fases:
+  - id: fase_1_estimacion
+    tipo: eleccion_orden
+    enunciado: >
+      Sin hacer todavía cálculos largos, ¿cuál crees que es el orden de menor a mayor
+      cantidad comida (A = 2/3, B = 3/5, C = 1/2)?
+    opciones:
+      - id: o1
+        etiqueta: "C < B < A"
+      - id: o2
+        etiqueta: "B < C < A"
+      - id: o3
+        etiqueta: "C < A < B"
+      - id: o4
+        etiqueta: "A < B < C"
+    respuesta_correcta: o1
+    # Orden real: 1/2 < 3/5 < 2/3
+    pistas:
+      - nivel: 1
+        texto: "Piensa qué fracción se acerca más a un entero completo (casi 1) y cuál se queda más cerca de la mitad."
+      - nivel: 2
+        texto: "1/2 es exactamente la mitad. ¿2/3 y 3/5 están por encima o por debajo de la mitad?"
+    errores_si_falla:
+      # Mapeo opcional opción → código (si no, E_SIN_CLASIFICAR)
+      o2: E_INV_ORDEN
+      o3: E_DENOM_IGUAL
+      o4: E_INV_ORDEN
+    avance:
+      tipo: tras_respuesta   # o: tras_correcta | tras_max_intentos
+      max_intentos: 3
+      siguiente: fase_2_comun_denominador
+
+  - id: fase_2_comun_denominador
+    tipo: respuesta_corta
+    enunciado: >
+      Propón un denominador común que te permita comparar 1/2, 3/5 y 2/3.
+      Escribe solo el número (denominador común).
+    validacion:
+      tipo: entero_en_conjunto
+      valores_aceptados: [30, 60, 90]   # múltiplos útiles; 30 es el mcm
+      # El motor puede aceptar cualquier común múltiplo de 2,3,5 en v0.2;
+      # en v0.1 se acota para simplificar la implementación.
+    pistas:
+      - nivel: 1
+        texto: "Los denominadores son 2, 5 y 3. Busca un número en el que quepan los tres."
+      - nivel: 2
+        texto: "Prueba con 2×3×5."
+    errores_si_falla:
+      por_defecto: E_DENOM_IGUAL
+    avance:
+      tipo: tras_correcta
+      max_intentos: 4
+      siguiente: fase_3_orden_justificado
+
+  - id: fase_3_orden_justificado
+    tipo: orden_y_texto
+    enunciado: >
+      Escribe el orden de menor a mayor usando las fracciones (por ejemplo: 1/2 < 3/5 < 2/3)
+      y en una frase indica el criterio que has usado.
+    validacion:
+      orden_esperado: ["1/2", "3/5", "2/3"]
+      texto_justificacion:
+        obligatorio: true
+        min_caracteres: 15
+    pistas:
+      - nivel: 1
+        texto: "Con denominador 30: 1/2 = 15/30, 3/5 = 18/30, 2/3 = 20/30."
+    errores_si_falla:
+      orden_incorrecto: E_INV_ORDEN
+      sin_texto: E_SIN_JUSTIFICAR
+    avance:
+      tipo: tras_respuesta
+      max_intentos: 3
+      siguiente: fin
+
+fin:
+  mensaje: >
+    Has comparado fracciones en un contexto de reparto. Revisa en el informe
+    cuántas pistas usaste y qué tipo de errores aparecieron; el profesor completará
+    la valoración con lo observado en clase.
+
+evidencias_registradas:
+  - fase_id
+  - intento_n
+  - respuesta_bruta
+  - correcta
+  - codigo_error      # de errores.yaml o E_SIN_CLASIFICAR
+  - pistas_usadas
+  - tiempo_segundos
+
+observacion_docente:
+  # Campos que el software deja vacíos para el profesor
+  - actitud
+  - trabajo_en_pareja
+  - notas_libres
+```
+
+### A.5. Esquema mínimo del DSL v0.1 (campos que el validador debe exigir)
+
+| Campo / estructura | Obligatorio | Notas |
+|--------------------|-------------|--------|
+| `dsl_version` | sí | Debe coincidir con la que entiende el motor |
+| `id` | sí | Único en el repositorio |
+| `situacion.texto` | sí | No empezar por “Calcula…” sin contexto |
+| `fases[]` | sí (≥1) | Grafo con `siguiente` sin ciclos |
+| `fases[].id` | sí | Identificador estable |
+| `fases[].tipo` | sí | Catálogo v0.1: `eleccion_orden`, `respuesta_corta`, `orden_y_texto` |
+| `fases[].enunciado` | sí | |
+| `fases[].avance.siguiente` | sí | `fin` o id de otra fase |
+| `errores_ref` o errores embebidos | sí | Códigos estables |
+| `evidencias_registradas` | recomendado | Contrato con SQLite/export |
+| `observacion_docente` | recomendado | Recuerda que el juicio es humano |
+
+Tipos de fase adicionales se añaden en **v0.2** sin romper escenarios v0.1 (el motor ignora tipos desconocidos o los rechaza en validación según política elegida).
+
+### A.6. Boceto de `ficha.md` (capa humana, extracto)
+
+```markdown
+# SdA: Ordenación de fracciones (excursión y pizzas)
+
+**Curso:** 1.º ESO (adaptable)  
+**Saberes:** fracciones; orden; común denominador  
+**Competencias:** STEM, CD (uso de entorno local seguro)
+
+## Situación
+[Texto narrativo alineado con escenario.yaml]
+
+## Objetivos
+- Comparar fracciones con distinto denominador en un contexto significativo.
+- Justificar el orden con un criterio explícito (no solo intuición).
+
+## Errores previsibles
+Ver errores.yaml (E_DENOM_IGUAL, E_ENTEROS, …).
+
+## Evaluación
+- Evidencias automáticas: intentos, pistas, códigos de error.
+- Observación docente: actitud, colaboración, calidad de la explicación oral.
+```
+
+### A.7. Cómo lo usa el motor (resumen)
+
+1. Lee `metadatos.yaml` + `escenario.yaml` + `errores.yaml`.
+2. Valida el esquema (campos obligatorios, `siguiente` existente, códigos de error declarados).
+3. Ejecuta `fase_1` → … → `fin`, registrando evidencias en SQLite.
+4. Exporta CSV/JSON; el profesor rellena `observacion_docente`.
+
+Con este anexo, el experimento de arquitectura del TFM queda acotado: **implementar el motor para este DSL v0.1** y demostrar que un segundo escenario (p. ej. proporcionalidad) se añade solo con nuevos YAML, sin recompilar la lógica de fases.
