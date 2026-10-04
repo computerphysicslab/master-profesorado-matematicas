@@ -1,239 +1,340 @@
-# Idea de TFM: SimulaESO — software educativo offline en Go para Matemáticas de la ESO
+# Idea de TFM: SimulaESO — motor offline de situaciones de aprendizaje para Matemáticas de la ESO
 
 ## 1. Idea central
 
-Diseñar, desarrollar y evaluar **SimulaESO**: una aplicación **open source**, **100 % local**, multiplataforma (Windows/Linux), implementada preferentemente en **Go (Golang)**, con interfaz **gráfica 2D ligera** (sin dependencia de aceleración 3D ni GPU dedicada), orientada a simulación, resolución interactiva de problemas y estadística en Matemáticas de ESO.
+Diseñar, desarrollar y evaluar **SimulaESO**: no solo «una app de Matemáticas», sino un **motor abierto de situaciones de aprendizaje (SdA)** — aplicación **open source**, **100 % local**, multiplataforma (Windows/Linux), preferentemente en **Go (Golang)**, con interfaz **gráfica 2D ligera** (sin aceleración 3D ni GPU dedicada).
 
-La idea responde a tres fricciones reales del aula digital:
+El salto conceptual es pasar de:
 
-1. **Dependencia de red y plataformas cloud** — interrupciones, cuellos de botella y desigualdad de acceso.
-2. **Software pesado o solo-navegador** — equipos antiguos o sin GPU quedan fuera; arranques lentos fragmentan la sesión.
-3. **Privacidad, RGPD y tecnoansiedad** — datos en la nube, notificaciones y entornos web que compiten con la atención matemática.
+> «Programar actividades una a una»
 
-**Pregunta central:** ¿En qué medida una herramienta offline, ligera y portable mejora la viabilidad de las actividades matemáticas digitales (tiempo de arranque, completitud de tareas, focalización y réplica en casa) respecto al uso habitual de software en la nube o en el navegador?
+a:
 
----
+> **«Diseñar un lenguaje y un motor capaces de convertir diseños didácticos en experiencias educativas ejecutables.»**
 
-## 2. Punto de partida y fundamentación
+Cada SdA es un **dato** que el motor interpreta, no un programa nuevo. Un escenario nuevo debería poder incorporarse **sin modificar el código del motor**.
 
-### 2.1. Contexto curricular (Aragón / LOMLOE)
+La idea responde además a tres fricciones del aula digital:
 
-- Sentido **computacional** y **estocástico** (saberes básicos): algoritmos sencillos, simulación, organización de datos.
-- Competencia digital: entornos seguros y sostenibles; comprensión de lo local frente a lo remoto.
-- STEM: uso crítico de herramientas digitales para formular y comprobar conjeturas.
+1. **Dependencia de red y plataformas cloud** — interrupciones y desigualdad de acceso.
+2. **Software pesado o solo-navegador** — equipos modestos fuera de juego; arranques lentos.
+3. **Privacidad, RGPD y tecnoansiedad** — datos en la nube y entornos web que compiten con la atención matemática.
 
-Normativa de referencia: Orden ECD/1172/2022 (ESO) y ECD/1173/2022 (Bachillerato) en Aragón.
+**Pregunta central (doble):**
 
-### 2.2. Por qué Go y UI 2D ligera
-
-| Criterio educativo | Ventaja técnica de Go + UI 2D |
-|--------------------|--------------------------------|
-| Despliegue en aula / USB | Binario único; compilación cruzada (`GOOS`/`GOARCH`) |
-| Equipos modestos | Bajo consumo; sin runtime pesado ni GPU |
-| Offline real | Sin servidor ni cuenta de usuario |
-| Mantenibilidad | Código legible; ecosistema `gonum` para cálculo y gráficas |
-| Soberanía tecnológica | GPL-3.0; código auditable; datos en CSV/SQLite local |
-
-**Opciones de UI (prioridad: 2D, CPU o OpenGL mínimo):** Fyne v2, Gio, o SDL2 con renderizador software. Gráficas: `gonum/plot` (PNG/SVG). Persistencia: SQLite puro Go (`modernc.org/sqlite`) o CSV/JSON.
-
-### 2.3. Encaje con otras ideas del repo
-
-Complementa [02 — tecnoestrés digital](02-tecnoestres-digital.md) (higiene digital y atención) y matiza [01](01-penalizacion-aprendizaje-ia-generativa.md) / [05](05-esfuerzo-cognitivo-y-pensamiento-critico.md): no se trata de «más tecnología», sino de **tecnología acotada** que no compite con la memoria de trabajo ni con la red del centro.
+1. *Arquitectura:* ¿Es viable un motor + DSL mínimo que ejecute escenarios didácticos definidos fuera del código fuente?
+2. *Aula:* ¿Mejora ese enfoque offline la viabilidad de las actividades (arranque, completitud, focalización, réplica en casa, apoyo a la evaluación docente) frente al uso habitual de software en la nube?
 
 ---
 
-## 3. Posibles preguntas de investigación
+## 2. Arquitectura conceptual en tres capas
 
-### Variante A — Viabilidad de aula (recomendada para TFM)
+### 2.1. Capa pedagógica — ficha humana (SdA documental)
 
-> ¿Reduce SimulaESO el tiempo de preparación y las interrupciones por red respecto a una misma secuencia con herramientas en la nube, manteniendo o mejorando la tasa de completitud de tareas matemáticas?
+El profesorado describe la situación en lenguaje didáctico, alineado con LOMLOE (competencias, criterios, saberes básicos). Ejemplo: **«Ordenación de fracciones»**.
 
-### Variante B — Focalización y distracción
+Elementos que la ficha debería contemplar de forma casi obligatoria (aprendizaje moderno, no «fórmula → cálculo»):
 
-> ¿Se observa menor dispersión (observación sistemática / autodeclaración) en sesiones con software offline sin navegador frente a sesiones con plataformas web?
+| Bloque | Contenido |
+|--------|-----------|
+| Identidad | Título, curso, temática, duración orientativa |
+| Currículo | Competencias, criterios de evaluación, saberes básicos |
+| Situación | Contexto real o realista presentado al alumnado |
+| Objetivos | Qué se espera que piense / decida / justifique |
+| Metodología | Trabajo individual / parejas; uso de pistas; ensayo-error |
+| Fases | Secuencia cronológica de la actividad |
+| Preguntas / tareas | Enunciados; posibles planteamientos del alumno |
+| Respuestas esperadas | Criterios de corrección (no solo «la solución») |
+| Errores previsibles | Diagnóstico didáctico |
+| Pistas | Andamiaje gradual |
+| Condiciones de avance | Cuándo se pasa de fase |
+| Evidencias | Qué se registra (elecciones, intentos, tiempo, justificación) |
+| Instrumentos | Rúbrica / checklist para el informe |
+| Observación docente | Campos abiertos que **no** automatiza el programa |
 
-### Variante C — Aprendizaje matemático
+### 2.2. Capa formal — escenario computacional (DSL)
 
-> ¿Hay diferencias en el rendimiento en tareas de estadística / probabilidad / funciones entre grupo experimental (SimulaESO) y control (software habitual), controlando el contenido?
-
-### Variante D — Diseño de software educativo
-
-> ¿Qué requisitos de arquitectura (binario portable, UI 2D, módulos curriculares) maximizan la adopción por profesorado no especialista en informática?
-
-Las variantes A–B son las más viables en un TFM de un curso; C exige diseño experimental más cuidoso; D orienta el trabajo hacia innovación tecnológica documentada.
-
----
-
-## 4. Hipótesis posibles
-
-### H1. Tiempo de arranque y fricción
-
-Un binario local portable reduce el tiempo medio de puesta en marcha de la actividad frente a login + carga web en el mismo hardware de aula.
-
-### H2. Interrupciones de red
-
-En condiciones de red inestable o saturada, el grupo offline completa más tareas en el tiempo lectivo disponible.
-
-### H3. Focalización
-
-La ausencia de navegador y notificaciones web se asocia con menos microinterrupciones observadas durante la resolución de problemas.
-
-### H4. Réplica en casa
-
-El alumnado puede repetir la actividad en casa sin depender de conexión de alta velocidad ni de cuentas institucionales.
-
----
-
-## 5. Variables que podrían estudiarse
-
-| Dimensión | Indicadores posibles |
-|-----------|----------------------|
-| Eficiencia de aula | Tiempo de arranque; nº de fallos de red; tiempo hasta primera tarea útil |
-| Completitud | % de actividades terminadas en la sesión |
-| Focalización | Escala observacional; interrupciones autodeclaradas |
-| Aprendizaje (opcional) | Pretest/postest en el bloque curricular (p. ej. estadística 3.º–4.º) |
-| Usabilidad | SUS o cuestionario breve profesorado/alumnado |
-| Réplica | % que logra ejecutar el binario en casa sin ayuda técnica |
-| Hardware | Tipo de equipo; presencia/ausencia de GPU; SO |
-
----
-
-## 6. Descripción técnica de SimulaESO (alcance TFM)
-
-### 6.1. Requisitos de producto
-
-- **Licencia:** GPL-3.0.
-- **Plataformas:** Windows 10/11 y Linux x86_64 (ARM opcional).
-- **Mínimos orientativos:** CPU 1 GHz, 2 GB RAM, ~100 MB disco; **sin** GPU dedicada; **sin** Internet en tiempo de ejecución.
-- **Distribución:** binario portable (USB / carpeta compartida LAN) + código fuente.
-
-### 6.2. Módulos didácticos prioritarios (MVP para TFM)
-
-No hace falta cubrir todo el currículo. Un MVP creíble:
-
-1. **Funciones y gráficas** — tablas, parámetros, representación 2D.
-2. **Estadística descriptiva** — CSV, medidas, histograma / boxplot.
-3. **Probabilidad y Monte Carlo** — experimentos aleatorios, frecuencias.
-4. **Datos locales** — importar CSV; opcional SQLite muy simple.
-5. **Modo actividad** — plantilla de tarea exportable (enunciado + datos + captura de resultados).
-
-Álgebra simbólica avanzada o CAS completo **queda fuera** del alcance realista de un TFM (salvo como línea futura).
-
-### 6.3. Arquitectura (capas)
+La ficha humana se transforma en una **especificación rígida, validable**, en un esquema/DSL universal para todos los escenarios:
 
 ```text
-Presentación   → UI 2D (Fyne / Gio / SDL2 software) + gráficas (gonum/plot)
-Aplicación     → módulos curriculares (funciones, estadística, probabilidad)
-Dominio        → cálculo (gonum), simulación, validación de entradas
-Persistencia   → CSV / JSON / SQLite local
+ficha didáctica  →  (IA asistida + plantilla)  →  especificación formal
+                 →  validación sintáctica/semántica  →  escenario ejecutable
 ```
+
+Puntos de diseño importantes:
+
+- La IA **no inventa el juego libremente**: traduce la intención pedagógica a un **esquema predefinido** (JSON/YAML u otro formato documentado).
+- El resultado debe poder **validarse** antes de cargarse en el motor (campos obligatorios, tipos, grafo de fases acíclico, etc.).
+- La transformación puede ser asistida por IA en el flujo de autoría; la **ejecución en el aula sigue siendo offline** (el escenario ya validado viaja con el binario o en carpeta local).
+
+### 2.3. Capa de ejecución — motor SimulaESO
+
+El motor interpreta el escenario:
+
+```text
+presentar situación → proponer tarea → recibir respuesta / planteamiento
+  → evaluar → ofrecer pista (si procede) → registrar evidencia
+  → decidir siguiente fase → finalizar → generar informe
+```
+
+Principios didácticos embebidos en el motor (no opcionales en el DSL):
+
+- Situación antes que fórmula.
+- Espacio para **planteamientos** evaluables, no solo respuesta final.
+- Pistas graduadas.
+- Registro de trayectoria (intentos, tiempos, ayudas usadas).
+
+### 2.4. Ciclo completo (profesor ↔ alumno)
+
+```text
+PROFESOR
+   ↓  diseña SdA (capa pedagógica)
+FICHA DIDÁCTICA
+   ↓  IA + DSL (capa formal)
+ESCENARIO FORMAL → validación
+   ↓
+MOTOR SIMULAESO (offline)
+   ↓
+ALUMNO (identificado de forma única)
+   ↓  respuestas, decisiones, evidencias
+INFORME LOCAL (SQLite)
+   ↓
+PROFESOR
+   ↓  consulta listados + añade observación cualitativa
+EVALUACIÓN PROFESIONAL (el software no sustituye al docente)
+```
+
+**Distinción clave:** el programa **automatiza la recogida y organización de evidencias** y puede preparar informes semi-estructurados; la interpretación cualitativa (actitud, estrategias, circunstancias) permanece en manos del profesor. Así se alinea también con la reducción de fricción burocrática sin pretender evaluación automática total.
 
 ---
 
-## 7. Diseño de validación en el aula
+## 3. Repositorio comunitario de escenarios
 
-Diseño **cuasi-experimental** viable:
+Al ser software libre, el valor a medio plazo no es solo el motor, sino una **biblioteca de escenarios** versionada (p. ej. en el mismo repo o en uno hermano):
+
+```text
+escenarios/
+├── aritmetica/
+│   ├── ordenacion-fracciones/
+│   └── proporcionalidad/
+├── algebra/
+│   └── ecuaciones-primer-grado/
+├── funciones/
+├── geometria/
+├── estadistica/
+├── probabilidad/
+└── sentido-computacional/
+```
+
+Cada carpeta de escenario puede contener:
+
+- `ficha.md` — capa pedagógica;
+- `escenario.yaml` (o `.json`) — capa formal;
+- `recursos/` — datos CSV, imágenes 2D ligeras;
+- `metadatos.yaml` — curso, saberes, autoría, licencia, versión.
+
+Crecimiento posterior (fuera del MVP del TFM): rankings por uso, resultados educativos agregados y anónimos, revisión por pares de escenarios.
+
+---
+
+## 4. Identidad del alumnado, persistencia e informes
+
+- **Identificador único** por alumno/a en el ámbito del centro o del grupo (código interno; no basta nombre+apellido).
+- **Persistencia local:** **SQLite** embebido (p. ej. `modernc.org/sqlite`) — portable, sin servidor, coherente con el diseño offline.  
+  *Nota:* Redis u otras bases cliente-servidor **no** encajan en el núcleo offline; quedarían para una eventual arquitectura multiusuario futura.
+- **Informes:** por alumno, por grupo, exportables (CSV/PDF simple); el profesor completa con anotaciones subjetivas.
+- **RGPD:** datos en local; sin telemetría obligatoria; consentimiento y minimización de datos en el piloto.
+
+---
+
+## 5. Punto de partida y fundamentación
+
+### 5.1. Contexto curricular (Aragón / LOMLOE)
+
+- Sentido **computacional** y **estocástico**; competencias y criterios evaluables.
+- Competencia digital: entornos seguros y sostenibles; local frente a remoto.
+- STEM: herramientas digitales para conjeturar y comprobar.
+
+Normativa: Orden ECD/1172/2022 (ESO) y ECD/1173/2022 (Bachillerato) en Aragón.
+
+### 5.2. Por qué Go y UI 2D ligera
+
+| Criterio | Ventaja |
+|----------|---------|
+| Despliegue USB / aula | Binario único; `GOOS`/`GOARCH` |
+| Equipos modestos | Bajo consumo; sin GPU |
+| Offline real | Sin servidor en tiempo de ejecución |
+| Motor + validación DSL | Go adecuado para CLIs, parsers y binarios estáticos |
+| Soberanía | GPL-3.0; SQLite local |
+
+UI candidatas: Fyne v2, Gio, SDL2 software. Gráficas: `gonum/plot`.
+
+### 5.3. Encaje con otras ideas del repo
+
+- [02 — tecnoestrés](02-tecnoestres-digital.md): menos navegador y menos ruido digital.
+- [01](01-penalizacion-aprendizaje-ia-generativa.md) / [05](05-esfuerzo-cognitivo-y-pensamiento-critico.md): la IA asiste al **autor** del escenario, no sustituye el pensamiento del alumno en la ejecución.
+- [03 — burocracia docente](03-burocratizacion-docente-y-carga-administrativa.md): informes semi-preparados como alivio de carga, no como evaluación opaca.
+- [14 — datos reales](14-datos-reales-vs-libro-estadistica.md): escenarios de estadística con CSV locales.
+
+---
+
+## 6. Preguntas de investigación
+
+### Variante A — Arquitectura (núcleo del TFM de innovación)
+
+> ¿Puede un motor + DSL mínimo ejecutar un escenario nuevo (p. ej. ordenación de fracciones) definido solo por especificación formal, sin recompilar ni alterar el código del motor?
+
+### Variante B — Viabilidad de aula
+
+> ¿Reduce el paquete offline (motor + escenarios locales) el tiempo de preparación y las interrupciones por red respecto a la misma secuencia en herramientas cloud?
+
+### Variante C — Evaluación docente
+
+> ¿Percibe el profesorado que los informes generados agilizan la recogida de evidencias sin sustituir su juicio profesional?
+
+### Variante D — Aprendizaje (opcional / ambiciosa)
+
+> ¿Hay diferencias de rendimiento o de calidad de justificación entre grupo experimental y control a igualdad de contenidos?
+
+**Recomendación:** A + B como eje del TFM; C con entrevista/cuestionario breve; D solo si el piloto lo permite.
+
+---
+
+## 7. Hipótesis posibles
+
+- **H1.** Un escenario adicional se incorpora al sistema modificando únicamente ficheros de especificación (y recursos), no el código Go del motor.
+- **H2.** El tiempo de arranque y la tasa de fallos por red mejoran frente al flujo cloud habitual en el mismo hardware.
+- **H3.** El informe local reduce el tiempo percibido de «poner notas/evidencias en limpio» sin eliminar la necesidad de observación docente.
+- **H4.** El alumnado completa más fases de la SdA en el tiempo lectivo cuando no hay dependencia de login/red.
+
+---
+
+## 8. Variables
+
+| Dimensión | Indicadores |
+|-----------|-------------|
+| Arquitectura | Escenarios cargados sin recompilar; errores de validación del DSL |
+| Eficiencia de aula | Tiempo de arranque; fallos de red; tiempo hasta primera tarea útil |
+| Completitud | % de fases / escenarios terminados en la sesión |
+| Focalización | Observación / autodeclaración de interrupciones |
+| Evaluación docente | Tiempo percibido; utilidad del informe; campos que el profesor edita a mano |
+| Usabilidad | SUS breve; nº de clics hasta empezar |
+| Réplica en casa | Ejecución del binario + escenario sin ayuda técnica |
+
+---
+
+## 9. MVP técnico y didáctico del TFM
+
+No hace falta una biblioteca enorme de actividades. Basta demostrar el concepto:
+
+| Pieza | Contenido mínimo |
+|-------|------------------|
+| Motor | Carga de escenario formal, bucle de fases, evaluación simple, pistas, registro |
+| DSL | Esquema documentado (campos obligatorios + grafo de fases) |
+| Validación | CLI o paso previo que rechace escenarios mal formados |
+| Escenarios | **2–3** (p. ej. ordenación de fracciones; uno de estadística con CSV; uno de probabilidad/Monte Carlo) |
+| Identidad + SQLite | Altas de grupo; sesión; informe por alumno |
+| UI 2D | Suficiente para presentar situación, capturar respuesta y mostrar feedback |
+| Documentación | Guía de autoría de fichas + especificación del DSL + guía rápida de aula |
+
+**Experimento de arquitectura del TFM:** crear el tercer escenario **solo** tocando la especificación (y recursos), no el motor.
+
+Fuera de alcance del MVP: CAS simbólico completo, multiusuario en red, Redis, rankings comunitarios en producción, Android.
+
+---
+
+## 10. Diseño de validación en el aula
 
 | Fase | Acción |
 |------|--------|
-| 1. Diseño | MVP + 1–2 situaciones de aprendizaje (LOMLOE Aragón) en un bloque (p. ej. estadística o probabilidad) |
-| 2. Pilotaje | Grupo experimental (SimulaESO) vs. control (herramienta cloud/navegador habitual) |
-| 3. Datos | Tiempos, completitud, observación de focalización; opcional pretest/postest; cuestionario usabilidad |
-| 4. Análisis | Comparación descriptiva; limitaciones explícitas de muestra y causalidad |
+| 1 | DSL + motor + 2 escenarios + una SdA documentada completa |
+| 2 | Piloto: experimental (SimulaESO) vs. control (cloud/navegador), mismo contenido |
+| 3 | Tiempos, completitud, observación; cuestionario usabilidad; breve feedback docente sobre informes |
+| 4 | Análisis descriptivo; limitaciones de muestra y de causalidad explícitas |
 
-**Ética / RGPD:** procesamiento local; logs anónimos si los hay; consentimiento familias/centro; no subir datos de alumnado a servicios externos.
+**Ética:** consentimiento; identificadores no equivalentes a datos personales innecesarios; sin subir datos a la nube.
 
 ---
 
-## 8. Alcance realista y riesgos
+## 11. Alcance realista y riesgos
 
 | Riesgo | Mitigación |
 |--------|------------|
-| Ambición de «CAS completo en un año» | MVP de 2–3 módulos; el TFM evalúa impacto de aula, no el producto comercial |
-| Curva de aprendizaje del autor en Go/UI | Prototipo CLI o web estática local como plan B técnico |
-| Adopción del profesorado | Guía didáctica de 2 páginas + binario «doble clic» |
-| Comparabilidad grupo control | Misma SdA y mismos criterios de evaluación |
-| Efecto novedad | Medir también fricción técnica (arranque, fallos), no solo motivación |
-| Confusión con «anti-tecnología» | Enmarcar como **soberanía tecnológica y reducción de fricción**, no como rechazo a lo digital |
+| Ambición de «plataforma total» | MVP = motor + DSL + 2–3 escenarios |
+| IA que genera basura formal | Esquema cerrado + validación estricta; IA solo asistida |
+| Confundir informe automático con evaluación | Campos obligatorios de observación docente; discurso claro en la memoria |
+| Identidad y privacidad | IDs locales; SQLite en carpeta del centro/profesor; sin cuentas cloud |
+| Curva Go/UI | Plan B: motor CLI + UI mínima |
+| Efecto novedad | Medir fricción técnica, no solo motivación |
 
 ---
 
-## 9. Potencial para TFM
+## 12. Potencial para TFM y títulos posibles
 
-- **Innovación:** producto + SdA + evidencia de aula (no solo memoria teórica).
-- **Actualidad:** debate sobre pantallas, nube, privacidad y equidad digital.
-- **Transferencia:** código público, guía didáctica, posible uso en otros centros.
-- **Líneas futuras:** WebAssembly offline; Android; ampliación a Física/Tecnología; accesibilidad.
+- Innovación **tecnológica y educativa** (motor + lenguaje + piloto).
+- Transferencia: repo de escenarios, licencia libre, documentación de autoría.
+- Escalabilidad social: comunidad de profesores-autores si el núcleo funciona.
 
-### Posibles títulos
+**Títulos posibles:**
 
-- **SimulaESO: diseño y evaluación de una herramienta offline en Go para el sentido estocástico en ESO**
-- **Software matemático local y ligero frente a plataformas en la nube: un estudio piloto en el aula de Secundaria**
-- **Soberanía tecnológica en el aula de Matemáticas: desarrollo open source y validación didáctica de una aplicación 2D offline**
+- **SimulaESO: un motor offline de situaciones de aprendizaje para Matemáticas de ESO**
+- **Del diseño didáctico al escenario ejecutable: DSL y motor open source para el aula de Matemáticas**
+- **Situaciones de aprendizaje como datos: arquitectura y pilotaje de un entorno local en Go**
 
 ---
 
-## 10. Palabras clave
+## 13. Palabras clave
 
-- Software educativo offline
+- Motor de escenarios
+- Situaciones de aprendizaje (SdA)
+- DSL educativo
+- Software offline
 - Go / Golang
 - Open source (GPL-3.0)
 - UI 2D ligera
-- Simulación Monte Carlo
-- Estadística ESO
-- Sentido computacional
-- Privacidad / RGPD
-- Brecha digital
-- Portable / USB
+- SQLite
+- Evaluación formativa / evidencias
+- Repositorio de escenarios
 - LOMLOE Aragón
-- Situaciones de aprendizaje
+- Sentido computacional / estocástico
+- Soberanía tecnológica
 
 ---
 
-## 11. Encaje con Atlas, Bibliometría y otras ideas
+## 14. Encaje con Atlas y bibliometría
 
-| Evitar (saturado) | Apostar (nicho) |
-|-------------------|-----------------|
-| «Uso de GeoGebra para motivar» genérico | **Restricción offline + portabilidad + medición de fricción de aula** |
-| App educativa sin evaluación | Producto **y** indicadores (arranque, red, completitud) |
-| Solo desarrollo informático | Anclaje curricular LOMLOE + SdA + piloto |
-
-**Conexiones:**
-
-- [02 — Tecnoestrés digital](02-tecnoestres-digital.md)
-- [01 — IA generativa y aprendizaje](01-penalizacion-aprendizaje-ia-generativa.md)
-- [05 — Esfuerzo cognitivo y pensamiento crítico](05-esfuerzo-cognitivo-y-pensamiento-critico.md)
-- [14 — Datos reales vs. libro](14-datos-reales-vs-libro-estadistica.md) (módulo estadística + CSV)
-- [Atlas de nichos](../atlas-nichos/) · [Bibliometría TFM](../bibliometria-tfm/)
+| Evitar | Apostar |
+|--------|--------|
+| Otra app de ejercicios cerrados | **SdA como dato + motor reutilizable** |
+| «IA que enseña mates» | IA solo en **autoría formal** del escenario |
+| Evaluación automática total | Evidencias + **juicio docente** |
+| Solo código sin aula | Piloto con indicadores de fricción y usabilidad |
 
 ---
 
-## 12. Estado actual de la idea
+## 15. Estado y siguientes pasos
 
-**Estado:** propuesta elaborada / candidata fuerte a TFM de **innovación** con componente de desarrollo.
+**Estado:** propuesta elaborada; candidata fuerte a TFM de **innovación** (arquitectura + piloto).
 
-**No es todavía:** software terminado ni ensayo clínico de eficacia.
-
-### Siguiente paso recomendado
-
-1. Congelar el **MVP** (módulos + una sola UI candidata, p. ej. Fyne).
-2. Escribir **una** SdA completa (3–5 sesiones) alineada con un saber concreto.
-3. Prototipo compilable Windows+Linux en USB antes del piloto.
-4. Definir instrumentos de observación (tiempos, checklist de interrupciones) compatibles con el Prácticum.
+1. Congelar el **esquema del DSL** (v0.1) y un ejemplo completo: *ordenación de fracciones*.
+2. Implementar motor mínimo + validación.
+3. Segundo escenario **sin tocar el motor** (prueba de arquitectura).
+4. UI 2D suficiente + SQLite + informe.
+5. Piloto breve en Prácticum + memoria con especificación y guía de autoría.
 
 ---
 
-## 13. Bibliografía y recursos semilla
+## 16. Bibliografía y recursos semilla
 
-- Orden ECD/1172/2022 y Orden ECD/1173/2022 (currículo ESO y Bachillerato, Aragón).
-- Documentación Go: https://go.dev
-- Fyne: https://fyne.io · Gio · gonum / gonum/plot: https://www.gonum.org
-- RGPD y guías de protección de datos en centros educativos (AEPD).
-- Trabajos sobre software libre en educación matemática y sobre carga cognitiva / entornos digitales (conectar con idea 02).
-- Comparar con herramientas existentes offline o ligeras: GeoGebra (instalable), Octave, R, aplicaciones HTML5 locales — no para copiar, sino para posicionar el nicho de SimulaESO.
+- Orden ECD/1172/2022 y ECD/1173/2022 (currículo Aragón).
+- Go: https://go.dev · Fyne / Gio · gonum / gonum/plot.
+- SQLite embebido en Go (`modernc.org/sqlite`).
+- RGPD / AEPD — protección de datos en centros educativos.
+- Literatura sobre software libre en educación matemática; carga cognitiva y entornos digitales (idea 02).
+- Referencias de diseño de lenguajes de dominio (DSL) y de sistemas autor (e-learning): posicionar SimulaESO como **autoría didáctica → ejecución local**, no como LMS cloud.
 
 ---
 
-## 14. Pregunta que puede guiar la evolución
+## 17. Pregunta guía
 
-> **Si la mejor herramienta digital del aula de Matemáticas es la que menos interrumpe el razonamiento y menos depende de la red, ¿qué arquitectura de software y qué evidencias de aula demuestran que merece la pena construirla?**
+> **Si una situación de aprendizaje bien diseñada pudiera ejecutarse como un escenario validado —sin reprogramar el aula digital cada vez— ¿qué motor, qué lenguaje formal y qué evidencias de aula demuestran que ese camino es mejor que depender de la nube o de actividades cableadas en el código?**
