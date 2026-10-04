@@ -3,7 +3,7 @@
 **Asignatura:** Procesos y contextos educativos — Tema 1 (evolución del sistema y paradigmas).  
 **Uso:** situar autores, LOMCE, LOMLOE y el modelo educativo chino en un mismo triángulo epistemológico (orientativo, no métrico).
 
-![Mapa epistemológico de los paradigmas educativos](img/mapa-epistemologico-paradigmas-educativos.svg)
+![Mapa epistemológico de los paradigmas educativos](img/mapa_epistemologico_modelos_educativos.png)
 
 *Distribución cualitativa de autores clave y posicionamiento de marcos regulatorios (LOMCE, LOMLOE) y del modelo chino actual. La posición de cada autor es una codificación orientativa, no una medición científica de sus teorías.*
 
@@ -75,13 +75,17 @@ Ninguno de los tres sistemas coincide con un vértice puro. Esa es precisamente 
 
 ## 6. Limitaciones y mejora editorial
 
-- Densidad de nombres: el SVG del repo prioriza autores del núcleo del Máster; el PNG original de trabajo puede conservar más etiquetas.
+- Densidad de nombres en algunas zonas del PNG: en versiones futuras se puede priorizar un subconjunto “núcleo Máster”.
 - El mapa **no sustituye** la lectura de las leyes ni de los autores; orienta la conversación.
 - Codificación **cualitativa**: no es una medición métrica de las teorías.
 
 ---
 
-## Archivo gráfico
+## Archivos gráficos
 
-- **En el repositorio (vectorial):** [`img/mapa-epistemologico-paradigmas-educativos.svg`](img/mapa-epistemologico-paradigmas-educativos.svg)
-- Fuente de trabajo: mapa generado en el proceso formativo del repositorio (codificación cualitativa de autores y marcos).
+| Archivo | Uso |
+|---------|-----|
+| [`img/mapa_epistemologico_modelos_educativos.png`](img/mapa_epistemologico_modelos_educativos.png) | **Mapa principal** (autores + LOMCE / LOMLOE / China) |
+| [`img/mapa-epistemologico-paradigmas-educativos.svg`](img/mapa-epistemologico-paradigmas-educativos.svg) | Versión vectorial simplificada (núcleo de autores) |
+
+Fuente de trabajo: mapa generado en el proceso formativo del repositorio (codificación cualitativa de autores y marcos).

@@ -20,7 +20,7 @@ Recursos prácticos y transversales (citables desde otras asignaturas y el pract
 | Recurso | Uso |
 |---------|-----|
 | [**Leyes educativas (fichas LOECE→LOMLOE)**](leyes-educativas/) | Tema 1 — 7 fichas + README |
-| [**Mapa epistemológico de paradigmas**](mapa-epistemologico-paradigmas-educativos.md) | Tema 1 — triángulo positivista / interpretativo / sociocrítico; LOMCE, LOMLOE, China |
+| [**Mapa epistemológico de paradigmas**](mapa-epistemologico-paradigmas-educativos.md) | Tema 1 — triángulo positivista / interpretativo / sociocrítico; LOMCE, LOMLOE, China ([PNG](img/mapa_epistemologico_modelos_educativos.png)) |
 | [**Comparativa PISA 2025 y sistemas internacionales**](leyes-educativas/comparativa-pisa-2025-y-sistemas-internacionales.md) | Tema 1 — España vs. Corea, Estonia, Polonia, China; LOMCE/LOMLOE |
 | [Línea temporal de leyes educativas](linea-temporal-leyes-educativas.md) | Tema 1 |
 | [Burocratización del trabajo docente — análisis histórico](burocratizacion-trabajo-docente-analisis-historico.md) | Tema 1 (sección 7) |
@@ -39,7 +39,9 @@ Recursos prácticos y transversales (citables desde otras asignaturas y el pract
 ## Inventario completo de esta carpeta
 
 - `leyes-educativas/` (carpeta: fichas de leyes + comparativa PISA 2025)
-- `mapa-epistemologico-paradigmas-educativos.md` (+ `img/`)
+- `mapa-epistemologico-paradigmas-educativos.md`
+- `img/mapa_epistemologico_modelos_educativos.png` (mapa principal)
+- `img/mapa-epistemologico-paradigmas-educativos.svg` (versión vectorial simplificada)
 - `burocratizacion-trabajo-docente-analisis-historico.md`
 - `checklist-observacion-centro-aula.md`
 - `comparativa-paradigmas-tarea-matematicas.md`
