@@ -12,6 +12,10 @@ Referencias de trabajo orientativas. Completar con la guía docente oficial.
 
 - Manuales de psicología del desarrollo (adolescencia): procesos biológicos, cognitivos, sociales e identitarios (p. ej. líneas de Steinberg, Coleman, o manuales universitarios de desarrollo en la adolescencia).
 
+- **Galán Bertrand, L. (2026).** *Adolescencia*. Planeta.  
+  → Guía divulgativa (pediatría) sobre cambios físicos, emocionales, cerebrales y sociales; límites, tecnología y acompañamiento familiar.  
+  → Entrevista de apoyo: Belenguer, L. (2026, 23 sep). Lucía, mi pediatra publica *Adolescencia*. *20minutos*. [enlace](https://www.20minutos.es/salud/lucia-mi-pediatra-publica-adolescencia-prefiero-que-esten-un-parque-farmeando-aura-que-haciendo-botellon_7035107_0.html) · Ficha del repo: [entrevista-lucia-mi-pediatra-adolescencia.md](materiales/entrevista-lucia-mi-pediatra-adolescencia.md).
+
 ## Aprendizaje, cognición y educación
 
 - **Coll, C. (coord.) (2010).** *Desarrollo, aprendizaje y enseñanza en Educación Secundaria.* Graó / Ministerio de Educación.  

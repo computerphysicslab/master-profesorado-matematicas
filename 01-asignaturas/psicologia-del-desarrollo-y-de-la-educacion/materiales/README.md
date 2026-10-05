@@ -39,6 +39,7 @@ Recursos prácticos orientados al aula de Matemáticas.
 | Material | Tema / uso |
 |----------|------------|
 | [Suicidio juvenil, RRSS y rol del docente](suicidio-juvenil-rrss-rol-docente.md) | Tema 2 — detección y derivación |
+| [Entrevista Lucía, mi pediatra — Adolescencia](entrevista-lucia-mi-pediatra-adolescencia.md) | Temas 1 y 2 — divulgación actual (poda neuronal, identidad, límites, presión de grupo, pantallas) |
 
 ## Enlaces
 
