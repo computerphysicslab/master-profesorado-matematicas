@@ -74,4 +74,4 @@ Referencias de trabajo orientativas. Completar con la guía docente oficial.
 ## Del repositorio
 
 - [Programa](programa.md) · [Apuntes](apuntes/) · [Materiales](materiales/) · [Glosario](glosario.md) · [Examen](examen/)  
-- Podcast: [Pávlov, Skinner y Erikson](../../08-podcasts/recursos/podcast_Pavlov_Skinner_Erikson_Matematicas.mp3)  
+- 🎧 Podcast: [Escuchar — Pávlov, Skinner y Erikson](../../08-podcasts/recursos/podcast_Pavlov_Skinner_Erikson_Matematicas.mp3)  
