@@ -3,6 +3,9 @@
 Preguntas orientativas a partir de los apuntes y materiales del repositorio.  
 **Especialidad:** Matemáticas · ESO y Bachillerato.
 
+**Exámenes por nivel:** [fácil](examen-facil.md) · [intermedio](examen-intermedio.md) · [difícil](examen-dificil.md)  
+**Autocorrección:** [respuestas-autocorreccion.md](respuestas-autocorreccion.md)
+
 ---
 
 ## Paradigmas educativos y organización escolar
@@ -117,4 +120,4 @@ Preguntas orientativas a partir de los apuntes y materiales del repositorio.
 
 ---
 
-*Última actualización: temas 1–6 (paradigmas, historia, burocracia, estructura del sistema, centros, inclusión, metodología, evaluación) y materiales asociados del repo.*
+*Última actualización: temas 1–6 + exámenes por nivel (fácil / intermedio / difícil) con autocorrección.*
