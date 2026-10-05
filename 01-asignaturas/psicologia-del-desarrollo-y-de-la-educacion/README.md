@@ -45,13 +45,20 @@ Documento: **[programa.md](programa.md)** · Índice de apuntes: **[apuntes/READ
 
 Niveles y autocorrección: **[examen/](examen/)** (fácil · intermedio · difícil).
 
+## Podcasts
+
+| Recurso | Uso |
+|---------|-----|
+| **[Guion: Desarrollo evolutivo en la adolescencia](../../08-podcasts/guiones/podcast_desarrollo_adolescencia.md)** | Tema 1 — guion extenso (partes 1 y 2) con autoevaluaciones |
+| [Pávlov, Skinner y Erikson](../../08-podcasts/recursos/podcast_Pavlov_Skinner_Erikson_Matematicas.mp3) | Tema 3 — audio |
+| [Índice de podcasts](../../08-podcasts/INDICE.md) | Catálogo completo |
+
 ## Otros recursos
 
 | Recurso |
 |--------|
 | **[Glosario](glosario.md)** |
 | **[Bibliografía](bibliografia.md)** |
-| Podcast: [Pávlov, Skinner y Erikson](../../08-podcasts/recursos/podcast_Pavlov_Skinner_Erikson_Matematicas.mp3) |
 
 ## Enlaces del máster
 
