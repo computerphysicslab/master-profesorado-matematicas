@@ -202,9 +202,15 @@ Referentes clásicos (lectura docente):
 
 A partir de la adolescencia intermedia suele crecer la preocupación por asuntos sociales, políticos y morales. El avance hacia operaciones formales favorece juicios menos egocéntricos y más elaborados (Craig, 1997).
 
-**Kohlberg** (Escuela de Ginebra) propone niveles de razonamiento moral (preconvencional, convencional, postconvencional) en paralelo al desarrollo intelectual. Críticas habituales: poco peso al contexto social y a los afectos; el estadio 6 es discutible. Sigue siendo un marco de referencia útil si se usa con cautela.
+**Lawrence Kohlberg** propuso una teoría del **desarrollo del razonamiento moral** (no una teoría de la motivación). Tres niveles —preconvencional, convencional, postconvencional—, con seis estadios: del castigo/obediencia a principios éticos más generales. El alumnado de Secundaria suele moverse sobre todo entre razonamientos preconvencionales y convencionales; el postconvencional es menos frecuente y no debe darse por supuesto.
+
+**Importante:** motivar al alumno (Tema 5) y razonar sobre normas/justicia (Kohlberg) son preguntas distintas que se cruzan en el aula (móvil, copiar, evaluación), pero no se confunden en la teoría.
+
+Críticas habituales (Gilligan y otras): peso excesivo en justicia abstracta frente al cuidado y las relaciones; el estadio 6 es discutible; no es una escalera inevitable. Sigue siendo un marco histórico e influyente si se usa con cautela.
 
 **Implicación docente:** debates sobre “justicia” de la evaluación, normas de clase o uso de datos sociales en problemas de estadística conectan con este desarrollo; no se trata de “moralizar” la clase de mates, sino de reconocer que el alumnado ya juzga normas y autoridades con herramientas cognitivas nuevas.
+
+→ Detalle de estadios, ejemplo del móvil y puente con autorregulación: **[Desarrollo moral y aula (Kohlberg)](../materiales/desarrollo-moral-kohlberg-aula.md)**
 
 ---
 
@@ -251,12 +257,14 @@ La búsqueda de autonomía **no tiene por qué** derivar en conflicto permanente
 
 ## Material relacionado
 
+- **[Desarrollo moral y aula (Kohlberg)](../materiales/desarrollo-moral-kohlberg-aula.md)**  
 - **[Haidt — redes, atención y adolescencia](../materiales/haidt-redes-atencion-adolescencia.md)** — atención, diseño adictivo, escuelas sin móvil  
 
 - **Podcast:** 🎧 [Escuchar — Desarrollo evolutivo en la adolescencia (~17 min)](../../../08-podcasts/episodios/podcast_desarrollo_adolescencia.mp3) · [Guion](../../../08-podcasts/guiones/podcast_desarrollo_adolescencia.md)
 - **Podcast alternativo:** 🎧 [Escuchar — Detrás del «soy malo en matemáticas»](../../../08-podcasts/episodios/Detrás_del_soy_malo_en_matemáticas.m4a) (identidad académica, autoestima, feedback)
 - [Tema 2 — Diferencias y problemas](02-diferencias-individuales-problemas-adolescencia.md)  
 - [Tema 4 — Procesamiento y teorías cognoscitivas](04-procesamiento-informacion-teorias-cognitivas.md)  
+- [Tema 5 — Motivación](05-motivacion-ensenanza-aprendizaje.md)  
 - [ZDP y andamiaje](../materiales/zdp-andamiaje-matematicas.md) · [Carga cognitiva](../materiales/carga-cognitiva-matematicas.md)  
 - [Autoeficacia matemática](../materiales/autoeficacia-matematica.md) · [Mindset y atribuciones](../materiales/mindset-atribuciones-matematicas.md)  
 - [Guía de observación de practicum](../materiales/guia-observacion-practicum-psicologia.md)  
