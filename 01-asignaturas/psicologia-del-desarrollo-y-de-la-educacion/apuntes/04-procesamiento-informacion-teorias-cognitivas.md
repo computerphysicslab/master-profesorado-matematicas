@@ -46,7 +46,6 @@ La **carga cognitiva** es la demanda que una tarea impone sobre la capacidad lim
 
 **Idea clave:** reducir carga no es “bajar el nivel del currículo”, sino no gastar la memoria de trabajo en lo innecesario.
 
-Ejemplos de ecuación $2(x+3)=14$ y de fracciones, checklist de diseño y formulación de examen:  
 → **[Material: carga cognitiva en Matemáticas](../materiales/carga-cognitiva-matematicas.md)**
 
 ---
@@ -72,22 +71,41 @@ El **andamiaje** (Bruner) es la ayuda temporal y ajustada que se retira progresi
 
 ---
 
-## 5. Puntos críticos de revisión (errores comunes)
+## 5. Funciones ejecutivas (puente con el diseño de problemas)
 
-| Error común | Corrección |
-|-------------|------------|
-| Confundir la **ZDP** con el “trabajo en equipo” sin mediación | La ZDP exige la **intervención activa de un mediador** (profesor o compañero más aventajado) mediante andamiaje, desvaneciendo progresivamente la ayuda. El grupo solo no garantiza aprendizaje en la ZDP. |
-| Ignorar la limitación de la **memoria de trabajo** al diseñar problemas complejos | Diferenciar carga **intrínseca**, **extrínseca** y **germana**. Minimizar la extrínseca (consignas confusas, ruido visual, demasiados pasos simultáneos) y descomponer en pasos. |
-| Pensar que “reducir carga cognitiva” = bajar el nivel del currículo | Se reduce sobre todo la carga *extrínseca* y se gestiona la intrínseca por secuenciación; la germana (construir esquemas) debe mantenerse. |
-| Tratar el andamiaje como ayuda permanente | El andamiaje es **temporal**: se retira cuando el alumno puede transferir. Si no se retira, genera dependencia. |
+Las **funciones ejecutivas (FE)** son procesos de control cognitivo que permiten mantener una meta, inhibir impulsos, cambiar de estrategia y planificar pasos. En Matemáticas intervienen de forma clara en problemas multi-paso, en la revisión del error y en la organización del cuaderno o de la pizarra.
+
+| FE (idea) | Ejemplo en mates | Ajuste de aula |
+|-----------|------------------|----------------|
+| **Inhibición** | No lanzarse al primer número del enunciado | “Subraya la pregunta; lista lo que piden” |
+| **Memoria de trabajo** (solapada con §2) | Mantener datos mientras se opera | Tabla de datos; no demasiados pasos nuevos a la vez |
+| **Flexibilidad** | Cambiar de estrategia si una vía falla | Comparar dos métodos; “¿otra representación?” |
+| **Planificación** | Ordenar submetas en un problema rico | Plantilla: datos → plan → resolución → revisión |
+
+Las FE se desarrollan y se apoyan con **diseño** (no solo con “concéntrate más”). Perfiles de TDAH u otras neurodivergencias suelen requerir más andamiaje externo de estas funciones.
+
+→ **[Material: funciones ejecutivas en Matemáticas](../materiales/funciones-ejecutivas-matematicas.md)** · [Neurodivergencia](../materiales/neurodivergencia-aula-matematicas.md)
 
 ---
 
-## 6. Preguntas de repaso
+## 6. Puntos críticos de revisión (errores comunes)
+
+| Error común | Corrección |
+|-------------|------------|
+| Confundir la **ZDP** con el “trabajo en equipo” sin mediación | La ZDP exige **mediador** y andamiaje que se retira. |
+| Ignorar la **memoria de trabajo** al diseñar problemas | Diferenciar carga intrínseca / extrínseca / germana. |
+| “Reducir carga” = bajar el nivel del currículo | Se reduce sobre todo la *extrínseca*; se secuencia la intrínseca. |
+| Andamiaje permanente | Es **temporal**; si no se retira, genera dependencia. |
+| “No tiene funciones ejecutivas” como etiqueta de pasillo | Observar barreras, diseñar apoyos, coordinar; no diagnosticar. |
+
+---
+
+## 7. Preguntas de repaso
 
 1. Explica con un ejemplo de fracciones la diferencia entre carga intrínseca, extrínseca y germana.  
-2. ¿Por qué “poner a los alumnos a trabajar en grupo” no equivale automáticamente a trabajar en la **zona de desarrollo próximo (ZDP)**?  
-3. Diseña un andamiaje breve para la resolución de una ecuación de primer grado.
+2. ¿Por qué “poner a los alumnos a trabajar en grupo” no equivale automáticamente a trabajar en la **ZDP**?  
+3. Diseña un andamiaje breve para la resolución de una ecuación de primer grado.  
+4. Pon un ejemplo de apoyo a la **planificación** o a la **inhibición** en un problema multi-paso.
 
 ---
 
@@ -95,5 +113,7 @@ El **andamiaje** (Bruner) es la ayuda temporal y ajustada que se retira progresi
 
 - **[Carga cognitiva en Matemáticas](../materiales/carga-cognitiva-matematicas.md)**  
 - **[ZDP y andamiaje](../materiales/zdp-andamiaje-matematicas.md)**  
-- [Tema 1 — Desarrollo en la adolescencia](01-desarrollo-adolescencia.md)  
+- **[Funciones ejecutivas en Matemáticas](../materiales/funciones-ejecutivas-matematicas.md)**  
+- [Gestión del error](../materiales/gestion-del-error-matematicas.md)  
+- [Tema 1 — Desarrollo](01-desarrollo-adolescencia.md)  
 - [Tema 5 — Motivación](05-motivacion-ensenanza-aprendizaje.md)  
