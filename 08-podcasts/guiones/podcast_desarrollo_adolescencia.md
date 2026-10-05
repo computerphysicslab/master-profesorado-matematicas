@@ -2,14 +2,15 @@
 title: "Guion: Desarrollo evolutivo en la adolescencia"
 asignatura: Psicología del desarrollo y de la educación
 tema: 1
-duracion_orientativa: "50-70 min"
+duracion_audio: "~17 min"
+duracion_guion_extenso: "50-70 min (texto completo)"
 ---
 
 # Guion de podcast — Desarrollo evolutivo en la adolescencia
 
 **Asignatura:** Psicología del desarrollo y de la educación · **Tema 1**  
-**Duración orientativa:** 50–70 minutos  
-**Audio:** [episodios/podcast_desarrollo_adolescencia.mp3](../episodios/podcast_desarrollo_adolescencia.mp3)
+**Audio publicado:** [episodios/podcast_desarrollo_adolescencia.mp3](../episodios/podcast_desarrollo_adolescencia.mp3) (~17 min)  
+**Guion escrito (extenso):** partes 1 y 2 (orientativo 50–70 min si se narrara íntegro)
 
 ## Partes del guion (texto)
 
@@ -22,4 +23,5 @@ duracion_orientativa: "50-70 min"
 
 - Apunte: [Tema 1 — Desarrollo evolutivo](../../01-asignaturas/psicologia-del-desarrollo-y-de-la-educacion/apuntes/01-desarrollo-adolescencia.md)
 - Materiales: [autoeficacia](../../01-asignaturas/psicologia-del-desarrollo-y-de-la-educacion/materiales/autoeficacia-matematica.md) · [mindset](../../01-asignaturas/psicologia-del-desarrollo-y-de-la-educacion/materiales/mindset-atribuciones-matematicas.md) · [ZDP](../../01-asignaturas/psicologia-del-desarrollo-y-de-la-educacion/materiales/zdp-andamiaje-matematicas.md)
+- README asignatura: [Psicología](../../01-asignaturas/psicologia-del-desarrollo-y-de-la-educacion/README.md)
 - Índice de podcasts: [../INDICE.md](../INDICE.md)

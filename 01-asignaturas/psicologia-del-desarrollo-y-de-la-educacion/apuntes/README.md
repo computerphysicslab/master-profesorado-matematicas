@@ -8,6 +8,8 @@
 | **4** | Procesamiento de la información y teorías cognoscitivas (+ errores ZDP/carga) | [04-procesamiento-informacion-teorias-cognitivas.md](04-procesamiento-informacion-teorias-cognitivas.md) |
 | **5** | Motivación en el proceso de enseñanza-aprendizaje (+ Weiner/Dweck/ansiedad) | [05-motivacion-ensenanza-aprendizaje.md](05-motivacion-ensenanza-aprendizaje.md) |
 
+**Tema 1 — audio:** [Podcast desarrollo adolescencia (~17 min)](../../../08-podcasts/episodios/podcast_desarrollo_adolescencia.mp3) · [Guion](../../../08-podcasts/guiones/podcast_desarrollo_adolescencia.md)
+
 ## Materiales por tema
 
 | Tema | Materiales |

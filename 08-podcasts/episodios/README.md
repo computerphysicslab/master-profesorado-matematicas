@@ -4,11 +4,12 @@ Episodios de podcast relacionados con el máster.
 
 | Archivo | Tema |
 |---------|------|
-| [podcast_desarrollo_adolescencia.mp3](podcast_desarrollo_adolescencia.mp3) | Psicología Tema 1 — desarrollo evolutivo (~17 min, voz TTS). *Si el enlace 404: subir el MP3 desde el proyecto artifacts.* |
+| [podcast_desarrollo_adolescencia.mp3](podcast_desarrollo_adolescencia.mp3) | Psicología Tema 1 — desarrollo evolutivo (~17 min) |
 | [podcast_aprender_ensenar_matematicas_ep1.mp3](podcast_aprender_ensenar_matematicas_ep1.mp3) | Aprender y enseñar Matemáticas (ep. 1) |
 | [podcast_de_moyano_a_lomloe.mp3](podcast_de_moyano_a_lomloe.mp3) | De Moyano a LOMLOE |
 | [podcast_estres_docente.mp3](podcast_estres_docente.mp3) | Estrés docente |
+| [dialogo_master_educacion.mp3](dialogo_master_educacion.mp3) | Diálogo máster / educación |
 
-Guion del episodio de adolescencia: [../guiones/podcast_desarrollo_adolescencia.md](../guiones/podcast_desarrollo_adolescencia.md).
+**Desarrollo adolescencia:** [guion](../guiones/podcast_desarrollo_adolescencia.md) · apunte [Tema 1 Psicología](../../01-asignaturas/psicologia-del-desarrollo-y-de-la-educacion/apuntes/01-desarrollo-adolescencia.md)
 
 Índice general: [../INDICE.md](../INDICE.md).
