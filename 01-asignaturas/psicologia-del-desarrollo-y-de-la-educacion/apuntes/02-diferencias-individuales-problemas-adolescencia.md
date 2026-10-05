@@ -51,13 +51,14 @@ Perfiles, ajustes ordinarios, fortalezas y checklist:
 | Ámbito | Manifestaciones en el centro | Notas para el docente |
 |--------|------------------------------|------------------------|
 | **Motivación / aburrimiento** | Pasotismo, mínimo esfuerzo | Sentido de la tarea; retos graduados |
-| **Ansiedad evaluativa** | Bloqueo, evitación, quejas somáticas | Reducir amenaza; no solo “estudiar más” |
+| **Ansiedad evaluativa** | Bloqueo, evitación, quejas somáticas | Reducir amenaza; no solo «estudiar más» |
 | **Ansiedad matemática** | Evitar mates, pánico ante problemas | Ver [afectividad–motivación](../../optativas/educacion-emocional-en-el-profesorado/materiales/afectividad-y-motivacion-intrinseca.md) |
 | **Conducta disruptiva** | Interrupciones, desafío | Límites claros; no lucha de egos; convivencia |
 | **Acoso / exclusión** | Burlas, aislamiento | Protocolo inmediato |
 | **Sueño y hábitos** | Somnolencia, trabajos sin hacer | Coordinación tutorial; realismo de deberes |
-| **Identidad y autoestima** | “No valgo”, comparación social | Feedback de proceso; evitar ridículo |
+| **Identidad y autoestima** | «No valgo», comparación social | Feedback de proceso; evitar ridículo |
 | **Riesgos (consumo, autolesión, conducta suicida)** | Señales de alarma; RRSS como amplificador | **Derivar**; no improvisar terapia — ver [suicidio juvenil y RRSS](../materiales/suicidio-juvenil-rrss-rol-docente.md) |
+| **Atención / RRSS** | Scroll, comparación, pérdida de presencia | Normas de móvil del centro; ver [Haidt — redes y atención](../materiales/haidt-redes-atencion-adolescencia.md) |
 
 ---
 
@@ -85,7 +86,7 @@ Prevenir (diseño, clima, normas)
 
 ## 7. Preguntas de repaso
 
-1. Diferencia “observar una dificultad” y “diagnosticar”.  
+1. Diferencia «observar una dificultad» y «diagnosticar».  
 2. Pon un ejemplo de problema frecuente y una respuesta *solo* de aula vs. una que exige derivación.  
 3. ¿Cómo evita el DUA tratar la diversidad como excepción?  
 4. Señala dos ajustes ordinarios distintos para un perfil de TDAH y para un perfil TEA en una tarea de problemas multi-paso.
@@ -97,6 +98,7 @@ Prevenir (diseño, clima, normas)
 - **[Neurodivergencia en el aula de Matemáticas](../materiales/neurodivergencia-aula-matematicas.md)**  
 - [Discalculia y DEA](../materiales/discalculia-y-dea-matematicas.md)  
 - [Funciones ejecutivas](../materiales/funciones-ejecutivas-matematicas.md)  
+- **[Haidt — redes, atención y adolescencia](../materiales/haidt-redes-atencion-adolescencia.md)** — atención, diseño adictivo, escuelas sin móvil  
 - **[Suicidio juvenil, RRSS y rol del docente](../materiales/suicidio-juvenil-rrss-rol-docente.md)** — detección, derivación, factores protectores  
 - [DUA](../../procesos-y-contextos-educativos/materiales/dua-diseno-universal-aprendizaje.md)  
 - [Tema 1 — Desarrollo](01-desarrollo-adolescencia.md)  

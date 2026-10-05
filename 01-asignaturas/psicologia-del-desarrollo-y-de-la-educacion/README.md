@@ -12,7 +12,7 @@ Mapa completo al inicio del [Tema 1](apuntes/01-desarrollo-adolescencia.md). Ord
 
 **Practicum:** [Guía de observación (Psicología)](materiales/guia-observacion-practicum-psicologia.md)
 
-**Podcast Tema 1:** 🎧 [Escuchar (~17 min)](../../08-podcasts/episodios/podcast_desarrollo_adolescencia.mp3) · [Guion](../../08-podcasts/guiones/podcast_desarrollo_adolescencia.md) · 🎧 [Alternativa: Detrás del «soy malo en mates»](../../08-podcasts/episodios/Detrás_del_soy_malo_en_matemáticas.m4a)
+**Podcast Tema 1:** 🎧 [Escuchar (~17 min)](../../08-podcasts/episodios/podcast_desarrollo_adolescencia.mp3) · [Guion](../../08-podcasts/guiones/podcast_desarrollo_adolescencia.md) · 🎧 [Alternativa: Detrás del «soy malo en mates»](../../08-podcasts/episodios/Detr%C3%A1s_del_soy_malo_en_matem%C3%A1ticas.m4a)
 
 ## Programa y apuntes
 
@@ -35,7 +35,7 @@ Documento: **[programa.md](programa.md)** · Índice de apuntes: **[apuntes/READ
 | Cognición | [Carga](materiales/carga-cognitiva-matematicas.md) · [ZDP](materiales/zdp-andamiaje-matematicas.md) · [FE](materiales/funciones-ejecutivas-matematicas.md) |
 | Motivación | [Mindset](materiales/mindset-atribuciones-matematicas.md) · [Autoeficacia](materiales/autoeficacia-matematica.md) · [Feedback](materiales/feedback-efectivo-matematicas.md) · [Error](materiales/gestion-del-error-matematicas.md) |
 | Diversidad / conducta | [Neurodivergencia](materiales/neurodivergencia-aula-matematicas.md) · [Discalculia](materiales/discalculia-y-dea-matematicas.md) · [ABC](materiales/registro-abc-conducta.md) |
-| Riesgos / actualidad | [Suicidio / rol docente](materiales/suicidio-juvenil-rrss-rol-docente.md) · [Entrevista Lucía, mi pediatra — Adolescencia](materiales/entrevista-lucia-mi-pediatra-adolescencia.md) |
+| Riesgos / actualidad | [Haidt — redes y atención](materiales/haidt-redes-atencion-adolescencia.md) · [Suicidio / rol docente](materiales/suicidio-juvenil-rrss-rol-docente.md) · [Entrevista Lucía, mi pediatra — Adolescencia](materiales/entrevista-lucia-mi-pediatra-adolescencia.md) |
 | Practicum | [Observación Psicología](materiales/guia-observacion-practicum-psicologia.md) |
 
 ### Relacionados (otras carpetas)
@@ -51,10 +51,9 @@ Niveles y autocorrección: **[examen/](examen/)** (fácil · intermedio · difí
 
 | Recurso | Uso |
 |---------|-----|
-| 🎧 **[Escuchar: Desarrollo evolutivo en la adolescencia](../../08-podcasts/episodios/podcast_desarrollo_adolescencia.mp3)** | Tema 1 — ~17 min |
-| 🎧 **[Alternativa: Detrás del «soy malo en matemáticas»](../../08-podcasts/episodios/Detrás_del_soy_malo_en_matemáticas.m4a)** | Tema 1 — identidad académica, autoestima, feedback |
+| **[Audio: Desarrollo evolutivo en la adolescencia](../../08-podcasts/episodios/podcast_desarrollo_adolescencia.mp3)** | Tema 1 — ~17 min |
 | [Guion del episodio](../../08-podcasts/guiones/podcast_desarrollo_adolescencia.md) | Texto / partes 1 y 2 |
-| 🎧 [Pávlov, Skinner y Erikson](../../08-podcasts/recursos/podcast_Pavlov_Skinner_Erikson_Matematicas.mp3) | Tema 3 |
+| [Pávlov, Skinner y Erikson](../../08-podcasts/recursos/podcast_Pavlov_Skinner_Erikson_Matematicas.mp3) | Tema 3 |
 | [Índice de podcasts](../../08-podcasts/INDICE.md) | Catálogo completo |
 
 ## Otros recursos
