@@ -12,7 +12,7 @@ Mapa completo al inicio del [Tema 1](apuntes/01-desarrollo-adolescencia.md). Ord
 
 **Practicum:** [Guía de observación (Psicología)](materiales/guia-observacion-practicum-psicologia.md)
 
-**Podcast Tema 1:** [Audio (~17 min)](../../08-podcasts/episodios/podcast_desarrollo_adolescencia.mp3) · [Guion](../../08-podcasts/guiones/podcast_desarrollo_adolescencia.md)
+**Podcast Tema 1:** [Audio (~17 min)](../../08-podcasts/episodios/podcast_desarrollo_adolescencia.mp3) · [Guion](../../08-podcasts/guiones/podcast_desarrollo_adolescencia.md) · [Alternativa: Detrás del «soy malo en mates»](../../08-podcasts/episodios/Detrás_del_soy_malo_en_matemáticas.m4a)
 
 ## Programa y apuntes
 
@@ -52,6 +52,7 @@ Niveles y autocorrección: **[examen/](examen/)** (fácil · intermedio · difí
 | Recurso | Uso |
 |---------|-----|
 | **[Audio: Desarrollo evolutivo en la adolescencia](../../08-podcasts/episodios/podcast_desarrollo_adolescencia.mp3)** | Tema 1 — ~17 min |
+| **[Alternativa: Detrás del «soy malo en matemáticas»](../../08-podcasts/episodios/Detrás_del_soy_malo_en_matemáticas.m4a)** | Tema 1 — identidad académica, autoestima, feedback |
 | [Guion del episodio](../../08-podcasts/guiones/podcast_desarrollo_adolescencia.md) | Texto / partes 1 y 2 |
 | [Pávlov, Skinner y Erikson](../../08-podcasts/recursos/podcast_Pavlov_Skinner_Erikson_Matematicas.mp3) | Tema 3 |
 | [Índice de podcasts](../../08-podcasts/INDICE.md) | Catálogo completo |
