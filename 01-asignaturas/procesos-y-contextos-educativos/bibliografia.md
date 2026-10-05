@@ -22,14 +22,31 @@ Referencias de trabajo de la asignatura. Completar con la guía docente oficial 
 - **Torrego, J. C. y Negro, A. (coords.) (2012).** *Aprendizaje cooperativo en las aulas. Fundamentos y recursos para su implantación.* Alianza Editorial.  
   → Cooperativo como metodología e inclusión (**temas 4 y 5**).
 
+## Evaluaciones internacionales y condiciones docentes (usadas en materiales del repo)
+
+- **OECD (2019).** *PISA 2018 Results (Volumes I–II).* OECD Publishing.  
+  → Rendimiento, equidad socioeconómico (ESCS) y equidad; base del [análisis Aragón / B-S-J-Z](materiales/pisa-2018-aragon-china/).
+
+- **OECD (2023 / 2024).** *PISA 2022 Results.* OECD Publishing.  
+  → Ciclo posterior; [ficha de fracaso escolar y Matemáticas](materiales/pisa-2022-fracaso-escolar-matematicas.md).
+
+- **OECD (2025).** *Results from TALIS 2024* y notas de país (España).  
+  → Condiciones del profesorado, tiempo administrativo y estrés percibido; [ficha sintética](materiales/talis-ficha-sintetica.md).
+
+- **INEE / Ministerio de Educación.** Informes españoles de PISA y recursos de evaluación.  
+  → Lectura nacional de los resultados internacionales.
+
 ## Complementaria (orientativa)
 
 - CAST — pautas de *Universal Design for Learning* (UDL / DUA).  
-- Normativa: LOMLOE; reales decretos de enseñanzas mínimas; desarrollo autonómico.  
+- Normativa: LOMLOE; reales decretos de enseñanzas mínimas; desarrollo autonómico (p. ej. decretos de currículo de Aragón).  
 - Torrego, J. C. (coord.) — obras sobre convivencia, mediación y tutoría (ampliación del eje de clima de centro).
 
 ## Material del repo
 
 - [DUA](materiales/dua-diseno-universal-aprendizaje.md)  
+- [Leyes educativas](materiales/leyes-educativas/)  
+- [PISA 2018 — microdatos](materiales/pisa-2018-aragon-china/)  
 - [Programa](programa.md)  
-- [Apuntes](apuntes/)
+- [Apuntes](apuntes/)  
+- [Banco de preguntas](examen/banco-preguntas.md)

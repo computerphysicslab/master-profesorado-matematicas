@@ -25,12 +25,21 @@ Documento: **[programa.md](programa.md)** · Bibliografía: **[bibliografia.md](
 
 | Recurso | Uso |
 |---------|-----|
-| [Leyes educativas (fichas)](materiales/leyes-educativas/) | Tema 1 |
+| [Leyes educativas (fichas LOECE→LOMLOE)](materiales/leyes-educativas/) | Tema 1 |
 | [Línea temporal de leyes](materiales/linea-temporal-leyes-educativas.md) | Tema 1 |
-| [DUA](materiales/dua-diseno-universal-aprendizaje.md) | Tema 4 / programaciones |
-| [TALIS — ficha sintética](materiales/talis-ficha-sintetica.md) | Condiciones docentes |
-| [Burocratización del trabajo docente](materiales/burocratizacion-trabajo-docente-analisis-historico.md) | Tema 1 §7 |
+| [Mapa epistemológico de paradigmas](materiales/mapa-epistemologico-paradigmas-educativos.md) | Tema 1 |
+| [Burocratización del trabajo docente](materiales/burocratizacion-trabajo-docente-analisis-historico.md) | Tema 1 |
+| [Comparativa PISA 2025 y sistemas internacionales](materiales/leyes-educativas/comparativa-pisa-2025-y-sistemas-internacionales.md) | Tema 1 |
+| [PISA 2018 — Aragón, España y B-S-J-Z (microdatos + ESCS)](materiales/pisa-2018-aragon-china/) | Tema 1 / evaluación internacional |
 | [PISA 2022 y Matemáticas](materiales/pisa-2022-fracaso-escolar-matematicas.md) | Evaluación internacional |
+| [TALIS — ficha sintética](materiales/talis-ficha-sintetica.md) | Condiciones docentes |
+| [DUA](materiales/dua-diseno-universal-aprendizaje.md) | Tema 4 / programaciones |
+| [Órganos y documentos de centro](materiales/organos-y-documentos-de-centro.md) | Tema 3 |
+| [Instrumentos de evaluación](materiales/instrumentos-evaluacion.md) | Tema 6 |
+
+## Examen
+
+Banco de preguntas orientativas: **[examen/banco-preguntas.md](examen/banco-preguntas.md)** (paradigmas, leyes, burocracia, estructura del sistema, centros, inclusión, metodología, evaluación).
 
 ## Carpetas
 

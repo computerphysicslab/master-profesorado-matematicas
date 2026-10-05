@@ -65,6 +65,50 @@ Preguntas orientativas a partir de los apuntes y materiales del repositorio.
 
 ---
 
+## Tema 2 — Estructura del sistema (ESO, Bachillerato, FP, régimen especial)
+
+21. Diferencia **ESO**, **Bachillerato** y un ciclo de **FP de grado medio** en cuanto a finalidad, duración orientativa y titulación. ¿Qué implica para la orientación que hace un docente de Matemáticas en 4.º de ESO?
+
+22. Explica qué son las **enseñanzas de régimen especial** (idiomas, artísticas, deportivas) y por qué un tutor de 3.º ESO debe conocerlas al asesorar itinerarios.
+
+23. **Verdadero o falso (justifica):** “La FP de grado medio es una salida residual para quien no puede hacer Bachillerato.” Relaciónalo con el riesgo de estigmatizar itinerarios.
+
+---
+
+## Tema 3 — Centros: organización, participación y gestión
+
+24. Diferencia **Consejo Escolar** y **Claustro** (composición orientativa y papel). Pon un ejemplo de decisión que afecte al departamento de Matemáticas y diga en qué órgano se discute habitualmente.
+
+25. Enumera al menos cuatro **documentos de centro** (PEC, PGA, programaciones, plan de convivencia, NOF, plan de atención a la diversidad…) e indica cuál consultarías en la primera semana de practicum y por qué.
+
+26. Caso: el centro reduce desdobles de Matemáticas por ratio. Argumenta cómo una decisión de **organización de centro** condiciona la metodología posible en el aula (cooperativo, atención individual, uso de TIC).
+
+---
+
+## Tema 4 — Atención a la diversidad e inclusión
+
+27. Distingue **medidas ordinarias** y **medidas específicas** de atención a la diversidad y sitúa un ejemplo de cada una en el aula de Matemáticas de ESO.
+
+28. Propón, para un grupo de 1.º de ESO con gran heterogeneidad en cálculo y resolución de problemas, **tres decisiones DUA** (representación, acción/expresión, implicación) sin “bajar el nivel” del saber básico trabajado.
+
+---
+
+## Tema 5 — Metodología y recursos
+
+29. Compara una sesión de Matemáticas centrada solo en **ejercicios de aplicación de fórmula** con otra basada en **aprendizaje cooperativo** o resolución de un problema abierto. Indica qué cambia en el rol del docente, en la evaluación del proceso y en la gestión del error.
+
+30. Señala dos criterios para elegir un **recurso digital** (p. ej. GeoGebra, hoja de cálculo, applet) en una unidad de funciones o estadística, más allá de “que motive”.
+
+---
+
+## Tema 6 — Evaluación
+
+31. Explica la diferencia entre evaluar **saberes básicos**, **criterios de evaluación** y **competencias específicas** en Matemáticas bajo LOMLOE. Pon un ejemplo de evidencia de aprendizaje que no sea un examen escrito tradicional.
+
+32. Caso: un alumno suspende el examen final pero ha entregado un portafolio con resoluciones razonadas y una investigación estadística. Argumenta, desde una evaluación competencial, si la calificación puede integrarse de forma coherente con los criterios de la programación y qué riesgos hay si solo cuenta el examen.
+
+---
+
 ## Síntesis
 
 19. “La LOMLOE reduce la burocracia docente al sustituir los estándares de la LOMCE por un enfoque competencial.” Argumenta a favor o en contra usando el material de burocratización y de elementos curriculares de la LOMLOE.
@@ -73,4 +117,4 @@ Preguntas orientativas a partir de los apuntes y materiales del repositorio.
 
 ---
 
-*Última actualización: a partir del Tema 1 (paradigmas, historia, burocratización), niveles de concreción, DUA y materiales asociados del repo.*
+*Última actualización: temas 1–6 (paradigmas, historia, burocracia, estructura del sistema, centros, inclusión, metodología, evaluación) y materiales asociados del repo.*
