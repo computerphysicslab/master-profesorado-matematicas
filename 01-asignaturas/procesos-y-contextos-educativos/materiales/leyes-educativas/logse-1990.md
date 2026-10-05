@@ -1,52 +1,49 @@
 # Análisis de Leyes Educativas en la España Democrática: LOGSE (1990)
 
 **Referencia legal:** Ley Orgánica 1/1990, de 3 de octubre, de Ordenación General del Sistema Educativo (LOGSE).  
-**Naturaleza:** Gran reforma estructural del sistema: ESO comprensiva, atención a la diversidad, enfoque constructivista.
+**Naturaleza:** Gran reforma estructural: **ESO comprensiva** hasta los 16 años, atención a la diversidad, enfoque constructivista y reforma de la FP.
 
 ---
 
 ## 1. Marco Contextual
 
-### 1.1. Contexto Político y Social
+### 1.1. Contexto político y social
 
-- **Escenario político:** Gobierno del PSOE (Felipe González). Ministro de Educación: Javier Solana (luego otros).
-- **Posicionamiento de la comunidad educativa:**  
-  - **Apoyo inicial amplio** entre parte del profesorado joven y los movimientos de renovación pedagógica.  
-  - **Críticas** desde sectores favorables a la diferenciación temprana y a una mayor exigencia académica formal.
+- **Gobierno:** PSOE (Felipe González). Impulso asociado a Javier Solana y equipos posteriores.
+- **Diagnóstico:** sistema aún marcado por la LGE de 1970; necesidad de prolongar la educación común, reducir el fracaso y modernizar la pedagogía.
+- **Posicionamiento:** apoyo inicial en parte del profesorado joven y en la renovación pedagógica; críticas desde sectores favorables a la diferenciación temprana y a mayor exigencia académica formal.
 
-### 1.2. Diagnóstico
+### 1.2. Influencias
 
-Extender la educación comprensiva, reducir el fracaso y modernizar un sistema aún marcado por la LGE de 1970.
+Constructivismo y psicología del aprendizaje; modelos comprensivos europeos; demanda de equidad y de una secundaria no selectiva temprana.
 
 ---
 
 ## 2. Orientación del discurso normativo
 
-### 2.1. Concepciones de la educación
-
-Modelo comprensivo, constructivista, centrado en el alumnado y en la atención a la diversidad.
-
-### 2.2. Discurso normativo y prioridades declaradas
-
-Prioridad a la equidad, la comprensión y la modernización pedagógica frente a la selección temprana.
+Modelo **comprensivo**, centrado en el alumnado y en la **atención a la diversidad**. Prioridad a la equidad y a la comprensión frente a la selección precoz. El currículo se entiende como proyecto abierto (centros y docentes con margen de concreción), no solo como programa cerrado.
 
 ---
 
-## 3. Dimensión Pedagógica y Curricular
+## 3. Dimensión pedagógica y curricular
 
-- Creación de la ESO (12–16 años) comprensiva.
-- Atención a la diversidad como principio.
-- Enfoque constructivista del aprendizaje.
-- Reforma de la formación profesional.
+- Creación de la **ESO** (12–16) comprensiva.
+- Atención a la diversidad como principio del sistema.
+- Enfoque **constructivista** del aprendizaje.
+- Reforma de la **formación profesional**.
+- Mayor peso de la programación de centro y de aula (cadena documental que se alargará en décadas posteriores).
 
----
-
-## 4. Implementación y balance
-
-Implantación gradual; polémica por recursos, ratio y formación del profesorado. Elementos perdurables: ESO, diversidad, lenguaje competencial posterior.
+**Implicaciones para Matemáticas:** grupos heterogéneos; necesidad de metodologías y evaluación que no se reduzcan al algoritmo único; orientación hacia FP y Bachillerato sin estigmatizar itinerarios.
 
 ---
 
-## 5. Relación con los Paradigmas
+## 4. Implementación, críticas y balance
 
-Se sitúa en el **Paradigma Interpretativo / Socio-Crítico** en su vertiente comprensiva y de atención a la diversidad, con fuerte impronta constructivista.
+Implantación gradual; tensión por **recursos, ratios y formación** del profesorado. Críticas por “bajada de nivel” y por dificultades de gestión de la diversidad.  
+**Elementos perdurables:** ESO hasta 16, lenguaje de diversidad, base sobre la que se construyen LOE y LOMLOE.
+
+---
+
+## 5. Relación con los paradigmas
+
+Se sitúa en el **paradigma interpretativo / socio-crítico** (comprensividad, constructivismo, equidad), frente al racional-tecnológico de reformas centradas solo en medición y selección.

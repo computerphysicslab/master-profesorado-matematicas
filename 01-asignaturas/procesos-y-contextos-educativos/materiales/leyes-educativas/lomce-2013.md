@@ -1,44 +1,49 @@
 # Análisis de Leyes Educativas en la España Democrática: LOMCE (2013)
 
 **Referencia legal:** Ley Orgánica 8/2013, de 9 de diciembre, para la mejora de la calidad educativa (LOMCE).  
-**Naturaleza:** Reforma de la LOE centrada en evaluación externa, itinerarios y recentralización curricular parcial.
+**Naturaleza:** Reforma de la LOE centrada en **evaluación externa**, **itinerarios**, estándares y recentralización curricular parcial.
 
 ---
 
 ## 1. Marco Contextual
 
-### 1.1. Contexto Político y Social
+### 1.1. Contexto político y social
 
-- **Escenario político:** Gobierno del PP (Mariano Rajoy). Ministro de Educación: José Ignacio Wert.
-- **Posicionamiento:**  
-  - **Respaldo:** Patronales de la enseñanza concertada y parte del profesorado orientado a la cultura del esfuerzo y la evaluación estandarizada.  
-  - **Rechazo mayoritario:** Colectivos docentes, sindicatos, CEAPA y movimientos de renovación pedagógica (recentralización, segregación temprana, privatización percibida, pérdida de equidad).
+- **Gobierno:** PP (Mariano Rajoy). Ministro: José Ignacio Wert.
+- **Contexto:** crisis económica, debate sobre calidad y PISA, polarización del debate educativo.
+- **Posicionamiento:** respaldo en sectores de la concertada y en parte del profesorado orientado a esfuerzo y pruebas externas; rechazo mayoritario en colectivos docentes, sindicatos, CEAPA y renovación pedagógica (recentralización, segregación temprana, pérdida de equidad percibida).
+
+### 1.2. Diagnóstico oficial
+
+Mejorar resultados, combatir el abandono, reforzar la “cultura del esfuerzo” y la comparabilidad de resultados mediante evaluaciones de etapa.
 
 ---
 
 ## 2. Orientación del discurso normativo
 
-La LOMCE ha sido interpretada, en parte de la literatura académica, como una combinación de **enfoque eficientista** (evaluación, rankings, autonomía de centro orientada a resultados) y **énfasis en la cultura del esfuerzo y en la evaluación estandarizada**.
+Combinación de **enfoque eficientista** (evaluación, resultados, autonomía de centro orientada a indicadores) y énfasis en **estándares** y diferenciación de trayectorias. La calidad se asocia a medición y a itinerarios en 4.º de ESO / FP básica.
 
 ---
 
-## 3. Dimensión Pedagógica y Curricular
+## 3. Dimensión pedagógica y curricular
 
-- Reválidas / evaluaciones finales de etapa.
+- Evaluaciones finales de etapa / “reválidas” (con distintos grados de aplicación real según curso y sentencias políticas posteriores).
 - Itinerarios en 4.º de ESO y FP Básica.
-- Mayor peso de contenidos evaluables y de la alta inspección / estándares.
-- Recentralización relativa del currículo (porcentajes de enseñanzas mínimas).
+- **Estándares de aprendizaje** evaluables y mayor atomización del currículo.
+- Recentralización relativa (porcentajes de enseñanzas mínimas favorables al Estado respecto a ciclos anteriores).
+
+**Implicaciones para Matemáticas:** presión hacia lo evaluable en prueba externa; riesgo de estrechar la enseñanza a estándares descontextualizados; agrupamientos e itinerarios que condicionan el tipo de alumnado en cada vía.
 
 ---
 
-## 4. Críticas y balance
+## 4. Implementación, críticas y balance
 
-**Críticas frecuentes:** segregación e itinerarios tempranos; orientación percibida hacia la privatización; pérdida de equidad; polarización del debate educativo.
+Aplicación **parcial y conflictiva**; fuerte movilización social. La **LOMLOE** revierte gran parte de los elementos simbólicos (reválidas con efectos, itinerarios segregadores, arquitectura de estándares).
 
-La LOMLOE revierte gran parte de estos elementos (reválidas, itinerarios).
+**Críticas frecuentes:** segregación; orientación percibida hacia la privatización; pérdida de equidad; polarización del debate.
 
 ---
 
-## 5. Paradigmas
+## 5. Relación con los paradigmas
 
-Se sitúa en el **Paradigma Racional-Tecnológico** (medición, estándares, resultados), con fuerte énfasis en evaluación y diferenciación.
+Se sitúa en el **paradigma racional-tecnológico** (medición, estándares, resultados, diferenciación), en tensión con el socio-crítico e inclusivo que recupera la LOMLOE.
