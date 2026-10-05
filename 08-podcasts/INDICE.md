@@ -18,6 +18,16 @@ Registro de episodios relacionados con aprendizaje, enseñanza, Matemáticas, Ci
 | Episodio | Archivo |
 |----------|--------|
 | Aprender y enseñar Matemáticas (ep. 1) | [podcast_aprender_ensenar_matematicas_ep1.mp3](episodios/podcast_aprender_ensenar_matematicas_ep1.mp3) |
+| De Moyano a LOMLOE | [podcast_de_moyano_a_lomloe.mp3](episodios/podcast_de_moyano_a_lomloe.mp3) |
+| Estrés docente | [podcast_estres_docente.mp3](episodios/podcast_estres_docente.mp3) |
+
+## Guiones (texto)
+
+| Guion | Archivo |
+|-------|--------|
+| **Desarrollo evolutivo en la adolescencia** (Psicología Tema 1) | [guiones/podcast_desarrollo_adolescencia.md](guiones/podcast_desarrollo_adolescencia.md) (partes 1 y 2) |
+| De Moyano a LOMLOE | [guiones/De Moyano a LOMLOE.docx](guiones/De%20Moyano%20a%20LOMLOE.docx) |
+| Estrés docente | [guiones/podcast_estres_docente_guion.docx](guiones/podcast_estres_docente_guion.docx) |
 
 ## Ideas / guiones futuros
 
@@ -27,7 +37,8 @@ Registro de episodios relacionados con aprendizaje, enseñanza, Matemáticas, Ci
 
 ## Carpetas
 
-- [`recursos/`](recursos/) — MP3 (paradigmas, teorías del aprendizaje, diseño curricular, motivaciones LOMLOE)
+- [`recursos/`](recursos/) — MP3
 - [`episodios/`](episodios/) — episodios numerados
 - [`ideas/`](ideas/) — propuestas
-- [`guiones/`](guiones/), [`referencias/`](referencias/)
+- [`guiones/`](guiones/) — guiones y textos
+- [`referencias/`](referencias/)
