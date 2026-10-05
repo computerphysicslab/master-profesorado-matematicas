@@ -25,6 +25,8 @@ Documento: **[programa.md](programa.md)** · Bibliografía: **[bibliografia.md](
 
 | Recurso | Uso |
 |---------|-----|
+| [**Guía de observación de practicum (por temas)**](materiales/guia-observacion-practicum-por-temas.md) | Practicum · temas 1–6 |
+| [Checklist de observación centro/aula](materiales/checklist-observacion-centro-aula.md) | Practicum diario |
 | [Leyes educativas (fichas LOECE→LOMLOE)](materiales/leyes-educativas/) | Tema 1 |
 | [Línea temporal de leyes](materiales/linea-temporal-leyes-educativas.md) | Tema 1 |
 | [Mapa epistemológico de paradigmas](materiales/mapa-epistemologico-paradigmas-educativos.md) | Tema 1 |
@@ -35,11 +37,12 @@ Documento: **[programa.md](programa.md)** · Bibliografía: **[bibliografia.md](
 | [TALIS — ficha sintética](materiales/talis-ficha-sintetica.md) | Condiciones docentes |
 | [DUA](materiales/dua-diseno-universal-aprendizaje.md) | Tema 4 / programaciones |
 | [Órganos y documentos de centro](materiales/organos-y-documentos-de-centro.md) | Tema 3 |
+| [Evaluación competencial en Matemáticas](materiales/evaluacion-competencial-matematicas-lomloe.md) | Tema 6 |
 | [Instrumentos de evaluación](materiales/instrumentos-evaluacion.md) | Tema 6 |
 
 ## Examen
 
-Banco de preguntas orientativas: **[examen/banco-preguntas.md](examen/banco-preguntas.md)** (paradigmas, leyes, burocracia, estructura del sistema, centros, inclusión, metodología, evaluación).
+Banco y niveles: **[examen/](examen/)** (fácil · intermedio · difícil + autocorrección).
 
 ## Carpetas
 

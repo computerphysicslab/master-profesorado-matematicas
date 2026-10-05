@@ -99,7 +99,8 @@ En un IES o centro concertado de Aragón, el marco estatal (LOMLOE, LODE en lo q
 | Programación del departamento de Matemáticas | Qué se evalúa y cómo en *este* centro |
 | Horarios y desdobles | Qué metodología es realista |
 | [Órganos y documentos de centro](../materiales/organos-y-documentos-de-centro.md) | Mapa mental antes de las reuniones |
-| [Checklist de observación](../materiales/checklist-observacion-centro-aula.md) | Qué registrar en aula y en claustro |
+| [**Guía de observación por temas**](../materiales/guia-observacion-practicum-por-temas.md) | Qué mirar según el bloque del programa |
+| [Checklist de observación](../materiales/checklist-observacion-centro-aula.md) | Registro diario centro/aula |
 
 La programación anual y de unidad se detalla en Diseño curricular: [programación didáctica](../../diseno-curricular-e-instruccional-de-matematicas/apuntes/04-programacion-didactica.md) y [plantillas](../../diseno-curricular-e-instruccional-de-matematicas/materiales/plantillas/).
 
@@ -123,6 +124,7 @@ La programación anual y de unidad se detalla en Diseño curricular: [programaci
 ## Material relacionado
 
 - [Programa](../programa.md)  
+- [**Guía de observación de practicum por temas**](../materiales/guia-observacion-practicum-por-temas.md)  
 - [Tema 4 — Inclusión](04-atencion-diversidad-perspectiva-inclusiva.md)  
 - [Órganos y documentos de centro](../materiales/organos-y-documentos-de-centro.md)  
 - [Checklist de observación centro/aula](../materiales/checklist-observacion-centro-aula.md)  

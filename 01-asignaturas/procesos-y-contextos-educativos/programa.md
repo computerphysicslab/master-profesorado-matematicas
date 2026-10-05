@@ -29,6 +29,10 @@ Sistema educativo (historia y estructura)
 
 ## Recursos transversales
 
+**Practicum**
+- [Guía de observación por temas](materiales/guia-observacion-practicum-por-temas.md)
+- [Checklist de observación centro/aula](materiales/checklist-observacion-centro-aula.md)
+
 **Tema 1 — historia, paradigmas y sistema**
 - [Leyes educativas (fichas)](materiales/leyes-educativas/)
 - [Mapa epistemológico de paradigmas](materiales/mapa-epistemologico-paradigmas-educativos.md)
@@ -42,6 +46,7 @@ Sistema educativo (historia y estructura)
 - [DUA](materiales/dua-diseno-universal-aprendizaje.md)
 - [Mapa de medidas de atención a la diversidad](materiales/mapa-medidas-atencion-diversidad.md)
 - [Estructuras de aprendizaje cooperativo](materiales/estructuras-aprendizaje-cooperativo.md)
+- [Evaluación competencial en Matemáticas](materiales/evaluacion-competencial-matematicas-lomloe.md)
 - [Instrumentos de evaluación](materiales/instrumentos-evaluacion.md)
 - [Plantilla alineación criterio → evidencia](materiales/plantilla-alineacion-criterio-evidencia.md)
 

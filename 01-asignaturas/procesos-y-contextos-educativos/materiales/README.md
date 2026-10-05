@@ -6,9 +6,10 @@ Recursos prácticos y transversales (citables desde otras asignaturas y el pract
 
 | Recurso | Tema |
 |---------|------|
+| [**Guía de observación de practicum (por temas)**](guia-observacion-practicum-por-temas.md) | 1–6 · practicum |
+| [Checklist de observación centro/aula](checklist-observacion-centro-aula.md) | 3–5 · practicum |
 | [Mapa del sistema educativo](mapa-sistema-educativo.md) | 2 |
 | [Órganos y documentos de centro](organos-y-documentos-de-centro.md) | 3 |
-| [Checklist de observación centro/aula](checklist-observacion-centro-aula.md) | 3–5 |
 | [Mapa de medidas de atención a la diversidad](mapa-medidas-atencion-diversidad.md) | 4 |
 | [Estructuras de aprendizaje cooperativo](estructuras-aprendizaje-cooperativo.md) | 4–5 |
 | [**Evaluación competencial en Matemáticas (LOMLOE)**](evaluacion-competencial-matematicas-lomloe.md) | 6 |
@@ -42,6 +43,7 @@ Recursos prácticos y transversales (citables desde otras asignaturas y el pract
 
 - `leyes-educativas/` (carpeta: fichas de leyes + comparativa PISA 2025)
 - `pisa-2018-aragon-china/` (análisis de microdatos + scripts)
+- `guia-observacion-practicum-por-temas.md`
 - `evaluacion-competencial-matematicas-lomloe.md`
 - `mapa-epistemologico-paradigmas-educativos.md`
 - `img/mapa_epistemologico_modelos_educativos.png`
