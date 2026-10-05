@@ -92,6 +92,20 @@ El centro (tutores, departamento de orientación, equipo docente) acompaña deci
 
 ---
 
+## Caso Aragón — currículo e itinerarios de Matemáticas
+
+En Aragón el **nivel 1 de concreción** para Matemáticas de ESO y Bachillerato se fija con los reales decretos de enseñanzas mínimas **más** el **decreto autonómico de currículo**. Ahí se concretan competencias específicas, criterios de evaluación y saberes básicos (incluidas opciones de 4.º ESO tipo A/B y modalidades de Bachillerato).
+
+**Para el practicum o la programación en un centro aragonés:**
+
+- Consultar los [temarios de Matemáticas ESO/Bachillerato (Aragón)](../../diseno-curricular-e-instruccional-de-matematicas/materiales/temarios-matematicas-aragon/) del repo (síntesis por curso).
+- Cruzar con [asignaturas ESO/Bachillerato](../../diseno-curricular-e-instruccional-de-matematicas/materiales/asignaturas-eso-bachillerato/) y con [elementos del currículo LOMLOE](../../diseno-curricular-e-instruccional-de-matematicas/apuntes/03-elementos-curriculo-lomloe.md).
+- En orientación de 4.º: no reducir las salidas a “solo universidad”; la FP y el régimen especial (p. ej. EOI) forman parte del mapa real del sistema en la comunidad.
+
+> La normativa autonómica se actualiza: verificar siempre el decreto y órdenes vigentes en el BOA / web del Departamento de Educación.
+
+---
+
 ## 7. Glosario breve
 
 **ESO** · **Graduado en ESO** · **Bachillerato** · **Modalidad** · **FP (grados)** · **Régimen especial** · **EOI** · **Itinerario** · **Orientación educativa**
@@ -111,5 +125,6 @@ El centro (tutores, departamento de orientación, equipo docente) acompaña deci
 
 - [Programa](../programa.md)  
 - [Tema 1 — Evolución y paradigmas](01-evolucion-historica-sistema-educativo-paradigmas.md)  
+- [Temarios Matemáticas Aragón](../../diseno-curricular-e-instruccional-de-matematicas/materiales/temarios-matematicas-aragon/)  
 - [Asignaturas ESO/Bachillerato de Matemáticas](../../diseno-curricular-e-instruccional-de-matematicas/materiales/asignaturas-eso-bachillerato/)  
 - Coll (2010); Imbernón (2010) — ver [bibliografía](../bibliografia.md)

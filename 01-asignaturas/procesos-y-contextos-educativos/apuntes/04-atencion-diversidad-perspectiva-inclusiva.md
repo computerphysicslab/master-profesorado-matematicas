@@ -78,6 +78,24 @@ Misma competencia; distinta vía de acceso y de evidencia.
 
 ---
 
+## Caso Aragón — diversidad, DUA y coordinación
+
+En centros de Aragón, las medidas de atención a la diversidad se enmarcan en la **LOMLOE**, en el **plan de atención a la diversidad del centro** y en la normativa autonómica de organización e inclusión. La terminología de adaptaciones (p. ej. ACI/ACS o equivalentes) y los protocolos de derivación a orientación deben consultarse en el centro y en las instrucciones vigentes.
+
+**Implicaciones para Matemáticas en el practicum:**
+
+| Prioridad | Acción |
+|-----------|--------|
+| 1 | Diseñar con **DUA** la unidad (no improvisar solo “fichas de refuerzo”) |
+| 2 | Conocer el [mapa de medidas](../materiales/mapa-medidas-atencion-diversidad.md) y el plan del centro |
+| 3 | Coordinar con tutoría y orientación antes de medidas específicas |
+| 4 | Alinear evidencias de evaluación con criterios (ver [evaluación competencial](../materiales/evaluacion-competencial-matematicas-lomloe.md)) |
+| 5 | Profundizar inclusión y excelencia en el currículo de la materia: [inclusión y diversidad matemática LOMLOE](../../diseno-curricular-e-instruccional-de-matematicas/materiales/curriculo-lomloe/inclusion-excelencia-diversidad-matematica-lomloe.md) |
+
+> Ante riesgo emocional o de salud mental del alumnado, el rol docente es **detectar y derivar** según protocolo de centro — no diagnosticar. Material relacionado en Psicología del desarrollo (si se cursa en paralelo).
+
+---
+
 ## 7. Límites éticos y profesionales
 
 - No difundir información sensible del alumnado.  
@@ -99,5 +117,8 @@ Misma competencia; distinta vía de acceso y de evidencia.
 ## Material relacionado
 
 - **[DUA](../materiales/dua-diseno-universal-aprendizaje.md)**  
+- [Mapa de medidas de atención a la diversidad](../materiales/mapa-medidas-atencion-diversidad.md)  
+- [Evaluación competencial en Matemáticas](../materiales/evaluacion-competencial-matematicas-lomloe.md)  
+- [Inclusión y diversidad matemática (Diseño curricular)](../../diseno-curricular-e-instruccional-de-matematicas/materiales/curriculo-lomloe/inclusion-excelencia-diversidad-matematica-lomloe.md)  
 - [Tema 5 — Metodología](05-metodologia-recursos-educacion-secundaria.md)  
 - Tomlinson (2001); Torrego y Negro (2012) — [bibliografía](../bibliografia.md)

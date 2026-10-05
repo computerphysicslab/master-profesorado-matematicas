@@ -83,6 +83,28 @@ La **LODE** consagró la participación (consejos escolares, etc.). En la práct
 
 ---
 
+## Caso Aragón — centro, documentos y practicum
+
+En un IES o centro concertado de Aragón, el marco estatal (LOMLOE, LODE en lo que sigue vigente sobre participación) se concreta con **normativa autonómica** de organización de centros, convivencia e instrucciones de inicio de curso. El margen real del departamento de Matemáticas está en:
+
+1. **Documentos de centro** (PEC, PGA, plan de convivencia, plan de atención a la diversidad, NOF).  
+2. **Programación didáctica** alineada con el decreto de currículo de Aragón.  
+3. **Acuerdos de departamento** (criterios de calificación, recuperación, materiales).
+
+**Primera semana de practicum (checklist mínimo):**
+
+| Mirar | Para qué |
+|-------|----------|
+| PEC / plan de convivencia | Clima, normas, mediación |
+| Programación del departamento de Matemáticas | Qué se evalúa y cómo en *este* centro |
+| Horarios y desdobles | Qué metodología es realista |
+| [Órganos y documentos de centro](../materiales/organos-y-documentos-de-centro.md) | Mapa mental antes de las reuniones |
+| [Checklist de observación](../materiales/checklist-observacion-centro-aula.md) | Qué registrar en aula y en claustro |
+
+La programación anual y de unidad se detalla en Diseño curricular: [programación didáctica](../../diseno-curricular-e-instruccional-de-matematicas/apuntes/04-programacion-didactica.md) y [plantillas](../../diseno-curricular-e-instruccional-de-matematicas/materiales/plantillas/).
+
+---
+
 ## 6. Glosario
 
 **Consejo Escolar** · **Claustro** · **Departamento didáctico** · **CCP** · **PEC / PE** · **PGA** · **NOF** · **Plan de convivencia** · **Autonomía de centro**
@@ -102,4 +124,6 @@ La **LODE** consagró la participación (consejos escolares, etc.). En la práct
 
 - [Programa](../programa.md)  
 - [Tema 4 — Inclusión](04-atencion-diversidad-perspectiva-inclusiva.md)  
+- [Órganos y documentos de centro](../materiales/organos-y-documentos-de-centro.md)  
+- [Checklist de observación centro/aula](../materiales/checklist-observacion-centro-aula.md)  
 - Cano y Cebollero (2023); Imbernón (2010) — [bibliografía](../bibliografia.md)
