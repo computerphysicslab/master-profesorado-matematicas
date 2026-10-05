@@ -49,8 +49,9 @@ Niveles y autocorrección: **[examen/](examen/)** (fácil · intermedio · difí
 
 | Recurso | Uso |
 |---------|-----|
-| **[Guion: Desarrollo evolutivo en la adolescencia](../../08-podcasts/guiones/podcast_desarrollo_adolescencia.md)** | Tema 1 — guion extenso (partes 1 y 2) con autoevaluaciones |
-| [Pávlov, Skinner y Erikson](../../08-podcasts/recursos/podcast_Pavlov_Skinner_Erikson_Matematicas.mp3) | Tema 3 — audio |
+| **[Audio: Desarrollo evolutivo en la adolescencia](../../08-podcasts/episodios/podcast_desarrollo_adolescencia.mp3)** | Tema 1 — ~47 min |
+| [Guion del episodio](../../08-podcasts/guiones/podcast_desarrollo_adolescencia.md) | Texto / partes 1 y 2 |
+| [Pávlov, Skinner y Erikson](../../08-podcasts/recursos/podcast_Pavlov_Skinner_Erikson_Matematicas.mp3) | Tema 3 |
 | [Índice de podcasts](../../08-podcasts/INDICE.md) | Catálogo completo |
 
 ## Otros recursos
