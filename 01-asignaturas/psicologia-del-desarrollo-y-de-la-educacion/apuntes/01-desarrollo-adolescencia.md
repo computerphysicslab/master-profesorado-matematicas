@@ -10,9 +10,8 @@ Este apunte abre el bloque de **desarrollo**. El resto del programa y los materi
 | Paso | Recurso | Para qué |
 |------|---------|----------|
 | **1** | Este apunte (Tema 1) | Adolescencia, identidad, pensamiento formal |
-| **1b** | 🎧 [Escuchar (~17 min)](../../../08-podcasts/episodios/podcast_desarrollo_adolescencia.mp3) · [Guion](../../../08-podcasts/guiones/podcast_desarrollo_adolescencia.md) · 🎧 [Alternativa: Detrás del «soy malo en mates»](../../../08-podcasts/episodios/Detrás_del_soy_malo_en_matemáticas.m4a) | Narración del tema + identidad académica |
-| **1c** | [Entrevista Lucía, mi pediatra — Adolescencia](../materiales/entrevista-lucia-mi-pediatra-adolescencia.md) | Divulgación actual: poda neuronal, identidad, límites, presión de grupo, pantallas |
-| **2** | [Tema 2](02-diferencias-individuales-problemas-adolescencia.md) + [neurodivergencia](../materiales/neurodivergencia-aula-matematicas.md) · [discalculia](../materiales/discalculia-y-dea-matematicas.md) · [suicidio/rol docente](../materiales/suicidio-juvenil-rrss-rol-docente.md) | Diversidad y riesgos (observar / derivar) |
+| **1b** | [Podcast audio (~17 min)](../../../08-podcasts/episodios/podcast_desarrollo_adolescencia.mp3) · [Guion](../../../08-podcasts/guiones/podcast_desarrollo_adolescencia.md) | Narración del tema con autoevaluaciones |
+| **2** | [Tema 2](02-diferencias-individuales-problemas-adolescencia.md) + [neurodivergencia](../materiales/neurodivergencia-aula-matematicas.md) · [discalculia](../materiales/discalculia-y-dea-matematicas.md) · [Haidt / RRSS-atención](../materiales/haidt-redes-atencion-adolescencia.md) · [suicidio/rol docente](../materiales/suicidio-juvenil-rrss-rol-docente.md) | Diversidad, RRSS y riesgos (observar / derivar) |
 | **3** | [Tema 3](03-teorias-conductuales-modificacion-conducta.md) + [ABC](../materiales/registro-abc-conducta.md) | Gestión de conducta ética |
 | **4** | [Tema 4](04-procesamiento-informacion-teorias-cognitivas.md) + [carga](../materiales/carga-cognitiva-matematicas.md) · [ZDP](../materiales/zdp-andamiaje-matematicas.md) · [FE](../materiales/funciones-ejecutivas-matematicas.md) | Diseño de tareas y andamiaje |
 | **5** | [Tema 5](05-motivacion-ensenanza-aprendizaje.md) + [mindset](../materiales/mindset-atribuciones-matematicas.md) · [autoeficacia](../materiales/autoeficacia-matematica.md) · [feedback](../materiales/feedback-efectivo-matematicas.md) · [error](../materiales/gestion-del-error-matematicas.md) | Persistencia, clima, atribuciones |
@@ -252,9 +251,10 @@ La búsqueda de autonomía **no tiene por qué** derivar en conflicto permanente
 
 ## Material relacionado
 
+- **[Haidt — redes, atención y adolescencia](../materiales/haidt-redes-atencion-adolescencia.md)** — atención, diseño adictivo, escuelas sin móvil  
+
 - **Podcast:** 🎧 [Escuchar — Desarrollo evolutivo en la adolescencia (~17 min)](../../../08-podcasts/episodios/podcast_desarrollo_adolescencia.mp3) · [Guion](../../../08-podcasts/guiones/podcast_desarrollo_adolescencia.md)
 - **Podcast alternativo:** 🎧 [Escuchar — Detrás del «soy malo en matemáticas»](../../../08-podcasts/episodios/Detrás_del_soy_malo_en_matemáticas.m4a) (identidad académica, autoestima, feedback)
-- [Entrevista Lucía, mi pediatra — Adolescencia](../materiales/entrevista-lucia-mi-pediatra-adolescencia.md) (divulgación actual: poda neuronal, identidad, límites, presión de grupo, pantallas)
 - [Tema 2 — Diferencias y problemas](02-diferencias-individuales-problemas-adolescencia.md)  
 - [Tema 4 — Procesamiento y teorías cognoscitivas](04-procesamiento-informacion-teorias-cognitivas.md)  
 - [ZDP y andamiaje](../materiales/zdp-andamiaje-matematicas.md) · [Carga cognitiva](../materiales/carga-cognitiva-matematicas.md)  
