@@ -18,9 +18,11 @@ Registro de episodios relacionados con aprendizaje, enseñanza, Matemáticas, Ci
 | Episodio | Archivo |
 |----------|--------|
 | **Desarrollo evolutivo en la adolescencia** (Psicología Tema 1, ~17 min) | [podcast_desarrollo_adolescencia.mp3](episodios/podcast_desarrollo_adolescencia.mp3) |
+| **Detrás del «soy malo en matemáticas»** (alternativa / identidad académica) | [Detrás_del_soy_malo_en_matemáticas.m4a](episodios/Detrás_del_soy_malo_en_matemáticas.m4a) |
 | Aprender y enseñar Matemáticas (ep. 1) | [podcast_aprender_ensenar_matematicas_ep1.mp3](episodios/podcast_aprender_ensenar_matematicas_ep1.mp3) |
 | De Moyano a LOMLOE | [podcast_de_moyano_a_lomloe.mp3](episodios/podcast_de_moyano_a_lomloe.mp3) |
 | Estrés docente | [podcast_estres_docente.mp3](episodios/podcast_estres_docente.mp3) |
+| Diálogo máster / educación | [dialogo_master_educacion.mp3](episodios/dialogo_master_educacion.mp3) |
 
 ## Guiones (texto)
 

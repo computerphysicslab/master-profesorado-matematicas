@@ -10,6 +10,7 @@ duracion_guion_extenso: "50-70 min (texto completo)"
 
 **Asignatura:** Psicología del desarrollo y de la educación · **Tema 1**  
 **Audio publicado:** [episodios/podcast_desarrollo_adolescencia.mp3](../episodios/podcast_desarrollo_adolescencia.mp3) (~17 min)  
+**Audio alternativo:** [episodios/Detrás_del_soy_malo_en_matemáticas.m4a](../episodios/Detrás_del_soy_malo_en_matemáticas.m4a) (identidad académica, «soy malo en mates»)  
 **Guion escrito (extenso):** partes 1 y 2 (orientativo 50–70 min si se narrara íntegro)
 
 ## Partes del guion (texto)
