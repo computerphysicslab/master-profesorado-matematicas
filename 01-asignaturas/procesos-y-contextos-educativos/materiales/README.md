@@ -11,6 +11,7 @@ Recursos prácticos y transversales (citables desde otras asignaturas y el pract
 | [Checklist de observación centro/aula](checklist-observacion-centro-aula.md) | 3–5 |
 | [Mapa de medidas de atención a la diversidad](mapa-medidas-atencion-diversidad.md) | 4 |
 | [Estructuras de aprendizaje cooperativo](estructuras-aprendizaje-cooperativo.md) | 4–5 |
+| [**Evaluación competencial en Matemáticas (LOMLOE)**](evaluacion-competencial-matematicas-lomloe.md) | 6 |
 | [Banco de instrumentos de evaluación](instrumentos-evaluacion.md) | 6 |
 | [Plantilla de alineación criterio → evidencia](plantilla-alineacion-criterio-evidencia.md) | 5–6 |
 | [DUA — Diseño Universal para el Aprendizaje](dua-diseno-universal-aprendizaje.md) | 4 (transversal) |
@@ -41,6 +42,7 @@ Recursos prácticos y transversales (citables desde otras asignaturas y el pract
 
 - `leyes-educativas/` (carpeta: fichas de leyes + comparativa PISA 2025)
 - `pisa-2018-aragon-china/` (análisis de microdatos + scripts)
+- `evaluacion-competencial-matematicas-lomloe.md`
 - `mapa-epistemologico-paradigmas-educativos.md`
 - `img/mapa_epistemologico_modelos_educativos.png`
 - `burocratizacion-trabajo-docente-analisis-historico.md`

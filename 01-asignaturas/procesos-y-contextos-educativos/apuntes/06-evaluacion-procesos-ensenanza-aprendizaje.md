@@ -5,6 +5,9 @@
 
 > Pregunta guía: **¿qué, quién, cuándo y cómo evaluar?** La evaluación no es solo “poner nota”: orienta el aprendizaje, certifica logros y permite mejorar la enseñanza (Coll, 2010; marco LOMLOE criterial).
 
+**Ficha específica de Matemáticas (LOMLOE):**  
+→ [Evaluación competencial en Matemáticas](../materiales/evaluacion-competencial-matematicas-lomloe.md) — cadena de alineación, qué es/no es, ejemplo, instrumentos y calificación.
+
 ---
 
 ## 1. Tres objetos de evaluación
@@ -111,7 +114,10 @@ Si solo se puntúa el número final, **no** se está evaluando ese criterio.
 
 ## Material relacionado
 
+- [**Evaluación competencial en Matemáticas (LOMLOE)**](../materiales/evaluacion-competencial-matematicas-lomloe.md)  
 - [Tema 5 — Metodología](05-metodologia-recursos-educacion-secundaria.md)  
 - [DUA](../materiales/dua-diseno-universal-aprendizaje.md)  
+- [Instrumentos de evaluación](../materiales/instrumentos-evaluacion.md)  
+- [Plantilla criterio → evidencia](../materiales/plantilla-alineacion-criterio-evidencia.md)  
 - [Programación didáctica (Matemáticas)](../../diseno-curricular-e-instruccional-de-matematicas/apuntes/04-programacion-didactica.md)  
 - Coll (2010); Imbernón (2010) — [bibliografía](../bibliografia.md)

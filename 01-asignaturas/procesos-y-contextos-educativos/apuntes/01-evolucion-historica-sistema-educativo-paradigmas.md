@@ -6,6 +6,25 @@ parent: Procesos y contextos educativos
 
 # Evolución histórica del sistema educativo y paradigmas de investigación
 
+## Por dónde leer (mapa de lectura)
+
+Este apunte es la **puerta de entrada**. El detalle está en los materiales. Orden sugerido:
+
+| Paso | Recurso | Para qué |
+|------|---------|----------|
+| **1** | Este apunte (tablas de paradigmas y leyes) | Visión de conjunto en 15–20 min |
+| **2** | [Mapa epistemológico de paradigmas](../materiales/mapa-epistemologico-paradigmas-educativos.md) | Situar positivista / interpretativo / socio-crítico; LOMCE, LOMLOE, China |
+| **3** | [Leyes educativas (fichas)](../materiales/leyes-educativas/) | Una ley por sesión o las que toquen en clase (estructura homogénea de 5 bloques) |
+| **4** | [Línea temporal de leyes](../materiales/linea-temporal-leyes-educativas.md) | Cronología rápida |
+| **5** | [Burocratización del trabajo docente](../materiales/burocratizacion-trabajo-docente-analisis-historico.md) | Por qué “más autonomía” no implica menos papeleo; cadena documental |
+| **6** | [TALIS — ficha sintética](../materiales/talis-ficha-sintetica.md) | Condiciones del profesorado (España–OCDE) |
+| **7** | Comparaciones de rendimiento | [PISA 2025](../materiales/leyes-educativas/comparativa-pisa-2025-y-sistemas-internacionales.md) · [PISA 2022](../materiales/pisa-2022-fracaso-escolar-matematicas.md) · [PISA 2018 microdatos Aragón/ESCS](../materiales/pisa-2018-aragon-china/) |
+| **8** | [Comparativa de paradigmas en una tarea de mates](../materiales/comparativa-paradigmas-tarea-matematicas.md) | Aplicación al aula |
+
+**Examen:** preguntas de paradigmas, leyes, burocracia y DUA en el [banco de preguntas](../examen/banco-preguntas.md).
+
+---
+
 ## Paradigmas (síntesis operativa)
 
 | Paradigma | Énfasis |
