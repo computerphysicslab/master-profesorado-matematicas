@@ -9,8 +9,8 @@ duracion_guion_extenso: "50-70 min (texto completo)"
 # Guion de podcast — Desarrollo evolutivo en la adolescencia
 
 **Asignatura:** Psicología del desarrollo y de la educación · **Tema 1**  
-**Audio publicado:** [episodios/podcast_desarrollo_adolescencia.mp3](../episodios/podcast_desarrollo_adolescencia.mp3) (~17 min)  
-**Audio alternativo:** [episodios/Detrás_del_soy_malo_en_matemáticas.m4a](../episodios/Detrás_del_soy_malo_en_matemáticas.m4a) (identidad académica, «soy malo en mates»)  
+**Audio publicado:** 🎧 [Escuchar — episodios/podcast_desarrollo_adolescencia.mp3](../episodios/podcast_desarrollo_adolescencia.mp3) (~17 min)  
+**Audio alternativo:** 🎧 [Escuchar — Detrás del «soy malo en mates»](../episodios/Detrás_del_soy_malo_en_matemáticas.m4a) (identidad académica)  
 **Guion escrito (extenso):** partes 1 y 2 (orientativo 50–70 min si se narrara íntegro)
 
 ## Partes del guion (texto)
