@@ -6,6 +6,12 @@
 
 Estudio del **desarrollo adolescente** (procesos evolutivos, diferencias individuales, problemas frecuentes) y de la **psicología de la educación** aplicada a la enseñanza-aprendizaje: enfoques conductuales, cognoscitivos y motivación.
 
+## Por dónde leer
+
+Mapa completo al inicio del [Tema 1](apuntes/01-desarrollo-adolescencia.md). Orden sugerido: apunte del tema → material(es) enlazado(s) → [glosario](glosario.md) / [examen](examen/).
+
+**Practicum:** [Guía de observación (Psicología)](materiales/guia-observacion-practicum-psicologia.md)
+
 ## Programa y apuntes
 
 Documento: **[programa.md](programa.md)** · Índice de apuntes: **[apuntes/README.md](apuntes/README.md)**
@@ -22,41 +28,18 @@ Documento: **[programa.md](programa.md)** · Índice de apuntes: **[apuntes/READ
 
 Índice detallado: **[materiales/README.md](materiales/README.md)**
 
-### Cognición y diseño de tareas
-
-| Material | Tema |
-|----------|------|
-| [Carga cognitiva en Matemáticas](materiales/carga-cognitiva-matematicas.md) | 4 |
-| [ZDP y andamiaje en Matemáticas](materiales/zdp-andamiaje-matematicas.md) | 4 |
-| [Funciones ejecutivas en Matemáticas](materiales/funciones-ejecutivas-matematicas.md) | 4 |
-
-### Motivación, identidad y feedback
-
-| Material | Tema |
-|----------|------|
-| [Mindset y atribuciones en Matemáticas](materiales/mindset-atribuciones-matematicas.md) | 5 |
-| [Autoeficacia matemática](materiales/autoeficacia-matematica.md) | 5 |
-| [Feedback efectivo en Matemáticas](materiales/feedback-efectivo-matematicas.md) | 1, 5 |
-| [Gestión del error en Matemáticas](materiales/gestion-del-error-matematicas.md) | 1, 4, 5 |
-
-### Diversidad, neurodivergencia y conducta
-
-| Material | Tema |
-|----------|------|
-| [Neurodivergencia en el aula de Matemáticas](materiales/neurodivergencia-aula-matematicas.md) | 2 |
-| [Discalculia y DEA en Matemáticas](materiales/discalculia-y-dea-matematicas.md) | 2 |
-| [Registro ABC de conducta](materiales/registro-abc-conducta.md) | 3 |
-
-### Riesgos y bienestar
-
-| Material | Tema |
-|----------|------|
-| [Suicidio juvenil, RRSS y rol del docente](materiales/suicidio-juvenil-rrss-rol-docente.md) | 2 |
+| Bloque | Materiales |
+|--------|------------|
+| Cognición | [Carga](materiales/carga-cognitiva-matematicas.md) · [ZDP](materiales/zdp-andamiaje-matematicas.md) · [FE](materiales/funciones-ejecutivas-matematicas.md) |
+| Motivación | [Mindset](materiales/mindset-atribuciones-matematicas.md) · [Autoeficacia](materiales/autoeficacia-matematica.md) · [Feedback](materiales/feedback-efectivo-matematicas.md) · [Error](materiales/gestion-del-error-matematicas.md) |
+| Diversidad / conducta | [Neurodivergencia](materiales/neurodivergencia-aula-matematicas.md) · [Discalculia](materiales/discalculia-y-dea-matematicas.md) · [ABC](materiales/registro-abc-conducta.md) |
+| Riesgos | [Suicidio / rol docente](materiales/suicidio-juvenil-rrss-rol-docente.md) |
+| Practicum | [Observación Psicología](materiales/guia-observacion-practicum-psicologia.md) |
 
 ### Relacionados (otras carpetas)
 
-- [Ventana de Johari (habilidades comunicativas)](../optativas/habilidades-comunicativas-para-docentes/materiales/ventana-de-johari-docencia-matematicas.md)
-- [DUA (Procesos y contextos)](../procesos-y-contextos-educativos/materiales/dua-diseno-universal-aprendizaje.md)
+- [Ventana de Johari](../optativas/habilidades-comunicativas-para-docentes/materiales/ventana-de-johari-docencia-matematicas.md)
+- [DUA (Procesos)](../procesos-y-contextos-educativos/materiales/dua-diseno-universal-aprendizaje.md)
 
 ## Examen
 

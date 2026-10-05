@@ -3,6 +3,20 @@
 **Asignatura:** Psicología del desarrollo y de la educación  
 **Programa:** [tema 1](../programa.md)
 
+## Por dónde leer (mapa de la asignatura)
+
+Este apunte abre el bloque de **desarrollo**. El resto del programa y los materiales se organizan así:
+
+| Paso | Recurso | Para qué |
+|------|---------|----------|
+| **1** | Este apunte (Tema 1) | Adolescencia, identidad, pensamiento formal |
+| **2** | [Tema 2](02-diferencias-individuales-problemas-adolescencia.md) + [neurodivergencia](../materiales/neurodivergencia-aula-matematicas.md) · [discalculia](../materiales/discalculia-y-dea-matematicas.md) · [suicidio/rol docente](../materiales/suicidio-juvenil-rrss-rol-docente.md) | Diversidad y riesgos (observar / derivar) |
+| **3** | [Tema 3](03-teorias-conductuales-modificacion-conducta.md) + [ABC](../materiales/registro-abc-conducta.md) | Gestión de conducta ética |
+| **4** | [Tema 4](04-procesamiento-informacion-teorias-cognitivas.md) + [carga](../materiales/carga-cognitiva-matematicas.md) · [ZDP](../materiales/zdp-andamiaje-matematicas.md) · [FE](../materiales/funciones-ejecutivas-matematicas.md) | Diseño de tareas y andamiaje |
+| **5** | [Tema 5](05-motivacion-ensenanza-aprendizaje.md) + [mindset](../materiales/mindset-atribuciones-matematicas.md) · [autoeficacia](../materiales/autoeficacia-matematica.md) · [feedback](../materiales/feedback-efectivo-matematicas.md) · [error](../materiales/gestion-del-error-matematicas.md) | Persistencia, clima, atribuciones |
+| **6** | [Examen](../examen/) · [Glosario](../glosario.md) | Autoevaluación |
+| **7** | [Guía de observación de practicum](../materiales/guia-observacion-practicum-psicologia.md) | Qué mirar en el centro/aula |
+
 ---
 
 ## 0. Psicología del desarrollo: marco
@@ -240,7 +254,8 @@ La búsqueda de autonomía **no tiene por qué** derivar en conflicto permanente
 - [Tema 4 — Procesamiento y teorías cognoscitivas](04-procesamiento-informacion-teorias-cognitivas.md)  
 - [ZDP y andamiaje](../materiales/zdp-andamiaje-matematicas.md) · [Carga cognitiva](../materiales/carga-cognitiva-matematicas.md)  
 - [Autoeficacia matemática](../materiales/autoeficacia-matematica.md) · [Mindset y atribuciones](../materiales/mindset-atribuciones-matematicas.md)  
-- [Ventana de Johari (autoconocimiento docente y clima de aula)](../../optativas/habilidades-comunicativas-para-docentes/materiales/ventana-de-johari-docencia-matematicas.md)  
+- [Guía de observación de practicum](../materiales/guia-observacion-practicum-psicologia.md)  
+- [Ventana de Johari](../../optativas/habilidades-comunicativas-para-docentes/materiales/ventana-de-johari-docencia-matematicas.md)  
 - [Educación emocional](../../optativas/educacion-emocional-en-el-profesorado/)
 
 ---
