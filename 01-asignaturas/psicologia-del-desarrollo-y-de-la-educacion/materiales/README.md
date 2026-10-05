@@ -26,6 +26,12 @@ Recursos prácticos orientados al aula de Matemáticas.
 | [Gestión del error en Matemáticas](gestion-del-error-matematicas.md) | Temas 1, 4 y 5 |
 | [Ventana de Johari (enlace)](../../optativas/habilidades-comunicativas-para-docentes/materiales/ventana-de-johari-docencia-matematicas.md) | Autoconocimiento docente |
 
+## Desarrollo moral
+
+| Material | Tema / uso |
+|----------|------------|
+| [Desarrollo moral y aula (Kohlberg)](desarrollo-moral-kohlberg-aula.md) | Tema 1 — razonamiento moral; puente con Tema 5 (autorregulación) |
+
 ## Diversidad, neurodivergencia y conducta
 
 | Material | Tema / uso |
