@@ -30,6 +30,9 @@ La evidencia **no** permite afirmar que “las redes causan el suicidio”. Sí 
 
 **Lectura para el docente:** las RRSS **amplifican** vulnerabilidades previas (soledad, acoso, problemas familiares, trastornos del estado de ánimo). El uso problemático refuerza el malestar cuando ya existe; no es, por sí solo, la explicación completa.
 
+Para el marco de **atención, diseño adictivo y normas de móvil** (complemento a esta ficha de riesgo):  
+→ **[Haidt — redes, atención y adolescencia](haidt-redes-atencion-adolescencia.md)**
+
 ---
 
 ## 3. Factores de riesgo y de protección (mapa escolar)
@@ -124,6 +127,7 @@ El docente debe **conocer el protocolo de su centro** (dónde está, quién lo a
 
 ## Material relacionado
 
+- **[Haidt — redes, atención y adolescencia](haidt-redes-atencion-adolescencia.md)** — atención, diseño adictivo, presencia (complemento a esta ficha)  
 - [Tema 2 — Diferencias individuales y problemas frecuentes](../apuntes/02-diferencias-individuales-problemas-adolescencia.md)  
 - [Tema 1 — Desarrollo evolutivo en la adolescencia](../apuntes/01-desarrollo-adolescencia.md) (identidad, autoestima)  
 - [Neurodivergencia en el aula de Matemáticas](neurodivergencia-aula-matematicas.md)  
