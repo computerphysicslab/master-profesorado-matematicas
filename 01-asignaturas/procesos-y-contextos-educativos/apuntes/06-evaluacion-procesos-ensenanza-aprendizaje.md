@@ -78,6 +78,8 @@ Error frecuente: acumular solo pruebas sumativas y llamar “continua” al prom
 
 El **DUA** invita a admitir, cuando proceda, **varias vías de evidencia** del mismo criterio.
 
+Detalle: [instrumentos de evaluación](../materiales/instrumentos-evaluacion.md) · [plantilla criterio → evidencia](../materiales/plantilla-alineacion-criterio-evidencia.md).
+
 ---
 
 ## 6. Calificación, promoción y ética
@@ -86,6 +88,21 @@ El **DUA** invita a admitir, cuando proceda, **varias vías de evidencia** del m
 - Debe ser **trazable**: el alumnado ha de poder entender por qué esa nota.  
 - La promoción y titulación siguen reglas legales y de centro; el docente aporta información, no “favor”.  
 - Privacidad: no exponer notas ni comparaciones públicas humillantes.
+
+### 6.1. Acuerdos de departamento (mínimo viable)
+
+| Acuerdo | Para qué |
+|---------|----------|
+| Peso orientativo de instrumentos | Evitar que un solo examen decida todo si la programación declara varios |
+| Criterios de recuperación | Equidad entre grupos del mismo curso |
+| Qué se considera evidencia de un criterio | Coherencia al corregir |
+| Comunicación a familias | Mensaje único y comprensible |
+
+Sin acuerdos, la “evaluación competencial” se fragmenta en prácticas incompatibles entre aulas.
+
+### 6.2. Evaluación externa y cultura de centro
+
+Las pruebas de diagnóstico, la EvAU/EBAU u otras externas **no sustituyen** la evaluación continua, pero condicionan qué se prioriza en 2.º de Bachillerato y, a veces, en 4.º de ESO. El reto es no reducir todo el curso a “entrenar el formato del examen” olvidando criterios de comunicación, modelización o socioafectivos del currículo.
 
 ---
 
@@ -119,5 +136,6 @@ Si solo se puntúa el número final, **no** se está evaluando ese criterio.
 - [DUA](../materiales/dua-diseno-universal-aprendizaje.md)  
 - [Instrumentos de evaluación](../materiales/instrumentos-evaluacion.md)  
 - [Plantilla criterio → evidencia](../materiales/plantilla-alineacion-criterio-evidencia.md)  
+- [Guía de observación de practicum](../materiales/guia-observacion-practicum-por-temas.md)  
 - [Programación didáctica (Matemáticas)](../../diseno-curricular-e-instruccional-de-matematicas/apuntes/04-programacion-didactica.md)  
 - Coll (2010); Imbernón (2010) — [bibliografía](../bibliografia.md)

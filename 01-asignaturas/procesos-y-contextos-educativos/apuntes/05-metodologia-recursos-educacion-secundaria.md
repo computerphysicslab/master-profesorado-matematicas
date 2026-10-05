@@ -48,6 +48,20 @@ Sin esa cadena, el método se vuelve moda.
 
 **Marrasé (2013)** recuerda la dimensión emocional y vital de educar: los recursos importan, pero el clima de **confianza** y el sentido de la tarea suelen pesar más que el último software.
 
+### 3.1. Criterios para elegir un recurso digital
+
+Más allá de “que motive”:
+
+1. **Representación:** ¿permite ver o manipular una idea que el papel no da igual (función, simulación, datos reales)?  
+2. **Alineación:** ¿apunta al criterio de evaluación o solo rellena tiempo?  
+3. **Acceso:** ¿todo el grupo puede usarlo (dispositivos, red, licencia)?  
+4. **Carga cognitiva:** ¿la interfaz distrae del objeto matemático?  
+5. **Evidencia:** ¿qué producto o proceso deja observable?
+
+Ejemplos con sentido: GeoGebra para conjeturar sobre funciones; hoja de cálculo para estadística con datos cercanos; applet solo si acorta un camino representacional.
+
+Condiciones reales del aula: [ratio y condiciones de enseñanza](../materiales/ratio-condiciones-ensenanza.md).
+
 ---
 
 ## 4. Aprendizaje cooperativo (estructura mínima)
@@ -61,9 +75,26 @@ Según la línea de **Torrego y Negro (2012)**:
 
 Estructuras útiles en mates: lápices al centro; 1-2-4; roles rotativos; corrección cruzada con rúbrica breve.
 
+Detalle práctico: [estructuras de aprendizaje cooperativo](../materiales/estructuras-aprendizaje-cooperativo.md).
+
+**Riesgo:** el cooperativo mal planteado concentra el trabajo en quien “ya sabe” y excluye al resto — peor que el trabajo individual bien andamiado.
+
 ---
 
-## 5. Ejemplo de secuencia (2 sesiones) — sistemas 4.º ESO
+## 5. Gestión del error y del tiempo de aula
+
+| Práctica | Efecto |
+|----------|--------|
+| Error como fallo a penalizar solo en la nota | Ansiedad; ocultación de dudas |
+| Error como información (¿qué concepción hay detrás?) | Diagnóstico y andamiaje |
+| Tiempos muertos (copiar limpio sin sentido, esperar al que acaba) | Convivencia y atención se degradan |
+| Cierre explícito (síntesis, ticket de salida) | Consolida y permite feedback breve |
+
+La metodología y la **convivencia** se refuerzan: tareas con sentido y participación distribuida previenen muchos conflictos de baja intensidad ([guía de convivencia](../materiales/guia-convivencia-mediacion.md)).
+
+---
+
+## 6. Ejemplo de secuencia (2 sesiones) — sistemas 4.º ESO
 
 | Momento | Metodología | Recurso |
 |---------|-------------|--------|
@@ -75,13 +106,17 @@ Estructuras útiles en mates: lápices al centro; 1-2-4; roles rotativos; correc
 
 ---
 
-## 6. Enlace con Diseño curricular de Matemáticas
+## 7. Enlace con Diseño curricular de Matemáticas
 
 Situaciones de aprendizaje, problemas ricos e historias matemáticas del repo son **recursos metodológicos** al servicio de competencias y criterios — no actividades decorativas.
 
+- [Banco de problemas / problemas ricos](../../diseno-curricular-e-instruccional-de-matematicas/materiales/banco-problemas/)  
+- [Programación didáctica](../../diseno-curricular-e-instruccional-de-matematicas/apuntes/04-programacion-didactica.md)  
+- [Resolución de problemas (apunte)](../../diseno-curricular-e-instruccional-de-matematicas/apuntes/08-resolucion-de-problemas.md)
+
 ---
 
-## 7. Preguntas de repaso
+## 8. Preguntas de repaso
 
 1. Elige un criterio de evaluación y justifica un método coherente.  
 2. ¿Cuándo preferirías exposición dialogada frente a indagación?  
@@ -93,7 +128,9 @@ Situaciones de aprendizaje, problemas ricos e historias matemáticas del repo so
 ## Material relacionado
 
 - [DUA](../materiales/dua-diseno-universal-aprendizaje.md)  
+- [Estructuras cooperativas](../materiales/estructuras-aprendizaje-cooperativo.md)  
+- [Ratio y condiciones](../materiales/ratio-condiciones-ensenanza.md)  
+- [Guía de observación de practicum](../materiales/guia-observacion-practicum-por-temas.md)  
 - [Tema 4 — Inclusión](04-atencion-diversidad-perspectiva-inclusiva.md)  
 - [Tema 6 — Evaluación](06-evaluacion-procesos-ensenanza-aprendizaje.md)  
-- [Diseño curricular — programación](../../diseno-curricular-e-instruccional-de-matematicas/apuntes/04-programacion-didactica.md)  
 - Coll (2010); Torrego y Negro (2012); Marrasé (2013) — [bibliografía](../bibliografia.md)

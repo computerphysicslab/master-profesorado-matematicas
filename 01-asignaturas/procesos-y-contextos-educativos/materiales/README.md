@@ -8,6 +8,7 @@ Recursos prácticos y transversales (citables desde otras asignaturas y el pract
 |---------|------|
 | [**Guía de observación de practicum (por temas)**](guia-observacion-practicum-por-temas.md) | 1–6 · practicum |
 | [Checklist de observación centro/aula](checklist-observacion-centro-aula.md) | 3–5 · practicum |
+| [**Guía de convivencia y mediación**](guia-convivencia-mediacion.md) | 3–5 · clima |
 | [Mapa del sistema educativo](mapa-sistema-educativo.md) | 2 |
 | [Órganos y documentos de centro](organos-y-documentos-de-centro.md) | 3 |
 | [Mapa de medidas de atención a la diversidad](mapa-medidas-atencion-diversidad.md) | 4 |
@@ -22,14 +23,14 @@ Recursos prácticos y transversales (citables desde otras asignaturas y el pract
 | Recurso | Uso |
 |---------|-----|
 | [**Leyes educativas (fichas LOECE→LOMLOE)**](leyes-educativas/) | Tema 1 — 7 fichas + README |
-| [**Mapa epistemológico de paradigmas**](mapa-epistemologico-paradigmas-educativos.md) | Tema 1 — triángulo positivista / interpretativo / sociocrítico; LOMCE, LOMLOE, China ([PNG](img/mapa_epistemologico_modelos_educativos.png)) |
-| [**Comparativa PISA 2025 y sistemas internacionales**](leyes-educativas/comparativa-pisa-2025-y-sistemas-internacionales.md) | Tema 1 — España vs. Corea, Estonia, Polonia, China; LOMCE/LOMLOE |
-| [**PISA 2018 — Aragón, España y B-S-J-Z (análisis de microdatos + ESCS)**](pisa-2018-aragon-china/) | Tema 1 — medias, quintiles ESCS, regresiones; scripts de reproducción |
+| [**Mapa epistemológico de paradigmas**](mapa-epistemologico-paradigmas-educativos.md) | Tema 1 |
+| [**Comparativa PISA 2025 y sistemas internacionales**](leyes-educativas/comparativa-pisa-2025-y-sistemas-internacionales.md) | Tema 1 |
+| [**PISA 2018 — Aragón, España y B-S-J-Z**](pisa-2018-aragon-china/) | Tema 1 |
 | [Línea temporal de leyes educativas](linea-temporal-leyes-educativas.md) | Tema 1 |
-| [Burocratización del trabajo docente — análisis histórico](burocratizacion-trabajo-docente-analisis-historico.md) | Tema 1 (sección 7) |
+| [Burocratización del trabajo docente](burocratizacion-trabajo-docente-analisis-historico.md) | Tema 1 |
 | [Comparativa de paradigmas en una tarea de mates](comparativa-paradigmas-tarea-matematicas.md) | Tema 1 aplicado |
-| [PISA 2022, rendimiento en Matemáticas y fracaso escolar](pisa-2022-fracaso-escolar-matematicas.md) | Evaluación internacional (ciclo anterior) |
-| [TALIS — ficha sintética](talis-ficha-sintetica.md) | Condiciones del profesorado (OCDE) |
+| [PISA 2022 y Matemáticas](pisa-2022-fracaso-escolar-matematicas.md) | Evaluación internacional |
+| [TALIS — ficha sintética](talis-ficha-sintetica.md) | Condiciones del profesorado |
 | [Ratio y condiciones de enseñanza](ratio-condiciones-ensenanza.md) | Organización y metodología |
 
 ## Refuerzo transversal
@@ -37,13 +38,14 @@ Recursos prácticos y transversales (citables desde otras asignaturas y el pract
 | Recurso | Uso |
 |---------|-----|
 | [Glosario](glosario-procesos-contextos.md) | Términos de la asignatura |
-| [Guía breve de convivencia y mediación](guia-convivencia-mediacion.md) | Tema 3 + clima de aula |
+| [Guía de convivencia y mediación](guia-convivencia-mediacion.md) | Tema 3 + clima de aula |
 
 ## Inventario completo de esta carpeta
 
-- `leyes-educativas/` (carpeta: fichas de leyes + comparativa PISA 2025)
-- `pisa-2018-aragon-china/` (análisis de microdatos + scripts)
+- `leyes-educativas/`
+- `pisa-2018-aragon-china/`
 - `guia-observacion-practicum-por-temas.md`
+- `guia-convivencia-mediacion.md`
 - `evaluacion-competencial-matematicas-lomloe.md`
 - `mapa-epistemologico-paradigmas-educativos.md`
 - `img/mapa_epistemologico_modelos_educativos.png`
@@ -53,7 +55,6 @@ Recursos prácticos y transversales (citables desde otras asignaturas y el pract
 - `dua-diseno-universal-aprendizaje.md`
 - `estructuras-aprendizaje-cooperativo.md`
 - `glosario-procesos-contextos.md`
-- `guia-convivencia-mediacion.md`
 - `instrumentos-evaluacion.md`
 - `linea-temporal-leyes-educativas.md`
 - `mapa-medidas-atencion-diversidad.md`
@@ -66,4 +67,4 @@ Recursos prácticos y transversales (citables desde otras asignaturas y el pract
 
 ## Enlaces
 
-- [Programa](../programa.md) · [Apuntes](../apuntes/) · [Bibliografía](../bibliografia.md) · [Examen](../examen/)
+- [Programa](../programa.md) · [Apuntes](../apuntes/) · [Bibliografía](../bibliografia.md) · [Examen](../examen/) · [Podcasts del repo](../../../08-podcasts/)

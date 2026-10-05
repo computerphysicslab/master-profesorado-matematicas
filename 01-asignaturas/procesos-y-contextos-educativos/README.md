@@ -27,18 +27,25 @@ Documento: **[programa.md](programa.md)** · Bibliografía: **[bibliografia.md](
 |---------|-----|
 | [**Guía de observación de practicum (por temas)**](materiales/guia-observacion-practicum-por-temas.md) | Practicum · temas 1–6 |
 | [Checklist de observación centro/aula](materiales/checklist-observacion-centro-aula.md) | Practicum diario |
+| [Guía de convivencia y mediación](materiales/guia-convivencia-mediacion.md) | Tema 3–5 · clima de aula |
 | [Leyes educativas (fichas LOECE→LOMLOE)](materiales/leyes-educativas/) | Tema 1 |
-| [Línea temporal de leyes](materiales/linea-temporal-leyes-educativas.md) | Tema 1 |
 | [Mapa epistemológico de paradigmas](materiales/mapa-epistemologico-paradigmas-educativos.md) | Tema 1 |
 | [Burocratización del trabajo docente](materiales/burocratizacion-trabajo-docente-analisis-historico.md) | Tema 1 |
-| [Comparativa PISA 2025 y sistemas internacionales](materiales/leyes-educativas/comparativa-pisa-2025-y-sistemas-internacionales.md) | Tema 1 |
-| [PISA 2018 — Aragón, España y B-S-J-Z (microdatos + ESCS)](materiales/pisa-2018-aragon-china/) | Tema 1 / evaluación internacional |
-| [PISA 2022 y Matemáticas](materiales/pisa-2022-fracaso-escolar-matematicas.md) | Evaluación internacional |
+| [PISA 2018 — Aragón / España / B-S-J-Z](materiales/pisa-2018-aragon-china/) | Evaluación internacional |
 | [TALIS — ficha sintética](materiales/talis-ficha-sintetica.md) | Condiciones docentes |
-| [DUA](materiales/dua-diseno-universal-aprendizaje.md) | Tema 4 / programaciones |
-| [Órganos y documentos de centro](materiales/organos-y-documentos-de-centro.md) | Tema 3 |
+| [DUA](materiales/dua-diseno-universal-aprendizaje.md) | Tema 4 |
 | [Evaluación competencial en Matemáticas](materiales/evaluacion-competencial-matematicas-lomloe.md) | Tema 6 |
-| [Instrumentos de evaluación](materiales/instrumentos-evaluacion.md) | Tema 6 |
+
+## Podcasts relacionados (repo)
+
+Índice general: **[08-podcasts](../../08-podcasts/)**
+
+| Episodio / recurso | Conexión |
+|--------------------|----------|
+| [De Moyano a LOMLOE](../../08-podcasts/episodios/podcast_de_moyano_a_lomloe.mp3) | Tema 1 — evolución legislativa |
+| [Comparativa de paradigmas en una tarea de mates](../../08-podcasts/recursos/podcast_comparativa_paradigmas_tarea_matematicas.mp3) | Tema 1 — paradigmas aplicados |
+| [Estrés docente](../../08-podcasts/episodios/podcast_estres_docente.mp3) | Condiciones profesionales (TALIS / burocracia) |
+| [Motivaciones matemáticas LOMLOE](../../08-podcasts/recursos/podcast_motivaciones_matematicas_LOMLOE.mp3) | Temas 4–6 — sentido e implicación |
 
 ## Examen
 
