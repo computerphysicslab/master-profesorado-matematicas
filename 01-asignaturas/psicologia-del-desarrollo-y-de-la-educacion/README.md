@@ -35,7 +35,7 @@ Documento: **[programa.md](programa.md)** · Índice de apuntes: **[apuntes/READ
 | Cognición | [Carga](materiales/carga-cognitiva-matematicas.md) · [ZDP](materiales/zdp-andamiaje-matematicas.md) · [FE](materiales/funciones-ejecutivas-matematicas.md) |
 | Motivación | [Mindset](materiales/mindset-atribuciones-matematicas.md) · [Autoeficacia](materiales/autoeficacia-matematica.md) · [Feedback](materiales/feedback-efectivo-matematicas.md) · [Error](materiales/gestion-del-error-matematicas.md) |
 | Diversidad / conducta | [Neurodivergencia](materiales/neurodivergencia-aula-matematicas.md) · [Discalculia](materiales/discalculia-y-dea-matematicas.md) · [ABC](materiales/registro-abc-conducta.md) |
-| Riesgos | [Suicidio / rol docente](materiales/suicidio-juvenil-rrss-rol-docente.md) |
+| Riesgos / actualidad | [Suicidio / rol docente](materiales/suicidio-juvenil-rrss-rol-docente.md) · [Entrevista Lucía, mi pediatra — Adolescencia](materiales/entrevista-lucia-mi-pediatra-adolescencia.md) |
 | Practicum | [Observación Psicología](materiales/guia-observacion-practicum-psicologia.md) |
 
 ### Relacionados (otras carpetas)
