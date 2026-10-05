@@ -2,27 +2,29 @@
 
 Registro de episodios relacionados con aprendizaje, enseñanza, Matemáticas, Ciencias, educación y tecnología.
 
+> En GitHub Pages / Just the Docs los controles de audio permiten reproducir sin salir de la página. Si no se muestran, usa el enlace **🎧 Escuchar**.
+
 ## Episodios disponibles
 
 ### Audio en `recursos/`
 
-| Episodio | Archivo |
-|----------|--------|
-| Comparativa de paradigmas en una tarea de Matemáticas (dramatización) | [podcast_comparativa_paradigmas_tarea_matematicas.mp3](recursos/podcast_comparativa_paradigmas_tarea_matematicas.mp3) |
-| Pávlov, Skinner y Erikson en la clase de Matemáticas | [podcast_Pavlov_Skinner_Erikson_Matematicas.mp3](recursos/podcast_Pavlov_Skinner_Erikson_Matematicas.mp3) |
-| Diseño curricular e instruccional de matemáticas | [podcast_diseno_curricular_matematicas.mp3](recursos/podcast_diseno_curricular_matematicas.mp3) |
-| Motivaciones de las asignaturas de Matemáticas en la LOMLOE | [podcast_motivaciones_matematicas_LOMLOE.mp3](recursos/podcast_motivaciones_matematicas_LOMLOE.mp3) |
+| Episodio | Escuchar | Archivo |
+|----------|----------|--------|
+| Comparativa de paradigmas en una tarea de Matemáticas (dramatización) | 🎧 [Escuchar](recursos/podcast_comparativa_paradigmas_tarea_matematicas.mp3)<br><audio controls preload="none" src="recursos/podcast_comparativa_paradigmas_tarea_matematicas.mp3">Tu navegador no soporta audio embebido.</audio> | [MP3](recursos/podcast_comparativa_paradigmas_tarea_matematicas.mp3) |
+| Pávlov, Skinner y Erikson en la clase de Matemáticas | 🎧 [Escuchar](recursos/podcast_Pavlov_Skinner_Erikson_Matematicas.mp3)<br><audio controls preload="none" src="recursos/podcast_Pavlov_Skinner_Erikson_Matematicas.mp3">Tu navegador no soporta audio embebido.</audio> | [MP3](recursos/podcast_Pavlov_Skinner_Erikson_Matematicas.mp3) |
+| Diseño curricular e instruccional de matemáticas | 🎧 [Escuchar](recursos/podcast_diseno_curricular_matematicas.mp3)<br><audio controls preload="none" src="recursos/podcast_diseno_curricular_matematicas.mp3">Tu navegador no soporta audio embebido.</audio> | [MP3](recursos/podcast_diseno_curricular_matematicas.mp3) |
+| Motivaciones de las asignaturas de Matemáticas en la LOMLOE | 🎧 [Escuchar](recursos/podcast_motivaciones_matematicas_LOMLOE.mp3)<br><audio controls preload="none" src="recursos/podcast_motivaciones_matematicas_LOMLOE.mp3">Tu navegador no soporta audio embebido.</audio> | [MP3](recursos/podcast_motivaciones_matematicas_LOMLOE.mp3) |
 
 ### Audio en `episodios/`
 
-| Episodio | Archivo |
-|----------|--------|
-| **Desarrollo evolutivo en la adolescencia** (Psicología Tema 1, ~17 min) | [podcast_desarrollo_adolescencia.mp3](episodios/podcast_desarrollo_adolescencia.mp3) |
-| **Detrás del «soy malo en matemáticas»** (alternativa / identidad académica) | [Detrás_del_soy_malo_en_matemáticas.m4a](episodios/Detrás_del_soy_malo_en_matemáticas.m4a) |
-| Aprender y enseñar Matemáticas (ep. 1) | [podcast_aprender_ensenar_matematicas_ep1.mp3](episodios/podcast_aprender_ensenar_matematicas_ep1.mp3) |
-| De Moyano a LOMLOE | [podcast_de_moyano_a_lomloe.mp3](episodios/podcast_de_moyano_a_lomloe.mp3) |
-| Estrés docente | [podcast_estres_docente.mp3](episodios/podcast_estres_docente.mp3) |
-| Diálogo máster / educación | [dialogo_master_educacion.mp3](episodios/dialogo_master_educacion.mp3) |
+| Episodio | Escuchar | Archivo |
+|----------|----------|--------|
+| **Desarrollo evolutivo en la adolescencia** (Psicología Tema 1, ~17 min) | 🎧 [Escuchar](episodios/podcast_desarrollo_adolescencia.mp3)<br><audio controls preload="none" src="episodios/podcast_desarrollo_adolescencia.mp3">Tu navegador no soporta audio embebido.</audio> | [MP3](episodios/podcast_desarrollo_adolescencia.mp3) |
+| **Detrás del «soy malo en matemáticas»** (alternativa / identidad académica) | 🎧 [Escuchar](episodios/Detrás_del_soy_malo_en_matemáticas.m4a)<br><audio controls preload="none" src="episodios/Detrás_del_soy_malo_en_matemáticas.m4a">Tu navegador no soporta audio embebido.</audio> | [M4A](episodios/Detrás_del_soy_malo_en_matemáticas.m4a) |
+| Aprender y enseñar Matemáticas (ep. 1) | 🎧 [Escuchar](episodios/podcast_aprender_ensenar_matematicas_ep1.mp3)<br><audio controls preload="none" src="episodios/podcast_aprender_ensenar_matematicas_ep1.mp3">Tu navegador no soporta audio embebido.</audio> | [MP3](episodios/podcast_aprender_ensenar_matematicas_ep1.mp3) |
+| De Moyano a LOMLOE | 🎧 [Escuchar](episodios/podcast_de_moyano_a_lomloe.mp3)<br><audio controls preload="none" src="episodios/podcast_de_moyano_a_lomloe.mp3">Tu navegador no soporta audio embebido.</audio> | [MP3](episodios/podcast_de_moyano_a_lomloe.mp3) |
+| Estrés docente | 🎧 [Escuchar](episodios/podcast_estres_docente.mp3)<br><audio controls preload="none" src="episodios/podcast_estres_docente.mp3">Tu navegador no soporta audio embebido.</audio> | [MP3](episodios/podcast_estres_docente.mp3) |
+| Diálogo máster / educación | 🎧 [Escuchar](episodios/dialogo_master_educacion.mp3)<br><audio controls preload="none" src="episodios/dialogo_master_educacion.mp3">Tu navegador no soporta audio embebido.</audio> | [MP3](episodios/dialogo_master_educacion.mp3) |
 
 ## Guiones (texto)
 

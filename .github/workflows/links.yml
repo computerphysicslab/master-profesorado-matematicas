@@ -6,6 +6,11 @@ on:
   pull_request:
   workflow_dispatch:
 
+# Evita acumulación de runs: un push nuevo cancela el check anterior del mismo workflow
+concurrency:
+  group: check-links-${{ github.workflow }}-${{ github.ref }}
+  cancel-in-progress: true
+
 jobs:
   lychee:
     runs-on: ubuntu-latest
@@ -17,13 +22,15 @@ jobs:
           args: >-
             --verbose
             --no-progress
-            --timeout 20
-            --max-concurrency 8
+            --timeout 30
+            --max-concurrency 4
             --accept 200,204,206,301,302,307,308,429
             --exclude-mail
             --exclude 'file://'
             --exclude 'localhost'
             --exclude '127.0.0.1'
+            --exclude-path 'node_modules'
+            --exclude-path '.git'
             '**/*.md'
           fail: false
         env:

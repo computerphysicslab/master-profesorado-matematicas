@@ -12,6 +12,10 @@ Sección del repositorio del Máster de Profesorado de Matemáticas.
 
 Esta carpeta organiza documentación, guiones, recursos y episodios de podcasts relacionados con el aprendizaje y la enseñanza de las Matemáticas.
 
+## Escuchar
+
+Consulta el **[INDICE.md](INDICE.md)** para la lista completa con botones **🎧 Escuchar** y reproductores embebidos.
+
 ## Estructura
 
 | Carpeta | Contenido |
