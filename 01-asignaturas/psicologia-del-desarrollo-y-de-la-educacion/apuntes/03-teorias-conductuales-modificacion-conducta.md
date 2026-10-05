@@ -5,7 +5,7 @@
 
 > Útil para **gestión de aula**, hábitos y convivencia. No explica por sí solo la comprensión matemática profunda; se complementa con cognición (Tema 4) y motivación (Tema 5).
 
-**Podcast del repo:** [Pávlov, Skinner y Erikson en Matemáticas](../../../08-podcasts/recursos/podcast_Pavlov_Skinner_Erikson_Matematicas.mp3)
+**Podcast del repo:** 🎧 [Escuchar — Pávlov, Skinner y Erikson en Matemáticas](../../../08-podcasts/recursos/podcast_Pavlov_Skinner_Erikson_Matematicas.mp3)
 
 ---
 
@@ -102,4 +102,4 @@ A veces lo que parece “disruptivo” es **evitación** por tarea fuera de ZDP 
 - [Tema 4 — Cognición / ZDP](04-procesamiento-informacion-teorias-cognitivas.md)  
 - [Tema 5 — Motivación](05-motivacion-ensenanza-aprendizaje.md)  
 - [Convivencia y mediación (Procesos)](../../procesos-y-contextos-educativos/materiales/guia-convivencia-mediacion.md)  
-- [Podcast Pávlov, Skinner y Erikson](../../../08-podcasts/recursos/podcast_Pavlov_Skinner_Erikson_Matematicas.mp3)  
+- 🎧 [Escuchar — Podcast Pávlov, Skinner y Erikson](../../../08-podcasts/recursos/podcast_Pavlov_Skinner_Erikson_Matematicas.mp3)  
