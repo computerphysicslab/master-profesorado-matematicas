@@ -10,7 +10,7 @@ Este apunte abre el bloque de **desarrollo**. El resto del programa y los materi
 | Paso | Recurso | Para qué |
 |------|---------|----------|
 | **1** | Este apunte (Tema 1) | Adolescencia, identidad, pensamiento formal |
-| **1b** | [Podcast audio (~17 min)](../../../08-podcasts/episodios/podcast_desarrollo_adolescencia.mp3) · [Guion](../../../08-podcasts/guiones/podcast_desarrollo_adolescencia.md) | Narración del tema con autoevaluaciones |
+| **1b** | [Podcast audio (~17 min)](../../../08-podcasts/episodios/podcast_desarrollo_adolescencia.mp3) · [Guion](../../../08-podcasts/guiones/podcast_desarrollo_adolescencia.md) · [Alternativa: Detrás del «soy malo en mates»](../../../08-podcasts/episodios/Detrás_del_soy_malo_en_matemáticas.m4a) | Narración del tema + identidad académica |
 | **1c** | [Entrevista Lucía, mi pediatra — Adolescencia](../materiales/entrevista-lucia-mi-pediatra-adolescencia.md) | Divulgación actual: poda neuronal, identidad, límites, presión de grupo, pantallas |
 | **2** | [Tema 2](02-diferencias-individuales-problemas-adolescencia.md) + [neurodivergencia](../materiales/neurodivergencia-aula-matematicas.md) · [discalculia](../materiales/discalculia-y-dea-matematicas.md) · [suicidio/rol docente](../materiales/suicidio-juvenil-rrss-rol-docente.md) | Diversidad y riesgos (observar / derivar) |
 | **3** | [Tema 3](03-teorias-conductuales-modificacion-conducta.md) + [ABC](../materiales/registro-abc-conducta.md) | Gestión de conducta ética |
@@ -253,6 +253,7 @@ La búsqueda de autonomía **no tiene por qué** derivar en conflicto permanente
 ## Material relacionado
 
 - **Podcast:** [Audio — Desarrollo evolutivo en la adolescencia (~17 min)](../../../08-podcasts/episodios/podcast_desarrollo_adolescencia.mp3) · [Guion](../../../08-podcasts/guiones/podcast_desarrollo_adolescencia.md)
+- **Podcast alternativo:** [Detrás del «soy malo en matemáticas»](../../../08-podcasts/episodios/Detrás_del_soy_malo_en_matemáticas.m4a) (identidad académica, autoestima, feedback)
 - [Entrevista Lucía, mi pediatra — Adolescencia](../materiales/entrevista-lucia-mi-pediatra-adolescencia.md) (divulgación actual: poda neuronal, identidad, límites, presión de grupo, pantallas)
 - [Tema 2 — Diferencias y problemas](02-diferencias-individuales-problemas-adolescencia.md)  
 - [Tema 4 — Procesamiento y teorías cognoscitivas](04-procesamiento-informacion-teorias-cognitivas.md)  
