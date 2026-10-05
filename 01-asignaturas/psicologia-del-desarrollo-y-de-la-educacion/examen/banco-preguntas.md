@@ -3,6 +3,9 @@
 Preguntas orientativas a partir de los apuntes y materiales del repositorio.  
 **Especialidad:** Matemáticas · ESO y Bachillerato.
 
+**Exámenes por nivel:** [fácil](examen-facil.md) · [intermedio](examen-intermedio.md) · [difícil](examen-dificil.md)  
+**Autocorrección:** [respuestas-autocorreccion.md](respuestas-autocorreccion.md)
+
 ---
 
 ## Tema 1 · Desarrollo evolutivo en la adolescencia
@@ -22,6 +25,20 @@ Preguntas orientativas a partir de los apuntes y materiales del repositorio.
 5. ¿Qué debe hacer el docente de Matemáticas ante la sospecha de una dificultad específica de aprendizaje (p. ej. discalculia)? ¿Qué no debe hacer?
 
 6. Caso: un alumno evita salir a la pizarra, se bloquea en los exámenes de mates y dice “no se me dan”. Propón dos intervenciones de aula coherentes con el material de la asignatura (sin diagnosticar).
+
+---
+
+## Tema 3 · Teorías conductuales y modificación de conducta
+
+20. Diferencia **refuerzo positivo**, **refuerzo negativo** y **castigo** con un ejemplo de cada uno en el aula de Matemáticas.
+
+21. Explica qué es un registro **ABC** y completa uno breve para la conducta “no inicia el problema y habla con el compañero”.
+
+22. **Verdadero o falso (justifica):** “Bajar la nota de Matemáticas es una forma adecuada de modificar la conducta disruptiva.”
+
+23. Diseña un **moldeado** de tres pasos para que un alumno pase de no abrir el cuaderno a completar el primer apartado de un problema.
+
+24. ¿Cuándo basta una intervención conductual de aula y cuándo hay que activar el **plan de convivencia** o derivar a tutoría/orientación?
 
 ---
 
@@ -68,6 +85,8 @@ Preguntas orientativas a partir de los apuntes y materiales del repositorio.
 
 19. “La mayoría de los problemas de rendimiento en Matemáticas en la adolescencia se deben a falta de madurez cognitiva.” Argumenta a favor o en contra usando al menos tres conceptos del temario (p. ej. operaciones formales, atribuciones, carga cognitiva, ansiedad, ZDP).
 
+25. Explica el rol del docente ante señales de posible riesgo suicida: observación, derivación, límites (no terapia), y el valor del clima de aula de Matemáticas como factor protector.
+
 ---
 
-*Última actualización: a partir de apuntes y materiales del repo (Temas 1, 2, 4, 5 y materiales de carga cognitiva, ZDP, mindset y discalculia).*
+*Última actualización: temas 1–5 (incluye conducta/ABC) + exámenes por nivel con autocorrección.*

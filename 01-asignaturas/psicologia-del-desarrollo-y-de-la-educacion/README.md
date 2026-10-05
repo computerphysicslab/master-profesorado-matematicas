@@ -58,17 +58,19 @@ Documento: **[programa.md](programa.md)** · Índice de apuntes: **[apuntes/READ
 - [Ventana de Johari (habilidades comunicativas)](../optativas/habilidades-comunicativas-para-docentes/materiales/ventana-de-johari-docencia-matematicas.md)
 - [DUA (Procesos y contextos)](../procesos-y-contextos-educativos/materiales/dua-diseno-universal-aprendizaje.md)
 
-## Otros recursos de la asignatura
+## Examen
+
+Niveles y autocorrección: **[examen/](examen/)** (fácil · intermedio · difícil).
+
+## Otros recursos
 
 | Recurso |
 |--------|
 | **[Glosario](glosario.md)** |
-| **[Examen — banco de preguntas](examen/)** |
 | **[Bibliografía](bibliografia.md)** |
+| Podcast: [Pávlov, Skinner y Erikson](../../08-podcasts/recursos/podcast_Pavlov_Skinner_Erikson_Matematicas.mp3) |
 
 ## Enlaces del máster
 
-- [Educación emocional (optativa)](../optativas/educacion-emocional-en-el-profesorado/) — estrés, IE, competencias socioemocionales
+- [Educación emocional (optativa)](../optativas/educacion-emocional-en-el-profesorado/)
 - [Procesos y contextos](../procesos-y-contextos-educativos/)
-- [03-materiales/psicologia](../../03-materiales/psicologia/) (copia de apoyo de la ficha de suicidio)
-- Podcast: *Pávlov, Skinner y Erikson* (`08-podcasts/`)
