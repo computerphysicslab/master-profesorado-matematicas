@@ -21,8 +21,11 @@ permalink: /02-apuntes/
 
 → **[INDICE.md](INDICE.md)** — mapa completo con enlaces a Psicología, Procesos, transversales (DUA, evaluación formativa, IA) y recursos.
 
+→ **[Glosario central del máster](glosario-central-master.md)** — términos esenciales unificados (sistema educativo, psicología del aprendizaje, diversidad, emociones y didáctica de las matemáticas).
+
 ### Transversales destacados
 
+- [Glosario central](glosario-central-master.md)
 - [DUA](didactica/dua-diseno-universal-aprendizaje.md)
 - [Evaluación formativa global](evaluacion/evaluacion-formativa-global.md)
 - [IA en el aula de Matemáticas](tecnologia-educativa/ia-en-el-aula-matematicas.md)

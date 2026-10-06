@@ -5,14 +5,22 @@ Mapa de entrada a los apuntes del máster.
 
 ---
 
+## 0. Lenguaje común
+
+| Recurso | Descripción |
+|---------|-------------|
+| **[Glosario central del máster](glosario-central-master.md)** | Selección unificada de términos esenciales (cuatro glosarios de asignatura + didáctica de Matemáticas) |
+
+---
+
 ## 1. Apuntes por asignatura
 
 ### Formación general (S1)
 
 | Asignatura | Apuntes |
 |-----------|--------|
-| [Psicología del desarrollo y de la educación](../01-asignaturas/psicologia-del-desarrollo-y-de-la-educacion/) | [apuntes/](../01-asignaturas/psicologia-del-desarrollo-y-de-la-educacion/apuntes/) — temas 1–5 (adolescencia, diferencias individuales, conductismo, cognición, motivación) |
-| [Procesos y contextos educativos](../01-asignaturas/procesos-y-contextos-educativos/) | [apuntes/](../01-asignaturas/procesos-y-contextos-educativos/apuntes/) — temas 1–6 (historia/paradigmas, estructura del sistema, centros, diversidad, metodología, evaluación) |
+| [Psicología del desarrollo y de la educación](../01-asignaturas/psicologia-del-desarrollo-y-de-la-educacion/) | [apuntes/](../01-asignaturas/psicologia-del-desarrollo-y-de-la-educacion/apuntes/) — temas 1–5 (adolescencia, diferencias individuales, conductismo, cognición, motivación) · [glosario](../01-asignaturas/psicologia-del-desarrollo-y-de-la-educacion/glosario.md) |
+| [Procesos y contextos educativos](../01-asignaturas/procesos-y-contextos-educativos/) | [apuntes/](../01-asignaturas/procesos-y-contextos-educativos/apuntes/) — temas 1–6 (historia/paradigmas, estructura del sistema, centros, diversidad, metodología, evaluación) · [glosario](../01-asignaturas/procesos-y-contextos-educativos/materiales/glosario-procesos-contextos.md) |
 | [Sociedad, familia y procesos grupales](../01-asignaturas/sociedad-familia-y-procesos-grupales/) | Carpeta de asignatura (apuntes según se incorporen) |
 | [Practicum I](../01-asignaturas/practicum-i/) | Evidencias y guías de observación en la asignatura |
 
@@ -20,7 +28,7 @@ Mapa de entrada a los apuntes del máster.
 
 | Asignatura | Apuntes |
 |-----------|--------|
-| [Diseño curricular e instruccional de Matemáticas](../01-asignaturas/diseno-curricular-e-instruccional-de-matematicas/) | [apuntes/](../01-asignaturas/diseno-curricular-e-instruccional-de-matematicas/apuntes/) (elementos LOMLOE, programación, etc.) |
+| [Diseño curricular e instruccional de Matemáticas](../01-asignaturas/diseno-curricular-e-instruccional-de-matematicas/) | [apuntes/](../01-asignaturas/diseno-curricular-e-instruccional-de-matematicas/apuntes/) (elementos LOMLOE, programación, etc.) · [glosario](../01-asignaturas/diseno-curricular-e-instruccional-de-matematicas/glosario.md) |
 | [Contenidos disciplinares de Matemáticas](../01-asignaturas/contenidos-disciplinares-de-matematicas/) | Según se incorporen |
 | [Diseño de actividades para el aprendizaje de Matemáticas](../01-asignaturas/diseno-de-actividades-para-el-aprendizaje-de-matematicas/) | Según se incorporen |
 | [Innovación e investigación educativa en Matemáticas](../01-asignaturas/innovacion-e-investigacion-educativa-en-matematicas/) | Según se incorporen |
@@ -31,7 +39,7 @@ Mapa de entrada a los apuntes del máster.
 |-----------|--------|
 | [Practicum II](../01-asignaturas/practicum-ii/) / [practicum/](../01-asignaturas/practicum/) | Diario, centro, aula (anonimizado) |
 | [Trabajo fin de Máster](../01-asignaturas/trabajo-fin-de-master/) | Líneas y evidencias |
-| [Optativas](../01-asignaturas/optativas/) | p. ej. educación emocional |
+| [Optativas](../01-asignaturas/optativas/) | p. ej. [educación emocional](../01-asignaturas/optativas/educacion-emocional-en-el-profesorado/) · [glosario](../01-asignaturas/optativas/educacion-emocional-en-el-profesorado/glosario.md) |
 
 Índice de asignaturas: **[01-asignaturas/README.md](../01-asignaturas/README.md)**
 
@@ -43,6 +51,7 @@ Temas que cruzan varias materias; no sustituyen los apuntes de cada asignatura.
 
 | Apunte | Carpeta | Enfoque |
 |--------|---------|--------|
+| [Glosario central del máster](glosario-central-master.md) | raíz de `02-apuntes/` | Lenguaje común unificado |
 | [Diseño Universal para el Aprendizaje (DUA)](didactica/dua-diseno-universal-aprendizaje.md) | `didactica/` | Tres principios, LOMLOE, checklist y ejemplo (sistemas de ecuaciones); enlace al material DUA de Procesos |
 | [Evaluación formativa global](evaluacion/evaluacion-formativa-global.md) | `evaluacion/` | Formativa vs sumativa, feedforward, instrumentos de bajo coste en Matemáticas, alineación criterio–evidencia |
 | [IA en el aula de Matemáticas](tecnologia-educativa/ia-en-el-aula-matematicas.md) | `tecnologia-educativa/` | Usos legítimos, riesgos, tareas IA-conscientes, normas de aula, ética |
@@ -69,6 +78,7 @@ Temas que cruzan varias materias; no sustituyen los apuntes de cada asignatura.
 
 | Carpeta | Estado |
 |---------|--------|
+| *(raíz)* | [Glosario central](glosario-central-master.md) |
 | `didactica/` | Apunte DUA |
 | `evaluacion/` | Apunte evaluación formativa |
 | `tecnologia-educativa/` | Apunte IA en el aula |
