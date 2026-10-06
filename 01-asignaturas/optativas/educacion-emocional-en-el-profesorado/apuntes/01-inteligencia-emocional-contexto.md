@@ -29,6 +29,41 @@ Este enfoque se llama **modelo de habilidad** (*ability model*): la IE se mide p
 
 Para el docente, el modelo de habilidad recuerda que «ser empático» no basta: hay que *percibir* con precisión (¿es ansiedad o aburrimiento?), *comprender* la dinámica (¿la burla de un compañero alimenta la evitación?) y *regular* sin improvisar terapia.
 
+
+#### 2.1.1. Criterios para que la IE sea considerada una inteligencia
+
+Según Mayer y Salovey, para que un constructo merezca el nombre de «inteligencia» deben cumplirse cuatro pasos:
+
+1. **Definirla** con claridad (conectar emoción y cognición de forma que implique *habilidades elevadas*).
+2. **Desarrollar un medio de medición** (preferentemente de rendimiento, no solo autoinforme).
+3. **Demostrar independencia parcial** respecto a inteligencias ya conocidas (correlaciones de bajas a moderadas con inteligencia verbal y espacial).
+4. **Predecir criterios reales** (adaptación, logro, relaciones, etc.).
+
+Históricamente la *inteligencia social* (Thorndike) fracasó en parte porque correlacionaba demasiado alto con las habilidades verbales y espaciales, por lo que no aportaba información nueva. La IE se formuló precisamente para ser más distinta de esas inteligencias tradicionales, manteniendo al mismo tiempo una correlación moderada que la sitúa dentro de la familia de las inteligencias.
+
+#### 2.1.2. Lógica evolutiva de las cuatro ramas
+
+Las cuatro ramas no son un listado arbitrario: siguen una progresión de complejidad:
+
+| Rama | Nivel | Descripción breve |
+|------|-------|-------------------|
+| 1. Percepción | Más básica | Identificar emociones en uno mismo, en otros, en objetos artísticos o en el entorno |
+| 2. Facilitación | Intermedio | Usar la emoción para priorizar el pensamiento, generar estados que favorecen la creatividad o la atención |
+| 3. Comprensión | Más abstracto | Etiquetar, comprender mezclas (celos = tristeza + ira), transiciones emocionales y reglas culturales |
+| 4. Regulación | Más compleja | Modular las emociones propias y ajenas de forma reflexiva para promover crecimiento emocional e intelectual |
+
+La regulación es la más compleja porque exige haber desarrollado las tres anteriores.
+
+#### 2.1.3. Límites predictivos y medición
+
+La IE (medida con pruebas de habilidad como el MSCEIT) explica aproximadamente entre el **10 % y el 20 %** de la varianza en criterios de éxito y adaptación, una vez controlada la inteligencia general y la personalidad. No es un predictor mágico, pero aporta información útil y distinta.
+
+Se distingue claramente:
+
+- **Pruebas de ejecución** (MSCEIT y similares): el sujeto resuelve problemas emocionales con respuestas más o menos correctas.
+- **Autoinformes**: el sujeto dice cómo se ve. Útiles para formación, pero más susceptibles a deseabilidad social.
+
+
 ### 2.2. Popularización: Goleman
 
 Daniel Goleman difundió el término a mediados de los 90 y lo acercó al gran público y a las organizaciones. Su enfoque es más amplio (**modelo mixto**): mezcla habilidades emocionales con rasgos de personalidad, motivación y competencias sociales (autoconciencia, automotivación, empatía, habilidades sociales, etc.).
