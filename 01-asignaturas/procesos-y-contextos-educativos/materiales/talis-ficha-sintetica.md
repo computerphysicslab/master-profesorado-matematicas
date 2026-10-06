@@ -3,40 +3,33 @@
 **Asignatura:** Procesos y contextos educativos  
 **Uso en el máster:** contexto empírico de las condiciones del profesorado de secundaria; enlace con burocratización, bienestar docente y formación inicial.
 
+> **Lectura rápida:** España destaca por **satisfacción laboral alta** y, a la vez, por **estrés elevado por trabajo administrativo y cambios normativos**. El tiempo declarado en tareas administrativas no es el más alto de la OCDE; el problema parece residir también en la *naturaleza* y la fragmentación de las tareas.
+
 ---
 
 ## 1. Qué es TALIS
 
-**TALIS** (*Teaching and Learning International Survey*) es la encuesta internacional de la **OCDE** sobre la enseñanza y el aprendizaje. Recoge la voz de **docentes y directores** (no del alumnado): condiciones de trabajo, prácticas de aula, formación, liderazgo, clima de centro y bienestar.
+*Teaching and Learning International Survey* (OCDE). Encuesta a docentes y directores de centros sobre condiciones de enseñanza, formación, bienestar, liderazgo y clima escolar. No mide rendimiento del alumnado (eso es PISA).
 
-| | |
-|--|--|
-| **Ciclos** | 2008 · 2013 · 2018 · **2024** (resultados 2025) |
-| **Núcleo** | Secundaria inferior (ISCED 2 ≈ ESO) |
-| **Opciones** | Primaria (ISCED 1) · Secundaria superior (ISCED 3) |
-| **Instrumentos** | Cuestionario de docente + cuestionario de director (~45–60 min) |
-| **Naturaleza de los datos** | Autoinforme (percepciones); no observa el aula ni mide rendimiento del alumnado |
-
-**Muestra típica (ISCED 2):** ~200 centros y ~20 docentes por centro por país. En 2024: más de 189.000 docentes y 11.000 directores en ~55 sistemas. En España: ~1.013 centros y más de 17.000 docentes.
+- **Última edición de referencia en esta ficha:** TALIS 2024 (publicación 2025).  
+- **Población principal en los informes de país:** docentes de **secundaria inferior** (ISCED 2 ≈ ESO en España).  
+- **Diseño:** muestreo probabilístico de centros y docentes; autoinforme.
 
 ---
 
-## 2. Qué pregunta (ámbitos)
+## 2. Lectura para el máster (no es un ranking)
 
-1. Perfil y acceso a la profesión  
-2. Formación inicial y desarrollo profesional (inducción, mentoría)  
-3. Prácticas de enseñanza (claridad, activación cognitiva, feedback, gestión del aula, adaptación)  
-4. Evaluación y feedback al docente  
-5. Liderazgo y clima de centro  
-6. Colaboración entre docentes  
-7. Condiciones laborales y bienestar (horas, estrés, satisfacción, intención de dejar la profesión)  
-8. **Novedades 2024:** digital e IA, habilidades socioemocionales, sostenibilidad
+TALIS **no** dice qué sistema es «mejor». Ofrece percepciones comparables. Útil para:
+
+1. Contextualizar la **carga administrativa** y el estrés docente (puente con burocratización).  
+2. Contrastar **formación inicial** y mentoría con la experiencia del propio máster.  
+3. Evitar generalizaciones fáciles («en España los profesores trabajan más horas») sin mirar la desagregación de tareas.
 
 ---
 
-## 3. Cuadro comparativo España – OCDE (TALIS 2024, secundaria inferior)
+## 3. Cuadro España – OCDE (órdenes de magnitud TALIS 2024)
 
-Indicadores útiles para el máster de Profesorado (Matemáticas). Fuentes: OECD TALIS 2024 Database / country note España / informe INEE.
+Cifras orientativas a partir del *country note* de España y del informe internacional; contrastar siempre con las tablas oficiales actualizadas.
 
 | Indicador | España | OCDE (aprox.) | Lectura para el máster |
 |-----------|--------|---------------|------------------------|
@@ -89,6 +82,7 @@ Variación autonómica (ejemplo, trabajo administrativo como fuente de estrés):
 |-----------------|------------------|
 | [Tema 1 — Burocratización (sección 7)](../apuntes/01-evolucion-historica-sistema-educativo-paradigmas.md#7-burocratización-del-trabajo-docente-evolución-histórica-e-hiperregulación) | Estrés administrativo y por cambios normativos |
 | [Análisis histórico de la burocratización](burocratizacion-trabajo-docente-analisis-historico.md) | Evidencia empírica contemporánea de la hiperregulación |
+| 🎧 [Podcast: De la tiza al colapso burocrático](../../../08-podcasts/episodios/De_la_tiza_al_colapso_burocrático.m4a) | Narrativa de la evolución histórica y la carga documental |
 | Psicología — bienestar y estrés docente | Satisfacción, estrés, intención de abandono |
 | Formación del profesorado (el propio máster) | Crítica a la formación inicial; déficit de mentoría |
 | Evaluación en Matemáticas | Tiempo y estrés en corrección en secundaria |
