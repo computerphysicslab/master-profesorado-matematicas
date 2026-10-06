@@ -78,6 +78,9 @@ Proceso multicomponente (fisiológico, cognitivo, expresivo, motivacional) de du
 ### Emoción colectiva
 Estado emocional compartido o reforzado mutuamente en un grupo (ansiedad ante un examen, euforia tras un logro, clima de burla). El docente puede influir en ella mediante el diseño de la tarea, el tono, las normas de error y la gestión del tiempo, sin intervenir caso a caso.
 
+### Emociones básicas (Ekman)
+Conjunto de emociones con expresiones faciales relativamente universales propuesto por Paul Ekman: **alegría, sorpresa, tristeza, ira, miedo y asco**. En el aula sirven como vocabulario mínimo de la rama de *percepción* de la IE: permiten observar y nombrar con más precisión antes de pasar a las emociones secundarias. No agotan el repertorio emocional del alumnado adolescente.
+
 ### Emociones secundarias / complejas (o sociales)
 Emociones que requieren evaluación de uno mismo o de la relación con otros (vergüenza, culpa, orgullo, envidia, celos, empatía, gratitud…). En la adolescencia condicionan con fuerza el clima de aula y la participación (p. ej. vergüenza ante el error en la pizarra).
 
@@ -172,6 +175,7 @@ Evento o serie de eventos que desbordan la capacidad de afrontamiento y pueden d
 | **MSCEIT** | Autoinformes de IE (p. ej. TMMS-24) |
 | **TMMS-24** | Prueba de habilidad o diagnóstico clínico |
 | **Expresar emociones online** | Competencia emocional (e-COM) |
+| **Emociones básicas (Ekman)** | Emociones secundarias (vergüenza, culpa, orgullo…) |
 | **Regulación emocional** | Represión sistemática de la emoción |
 | **Educación emocional** | Terapia individual en el aula |
 | **Empatía** | Aprobar la conducta disruptiva |
