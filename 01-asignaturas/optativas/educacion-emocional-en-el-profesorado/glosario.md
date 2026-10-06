@@ -81,6 +81,8 @@ Estado emocional compartido o reforzado mutuamente en un grupo (ansiedad ante un
 ### Emociones básicas (Ekman)
 Conjunto de emociones con expresiones faciales relativamente universales propuesto por Paul Ekman: **alegría, sorpresa, tristeza, ira, miedo y asco**. En el aula sirven como vocabulario mínimo de la rama de *percepción* de la IE: permiten observar y nombrar con más precisión antes de pasar a las emociones secundarias. No agotan el repertorio emocional del alumnado adolescente.
 
+**Regla nemotécnica:** 😀 Alegría · 😮 Sorpresa · 😢 Tristeza · 😠 Ira · 😨 Miedo · 🤢 Asco
+
 ### Emociones secundarias / complejas (o sociales)
 Emociones que requieren evaluación de uno mismo o de la relación con otros (vergüenza, culpa, orgullo, envidia, celos, empatía, gratitud…). En la adolescencia condicionan con fuerza el clima de aula y la participación (p. ej. vergüenza ante el error en la pizarra).
 
