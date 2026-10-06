@@ -60,6 +60,8 @@ En **4.º ESO** (Matemáticas A / B) los criterios se reformulan con más exigen
 | Personal | Persiste tras un bloqueo; reformula tras un error | Observación; rúbrica socioafectiva |
 | Social | Escucha y mejora la estrategia del equipo | Trabajo cooperativo con roles |
 
+**Pizarras verticales (Thinking Classrooms):** facilitan observar a la vez varias de estas evidencias (estrategias, errores, cooperación, comunicación). Guía práctica y checklist CE ↔ problema: [Thinking Classrooms · Liljedahl](../thinking-classrooms-liljedahl.md).
+
 ---
 
 ## 4. Bachillerato (orientación)
@@ -75,18 +77,19 @@ Los criterios son propios de cada materia y curso: **no copies** la tabla de ESO
 
 ---
 
-## 5. Cómo usar este mapa al programar
+## 5. Cómo usar este mapa al programar (y al analizar una serie de problemas)
 
-1. Elige **pocos criterios prioritarios** por unidad (2–4), no los diez a la vez.  
-2. Diseña **tareas** que los hagan observables ([problemas ricos](../banco-problemas/problemas-ricos.md)).  
+1. Elige **pocos criterios prioritarios** por unidad o sesión (2–4), no los diez a la vez.  
+2. Diseña **tareas** que los hagan observables ([problemas ricos](../banco-problemas/problemas-ricos.md); [Thinking Classrooms](../thinking-classrooms-liljedahl.md)).  
 3. Alinea **instrumentos** con esos criterios ([rúbrica](../plantillas/rubrica-competencial.md)).  
-4. Revisa al final del trimestre: ¿algún foco (p. ej. comunicar o socioafectivo) ha quedado a cero?  
-5. En la [programación anual](../plantillas/programacion-anual.md), reparte criterios a lo largo del curso.
+4. Si trabajas una **serie de problemas en pizarra vertical**, marca por cada ítem qué CE prioriza (checklist en el material Liljedahl).  
+5. Revisa al final del trimestre: ¿algún foco (p. ej. comunicar o socioafectivo) ha quedado a cero?  
+6. En la [programación anual](../plantillas/programacion-anual.md), reparte criterios a lo largo del curso.
 
 ```text
 Competencia específica
     → Criterios del curso (oficiales de tu CCAA)
-        → Tareas y problemas
+        → Tareas y problemas (¿vertical? ¿grupos de 3?)
             → Evidencias e instrumentos
                 → Calificación según normas del centro
 ```
@@ -102,12 +105,15 @@ Competencia específica
 | Ignorar 9 y 10 | El sentido socioafectivo es parte del currículo de Matemáticas |
 | Misma rúbrica genérica para todo | Adapta dimensiones al instrumento |
 | Copiar criterios de otra CCAA sin revisar | Puede haber matices de redacción y de curso |
+| Pizarra vertical sin tarea que haga pensar | La arquitectura de aula no sustituye el diseño de la tarea |
 
 ---
 
 ## 7. Enlaces en el repo
 
 - [Bloque 3 — Elementos del currículo](../../apuntes/03-elementos-curriculo-lomloe.md)
+- [Bloque 8 — Resolución de problemas](../../apuntes/08-resolucion-de-problemas.md)
+- [Thinking Classrooms · Liljedahl](../thinking-classrooms-liljedahl.md)
 - [Sentidos por curso](sentidos-por-curso.md)
 - [Asignaturas ESO/Bachillerato](../asignaturas-eso-bachillerato/)
 - [Plantillas de programación y rúbrica](../plantillas/)
