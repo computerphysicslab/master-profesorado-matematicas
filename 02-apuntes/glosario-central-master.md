@@ -60,6 +60,15 @@ Enfoque para diseñar desde el origen **múltiples formas** de implicación, rep
 ### Distrés (*distress*)
 Estrés percibido como negativo, abrumador o dañino: la demanda supera los recursos de afrontamiento y deteriora el bienestar o el rendimiento. Contrasta con **eustrés**.
 
+### e-COM / e-competencias
+Escala de competencias socioemocionales en redes y entornos digitales (Cebollero et al., 2022): e-conciencia, e-regulación, e-autocontrol de la impulsividad, e-autonomía y e-competencia social. Hallazgo clave: **expresar emociones online no equivale a competencia emocional**.
+
+### Emoción colectiva
+Estado emocional compartido o reforzado en un grupo-clase (ansiedad ante un examen, clima de burla, euforia tras un logro). El docente puede modularla con el diseño de la tarea, el tono y las normas, sin intervenir caso a caso.
+
+### Emociones secundarias / complejas
+Emociones que implican evaluación de uno mismo o de la relación con otros (vergüenza, culpa, orgullo, envidia, celos, empatía…). En la adolescencia condicionan con fuerza la participación y el clima (p. ej. vergüenza ante el error en la pizarra).
+
 ### Error (productivo) / gestión del error
 En didáctica de las matemáticas, el error es **información** sobre el estado del conocimiento, no solo fallo a penalizar. Gestionarlo implica identificarlo, analizarlo y usarlo para reorientar la enseñanza sin humillar.
 
@@ -81,13 +90,16 @@ Emoción o estado ante una meta bloqueada. En el aprendizaje es frecuente e inev
 Procesos de control cognitivo (inhibición, flexibilidad, memoria de trabajo, planificación) esenciales en la resolución de problemas multi-paso y en la autorregulación del estudio.
 
 ### Inteligencia emocional / competencia emocional
-Capacidad de percibir, comprender, usar y regular emociones (modelo de habilidad de Salovey y Mayer). En educación se operativiza como **competencias emocionales** (p. ej. Bisquerra: conciencia, regulación, autonomía, social y para la vida). No convierte al docente en terapeuta.
+Capacidad de percibir, comprender, usar y regular emociones (**modelo de habilidad** de Salovey y Mayer; prueba de referencia: **MSCEIT**). En educación se operativiza como **competencias emocionales** (p. ej. Bisquerra: conciencia, regulación, autonomía, social y para la vida). No convierte al docente en terapeuta. El incremento de varianza explicada suele ser modesto (aprox. 10–20 %) tras controlar inteligencia general y personalidad.
 
 ### Mediación
 Intervención del adulto o del par más experto que facilita el aprendizaje (explicación, pregunta, material, estructura cooperativa). Concepto afín al andamiaje y a la ZDP.
 
 ### Mentalidad de crecimiento (*growth mindset*, Dweck)
 Creencia de que la habilidad (también la matemática) se puede desarrollar con práctica, estrategia y tiempo. Favorece la persistencia ante el error. Contraria a la mentalidad fija. No basta el eslogan: hace falta feedback de proceso y oportunidades reales de mejora.
+
+### MSCEIT
+*Mayer-Salovey-Caruso Emotional Intelligence Test*. Prueba de **habilidad** (rendimiento) de IE. Contrasta con autoinformes como el **TMMS-24**.
 
 ### NEAE
 Necesidades específicas de apoyo educativo. Incluyen medidas **ordinarias** (desde el diseño común y el DUA) y **específicas** (planes individualizados, apoyos especializados). Coordinación con orientación y equipo docente.
@@ -114,6 +126,9 @@ Dimensión del aprendizaje matemático que incluye actitud positiva, perseveranc
 ### Situación de aprendizaje (SA)
 Escenario complejo, abierto y contextualizado que moviliza saberes y permite evidenciar competencias específicas (no un ejercicio cerrado de una sola respuesta correcta).
 
+### TMMS-24 (*Trait Meta-Mood Scale*)
+Autoinforme de IE percibida (atención, claridad, reparación). Muy usado en formación hispanohablante; no es prueba de habilidad ni diagnóstico.
+
 ### Transposición didáctica (Chevallard)
 Conjunto de transformaciones que sufre un saber desde el ámbito de referencia (**saber sabio**) hasta convertirse en objeto de enseñanza (**saber a enseñar**) y en saber enseñado en el aula.
 
@@ -135,6 +150,8 @@ Distancia entre lo que el alumno puede hacer **solo** y lo que puede hacer **con
 | **Feedback** | Solo poner nota |
 | **Mentalidad de crecimiento** | Eslogan sin práctica ni andamiaje |
 | **Educación emocional** | Terapia individual en el aula |
+| **MSCEIT** | Autoinformes de IE (p. ej. TMMS-24) |
+| **Expresar emociones online** | Competencia emocional (e-COM) |
 | **NEAE** | Etiqueta diagnóstica que el docente asigna solo |
 | **SA** | Ficha de ejercicios rutinarios |
 
@@ -162,6 +179,8 @@ Distancia entre lo que el alumno puede hacer **solo** y lo que puede hacer **con
 | **PAT** | Plan de Acción Tutorial |
 | **TALIS** | *Teaching and Learning International Survey* (OCDE) |
 | **PISA** | *Programme for International Student Assessment* (OCDE) |
+| **MSCEIT** | *Mayer-Salovey-Caruso Emotional Intelligence Test* |
+| **TMMS-24** | *Trait Meta-Mood Scale* (versión reducida) |
 
 ---
 
