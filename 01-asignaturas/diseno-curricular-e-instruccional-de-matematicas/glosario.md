@@ -11,7 +11,7 @@ Procedimiento para fundamentar el diseño, el desarrollo y la evaluación de uni
 Desempeño amplio del perfil de salida (p. ej. STEM, comunicación lingüística). No es lo mismo que una competencia específica de la materia.
 
 **Competencia específica (CE)**  
-Desempeño propio de la materia Matemáticas que el alumnado debe poder desplegar movilizando saberes básicos. En ESO se agrupan en cinco ejes (resolución de problemas, razonamiento y prueba, conexiones, comunicación y representación, socioafectivo).
+Desempeño propio de la materia Matemáticas que el alumnado debe poder desplegar movilizando saberes básicos. En ESO se agrupan en cinco ejes (resolución de problemas, razonamiento y prueba, conexiones, comunicación y representación, socioafectivo). Son **diez** CE en ESO (CE.1–CE.10); ver [mapa](materiales/curriculo-lomloe/mapa-competencias-criterios.md).
 
 **Contrato didáctico**  
 Conjunto de expectativas, a menudo implícitas, entre profesor y alumnado sobre qué se espera en clase (quién debe hacer qué, qué cuenta como «respuesta buena», cuándo interviene el docente).
@@ -64,6 +64,9 @@ Conocimiento que en su momento fue útil o «verdadero» en un contexto y que m�
 **Perfil de salida**  
 Conjunto de competencias clave (y descriptores) que se espera al terminar la enseñanza básica; en Bachillerato se adapta a la etapa.
 
+**Pizarra vertical (Thinking Classroom)**  
+Superficie de trabajo vertical y visible (pizarra, panel, ventana) donde grupos pequeños resuelven problemas de pie. Facilita observar estrategias, errores y avances; práctica central de Liljedahl. Material: [Thinking Classrooms](materiales/thinking-classrooms-liljedahl.md).
+
 **Programación didáctica (PD)**  
 Documento de centro/departamento que concreta el currículo oficial en secuenciación, metodología, evaluación, atención a la diversidad, etc., para un curso o materia.
 
@@ -87,6 +90,9 @@ Situación compleja, abierta y contextualizada que moviliza saberes y permite ev
 
 **Situación adidáctica / didáctica**  
 En Brousseau: adidáctica cuando el alumno actúa sobre un medio sin que la intención de enseñar sea el motor explícito de cada gesto; didáctica cuando interviene de forma central la intención de enseñar del profesor (institucionalización, etc.).
+
+**Thinking Classroom (Aula para el pensamiento)**  
+Marco de Peter Liljedahl: conjunto de prácticas (tareas que hacen pensar, grupos aleatorios, superficies verticales, mediación por preguntas, consolidación) para que el alumnado piense matemáticamente de forma visible y compartida. Ver [material](materiales/thinking-classrooms-liljedahl.md).
 
 **Transposición didáctica**  
 Conjunto de transformaciones que sufre un saber desde el ámbito de referencia hasta convertirse en objeto de enseñanza y en saber enseñado (Chevallard).
