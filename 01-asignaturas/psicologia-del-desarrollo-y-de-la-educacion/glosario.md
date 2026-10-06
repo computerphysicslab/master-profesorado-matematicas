@@ -37,6 +37,13 @@ Categoría que agrupa dificultades significativas y persistentes en lectura, esc
 ### Doble excepcionalidad (2e)
 Coexistencia de altas capacidades con una dificultad específica o condición neurodivergente (p. ej. TDAH, TEA, dislexia, discalculia). Requiere atender ambos perfiles: ni solo enriquecer ni solo “remediar”.
 
+### Emociones básicas (Ekman)
+Seis emociones con expresiones faciales relativamente universales: **alegría, sorpresa, tristeza, ira, miedo y asco**. Útiles como vocabulario mínimo para observar el clima del aula (antes de emociones secundarias como vergüenza o culpa).
+
+**Regla nemotécnica:** 😀 Alegría · 😮 Sorpresa · 😢 Tristeza · 😠 Ira · 😨 Miedo · 🤢 Asco
+
+Desarrollo y ejemplos en Matemáticas: optativa [Educación emocional · Tema 1](../optativas/educacion-emocional-en-el-profesorado/apuntes/01-inteligencia-emocional-contexto.md) y [Tema 2](../optativas/educacion-emocional-en-el-profesorado/apuntes/02-naturaleza-de-la-emocion.md).
+
 ### Feedback
 Información que el alumno recibe sobre su desempeño y que puede usar para ajustar el siguiente intento. Puede ser de resultado, correctivo, de proceso/estrategia o de autorregulación. Material: [feedback efectivo](materiales/feedback-efectivo-matematicas.md).
 
