@@ -29,7 +29,7 @@
 | **3. Competencias emocionales e instrumentos** | Modelo pentagonal (conciencia, regulación, autonomía, competencia social, competencias para la vida y el bienestar); marco CASEL; autoevaluación orientativa (no clínica) | ¿Qué competencia necesito reforzar yo como futuro docente? |
 
 **Apuntes:** [tema 1](apuntes/01-inteligencia-emocional-contexto.md) · [tema 2](apuntes/02-naturaleza-de-la-emocion.md) · [tema 3](apuntes/03-competencias-emocionales-instrumentos.md)  
-**Estrés (desarrollo completo, alineado con el Tema 2 de curso):** [estres-impacto-y-gestion-emocional.md](apuntes/estres-impacto-y-gestion-emocional.md) · [ficha modelo transaccional](materiales/01-modelo-transaccional-estres.md)  
+**Estrés (desarrollo completo, alineado con el Tema 2 de curso):** [estres-impacto-y-gestion-emocional.md](apuntes/estres-impacto-y-gestion-emocional.md) · [ficha modelo transaccional](materiales/01-modelo-transaccional-estres.md) · [síntesis modelo transaccional](apuntes/11-modelo-transaccional-educacion-emocional.md)  
 **Lecturas sugeridas:** Darder et al.; guía CASEL (Save the Children); [bibliografía](bibliografia.md) §1–2.
 
 ---
@@ -43,6 +43,7 @@
 | **6. La educación emocional como reto educativo** | Objetivos de la EE; programas universales vs. indicados; evidencia (p. ej. metaanálisis SEL); integración en materias, no solo en tutorías | ¿Qué puede hacer el profesor de Matemáticas *dentro* de su materia? |
 | **7. Aportaciones de las neurociencias (neuroeducación)** | Emoción y memoria; estrés y función ejecutiva; plasticidad; precauciones ante el «neuromito» | ¿Qué ideas neurocientíficas son útiles y cuáles hay que matizar? |
 
+**Apuntes:** [tema 4](apuntes/04-psicologia-positiva-bienestar.md) · [tema 5](apuntes/05-emocion-y-motivacion.md) · [tema 6](apuntes/06-educacion-emocional-reto-educativo.md) · [tema 7](apuntes/07-neuroeducacion-precauciones.md)  
 **Lecturas sugeridas:** Durlak et al. (2011); Seifert & Sutton; Barroso et al. / Aldrup et al. (ansiedad matemática).
 
 ---
@@ -69,7 +70,7 @@ Ajustar a horas reales del plan de estudios:
 | 1–2 | A (temas 1–3) + estrés | Mapa personal de competencias + glosario activo |
 | 3–5 | B (temas 4–7) | Breve reseña crítica de un texto abierto |
 | 6–8 | C (temas 8–10) | Diseño de una intervención de aula o de tutoría |
-| Cierre | Integración | Reflexión final / portfolio |
+| Cierre | Integración | Reflexión final / portfolio / autoevaluación con examen de nivel |
 
 ---
 
@@ -93,6 +94,8 @@ Solo a título ilustrativo; prevalece la guía oficial:
 - Trabajo escrito o portfolio (análisis de caso, diseño de actividad, autoevaluación de competencias)  
 - Prueba o presentación según determine el centro  
 
+**Autoevaluación disponible en el repositorio:** exámenes a tres niveles (fácil, intermedio, difícil) con respuestas modelo en [examen/](examen/).
+
 ---
 
 ## Materiales del repositorio
@@ -101,8 +104,9 @@ Solo a título ilustrativo; prevalece la guía oficial:
 |---------|------|
 | Bibliografía comentada | [bibliografia.md](bibliografia.md) |
 | Glosario de términos | [glosario.md](glosario.md) |
-| Apuntes (incl. estrés) | [apuntes/](apuntes/) |
+| Apuntes (incl. estrés y modelo transaccional) | [apuntes/](apuntes/) |
 | Modelo transaccional del estrés | [materiales/01-modelo-transaccional-estres.md](materiales/01-modelo-transaccional-estres.md) |
+| Exámenes a tres niveles + respuestas | [examen/](examen/) |
 | Fichas PDF abiertos | [`09-bibliografia/educacion-emocional/`](../../../09-bibliografia/educacion-emocional/) |
 | Practicum (plantillas anonimizadas) | [`01-asignaturas/practicum/`](../../practicum/) |
 

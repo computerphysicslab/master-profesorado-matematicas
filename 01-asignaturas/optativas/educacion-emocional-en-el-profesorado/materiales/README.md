@@ -26,7 +26,8 @@ Especial atención a la prevención del burnout docente y al clima socioafectivo
 | [Afectividad y motivación intrínseca](afectividad-y-motivacion-intrinseca.md) | Emociones, autodeterminación (Deci y Ryan), ansiedad matemática, prácticas de aula y sentido socioafectivo LOMLOE |
 | [Ventana de Johari aplicada a la docencia de Matemáticas](ventana-de-johari-docencia-matematicas.md) | Autoconocimiento y comunicación: áreas pública, ciega, oculta y desconocida; feedback y autorrevelación; clima de aula de Matemáticas |
 
-**Apunte de síntesis del estrés (tema completo):** [../apuntes/estres-impacto-y-gestion-emocional.md](../apuntes/estres-impacto-y-gestion-emocional.md)
+**Apunte de síntesis del estrés (tema completo):** [../apuntes/estres-impacto-y-gestion-emocional.md](../apuntes/estres-impacto-y-gestion-emocional.md)  
+**Síntesis del modelo transaccional aplicada a EE:** [../apuntes/11-modelo-transaccional-educacion-emocional.md](../apuntes/11-modelo-transaccional-educacion-emocional.md)
 
 ## Uso recomendado
 
@@ -35,13 +36,15 @@ Especial atención a la prevención del burnout docente y al clima socioafectivo
 3. Utilizar las propuestas de actividades como punto de partida para el diseño propio (nunca copiar literalmente).
 4. Consultar afectividad/motivación y Ventana de Johari para el puente al aula de Matemáticas.
 5. Consultar las referencias para profundizar.
+6. Autoevaluarse con los [exámenes a tres niveles](../examen/).
 
 ## Enlaces relacionados en el máster
 
-- [Apuntes de la optativa](../apuntes/) · [Programa](../programa.md) · [Glosario](../glosario.md)
+- [Apuntes de la optativa](../apuntes/) · [Programa](../programa.md) · [Glosario](../glosario.md) · [Bibliografía](../bibliografia.md)
 - [Bibliografía educación emocional](../../../../09-bibliografia/educacion-emocional/)
 - [Materiales de Psicología](../../psicologia-del-desarrollo-y-de-la-educacion/materiales/) (mindset, autoeficacia, gestión del error, suicidio juvenil y protocolos de derivación)
 - [03-materiales/psicologia](../../../../03-materiales/psicologia/) (ficha suicidio + protocolos Aragón)
+- [DUA](../../procesos-y-contextos-educativos/materiales/dua-diseno-universal-aprendizaje.md)
 
 ## Notas
 
