@@ -148,6 +148,16 @@ Schoenfeld y otros subrayan también: recursos, heurísticas, control (metacogni
 | **Investigación guiada** | Conjeturar, probar casos, generalizar |
 | **Trabajo cooperativo** | Roles (representa, calcula, explica, revisa) |
 | **Situaciones de aprendizaje (LOMLOE)** | Escenarios que movilizan competencias y saberes integrados |
+| **Thinking Classrooms (Liljedahl)** | Tareas que hacen pensar, grupos de tres, **pizarras verticales**, mediación por preguntas, consolidación posterior |
+
+### 7.1. Thinking Classrooms y pizarras verticales (puente con LOMLOE)
+
+Liljedahl propone una **arquitectura de aula** para que el pensamiento sea necesario y visible: problemas no rutinarios, grupos aleatorios de tres, trabajo en superficies verticales, respuestas del profesor en forma de pregunta y formalización *después* de la exploración.
+
+Encaja con las **10 competencias específicas** (sobre todo CE.1–3, 7–10) y con la idea de no eliminar de inmediato la dificultad: validación breve → retorno a la tarea → apoyo mínimo para seguir pensando.
+
+Material completo (14 prácticas, mapa CE ↔ prácticas, checklist para analizar una serie de problemas):  
+**[Thinking Classrooms · Liljedahl](../materiales/thinking-classrooms-liljedahl.md)** · [mapa CE–criterios](../materiales/curriculo-lomloe/mapa-competencias-criterios.md).
 
 No hace falta etiquetar cada sesión con una sigla: hace falta **intención didáctica** clara.
 
@@ -305,6 +315,8 @@ Diseña **una sesión** (50–55 min) centrada en un problema:
 ## Material relacionado
 
 - [Programa de la asignatura](../programa.md)
+- **[Thinking Classrooms · Liljedahl (pizarras verticales + CE)](../materiales/thinking-classrooms-liljedahl.md)**
+- [Mapa competencias específicas–criterios](../materiales/curriculo-lomloe/mapa-competencias-criterios.md)
 - [Bloque 5 — Epistemología y fenomenología](05-fundamentos-epistemologicos-fenomenologicos.md)
 - [Bloque 7 — Dificultades y obstáculos](07-dificultades-y-obstaculos.md)
 - [Bloque 9 — Génesis escolar de los objetos](09-genesis-escolar-objetos-matematicos.md)
