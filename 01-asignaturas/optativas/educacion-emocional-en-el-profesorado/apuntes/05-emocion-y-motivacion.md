@@ -17,6 +17,8 @@ Emoción en la actividad → interpretación (“puedo / me amenazan”)
         → calidad motivacional → esfuerzo y estrategias de aprendizaje
 ```
 
+En el aula de Matemáticas esto se ve con claridad: el mismo problema de sistemas puede generar **eustrés** (reto alcanzable) o **distrés** (amenaza de ridículo) según el clima, el andamiaje y la forma de corregir.
+
 ---
 
 ## 2. Autodeterminación (Deci y Ryan) — resumen operativo
@@ -27,7 +29,7 @@ Emoción en la actividad → interpretación (“puedo / me amenazan”)
 | **Competencia** | Reto alcanzable; feedback de proceso; progreso visible |
 | **Relación** | Respeto al error; no ridículo en la pizarra; roles cooperativos justos |
 
-Cuando fallan, sube la motivación de evitación y baja la calidad del aprendizaje.
+Cuando fallan, sube la motivación de evitación y baja la calidad del aprendizaje. El docente puede **diseñar** para satisfacer (parcialmente) estas necesidades sin rebajar el criterio de evaluación.
 
 ---
 
@@ -37,7 +39,9 @@ Cuando fallan, sube la motivación de evitación y baja la calidad del aprendiza
 - Relación a menudo **bidireccional**: dificultad ↔ ansiedad.  
 - Bajar la exigencia a cero no es la solución; sí reducir la **amenaza** (exposición pública forzada sin red, comparaciones, tiempo irreal).
 
-**Sensibilidad docente:** percibir malestar y ajustar (tiempo extra formativo, pista parcial, pregunta en privado) sin etiquetar.
+**Sensibilidad docente:** percibir malestar y ajustar (tiempo extra formativo, pista parcial, pregunta en privado) sin etiquetar. Estudios (p. ej. Aldrup et al.) sugieren que la sensibilidad del profesor puede moderar la relación ansiedad–rendimiento.
+
+Ver también: [glosario — ansiedad matemática](../glosario.md) y meta-análisis de Barroso et al. en [bibliografía](../bibliografia.md).
 
 ---
 
@@ -50,8 +54,9 @@ Cuando fallan, sube la motivación de evitación y baja la calidad del aprendiza
 | Un único camino válido | Varias representaciones (DUA) |
 | Exámenes sin feedback previo | Tickets de salida y práctica con sentido |
 | Competición permanente por nota | Retos de mejora personal o de equipo |
+| Exposición forzosa a la pizarra el primer día | Exposición gradual (pareja → pizarra con andamiaje) |
 
-La exigencia se mantiene en los **criterios de evaluación**; cambia el clima y el andamiaje.
+La exigencia se mantiene en los **criterios de evaluación**; cambia el clima y el andamiaje. Esto es coherente con el sentido socioafectivo de la LOMLOE y con el DUA.
 
 ---
 
@@ -62,11 +67,17 @@ La exigencia se mantiene en los **criterios de evaluación**; cambia el clima y 
 | **Maestría** | Aprender y mejorar | Preferible para mates a largo plazo |
 | **Resultado / ego** | Quedar por encima de otros | Fragilidad ante el error |
 
-El diseño docente puede empujar hacia maestría: valorar estrategias, reintentos y explicación.
+El diseño docente puede empujar hacia maestría: valorar estrategias, reintentos y explicación. El feedback del tipo “has mejorado en la justificación del paso 3” orienta a maestría; el ranking público orienta a ego.
 
 ---
 
-## 6. Respuesta a la pregunta guía
+## 6. Conexión con el modelo transaccional
+
+La valoración primaria (“¿es amenaza o reto?”) y la secundaria (“¿tengo recursos?”) determinan en gran medida la emoción y, con ella, la calidad de la motivación. Por eso el [modelo transaccional](11-modelo-transaccional-educacion-emocional.md) y el [apunte de estrés](estres-impacto-y-gestion-emocional.md) son complementarios de este tema.
+
+---
+
+## 7. Respuesta a la pregunta guía
 
 > *¿Qué prácticas aumentan la amenaza y cuáles la reducen sin bajar la exigencia?*
 
@@ -78,4 +89,6 @@ Aumentan la amenaza el ridículo, la prisa evaluativa y el único camino rígido
 
 - Material completo: [afectividad-y-motivacion-intrinseca.md](../materiales/afectividad-y-motivacion-intrinseca.md)  
 - [Tema 6 — EE como reto educativo](06-educacion-emocional-reto-educativo.md)  
+- [Tema 4 — Bienestar](04-psicologia-positiva-bienestar.md)  
 - [DUA](../../procesos-y-contextos-educativos/materiales/dua-diseno-universal-aprendizaje.md)  
+- [Modelo transaccional](11-modelo-transaccional-educacion-emocional.md)  

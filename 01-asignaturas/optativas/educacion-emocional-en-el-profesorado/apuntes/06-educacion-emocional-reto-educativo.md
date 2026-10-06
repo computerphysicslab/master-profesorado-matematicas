@@ -15,13 +15,19 @@ Pregunta guía: *¿Qué puede hacer el profesor de Matemáticas dentro de su mat
 | Observar, prevenir, enseñar, derivar | Diagnosticar trastornos |
 | Universal (para todo el grupo) e indicada (cuando hay más necesidad) | Solo para “los problemáticos” |
 
+La optativa insiste en el **rol del docente**: no forma clínicos. Ante malestar grave o riesgo, se activa el protocolo del centro.
+
 ---
 
 ## 2. Evidencia orientativa
 
-Meta-análisis sobre programas de **aprendizaje social y emocional (SEL)** (p. ej. línea Durlak et al.) sugieren efectos positivos medios en competencias sociales, actitudes y, en muchos casos, rendimiento académico — cuando los programas están **bien implementados** (formación docente, duración, clima de centro).
+Meta-análisis sobre programas de **aprendizaje social y emocional (SEL)** (p. ej. Durlak et al., 2011) sugieren efectos positivos medios en competencias sociales, actitudes y, en muchos casos, rendimiento académico — cuando los programas están **bien implementados** (formación docente, duración, clima de centro).
 
 Implicación: la EE “de cartel” sin práctica coherente aporta poco; la integrada en normas, tareas y feedback aporta más.
+
+Otras revisiones (Pedrini et al. sobre regulación emocional en adolescentes) refuerzan la utilidad de intervenciones escolares bien diseñadas, siempre dentro de los límites del rol docente.
+
+Ver [bibliografía](../bibliografia.md) §2.2.
 
 ---
 
@@ -33,6 +39,8 @@ Implicación: la EE “de cartel” sin práctica coherente aporta poco; la inte
 | **Tutoría / PAT** | Convivencia, autoestima, hábitos, mediación ligera |
 | **Centro** | Plan de convivencia; coherencia de sanciones y reconocimientos |
 | **Familias** | Mensajes alineados (sin cargar al docente de rol clínico) |
+
+La integración en la **materia** es la que más controla el profesor de Matemáticas y la que más impacto tiene en la ansiedad matemática y en la tolerancia a la frustración.
 
 ---
 
@@ -46,6 +54,8 @@ Implicación: la EE “de cartel” sin práctica coherente aporta poco; la inte
 
 No hace falta un “taller de emociones” semanal si cada semana la clase de mates **entrena** tolerancia a la frustración y comunicación matemática.
 
+Plantillas orientativas: [propuestas-actividades.md](../materiales/propuestas-actividades.md).
+
 ---
 
 ## 5. Programas universales vs. indicados
@@ -55,11 +65,19 @@ No hace falta un “taller de emociones” semanal si cada semana la clase de ma
 | **Universal** | Todo el grupo | Superficialidad si no hay continuidad |
 | **Indicado / selectivo** | Alumnado con más necesidad | Estigmatización si se etiqueta en público |
 
-Lo ordinario bien hecho (clima + DUA + feedback) reduce la necesidad de lo extraordinario.
+Lo ordinario bien hecho (clima + DUA + feedback) reduce la necesidad de lo extraordinario. Cuando se activa lo indicado, se hace desde tutoría/orientación, no improvisando diagnóstico en la hora de mates.
 
 ---
 
-## 6. Respuesta a la pregunta guía
+## 6. Sentido socioafectivo LOMLOE y Matemáticas
+
+La LOMLOE incorpora el sentido socioafectivo como parte del aprendizaje de las Matemáticas: actitud positiva, perseverancia, respeto, confianza. El profesor de la materia es el agente natural de este sentido; no es un “extra” de tutoría.
+
+Conexión con [afectividad y motivación](../materiales/afectividad-y-motivacion-intrinseca.md) y con el [Tema 8](08-emociones-pat-aula.md).
+
+---
+
+## 7. Respuesta a la pregunta guía
 
 > *¿Qué puede hacer el profesor de Matemáticas dentro de su materia?*
 
@@ -70,5 +88,6 @@ Integrar el sentido socioafectivo en el **diseño de tareas, el feedback y las n
 ## Para seguir
 
 - [Tema 5](05-emocion-y-motivacion.md) · [Tema 7 — Neuroeducación](07-neuroeducacion-precauciones.md)  
-- [Tema 4 de Procesos — inclusión](../../procesos-y-contextos-educativos/apuntes/04-atencion-diversidad-perspectiva-inclusiva.md)  
+- [Tema 8 — PAT y aula](08-emociones-pat-aula.md)  
+- [Propuestas de actividades](../materiales/propuestas-actividades.md)  
 - [Bibliografía](../bibliografia.md)  

@@ -1,6 +1,6 @@
 # 11. El modelo transaccional en Educación Emocional
 
-> **Conexiones:** [02-naturaleza-de-la-emocion.md](02-naturaleza-de-la-emocion.md) · [05-emocion-y-motivacion.md](05-emocion-y-motivacion.md) · [08-emociones-pat-aula.md](08-emociones-pat-aula.md) · [09-emociones-salud-profesorado.md](09-emociones-salud-profesorado.md) · [10-sintesis-casos-matematicas.md](10-sintesis-casos-matematicas.md)
+> **Conexiones:** [02-naturaleza-de-la-emocion.md](02-naturaleza-de-la-emocion.md) · [05-emocion-y-motivacion.md](05-emocion-y-motivacion.md) · [08-emociones-pat-aula.md](08-emociones-pat-aula.md) · [09-emociones-salud-profesorado.md](09-emociones-salud-profesorado.md) · [10-sintesis-casos-matematicas.md](10-sintesis-casos-matematicas.md) · [estres-impacto-y-gestion-emocional.md](estres-impacto-y-gestion-emocional.md)
 
 ## 1. Idea fundamental
 
@@ -47,8 +47,8 @@ La situación puede percibirse como:
 La persona evalúa sus **recursos y posibilidades de afrontamiento**: habilidades, apoyos disponibles, tiempo, estrategias conocidas.
 
 ### Ejemplo
-> «El examen es difícil» → valoración primaria: **amenaza**.
-> «Pero tengo tres días y puedo pedir ayuda» → valoración secundaria: **tengo recursos**.
+> «El examen es difícil» → valoración primaria: **amenaza**.  
+> «Pero tengo tres días y puedo pedir ayuda» → valoración secundaria: **tengo recursos**.  
 > Resultado: disminuye la ansiedad y aumenta la **percepción de control**.
 
 La emoción resultante depende, por tanto, del **balance** entre las demandas percibidas y los recursos percibidos. No es la situación objetiva la que determina la emoción, sino la **transacción** entre la persona y la situación tal como es interpretada.
@@ -96,29 +96,29 @@ La persona interpreta la situación → esa interpretación genera una respuesta
 Por eso, en Educación Emocional, **modificar la interpretación de una situación y aumentar los recursos percibidos de afrontamiento puede modificar la experiencia emocional**, incluso cuando la situación externa no cambia.
 
 ### Círculo vicioso
-> «No entiendo este problema»
-> ↓
-> «Soy malo en Matemáticas»
-> ↓
-> ansiedad
-> ↓
-> evito intentarlo
-> ↓
-> fracaso
-> ↓
+> «No entiendo este problema»  
+> ↓  
+> «Soy malo en Matemáticas»  
+> ↓  
+> ansiedad  
+> ↓  
+> evito intentarlo  
+> ↓  
+> fracaso  
+> ↓  
 > «Ya sabía que no podía».
 
 ### Intervención que rompe el círculo
-> «Todavía no entiendo este problema» *(añadir "todavía")*
-> ↓
-> identificar qué parte no se comprende
-> ↓
-> pedir ayuda / probar otra estrategia
-> ↓
-> pequeño éxito
-> ↓
-> aumenta la autoeficacia
-> ↓
+> «Todavía no entiendo este problema» *(añadir "todavía")*  
+> ↓  
+> identificar qué parte no se comprende  
+> ↓  
+> pedir ayuda / probar otra estrategia  
+> ↓  
+> pequeño éxito  
+> ↓  
+> aumenta la autoeficacia  
+> ↓  
 > afrontar el siguiente problema.
 
 Esta perspectiva conecta directamente con:
@@ -131,7 +131,7 @@ Esta perspectiva conecta directamente con:
 
 1. **Trabajar el lenguaje de la valoración.** Enseñar a distinguir entre «no puedo» y «todavía no puedo», entre «esto es imposible» y «esto requiere más pasos».
 2. **Explicitar la valoración secundaria.** Preguntar al alumnado: «¿Qué recursos tienes para afrontar esto? ¿A quién puedes pedir ayuda? ¿Qué estrategia ya te ha funcionado antes?».
-3. **Diseñar situaciones con nivel de desafío ajustado.** Si la demanda percibida supera con creces los recursos percibidos, la valoración primaria será de amenaza. Ajustar el reto a la ZDP (ver [Vygotsky](../autores-pensadores/vygotsky.md)) favorece la valoración de desafío.
+3. **Diseñar situaciones con nivel de desafío ajustado.** Si la demanda percibida supera con creces los recursos percibidos, la valoración primaria será de amenaza. Ajustar el reto a la zona de desarrollo próximo favorece la valoración de desafío.
 4. **Normalizar el error y el bloqueo.** Desdramatizar la dificultad reduce la amenaza percibida y permite reinterpretar la situación.
 5. **Enseñar estrategias de afrontamiento centradas en el problema.** Técnicas de estudio, planificación, división de tareas, búsqueda de ayuda.
 6. **Modelar el propio proceso.** El profesor puede verbalizar cómo interpreta una dificultad y cómo la afronta, mostrando el ciclo transaccional en acción.
@@ -161,4 +161,5 @@ Esta perspectiva conecta directamente con:
 - [05-emocion-y-motivacion.md](05-emocion-y-motivacion.md) — relación entre emoción, motivación y autoeficacia.
 - [08-emociones-pat-aula.md](08-emociones-pat-aula.md) — aplicación del modelo al Plan de Acción Tutorial.
 - [09-emociones-salud-profesorado.md](09-emociones-salud-profesorado.md) — el modelo transaccional aplicado al estrés docente.
-- `../../autores-pensadores/` — fichas de Vygotsky, Bruner, Bandura (si se añade) y otros autores relevantes.
+- [estres-impacto-y-gestion-emocional.md](estres-impacto-y-gestion-emocional.md) — desarrollo completo del estrés.
+- [materiales/01-modelo-transaccional-estres.md](../materiales/01-modelo-transaccional-estres.md) — ficha ampliada.
