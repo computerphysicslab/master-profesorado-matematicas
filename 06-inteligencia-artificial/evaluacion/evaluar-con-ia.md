@@ -29,6 +29,8 @@ No deben confundirse.
 
 Estas estrategias se alinean con la [evaluación formativa global](../../02-apuntes/evaluacion/evaluacion-formativa-global.md).
 
+Para documentar el uso declarado de IA: [plantilla-proceso-ia.md](plantilla-proceso-ia.md).
+
 ---
 
 ## 3. Evaluar el uso de la IA (cuando es objeto de aprendizaje)
@@ -41,7 +43,7 @@ Indicadores posibles:
 - Mejora o corrige la salida de la IA con justificación.
 - Distingue lo que aporta la herramienta de lo que aporta él/ella.
 
-Ver [rúbricas orientativas](rubricas-uso-ia.md).
+Ver [rúbricas orientativas](rubricas-uso-ia.md) y la [plantilla de proceso](plantilla-proceso-ia.md).
 
 ---
 
