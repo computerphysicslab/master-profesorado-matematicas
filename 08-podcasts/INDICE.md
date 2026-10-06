@@ -19,6 +19,7 @@ Registro de episodios relacionados con aprendizaje, enseñanza, Matemáticas, Ci
 
 | Episodio | Escuchar | Archivo |
 |----------|----------|--------|
+| **De la tiza al colapso burocrático** (Procesos Tema 1 — evolución histórica, paradigmas y burocracia) | 🎧 [Escuchar](episodios/De_la_tiza_al_colapso_burocrático.m4a)<br><audio controls preload="none" src="episodios/De_la_tiza_al_colapso_burocrático.m4a">Tu navegador no soporta audio embebido.</audio> | [M4A](episodios/De_la_tiza_al_colapso_burocrático.m4a) |
 | **Desarrollo evolutivo en la adolescencia** (Psicología Tema 1, ~17 min) | 🎧 [Escuchar](episodios/podcast_desarrollo_adolescencia.mp3)<br><audio controls preload="none" src="episodios/podcast_desarrollo_adolescencia.mp3">Tu navegador no soporta audio embebido.</audio> | [MP3](episodios/podcast_desarrollo_adolescencia.mp3) |
 | **Detrás del «soy malo en matemáticas»** (alternativa / identidad académica) | 🎧 [Escuchar](episodios/Detrás_del_soy_malo_en_matemáticas.m4a)<br><audio controls preload="none" src="episodios/Detrás_del_soy_malo_en_matemáticas.m4a">Tu navegador no soporta audio embebido.</audio> | [M4A](episodios/Detrás_del_soy_malo_en_matemáticas.m4a) |
 | Aprender y enseñar Matemáticas (ep. 1) | 🎧 [Escuchar](episodios/podcast_aprender_ensenar_matematicas_ep1.mp3)<br><audio controls preload="none" src="episodios/podcast_aprender_ensenar_matematicas_ep1.mp3">Tu navegador no soporta audio embebido.</audio> | [MP3](episodios/podcast_aprender_ensenar_matematicas_ep1.mp3) |
@@ -30,6 +31,7 @@ Registro de episodios relacionados con aprendizaje, enseñanza, Matemáticas, Ci
 
 | Guion | Archivo |
 |-------|--------|
+| **Evolución histórica del SEE y paradigmas** («De la tiza al colapso burocrático») | [guiones/Evolución histórica del sistema educativo español y paradigmas educativos.md](guiones/Evoluci%C3%B3n%20hist%C3%B3rica%20del%20sistema%20educativo%20espa%C3%B1ol%20y%20paradigmas%20educativos.md) |
 | **Desarrollo evolutivo en la adolescencia** (Psicología Tema 1) | [guiones/podcast_desarrollo_adolescencia.md](guiones/podcast_desarrollo_adolescencia.md) (partes 1 y 2) |
 | De Moyano a LOMLOE | [guiones/De Moyano a LOMLOE.docx](guiones/De%20Moyano%20a%20LOMLOE.docx) |
 | Estrés docente | [guiones/podcast_estres_docente_guion.docx](guiones/podcast_estres_docente_guion.docx) |

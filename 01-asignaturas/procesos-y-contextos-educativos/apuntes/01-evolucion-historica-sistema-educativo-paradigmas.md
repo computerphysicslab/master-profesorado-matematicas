@@ -21,6 +21,8 @@ Este apunte es la **puerta de entrada**. El detalle está en los materiales. Ord
 | **7** | Comparaciones de rendimiento | [PISA 2025](../materiales/leyes-educativas/comparativa-pisa-2025-y-sistemas-internacionales.md) · [PISA 2022](../materiales/pisa-2022-fracaso-escolar-matematicas.md) · [PISA 2018 microdatos Aragón/ESCS](../materiales/pisa-2018-aragon-china/) |
 | **8** | [Comparativa de paradigmas en una tarea de mates](../materiales/comparativa-paradigmas-tarea-matematicas.md) | Aplicación al aula |
 
+**Podcast (escuchar):** 🎧 [De la tiza al colapso burocrático](../../../08-podcasts/episodios/De_la_tiza_al_colapso_burocrático.m4a) — evolución histórica, paradigmas y burocracia docente · [guion](../../../08-podcasts/guiones/Evoluci%C3%B3n%20hist%C3%B3rica%20del%20sistema%20educativo%20espa%C3%B1ol%20y%20paradigmas%20educativos.md)
+
 **Examen:** preguntas de paradigmas, leyes, burocracia y DUA en el [banco de preguntas](../examen/banco-preguntas.md).
 
 ---
