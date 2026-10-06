@@ -29,6 +29,22 @@ Este enfoque se llama **modelo de habilidad** (*ability model*): la IE se mide p
 
 Para el docente, el modelo de habilidad recuerda que «ser empático» no basta: hay que *percibir* con precisión (¿es ansiedad o aburrimiento?), *comprender* la dinámica (¿la burla de un compañero alimenta la evitación?) y *regular* sin improvisar terapia.
 
+#### 2.1.0. Percibir con precisión: las 6 emociones básicas de Ekman
+
+La primera rama de la IE (percibir) necesita un **vocabulario mínimo compartido**. Paul Ekman propuso un conjunto de emociones básicas con expresiones faciales relativamente universales. En el aula conviene tenerlas muy presentes porque son el punto de partida de la observación docente (antes de las emociones secundarias o complejas):
+
+> **Las 6 emociones básicas (Ekman)**
+>
+> | Emoción | Señal típica observable | Ejemplo frecuente en Matemáticas |
+> |---------|-------------------------|----------------------------------|
+> | **Alegría** | Sonrisa, tono abierto, relajación | Resolver un problema difícil; recibir un «sí» tras varios intentos |
+> | **Sorpresa** | Cejas alzadas, boca abierta, parada breve | Un enunciado distinto al esperado; un resultado «imposible» |
+> | **Tristeza** | Caída de mirada/postura, voz baja, desconexión | Nota baja reiterada; sensación de «no avance» |
+> | **Ira** | Tensión facial/corporal, tono alto, gestos bruscos | Frustración cuando «no sale»; reacción a una corrección pública |
+> | **Miedo** | Tensión, evitación de la mirada, bloqueo | Ansiedad ante el examen o ante salir a la pizarra |
+> | **Asco** | Rechazo facial o corporal, apartarse | Rechazo visceral a un tipo de tarea (menos frecuente, pero aparece) |
+
+**Uso docente (sin diagnosticar):** nombrar con precisión («parece miedo a la exposición», «se nota ira ante el error») orienta mejor la respuesta que etiquetas vagas («está nervioso», «tiene mala actitud»). Las emociones **secundarias** (vergüenza, culpa, orgullo, envidia…) se construyen a partir de estas y se desarrollan con más detalle en el [Tema 2](02-naturaleza-de-la-emocion.md).
 
 #### 2.1.1. Criterios para que la IE sea considerada una inteligencia
 
@@ -62,7 +78,6 @@ Se distingue claramente:
 
 - **Pruebas de ejecución** (MSCEIT y similares): el sujeto resuelve problemas emocionales con respuestas más o menos correctas.
 - **Autoinformes**: el sujeto dice cómo se ve. Útiles para formación, pero más susceptibles a deseabilidad social.
-
 
 ### 2.2. Popularización: Goleman
 
@@ -166,6 +181,38 @@ Aquí la IE del docente sirve para **no escalar** y para **proteger el tiempo de
 
 ---
 
+## 5 bis. La IE también en lo digital: e-COM
+
+El aula ya no es el único escenario emocional del alumnado. Gran parte de la interacción entre iguales (y a veces con el profesorado) ocurre en **redes, chats de clase y entornos virtuales**. Allí se mantienen las mismas ramas de la IE (percibir, usar, comprender, regular), pero el contexto cambia:
+
+- Menos pistas no verbales (cara, tono, postura).
+- Más rapidez e impulsividad (respuesta inmediata, «likes», captura de pantalla).
+- Mayor riesgo de comparación social y de rumiación.
+- Posibilidad de anonimato o de identidades múltiples.
+
+La escala **e-COM** (Cebollero, Cano-Escoriaza y Orejudo, 2022) traduce las competencias socioemocionales al entorno digital en cinco dimensiones:
+
+| E-competencia | Idea central |
+|---------------|--------------|
+| **E-conciencia emocional** | Identificar y nombrar lo que se siente al leer comentarios, perfiles o vídeos |
+| **E-regulación emocional** | Modular la respuesta online (antes de publicar, reenviar o reaccionar) |
+| **E-autocontrol de la impulsividad** | Demorar el clic o el comentario ante estímulos impactantes |
+| **E-autonomía emocional** | No depender en exceso de likes, respuestas o estatus online |
+| **E-competencia social** | Empatía y conducta prosocial en redes (calmar, ayudar, no amplificar el conflicto) |
+
+**Hallazgo clave del estudio de validación** (888 adolescentes de Aragón): **expresar emociones online no equivale a competencia emocional**. Hablar de sentimientos en un chat o publicar un estado no implica percibir, comprender o regular de forma adaptativa.
+
+**Implicación para el docente de Matemáticas (y para el tutor):**
+
+- El clima emocional del grupo también se construye (o se destroza) en el grupo de WhatsApp de la clase o en comentarios tras un examen.
+- La misma lógica de límites de rol se aplica online: observar señales, modelar regulación, activar protocolos de centro ante ciberacoso o malestar persistente; no improvisar terapia digital.
+- En tutoría o en actividades transversales se pueden entrenar las e-competencias con escenarios reales (un comentario hiriente tras una nota, una broma que se viraliza, la comparación de resultados en redes).
+
+Desarrollo completo (definiciones operativas, ítems, hallazgos de género/curso y utilidad formativa):  
+**[Competencias socioemocionales y e-COM](../materiales/03-competencias-socioemocionales.md)** · entrada en el [glosario](../glosario.md).
+
+---
+
 ## 6. Límites del rol docente
 
 | El profesor **sí** puede | El profesor **no** debe |
@@ -175,7 +222,7 @@ Aquí la IE del docente sirve para **no escalar** y para **proteger el tiempo de
 | Aplicar normas de convivencia con calma | Convertir cada clase en terapia de grupo |
 | Derivar según protocolo del centro | Cargar en privado con casos graves sin apoyo |
 
-La IE del docente es una **herramienta profesional**, no una licencia para intervenir en la vida psíquica del alumno más allá del marco escolar.
+La IE del docente es una **herramienta profesional**, no una licencia para intervenir en la vida psíquica del alumno más allá del marco escolar. Esto vale tanto en el aula física como en los canales digitales del centro o del grupo.
 
 ---
 
@@ -183,14 +230,14 @@ La IE del docente es una **herramienta profesional**, no una licencia para inter
 
 > *¿Qué aporta la IE al oficio de enseñar sin convertir al docente en terapeuta?*
 
-Aporta **lenguaje, observación y estrategias** para gestionar el propio estado emocional y el clima del aula, de modo que el aprendizaje (también el matemático) sea compatible con el error, la dificultad y la convivencia. No aporta un rol clínico: la frontera está en la **derivación** y en los protocolos del centro.
+Aporta **lenguaje, observación y estrategias** para gestionar el propio estado emocional y el clima del aula (y, cada vez más, del entorno digital del grupo), de modo que el aprendizaje (también el matemático) sea compatible con el error, la dificultad y la convivencia. No aporta un rol clínico: la frontera está en la **derivación** y en los protocolos del centro.
 
 En la práctica: notar → nombrar con mesura → regular la propia respuesta → proteger la tarea y las normas → derivar cuando el caso supera el marco escolar.
 
 ### Idea central (takeaway)
 
 > **La competencia emocional del docente no es terapia.**  
-> Consiste en **notar, nombrar y responder con calma** para que el clima de aprendizaje mejore — sin diagnosticar, sin improvisar intervenciones clínicas y sin olvidar el contexto (normas, desigualdad, diseño de tareas).
+> Consiste en **notar, nombrar y responder con calma** para que el clima de aprendizaje mejore — sin diagnosticar, sin improvisar intervenciones clínicas y sin olvidar el contexto (normas, desigualdad, diseño de tareas, y también la interacción online del alumnado).
 
 ---
 
@@ -202,14 +249,16 @@ En la práctica: notar → nombrar con mesura → regular la propia respuesta �
 | «Si el alumno se frustra, hay que “arreglarle” la emoción antes de seguir.» | Confunde contención breve con terapia. | Validación mínima + retorno a la tarea + apoyo académico concreto; derivación si el malestar es persistente o de riesgo. |
 | «La IE del profesor sustituye las normas y el diseño de la clase.» | Psicologiza problemas de estructura. | Las normas claras y las tareas bien diseñadas *reducen* la carga emocional; la IE no las reemplaza. |
 | «Hablar de emociones en mates es “perder el tiempo de contenidos”.» | Falso si se hace con límites. | Un minuto de regulación y un clima seguro suelen recuperar más tiempo de aprendizaje del que “gastan”. |
+| «Si el alumno expresa emociones en redes, ya “trabaja” su IE.» | Confunde expresión con competencia (e-COM). | Expresar online ≠ percibir, comprender ni regular; hace falta entrenar las e-competencias. |
 
 ---
 
 ## 9. Para seguir
 
-- Glosario: *inteligencia emocional*, *educación emocional*, *competencia emocional*, *SEL*, *regulación emocional* → [glosario.md](../glosario.md).  
-- Lecturas prioritarias: Darder et al. (*La formación emocional del profesorado*); guía CASEL / Save the Children; marco de competencias de Bisquerra y Pérez. Detalle y enlaces: [bibliografia.md](../bibliografia.md).  
-- Siguiente apunte: [02 — Naturaleza de la emoción](02-naturaleza-de-la-emocion.md).
+- Glosario: *inteligencia emocional*, *educación emocional*, *competencia emocional*, *SEL*, *regulación emocional*, *e-COM*, *emociones básicas (Ekman)* → [glosario.md](../glosario.md).  
+- Lecturas prioritarias: Darder et al. (*La formación emocional del profesorado*); guía CASEL / Save the Children; marco de competencias de Bisquerra y Pérez; Cebollero et al. (2022) sobre e-COM. Detalle y enlaces: [bibliografia.md](../bibliografia.md).  
+- Ficha e-COM y TRUST: [materiales/03-competencias-socioemocionales.md](../materiales/03-competencias-socioemocionales.md).  
+- Siguiente apunte: [02 — Naturaleza de la emoción](02-naturaleza-de-la-emocion.md) (emociones secundarias, colectivas, frustración y ansiedad matemática).
 
 ---
 
@@ -225,3 +274,9 @@ Las preguntas no buscan una respuesta única; orientan un criterio profesional. 
 
 **3. Describe una situación de tu materia en la que la regulación emocional del *docente* sea más decisiva que «motivar» al alumno con un discurso genérico.**  
 - *Respuesta sólida:* Describe un momento concreto (error en pizarra, insulto, negativa a participar, propio enfado). Explica *qué* nota el docente en sí mismo, *qué* hace en 30–60 segundos (tono, norma, retorno a la tarea) y *qué* deja para después (tutoría, derivación). Evita el sermón motivacional abstracto («tú puedes»). Criterio de calidad: distingue emoción, conducta y contenido; respeta el límite de rol.
+
+**4. (Nueva)** Nombra las 6 emociones básicas de Ekman y explica por qué interesan al docente de Matemáticas **antes** de hablar de vergüenza o culpa.  
+- *Respuesta sólida:* Alegría, sorpresa, tristeza, ira, miedo y asco. Son el vocabulario mínimo de la rama de *percepción*: permiten observar y nombrar con más precisión (p. ej. miedo a la pizarra vs. ira ante el error) antes de pasar a emociones secundarias más elaboradas.
+
+**5. (Nueva)** ¿Qué implica el hallazgo de e-COM «expresar ≠ competencia» para el trabajo emocional con adolescentes?  
+- *Respuesta sólida:* Que publicar o verbalizar emociones en redes no garantiza percibirlas, comprenderlas ni regularlas. La educación emocional digital debe entrenar las cinco e-competencias (conciencia, regulación, autocontrol, autonomía, competencia social), no limitarse a «hablar de sentimientos» online.
