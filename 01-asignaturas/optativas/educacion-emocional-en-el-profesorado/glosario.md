@@ -66,11 +66,20 @@ Dificultad para modular respuestas emocionales de forma adaptativa (intensidad d
 ### Distrés (*distress*)
 Estrés percibido como negativo, abrumador o dañino; cuando la demanda supera los recursos de afrontamiento y deteriora el bienestar o el rendimiento.
 
+### e-COM / e-competencias
+Escala validada (Cebollero et al., 2022) de competencias de interacción socioemocional en redes y entornos digitales. Cinco dimensiones: **e-conciencia emocional**, **e-regulación emocional**, **e-autocontrol de la impulsividad**, **e-autonomía emocional** y **e-competencia social**. Hallazgo clave del estudio: **expresar emociones online no equivale a competencia emocional**.
+
 ### Educación emocional
 Proceso educativo continuo y sistemático orientado a desarrollar competencias emocionales. Complementa (no sustituye) la instrucción académica.
 
 ### Emoción
 Proceso multicomponente (fisiológico, cognitivo, expresivo, motivacional) de duración relativamente breve ante un estímulo relevante. Distinta del **estado de ánimo** (más difuso y duradero) y del **sentimiento** (experiencia subjetiva elaborada).
+
+### Emoción colectiva
+Estado emocional compartido o reforzado mutuamente en un grupo (ansiedad ante un examen, euforia tras un logro, clima de burla). El docente puede influir en ella mediante el diseño de la tarea, el tono, las normas de error y la gestión del tiempo, sin intervenir caso a caso.
+
+### Emociones secundarias / complejas (o sociales)
+Emociones que requieren evaluación de uno mismo o de la relación con otros (vergüenza, culpa, orgullo, envidia, celos, empatía, gratitud…). En la adolescencia condicionan con fuerza el clima de aula y la participación (p. ej. vergüenza ante el error en la pizarra).
 
 ### Empatía
 Capacidad de comprender y, en cierta medida, compartir el estado emocional de otra persona. Incluye componentes cognitivos y afectivos; no implica justificar cualquier conducta.
@@ -94,7 +103,7 @@ Emoción o estado que surge cuando se bloquea una meta o expectativa. En el apre
 Competencia CASEL: comunicar con claridad, cooperar, negociar conflictos de forma constructiva, pedir y ofrecer ayuda.
 
 ### Inteligencia emocional (*emotional intelligence*, IE)
-Constructo con varias definiciones. En el modelo de habilidad (Salovey y Mayer): percibir, usar, comprender y regular emociones. En modelos mixtos se añaden rasgos de personalidad y motivación (p. ej. popularización de Goleman). En educación suele operativizarse vía **competencias emocionales**.
+Constructo con varias definiciones. En el **modelo de habilidad** (Salovey y Mayer): percibir, usar, comprender y regular emociones; se mide preferentemente con pruebas de rendimiento (p. ej. **MSCEIT**). En modelos mixtos se añaden rasgos de personalidad y motivación (p. ej. popularización de Goleman). En educación suele operativizarse vía **competencias emocionales**. La IE de habilidad explica, de forma típica, un incremento modesto (aprox. 10–20 %) de varianza en criterios de adaptación una vez controlada la inteligencia general y la personalidad.
 
 ### Meta-análisis
 Síntesis estadística de resultados de múltiples estudios sobre el mismo efecto (p. ej. programas SEL y rendimiento).
@@ -102,14 +111,23 @@ Síntesis estadística de resultados de múltiples estudios sobre el mismo efect
 ### Mindfulness (atención plena)
 Práctica de atención al momento presente con actitud de apertura y menor reactividad. En contextos escolares se usa con precaución y formación adecuada.
 
+### Modelo de habilidad (*ability model*)
+Enfoque de Salovey y Mayer: la IE es un conjunto de capacidades de procesamiento emocional (cuatro ramas: percepción → facilitación → comprensión → regulación), medible con pruebas de ejecución. Se distingue de los **modelos mixtos** (rasgos + motivación + competencias sociales).
+
 ### Modelo pentagonal de competencias emocionales
 Propuesta de Bisquerra y Pérez: (1) conciencia emocional, (2) regulación emocional, (3) autonomía emocional, (4) competencia social, (5) competencias para la vida y el bienestar.
 
 ### Motivación intrínseca / extrínseca
 Intrínseca: la actividad se hace por interés o satisfacción inherente. Extrínseca: por consecuencias externas (nota, premio, evitación de castigo). Ambas coexisten en el aula.
 
+### MSCEIT
+*Mayer-Salovey-Caruso Emotional Intelligence Test*. Prueba de **habilidad** (rendimiento) de IE: el sujeto resuelve problemas emocionales con respuestas más o menos correctas. Contrasta con los autoinformes (cómo uno se ve).
+
 ### Neuromito
 Creencia errónea o simplificada sobre el cerebro y el aprendizaje presentada como «ciencia» (p. ej. estilos de aprendizaje como canales fijos). La neuroeducación útil exige evidencia y cautela.
+
+### Niveles de conciencia emocional (Lane & Schwartz)
+Continuum de complejidad en la identificación y elaboración de emociones (desde sensaciones físicas indiferenciadas hasta meta-conciencia relacional). En formación se ilustra a veces con casos (Ana, Begoña, Ernesto). Sirve para **ampliar vocabulario emocional** y observar matices; no para diagnosticar.
 
 ### Regulación emocional (*emotion regulation*)
 Procesos por los que influimos en qué emociones tenemos, cuándo y cómo las experimentamos y expresamos (Gross). Puede ser adaptativa o desadaptativa según el contexto.
@@ -126,6 +144,9 @@ Capacidad del profesor para percibir necesidades emocionales y académicas del a
 ### Sentimiento
 Experiencia subjetiva más elaborada y a menudo más duradera que la emoción puntual; incluye interpretación y significado personal.
 
+### TMMS-24 (*Trait Meta-Mood Scale* – versión reducida)
+Autoinforme de IE percibida muy usado en el ámbito hispanohablante. Tres dimensiones: **atención** (prestar atención a los sentimientos), **claridad** (comprender y etiquetarlos) y **reparación** (creencia en la capacidad de modularlos). Útil en formación; no es prueba de habilidad ni instrumento diagnóstico.
+
 ### Toma de decisiones responsable (*responsible decision-making*)
 Competencia CASEL: elecciones constructivas sobre conducta personal y relaciones, considerando ética, seguridad y consecuencias.
 
@@ -134,6 +155,9 @@ Capacidad de soportar el malestar cuando una meta se retrasa o se bloquea, sin p
 
 ### Trauma / experiencia traumática
 Evento o serie de eventos que desbordan la capacidad de afrontamiento y pueden dejar secuelas. El docente no diagnostica; sí puede ofrecer seguridad, previsibilidad y derivación.
+
+### TRUST
+*Teachers’ Regulation and Understanding of Social situations in Teaching* (Aldrup et al., 2020). Prueba de escenarios para evaluar el conocimiento del profesorado sobre regulación emocional y comprensión de situaciones sociales en el aula. Útil también como recurso formativo.
 
 ---
 
@@ -144,17 +168,22 @@ Evento o serie de eventos que desbordan la capacidad de afrontamiento y pueden d
 | **Eustrés** | Ausencia de estrés; es un tipo de estrés manejable y movilizador |
 | **Distrés** | Cualquier nerviosismo puntual; implica sobrecarga percibida dañina |
 | **Inteligencia emocional** | Simpatía o «ser buena persona»; es un conjunto de habilidades/competencias |
+| **Modelo de habilidad** | Modelos mixtos (Goleman y derivados) |
+| **MSCEIT** | Autoinformes de IE (p. ej. TMMS-24) |
+| **TMMS-24** | Prueba de habilidad o diagnóstico clínico |
+| **Expresar emociones online** | Competencia emocional (e-COM) |
 | **Regulación emocional** | Represión sistemática de la emoción |
 | **Educación emocional** | Terapia individual en el aula |
 | **Empatía** | Aprobar la conducta disruptiva |
 | **Burnout** | Cansancio de una semana concreta |
+| **Emoción colectiva** | Solo la suma de emociones individuales aisladas |
 
 ---
 
 ## Cómo usar este glosario
 
 1. Al leer un artículo o manual, anota el término y la definición que usa *ese* autor (pueden diferir).  
-2. En trabajos del máster, define al menos la primera vez los conceptos clave (IE, SEL, regulación, eustrés/distrés).  
+2. En trabajos del máster, define al menos la primera vez los conceptos clave (IE, SEL, regulación, eustrés/distrés, e-COM si trabajas lo digital).  
 3. En el Practicum, prefiere descripciones observables («levantó la voz, cerró el cuaderno») antes que etiquetas («es agresivo», «tiene ansiedad»).
 
-Ver también: [programa.md](programa.md) · [bibliografia.md](bibliografia.md)
+Ver también: [programa.md](programa.md) · [bibliografia.md](bibliografia.md) · [glosario central del máster](../../../02-apuntes/glosario-central-master.md)
