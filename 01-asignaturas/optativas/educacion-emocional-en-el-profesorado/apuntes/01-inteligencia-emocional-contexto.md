@@ -35,14 +35,18 @@ La primera rama de la IE (percibir) necesita un **vocabulario mínimo compartido
 
 > **Las 6 emociones básicas (Ekman)**
 >
-> | Emoción | Señal típica observable | Ejemplo frecuente en Matemáticas |
-> |---------|-------------------------|----------------------------------|
-> | **Alegría** | Sonrisa, tono abierto, relajación | Resolver un problema difícil; recibir un «sí» tras varios intentos |
-> | **Sorpresa** | Cejas alzadas, boca abierta, parada breve | Un enunciado distinto al esperado; un resultado «imposible» |
-> | **Tristeza** | Caída de mirada/postura, voz baja, desconexión | Nota baja reiterada; sensación de «no avance» |
-> | **Ira** | Tensión facial/corporal, tono alto, gestos bruscos | Frustración cuando «no sale»; reacción a una corrección pública |
-> | **Miedo** | Tensión, evitación de la mirada, bloqueo | Ansiedad ante el examen o ante salir a la pizarra |
-> | **Asco** | Rechazo facial o corporal, apartarse | Rechazo visceral a un tipo de tarea (menos frecuente, pero aparece) |
+> **Regla nemotécnica (de un vistazo):**
+>
+> 😀 **Alegría** · 😮 **Sorpresa** · 😢 **Tristeza** · 😠 **Ira** · 😨 **Miedo** · 🤢 **Asco**
+>
+> | | Emoción | Señal típica observable | Ejemplo frecuente en Matemáticas |
+> |---|---------|-------------------------|----------------------------------|
+> | 😀 | **Alegría** | Sonrisa, tono abierto, relajación | Resolver un problema difícil; recibir un «sí» tras varios intentos |
+> | 😮 | **Sorpresa** | Cejas alzadas, boca abierta, parada breve | Un enunciado distinto al esperado; un resultado «imposible» |
+> | 😢 | **Tristeza** | Caída de mirada/postura, voz baja, desconexión | Nota baja reiterada; sensación de «no avance» |
+> | 😠 | **Ira** | Tensión facial/corporal, tono alto, gestos bruscos | Frustración cuando «no sale»; reacción a una corrección pública |
+> | 😨 | **Miedo** | Tensión, evitación de la mirada, bloqueo | Ansiedad ante el examen o ante salir a la pizarra |
+> | 🤢 | **Asco** | Rechazo facial o corporal, apartarse | Rechazo visceral a un tipo de tarea (menos frecuente, pero aparece) |
 
 **Uso docente (sin diagnosticar):** nombrar con precisión («parece miedo a la exposición», «se nota ira ante el error») orienta mejor la respuesta que etiquetas vagas («está nervioso», «tiene mala actitud»). Las emociones **secundarias** (vergüenza, culpa, orgullo, envidia…) se construyen a partir de estas y se desarrollan con más detalle en el [Tema 2](02-naturaleza-de-la-emocion.md).
 
@@ -275,8 +279,8 @@ Las preguntas no buscan una respuesta única; orientan un criterio profesional. 
 **3. Describe una situación de tu materia en la que la regulación emocional del *docente* sea más decisiva que «motivar» al alumno con un discurso genérico.**  
 - *Respuesta sólida:* Describe un momento concreto (error en pizarra, insulto, negativa a participar, propio enfado). Explica *qué* nota el docente en sí mismo, *qué* hace en 30–60 segundos (tono, norma, retorno a la tarea) y *qué* deja para después (tutoría, derivación). Evita el sermón motivacional abstracto («tú puedes»). Criterio de calidad: distingue emoción, conducta y contenido; respeta el límite de rol.
 
-**4. (Nueva)** Nombra las 6 emociones básicas de Ekman y explica por qué interesan al docente de Matemáticas **antes** de hablar de vergüenza o culpa.  
-- *Respuesta sólida:* Alegría, sorpresa, tristeza, ira, miedo y asco. Son el vocabulario mínimo de la rama de *percepción*: permiten observar y nombrar con más precisión (p. ej. miedo a la pizarra vs. ira ante el error) antes de pasar a emociones secundarias más elaboradas.
+**4.** Nombra las 6 emociones básicas de Ekman y explica por qué interesan al docente de Matemáticas **antes** de hablar de vergüenza o culpa.  
+- *Respuesta sólida:* Alegría, sorpresa, tristeza, ira, miedo y asco (regla: 😀😮😢😠😨🤢). Son el vocabulario mínimo de la rama de *percepción*: permiten observar y nombrar con más precisión (p. ej. miedo a la pizarra vs. ira ante el error) antes de pasar a emociones secundarias más elaboradas.
 
-**5. (Nueva)** ¿Qué implica el hallazgo de e-COM «expresar ≠ competencia» para el trabajo emocional con adolescentes?  
+**5.** ¿Qué implica el hallazgo de e-COM «expresar ≠ competencia» para el trabajo emocional con adolescentes?  
 - *Respuesta sólida:* Que publicar o verbalizar emociones en redes no garantiza percibirlas, comprenderlas ni regularlas. La educación emocional digital debe entrenar las cinco e-competencias (conciencia, regulación, autocontrol, autonomía, competencia social), no limitarse a «hablar de sentimientos» online.
