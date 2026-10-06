@@ -3,6 +3,8 @@
 > Material complementario del [Tema 1](../apuntes/01-evolucion-historica-sistema-educativo-paradigmas.md).  
 > Versión completa del análisis. La sección 7 del Tema 1 ofrece la síntesis gráfica.
 
+**Podcast:** 🎧 [De la tiza al colapso burocrático](../../../08-podcasts/episodios/De_la_tiza_al_colapso_burocrático.m4a) — evolución histórica, paradigmas y burocracia docente · [guion](../../../08-podcasts/guiones/Evoluci%C3%B3n%20hist%C3%B3rica%20del%20sistema%20educativo%20espa%C3%B1ol%20y%20paradigmas%20educativos.md)
+
 ## Precisión metodológica
 
 Ninguna ley por sí sola determina todo el papeleo que realiza un profesor. Una parte importante procede de los reales decretos de currículo, reglamentos orgánicos, órdenes de evaluación y, desde la descentralización educativa, de la normativa de cada comunidad autónoma.
@@ -292,3 +294,11 @@ Pregunta de fondo (especialmente relevante para el máster de Matemáticas):
 Esta pregunta conecta directamente con el análisis del posible desplazamiento hacia un paradigma racional-tecnológico.
 
 > **Importante:** la formulación anterior es una **hipótesis de análisis**, no una conclusión demostrada. Los datos de TALIS confirman que la carga administrativa es actualmente una fuente importante de estrés para una proporción elevada del profesorado español, pero no permiten atribuir causalmente ese fenómeno a una ley concreta.
+
+---
+
+## Para seguir
+
+- [Tema 1 — Evolución histórica y paradigmas](../apuntes/01-evolucion-historica-sistema-educativo-paradigmas.md)
+- [TALIS — ficha sintética](talis-ficha-sintetica.md)
+- 🎧 [Podcast: De la tiza al colapso burocrático](../../../08-podcasts/episodios/De_la_tiza_al_colapso_burocrático.m4a) · [guion](../../../08-podcasts/guiones/Evoluci%C3%B3n%20hist%C3%B3rica%20del%20sistema%20educativo%20espa%C3%B1ol%20y%20paradigmas%20educativos.md)
