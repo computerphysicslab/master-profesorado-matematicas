@@ -51,7 +51,20 @@ En el aula, reconocer estas funciones ayuda a no tratar toda emoción intensa co
 
 ## 4. Emociones básicas y complejas
 
-Las taxonomías varían (Ekman y otros autores proponen conjuntos de emociones «básicas» con expresiones relativamente universales: alegría, tristeza, miedo, ira, asco, sorpresa, etc.). En el aula importan también emociones **complejas o sociales**:
+Las taxonomías varían. **Paul Ekman** propuso un conjunto de emociones «básicas» con expresiones faciales relativamente universales. Regla nemotécnica para recordarlas de un vistazo:
+
+> 😀 **Alegría** · 😮 **Sorpresa** · 😢 **Tristeza** · 😠 **Ira** · 😨 **Miedo** · 🤢 **Asco**
+
+| | Emoción | Idea en el aula |
+|---|---------|-----------------|
+| 😀 | Alegría | Logro, alivio, clima positivo |
+| 😮 | Sorpresa | Enunciado inesperado, resultado «imposible» |
+| 😢 | Tristeza | Desconexión, sensación de no avance |
+| 😠 | Ira | Frustración cuando «no sale»; reacción a corrección pública |
+| 😨 | Miedo | Ansiedad ante examen o exposición en la pizarra |
+| 🤢 | Asco | Rechazo visceral a un tipo de tarea (menos frecuente) |
+
+En el aula importan también emociones **complejas o sociales** (secundarias):
 
 - vergüenza, culpa, orgullo, envidia, celos, empatía, gratitud…
 
@@ -62,6 +75,8 @@ En Matemáticas son frecuentes:
 - **vergüenza** tras un error público;  
 - **orgullo** tras un logro esforzado;  
 - **aburrimiento** o apatía cuando la tarea no tiene sentido percibido.
+
+Detalle con señales observables y ejemplos: [Tema 1 · emociones básicas de Ekman](01-inteligencia-emocional-contexto.md).
 
 ### 4.1. Emociones secundarias / complejas en la adolescencia
 
@@ -163,7 +178,7 @@ Como **patrones observables** ligados a la tarea y a la evaluación: abandono, e
 ## 9. Para seguir
 
 - **Estrés (tema completo):** [estres-impacto-y-gestion-emocional.md](estres-impacto-y-gestion-emocional.md)  
-- Glosario: *emoción*, *eustrés*, *distrés*, *frustración*, *ansiedad matemática*, *regulación emocional*.  
+- Glosario: *emoción*, *eustrés*, *distrés*, *frustración*, *ansiedad matemática*, *regulación emocional*, *emociones básicas (Ekman)*.  
 - Apunte anterior: [01 — Inteligencia emocional](01-inteligencia-emocional-contexto.md).  
 - Siguiente: [03 — Competencias emocionales e instrumentos](03-competencias-emocionales-instrumentos.md).
 
@@ -173,4 +188,5 @@ Como **patrones observables** ligados a la tarea y a la evaluación: abandono, e
 
 1. Diferencia con un ejemplo de aula *emoción* y *estado de ánimo*.  
 2. ¿Por qué no conviene eliminar toda activación emocional en una clase exigente?  
-3. Propón dos cambios de diseño de actividad que reduzcan distrés sin bajar el nivel matemático.
+3. Propón dos cambios de diseño de actividad que reduzcan distrés sin bajar el nivel matemático.  
+4. Recuerda las 6 emociones básicas de Ekman con la regla nemotécnica de emojis.
