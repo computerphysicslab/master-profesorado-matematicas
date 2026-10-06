@@ -2,6 +2,8 @@
 
 Listado **orientativo y no exhaustivo** (las herramientas cambian rápido). El criterio principal no es la novedad, sino la **utilidad didáctica**, la privacidad y la posibilidad de verificación.
 
+**Comparativa ampliada (acceso, coste, privacidad, capacidad matemática, setup de aula):** [matriz-herramientas.md](matriz-herramientas.md)
+
 ---
 
 ## 1. Modelos de lenguaje generales (chat)
@@ -21,7 +23,7 @@ Listado **orientativo y no exhaustivo** (las herramientas cambian rápido). El c
 
 | Tipo | Ejemplos orientativos | Uso en Matemáticas |
 |------|-----------------------|--------------------|
-| Resolución paso a paso / tutores | Khanmigo, Photomath, Symbolab, Wolfram|Alpha | Consulta y verificación; riesgo de uso pasivo por el alumnado |
+| Resolución paso a paso / tutores | Khanmigo, Photomath, Symbolab, Wolfram\|Alpha | Consulta y verificación; riesgo de uso pasivo por el alumnado |
 | Generación de materiales | Herramientas de generación de worksheets o quizzes con IA | Borradores que el docente revisa y adapta |
 | Visualización y geometría | GeoGebra (con o sin IA), Desmos | Representaciones fiables; la IA puede sugerir construcciones |
 | Accesibilidad | Lectores, reformuladores, traducción | Apoyo DUA (siempre revisado) |
@@ -36,6 +38,8 @@ Listado **orientativo y no exhaustivo** (las herramientas cambian rápido). El c
 4. **Transparencia.** ¿El alumnado entiende que es una herramienta falible?
 5. **Alineación curricular.** ¿Ayuda a los criterios de evaluación o los elude?
 
+Detalle por situación (sin conexión, 30 alumnos, evaluación, NEE, máxima privacidad): ver [matriz-herramientas.md](matriz-herramientas.md).
+
 ---
 
 ## 4. Combinaciones potentes
@@ -43,6 +47,7 @@ Listado **orientativo y no exhaustivo** (las herramientas cambian rápido). El c
 - **IA + GeoGebra / Desmos:** la IA sugiere; el software verifica y visualiza.
 - **IA + Python / Jupyter** (carpeta `05-python-jupyter`): generación de código + ejecución controlada.
 - **IA + papel y lápiz:** parte de la evidencia siempre sin pantalla.
+- **IA + Wolfram\|Alpha:** el chat propone; Wolfram contrasta el cálculo.
 
 ---
 
