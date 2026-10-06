@@ -25,11 +25,16 @@
 | 9. Emociones y salud del profesorado | [09-emociones-salud-profesorado.md](09-emociones-salud-profesorado.md) |
 | 10. Síntesis aplicada: casos en Matemáticas | [10-sintesis-casos-matematicas.md](10-sintesis-casos-matematicas.md) |
 
-## Transversal (estrés)
+## Transversal (estrés y modelo transaccional)
 
 | Documento | Contenido |
 |-----------|-----------|
-| **[Estrés: impacto y gestión emocional](estres-impacto-y-gestion-emocional.md)** | Tema completo alineado con el material de curso: modelo transaccional, eustrés/distrés, afrontamiento, técnicas, puente a Matemáticas |
+| **[Estrés: impacto y gestión emocional](estres-impacto-y-gestion-emocional.md)** | Tema completo: modelo transaccional, eustrés/distrés, afrontamiento, técnicas, puente a Matemáticas |
+| **[11. Modelo transaccional en Educación Emocional](11-modelo-transaccional-educacion-emocional.md)** | Síntesis aplicada: valoración primaria/secundaria, círculo vicioso → virtuoso, aplicaciones al aula |
 | Ficha ampliada | [materiales/01-modelo-transaccional-estres.md](../materiales/01-modelo-transaccional-estres.md) |
 
-Ver: [programa](../programa.md) · [glosario](../glosario.md) · [material afectividad–motivación](../materiales/afectividad-y-motivacion-intrinseca.md).
+## Enlaces de la asignatura
+
+- [Programa](../programa.md) · [Glosario](../glosario.md) · [Bibliografía](../bibliografia.md)  
+- [Material afectividad–motivación](../materiales/afectividad-y-motivacion-intrinseca.md)  
+- [Exámenes a tres niveles](../examen/)  

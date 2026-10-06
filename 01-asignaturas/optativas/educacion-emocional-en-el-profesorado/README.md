@@ -11,10 +11,10 @@ La optativa no forma terapeutas: el rol del profesor es **observar, prevenir, en
 
 | Documento | Contenido |
 |-----------|-----------|
-| **[programa.md](programa.md)** | 10 temas en 3 bloques |
+| **[programa.md](programa.md)** | 10 temas en 3 bloques + estrés transversal |
 | **[glosario.md](glosario.md)** | Eustrés, distrés, IE, SEL, burnout, ansiedad matemática… |
 | **[bibliografia.md](bibliografia.md)** | Recursos abiertos y referencias |
-| **[examen/](examen/)** | Modelo de examen (2 h, 10 puntos) para autoevaluación |
+| **[examen/](examen/)** | Exámenes a tres niveles (fácil / intermedio / difícil) + respuestas |
 
 ## Apuntes (programa completo)
 
@@ -23,7 +23,9 @@ La optativa no forma terapeutas: el rol del profesor es **observar, prevenir, en
 | **A — Fundamentos** | [1](apuntes/01-inteligencia-emocional-contexto.md) · [2](apuntes/02-naturaleza-de-la-emocion.md) · [3](apuntes/03-competencias-emocionales-instrumentos.md) |
 | **B — Bienestar, motivación y cerebro** | [4](apuntes/04-psicologia-positiva-bienestar.md) · [5](apuntes/05-emocion-y-motivacion.md) · [6](apuntes/06-educacion-emocional-reto-educativo.md) · [7](apuntes/07-neuroeducacion-precauciones.md) |
 | **C — Aplicación y salud profesional** | [8](apuntes/08-emociones-pat-aula.md) · [9](apuntes/09-emociones-salud-profesorado.md) · [10](apuntes/10-sintesis-casos-matematicas.md) |
-| **Transversal** | **[Estrés: impacto y gestión emocional](apuntes/estres-impacto-y-gestion-emocional.md)** |
+| **Transversal** | **[Estrés: impacto y gestión emocional](apuntes/estres-impacto-y-gestion-emocional.md)** · [Modelo transaccional (síntesis)](apuntes/11-modelo-transaccional-educacion-emocional.md) |
+
+Índice de apuntes: [apuntes/README.md](apuntes/README.md)
 
 ## Materiales
 
@@ -38,12 +40,16 @@ La optativa no forma terapeutas: el rol del profesor es **observar, prevenir, en
 | **[Ventana de Johari en docencia de Matemáticas](materiales/ventana-de-johari-docencia-matematicas.md)** | Autoconocimiento, feedback y clima de aula |
 | Índice completo | [materiales/README.md](materiales/README.md) |
 
-## Examen
+## Examen (autoevaluación)
 
-| Recurso | Contenido |
-|---------|-----------|
-| **[Modelo de examen](examen/examen-modelo.md)** | 4 secciones (breves, caso Adrián, diseño de sesión 50 min, reflexión crítica) · 10 puntos · 2 h |
-| Índice | [examen/README.md](examen/README.md) |
+| Nivel | Examen | Respuestas |
+|-------|--------|------------|
+| **Fácil** | [examen-facil.md](examen/examen-facil.md) | [respuestas-facil.md](examen/respuestas-facil.md) |
+| **Intermedio** | [examen-intermedio.md](examen/examen-intermedio.md) | [respuestas-intermedio.md](examen/respuestas-intermedio.md) |
+| **Difícil** | [examen-dificil.md](examen/examen-dificil.md) | [respuestas-dificil.md](examen/respuestas-dificil.md) |
+| Modelo clásico (2 h) | [examen-modelo.md](examen/examen-modelo.md) | — |
+
+Índice y criterios: [examen/README.md](examen/README.md)
 
 ## Relación con el máster
 
