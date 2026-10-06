@@ -49,6 +49,8 @@ El **grupo-clase** presenta características particulares:
 
 El grupo-clase funciona como un **sistema socioafectivo** (Ortega, 1990) en el que se entrelazan procesos cognitivos, emocionales y relacionales. Las relaciones de comunicación, poder y vínculo determinan el clima de aula y las posibilidades de aprendizaje cooperativo o competitivo.
 
+En términos de **identidad relacional** (Cooley), el aula es típicamente un **grupo secundario**: relaciones temporales orientadas a una tarea o meta institucional, no vínculos primarios de intimidad familiar. Eso condiciona la profundidad emocional que se puede (y se debe) demandar en las técnicas: el alumnado seguirá relacionándose después de la sesión, y hay que preservar el clima para la continuidad del curso. No es un “grupo terciario” de entrenamiento ad hoc ni un grupo primario de alta cohesión afectiva.
+
 ---
 
 ## 3. Estructura del grupo-clase
@@ -179,6 +181,8 @@ Se recomienda aplicar tests sociométricos de forma ética, confidencial y con f
 
 La dinamización consiste en intervenir intencionadamente para mejorar la estructura y los procesos del grupo-clase.
 
+**Cobertura de la guía de la asignatura (bloque “El aula como grupo”):** estructura del grupo · procesos grupales · relaciones interpersonales, intragrupales e intergrupales · participación · cooperación · cohesión · técnicas de dinamización (cognitivas, conativas y emocionales) · intervención del profesor sobre la dinámica del grupo. Los apartados 3–8 desarrollan cada uno de estos elementos.
+
 ### 7.1. Dinámica de grupos ≠ técnicas de grupo
 
 Es un error frecuente llamar “dinámicas” a cualquier actividad en círculo.
@@ -214,16 +218,20 @@ La guía de la asignatura insiste en estos tres tipos. Se corresponden con disti
 
 ### 7.3. Criterios para seleccionar una técnica
 
-Antes de “montar una dinámica”, el docente valora (síntesis de Villaverde y Cirigliano, 1990; Cantó, 2000; y criterios de aplicación de técnicas grupales):
+Antes de “montar una dinámica”, el docente valora (síntesis de Villaverde y Cirigliano, 1990; Cantó, 2000; y del *decálogo de criterios de uso* de técnicas grupales en formación de conductores):
 
-1. **Objetivos de aprendizaje y de convivencia** (qué se quiere lograr).  
-2. **Etapa del grupo** (forming → performing).  
+1. **Objetivos de aprendizaje y de convivencia** (qué se quiere lograr; la técnica es medio, no fin).  
+2. **Etapa del grupo** (forming → performing) y momento del curso.  
 3. **Tamaño del grupo** (pequeño / mediano / gran grupo-clase).  
 4. **Ambiente físico** y tiempo disponible.  
 5. **Materiales y recursos**.  
 6. **Características del alumnado** (edad, diversidad, posibles vulnerabilidades).  
-7. **Capacitación y seguridad del propio docente** con esa técnica.  
-8. **Tipo de técnica** (cognitiva / conativa / emocional) acorde al objetivo y a la madurez del grupo.
+7. **Identidad relacional del grupo** (en el aula: grupo secundario; no tratarlo como terapia de grupo primario).  
+8. **Capacitación y seguridad del propio docente** con esa técnica.  
+9. **Tipo de técnica** (cognitiva / conativa / emocional) acorde al objetivo y a la madurez del grupo.  
+10. **Adaptación**: casi siempre hace falta ajustar la técnica a *este* grupo concreto; no se aplica “de manual”.
+
+**Tips de aprovechamiento** (orientaciones clásicas de la literatura de dinamización): planificar (no improvisar); tener técnicas alternativas; priorizar consignas visuales o breves frente a largas explicaciones verbales; gestionar el tiempo con realismo; aprovechar el patrimonio de experiencias del alumnado; y, con experiencia, diseñar variantes propias.
 
 ### 7.4. Fases de aplicación de una técnica
 
@@ -250,8 +258,12 @@ Sin la fase de reflexión, la técnica queda como “juego” y se pierde el apr
 | **Asamblea de clase** | Participación, normas, resolución de conflictos | Conativa |
 | **Dinámicas de conocimiento** | Presentación, pertenencia (inicio de curso) | Emocional |
 | **Bombardeo positivo / feedback** | Refuerzo, clima, autoestima colectiva | Emocional |
+| **Simposio** | Profundizar un tema; intercambio de roles; diálogo | Cognitiva |
+| **Intercambio de experiencias** | Aprender a partir de la experiencia de otros | Cognitiva / conativa |
+| **Juegos y simulaciones** | Observar y revisar actitudes; feedback de conducta | Conativa / emocional |
 
-Ficha ampliada de Jigsaw: [Técnica Jigsaw](../../../04-pbl-abp/proyectos/Jigsaw/Tecnica-Jigsaw.md).
+Ficha ampliada de Jigsaw: [Técnica Jigsaw](../../../04-pbl-abp/proyectos/Jigsaw/Tecnica-Jigsaw.md).  
+Banco práctico de referencia: Fritzen, S. J. (1987). *70 ejercicios prácticos de dinámica de grupos* (Sal Terrae) — útil para ideas, no para copiar sin adaptación ni límites de rol.
 
 ### 7.6. Aprendizaje cooperativo
 
@@ -306,6 +318,8 @@ El docente actúa como observador, facilitador, mediador, modelo, diseñador de 
 
 No se trata de abandonar la autoridad pedagógica, sino de ejercerla de forma que la dinámica del grupo apoye el aprendizaje y la convivencia.
 
+En contextos de **formación formal de conductores de grupos** se distinguen roles técnicos diferenciados (supervisor, monitor, conductor, facilitador, observador). En el aula ordinaria de Secundaria el docente suele concentrar varias de esas funciones (observa, facilita, media y conduce). Conocer la distinción ayuda a no confundir el rol docente con el de terapeuta o de supervisor externo.
+
 ### 8.2. Qué necesita el docente para dinamizar
 
 - Haber vivido (en formación) distintas técnicas para anticipar qué emociones pueden activarse.  
@@ -345,14 +359,14 @@ Una gestión eficaz del grupo-clase debe tener en cuenta estas influencias exter
 
 1. Observar sistemáticamente la estructura del grupo (roles, estatus, redes de relación).  
 2. Dedicar tiempo al conocimiento mutuo y a la construcción de normas compartidas al inicio de curso.  
-3. Distinguir **dinámica** (cómo funciona el grupo) de **técnica** (medio para intervenir).  
-4. Elegir técnicas **cognitivas, conativas o emocionales** según objetivo y madurez del grupo.  
-5. Aplicar siempre explicación → desarrollo → reflexión → cierre.  
-6. Respetar los **límites de rol**: no terapia; sí convivencia y aprendizaje.  
-7. Utilizar el aprendizaje cooperativo de forma estructurada, no improvisada.  
-8. Aplicar la sociometría de forma ética para detectar exclusión.  
-9. Formar al alumnado en habilidades sociales y de resolución de conflictos.  
-10. Reflexionar sobre el propio estilo de liderazgo (tradicional vs. facilitador) y coordinarse con el equipo docente y las familias.
+3. Elegir técnicas **cognitivas, conativas o emocionales** según objetivo, fase del grupo e identidad relacional (grupo secundario).  
+4. Aplicar las fases explicación → desarrollo → reflexión → cierre.  
+5. Respetar los **límites de rol**: no terapia; sí convivencia y aprendizaje.  
+6. Utilizar el aprendizaje cooperativo de forma estructurada, no improvisada.  
+7. Aplicar la sociometría de forma ética para detectar exclusión.  
+8. Formar al alumnado en habilidades sociales y de resolución de conflictos.  
+9. Reflexionar sobre el propio estilo de liderazgo (tradicional vs. facilitador) y coordinarse con el equipo docente y las familias.  
+10. Planificar, no improvisar; tener técnicas alternativas; adaptar al grupo concreto.
 
 ---
 
@@ -378,10 +392,11 @@ El dominio de la estructura, los procesos, la cohesión, la participación y las
 - Vivas i Elías (fases de aplicación de técnicas; límites e inconvenientes en educación formal).
 - Yubero, S. y Larrañaga, E. (2002) (evaluación de técnicas grupales).
 - Fritzen, S. J. (1987). *70 ejercicios prácticos de dinámica de grupos* (banco de técnicas).
+- Cooley, C. H. (grupos primarios y secundarios).
 - Guías docentes de la asignatura *Sociedad, Familia y Procesos Grupales* (Universidad de Zaragoza).
 
 Ver también: [bibliografia.md](../bibliografia.md).
 
 ---
 
-*Documento de apoyo para el Tema 1 de Sociedad, Familia y Procesos Grupales · Máster en Profesorado. Actualizado con materiales de dinamización de procesos grupales (técnicas cognitivas, conativas y emocionales).*
+*Documento de apoyo para el Tema 1 de Sociedad, Familia y Procesos Grupales · Máster en Profesorado. Actualizado con materiales de dinamización de procesos grupales (técnicas cognitivas, conativas y emocionales; identidad relacional; decálogo de criterios).*
