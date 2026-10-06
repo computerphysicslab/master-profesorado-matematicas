@@ -17,6 +17,9 @@ Actividades diseñadas para **ESO y Bachillerato**. Se pueden adaptar a distinto
 
 **Variante:** Cada pareja analiza la respuesta de un modelo distinto y comparan.
 
+**Secuencia completa (sesión 50 min, prompt de preparación, rúbrica, DUA):** [cazador-alucinaciones-completo.md](cazador-alucinaciones-completo.md)  
+**Casos de error tipo:** [limitaciones-alucinaciones.md](../ia-generativa/limitaciones-alucinaciones.md)
+
 ---
 
 ## 2. Diálogo socrático con la IA (3.º ESO – Bachillerato)
@@ -29,6 +32,8 @@ Actividades diseñadas para **ESO y Bachillerato**. Se pueden adaptar a distinto
 3. Debe entregar: el hilo de conversación + su resolución final + una reflexión de 5-8 líneas («qué pistas me ayudaron y cuáles no, y por qué»).
 
 **Norma:** Está prohibido pedir la solución completa. Si la IA la da, el alumno debe señalarlo y no usarla.
+
+**Documentar el proceso:** [plantilla-proceso-ia.md](../evaluacion/plantilla-proceso-ia.md)
 
 ---
 
@@ -80,3 +85,4 @@ Actividades diseñadas para **ESO y Bachillerato**. Se pueden adaptar a distinto
 - Reservar evidencias sin dispositivos.
 - Declarar siempre el uso cuando esté permitido.
 - Conectar con los criterios de evaluación de la programación.
+- Cuando la IA esté permitida, usar la [plantilla de proceso](../evaluacion/plantilla-proceso-ia.md) y las [rúbricas de uso](../evaluacion/rubricas-uso-ia.md).
