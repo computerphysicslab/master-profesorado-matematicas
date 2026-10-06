@@ -81,7 +81,7 @@ Estas emociones no son «básicas» en el sentido de Ekman, pero son las que má
 
 Las emociones no solo son individuales. En un grupo-clase pueden aparecer **emociones colectivas**: ansiedad compartida ante un examen, euforia tras un logro grupal, irritabilidad generalizada un viernes por la tarde, o un clima de burla que se refuerza mutuamente.
 
-El docente puede influir en esas emociones colectivas mediante el diseño de la tarea, el tono, las normas de error y la gestión del tiempo. Ignorarlas suele ser más costoso que dedicar un minuto a regular el clima.
+El docente puede observar indicios de emoción colectiva (susurros, risas nerviosas, silencio tenso, comentarios que se repiten) y actuar sobre el clima (norma, cambio de actividad, validación breve) sin necesidad de intervenir caso a caso.
 
 ---
 
