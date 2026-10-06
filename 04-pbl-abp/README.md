@@ -14,6 +14,7 @@ Aprendizaje basado en proyectos y problemas para Matemáticas y STEM.
 | Carpeta | Descripción |
 |---------|-------------|
 | [**situaciones-aprendizaje/**](situaciones-aprendizaje/) | Situaciones de aprendizaje LOMLOE (catálogo, plantilla, checklist) |
+| [**proyectos/Jigsaw/**](proyectos/Jigsaw/) | Técnica Jigsaw (rompecabezas): ficha de análisis + infografía |
 | [proyectos-matematicos/](proyectos-matematicos/) | Proyectos centrados en matemáticas |
 | [proyectos-stem/](proyectos-stem/) | Proyectos interdisciplinares STEM |
 | [proyectos/](proyectos/) | Otros proyectos |
@@ -22,3 +23,5 @@ Aprendizaje basado en proyectos y problemas para Matemáticas y STEM.
 | [ideas/](ideas/) | Banco de ideas en bruto |
 
 Empieza por [situaciones-aprendizaje/README.md](situaciones-aprendizaje/README.md) y la [plantilla de SA](situaciones-aprendizaje/plantilla-situacion-aprendizaje.md).
+
+**Metodología cooperativa:** [Técnica Jigsaw](proyectos/Jigsaw/Tecnica-Jigsaw.md) (Aronson) — interdependencia positiva, grupos de expertos y equipos base.
