@@ -151,7 +151,7 @@ Solo puede responderse con **evidencia de la propia práctica** (ensayos de aula
 
 ## 8. Para seguir
 
-- Glosario: *competencia emocional*, *CASEL*, *modelo pentagonal*, *autorregulación*, *burnout*.  
+- Glosario: *competencia emocional*, *CASEL*, *modelo pentagonal*, *autorregulación*, *burnout*, *TMMS-24*.  
 - Apuntes previos: [01](01-inteligencia-emocional-contexto.md) · [02](02-naturaleza-de-la-emocion.md).  
 - Recursos: [bibliografia.md](../bibliografia.md); fichas en `09-bibliografia/educacion-emocional/`.
 
@@ -161,4 +161,5 @@ Solo puede responderse con **evidencia de la propia práctica** (ensayos de aula
 
 1. Nombra las cinco competencias del modelo pentagonal y pon un ejemplo docente de cada una.  
 2. ¿Por qué un autoinforme de IE puede ser engañoso si se usa como única medida?  
-3. Formula una micro-meta de mejora para *una* competencia que reconozcas como prioritaria en tu caso.
+3. Formula una micro-meta de mejora para *una* competencia que reconozcas como prioritaria en tu caso.  
+4. **(Nueva)** ¿Qué diferencia hay entre «atención», «claridad» y «reparación» en el TMMS-24? ¿Para qué sirve (y para qué no) en la formación del profesorado?
