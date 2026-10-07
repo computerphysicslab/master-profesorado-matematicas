@@ -13,11 +13,17 @@ Desempeño amplio del perfil de salida (p. ej. STEM, comunicación lingüística
 **Competencia específica (CE)**  
 Desempeño propio de la materia Matemáticas que el alumnado debe poder desplegar movilizando saberes básicos. En ESO se agrupan en cinco ejes (resolución de problemas, razonamiento y prueba, conexiones, comunicación y representación, socioafectivo). Son **diez** CE en ESO (CE.1–CE.10); ver [mapa](materiales/curriculo-lomloe/mapa-competencias-criterios.md).
 
+**Congruencia (de una conversión; Duval)**  
+Grado en que la estructura del registro de salida facilita el paso al registro de llegada. Las conversiones poco congruentes (p. ej. gráfica → ecuación; texto denso → fórmula) exigen enseñanza y evaluación explícitas. Ver [registros Duval](materiales/registros-representacion-duval.md).
+
 **Contrato didáctico**  
 Conjunto de expectativas, a menudo implícitas, entre profesor y alumnado sobre qué se espera en clase (quién debe hacer qué, qué cuenta como «respuesta buena», cuándo interviene el docente).
 
 **Control (metacognición; Schoenfeld)**  
 Capacidad de decidir qué estrategia usar, cuándo cambiar de vía y cuándo comprobar. Distinto de «saber el procedimiento»: un alumno puede tener recursos y aun así insistir en una vía muerta. Ver [bloque 8](apuntes/08-resolucion-de-problemas.md) y [heurísticas y mediación](materiales/banco-problemas/heuristicas-y-mediacion.md).
+
+**Conversión (Duval)**  
+Paso de una representación a otra del **mismo** objeto matemático (p. ej. de gráfica a expresión simbólica). Es distinta del **tratamiento** (transformación dentro del mismo registro). Actividad central para la comprensión. Material: [registros-representacion-duval.md](materiales/registros-representacion-duval.md).
 
 **Creencias (sobre los problemas)**  
 Ideas del alumnado acerca de qué es un problema, cuánto debe durar o qué cuenta como «saber mates» (p. ej. «se resuelve en dos minutos»). Condicionan la aceptación de la tarea y la perseverancia (Schoenfeld).
@@ -85,6 +91,9 @@ Problema: el camino de solución no es inmediato; exige decisión estratégica. 
 **Programación didáctica (PD)**  
 Documento de centro/departamento que concreta el currículo oficial en secuenciación, metodología, evaluación, atención a la diversidad, etc., para un curso o materia.
 
+**Registro de representación (Duval)**  
+Sistema semiótico en el que se expresa un objeto matemático (lengua natural, simbólico, tabular, gráfico, figural…). La comprensión implica coordinar varios registros. Ver [material Duval](materiales/registros-representacion-duval.md) y [bloque 5](apuntes/05-fundamentos-epistemologicos-fenomenologicos.md).
+
 **Saber a enseñar**  
 Versión del saber elaborada para ser enseñada (programas, libros, materiales), tras la transposición desde el saber de referencia.
 
@@ -111,6 +120,9 @@ Marco de Peter Liljedahl: conjunto de prácticas (tareas que hacen pensar, grupo
 
 **Transposición didáctica**  
 Conjunto de transformaciones que sufre un saber desde el ámbito de referencia hasta convertirse en objeto de enseñanza y en saber enseñado (Chevallard).
+
+**Tratamiento (Duval)**  
+Transformación **dentro** de un mismo registro de representación (p. ej. manipulación algebraica de una ecuación). Complementario de la **conversión** (cambio de registro).
 
 **Unidad didáctica (UD)**  
 Secuencia acotada de enseñanza-aprendizaje en torno a unos objetivos/competencias y saberes, con tareas y evaluación coherentes.
