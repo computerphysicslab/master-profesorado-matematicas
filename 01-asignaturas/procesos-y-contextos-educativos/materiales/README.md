@@ -9,6 +9,7 @@ Recursos prácticos y transversales (citables desde otras asignaturas y el pract
 | [**Guía de observación de practicum (por temas)**](guia-observacion-practicum-por-temas.md) | 1–6 · practicum |
 | [Checklist de observación centro/aula](checklist-observacion-centro-aula.md) | 3–5 · practicum |
 | [**Guía de convivencia y mediación**](guia-convivencia-mediacion.md) | 3–5 · clima |
+| [**Comunicación con familias (Matemáticas)**](../../sociedad-familia-y-procesos-grupales/materiales/comunicacion-con-familias-matematicas.md) | 3 · tutoría · SFYPG |
 | [Mapa del sistema educativo](mapa-sistema-educativo.md) | 2 |
 | [Órganos y documentos de centro](organos-y-documentos-de-centro.md) | 3 |
 | [Mapa de medidas de atención a la diversidad](mapa-medidas-atencion-diversidad.md) | 4 |
@@ -39,6 +40,7 @@ Recursos prácticos y transversales (citables desde otras asignaturas y el pract
 |---------|-----|
 | [Glosario](glosario-procesos-contextos.md) | Términos de la asignatura |
 | [Guía de convivencia y mediación](guia-convivencia-mediacion.md) | Tema 3 + clima de aula |
+| [Comunicación con familias](../../sociedad-familia-y-procesos-grupales/materiales/comunicacion-con-familias-matematicas.md) | Tutoría y participación |
 
 ## Inventario completo de esta carpeta
 
@@ -67,4 +69,4 @@ Recursos prácticos y transversales (citables desde otras asignaturas y el pract
 
 ## Enlaces
 
-- [Programa](../programa.md) · [Apuntes](../apuntes/) · [Bibliografía](../bibliografia.md) · [Examen](../examen/) · [Podcasts del repo](../../../08-podcasts/)
+- [Programa](../programa.md) · [Apuntes](../apuntes/) · [Bibliografía](../bibliografia.md) · [Examen](../examen/) · [Podcasts del repo](../../../08-podcasts/) · [SFYPG — familias](../../sociedad-familia-y-procesos-grupales/)
