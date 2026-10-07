@@ -15,12 +15,14 @@ Recursos para integrar Python y Jupyter en la enseñanza de Matemáticas (ESO/Ba
 | Notebook | Objeto | Unidad del repo |
 |----------|--------|-----------------|
 | [matematicas/tarifas-funcion-afin.ipynb](matematicas/tarifas-funcion-afin.ipynb) | Función afín / tarifas | [Unidad tarifas](../01-asignaturas/diseno-curricular-e-instruccional-de-matematicas/materiales/ejemplo-unidad-tarifas-exigencia-cognitiva.md) |
+| [matematicas/perimetro-area-rectangulos.ipynb](matematicas/perimetro-area-rectangulos.ipynb) | Perímetro–área / contraejemplo | [Unidad geometría](../01-asignaturas/diseno-curricular-e-instruccional-de-matematicas/materiales/ejemplo-unidad-geometria-perimetro-area.md) |
 
 ## Actividades de aula
 
 | Ficha | Notebook asociado |
 |-------|-------------------|
 | [actividades/actividad-tarifas-python.md](actividades/actividad-tarifas-python.md) | tarifas-funcion-afin |
+| [actividades/actividad-perimetro-area-python.md](actividades/actividad-perimetro-area-python.md) | perimetro-area-rectangulos |
 
 ## Bases técnicas (en construcción)
 
