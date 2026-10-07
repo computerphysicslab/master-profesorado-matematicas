@@ -2,7 +2,7 @@
 
 **Asignatura:** Psicología del desarrollo y de la educación  
 **Temas relacionados:** [2 — Diferencias individuales](../apuntes/02-diferencias-individuales-problemas-adolescencia.md) · [4 — Cognición y FE](../apuntes/04-procesamiento-informacion-teorias-cognitivas.md)  
-**Materiales vinculados:** [Discalculia y DEA](discalculia-y-dea-matematicas.md) · [Funciones ejecutivas](funciones-ejecutivas-matematicas.md) · [Carga cognitiva](carga-cognitiva-matematicas.md) · [ZDP y andamiaje](zdp-andamiaje-matematicas.md) · [Gestión del error](gestion-del-error-matematicas.md) · [Feedback efectivo](feedback-efectivo-matematicas.md)  
+**Materiales vinculados:** [Discalculia y DEA](discalculia-y-dea-matematicas.md) · [Funciones ejecutivas](funciones-ejecutivas-matematicas.md) · [Carga cognitiva](carga-cognitiva-matematicas.md) · [ZDP y andamiaje](zdp-andamiaje-matematicas.md) · [Gestión del error](gestion-del-error-matematicas.md) · [Feedback efectivo](feedback-efectivo-matematicas.md) · [Ansiedad matemática](ansiedad-matematica-aula.md) · [Tareas multinivel](diseno-tareas-multinivel-matematicas.md)  
 **Marco de centro:** [DUA (Procesos y contextos)](../../procesos-y-contextos-educativos/materiales/dua-diseno-universal-aprendizaje.md) · [Atención a la diversidad](../../procesos-y-contextos-educativos/apuntes/04-atencion-diversidad-perspectiva-inclusiva.md)
 
 ---
@@ -65,63 +65,84 @@ El TDAH se asocia a menudo con dificultades de **atención**, **planificación**
 | Cuaderno desordenado; olvida deberes | Checklist visible; un sitio fijo para la tarea | Falta de interés por la materia |
 | Rinde mejor en ítems cortos que en exámenes largos | Tiempo formativo flexible; menos ítems por página si el centro lo permite | “En clase sabe y en el examen no, luego copia” |
 
-Enlace: [Funciones ejecutivas](funciones-ejecutivas-matematicas.md).
+Enlace: [Funciones ejecutivas](funciones-ejecutivas-matematicas.md). Detalle ampliado (medidas, ejemplo de consignas, cadena barreras→diseño): ver subsecciones siguientes en versiones previas del material y el checklist del §7.
 
-#### De la barrera al diseño (no lista de trucos sueltos)
+#### De la barrera al diseño (resumen)
 
-| Barrera en la tarea | Necesidad | Diseño / ajuste | Retirada progresiva |
-|---------------------|-----------|-----------------|---------------------|
-| Problema de muchos pasos sin estructura | Planificación y memoria de trabajo | Fases visibles + checklist | Quitar la checklist cuando ya inicia solo |
-| Consigna larga oral (“haced del 1 al 10”) | Atención y comprensión de la demanda | Una indicación cada vez; comprobar comprensión | Volver a consignas más largas de forma gradual |
-| Examen de 90 min que mide sobre todo resistencia atencional | Evaluar la competencia, no solo la atención sostenida | Fragmentar, tiempo flexible o menos ítems por página (según centro) | Mantener el criterio matemático; no rebajar el objetivo |
-| Feedback solo al final de la actividad | Autorregulación y corrección a tiempo | Feedback frecuente y concreto | Espaciar el feedback cuando ya se autorregula |
-| Entorno con mucho tránsito o estímulos | Reducir distractores | Ubicación estratégica; materiales listos | No aislar de forma estigmatizante |
+| Barrera en la tarea | Diseño / ajuste |
+|---------------------|-----------------|
+| Problema multi-paso sin estructura | Fases visibles + checklist retirable |
+| Consigna larga oral | Una indicación cada vez; comprobar comprensión |
+| Examen que mide sobre todo resistencia atencional | Formato que evalúe el criterio, no solo la atención sostenida |
+| Feedback solo al final | Feedback frecuente y concreto |
 
-#### Medidas ordinarias especialmente útiles (aula de Matemáticas)
-
-1. **Instrucciones breves y claras** — una indicación cada vez; comprobar que ha entendido qué debe hacer.  
-2. **Fragmentar las tareas** — pasos pequeños y visibles.  
-3. **Apoyos visuales** — esquemas, listas de comprobación, agenda, temporizador, instrucciones escritas.  
-4. **Reducir distractores** — ubicación estratégica; evitar zonas de mucho tránsito si es posible.  
-5. **Tiempo flexible** — cuando la dificultad es atencional o de velocidad de ejecución, no de desconocimiento del contenido.  
-6. **Pausas breves y planificadas** — pequeños descansos motores que facilitan volver a concentrarse.  
-7. **Evaluación adaptada en el formato** — preguntarse si el instrumento mide el aprendizaje o solo la capacidad de mantener la atención mucho rato.  
-8. **Feedback frecuente y concreto** — qué está bien y qué corregir; no esperar al final de una actividad larga (ver [feedback efectivo](feedback-efectivo-matematicas.md)).  
-9. **Refuerzo positivo** — esfuerzo, autorregulación y progreso, no solo el resultado final.  
-10. **Enseñar estrategias ejecutivas** — planificación, organización del material, gestión del tiempo, priorización y revisión.  
-11. **Coordinación** con familia (vía tutor) y orientación — criterios coherentes de actuación y seguimiento.
-
-#### Ejemplo de aula
-
-En lugar de: «Haced los ejercicios 1 al 10.»
-
-Más eficaz: «Primero haced el 1 y el 2. Cuando terminéis, revisadlos y pasad al 3 y al 4», con una **lista visual** que el alumno pueda ir marcando.
-
-Eso reduce carga ejecutiva y permite demostrar la competencia matemática sin que la consignación misma sea la barrera principal.
-
-#### TDAH y otras hipótesis (el docente no diagnostica)
-
-| Observación en clase | Posible hipótesis de trabajo (no diagnóstico) |
-|----------------------|-----------------------------------------------|
-| Errores por impulsividad; actúa antes de planificar | Funciones ejecutivas / perfil compatible con TDAH |
-| Dificultad persistente con sentido numérico pese a buena atención en otras materias | Posible DEA / discalculia — ver [discalculia](discalculia-y-dea-matematicas.md) |
-| Comprende oralmente pero tropieza con enunciados largos | Posible dificultad lectora / dislexia |
-| No domina contenidos de cursos anteriores | Lagunas de aprendizaje |
-| Sabe hacerlo acompañado pero no inicia solo | Planificación / falta de andamiaje |
-| Se bloquea o evita ante la tarea de mates | Ansiedad matemática / evitación |
-
-Registrar **hechos observables** y coordinar; no etiquetar en el pasillo.
+**Ejemplo:** en lugar de «Haced del 1 al 10», «Primero el 1 y el 2; revisad; luego 3 y 4» + lista visual.
 
 ---
 
-### 3.2. TEA / perfil autista
+### 3.2. TEA / perfil autista (y la etiqueta «Asperger»)
+
+#### Terminología (para el futuro docente)
+
+- En clasificaciones actuales se habla de **TEA** (trastorno del espectro del autismo) o **perfil autista** / neurodivergencia autista.  
+- **«Síndrome de Asperger»** fue una categoría diagnóstica usada en el pasado (a menudo asociada a lenguaje fluido y sin discapacidad intelectual aparente). Hoy suele integrarse en el espectro; **algunas personas y familias siguen usando “Asperger”** como identidad o informe antiguo.  
+- En el aula: respetar cómo se nombre el alumno o el dictamen, pero trabajar con **barreras y apoyos observables**, no con estereotipos (“todos son genios de mates” / “no saben trabajar en grupo”).
+
+El espectro es **muy amplio**: de alumnado que necesita apoyos intensos a alumnado con buenas notas que se desregula ante el ruido, el cambio de plan o el grupo ambiguo. El docente de Matemáticas no gradúa el TEA: aplica diseño y, si hay dictamen, las medidas acordadas.
+
+#### Qué suele notarse / ajustes / no confundir
 
 | Qué suele notarse en mates | Ajustes ordinarios | No confundir con |
 |----------------------------|--------------------|------------------|
-| Necesita reglas y pasos explícitos | Consignas literales; ejemplos de “cómo se entrega” | “No presta atención a las normas implícitas” |
-| Malestar con cambios de última hora o con ruido | Anticipar cambios; alternativas a la pizarra pública | Falta de respeto |
-| Puede hiperenfocarse en un procedimiento o en un interés | Usar el interés como contexto de problemas; cuidar la transición | “Solo hace lo que le gusta” |
-| Dificultad con el trabajo en grupo ambiguo | Roles claros; pareja estable; opción de trabajo individual cuando el objetivo lo permita | “No es cooperativo” |
+| Necesita reglas y pasos explícitos | Consignas literales; ejemplo de “cómo se entrega” | “No presta atención a las normas implícitas” |
+| Malestar con cambios de última hora o con ruido | Anticipar cambios; aviso previo; alternativas a la pizarra pública | Falta de respeto |
+| Puede hiperenfocarse en un procedimiento o en un interés | Usar el interés como contexto; cuidar la transición al siguiente bloque | “Solo hace lo que le gusta” |
+| Dificultad con el trabajo en grupo ambiguo | Roles claros; pareja estable; opción individual cuando el objetivo lo permita | “No es cooperativo” / “es antipático” |
+| Interpretación literal de enunciados o ironías del profesor | Lenguaje directo; evitar dobles sentidos en consignas | “Se hace el gracioso” o “no se entera” |
+| Perfeccionismo o bloqueo si no hay una única respuesta “correcta” | Problemas con varias estrategias válidas; explicitar criterios de éxito | Falta de flexibilidad “por carácter” |
+
+#### De la barrera al diseño
+
+| Barrera | Necesidad | Diseño | Retirada / matiz |
+|---------|-----------|--------|------------------|
+| Consigna implícita (“ya sabéis cómo va”) | Previsibilidad | Rutina de inicio escrita; criterio de “terminado” | Mantener previsibilidad aunque crezca la autonomía |
+| Cambio de plan sin aviso | Regulación | Anunciar cambios; plan B visible | No improvisar humillación pública si hay crisis |
+| Grupo sin roles | Claridad social y de tarea | Roles (calcula / representa / explica / revisa) | Variar compañeros con preparación, no al azar punitivo |
+| Enunciado con ironía o contexto cultural opaco | Acceso literal al problema | Enunciado limpio; glosario de contexto si hace falta | El reto debe ser matemático, no adivinar la norma social |
+| Sobrecarga sensorial (ruido, pasillo, fluorescente) | Reducir sobrecarga | Ubicación, auriculares si el centro lo contempla, pausa | Coordinar; no aislar como castigo |
+
+#### Matemáticas como posible fortaleza
+
+Muchos perfiles autistas se llevan bien con:
+
+- reglas estables y sistemas bien definidos;
+- detección de patrones y regularidades;
+- rigor en definiciones y demostraciones;
+- memoria de detalle;
+- trabajo profundo en un tema (hiperfoco).
+
+**Cómo usarlo:** problemas de regularidades, demostraciones guiadas, proyectos de ampliación en un interés (grafos, primos, geometría…), algoritmos claros. **Cuidado:** no asumir que “como es Asperger/TEA, tiene que ser bueno en mates” — el rendimiento varía.
+
+#### Trabajo cooperativo (punto crítico)
+
+El cooperativo mal planteado (grupos grandes, roles implícitos, evaluación solo del producto grupal) puede **aumentar** la exclusión.
+
+| Mejor | Evitar |
+|-------|--------|
+| Pareja o trío con roles escritos | “Agrupaos como queráis” sin estructura |
+| Criterios de éxito individuales + grupales | Nota única que oculte quién no pudo participar |
+| Tiempo de trabajo en solitario antes del grupo | Forzar oralidad pública como único camino |
+
+Enlaza con [atención a la diversidad](../../procesos-y-contextos-educativos/apuntes/04-atencion-diversidad-perspectiva-inclusiva.md) y estructuras cooperativas del repo.
+
+#### Evaluación
+
+- Consignas de examen **literales y sin ambigüedad innecesaria**.  
+- Si el dictamen contempla formato o tiempo, aplicarlo.  
+- No confundir “no pidió ayuda” con “no la necesitaba”: a veces pedir ayuda es en sí una demanda social difícil.  
+- Valorar evidencias alternativas (escrito claro, esquema) cuando el oral público bloquea sin medir el criterio.
+
+---
 
 ### 3.3. Dislexia (impacto en la actividad matemática)
 
@@ -154,7 +175,7 @@ En Matemáticas, lo que parece “mala conducta” puede ser:
 |-----------|--------|-------------------|
 | Impulsividad / FE | Actúa sin plan; interrumpe al empezar la tarea | Rutinas de inicio; fragmentar |
 | Sobrecarga sensorial o cognitiva | Se tapa, se va, explota tras un rato de ruido o de enunciado denso | Reducir carga extrínseca; pausa breve; sitio previsible |
-| Ansiedad matemática / evitación | “No lo sé” inmediato; evitación de la pizarra | Andamiaje, éxitos tempranos, no forzar la exposición pública como castigo |
+| Ansiedad matemática / evitación | “No lo sé” inmediato; evitación de la pizarra | Andamiaje, éxitos tempranos, no forzar la exposición pública como castigo — ver [ansiedad matemática](ansiedad-matematica-aula.md) |
 | Conflicto de límites | Desafío a la norma, no solo a la tarea | Norma clara y estable; no lucha de egos |
 
 Si la situación desborda el aula: **protocolo de centro** (tutor, orientación, jefatura). El docente de mates no sustituye ese circuito.
@@ -171,8 +192,6 @@ Preguntas útiles al diseñar una prueba o una tarea calificada:
 
 Reducir barreras de acceso no es “regalar la nota”: es intentar que la calificación refleje mejor el aprendizaje matemático.
 
-En TDAH y perfiles con interferencia atencional: un examen largo puede estar midiendo **resistencia atencional** más que el criterio de evaluación. Valorar formatos que fragmenten, den tiempo razonable o reduzcan ruido extrínseco **sin cambiar el objetivo de aprendizaje**.
-
 ---
 
 ## 6. Fortalezas (no solo barreras)
@@ -188,26 +207,28 @@ En TDAH y perfiles con interferencia atencional: un examen largo puede estar mid
 
 ## 7. Checklist docente (aula de Matemáticas)
 
-- [ ] ¿He bajado la carga extrínseca (consigna, formato, pasos) antes de asumir “no puede”?
-- [ ] ¿Las normas de la tarea son explícitas (qué entregar, en qué orden)?
-- [ ] ¿Hay alternativa razonable a la exposición pública cuando genera bloqueo?
-- [ ] ¿Separaré, en la medida de lo posible, dificultades de *acceso* y de *contenido*?
-- [ ] ¿Conozco el dictamen o las medidas acordadas en el centro para este alumno?
-- [ ] ¿Estoy manteniendo expectativa de aprendizaje (con andamiaje) en lugar de renunciar?
-- [ ] ¿He registrado hechos observables para tutoría/orientación, no etiquetas?
-- [ ] ¿El andamiaje (checklist, fases) tiene plan de **retirada** cuando ya no haga falta?
+- [ ] ¿He bajado la carga extrínseca (consigna, formato, pasos) antes de asumir “no puede”?  
+- [ ] ¿Las normas de la tarea son explícitas (qué entregar, en qué orden)?  
+- [ ] ¿Hay alternativa razonable a la exposición pública cuando genera bloqueo?  
+- [ ] ¿Separaré dificultades de *acceso* y de *contenido*?  
+- [ ] ¿Conozco el dictamen o las medidas acordadas en el centro?  
+- [ ] ¿Mantengo expectativa de aprendizaje con andamiaje?  
+- [ ] ¿Registro hechos observables, no etiquetas?  
+- [ ] ¿El andamiaje tiene plan de **retirada**?  
+- [ ] ¿El trabajo en grupo tiene roles claros cuando hace falta?
 
 ---
 
 ## 8. Qué no hacer
 
 - Diagnosticar en el pasillo (“es TDAH”, “es asperger”).  
-- Usar la neurodivergencia como chiste o como amenaza.  
-- Bajar el nivel del currículo de forma permanente “porque es neurodivergente” sin diseño ni dictamen.  
+- Usar la neurodivergencia como chiste o amenaza.  
+- Bajar el nivel del currículo de forma permanente sin diseño ni dictamen.  
 - Confundir dislexia con discalculia, o TDAH con “maleducado”.  
+- Asumir que TEA/Asperger implica genialidad matemática (o lo contrario).  
 - Exponer en público datos de salud o de evaluación psicopedagógica.  
-- Sustituir el ajuste de aula por mensajes genéricos de “inténtalo más”.  
-- Convertir el apoyo en dependencia permanente sin enseñar estrategias ejecutivas.
+- Sustituir el ajuste de aula por “inténtalo más”.  
+- Convertir el apoyo en dependencia permanente.
 
 ---
 
@@ -215,14 +236,12 @@ En TDAH y perfiles con interferencia atencional: un examen largo puede estar mid
 
 | Recurso | Uso conjunto |
 |---------|--------------|
-| [DUA](../../procesos-y-contextos-educativos/materiales/dua-diseno-universal-aprendizaje.md) · [DUA transversal](../../../02-apuntes/didactica/dua-diseno-universal-aprendizaje.md) | Marco de diseño para todos; la neurodivergencia explica por qué ciertos ajustes ayudan |
-| [Atención a la diversidad](../../procesos-y-contextos-educativos/apuntes/04-atencion-diversidad-perspectiva-inclusiva.md) | TDAH como ejemplo de medidas **ordinarias** en inclusión |
-| [Mapa de medidas de diversidad](../../procesos-y-contextos-educativos/materiales/mapa-medidas-atencion-diversidad.md) | Qué es ordinario / singular en el centro |
-| [Discalculia](discalculia-y-dea-matematicas.md) | DEA del sentido numérico |
-| [Funciones ejecutivas](funciones-ejecutivas-matematicas.md) | Sobre todo TDAH y problemas multi-paso |
-| [Carga cognitiva](carga-cognitiva-matematicas.md) | Tarea “sencilla” en mates pero pesada en memoria de trabajo |
-| [Autoeficacia / mindset](autoeficacia-matematica.md) | Evitar que la barrera se convierta en identidad de incapacidad |
-| [Dilemas éticos IA — viñeta TDAH](../../../06-inteligencia-artificial/etica/dilemas-eticos.md) | Andamiaje tecnológico vs. sustitución del razonamiento |
+| [DUA](../../procesos-y-contextos-educativos/materiales/dua-diseno-universal-aprendizaje.md) · [DUA transversal](../../../02-apuntes/didactica/dua-diseno-universal-aprendizaje.md) | Diseño para todos; tabla multiperfil |
+| [Atención a la diversidad](../../procesos-y-contextos-educativos/apuntes/04-atencion-diversidad-perspectiva-inclusiva.md) | Medidas ordinarias vs. específicas |
+| [Ansiedad matemática](ansiedad-matematica-aula.md) | Evitación, MT, evaluación |
+| [Tareas multinivel](diseno-tareas-multinivel-matematicas.md) | Mismo objetivo, distinto andamiaje |
+| [Discalculia](discalculia-y-dea-matematicas.md) · [Funciones ejecutivas](funciones-ejecutivas-matematicas.md) · [Carga cognitiva](carga-cognitiva-matematicas.md) | Perfiles y diseño de tarea |
+| [Dilemas éticos IA](../../../06-inteligencia-artificial/etica/dilemas-eticos.md) | Andamiaje tecnológico vs. sustitución |
 
 ---
 
