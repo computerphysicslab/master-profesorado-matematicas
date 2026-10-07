@@ -6,43 +6,44 @@ Apuntes: [Tema 1](../apuntes/Tema1_El_aula_como_grupo.md) · [Tema 2](../apuntes
 
 ## Tema 1 — El aula como grupo
 
-1. Define **grupo** y tres características del **grupo-clase**.
-2. Roles **formales** e **informales** en Matemáticas.
-3. Fases de Tuckman y técnicas emocionales.
-4. Dinámica de grupos vs técnicas de grupo.
-5. Aprendizaje cooperativo: cinco elementos; ejemplo.
+1. Distingue **intrapersonal, interpersonal, intragrupal e intergrupal** con un mismo episodio de clase de mates.
+2. Define **grupo** e **interdependencia**; ejemplo con tarea compartida y con reacción ante un error.
+3. Diferencia **estructura** y **procesos**; ilustra con mesas en grupo y el trabajo que ocurre en ellas.
+4. **Posición** vs **rol**. Dimensiones esperado / percibido / desempeñado; ejemplo de discrepancia (portavoz).
+5. ¿Qué es la **ecología grupal**? Define **sociopeto** y **sociofugo** y relaciona cada uno con una tarea distinta.
+6. ¿Son siempre preferibles los espacios sociopetos? Justifica.
+7. Analiza una **participación desigual** sin etiquetar solo “activo/pasivo”: condiciones, normas, oportunidades.
+8. ¿Qué es la **cultura grupal**? Ejemplo de hábito de monopolio de la palabra.
+9. Papel de la **tarea** como organizador del grupo.
+10. **Socialización grupal** e incorporación de un alumno nuevo: ajuste recíproco persona–grupo.
+11. Cohesión: beneficios y riesgos; cohesión ≠ solo “llevarse bien”.
+12. ¿Cuándo trabajo **cooperativo** y cuándo **individual**? Condiciones del cooperativo real.
+13. Evaluación del trabajo grupal: riesgo y una estrategia para la responsabilidad individual.
+14. Tuckman: sitúa una técnica emocional según la fase del grupo.
+15. Dinámica de grupos vs **técnicas** de grupo; por qué la fase de reflexión es obligatoria.
 
 ---
 
 ## Tema 2 — Poder, influencia y liderazgo
 
-6. Distingue **poder**, **influencia**, **liderazgo** y **autoridad**.
-7. French y Raven: las bases (incl. **informacional**). Ejemplo de cada una en mates.
-8. ¿Por qué la legitimidad formal no garantiza liderazgo?
-9. Enfoque de **rasgos** (Stogdill): aporte y límite.
-10. Lewin: autoritario, democrático, laissez-faire — un uso legítimo y un riesgo de cada uno.
-11. Estudios de **Ohio**: estructura de iniciación y consideración. ¿Por qué combinar ambas?
-12. “No hay un estilo universalmente mejor”: justifica con dos contextos de aula distintos.
-13. **Identidad social** (Tajfel/Turner) y líder informal prototípico.
-14. Carisma: por qué la pregunta ética es «¿hacia dónde les lleva?»
-15. Tabla transaccional vs transformacional; ¿pueden combinarse?
-16. Las **4 I** de Bass con ejemplo de cada una en Matemáticas.
-17. Liderazgo **auténtico** (Avolio y Gardner): ¿por qué admitir “no lo sé” puede reforzar autoridad?
-18. Liderazgo **ético**: eficacia vs justicia.
-19. Asch: conformidad y pensamiento crítico en mates.
-20. Milgram: disciplina ≠ obediencia ciega.
-21. Moscovici, **Lage y Naffrechoux (1969)**: consistencia de la minoría; implicación para una norma de aula.
-22. Kelman: cumplimiento → internalización; ejemplo de norma.
-23. Ejemplo integrado: combina al menos cuatro bases de poder y dos dimensiones transformacionales en un problema de 3.º ESO.
-24. Idea clave del Máster: de la obediencia a la autonomía — explícala en un párrafo.
+16. Poder, influencia, liderazgo y autoridad.
+17. French y Raven (incl. informacional): ejemplo de cada base en mates.
+18. Lewin: tres estilos; un uso legítimo y un riesgo.
+19. Ohio: estructura de iniciación y consideración.
+20. Identidad social y líder informal prototípico.
+21. Transaccional vs transformacional; las **4 I** con ejemplos en mates.
+22. Blanch et al. (2016) y liderazgo positivo: idea central y precaución (no es laissez-faire).
+23. Asch; Milgram (disciplina ≠ obediencia ciega).
+24. Moscovici, Lage y Naffrechoux (1969): consistencia de la minoría.
+25. Idea clave: de la obediencia a la autonomía.
 
 ---
 
 ## Transversales
 
-25. Capital cultural (Bourdieu) y Matemáticas.
-26. Igualdad vs equidad.
-27. Límites del rol docente con familias.
+26. Capital cultural (Bourdieu) y Matemáticas.
+27. Igualdad vs equidad.
+28. Comunicación con familias: límites del rol docente.
 
 ---
 
