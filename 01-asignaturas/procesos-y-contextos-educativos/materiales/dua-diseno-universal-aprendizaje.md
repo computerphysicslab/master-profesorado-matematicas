@@ -16,6 +16,8 @@ El problema no es “el alumno que no aprende”, sino un **currículo o una tar
 
 No sustituye apoyos individualizados cuando hacen falta; reduce la necesidad de “apaños” tardíos al diseñar bien la propuesta común.
 
+**Adaptar no es hacer el aprendizaje más fácil:** es eliminar barreras innecesarias para que el alumnado pueda demostrar lo que sabe.
+
 ---
 
 ## 2. Tres principios (pilares)
@@ -45,7 +47,16 @@ Inspirados en redes implicadas en el aprendizaje (marco CAST):
 
 ---
 
-## 3. DUA en la normativa española
+## 3. Una decisión, varias barreras
+
+Una misma decisión DUA (instrucciones breves, fases visibles, varias representaciones, tiempo flexible, checklist retirable, roles claros…) suele ayudar a **TDAH, dislexia, ansiedad, dificultades lingüísticas y altas capacidades** a la vez, sin tres currículos distintos.
+
+Tabla multiperfil completa: [apunte transversal DUA](../../../02-apuntes/didactica/dua-diseno-universal-aprendizaje.md) (§3).  
+Medidas ordinarias y TDAH en Matemáticas: [neurodivergencia-aula-matematicas.md](../../psicologia-del-desarrollo-y-de-la-educacion/materiales/neurodivergencia-aula-matematicas.md) · ejemplo en [Tema 4 atención a la diversidad](../apuntes/04-atencion-diversidad-perspectiva-inclusiva.md).
+
+---
+
+## 4. DUA en la normativa española
 
 En la **LOMLOE** y los reales decretos de enseñanzas mínimas, el DUA deja de ser solo “buena práctica” y pasa a ser **referencia** para programar y para la atención a la diversidad en la educación básica y secundaria.
 
@@ -57,19 +68,20 @@ Implica, entre otras cosas:
 
 ---
 
-## 4. Checklist rápido al diseñar una unidad o tarea de Matemáticas
+## 5. Checklist rápido al diseñar una unidad o tarea de Matemáticas
 
 | Principio | Pregunta | ¿Lo he previsto? |
 |-----------|----------|------------------|
 | Compromiso | ¿Hay algún elemento de elección, sentido o meta clara? | |
 | Representación | ¿La idea clave aparece en al menos dos formatos? | |
 | Acción / expresión | ¿Hay más de una forma válida de demostrar el criterio? | |
-| Barreras | ¿Qué les costará a quienes leen despacio, se ansían o no dominan el español aún? | |
-| Evaluación | ¿El instrumento mide el criterio o solo un formato (p. ej. solo cálculo rápido)? | |
+| Barreras | ¿Qué les costará a quienes leen despacio, se ansían, se desorganizan o no dominan el español aún? | |
+| Evaluación | ¿El instrumento mide el criterio o solo un formato (p. ej. solo cálculo rápido o solo atención sostenida)? | |
+| Andamiaje | Si hay plantilla/checklist, ¿hay plan de retirada? | |
 
 ---
 
-## 5. DUA no es…
+## 6. DUA no es…
 
 | Confusión frecuente | Matiz |
 |---------------------|--------|
@@ -77,21 +89,23 @@ Implica, entre otras cosas:
 | Solo para alumnado con informe | Es diseño para **todo** el grupo |
 | Sustituir al especialista PT/AL | Complementa; no reemplaza apoyos específicos |
 | Tres actividades sueltas sin criterio | Debe ligarse a **competencias y criterios** del currículo |
+| Lista de trucos por etiqueta | Primero barreras del diseño; la etiqueta orienta |
 
 ---
 
-## 6. Enlace con otras piezas del máster
+## 7. Enlace con otras piezas del máster
 
 | Tema | Relación con el DUA |
 |------|---------------------|
 | Paradigmas interpretativo / sociocrítico | Alumno activo; equidad y eliminación de barreras |
 | Situaciones de aprendizaje LOMLOE | Escenario natural para los tres principios |
 | Sentido socioafectivo (Matemáticas) | Solapa con **compromiso** (motivación, error, perseverancia) |
+| Neurodivergencia / TDAH | Medidas ordinarias de diseño; no diagnóstico docente |
 | Practicum | Observar barreras del aula real y proponer ajustes universales |
 
 ---
 
-## 7. Referencias orientativas
+## 8. Referencias orientativas
 
 - CAST — *Universal Design for Learning* (pautas y principios).  
 - LOMLOE y RD de enseñanzas mínimas (ESO / Bachillerato): atención a la diversidad y diseño de programaciones.  
