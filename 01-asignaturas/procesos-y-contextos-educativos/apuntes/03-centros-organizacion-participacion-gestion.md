@@ -69,6 +69,12 @@ La **LODE** consagró la participación (consejos escolares, etc.). En la práct
 
 **Imbernón (2010)** insiste en la profesionalidad docente **colegiada**: mejorar la enseñanza es también aprender a trabajar con otros, no solo “cerrar la puerta del aula”.
 
+### 4.1. Comunicación cotidiana con familias
+
+Además de la participación institucional (Consejo Escolar), el día a día del docente de Matemáticas incluye **tutoría de materia**, mensajes por el canal oficial y entrevistas. Criterios prácticos (canales, tono, evidencias, plantillas, límites de rol):
+
+**[Comunicación con familias (foco Matemáticas)](../../sociedad-familia-y-procesos-grupales/materiales/comunicacion-con-familias-matematicas.md)**
+
 ---
 
 ## 5. Gestión cotidiana que afecta a Matemáticas
@@ -98,6 +104,7 @@ En un IES o centro concertado de Aragón, el marco estatal (LOMLOE, LODE en lo q
 | PEC / plan de convivencia | Clima, normas, mediación |
 | Programación del departamento de Matemáticas | Qué se evalúa y cómo en *este* centro |
 | Horarios y desdobles | Qué metodología es realista |
+| Canal oficial con familias | Cómo se informa y se cita (ver material de comunicación) |
 | [Órganos y documentos de centro](../materiales/organos-y-documentos-de-centro.md) | Mapa mental antes de las reuniones |
 | [**Guía de observación por temas**](../materiales/guia-observacion-practicum-por-temas.md) | Qué mirar según el bloque del programa |
 | [Checklist de observación](../materiales/checklist-observacion-centro-aula.md) | Registro diario centro/aula |
@@ -108,7 +115,7 @@ La programación anual y de unidad se detalla en Diseño curricular: [programaci
 
 ## 6. Glosario
 
-**Consejo Escolar** · **Claustro** · **Departamento didáctico** · **CCP** · **PEC / PE** · **PGA** · **NOF** · **Plan de convivencia** · **Autonomía de centro**
+**Consejo Escolar** · **Claustro** · **Departamento didáctico** · **CCP** · **PEC / PE** · **PGA** · **NOF** · **Plan de convivencia** · **Autonomía de centro** · **Comunicación familia–escuela**
 
 ---
 
@@ -117,15 +124,18 @@ La programación anual y de unidad se detalla en Diseño curricular: [programaci
 1. Diferencia Consejo Escolar y Claustro.  
 2. ¿Qué documentos mirarías en la primera semana de un practicum?  
 3. Pon un ejemplo de “participación formal” vs. “participación real” en un departamento de Matemáticas.  
-4. ¿Cómo puede el plan de convivencia influir en una sesión de resolución de problemas en grupo?
+4. ¿Cómo puede el plan de convivencia influir en una sesión de resolución de problemas en grupo?  
+5. ¿Qué canal usarías para avisar de una falta de trabajo reiterada en Matemáticas y qué no incluirías en el mensaje?
 
 ---
 
 ## Material relacionado
 
 - [Programa](../programa.md)  
+- [**Comunicación con familias (Matemáticas)**](../../sociedad-familia-y-procesos-grupales/materiales/comunicacion-con-familias-matematicas.md)  
 - [**Guía de observación de practicum por temas**](../materiales/guia-observacion-practicum-por-temas.md)  
 - [Tema 4 — Inclusión](04-atencion-diversidad-perspectiva-inclusiva.md)  
 - [Órganos y documentos de centro](../materiales/organos-y-documentos-de-centro.md)  
 - [Checklist de observación centro/aula](../materiales/checklist-observacion-centro-aula.md)  
+- [Guía de convivencia y mediación](../materiales/guia-convivencia-mediacion.md)  
 - Cano y Cebollero (2023); Imbernón (2010) — [bibliografía](../bibliografia.md)
