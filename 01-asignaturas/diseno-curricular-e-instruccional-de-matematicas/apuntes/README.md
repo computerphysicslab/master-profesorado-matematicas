@@ -31,10 +31,11 @@ Organizados según el **programa de la asignatura** (nueve bloques).
 ## Materiales complementarios
 
 - [materiales/curriculo-lomloe/](../materiales/curriculo-lomloe/) — mapas CE–criterios, sentidos, anexos  
+- [materiales/registros-representacion-duval.md](../materiales/registros-representacion-duval.md) — **registros de representación (Duval)**  
 - [materiales/thinking-classrooms-liljedahl.md](../materiales/thinking-classrooms-liljedahl.md) — **Thinking Classrooms** (Liljedahl), pizarras verticales y checklist CE ↔ problemas  
 - [materiales/plantillas/](../materiales/plantillas/) — PD, UD, rúbrica, génesis de objeto  
 - [materiales/errores-y-obstaculos/](../materiales/errores-y-obstaculos/) — banco de errores  
-- [materiales/banco-problemas/](../materiales/banco-problemas/) — generatrices y problemas ricos  
+- [materiales/banco-problemas/](../materiales/banco-problemas/) — generatrices, problemas ricos, heurísticas  
 - [Situaciones de aprendizaje (PBL)](../../../04-pbl-abp/situaciones-aprendizaje/) — ejemplos LOMLOE listos para aula  
 
 ## README de la asignatura
