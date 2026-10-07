@@ -1,288 +1,339 @@
-# Tema 2: Las relaciones de poder en el aula
+# Tema 2: Relaciones de poder, influencia y liderazgo en el aula
 
-**Máster Universitario en Profesorado de Educación Secundaria Obligatoria, Bachillerato, Formación Profesional y Enseñanzas de Idiomas, Artísticas y Deportivas**
-
-**Asignatura:** Sociedad, Familia y Procesos Grupales
-
-**Bloque:** Relaciones de poder · modelos de liderazgo · procesos de influencia social
+**Máster Universitario en Profesorado de Educación Secundaria**  
+**Asignatura:** Sociedad, Familia y Procesos Grupales  
+**Bloque:** Poder · influencia · liderazgo (modelos 6.1 · procesos de influencia social 6.2)
 
 **Continúa de:** [Tema 1 — El aula como grupo](Tema1_El_aula_como_grupo.md)
 
 ---
 
-## 1. Introducción
+## 1. Introducción y distinciones clave
 
-El aula es un espacio de **aprendizaje** y, a la vez, un espacio de **poder**. Quien habla, quién calla, qué se valora como “correcto”, quién define las normas y quién las hace cumplir no son detalles secundarios: configuran el clima, la participación y las oportunidades de aprender Matemáticas.
+El aula es espacio de aprendizaje y de **poder**. Quién habla, quién calla, qué se valora y quién define las normas condicionan el clima y las oportunidades de aprender Matemáticas.
 
-Este tema desarrolla una dimensión explícita del programa de la asignatura:
+| Concepto | Definición operativa |
+|----------|----------------------|
+| **Poder** | **Capacidad potencial** de influir en ideas, actitudes, emociones o conductas de otros. |
+| **Influencia** | **Proceso** mediante el cual se produce un cambio en otra persona o en el grupo. |
+| **Liderazgo** | Influencia ejercida en una **dinámica grupal** hacia objetivos compartidos (tarea y/o relación). |
+| **Autoridad** | Poder **reconocido como legítimo** (cargo, rol institucional). |
 
-1. **Relaciones de poder** entre profesor y alumnado, entre alumnos, dentro del grupo-clase y en la comunidad educativa.  
-2. **Modelos de liderazgo** (apartado 6.1 del programa): Lewin, tarea/relación, formal/informal, **liderazgo transformacional (4 I de Bass)**.  
-3. **Procesos de influencia social** (apartado 6.2): conformidad, obediencia, persuasión, **minorías (Moscovici, Lage y Naffrechoux, 1969)**, internalización.
+**Poder ≠ liderazgo.** Quien tiene autoridad formal puede carecer de liderazgo real; quien no tiene cargo puede ejercer enorme influencia informal.
 
-No se trata de “eliminar el poder” (imposible e indeseable en una institución educativa), sino de **hacerlo legítimo, visible y orientado al aprendizaje**, evitando el autoritarismo vacío y también el laissez-faire que abandona al grupo.
+No se trata de “eliminar el poder”, sino de hacerlo **legítimo, visible y orientado al aprendizaje**: ni autoritarismo vacío ni laissez-faire que abandona al grupo.
 
-**Enlaces del repo:** [Tema 1](Tema1_El_aula_como_grupo.md) · [Gestión de aula / disrupción](../../procesos-y-contextos-educativos/materiales/gestion-aula-disrupcion-matematicas.md) · [Comunicación con familias](../materiales/comunicacion-con-familias-matematicas.md) · [Exigencia cognitiva](../../diseno-curricular-e-instruccional-de-matematicas/materiales/exigencia-cognitiva-disciplina-razonamiento.md) · Autores: [Lewin](../../../09-bibliografia/autores-pensadores/04-psicologia-social/lewin.md) · [Asch](../../../09-bibliografia/autores-pensadores/04-psicologia-social/asch.md) · [Milgram](../../../09-bibliografia/autores-pensadores/04-psicologia-social/milgram.md) · [Foucault](../../../09-bibliografia/autores-pensadores/03-sociologia/foucault.md)
-
----
-
-## 2. Poder, autoridad e influencia (distinciones útiles)
-
-| Concepto | Definición operativa en el aula |
-|----------|----------------------------------|
-| **Poder** | Capacidad de afectar la conducta, las oportunidades o el estatus de otros (recursos, sanciones, legitimidad, expertise, redes). |
-| **Autoridad** | Poder **reconocido como legítimo** por el grupo o por la institución. |
-| **Influencia** | Cambio de actitudes o conductas sin necesidad de coerción formal. |
-| **Liderazgo** | Proceso de **influir** hacia objetivos comunes (tarea y/o relación); formal o informal. |
-
-**French y Raven** (bases del poder social):
-
-| Base | En el aula de Matemáticas |
-|------|---------------------------|
-| **Coercitivo** | Amenaza de sanción, nota punitiva |
-| **De recompensa** | Notas, privilegios, reconocimiento público |
-| **Legítimo** | Rol institucional de profesor/a |
-| **De experto** | Dominio de la materia y de la mediación didáctica |
-| **Referente** | Identificación / respeto personal |
-| **Informacional** | Control de criterios, información relevante |
-
-Un liderazgo docente **sostenible** se apoya más en lo legítimo + experto + referente que en lo meramente coercitivo.
+**Enlaces del repo:** [Tema 1](Tema1_El_aula_como_grupo.md) · [Gestión de aula](../../procesos-y-contextos-educativos/materiales/gestion-aula-disrupcion-matematicas.md) · [Comunicación con familias](../materiales/comunicacion-con-familias-matematicas.md) · [Exigencia cognitiva](../../diseno-curricular-e-instruccional-de-matematicas/materiales/exigencia-cognitiva-disciplina-razonamiento.md) · [Lewin](../../../09-bibliografia/autores-pensadores/04-psicologia-social/lewin.md) · [Asch](../../../09-bibliografia/autores-pensadores/04-psicologia-social/asch.md) · [Milgram](../../../09-bibliografia/autores-pensadores/04-psicologia-social/milgram.md) · [Tajfel](../../../09-bibliografia/autores-pensadores/04-psicologia-social/tajfel.md) · [Foucault](../../../09-bibliografia/autores-pensadores/03-sociologia/foucault.md)
 
 ---
 
-## 3. Planos de las relaciones de poder
+## 2. Bases del poder (French y Raven)
 
-### 3.1. Entre profesor y alumnado
+**French y Raven (1959)** propusieron cinco bases del poder social; **Raven** incorporó después el **poder informacional**.
 
-Asimetría **por diseño** (evaluación, tiempo, dirección de la actividad) ≠ arbitrio.
+| Base | Definición | Ejemplo en Matemáticas | Riesgo / límite |
+|------|------------|------------------------|-----------------|
+| **Recompensa** | Capacidad percibida de otorgar premios | Elegir el siguiente problema; reconocimiento público; feedback positivo | Si solo se actúa por el premio, baja la motivación intrínseca |
+| **Coercitivo** | Capacidad percibida de imponer costes | Sanción, pérdida de privilegio, abandono temporal de la actividad | Detiene conducta; no genera compromiso; exceso → miedo o resistencia |
+| **Legítimo** | Derecho percibido a influir (rol) | “Soy el profesor y organizo estos 20 minutos” | La legitimidad formal **no** garantiza liderazgo |
+| **Experto** | Competencia percibida en un ámbito | Demostrar *por qué* funciona un procedimiento; criterio didáctico | Sin escucha puede volverse dogmático |
+| **Referente** | Deseo de identificarse con la persona | Coherencia, valores, manera de relacionarse | Dependencia del “gustar”; riesgo de favoritismo |
+| **Informacional** | Cambio vía argumentos e información | “No lo aceptes porque yo lo diga: comprobemos si el razonamiento sostiene la solución” | Exige tiempo y cultura de argumentación |
 
-| Dimensión | Preguntas para el practicum |
-|-----------|-----------------------------|
-| Quién define la tarea | ¿Solo el camino de la pizarra o varias estrategias? |
-| Quién habla | ¿Monopolio de 3–4 voces? |
-| Qué se sanciona | ¿Error matemático o disrupción? |
-| Transparencia | ¿Criterios de evaluación públicos y estables? |
+**Idea docente:** un liderazgo sostenible se apoya más en **legítimo + experto + referente + informacional** que en coerción habitual. La coerción puede ser puntual (seguridad, límite claro); no puede ser el único idioma del aula.
 
-**Poder productivo:** devolución (Brousseau), mediación por preguntas, error como información.  
-**Poder empobrecedor:** humillación, nota como arma, opacidad.
+---
+
+## 3. Planos de las relaciones de poder en la escuela
+
+### 3.1. Profesor–alumnado
+Asimetría **por diseño** (evaluación, tiempo, dirección) ≠ arbitrio.  
+**Productivo:** devolución (Brousseau), preguntas, error como información.  
+**Empobrecedor:** humillación, nota como arma de convivencia, opacidad de criterios.
 
 ### 3.2. Entre alumnos
+Líderes informales, chivo expiatorio, presión antiacadémica, estatus por rendimiento o popularidad. Sociometría del [Tema 1](Tema1_El_aula_como_grupo.md) para *ver* redes.
 
-Líderes informales, chivo expiatorio, presión de conformidad (“no levantes la mano”), estatus académico polarizado. La sociometría del [Tema 1](Tema1_El_aula_como_grupo.md) ayuda a *ver* esas redes.
-
-### 3.3. Dentro del grupo-clase
-
+### 3.3. Grupo-clase
 Normas implícitas: quién puede equivocarse en voz alta; si pedir ayuda es debilidad; si el cooperativo es real o “copia del que sabe”.
 
-### 3.4. En la comunidad educativa
-
-Dirección, departamento, familias ([comunicación](../materiales/comunicacion-con-familias-matematicas.md)), administración, delegados. Tensión autonomía de aula / presión institucional.
-
----
-
-## 4. Modelos de liderazgo (6.1)
-
-### 4.1. Lewin, Lippitt y White: tres estilos clásicos
-
-| Estilo | Cómo decide | Efectos típicos |
-|--------|-------------|-----------------|
-| **Autocrático** | Decide solo; controla | Producción bajo vigilancia; dependencia; hostilidad o apatía al retirar al líder |
-| **Democrático** | Participación; orienta | Mejor clima; más iniciativa; producción más estable |
-| **Laissez-faire** | Mínima intervención | Desorganización; frustración |
-
-Hay momentos de **dirección clara** legítimos (seguridad, consignas, prueba). El laissez-faire no es “confianza”: es ausencia de marco.
-
-### 4.2. Tarea vs relación
-
-| Orientación | Énfasis | Riesgo si se extremiza |
-|-------------|---------|------------------------|
-| **Tarea** | Objetivos, tiempos, resultados | Clima frío; solo producto |
-| **Relación** | Clima, apoyo, pertenencia | Pérdida de exigencia |
-
-Meta: **alta exigencia + alto apoyo** ([exigencia cognitiva](../../diseno-curricular-e-instruccional-de-matematicas/materiales/exigencia-cognitiva-disciplina-razonamiento.md)).
-
-### 4.3. Formal e informal
-
-Reconocer líderes informales **prosociales**; no combatir solo con coerción a los disruptivos sin ofrecer, cuando quepa, un rol legítimo alternativo.
-
-### 4.4. Liderazgo distribuido
-
-Roles de material, tiempo, explicación entre iguales. En Thinking Classroom, el que explica una estrategia ejerce liderazgo de **experto momentáneo**, no sustituye al docente.
-
-### 4.5. Autoridad pedagógica vs autoritarismo
-
-| Autoridad pedagógica | Autoritarismo |
-|----------------------|---------------|
-| Normas claras y estables | Arbitrariedad |
-| Exigencia con mediación | Humillación |
-| Escucha y rectificación posible | Cierre total |
-| Poder al servicio del aprendizaje | Poder como fin |
-
-### 4.6. Liderazgo transformacional (Bass): las 4 I
-
-Bernard **Bass** (a partir de Burns) describe un liderazgo que no se limita al intercambio nota/castigo (**transaccional**) ni a la pasividad (**laissez-faire**), sino que busca **elevar** motivación y criterio del grupo. Cuatro dimensiones (*4 I*):
-
-| Dimensión | Nombre | En el aula de Matemáticas |
-|-----------|--------|---------------------------|
-| **1. Influencia idealizada** | *Idealized influence* | El docente es **referente**: coherencia ética, admite un error en la pizarra y lo corrige con rigor; modela perseverancia. |
-| **2. Motivación inspiradora** | *Inspirational motivation* | Visión de la tarea con sentido: “vamos a poder *argumentar* por qué conviene una tarifa”, no solo “haced del 3 al 15”. |
-| **3. Estimulación intelectual** | *Intellectual stimulation* | Problemas que hacen pensar; contraejemplos; mediación por preguntas; cuestionar “siempre se hace así”. |
-| **4. Consideración individualizada** | *Individualized consideration* | Andamiaje distinto según necesidad (checklist vs ampliación); atención al desarrollo de cada uno sin rebajar el objetivo de aprendizaje. |
-
-**Puente con el resto del tema:**
-
-| Marco del Tema 2 | Lectura transformacional |
-|------------------|--------------------------|
-| Lewin | El democrático se acerca en clima; las 4 I añaden visión, estímulo intelectual y atención individual |
-| French y Raven | Se apoya en legítimo + experto + referente más que en coercitivo |
-| Kelman | Apunta a **internalización**, no solo cumplimiento |
-| Asch | La estimulación intelectual legitima disentir con argumentos |
-
-**Precauciones:** no confundir con laissez-faire ni con sobreimplicación emocional; la asimetría de evaluación no desaparece; en grupos muy disruptivos hace falta **marco** *y* las 4 I.
-
-Contraste breve:
-
-| Estilo | Lógica |
-|--------|--------|
-| **Transaccional** | Si cumples → recompensa; si no → sanción |
-| **Transformacional** | Visión + estímulo + modelo + atención al desarrollo |
-| **Pasivo** | Poca intervención (cercano al laissez-faire de Lewin) |
+### 3.4. Comunidad educativa
+Dirección, departamento, familias, administración, delegados. Tensión autonomía de aula / presión institucional.
 
 ---
 
-## 5. Procesos de influencia social (6.2)
+## 4. El liderazgo como fenómeno relacional
 
-### 5.1. Conformidad (Asch)
+El liderazgo no se entiende solo por rasgos del líder. Evolución de la pregunta de investigación:
 
-Sujetos aceptan juicios erróneos de la mayoría (longitud de líneas).
+> De «¿qué características tiene un buen líder?»  
+> a «¿qué ocurre entre **líder, seguidores y contexto**?»
 
-**En el aula:** callar la respuesta correcta; el “que más manda” impone el procedimiento en el grupo.  
+Tres enfoques complementarios:
+
+| Enfoque | Pregunta | Aporte |
+|---------|----------|--------|
+| **Centrado en el líder** | ¿Qué rasgos o conductas? | Rasgos; estilos conductuales |
+| **Centrado en el contexto** | ¿Qué estilo encaja en esta situación? | Contingencia; madurez del grupo |
+| **Centrado en los seguidores** | ¿Por qué siguen / se identifican? | Identidad social; expectativas |
+
+Línea histórica orientativa:
+
+```text
+Rasgos → Conductas → Situación/contexto → Relación líder–seguidores
+      → Transformacional / relacional → Ético, auténtico, positivo
+```
+
+---
+
+## 5. Enfoque de los rasgos
+
+Pregunta clásica: ¿qué características hacen líder a alguien?
+
+**Stogdill** (revisiones, p. ej. 1948) mostró que **no** hay lista universal de rasgos que garantice el liderazgo: la eficacia depende también de la situación.
+
+Rasgos a menudo asociados: inteligencia, confianza, responsabilidad, iniciativa, estabilidad emocional, sociabilidad, integridad, comunicación.
+
+**Límite:** pensar que “el líder nace”. Alguien puede tener rasgos favorables y fracasar en un contexto; otro puede desarrollar conductas de liderazgo.
+
+---
+
+## 6. Enfoque conductual
+
+De «¿cómo *es*?» a «¿qué *hace*?» — conductas que se pueden aprender.
+
+### 6.1. Lewin, Lippitt y White (1939)
+
+| Estilo | Conducta del líder | Efectos típicos | En el aula |
+|--------|--------------------|-----------------|------------|
+| **Autoritario / autocrático** | Decide solo; controla; limita participación | Producción bajo vigilancia; dependencia; hostilidad o apatía al retirar al líder | Útil en emergencia o consignas muy claras; reduce autonomía si es el único estilo |
+| **Democrático** | Consulta, explica, comparte responsabilidades | Mejor clima; más iniciativa; producción más estable | “Tenemos este problema: ¿qué estrategias?” — **no** es ausencia de autoridad |
+| **Laissez-faire** | Intervención mínima | Desorganización si el grupo necesita estructura | Puede valer con grupos muy maduros; no es “confianza”, es **falta de marco** |
+
+### 6.2. Estudios de Ohio: estructura y consideración
+
+La investigación de la **Ohio State University** consolidó dos dimensiones de conducta del líder:
+
+| Dimensión | Qué hace el líder | Ejemplo en mates |
+|-----------|-------------------|------------------|
+| **Estructura de iniciación** (*initiating structure*) | Organiza, define objetivos, clarifica procedimientos y roles | “Primero conjetura; luego prueba con un caso; después generalizamos” |
+| **Consideración** | Atiende a personas, respeto, apoyo, clima | Escucha el bloqueo; no ridiculiza el error; nombra el esfuerzo |
+
+**Alta estructura + alta consideración** es especialmente potente en Secundaria: “Sé qué tenemos que lograr *y* me importa que podáis hacerlo con sentido” — alineado con **alta exigencia + alto apoyo** ([exigencia cognitiva](../../diseno-curricular-e-instruccional-de-matematicas/materiales/exigencia-cognitiva-disciplina-razonamiento.md)).
+
+### 6.3. El contexto importa
+
+No hay un estilo universalmente óptimo.
+
+| Situación | Orientación probable |
+|-----------|----------------------|
+| Grupo autónomo, tarea conocida, clima de confianza | Más participación / estimulación intelectual |
+| Tarea nueva, inseguridad alta, poco tiempo | Más estructura de iniciación y dirección clara |
+| Disrupción grave o seguridad | Límite firme (legítimo/coercitivo puntual) + recuperación de la relación |
+
+Adaptar a: madurez del grupo, dificultad de la tarea, tiempo, clima, experiencia previa.
+
+---
+
+## 7. Liderazgo formal e informal · identidad social
+
+| Tipo | Base | Ejemplo |
+|------|------|--------|
+| **Formal** | Cargo / autoridad institucional | Profesor, tutor, delegado |
+| **Informal** | Influencia sin cargo | Alumno prototípico del grupo |
+
+**Tajfel y Turner** (identidad social): alguien se convierte en líder informal cuando es percibido como **prototipo del “nosotros”** (“representa lo que somos”). Explica por qué un alumno sin nota excelente puede arrastrar al grupo —a favor o en contra de la tarea académica.
+
+Estrategia: aliar líderes informales **prosociales**; no combatir solo con coerción a los disruptivos sin ofrecer, cuando quepa, un rol legítimo.
+
+---
+
+## 8. Liderazgo carismático
+
+Capacidad de generar identificación, entusiasmo y compromiso emocional (**House** y desarrollos posteriores; **House y Howell** distinguen orientaciones más colectivas vs personalistas/explotadoras).
+
+**Advertencia ética:** el carisma no hace automáticamente “buen” líder. La pregunta no es solo «¿consigue que le sigan?», sino **«¿hacia dónde?»**. En educación, la influencia emocional del docente es alta: hay que vigilar la manipulación y el culto a la persona.
+
+---
+
+## 9. Liderazgo transaccional y transformacional
+
+### 9.1. Transaccional
+Lógica de **intercambio**: si haces X, obtienes Y (esfuerzo → recompensa; incumplimiento → consecuencia). Útil para expectativas claras y estructura. Límite: puede quedarse en cumplimiento sin desarrollo profundo.
+
+### 9.2. Transformacional (Bass; modelo de rango completo con Avolio)
+No solo conseguir que hagan algo: **elevar** motivación, capacidades y compromiso. **Cuatro dimensiones (4 I):**
+
+| Dimensión | Qué implica | Ejemplo en mates |
+|-----------|-------------|------------------|
+| **Influencia idealizada** | Modelo coherente, confianza | Admitir un error en la pizarra y corregirlo con rigor |
+| **Motivación inspiradora** | Visión con sentido | “Vamos a poder *argumentar* qué tarifa conviene”, no solo “del 3 al 15” |
+| **Estimulación intelectual** | Cuestionar, crear, reformular | Contraejemplo; “¿misma área ⇒ mismo perímetro?” |
+| **Consideración individualizada** | Desarrollo de cada uno | Andamiaje distinto sin rebajar el objetivo de aprendizaje |
+
+### 9.3. Comparación
+
+| Aspecto | Transaccional | Transformacional |
+|---------|---------------|------------------|
+| Base | Intercambio | Desarrollo y visión |
+| Motivación | Recompensas / consecuencias | Sentido, valores, capacidad |
+| Alumno | Ejecuta | Se implica; gana autonomía |
+| Profesor | Organiza y regula | Inspira, estimula, desarrolla |
+| Riesgo | Dependencia del premio | Idealización excesiva del líder |
+
+**No son incompatibles:** estructura transaccional clara + impulso transformacional. Bass y Avolio sitúan ambos en el **modelo de rango completo**, junto al liderazgo pasivo (cercano al laissez-faire).
+
+**Puente con French y Raven / Kelman:** transformacional se apoya en experto, referente e informacional y apunta a **internalización**, no solo cumplimiento.
+
+---
+
+## 10. Liderazgo positivo, auténtico y ético
+
+### 10.1. Positivo
+Énfasis en fortalezas, bienestar, relaciones y crecimiento. En el aula: reconocer capacidades, autonomía, expectativas altas **y realistas**, oportunidades de progreso.  
+**No** es “todo es maravilloso”: **apoyo y exigencia coexisten**.
+
+### 10.2. Auténtico (Avolio y Gardner, 2005)
+Autoconciencia, coherencia valores–discurso–conducta, transparencia, relaciones genuinas.  
+En mates: «No lo sé; vamos a investigarlo» puede **aumentar** credibilidad (honestidad intelectual), no destruir autoridad.
+
+### 10.3. Ético
+La eficacia no basta. Pregunta: ¿es **moralmente defendible** lo que hace el líder?  
+Justicia, respeto, integridad, transparencia, dignidad del alumnado, coherencia normas–comportamiento. Un líder puede movilizar y aun así ser injusto o manipulador.
+
+---
+
+## 11. Procesos de influencia social (6.2)
+
+### 11.1. Conformidad (Asch, 1956)
+Juicios erróneos de la mayoría arrastran incluso con evidencia perceptiva en contra.
+
+**En mates:** callar el 56 si el grupo dice 54. Aprender incluye **sostener un juicio razonado** frente a la presión —pensamiento crítico, no solo la respuesta correcta.
+
 **Contraestrategias:** pensamiento individual antes del grupo; norma de discrepar con argumentos; valorar estrategias diversas.
 
-Ficha: [Asch](../../../09-bibliografia/autores-pensadores/04-psicologia-social/asch.md).
+### 11.2. Obediencia a la autoridad (Milgram, 1963)
+Alta obediencia a órdenes de una figura de autoridad pese al malestar ético.
 
-### 5.2. Obediencia a la autoridad (Milgram)
+**Lectura educativa (cautelosa, sin replicar el experimento):** la bata blanca / el rol docente puede obtener **cumplimiento** sin comprensión.  
+**Disciplina ≠ obediencia ciega.** Meta: “entiendo la autoridad del profesor *y* puedo argumentar y cuestionar con respeto”.
 
-Altos niveles de obediencia a una figura de autoridad en laboratorio.
+### 11.3. Cumplimiento, identificación, internalización (Kelman)
 
-**Lectura cautelosa:** no replicar el experimento; advertir que la figura docente puede obtener **cumplimiento** sin comprensión ni adhesión moral. Obedecer ≠ internalizar.
+| Nivel | Motor | Ejemplo |
+|-------|-------|--------|
+| Cumplimiento | Premio / castigo | Solo si hay nota |
+| Identificación | Gustar / parecerse | Imita al popular |
+| Internalización | Criterio propio | Revisa porque *tiene sentido* comprobar |
 
-Ficha: [Milgram](../../../09-bibliografia/autores-pensadores/04-psicologia-social/milgram.md).
+### 11.4. Influencia de minorías — Moscovici, Lage y Naffrechoux (1969)
 
-### 5.3. Niveles de cambio (Kelman)
+Diseño: 4 ingenuos + 2 cómplices; diapositivas **azules**; minoría dice “verde”.
 
-| Nivel | Qué ocurre | Ejemplo en mates |
-|-------|------------|------------------|
-| **Cumplimiento** | Por recompensa/castigo | Solo si hay nota |
-| **Identificación** | Para gustar o parecerse | Imita al popular |
-| **Internalización** | Criterio propio | Revisa porque *tiene sentido* comprobar |
+| Minoría | Efecto |
+|---------|--------|
+| **Consistente** | Influencia significativa sobre la mayoría |
+| **Inconsistente** | Casi nula |
 
-### 5.4. Influencia de minorías: Moscovici, Lage y Naffrechoux (1969)
+El **estilo de conducta** (consistencia) permite **innovación**, no solo conformidad a la mayoría.
 
-Hasta los años 60, la investigación enfatizaba la **conformidad** (mayoría → individuo). **Serge Moscovici**, con **Elisabeth Lage** y **Martine Naffrechoux** (1969), invirtieron el esquema: ¿puede una **minoría** influir en la mayoría?
+**Aula:** cambiar el clima (“el error se discute”) exige mensaje **estable en el tiempo**. Inconsistencia docente anula el efecto. Vigilar también minorías antiacadémicas consistentes.
 
-**Diseño clásico (diapositivas azul/verde):**
+### 11.5. Influencia informacional vs normativa
 
-- Grupos de 6: 4 participantes ingenuos + **2 cómplices** (minoría).  
-- Estímulos objetivamente **azules**.  
-- Condición **consistente:** los dos cómplices dicen siempre “verde”.  
-- Condición **inconsistente:** a veces “verde”, a veces “azul”.  
-- Grupo control sin presión de minoría.
+| Tipo | Motor |
+|------|--------|
+| Informacional | Quiero estar en lo cierto |
+| Normativa | Quiero ser aceptado |
 
-**Hallazgos clave:**
-
-| Condición | Efecto sobre la mayoría |
-|-----------|-------------------------|
-| Minoría **consistente** | Influencia significativa (~8 % de respuestas “verde”; parte de los sujetos al menos una vez) |
-| Minoría **inconsistente** | Influencia casi nula |
-
-No es solo acuerdo verbal superficial: hay indicios de cambio en el **código perceptivo** (pruebas de discriminación posteriores). La tesis de Moscovici: el **estilo de conducta** (sobre todo la **consistencia**) es una fuente general de influencia; la minoría puede producir **innovación**, no solo la mayoría presión a conformarse.
-
-**Implicaciones para el aula (muy útiles en el Tema 2):**
-
-1. **Cambiar el clima es posible desde pocos**, si el mensaje es estable en el tiempo (p. ej. “el error se discute, no a la persona”; “está bien no saber al inicio del problema”).  
-2. La **inconsistencia** del docente o del grupo “aliado” anula el efecto (“un día lo permito, al otro ridiculizo”).  
-3. El docente puede **sostener** una minoría prosocial (alumnos que modelan perseverancia o respeto) para que deje de ser fringe.  
-4. Complementa a Asch: no solo “la mayoría aplasta”; también “una minoría firme puede desplazar normas”, en ambos sentidos (prosocial o antiacadémico: conviene vigilar minorías que normalizan el desprecio al esfuerzo).
-
-**Lectura con liderazgo transformacional:** la **estimulación intelectual** y la **influencia idealizada** del docente son formas de hacer **consistente** y visible una minoría de normas de aprendizaje profundo frente a la mayoría que premia solo la velocidad o el silencio estratégico.
-
-### 5.5. Influencia informacional vs normativa
-
-| Tipo | Motor | Ejemplo |
-|------|-------|--------|
-| **Informacional** | Quiero estar en lo cierto | Me convence la demostración |
-| **Normativa** | Quiero ser aceptado | Callo la duda para no quedar mal |
-
-### 5.6. Currículo oculto y poder
-
-Mensajes no escritos: a quién se da más tiempo; qué ejemplos se usan; si el silencio es “no sabe” o “piensa”; si se premia la velocidad más que el razonamiento.
+### 11.6. Currículo oculto
+A quién se da más tiempo; qué ejemplos; si el silencio es “no sabe” o “piensa”; si se premia velocidad más que razonamiento.
 
 ---
 
-## 6. Poder y Matemáticas (síntesis aplicada)
+## 12. Ejemplo integrado (3.º ESO, problema complejo)
 
-| Situación | Lectura | Intervención orientativa |
-|-----------|---------|--------------------------|
-| Siempre los mismos 3 responden | Monopolio de palabra | Turnos; pensamiento individual; vertical |
-| “Eso es de empollones” | Norma antiacadémica | Prestigio del esfuerzo; minoría consistente prosocial |
-| Nota para callar | Poder coercitivo | Separar evaluación y convivencia |
-| Cooperativo = uno trabaja | Jerarquía informal | Roles rotativos; Jigsaw |
-| Error → burla | Seguridad cognitiva rota | Norma estable + sanción del respeto, no del error |
+| Recurso | Cómo aparece |
+|---------|----------------|
+| Poder legítimo | Marco de 20 minutos de trabajo |
+| Coercitivo (puntual) | Consecuencia si se interrumpe de forma reiterada |
+| Recompensa | Grupos que terminen eligen entre dos problemas |
+| Experto + informacional | Razonar *por qué* una estrategia funciona |
+| Referente | Coherencia y cercanía percibidas |
+| Democrático / Ohio | Estrategias propuestas por el grupo; estructura clara de fases |
+| Transformacional | Preguntas que obligan a generalizar; no regalar la solución |
+| Consideración individualizada | Ayuda distinta a quien bloquea |
+| Ético | Criterios de evaluación transparentes; sin favoritismos |
 
----
-
-## 7. Foucault (lectura breve)
-
-El poder como red de prácticas que normalizan (vigilancia, examen, clasificación). Sirve para **desnaturalizar** “siempre se ha hecho así” sin negar evaluación y orden.
-
-Ficha: [Foucault](../../../09-bibliografia/autores-pensadores/03-sociologia/foucault.md).
+**Idea:** cuando aumenta la autonomía del alumnado, la autoridad del profesor **no desaparece**: **cambia la forma de ejercerla**.
 
 ---
 
-## 8. Checklist practicum
+## 13. Idea clave para el Máster
 
-- [ ] Normas claras y estables (consistencia tipo minoría influyente)  
-- [ ] Bases de poder habituales (¿experto/referente o solo coercitivo?)  
+> Un buen profesor no es quien solo consigue **obediencia**, sino quien hace que el alumnado **necesite progresivamente menos obedecer** porque ha ganado autonomía, criterio y responsabilidad.
+
+```text
+Control → cumplimiento → participación → implicación → autonomía
+```
+
+El **poder** puede lograr que alguien haga algo.  
+El **liderazgo educativo** debería lograr que quiera comprenderlo, sepa hacerlo y pueda actuar con creciente autonomía.
+
+---
+
+## 14. Checklist practicum
+
+- [ ] Normas claras y **consistentes** (efecto minoría influyente)  
+- [ ] Bases de poder habituales (¿experto/informacional o solo coercitivo?)  
+- [ ] Estructura de iniciación **y** consideración  
 - [ ] ¿Quién monopoliza la palabra?  
-- [ ] ¿El error es seguro?  
-- [ ] Líderes informales a favor / en contra de la tarea  
-- [ ] ¿Practico alguna de las 4 I esta semana?  
+- [ ] Error seguro vs ridiculizado  
+- [ ] Líderes informales a favor / en contra  
+- [ ] Evidencia de alguna de las 4 I esta semana  
 - [ ] Separar disrupción y bloqueo cognitivo  
+- [ ] Coherencia ética: criterios justos y transparentes  
 
 ---
 
-## 9. Actividades orientativas
+## 15. Actividades orientativas
 
-1. Observación de 20 min: quién habla; qué se refuerza.  
-2. Mapa French y Raven de un conflicto.  
-3. Norma de clase: diseño para **internalización** + plan de **consistencia** (Lage–Naffrechoux).  
+1. Observación 20 min: quién habla; qué se refuerza.  
+2. Mapa French y Raven de un conflicto real o observado.  
+3. Norma de clase orientada a internalización + plan de **consistencia**.  
 4. Caso: líder informal que boicotea grupos aleatorios (tarea, relación, norma).  
-5. Autoevaluación 4 I: una evidencia de cada dimensión en una unidad de mates.
+5. Autoevaluación 4 I en una unidad de mates.  
+6. Comparar dos grupos (maduro vs principiante en la tarea): qué estilo priorizarías y por qué (contexto).
 
 ---
 
-## 10. Relación con el Tema 1
+## 16. Relación con el Tema 1
 
 | Tema 1 | Tema 2 |
 |--------|--------|
 | Estructura del grupo | Cómo el **poder** la atraviesa |
 | Técnicas de dinamización | Legitimidad y estilo de quien las impulsa |
-| Sociometría | Redes de influencia y exclusión |
+| Sociometría | Redes de influencia; prototipos de identidad |
 | Cooperación | Jerarquías ocultas; minorías prosociales |
 
 ---
 
-## 11. Referencias orientativas
+## 17. Referencias fundamentales (verificadas orientativamente)
 
-- Lewin, K.; Lippitt, R.; White, R. K. — climas de liderazgo.  
-- Bass, B. M. — liderazgo transformacional (4 I).  
-- French, J. R. P.; Raven, B. — bases del poder social.  
-- Asch, S. — conformidad.  
-- Milgram, S. — obediencia a la autoridad.  
-- Kelman, H. — cumplimiento, identificación, internalización.  
-- **Moscovici, S.; Lage, E.; Naffrechoux, M. (1969).** Influence of a consistent minority on the responses of a majority in a color perception task. *Sociometry, 32*(4), 365–380.  
-- Foucault, M. — poder disciplinar / examen (lectura selectiva).
+- French, J. R. P., & Raven, B. (1959). Bases del poder social; Raven añade después el poder **informacional**.  
+- Lewin, K., Lippitt, R., & White, R. K. (1939). Estilos autoritario, democrático, laissez-faire.  
+- Stogdill, R. M. (1948 y revisiones). Enfoque de rasgos; límites de listas universales.  
+- Estudios Ohio State — *initiating structure* y *consideration*.  
+- Tajfel, H., & Turner, J. C. — identidad social y liderazgo como prototipicalidad.  
+- Asch, S. E. (1956). Conformidad.  
+- Milgram, S. (1963). Obediencia a la autoridad.  
+- Moscovici, S., Lage, E., & Naffrechoux, M. (1969). *Sociometry* — minoría consistente.  
+- House / House & Howell — liderazgo carismático (orientación colectiva vs personalista).  
+- Bass, B. M. (1985). Liderazgo transformacional y transaccional.  
+- Bass, B. M., & Avolio, B. J. — modelo de rango completo.  
+- Avolio, B. J., & Gardner, W. L. (2005). Liderazgo auténtico.  
+
+*No incorporar citas manuscritas no identificadas (p. ej. “Blauch 2016”) hasta localizar la fuente exacta.*
 
 ---
 
