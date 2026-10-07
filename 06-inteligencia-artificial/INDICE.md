@@ -58,7 +58,8 @@ Recursos sobre IA generativa, IA educativa, pensamiento crítico, diseño de act
 |-----------|-------------|
 | [actividades/README.md](actividades/README.md) | Espacio de trabajo |
 | [actividades/propuestas-aula.md](actividades/propuestas-aula.md) | Propuestas concretas (ESO y Bachillerato) listas para adaptar |
-| [actividades/cazador-alucinaciones-completo.md](actividades/cazador-alucinaciones-completo.md) | **Secuencia completa** (objetivos, prompt de preparación, rúbrica, variantes, DUA) |
+| [actividades/cazador-alucinaciones-completo.md](actividades/cazador-alucinaciones-completo.md) | **Secuencia completa** — IA como objeto de análisis |
+| [actividades/dialogo-socratico-ia-completo.md](actividades/dialogo-socratico-ia-completo.md) | **Secuencia completa** — IA como tutor socrático (prompts, norma, plantilla, rúbrica, DUA) |
 
 ## 7. Evaluación
 
