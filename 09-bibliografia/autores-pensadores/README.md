@@ -8,10 +8,8 @@ No pretende ser una lista de autores «obligatorios» ni sustituir las guías do
 
 | Esta carpeta **sí** | Esta carpeta **no** |
 |---------------------|---------------------|
-| Fichas de **mapa intelectual**: área, conceptos, ámbitos del Máster, preguntas de lectura, localización bibliográfica | Historias o enigmas de aula (1–2 sesiones) → ver [`historias-matematicas`](../../03-materiales/historias-matematicas/) |
-| Orientación de lectura para el futuro profesor | Situaciones de aprendizaje con CE, producto y secuencia → ver [`situaciones-aprendizaje`](../../04-pbl-abp/situaciones-aprendizaje/) |
-
-Algunos nombres (Galileo, Newton, Hilbert, Turing, …) tienen también una **historia matemática** para el aula. Son complementarias: aquí el foco es el lugar del autor en el mapa del Máster; allí, el relato didáctico.
+| Fichas de **mapa intelectual**: área, conceptos, ámbitos del Máster, preguntas de lectura, localización bibliográfica | Historias o enigmas de aula → [`historias-matematicas`](../../03-materiales/historias-matematicas/) |
+| Orientación de lectura para el futuro profesor | Situaciones de aprendizaje → [`situaciones-aprendizaje`](../../04-pbl-abp/situaciones-aprendizaje/) |
 
 ## Estructura
 
@@ -21,55 +19,34 @@ Algunos nombres (Galileo, Newton, Hilbert, Turing, …) tienen también una **hi
 | [`02-psicologia-aprendizaje`](./02-psicologia-aprendizaje/) | Psicología del desarrollo y del aprendizaje |
 | [`03-sociologia`](./03-sociologia/) | Sociología de la educación y sociedad |
 | [`04-psicologia-social`](./04-psicologia-social/) | Psicología social y dinámica de grupos |
-| [`05-educacion-matematica`](./05-educacion-matematica/) | Didáctica y Educación Matemática (incluye autores y sociedades del ámbito hispano) |
+| [`05-educacion-matematica`](./05-educacion-matematica/) | Didáctica y Educación Matemática |
 | [`06-curriculo-evaluacion-investigacion`](./06-curriculo-evaluacion-investigacion/) | Currículo, evaluación e investigación |
 | [`07-tecnologia-ia`](./07-tecnologia-ia/) | Tecnología educativa, programación e IA |
 | [`08-matematicas-ciencia-computacion`](./08-matematicas-ciencia-computacion/) | Matemáticas, ciencia y computación |
 
-## Cómo utilizar las fichas
+## Mapas transversales
 
-Cada ficha contiene:
-
-1. área intelectual;
-2. conceptos clave;
-3. **ámbitos del Máster** relacionados (por **nombre de materia**, sin códigos numéricos de plan de estudios);
-4. preguntas guía o aplicación al aula;
-5. orientaciones de lectura / localización;
-6. advertencia sobre núcleo vs ampliación.
-
-### Prioridad de estudio
-
-- **Nivel A — núcleo:** Educación Matemática, psicología del aprendizaje, currículo y pedagogía.
-- **Nivel B — contexto:** sociología, psicología social, evaluación e investigación.
-- **Nivel C — ampliación:** tecnología, programación, computación e IA.
-
-## Ámbitos del Máster (por nombre)
-
-- Psicología del desarrollo y de la educación
-- Procesos y contextos educativos
-- Sociedad, familia y procesos grupales
-- Contenidos disciplinares de Matemáticas
-- Diseño curricular e instruccional de Matemáticas
-- Diseño de actividades de aprendizaje de Matemáticas
-- Innovación e investigación educativa en Matemáticas
-- Prácticum
-- Trabajo Fin de Máster (TFM)
-- Educación emocional del profesorado
-- Habilidades del pensamiento
-- Habilidades comunicativas
-- TIC para el aprendizaje
+| Documento | Uso |
+|-----------|-----|
+| [**mapa-paradigma-tecnocratico-positivista.md**](./mapa-paradigma-tecnocratico-positivista.md) | Cadena empírico-analítico / **racional-tecnológico** (Comte → Bobbitt/Tyler → Skinner…) sin etiquetar a todos como “positivistas” |
+| [`INDICE.md`](./INDICE.md) | Listado de autores |
+| [`MAPA-AUTOR-AMBITO.md`](./MAPA-AUTOR-AMBITO.md) | Por ámbito del Máster |
+| [`RUTAS-LECTURA.md`](./RUTAS-LECTURA.md) | Itinerarios |
+| [`autores.json`](./autores.json) | Datos estructurados |
 
 ## Ejes intelectuales
 
 ```text
 APRENDER
 Piaget ─ Vygotsky ─ Bruner ─ Ausubel ─ Sweller
+         │
+         └── Thorndike ─ Skinner (conductismo / medición)
 
 EDUCAR
 Sócrates ─ Rousseau ─ Dewey ─ Montessori ─ Freire
 
 SOCIEDAD
-Durkheim ─ Weber ─ Bourdieu ─ Bernstein ─ Foucault
+Comte ─ Durkheim ─ Parsons ─ Weber ─ Bourdieu ─ Bernstein ─ Foucault
 
 AULA Y GRUPOS
 Lewin ─ Asch ─ Tajfel ─ Goffman ─ Festinger
@@ -79,27 +56,23 @@ Pólya ─ Freudenthal ─ Brousseau ─ Chevallard ─ Duval
                          │
                          └── Schoenfeld ─ Artigue ─ Godino
 
-CURRÍCULO / PROFESOR
-Tyler ─ Stenhouse ─ Shulman ─ Schön ─ Elliott
+CURRÍCULO / RACIONAL-TECNOLÓGICO
+Taylor (eficiencia) ─ Bobbitt ─ Tyler ─ Bloom ─ Taba ─ Gagné ─ Mager
+         │
+         └── contraste: Stenhouse ─ Shulman ─ Schön ─ Elliott
 
 TECNOLOGÍA
 Papert ─ Kay ─ Resnick ─ Siemens ─ Selwyn
-
-MATEMÁTICAS / COMPUTACIÓN
-Euclides ─ Galileo ─ Newton ─ Hilbert ─ Turing ─ Knuth
 ```
 
-## Documentos de navegación
+## Cómo utilizar las fichas
 
-- [`INDICE.md`](./INDICE.md) — listado de autores
-- [`MAPA-AUTOR-AMBITO.md`](./MAPA-AUTOR-AMBITO.md) — autores agrupados por ámbito del Máster
-- [`RUTAS-LECTURA.md`](./RUTAS-LECTURA.md) — itinerarios sugeridos
-- [`autores.json`](./autores.json) — datos estructurados (ámbitos por nombre)
+Cada ficha orienta área, conceptos, ámbitos del Máster y localización bibliográfica. **Nivel A** (núcleo): Educación Matemática, psicología del aprendizaje, currículo. **Nivel B:** sociología y evaluación. **Nivel C:** tecnología e IA.
 
 ## Criterio bibliográfico
 
-Las fichas orientan la búsqueda; no sustituyen la verificación de la obra (editorial, DOI, repositorio). Para el TFM, cada referencia debe contrastarse en fuente académica fiable.
+Las fichas orientan la búsqueda; no sustituyen la verificación de la obra. Para el TFM, contrastar cada referencia en fuente académica fiable.
 
-## Nota sobre ubicación de fichas
+## Nota
 
-Las fichas canónicas viven **dentro de las subcarpetas temáticas** (`01`…`08`). No deben mantenerse duplicados sueltos en la raíz de `autores-pensadores/` (salvo este README, índices y `autores.json`).
+Las fichas canónicas viven **dentro** de `01`…`08`. No duplicar en la raíz (salvo README, índices, mapas y `autores.json`).
