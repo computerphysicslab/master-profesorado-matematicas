@@ -61,6 +61,9 @@ Estudio de los fenómenos y contextos que dan sentido a un objeto matemático (p
 **Génesis escolar de un objeto**  
 Proceso por el cual un concepto matemático se construye progresivamente en la escuela (no aparece «completo» de golpe).
 
+**GeoGebra (uso didáctico)**  
+Software de geometría y álgebra dinámica. En el máster se trata como **medio** para conjeturar, convertir registros y verificar — no como fin en sí. Criterios de uso (modos exploración / conversión / verificación / demostración, predicción antes de arrastrar, producto fuera de pantalla): [geogebra-criterio-didactico.md](materiales/geogebra-criterio-didactico.md).
+
 **Heurística**  
 Estrategia general de búsqueda en resolución de problemas (particularizar, dibujar, descomponer, trabajar hacia atrás…), no un algoritmo que garantice la solución. Catálogo de aula: [heuristicas-y-mediacion.md](materiales/banco-problemas/heuristicas-y-mediacion.md).
 
