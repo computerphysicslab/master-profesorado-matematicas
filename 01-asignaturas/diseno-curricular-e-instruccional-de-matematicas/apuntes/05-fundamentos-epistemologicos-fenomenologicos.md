@@ -139,9 +139,13 @@ Empezar **solo** por la definición con límites, sin fenómenos de variación, 
 
 ---
 
-## 5. Representaciones y conversiones
+## 5. Representaciones y conversiones (Duval)
 
-Un objeto se comprende mejor cuando se puede **reconocer y traducir** entre registros:
+Un objeto se comprende mejor cuando se puede **reconocer y traducir** entre registros semióticos. Raymond **Duval** formula una tesis fuerte para la didáctica:
+
+> No hay comprensión matemática sin **coordinación de registros de representación**. El objeto no se identifica con una sola de sus escrituras.
+
+### 5.1. Registros frecuentes en Secundaria
 
 | Registro | Ejemplo (función lineal) |
 |----------|--------------------------|
@@ -149,14 +153,30 @@ Un objeto se comprende mejor cuando se puede **reconocer y traducir** entre regi
 | Tabular | Pares $(x, y)$ |
 | Gráfico | Recta en el plano |
 | Simbólico | $y = 0{,}08x + 12$ |
+| Figural | Recta numérica, diagrama de áreas (otros objetos) |
 
-**Conversión** (pasar de gráfica a expresión, de enunciado a tabla, etc.) es una actividad cognitiva exigente y evaluable. Muchos errores no son de «cálculo», sino de **cambio de representación**.
+### 5.2. Tratamiento vs conversión
 
-### Implicación para el diseño
+| Operación | Qué es | Ejemplo |
+|-----------|--------|---------|
+| **Tratamiento** | Transformar **dentro** del mismo registro | Resolver una ecuación por pasos algebraicos |
+| **Conversión** | Pasar **de un registro a otro** del mismo objeto | De la gráfica a $y=mx+n$; del enunciado a la tabla |
+
+El aula y los exámenes suelen **sobreentrenar tratamientos**. La comprensión exige también **conversiones**. Muchos errores no son de «cálculo», sino de **cambio de representación**.
+
+### 5.3. Congruencia
+
+Algunas conversiones son más fáciles porque los registros se parecen en estructura (p. ej. tabla → puntos); otras obligan a reorganizar la información (gráfica → ecuación; texto denso → fórmula). Hay que **enseñarlas y evaluarlas**, no darlas por supuestas.
+
+### 5.4. Implicación para el diseño
 
 1. No quedarse en un solo registro (solo fórmulas o solo dibujos).
-2. Planificar tareas explícitas de conversión.
+2. Planificar tareas explícitas de conversión (**ida y vuelta**).
 3. Preguntar: *¿qué representación introduce primero el libro? ¿Es la más adecuada para el fenómeno que quiero trabajar?*
+4. En la evaluación, incluir al menos un ítem que no sea solo tratamiento.
+
+**Material completo** (catálogo de registros, ejemplos por objeto, checklist, mediación, sesión modelo):  
+**[Registros de representación · Duval](../materiales/registros-representacion-duval.md)**
 
 ---
 
@@ -167,7 +187,7 @@ Para cualquier saber del currículo, el docente puede responder por escrito:
 1. **Identificación del objeto** — ¿Concepto, procedimiento, estructura?
 2. **Significados prioritarios en este curso** — ¿Cuáles sí / cuáles aún no?
 3. **Fenómenos de anclaje** — ¿Qué situaciones lo hacen necesario?
-4. **Representaciones** — ¿Cuáles usaré y en qué orden?
+4. **Representaciones** — ¿Cuáles usaré y en qué orden? ¿Qué **conversiones** exijo?
 5. **Nivel de formalización** — ¿Definición intuitiva, definición formal, demostración?
 6. **Conocimientos previos y obstáculos previsibles** — (enlace con [bloque 7](07-dificultades-y-obstaculos.md))
 7. **Tareas de construcción vs de aplicación** — ¿Hay al menos una tarea que *introduzca* el objeto?
@@ -202,7 +222,7 @@ Esta lista es la base de una **unidad didáctica** con fundamento, no solo con t
 | Pregunta | Respuesta de diseño |
 |----------|---------------------|
 | ¿Fenómenos? | Velocidad, ritmo de llenado, crecimiento de una magnitud |
-| ¿Riesgo? | Saber derivar y no interpretar $f'(a)$ |
+| ¿Riesgo? | Saber derivar y no interpretar $f'(a)$ — fallo típico de **conversión** entre simbólico, gráfico y contextual |
 | ¿Orden fenomenológico sugerido? | Variación media → variación instantánea → definición formal → técnicas |
 | ¿Representaciones? | Tabla de cocientes, secantes → tangente, expresión simbólica |
 
@@ -212,11 +232,11 @@ Esta lista es la base de una **unidad didáctica** con fundamento, no solo con t
 
 | Bloque | Conexión |
 |--------|----------|
-| [3 · Currículo LOMLOE](03-elementos-curriculo-lomloe.md) | Los *sentidos* matemáticos dialogan con significados y fenómenos |
+| [3 · Currículo LOMLOE](03-elementos-curriculo-lomloe.md) | Los *sentidos* matemáticos dialogan con significados y fenómenos; CE de representar y comunicar |
 | [4 · Programación](04-programacion-didactica.md) | La secuenciación debe respetar dependencias de significado, no solo de «temas» |
 | [6 · Transposición didáctica](06-transposicion-didactica.md) | Cómo el saber académico se convierte en saber enseñable |
 | [7 · Dificultades](07-dificultades-y-obstaculos.md) | Los obstáculos a menudo nacen de un significado o representación no trabajado |
-| [8 · Resolución de problemas](08-resolucion-de-problemas.md) | Los problemas son el vehículo de la construcción del objeto |
+| [8 · Resolución de problemas](08-resolucion-de-problemas.md) | Representar es heurística; los problemas son vehículo de construcción |
 | [9 · Génesis escolar](09-genesis-escolar-objetos-matematicos.md) | Trayectoria de tareas que hacen emerger el objeto |
 
 ---
@@ -235,11 +255,17 @@ Estudio de los fenómenos que un concepto organiza y de las situaciones que le d
 **Significado de un concepto**  
 Modo de interpretación y uso del concepto (p. ej. fracción como razón vs como operador).
 
-**Representación / registro**  
-Sistema semiótico en el que se expresa un objeto (gráfico, simbólico, verbal, tabular…).
+**Representación / registro (Duval)**  
+Sistema semiótico en el que se expresa un objeto (gráfico, simbólico, verbal, tabular, figural…).
+
+**Tratamiento**  
+Transformación *dentro* de un mismo registro (p. ej. manipulación algebraica).
 
 **Conversión**  
-Paso de una representación a otra del mismo objeto; actividad cognitiva central.
+Paso de una representación a otra del mismo objeto; actividad cognitiva central para la comprensión.
+
+**Congruencia (de una conversión)**  
+Grado en que la estructura del registro de salida facilita el paso al de llegada; las conversiones poco congruentes exigen enseñanza explícita.
 
 **Formalización**  
 Proceso de precisar definiciones, notación y reglas; debe ser gradual y justificada.
@@ -275,6 +301,9 @@ Antes de la unidad, responde las 8 preguntas del §6. Elige al menos un fenómen
 **6. ¿Sirve igual en Matemáticas A y en Matemáticas II?**  
 Sí el método; cambian los significados prioritarios y el nivel de formalización ([asignaturas y dimensiones](../materiales/asignaturas-eso-bachillerato/)).
 
+**7. ¿Tratamiento y conversión son lo mismo que «ejercicio y problema»?**  
+No. Un ejercicio puede ser un tratamiento; un problema rico suele exigir conversiones, pero la distinción Duval es sobre *registros*, no solo sobre rutina vs búsqueda.
+
 ---
 
 ## Test A/B
@@ -297,7 +326,7 @@ Sí el método; cambian los significados prioritarios y el nivel de formalizaci�
 
 **5.** Pasar de una gráfica a una expresión simbólica es:  
 - **A)** Un adorno.  
-- **B)** Una conversión entre representaciones, actividad central de comprensión.
+- **B)** Una **conversión** entre representaciones, actividad central de comprensión.
 
 **6.** Los fenómenos que dan sentido a un concepto:  
 - **A)** Solo pueden ser de la vida cotidiana.  
@@ -311,9 +340,17 @@ Sí el método; cambian los significados prioritarios y el nivel de formalizaci�
 - **A)** Fotocopiar la programación del año anterior sin más.  
 - **B)** Analizar el objeto (significados, fenómenos, representaciones, formalización, tareas de construcción).
 
+**9.** Según Duval, resolver una ecuación por pasos algebraicos es sobre todo:  
+- **A)** Una conversión.  
+- **B)** Un **tratamiento** (mismo registro).
+
+**10.** Entrenar solo tratamientos simbólicos en una unidad de funciones:  
+- **A)** Garantiza la comprensión del objeto función.  
+- **B)** Puede dejar sin trabajar la coordinación con gráfica y contexto.
+
 ### Soluciones
 
-1. **B** · 2. **B** · 3. **B** · 4. **B** · 5. **B** · 6. **B** · 7. **B** · 8. **B**
+1. **B** · 2. **B** · 3. **B** · 4. **B** · 5. **B** · 6. **B** · 7. **B** · 8. **B** · 9. **B** · 10. **B**
 
 ---
 
@@ -324,7 +361,7 @@ Elige **un objeto** del currículo de ESO o Bachillerato (p. ej. proporción, ec
 1. Tipo de objeto (concepto / procedimiento / estructura).  
 2. Significados prioritarios para el curso elegido.  
 3. Al menos **tres fenómenos** de anclaje.  
-4. Representaciones que usarás y **dos tareas de conversión**.  
+4. Representaciones que usarás y **dos tareas de conversión** (ida y vuelta si puedes).  
 5. Nivel de formalización previsto.  
 6. Una tarea que **introduzca** el objeto y otra que lo **aplique**.  
 7. Enlace a **uno o dos criterios** LOMLOE que justifiquen el diseño.
@@ -334,8 +371,11 @@ Elige **un objeto** del currículo de ESO o Bachillerato (p. ej. proporción, ec
 ## Material relacionado
 
 - [Programa de la asignatura](../programa.md)
+- **[Registros de representación · Duval](../materiales/registros-representacion-duval.md)**
 - [Bloque 3 — Elementos del currículo LOMLOE](03-elementos-curriculo-lomloe.md)
 - [Bloque 4 — Programación didáctica](04-programacion-didactica.md)
 - [Bloque 6 — Transposición didáctica](06-transposicion-didactica.md)
 - [Bloque 7 — Dificultades y obstáculos](07-dificultades-y-obstaculos.md)
+- [Bloque 8 — Resolución de problemas](08-resolucion-de-problemas.md)
 - [Bloque 9 — Génesis escolar de los objetos](09-genesis-escolar-objetos-matematicos.md)
+- [Fichas de objetos](../materiales/fichas-objetos/)
