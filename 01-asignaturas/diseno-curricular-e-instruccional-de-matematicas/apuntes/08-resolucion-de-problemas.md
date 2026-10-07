@@ -5,6 +5,8 @@
 
 > En el enfoque de esta asignatura, la resolución de problemas no es solo la fase final de «aplicar lo explicado». Puede ser el **punto de partida** del aprendizaje: el alumno se enfrenta a una situación, moviliza lo que sabe, formula ideas y *después* se formaliza el objeto matemático.
 
+**Materiales operativos:** [Thinking Classrooms](../materiales/thinking-classrooms-liljedahl.md) · [Heurísticas y mediación](../materiales/banco-problemas/heuristicas-y-mediacion.md) · [Problemas ricos](../materiales/banco-problemas/problemas-ricos.md) · [Generatrices](../materiales/banco-problemas/generatrices.md)
+
 ---
 
 ## 1. Problema frente a ejercicio
@@ -73,24 +75,69 @@ De poco sirve un «buen problema» en el papel si el alumnado **no entra** en é
 - Abandono inmediato o copia del compañero sin diálogo.
 - Ansiedad que paraliza (coordinar con clima de aula y, si persiste, con tutoría).
 
+Puente con Psicología: [ansiedad matemática](../../psicologia-del-desarrollo-y-de-la-educacion/materiales/ansiedad-matematica-aula.md) · [funciones ejecutivas](../../psicologia-del-desarrollo-y-de-la-educacion/materiales/funciones-ejecutivas-matematicas.md).
+
 ---
 
-## 4. Heurísticas y procesos (para orientar, no para ritualizar)
+## 4. Pólya, Schoenfeld y el control del proceso
 
-Clásicos de la resolución de problemas (Pólya y desarrollos posteriores) proponen fases orientativas:
+### 4.1. Las cuatro fases de Pólya (orientativas)
 
-1. **Entender** el problema (datos, metas, condiciones).
-2. **Diseñar** un plan (estrategia, representación, submetas).
-3. **Ejecutar** el plan.
-4. **Revisar** (razonabilidad, otros caminos, extensión).
+George Pólya (*How to Solve It*, 1945) propuso un ciclo que sigue siendo la base de muchas guías escolares. **No es un ritual burocrático**: son preguntas de mediación.
 
-En el aula conviene:
+| Fase | Preguntas útiles en el aula | Si se omite… |
+|------|----------------------------|--------------|
+| **1. Entender** | ¿Qué me piden? ¿Qué datos tengo? ¿Hay condiciones? ¿Puedo decirlo con mis palabras? ¿Un ejemplo más simple? | Se opera con el primer número que aparece |
+| **2. Diseñar un plan** | ¿He visto algo parecido? ¿Dibujo, tabla, ensayo…? ¿Puedo dividir en submetas? ¿Trabajar hacia atrás? | Se lanza a calcular sin estrategia |
+| **3. Ejecutar** | ¿Estoy siguiendo el plan? ¿Este resultado intermedio tiene sentido? | Errores de ejecución sin detección |
+| **4. Revisar (looking back)** | ¿La respuesta responde a la pregunta? ¿Otra vía? ¿Caso particular / estimación? ¿Qué generalizo? | Se entrega el número y se cierra el aprendizaje |
 
-- usarlas como **preguntas de mediación** («¿qué sabes?, ¿qué buscas?, ¿puedes dibujarlo?»);
-- no convertirlas en un formulario burocrático que el alumno rellena sin pensar;
-- valorar la fase de **revisión** (análisis de soluciones), a menudo olvidada.
+La fase 4 es la más abandonada en la práctica escolar y es donde se consolida la transferencia.
 
-Schoenfeld y otros subrayan también: recursos, heurísticas, control (metacognición) y **creencias** («los problemas se resuelven en dos minutos» es una creencia tóxica).
+### 4.2. Catálogo breve de heurísticas (para mediación)
+
+| Heurística | Cuándo sugerirla (sin regalar el método) |
+|------------|------------------------------------------|
+| **Particularizar** | Problema general; probar con números sencillos |
+| **Representar** (dibujo, esquema, tabla) | Enunciado denso; relaciones entre magnitudes |
+| **Descomponer** en submetas | Multi-paso; saturación de memoria de trabajo |
+| **Trabajar hacia atrás** | Se conoce el final; hay que reconstruir pasos |
+| **Ensayo-error controlado** | Espacio de búsqueda acotable |
+| **Analogía** | «¿En qué se parece a un problema que ya resolviste?» |
+| **Reformular** | Cambio de registro (verbal ↔ simbólico ↔ gráfico) |
+| **Estimar antes de calcular** | Detectar resultados absurdos |
+
+Detalle operativo y guiones de mediación: **[Heurísticas y mediación](../materiales/banco-problemas/heuristicas-y-mediacion.md)**.
+
+### 4.3. Marco de Schoenfeld: por qué «saber la técnica» no basta
+
+Alan Schoenfeld amplía la mirada: resolver problemas depende de **cuatro dimensiones** que interactúan.
+
+| Dimensión | Qué es | Eco en el aula de Secundaria |
+|-----------|--------|------------------------------|
+| **Recursos** | Conocimientos matemáticos disponibles (hechos, procedimientos, representaciones) | Sin el objeto mínimo, no hay resolución; hay que enseñar contenido |
+| **Heurísticas** | Estrategias generales de búsqueda | Se pueden *modelar y nombrar* sin convertirlas en formulario |
+| **Control (metacognición)** | Decidir qué hacer, cuándo cambiar de vía, cuándo comprobar | El alumno que insiste en una vía muerta 20 min tiene un problema de *control*, no solo de «nivel» |
+| **Creencias** | Ideas sobre qué es un problema, cuánto debe durar, qué cuenta como «saber mates» | Creencias tóxicas bloquean la aceptación de la tarea |
+
+**Creencias frecuentes que conviene desmontar con hechos de aula:**
+
+| Creencia | Efecto | Contrapeso docente |
+|----------|--------|-------------------|
+| «Los problemas se resuelven en dos minutos» | Abandono precoz | Normas de tiempo; modelar búsqueda larga |
+| «Solo hay una forma correcta» | Ansiedad al divergir | Poner en común *varias* estrategias válidas |
+| «Si no veo la fórmula, no sé mates» | Búsqueda de etiqueta temática | Problemas sin anuncio de tema |
+| «Errar es fracasar» | Evitación | Error productivo; revisión valorada |
+| «El profesor es quien debe decir el método» | Dependencia | Mediación por preguntas (Thinking Classroom) |
+
+El **control** enlaza con [funciones ejecutivas](../../psicologia-del-desarrollo-y-de-la-educacion/materiales/funciones-ejecutivas-matematicas.md): planificar, inhibir el primer impulso, cambiar de estrategia. El diseño de la tarea puede andamiar el control (checklist retirable, «plan en el margen») sin sustituir el pensamiento.
+
+### 4.4. Cómo usar esto sin ritualizar
+
+- Preguntas de mediación en voz alta y en carteles breves, no fichas de 20 casillas por ejercicio.  
+- Modelar *looking back* en 2 minutos al final de la puesta en común.  
+- Evaluar alguna vez el **plan** o la **segunda vía**, no solo el resultado.  
+- En Thinking Classrooms: la mediación por preguntas *es* control y heurística en acción ([material Liljedahl](../materiales/thinking-classrooms-liljedahl.md)).
 
 ---
 
@@ -115,6 +162,8 @@ Schoenfeld y otros subrayan también: recursos, heurísticas, control (metacogni
 | El contexto *cambia* la demanda | El contexto sobra; el cálculo es el de siempre |
 | Genera debate | Genera solo «¿cuál es la respuesta?» |
 
+Banco listo para aula: [problemas ricos](../materiales/banco-problemas/problemas-ricos.md).
+
 ---
 
 ## 6. Gestión de la clase: del enunciado a la puesta en común
@@ -126,7 +175,9 @@ Schoenfeld y otros subrayan también: recursos, heurísticas, control (metacogni
 3. **Mediación selectiva** (pistas según el tipo de bloqueo).
 4. **Puesta en común** de estrategias (no solo de la respuesta).
 5. **Institucionalización** (qué idea matemática se fija, con el lenguaje adecuado).
-6. **Cierre** (variante breve, reflexión: «¿qué he aprendido a hacer?»).
+6. **Cierre** (variante breve, *looking back*: «¿qué he aprendido a hacer?»).
+
+Variante Thinking Classroom: grupos de tres, superficies verticales, consolidación *después* de la exploración.
 
 ### Qué hacer cuando hay bloqueo
 
@@ -136,6 +187,9 @@ Schoenfeld y otros subrayan también: recursos, heurísticas, control (metacogni
 | No se le ocurre nada | «¿Qué es lo más sencillo que podrías calcular?»; sugerir una representación |
 | Estrategia incorrecta sistemática | Hacer visible la contradicción; no sustituir aún por la solución |
 | Ansiedad / abandono | Reducir la meta inmediata; permitir trabajo en pareja; normalizar el tiempo de búsqueda |
+| Insiste en una vía muerta (fallo de control) | «¿Qué has intentado que *no* funciona? ¿Qué podrías probar distinto?» |
+
+Guion ampliado: [heuristicas-y-mediacion.md](../materiales/banco-problemas/heuristicas-y-mediacion.md).
 
 ---
 
@@ -156,7 +210,7 @@ Liljedahl propone una **arquitectura de aula** para que el pensamiento sea neces
 
 Encaja con las **10 competencias específicas** (sobre todo CE.1–3, 7–10) y con la idea de no eliminar de inmediato la dificultad: validación breve → retorno a la tarea → apoyo mínimo para seguir pensando.
 
-Material completo (14 prácticas, mapa CE ↔ prácticas, checklist para analizar una serie de problemas):  
+Material completo (14 prácticas, mapa CE ↔ prácticas, checklist):  
 **[Thinking Classrooms · Liljedahl](../materiales/thinking-classrooms-liljedahl.md)** · [mapa CE–criterios](../materiales/curriculo-lomloe/mapa-competencias-criterios.md).
 
 No hace falta etiquetar cada sesión con una sigla: hace falta **intención didáctica** clara.
@@ -186,6 +240,8 @@ No hace falta etiquetar cada sesión con una sigla: hace falta **intención did�
 - Favorece la competencia de **formular y comprobar conjeturas**.
 - El profesor resiste la tentación de dictar el teorema en el minuto uno.
 
+Más enunciados listos: [problemas-ricos.md](../materiales/banco-problemas/problemas-ricos.md).
+
 ---
 
 ## 9. Evaluación de la resolución de problemas
@@ -196,65 +252,67 @@ No hace falta etiquetar cada sesión con una sigla: hace falta **intención did�
 | La velocidad | La revisión y el análisis de la solución |
 | La copia del método de la pizarra | La transferencia a un problema nuevo |
 
-**Evidencias útiles:** protocolo de resolución, explicación oral, comparación de dos métodos, detección del error en una resolución ajena, variante inventada por el alumno.
+**Evidencias útiles:** protocolo de resolución, explicación oral, comparación de dos métodos, detección del error en una resolución ajena, variante inventada por el alumno, *looking back* escrito en tres líneas.
 
 Alineación con LOMLOE: competencias de resolución, análisis de soluciones, comunicación y, a menudo, socioafectivo (perseverancia).
 
 ---
 
-## Glosario
+## 10. Diversidad: mismo problema, distinto andamiaje
 
-**Problema matemático (didáctico)**  
-Situación en la que el camino de solución no es inmediato y exige decisión estratégica.
+Un problema rico puede ofrecerse con **rutas de apoyo** sin cambiar el criterio de evaluación (ver [tareas multinivel](../../psicologia-del-desarrollo-y-de-la-educacion/materiales/diseno-tareas-multinivel-matematicas.md)):
 
-**Ejercicio**  
-Tarea de práctica de una técnica ya conocida.
+| Ruta | Apoyo | Retirada |
+|------|-------|----------|
+| A | Checklist de fases Pólya en el margen; datos organizados | Quitar fases cuando ya planifica |
+| B | Enunciado estándar | — |
+| C | Segunda estrategia obligatoria; variante del contexto | Profundidad, no solo más volumen |
 
-**Aceptación de la tarea**  
-Implicación real del alumno en el problema (comprensión + disposición a buscar).
+El andamiaje sostiene el **control** y la **aceptación**; no debe regalar la estrategia matemática central.
 
-**Heurística**  
-Estrategia general de búsqueda (dibujar, particularizar, trabajar hacia atrás…), no algoritmo garantizado.
+---
 
-**Institucionalización**  
-Momento en que el profesor fija, con el grupo, el saber que se retiene a partir del trabajo realizado.
+## Glosario (bloque)
 
-**Puesta en común**  
-Espacio para comparar estrategias y argumentos; no solo para anunciar la respuesta correcta.
-
-**Problema abierto / rico**  
-Admite varios caminos, representaciones o niveles de profundidad.
-
-**Mediación**  
-Intervención del docente que sostiene la búsqueda sin anularla.
-
-**Creencias sobre los problemas**  
-Ideas del alumno del tipo «si no se resuelve en dos minutos, es que no sé mates».
+**Problema matemático (didáctico)** — Situación en la que el camino no es inmediato y exige decisión estratégica.  
+**Ejercicio** — Práctica de una técnica ya conocida.  
+**Aceptación de la tarea** — Comprensión + disposición a buscar.  
+**Heurística** — Estrategia general de búsqueda (no algoritmo garantizado).  
+**Control (Schoenfeld)** — Metacognición: qué hacer, cuándo cambiar, cuándo comprobar.  
+**Creencias** — Ideas del alumno sobre qué es un problema y qué cuenta como saber mates.  
+**Institucionalización** — Momento en que se fija el saber que se retiene.  
+**Puesta en común** — Comparar estrategias; no solo anunciar la respuesta.  
+**Looking back** — Fase de revisión y transferencia (Pólya).  
+**Mediación** — Intervención que sostiene la búsqueda sin anularla.  
+**Problema abierto / rico** — Varios caminos, representaciones o niveles.
 
 ---
 
 ## Dudas frecuentes
 
 **1. ¿Si empiezo por un problema, perderé tiempo y no terminaré el temario?**  
-Puedes perder tiempo de exposición rutinaria y ganar comprensión. La clave es elegir **pocos problemas ricos** y formalizar después, no improvisar problemas difusos cada día.
+Puedes perder tiempo de exposición rutinaria y ganar comprensión. La clave es elegir **pocos problemas ricos** y formalizar después.
 
 **2. ¿Qué hago con los alumnos que terminan en cinco minutos?**  
-Extensiones preparadas: cambia un dato, pide otra estrategia, inventa un problema similar, formaliza con más rigor.
+Extensiones: cambia un dato, pide otra estrategia, inventa un problema similar, formaliza con más rigor.
 
 **3. ¿Y con los que no empiezan?**  
-Andamiaje de entrada, pareja mixta, meta mínima («propón una representación»), sin sustituir el pensamiento por la solución dictada.
+Andamiaje de entrada, pareja mixta, meta mínima («propón una representación»), sin dictar la solución.
 
 **4. ¿El ABP es obligatorio en LOMLOE?**  
-No con ese nombre. Sí lo es trabajar competencias de resolución, modelización y situaciones de aprendizaje; el ABP es *una* forma de hacerlo.
+No con ese nombre. Sí lo es trabajar competencias de resolución, modelización y situaciones de aprendizaje.
 
 **5. ¿Puedo usar problemas del libro?**  
-Sí, si cumplen criterios de riqueza. Muchos ítems del libro son ejercicios: úsalos para consolidar, no como único recurso.
+Sí, si cumplen criterios de riqueza. Muchos ítems son ejercicios: úsalos para consolidar.
 
 **6. ¿Cómo evito el caos en la puesta en común?**  
-Selecciona 2–3 estrategias representativas (incluida una incorrecta productiva), ordena la discusión, cierra con institucionalización clara.
+Selecciona 2–3 estrategias (incluida una incorrecta productiva), ordena la discusión, cierra con institucionalización.
 
 **7. ¿La respuesta correcta ya no importa?**  
-Importa. Pero no es lo *único* que importa: también el proceso, la interpretación y la capacidad de revisar.
+Importa. Pero no es lo *único*: también el proceso, la interpretación y la revisión.
+
+**8. ¿Pólya en una ficha de cuatro casillas en cada problema?**  
+No. Usa las fases como **preguntas**; reserva el protocolo escrito para momentos formativos puntuales.
 
 ---
 
@@ -292,9 +350,17 @@ Importa. Pero no es lo *único* que importa: también el proceso, la interpretac
 - **A)** Rellenar una ficha burocrática en cada ejercicio.  
 - **B)** Orientar preguntas de mediación y la revisión final.
 
+**9.** En Schoenfeld, insistir 20 minutos en una vía que no funciona apunta sobre todo a un fallo de:  
+- **A)** Solo de recursos (no sabe mates).  
+- **B)** Control / metacognición (además de posibles lagunas).
+
+**10.** «Los problemas se resuelven en dos minutos» es:  
+- **A)** Una norma realista de examen.  
+- **B)** Una creencia que conviene desmontar con el diseño de aula.
+
 ### Soluciones
 
-1. **B** · 2. **B** · 3. **B** · 4. **B** · 5. **B** · 6. **B** · 7. **B** · 8. **B**
+1. **B** · 2. **B** · 3. **B** · 4. **B** · 5. **B** · 6. **B** · 7. **B** · 8. **B** · 9. **B** · 10. **B**
 
 ---
 
@@ -306,19 +372,21 @@ Diseña **una sesión** (50–55 min) centrada en un problema:
 2. ¿Introduce o consolida? ¿Qué objeto/sentido?  
 3. Criterios LOMLOE que evidencias.  
 4. Previsión de **tres estrategias** posibles (incluida una errónea productiva).  
-5. Plan de mediación ante bloqueos.  
+5. Plan de mediación ante bloqueos (al menos una pregunta por tipo).  
 6. Cómo harás la puesta en común y qué institucionalizarás.  
-7. Evidencia de evaluación (más allá del número final).
+7. Evidencia de evaluación (más allá del número final).  
+8. (Opcional) Variante Thinking Classroom o ruta multinivel A/B/C.
 
 ---
 
 ## Material relacionado
 
 - [Programa de la asignatura](../programa.md)
-- **[Thinking Classrooms · Liljedahl (pizarras verticales + CE)](../materiales/thinking-classrooms-liljedahl.md)**
+- **[Heurísticas y mediación](../materiales/banco-problemas/heuristicas-y-mediacion.md)**
+- **[Thinking Classrooms · Liljedahl](../materiales/thinking-classrooms-liljedahl.md)**
+- [Problemas ricos](../materiales/banco-problemas/problemas-ricos.md) · [Generatrices](../materiales/banco-problemas/generatrices.md)
 - [Mapa competencias específicas–criterios](../materiales/curriculo-lomloe/mapa-competencias-criterios.md)
 - [Bloque 5 — Epistemología y fenomenología](05-fundamentos-epistemologicos-fenomenologicos.md)
 - [Bloque 7 — Dificultades y obstáculos](07-dificultades-y-obstaculos.md)
 - [Bloque 9 — Génesis escolar de los objetos](09-genesis-escolar-objetos-matematicos.md)
-- [Bloque 3 — Currículo LOMLOE](03-elementos-curriculo-lomloe.md)
-- [Bloque 4 — Programación didáctica](04-programacion-didactica.md)
+- Psicología: [FE](../../psicologia-del-desarrollo-y-de-la-educacion/materiales/funciones-ejecutivas-matematicas.md) · [Ansiedad matemática](../../psicologia-del-desarrollo-y-de-la-educacion/materiales/ansiedad-matematica-aula.md) · [Multinivel](../../psicologia-del-desarrollo-y-de-la-educacion/materiales/diseno-tareas-multinivel-matematicas.md)
