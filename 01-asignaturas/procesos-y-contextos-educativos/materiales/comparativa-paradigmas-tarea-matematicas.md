@@ -2,6 +2,8 @@
 
 **Tema 1** · Entrenar el ojo: el enunciado puede parecer “neutral”; el **diseño completo** (consigna, interacción, evaluación) delata el paradigma.
 
+**Profundizar:** [Exigencia cognitiva, disciplina intelectual y razonamiento profundo](../../diseno-curricular-e-instruccional-de-matematicas/materiales/exigencia-cognitiva-disciplina-razonamiento.md) — rigor ≠ mecanización; dificultad mecánica ≠ profundidad.
+
 ## La tarea base
 
 > *Un plan de datos móviles cuesta 8 € de cuota y 0,10 € por cada 100 MB extra. Otro cuesta 12 € y 0,05 € por cada 100 MB extra. ¿A partir de qué consumo conviene cada uno?*
@@ -17,6 +19,8 @@
 | Rol alumnado | Reproduce el algoritmo |
 | Evaluación | Resultado numérico exacto; penaliza el fallo de cálculo |
 | Éxito | “Lo resolvió como en la pizarra” |
+
+*Matiz:* el valor de precisión y comprobación de este polo puede reutilizarse como **disciplina del pensamiento** (justificar, verificar) sin quedarse solo en la conformidad al procedimiento.
 
 ---
 
@@ -48,7 +52,9 @@
 
 Los tres pueden usar la misma “cuenta”. Cambian la **pregunta que cuenta**, la interacción y lo que se califica. La LOMLOE empuja hacia lecturas interpretativas y sociocríticas **sin renunciar** a la corrección técnica.
 
-**Ver:** [Tema 1](../apuntes/01-evolucion-historica-sistema-educativo-paradigmas.md) · [Plantilla de alineación](plantilla-alineacion-criterio-evidencia.md)
+La exigencia no es “más del mismo ejercicio”: es el tipo de **demanda cognitiva** (decidir, relacionar, justificar). Ver [exigencia cognitiva y disciplina](../../diseno-curricular-e-instruccional-de-matematicas/materiales/exigencia-cognitiva-disciplina-razonamiento.md).
+
+**Ver:** [Tema 1](../apuntes/01-evolucion-historica-sistema-educativo-paradigmas.md) · [Mapa epistemológico](mapa-epistemologico-paradigmas-educativos.md) · [Plantilla de alineación](plantilla-alineacion-criterio-evidencia.md)
 
 ---
 
