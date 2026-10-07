@@ -1,18 +1,19 @@
 # Practicum I
 
-**Tipo:** Obligatoria
+**Tipo:** Obligatoria · S1
 
-## Descripción
+Espacio **administrativo/académico** de la asignatura Practicum I.
 
-Espacio de trabajo para la asignatura **Practicum I** del Máster de Profesorado de Educación Secundaria, especialidad Matemáticas.
+## Dónde está el trabajo de prácticas
 
-## Contenidos
+El diario, la observación, el análisis de centro/aula y las reflexiones **versionables y anonimizadas** viven en:
 
-Los contenidos, apuntes y materiales se incorporarán progresivamente durante el curso a partir de la documentación docente y del trabajo personal.
+→ **[../practicum/](../practicum/)** (carpeta integrada Practicum I + II)
 
-## Carpetas
+No duplicar ese contenido aquí. Entregas personales con datos sensibles → carpeta `trabajos/` local (no versionada); ver [TRABAJOS-LOCAL.md](../TRABAJOS-LOCAL.md).
 
-- `apuntes/` — apuntes y resúmenes.
-- `materiales/` — recursos docentes y documentación.
-- `trabajos/` — tareas, actividades y entregas.
-- `bibliografia.md` — referencias bibliográficas.
+## En esta carpeta
+
+- README de la asignatura  
+- Bibliografía  
+- Plantillas / materiales de la materia según se incorporen  
