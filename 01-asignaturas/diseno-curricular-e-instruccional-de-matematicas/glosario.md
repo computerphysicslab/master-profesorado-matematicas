@@ -62,7 +62,7 @@ Estudio de los fenómenos y contextos que dan sentido a un objeto matemático (p
 Proceso por el cual un concepto matemático se construye progresivamente en la escuela (no aparece «completo» de golpe).
 
 **GeoGebra (uso didáctico)**  
-Software de geometría y álgebra dinámica. En el máster se trata como **medio** para conjeturar, convertir registros y verificar — no como fin en sí. Criterios de uso (modos exploración / conversión / verificación / demostración, predicción antes de arrastrar, producto fuera de pantalla): [geogebra-criterio-didactico.md](materiales/geogebra-criterio-didactico.md).
+Software de geometría y álgebra dinámica. En el máster se trata como **medio** para conjeturar, convertir registros y verificar — no como fin en sí. Criterios de uso: [geogebra-criterio-didactico.md](materiales/geogebra-criterio-didactico.md).
 
 **Heurística**  
 Estrategia general de búsqueda en resolución de problemas (particularizar, dibujar, descomponer, trabajar hacia atrás…), no un algoritmo que garantice la solución. Catálogo de aula: [heuristicas-y-mediacion.md](materiales/banco-problemas/heuristicas-y-mediacion.md).
@@ -71,7 +71,10 @@ Estrategia general de búsqueda en resolución de problemas (particularizar, dib
 Cuarta fase de la resolución: comprobar la razonabilidad de la respuesta, buscar otra vía, extender o generalizar. Es la fase más a menudo omitida y donde se consolida la transferencia.
 
 **Matematización horizontal / vertical**  
-Horizontal: pasar del mundo real o de un contexto a un modelo matemático. Vertical: avanzar dentro de las matemáticas hacia mayor abstracción y estructura (Freudenthal / RME).
+Horizontal: pasar del mundo real o de un contexto a un modelo matemático. Vertical: avanzar dentro de las matemáticas hacia mayor abstracción y estructura (Freudenthal / RME). Ver [modelización](materiales/modelizacion-matematica-aula.md).
+
+**Modelización matemática**  
+Proceso de traducir una situación (extra o intra-matemática) a un modelo, trabajar matemáticamente con él e interpretar y validar el resultado en contexto. No es un ejercicio con nombres propios. Ciclo, niveles y evaluación: [modelizacion-matematica-aula.md](materiales/modelizacion-matematica-aula.md). Competencia LOMLOE central: CE.1.
 
 **Noosfera**  
 En el marco de la transposición didáctica, el ámbito de quienes seleccionan, reformulan y legitiman lo que debe enseñarse (administración, expertos, materiales, etc.).
