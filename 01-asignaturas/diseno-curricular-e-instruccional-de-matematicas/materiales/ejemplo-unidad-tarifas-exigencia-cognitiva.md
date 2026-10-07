@@ -5,6 +5,8 @@
 **Objeto:** relación afín $y = mx + n$ como **modelo** de tarifas (fijo + variable)  
 **Propósito de este documento:** mostrar en una programación real la **tercera vía**: práctica de fluidez *y* problemas de alta demanda cognitiva, con evaluación alineada — sin caricaturizar “solo repetición” ni “solo descubrimiento”.
 
+**Unidad hermana (misma arquitectura, otro objeto):** [Geometría · perímetro y área](ejemplo-unidad-geometria-perimetro-area.md)
+
 **Marcos del repo:** [Exigencia cognitiva y disciplina](exigencia-cognitiva-disciplina-razonamiento.md) · [Thinking Classrooms](thinking-classrooms-liljedahl.md) · [Modelización](modelizacion-matematica-aula.md) · [Duval](registros-representacion-duval.md) · [Función lineal](fichas-objetos/funcion-lineal.md) · [Plantilla UD](plantillas/unidad-didactica.md) · [Heurísticas](banco-problemas/heuristicas-y-mediacion.md)
 
 ---
@@ -147,7 +149,7 @@ Tarifa B: 6 €/mes + 0,12 € por MB extra.
 **Enunciado:**  
 Un anuncio dice: “Tarifa C: solo 0,04 €/MB, la más barata.” En letra pequeña: cuota de 18 €/mes.  
 1. ¿Es siempre la más barata? Razona con al menos dos representaciones.  
-2. Un compañero afirma que “si el área bajo la recta fuera igual, el perímetro también lo sería” en un problema de rectángulos de igual área — *análogo estructural opcional* para quien amplía: relacionar con la idea de que **igualar una magnitud no iguala otra**.  
+2. Un compañero afirma que “si el área bajo la recta fuera igual, el perímetro también lo sería” en un problema de rectángulos de igual área — *análogo estructural*: [unidad de geometría](ejemplo-unidad-geometria-perimetro-area.md).  
 3. Escribe tres supuestos que tu modelo de tarifas **no** incluye (permanencia, consumo mínimo, roaming…).
 
 | Campo | Contenido |
@@ -178,12 +180,10 @@ Conexión: rigor = revisión del pensamiento, no acierto a la primera ([exigenci
 
 ### Prueba breve (modelo de ítems)
 
-1. **Mecánico (necesarios, no únicos):** dada $y = 0{,}1x + 8$, coste para $x = 30$.  
+1. **Mecánico:** dada $y = 0{,}1x + 8$, coste para $x = 30$.  
 2. **Conversión:** de una tabla pequeña a expresión.  
 3. **Alta demanda:** «Dos tarifas se cruzan en 80 MB. Por debajo de 80, ¿cuál es más barata? ¿Por qué? ¿Qué pasaría si la cuota de la más cara en el tramo bajo bajara 1 €?»  
 4. **Validación:** «Un resultado sale −15 € de coste mensual. ¿Qué concluyes?»
-
-Así la nota **no** premia solo velocidad de cálculo ni solo “creatividad” sin modelo.
 
 ### Rúbrica sintética (producto de decisión)
 
@@ -205,62 +205,52 @@ Así la nota **no** premia solo velocidad de cálculo ni solo “creatividad” 
 | Ampliación | Tres tarifas; inequación; anuncio engañoso real recortado |
 | Evaluación | Misma CE; puede evidenciarse en entrevista oral corta si la escritura bloquea |
 
-Ver [tareas multinivel](../../psicologia-del-desarrollo-y-de-la-educacion/materiales/diseno-tareas-multinivel-matematicas.md) si está en el repo; [DUA](../../procesos-y-contextos-educativos/materiales/dua-diseno-universal-aprendizaje.md).
-
 ---
 
 ## 10. Gestión de aula (prevención)
 
 - Norma explícita: **el error se discute; no se ridiculiza** (sesión 1).  
-- Tiempos: 3 min de silencio individual al abrir el problema rico (evita copia inmediata).  
+- Tiempos: 3 min de silencio individual al abrir el problema rico.  
 - Transiciones: consigna en pizarra («tabla → esbozo → frase»).  
-- Si hay disrupción en el momento de alta demanda: escalera breve ([gestión de aula](../../procesos-y-contextos-educativos/materiales/gestion-aula-disrupcion-matematicas.md)), sin sustituir el problema por “poneros a hacer la página 40”.
+- Disrupción: [gestión de aula](../../procesos-y-contextos-educativos/materiales/gestion-aula-disrupcion-matematicas.md).
 
 ---
 
 ## 11. Qué decir a las familias (mensaje breve)
 
-> En esta unidad no solo practicamos cuentas de tarifas: el alumnado aprende a **modelizar** una oferta, **comparar** con gráfica o fórmula y **explicar** la decisión. Habrá práctica de fluidez (tablas y parámetros) y problemas donde hay que razonar. La nota valora el procedimiento y la justificación, no solo el número final.
-
-Base: [comunicación con familias](../../sociedad-familia-y-procesos-grupales/materiales/comunicacion-con-familias-matematicas.md).
+> En esta unidad no solo practicamos cuentas de tarifas: el alumnado aprende a **modelizar** una oferta, **comparar** con gráfica o fórmula y **explicar** la decisión. Habrá práctica de fluidez y problemas donde hay que razonar. La nota valora el procedimiento y la justificación, no solo el número final.
 
 ---
 
 ## 12. Preceptivo vs margen
 
-| Fijado (currículo / departamento) | Margen docente |
-|-----------------------------------|----------------|
-| Saberes de dependencias / funciones según decreto | Contextos de tarifas elegidos |
-| CE y criterios del curso | Orden problema → formalización → fluidez |
-| Criterios de calificación de departamento | Pesos formativos; uso de vertical/GeoGebra |
+| Fijado | Margen docente |
+|--------|----------------|
+| Saberes y CE del decreto / departamento | Contextos de tarifas; orden problema → formalización → fluidez |
 
 ---
 
-## 13. Autoevaluación docente tras impartirla
+## 13. Autoevaluación docente
 
-- [ ] ¿Hubo al menos dos momentos de **alta demanda** real (decidir/justificar)?  
-- [ ] ¿La fluidez estuvo **acotada** y *después* del sentido?  
+- [ ] ¿Hubo al menos dos momentos de alta demanda real?  
+- [ ] ¿La fluidez estuvo acotada y *después* del sentido?  
 - [ ] ¿La prueba incluía algo más que cálculo?  
 - [ ] ¿Se institucionalizó $m$ y $n$ en contexto?  
-- [ ] ¿El error productizó en alguna puesta en común?  
+- [ ] ¿El error productizó en alguna puesta en común?
 
 ---
 
-## 14. Mapa de lectura con el resto del máster
+## 14. Mapa de lectura
 
 ```text
 Exigencia cognitiva (marco)
         ↓
-Esta unidad (ejemplo operativo)
-        ↓
-┌───────────────┬───────────────┬───────────────┐
-│ Thinking Cl.  │ Modelización  │ Duval/GeoGebra│
-│ (sesiones 2,4)│ (ciclo tarifa)│ (registros)   │
-└───────────────┴───────────────┴───────────────┘
-        ↓
-Evaluación competencial + mensaje a familias
+┌──────────────────┬────────────────────────────┐
+│ Unidad tarifas   │ Unidad geometría P–A       │
+│ (afín / modelo)  │ (contraejemplo / medida)   │
+└──────────────────┴────────────────────────────┘
 ```
 
 ---
 
-*Ejemplo orientativo para el Máster de Profesorado · Matemáticas. Adapta números, sesiones y códigos de criterios a tu programación de departamento y a la normativa autonómica.*
+*Ejemplo orientativo para el Máster de Profesorado · Matemáticas.*
