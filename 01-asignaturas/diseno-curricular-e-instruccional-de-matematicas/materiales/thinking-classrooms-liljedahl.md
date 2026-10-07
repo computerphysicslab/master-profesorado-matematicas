@@ -5,6 +5,8 @@
 
 > Peter Liljedahl (educación matemática, Canadá) investigó qué condiciones del aula hacen que el alumnado *piense* en lugar de limitarse a ejecutar procedimientos. Su respuesta más conocida es el marco **Thinking Classroom** (*Aula para el pensamiento*).
 
+**Marco conceptual afín:** [Exigencia cognitiva, disciplina intelectual y razonamiento profundo](exigencia-cognitiva-disciplina-razonamiento.md) (rigor sin mecanización; frustración productiva; tercera vía entre repetición y activismo ingenuo).
+
 ---
 
 ## 1. La pregunta de partida
@@ -72,8 +74,6 @@ No es: explicación → copia → ejercicio mecánico.
 
 ## 4. Mapa Thinking Classroom ↔ competencias específicas LOMLOE
 
-Las 10 CE de Matemáticas ESO (síntesis; contraste siempre tu CCAA):
-
 | CE | Foco | Cómo la favorece una Thinking Classroom |
 |----|------|------------------------------------------|
 | **1** | Resolver / modelizar | Tareas abiertas; decisión de estrategia (prácticas 1, 5). |
@@ -87,15 +87,13 @@ Las 10 CE de Matemáticas ESO (síntesis; contraste siempre tu CCAA):
 | **9** | Destrezas personales | Perseverar ante el bloqueo; error como aprendizaje (7, 9, 14). |
 | **10** | Destrezas sociales | Grupos de tres, respeto al razonamiento ajeno (2, 10, 14). |
 
-**Uso en el máster:** al diseñar una serie de problemas para pizarra vertical, **marca qué CE priorizas** (2–4 por sesión). No hace falta «cubrir las 10» en 50 minutos.
+**Uso en el máster:** al diseñar una serie de problemas para pizarra vertical, **marca qué CE priorizas** (2–4 por sesión).
 
-Detalle oficial de CE y criterios: [mapa competencias–criterios](curriculo-lomloe/mapa-competencias-criterios.md) · [apunte bloque 3](../apuntes/03-elementos-curriculo-lomloe.md).
+Detalle: [mapa competencias–criterios](curriculo-lomloe/mapa-competencias-criterios.md).
 
 ---
 
 ## 5. Checklist: analizar una serie de problemas con las CE
-
-Para cada problema de una secuencia (o de una sesión en vertical), marca lo observable:
 
 | # | Pregunta | CE más probable |
 |---|----------|-----------------|
@@ -110,15 +108,7 @@ Para cada problema de una secuencia (o de una sesión en vertical), marca lo obs
 | 9 | ¿El diseño contempla bloqueo, perseverancia y gestión del error? | 9 |
 | 10 | ¿El trabajo en grupo es necesario (no solo «juntos pero solos»)? | 10 |
 
-**Ejemplo rápido**
-
-| Tarea | CE prioritarias |
-|-------|-----------------|
-| «Calcula $3x+5=20$» (tras haber explicado el método) | Poco: casi solo práctica algorítmica |
-| «Encuentra todas las ecuaciones de 1.º grado con solución $x=5$. ¿Hay una regla general?» | 1, 3, 7, 8 (y 9 si se sostiene el bloqueo) |
-| Oferta de camisetas (§6) con justificación de varias maneras | 1, 2, 6, 7, 8, 10 |
-
-Plantilla afín: [problemas ricos](banco-problemas/problemas-ricos.md) · [rúbrica competencial](plantillas/rubrica-competencial.md).
+Plantilla afín: [problemas ricos](banco-problemas/problemas-ricos.md) · [exigencia cognitiva](exigencia-cognitiva-disciplina-razonamiento.md).
 
 ---
 
@@ -158,33 +148,31 @@ Una camiseta cuesta 24 €. Oferta: por cada dos camisetas, pagas 40 €. ¿Qué
 
 | Marco del máster | Puente con Liljedahl |
 |------------------|----------------------|
+| [Exigencia cognitiva y disciplina](exigencia-cognitiva-disciplina-razonamiento.md) | Marco: rigor sin mecanización; disciplina intelectual |
 | [Resolución de problemas](../apuntes/08-resolucion-de-problemas.md) | Problema como punto de partida; mediación; puesta en común |
 | Brousseau / situaciones | Devolución: el alumno se responsabiliza de la búsqueda |
-| Freudenthal | Matematización desde un contexto con sentido |
 | Evaluación formativa | Evidencias de proceso en vertical |
-| Socioafectivo LOMLOE (CE.9–10) | Perseverancia, error, cooperación en grupos heterogéneos |
-| Educación emocional | Validación breve → retorno a la tarea → apoyo concreto (no eliminar la dificultad de inmediato) |
+| Socioafectivo LOMLOE (CE.9–10) | Perseverancia, error, cooperación |
 
 **Precauciones**
 
 1. Las pizarras verticales **no sustituyen** el diseño de la tarea.  
-2. La aleatoriedad de grupos exige vigilancia inclusiva (no abandonar a quien se desconecta).  
-3. Hace falta **consolidación** explícita; si no, la exploración se diluye.  
-4. No toda sesión debe ser Thinking Classroom: los ejercicios de práctica siguen siendo útiles *después* de construir el objeto.  
-5. Tolerar el bloqueo ≠ dejar sufrir sin mediación: la práctica 4 es ayuda mínima necesaria, no abandono.
+2. La aleatoriedad de grupos exige vigilancia inclusiva.  
+3. Hace falta **consolidación** explícita.  
+4. No toda sesión debe ser Thinking Classroom: la práctica rutinaria sigue siendo útil *después* de construir el objeto.  
+5. Tolerar el bloqueo ≠ dejar sufrir sin mediación.
 
 ---
 
 ## 9. Para seguir
 
+- [Exigencia cognitiva, disciplina y razonamiento](exigencia-cognitiva-disciplina-razonamiento.md)  
 - [08 — Resolución de problemas](../apuntes/08-resolucion-de-problemas.md)  
 - [Mapa CE–criterios LOMLOE](curriculo-lomloe/mapa-competencias-criterios.md)  
-- [03 — Elementos del currículo](../apuntes/03-elementos-curriculo-lomloe.md)  
 - [Problemas ricos](banco-problemas/problemas-ricos.md)  
-- [Banco de errores](errores-y-obstaculos/banco-errores-tipicos.md)  
 
-**Referencia:** Liljedahl, P. (2020). *Building Thinking Classrooms in Mathematics* (y trabajos previos del autor sobre prácticas que favorecen el pensamiento en el aula de matemáticas).
+**Referencia:** Liljedahl, P. (2020). *Building Thinking Classrooms in Mathematics*.
 
 ---
 
-*Material orientado al Máster de Profesorado · especialidad Matemáticas. Contrasta siempre criterios y saberes de tu normativa autonómica.*
+*Material orientado al Máster de Profesorado · especialidad Matemáticas.*
