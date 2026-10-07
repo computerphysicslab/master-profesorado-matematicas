@@ -23,6 +23,8 @@ En el currículo básico (RD 217/2022) la materia se organiza en **competencias 
 
 **Nota:** Algunas guías didácticas agrupan 1–2, 7–8 o 9–10 para rúbricas más cortas. Al evaluar, no dejes sistemáticamente fuera lo socioafectivo (9–10) ni la comunicación (8).
 
+**Profundizar CE.1 (modelizar):** [Modelización matemática en el aula](../modelizacion-matematica-aula.md).
+
 ---
 
 ## 2. Criterios de evaluación: lógica general
@@ -50,8 +52,8 @@ En **4.º ESO** (Matemáticas A / B) los criterios se reformulan con más exigen
 
 | Foco | Evidencias típicas de aula | Instrumentos frecuentes |
 |------|----------------------------|-------------------------|
-| Resolver / modelizar | Traduce el enunciado; elige un plan; llega a una solución viable | Problema rico; prueba con contexto |
-| Analizar soluciones | Comprueba; interpreta el resultado; detecta un error | «Corrige esta resolución»; revisión final |
+| Resolver / modelizar | Traduce el enunciado; elige un plan; llega a una solución viable; declara supuestos | Problema rico; tarea de modelización; prueba con contexto |
+| Analizar soluciones | Comprueba; interpreta el resultado; detecta un error; valida el modelo | «Corrige esta resolución»; revisión final |
 | Conjeturar | Propone una regularidad; la prueba con casos | Investigación guiada; patrones |
 | Computacional | Descompone; usa hoja de cálculo / GeoGebra con sentido | Tarea digital; algoritmo descrito |
 | Conexiones | Enlaza geometría y álgebra, o datos y funciones | Problema interdisciplinar |
@@ -60,7 +62,7 @@ En **4.º ESO** (Matemáticas A / B) los criterios se reformulan con más exigen
 | Personal | Persiste tras un bloqueo; reformula tras un error | Observación; rúbrica socioafectiva |
 | Social | Escucha y mejora la estrategia del equipo | Trabajo cooperativo con roles |
 
-**Pizarras verticales (Thinking Classrooms):** facilitan observar a la vez varias de estas evidencias (estrategias, errores, cooperación, comunicación). Guía práctica y checklist CE ↔ problema: [Thinking Classrooms · Liljedahl](../thinking-classrooms-liljedahl.md).
+**Pizarras verticales (Thinking Classrooms):** facilitan observar a la vez varias de estas evidencias. Guía: [Thinking Classrooms · Liljedahl](../thinking-classrooms-liljedahl.md).
 
 ---
 
@@ -80,7 +82,7 @@ Los criterios son propios de cada materia y curso: **no copies** la tabla de ESO
 ## 5. Cómo usar este mapa al programar (y al analizar una serie de problemas)
 
 1. Elige **pocos criterios prioritarios** por unidad o sesión (2–4), no los diez a la vez.  
-2. Diseña **tareas** que los hagan observables ([problemas ricos](../banco-problemas/problemas-ricos.md); [Thinking Classrooms](../thinking-classrooms-liljedahl.md)).  
+2. Diseña **tareas** que los hagan observables ([problemas ricos](../banco-problemas/problemas-ricos.md); [modelización](../modelizacion-matematica-aula.md); [Thinking Classrooms](../thinking-classrooms-liljedahl.md)).  
 3. Alinea **instrumentos** con esos criterios ([rúbrica](../plantillas/rubrica-competencial.md)).  
 4. Si trabajas una **serie de problemas en pizarra vertical**, marca por cada ítem qué CE prioriza (checklist en el material Liljedahl).  
 5. Revisa al final del trimestre: ¿algún foco (p. ej. comunicar o socioafectivo) ha quedado a cero?  
@@ -89,7 +91,7 @@ Los criterios son propios de cada materia y curso: **no copies** la tabla de ESO
 ```text
 Competencia específica
     → Criterios del curso (oficiales de tu CCAA)
-        → Tareas y problemas (¿vertical? ¿grupos de 3?)
+        → Tareas y problemas (¿modelización? ¿vertical? ¿grupos de 3?)
             → Evidencias e instrumentos
                 → Calificación según normas del centro
 ```
@@ -102,6 +104,7 @@ Competencia específica
 |-------|------------|
 | Tratar la competencia como un «tema» del libro | La competencia se desarrolla con *varios* saberes |
 | Evaluar solo el número final | Dejas fuera analizar, comunicar, modelizar |
+| Llamar modelización a un ejercicio con nombres propios | Ver niveles 0–3 en [modelización](../modelizacion-matematica-aula.md) |
 | Ignorar 9 y 10 | El sentido socioafectivo es parte del currículo de Matemáticas |
 | Misma rúbrica genérica para todo | Adapta dimensiones al instrumento |
 | Copiar criterios de otra CCAA sin revisar | Puede haber matices de redacción y de curso |
@@ -113,6 +116,7 @@ Competencia específica
 
 - [Bloque 3 — Elementos del currículo](../../apuntes/03-elementos-curriculo-lomloe.md)
 - [Bloque 8 — Resolución de problemas](../../apuntes/08-resolucion-de-problemas.md)
+- [**Modelización matemática en el aula**](../modelizacion-matematica-aula.md)
 - [Thinking Classrooms · Liljedahl](../thinking-classrooms-liljedahl.md)
 - [Sentidos por curso](sentidos-por-curso.md)
 - [Asignaturas ESO/Bachillerato](../asignaturas-eso-bachillerato/)
