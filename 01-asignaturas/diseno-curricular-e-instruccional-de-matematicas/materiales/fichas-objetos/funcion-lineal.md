@@ -3,7 +3,7 @@
 **Cursos orientativos:** 2.º–3.º ESO (introducción); 4.º ESO (consolidación y modelos); puente a Bachillerato.  
 **Sentidos prioritarios:** algebraico; conexiones con espacial (gráfica) y numérico.
 
-> En el aula suele hablarse de «función lineal» también para $y = mx + n$ (afín). Aclara la terminología según el curso y el libro, sin perdere en la disputa nominal: lo importante son **pendiente**, **ordenada** y **dependencia regular**.
+> En el aula suele hablarse de «función lineal» también para $y = mx + n$ (afín). Aclara la terminología según el curso y el libro, sin perderte en la disputa nominal: lo importante son **pendiente**, **ordenada** y **dependencia regular**.
 
 ---
 
@@ -48,6 +48,9 @@ Concepto de **relación de dependencia** regular entre magnitudes, con procedimi
 
 **Conversiones clave:** enunciado → tabla → gráfica → fórmula (y vuelta). Muchos errores son de **cambio de registro**, no de aritmética.
 
+Marco: [Registros Duval](../registros-representacion-duval.md).  
+Soporte dinámico (deslizadores $m$, $n$; predicción antes de arrastrar): [GeoGebra con criterio didáctico](../geogebra-criterio-didactico.md).
+
 ---
 
 ## 5. Obstáculos y errores típicos
@@ -55,7 +58,7 @@ Concepto de **relación de dependencia** regular entre magnitudes, con procedimi
 | Error / obstáculo | Idea frecuente | Intervención |
 |-------------------|----------------|--------------|
 | Confundir pendiente con altura | Leer un punto como «lo empinado» | Comparar dos rectas con distinta $m$ y misma altura en un punto |
-| $m$ como un punto de la recta | Parámetro = coordenada | Variar solo $m$ en GeoGebra |
+| $m$ como un punto de la recta | Parámetro = coordenada | Variar solo $m$ (p. ej. en GeoGebra) y verbalizar |
 | Toda gráfica «con forma de línea» es $y=mx+n$ | Prototipo visual | Contraste con trozos, curvas suaves |
 | Modelo válido fuera del intervalo de datos | Extrapolación ciega | Discutir dominio contextual |
 | Solo saber «hallar $m$ con dos puntos» | Procedimiento sin sentido | Interpretar $m$ como ritmo de cambio |
@@ -89,5 +92,6 @@ Modelización, conexiones entre representaciones, comunicación de la interpreta
 ## 9. Para profundizar en el repo
 
 - [Bloque 5](../../apuntes/05-fundamentos-epistemologicos-fenomenologicos.md) · [Bloque 8](../../apuntes/08-resolucion-de-problemas.md)
+- [Duval](../registros-representacion-duval.md) · [GeoGebra didáctico](../geogebra-criterio-didactico.md)
 - [Asignaturas ESO/Bachillerato](../asignaturas-eso-bachillerato/)
 - [Plantilla de unidad](../plantillas/unidad-didactica.md) · [Génesis](../plantillas/genesis-objeto.md)
