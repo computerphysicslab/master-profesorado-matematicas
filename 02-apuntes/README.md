@@ -13,20 +13,22 @@ permalink: /02-apuntes/
 
 | Ubicación | Qué va aquí |
 |-----------|-------------|
-| **`01-asignaturas/<asignatura>/apuntes/`** | Apuntes **de la asignatura** (temas numerados, índice local) |
-| **`02-apuntes/`** | **Índice general**, temas que **cruzan varias materias** y recursos externos |
-| **`03-materiales/`** | Fichas reutilizables (psicología aplicada, historias matemáticas, etc.) |
+| **`01-asignaturas/<asignatura>/apuntes/`** | Apuntes **de la asignatura** (temas numerados) |
+| **`02-apuntes/`** | Índice general + temas que **cruzan varias materias** (solo carpetas **con contenido**) |
+| **`03-materiales/`** | Fichas reutilizables |
+
+> No se reservan carpetas vacías (`psicologia/`, `matematicas/`, `sociologia-educacion/` eliminadas). El contenido de esas áreas está en las asignaturas correspondientes.
 
 ## Empezar por aquí
 
-→ **[INDICE.md](INDICE.md)** — mapa completo con enlaces a Psicología, Procesos, transversales (DUA, evaluación formativa, IA) y recursos.
+→ **[INDICE.md](INDICE.md)** — mapa completo  
+→ **[Glosario central](glosario-central-master.md)**  
+→ **[MANIFEST.md](../MANIFEST.md)** — reglas de todo el repo
 
-→ **[Glosario central del máster](glosario-central-master.md)** — términos esenciales unificados (sistema educativo, psicología del aprendizaje, diversidad, emociones y didáctica de las matemáticas).
+### Transversales disponibles
 
-### Transversales destacados
-
-- [Glosario central](glosario-central-master.md)
 - [DUA](didactica/dua-diseno-universal-aprendizaje.md)
 - [Evaluación formativa global](evaluacion/evaluacion-formativa-global.md)
 - [IA en el aula de Matemáticas](tecnologia-educativa/ia-en-el-aula-matematicas.md)
 - [Libertad de cátedra y volumen legislativo](legislacion-educativa/libertad-catedra-volumen-legislativo.md)
+- [Recursos externos GitHub](recursos-externos/recursos-github-master-matematicas.md)

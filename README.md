@@ -8,10 +8,9 @@ permalink: /
 
 # Máster Universitario en Profesorado — Matemáticas
 
-Repositorio personal de trabajo del **Máster Universitario en Profesorado de Educación Secundaria Obligatoria, Bachillerato, Formación Profesional y Enseñanzas de Idiomas, Artísticas y Deportivas**, especialidad **Matemáticas**.
+Repositorio personal de trabajo del **Máster Universitario en Profesorado de Educación Secundaria**, especialidad **Matemáticas**.
 
-El repositorio reúne apuntes, materiales, actividades, trabajos, bibliografía, proyectos, recursos digitales y evidencias de aprendizaje generados durante el máster.
-
+**Mapa de estructura y reglas de ubicación:** [MANIFEST.md](MANIFEST.md)
 
 ```mermaid
 flowchart TB
@@ -45,72 +44,37 @@ flowchart TB
   P2 --> TFM
 ```
 
-*Figura. Mapa orientativo del máster: de la formación general y la especialidad hacia el practicum y el TFM.*
-
-
 ## Estructura
 
-- `00-administracion/` — matrícula, calendario, trámites, organización y documentación administrativa.
-- `01-asignaturas/` — asignaturas del máster y espacios de trabajo.
-- `02-apuntes/` — índice general y apuntes transversales.
-  - [Recursos en GitHub para el Máster de Matemáticas (ESO)](02-apuntes/recursos-externos/recursos-github-master-matematicas.md)
-  - Apunte: [Libertad de cátedra y volumen legislativo](02-apuntes/legislacion-educativa/libertad-catedra-volumen-legislativo.md)
-- `03-materiales/` — materiales docentes y recursos reutilizables.
-- `04-pbl-abp/` — aprendizaje basado en proyectos/problemas.
-- `05-python-jupyter/` — Python, Jupyter y recursos computacionales para educación matemática.
-- `06-inteligencia-artificial/` — IA aplicada a educación, docencia y aprendizaje.
-- `07-evaluacion/` — evaluación, instrumentos, rúbricas y evidencias.
-- `08-podcasts/` — podcasts relacionados con aprendizaje, enseñanza y Matemáticas.
-- `09-bibliografia/` — bibliografía y referencias.
-- `10-proyectos/` — proyectos integradores y propuestas didácticas.
-- `99-archivo/` — materiales históricos o no activos.
+| Carpeta | Contenido |
+|---------|-----------|
+| `00-administracion/` | Matrícula, calendario, trámites |
+| `01-asignaturas/` | Asignaturas + **`practicum/`** (trabajo anonimizado I/II) |
+| `02-apuntes/` | Índice general y **transversales con contenido** (DUA, evaluación, IA…) — [índice](02-apuntes/INDICE.md) |
+| `03-materiales/` | Materiales reutilizables |
+| `04-pbl-abp/` | SA / ABP |
+| `05-python-jupyter/` | Python didáctico + notebooks |
+| `06-inteligencia-artificial/` | IA en educación |
+| `07-evaluacion/` | Instrumentos y rúbricas |
+| `08-podcasts/` | Guiones e índices |
+| `09-bibliografia/` | Autores-pensadores |
+| `10-proyectos/` | Proyectos integradores |
+| `99-archivo/` | Histórico / scripts one-shot |
+
+**Criterio:** apuntes de asignatura → `01-asignaturas/…/apuntes/`. No hay carpetas vacías de “psicología/matemáticas/sociología” bajo `02-apuntes/`.
 
 ## Asignaturas obligatorias
 
 | Periodo | Asignatura |
 |---|---|
-| S1 | Psicología del desarrollo y de la educación |
-| S1 | Procesos y contextos educativos |
-| S1 | Sociedad, familia y procesos grupales |
-| S1 | Practicum I |
-| S1 | Diseño curricular e instruccional de Matemáticas |
-| S2 | Contenidos disciplinares de Matemáticas |
-| S2 | Diseño de actividades para el aprendizaje de Matemáticas |
-| S2 | Innovación e investigación educativa en Matemáticas |
-| Anual | Practicum II |
-| Anual | Trabajo fin de Máster |
-
-## Optativas
-
-Se elige **una optativa de S1 y una optativa de S2**. Además, se puede matricular **un segundo Contenido Disciplinar de otra especialidad en lugar de elegir dos optativas**.
-
-### Optativas S1
-
-- Atención al alumnado con necesidades educativas específicas
-- Educación emocional en el profesorado
-- Prevención y resolución de conflictos
-
-### Optativas S2
-
-- Diseño de materiales para la educación a distancia
-- Enseñanza del español para alumnado inmigrante
-- Habilidades comunicativas para docentes
-- Tecnologías de la información y la comunicación para el aprendizaje
-
-## Practicum y TFM
-
-- El horario de las clases presenciales **no determina el horario del Practicum**.
-- El horario del Practicum se determinará según la resolución vigente.
-- Parte del trabajo del **TFM se desarrollará conjuntamente con el Practicum**.
-
-## Criterio de organización
-
-Cada asignatura dispone de un `README.md`, un índice de apuntes, espacios para materiales y trabajos, y una referencia bibliográfica inicial. Los contenidos concretos se incorporarán durante el curso y se distinguirán de la documentación oficial.
+| S1 | Psicología · Procesos · Sociedad-familia-grupos · Practicum I · Diseño curricular |
+| S2 | Contenidos disciplinares · Diseño de actividades · Innovación e investigación |
+| Anual | Practicum II · TFM |
 
 ## Objetivo
 
-Convertir este repositorio en un cuaderno digital de trabajo completo para el máster y, posteriormente, en una base de conocimiento reutilizable para la enseñanza de Matemáticas y Ciencias en Secundaria y Bachillerato.
+Cuaderno digital de trabajo del máster y base reutilizable para la enseñanza de Matemáticas en Secundaria y Bachillerato.
 
 ## Licencia
 
-El contenido original de este repositorio se publica bajo **[CC BY-SA 4.0](LICENSE)**. Los recursos de terceros enlazados conservan su propia licencia: compruébala antes de reutilizarlos.
+**[CC BY-SA 4.0](LICENSE)**. Recursos de terceros: su propia licencia.
