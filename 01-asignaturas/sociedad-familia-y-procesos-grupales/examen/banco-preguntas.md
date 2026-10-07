@@ -7,34 +7,43 @@ Apuntes: [Tema 1](../apuntes/Tema1_El_aula_como_grupo.md) · [Tema 2](../apuntes
 ## Tema 1 — El aula como grupo
 
 1. Define **grupo** y tres características del **grupo-clase**.
-2. Roles **formales** e **informales** en un aula de Matemáticas.
-3. Fases de Tuckman: ¿cuándo una técnica emocional de alta intensidad?
-4. Diferencia **dinámica de grupos** y **técnicas de grupo**.
-5. Cinco elementos del aprendizaje cooperativo; ejemplo en resolución de problemas.
+2. Roles **formales** e **informales** en Matemáticas.
+3. Fases de Tuckman y técnicas emocionales.
+4. Dinámica de grupos vs técnicas de grupo.
+5. Aprendizaje cooperativo: cinco elementos; ejemplo.
 
 ---
 
-## Tema 2 — Poder, liderazgo e influencia
+## Tema 2 — Poder, influencia y liderazgo
 
-6. Distingue **poder**, **autoridad** e **influencia**. Aplica French y Raven a una situación de mates.
-7. Compara estilos **autocrático**, **democrático** y **laissez-faire** (Lewin).
-8. Explica las **4 dimensiones del liderazgo transformacional** (Bass) y pon un ejemplo de cada una en clase de Matemáticas.
-9. Diferencia liderazgo **transaccional**, **transformacional** y **pasivo**.
-10. Experimento de **conformidad de Asch** y dos estrategias para reducir la presión de callar.
-11. **Moscovici, Lage y Naffrechoux (1969):** diseño (minoría consistente vs inconsistente) y hallazgo principal. Implicación para cambiar una norma de aula.
-12. Diferencia **cumplimiento**, **identificación** e **internalización** (Kelman).
-13. Nota usada como sanción de conducta: problema de poder y reencuadre.
-14. **Currículo oculto:** ejemplo de mensaje de poder en Matemáticas.
-15. Caso: líder informal boicotea grupos aleatorios (intervención en tarea, relación y norma).
+6. Distingue **poder**, **influencia**, **liderazgo** y **autoridad**.
+7. French y Raven: las bases (incl. **informacional**). Ejemplo de cada una en mates.
+8. ¿Por qué la legitimidad formal no garantiza liderazgo?
+9. Enfoque de **rasgos** (Stogdill): aporte y límite.
+10. Lewin: autoritario, democrático, laissez-faire — un uso legítimo y un riesgo de cada uno.
+11. Estudios de **Ohio**: estructura de iniciación y consideración. ¿Por qué combinar ambas?
+12. “No hay un estilo universalmente mejor”: justifica con dos contextos de aula distintos.
+13. **Identidad social** (Tajfel/Turner) y líder informal prototípico.
+14. Carisma: por qué la pregunta ética es «¿hacia dónde les lleva?»
+15. Tabla transaccional vs transformacional; ¿pueden combinarse?
+16. Las **4 I** de Bass con ejemplo de cada una en Matemáticas.
+17. Liderazgo **auténtico** (Avolio y Gardner): ¿por qué admitir “no lo sé” puede reforzar autoridad?
+18. Liderazgo **ético**: eficacia vs justicia.
+19. Asch: conformidad y pensamiento crítico en mates.
+20. Milgram: disciplina ≠ obediencia ciega.
+21. Moscovici, **Lage y Naffrechoux (1969)**: consistencia de la minoría; implicación para una norma de aula.
+22. Kelman: cumplimiento → internalización; ejemplo de norma.
+23. Ejemplo integrado: combina al menos cuatro bases de poder y dos dimensiones transformacionales en un problema de 3.º ESO.
+24. Idea clave del Máster: de la obediencia a la autonomía — explícala en un párrafo.
 
 ---
 
 ## Transversales
 
-16. **Capital cultural** (Bourdieu) y relación con Matemáticas.
-17. **Igualdad** vs **equidad**; medida de aula orientada a la equidad.
-18. Límites del rol docente en la comunicación con familias.
+25. Capital cultural (Bourdieu) y Matemáticas.
+26. Igualdad vs equidad.
+27. Límites del rol docente con familias.
 
 ---
 
-*Ampliar según nuevos temas de la guía.*
+*Ampliar según la guía.*
