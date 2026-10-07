@@ -189,15 +189,38 @@ No solo conseguir que hagan algo: **elevar** motivación, capacidades y compromi
 
 ## 10. Liderazgo positivo, auténtico y ético
 
-### 10.1. Positivo
-Énfasis en fortalezas, bienestar, relaciones y crecimiento. En el aula: reconocer capacidades, autonomía, expectativas altas **y realistas**, oportunidades de progreso.  
-**No** es “todo es maravilloso”: **apoyo y exigencia coexisten**.
+### 10.1. Liderazgo positivo (marco y modelos)
+
+El **liderazgo positivo** se sitúa en la **psicología organizacional positiva**: no se limita a corregir déficits, sino a promover fortalezas, bienestar y desempeño sostenible.
+
+**Blanch, Gil, Antino y Rodríguez-Muñoz (2016)**, en *Papeles del Psicólogo*, ofrecen un marco teórico de los **modelos de liderazgo positivo**. Señalan que bajo esa denominación convergen, con afinidades y solapamientos, formas como:
+
+- liderazgo **transformacional**;
+- liderazgo **auténtico**;
+- liderazgo de **servicio** (*servant*);
+- liderazgo **espiritual**;
+- y el propio liderazgo **positivo** como etiqueta de conjunto.
+
+El constructo **no** está unívocamente delimitado, pero comparten el énfasis en variables organizacionales positivas (bienestar, relaciones de calidad, rendimiento sostenible). La evidencia revisada en ese trabajo apunta a impactos favorables cuando el liderazgo se orienta a fortalezas y a interacciones de calidad (escucha, empatía, refuerzo positivo coherente), no solo a control de errores.
+
+**En el aula de Matemáticas (traducción cuidadosa del marco organizacional):**
+
+| Principio | Traducción docente |
+|-----------|-------------------|
+| Enfoque en fortalezas | Reconocer estrategias útiles y progresos, no solo fallos |
+| Bienestar y rendimiento | Clima seguro para el error *y* exigencia de razonar |
+| Interacciones de calidad | Escucha activa del bloqueo; feedback concreto; respeto |
+| No solo “arreglar déficits” | Ampliar a quien ya domina (retos), no solo recuperar |
+
+**Precaución:** liderazgo positivo **no** es “todo es maravilloso y hay que estar motivado”. **Apoyo y exigencia coexisten.** Sin estructura ni límites, se confunde con laissez-faire.
 
 ### 10.2. Auténtico (Avolio y Gardner, 2005)
+
 Autoconciencia, coherencia valores–discurso–conducta, transparencia, relaciones genuinas.  
-En mates: «No lo sé; vamos a investigarlo» puede **aumentar** credibilidad (honestidad intelectual), no destruir autoridad.
+En mates: «No lo sé; vamos a investigarlo» puede **aumentar** credibilidad (honestidad intelectual), no destruir autoridad. Blanch et al. (2016) lo incluyen entre los modelos del abanico positivo.
 
 ### 10.3. Ético
+
 La eficacia no basta. Pregunta: ¿es **moralmente defendible** lo que hace el líder?  
 Justicia, respeto, integridad, transparencia, dignidad del alumnado, coherencia normas–comportamiento. Un líder puede movilizar y aun así ser injusto o manipulador.
 
@@ -261,7 +284,7 @@ A quién se da más tiempo; qué ejemplos; si el silencio es “no sabe” o “
 | Experto + informacional | Razonar *por qué* una estrategia funciona |
 | Referente | Coherencia y cercanía percibidas |
 | Democrático / Ohio | Estrategias propuestas por el grupo; estructura clara de fases |
-| Transformacional | Preguntas que obligan a generalizar; no regalar la solución |
+| Transformacional / positivo | Preguntas que obligan a generalizar; refuerzo del progreso |
 | Consideración individualizada | Ayuda distinta a quien bloquea |
 | Ético | Criterios de evaluación transparentes; sin favoritismos |
 
@@ -284,13 +307,13 @@ El **liderazgo educativo** debería lograr que quiera comprenderlo, sepa hacerlo
 
 ## 14. Checklist practicum
 
-- [ ] Normas claras y **consistentes** (efecto minoría influyente)  
+- [ ] Normas claras y **consistentes**  
 - [ ] Bases de poder habituales (¿experto/informacional o solo coercitivo?)  
 - [ ] Estructura de iniciación **y** consideración  
 - [ ] ¿Quién monopoliza la palabra?  
 - [ ] Error seguro vs ridiculizado  
 - [ ] Líderes informales a favor / en contra  
-- [ ] Evidencia de alguna de las 4 I esta semana  
+- [ ] Evidencia de alguna de las 4 I / prácticas de liderazgo positivo  
 - [ ] Separar disrupción y bloqueo cognitivo  
 - [ ] Coherencia ética: criterios justos y transparentes  
 
@@ -299,11 +322,11 @@ El **liderazgo educativo** debería lograr que quiera comprenderlo, sepa hacerlo
 ## 15. Actividades orientativas
 
 1. Observación 20 min: quién habla; qué se refuerza.  
-2. Mapa French y Raven de un conflicto real o observado.  
-3. Norma de clase orientada a internalización + plan de **consistencia**.  
-4. Caso: líder informal que boicotea grupos aleatorios (tarea, relación, norma).  
-5. Autoevaluación 4 I en una unidad de mates.  
-6. Comparar dos grupos (maduro vs principiante en la tarea): qué estilo priorizarías y por qué (contexto).
+2. Mapa French y Raven de un conflicto.  
+3. Norma de clase orientada a internalización + plan de consistencia.  
+4. Caso: líder informal que boicotea grupos aleatorios.  
+5. Autoevaluación 4 I / liderazgo positivo en una unidad de mates.  
+6. Dos contextos (grupo maduro vs principiante): qué estilo priorizar y por qué.
 
 ---
 
@@ -318,22 +341,21 @@ El **liderazgo educativo** debería lograr que quiera comprenderlo, sepa hacerlo
 
 ---
 
-## 17. Referencias fundamentales (verificadas orientativamente)
+## 17. Referencias fundamentales
 
 - French, J. R. P., & Raven, B. (1959). Bases del poder social; Raven añade después el poder **informacional**.  
 - Lewin, K., Lippitt, R., & White, R. K. (1939). Estilos autoritario, democrático, laissez-faire.  
-- Stogdill, R. M. (1948 y revisiones). Enfoque de rasgos; límites de listas universales.  
+- Stogdill, R. M. (1948 y revisiones). Enfoque de rasgos.  
 - Estudios Ohio State — *initiating structure* y *consideration*.  
-- Tajfel, H., & Turner, J. C. — identidad social y liderazgo como prototipicalidad.  
+- Tajfel, H., & Turner, J. C. — identidad social.  
 - Asch, S. E. (1956). Conformidad.  
 - Milgram, S. (1963). Obediencia a la autoridad.  
 - Moscovici, S., Lage, E., & Naffrechoux, M. (1969). *Sociometry* — minoría consistente.  
-- House / House & Howell — liderazgo carismático (orientación colectiva vs personalista).  
+- House / House & Howell — liderazgo carismático.  
 - Bass, B. M. (1985). Liderazgo transformacional y transaccional.  
 - Bass, B. M., & Avolio, B. J. — modelo de rango completo.  
 - Avolio, B. J., & Gardner, W. L. (2005). Liderazgo auténtico.  
-
-*No incorporar citas manuscritas no identificadas (p. ej. “Blauch 2016”) hasta localizar la fuente exacta.*
+- **Blanch, J., Gil, F., Antino, M., & Rodríguez-Muñoz, A. (2016).** Modelos de liderazgo positivo: marco teórico y líneas de investigación. *Papeles del Psicólogo, 37*(3), 170–176.  
 
 ---
 
