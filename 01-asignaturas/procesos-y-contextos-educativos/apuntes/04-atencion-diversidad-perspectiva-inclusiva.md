@@ -41,6 +41,25 @@ La **LOMLOE** sitúa la inclusión y el **DUA** como referentes de las programac
 
 ---
 
+## 3.1. Ejemplo de aplicación: TDAH y medidas ordinarias en el aula de Matemáticas
+
+El TDAH (cuando hay dictamen o cuando el patrón de aula sugiere interferencia atencional/ejecutiva) **no obliga** a inventar un currículo paralelo. Muchas respuestas son **medidas ordinarias** de diseño:
+
+| Medida ordinaria | Qué aporta |
+|------------------|------------|
+| Instrucciones breves y una cada vez | Reduce pérdida del hilo |
+| Tarea fragmentada + checklist visual | Apoya planificación y memoria de trabajo |
+| Ubicación con menos distractores | Reduce carga atencional extrínseca |
+| Feedback frecuente y concreto | Autorregulación sin esperar al final |
+| Formato de evaluación que no mida solo resistencia atencional | Separa acceso/atención de competencia matemática |
+| Enseñar estrategias ejecutivas (plan, revisión) | Andamiaje que se puede retirar |
+
+**Principio:** adaptar no es “hacerlo más fácil”; es quitar barreras innecesarias para que pueda demostrar lo que sabe. Detalle operativo y cadena barreras → diseño: [Neurodivergencia en el aula de Matemáticas](../../psicologia-del-desarrollo-y-de-la-educacion/materiales/neurodivergencia-aula-matematicas.md) (§3.1).
+
+Si hacen falta medidas específicas (tiempo en pruebas oficiales, materiales, etc.), se aplican según **dictamen y plan de centro**, en coordinación con orientación — no por decisión aislada del docente de la materia.
+
+---
+
 ## 4. DUA como columna vertebral del diseño
 
 Tres principios (detalle en el [material DUA](../materiales/dua-diseno-universal-aprendizaje.md)):
@@ -50,6 +69,8 @@ Tres principios (detalle en el [material DUA](../materiales/dua-diseno-universal
 3. **Acción y expresión** (*cómo*) — varias formas de evidenciar el criterio.
 
 El DUA **no baja el nivel**: multiplica caminos hacia los mismos criterios de evaluación.
+
+Una misma decisión DUA puede reducir barreras para **varios** perfiles a la vez (TDAH, dislexia, ansiedad, incorporación lingüística…). Ver tabla multiperfil en el [apunte transversal DUA](../../../02-apuntes/didactica/dua-diseno-universal-aprendizaje.md).
 
 ---
 
@@ -108,7 +129,7 @@ En centros de Aragón, las medidas de atención a la diversidad se enmarcan en l
 ## 8. Preguntas de repaso
 
 1. Diferencia integración e inclusión con un ejemplo de aula de Matemáticas.  
-2. ¿Qué es una medida ordinaria y qué una específica?  
+2. ¿Qué es una medida ordinaria y qué una específica? Pon un ejemplo de medida ordinaria útil ante dificultades atencionales/ejecutivas.  
 3. Diseña una tarea de ecuaciones con los tres principios DUA.  
 4. ¿Por qué el cooperativo mal planteado puede aumentar la exclusión?
 
@@ -116,9 +137,10 @@ En centros de Aragón, las medidas de atención a la diversidad se enmarcan en l
 
 ## Material relacionado
 
-- **[DUA](../materiales/dua-diseno-universal-aprendizaje.md)**  
+- **[DUA](../materiales/dua-diseno-universal-aprendizaje.md)** · [DUA transversal](../../../02-apuntes/didactica/dua-diseno-universal-aprendizaje.md)  
 - [Mapa de medidas de atención a la diversidad](../materiales/mapa-medidas-atencion-diversidad.md)  
 - [Evaluación competencial en Matemáticas](../materiales/evaluacion-competencial-matematicas-lomloe.md)  
+- [Neurodivergencia en el aula de Matemáticas](../../psicologia-del-desarrollo-y-de-la-educacion/materiales/neurodivergencia-aula-matematicas.md)  
 - [Inclusión y diversidad matemática (Diseño curricular)](../../diseno-curricular-e-instruccional-de-matematicas/materiales/curriculo-lomloe/inclusion-excelencia-diversidad-matematica-lomloe.md)  
 - [Tema 5 — Metodología](05-metodologia-recursos-educacion-secundaria.md)  
 - Tomlinson (2001); Torrego y Negro (2012) — [bibliografía](../bibliografia.md)
