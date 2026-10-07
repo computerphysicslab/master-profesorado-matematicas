@@ -17,8 +17,8 @@ Laboratorio computacional para la **educación matemática** en Secundaria y Bac
 |---------|-------------|
 | [**Marco didáctico**](python-criterio-didactico.md) | Cuándo usar Python, modos A–D, evaluación, orquestación, vínculo con IA |
 | [**Plantilla notebook**](jupyter/plantilla-notebook-escolar.ipynb) ([md](jupyter/plantilla-notebook-escolar.md)) | Predicción → modelo → código → interpretación |
-| [**Notebook tarifas / afín**](matematicas/tarifas-funcion-afin.ipynb) | Laboratorio ligado a la [unidad de tarifas](../01-asignaturas/diseno-curricular-e-instruccional-de-matematicas/materiales/ejemplo-unidad-tarifas-exigencia-cognitiva.md) |
-| [**Ficha de actividad**](actividades/actividad-tarifas-python.md) | Secuencia de sesión 25–40 min |
+| [**Notebook tarifas / afín**](matematicas/tarifas-funcion-afin.ipynb) | [Unidad tarifas](../01-asignaturas/diseno-curricular-e-instruccional-de-matematicas/materiales/ejemplo-unidad-tarifas-exigencia-cognitiva.md) · [ficha](actividades/actividad-tarifas-python.md) |
+| [**Notebook perímetro–área**](matematicas/perimetro-area-rectangulos.ipynb) | [Unidad geometría](../01-asignaturas/diseno-curricular-e-instruccional-de-matematicas/materiales/ejemplo-unidad-geometria-perimetro-area.md) · [ficha](actividades/actividad-perimetro-area-python.md) |
 
 ## Carpetas
 
