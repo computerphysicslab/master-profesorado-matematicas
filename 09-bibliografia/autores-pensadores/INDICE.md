@@ -2,60 +2,85 @@
 
 Los ámbitos del Máster se indican **por nombre de materia**, sin códigos numéricos de plan de estudios.
 
-> **Ruta de estudio prioritaria (por relevancia para el Máster):** ver [INDICE-POR-RELEVANCIA.md](./INDICE-POR-RELEVANCIA.md) — orden descendente para estudiar primero lo más transversal y aplicable al aula de Matemáticas.
+> **Ruta de estudio prioritaria:** [INDICE-POR-RELEVANCIA.md](./INDICE-POR-RELEVANCIA.md).
 
-> **Organismos y sociedades** (FESPM, CEMAT, NCTM, etc.): no son pensadores individuales → [../organismos-sociedades/](../organismos-sociedades/).
+> **Paradigma empírico-analítico / racional-tecnológico (mapa de cadena, sin duplicar fichas):**  
+> [mapa-paradigma-tecnocratico-positivista.md](./mapa-paradigma-tecnocratico-positivista.md)
+
+> **Organismos y sociedades** → [../organismos-sociedades/](../organismos-sociedades/).
+
+## Bloque · racional-tecnológico / empírico-analítico (fichas nuevas o ampliadas)
+
+| Autor | Área | Conceptos | Ficha |
+|-------|------|-----------|-------|
+| [Auguste Comte](./01-filosofia-educacion/comte.md) | Positivismo | saber empírico; tres estados | Nueva |
+| [Frederick W. Taylor](./06-curriculo-evaluacion-investigacion/taylor.md) | Organización | eficiencia; estandarización | Nueva |
+| [Franklin Bobbitt](./06-curriculo-evaluacion-investigacion/bobbitt.md) | Currículo técnico | ingeniería de objetivos | Nueva |
+| [Edward Thorndike](./02-psicologia-aprendizaje/thorndike.md) | Psicología experimental | ley del efecto; medición | Nueva |
+| [Ralph Tyler](./06-curriculo-evaluacion-investigacion/tyler.md) | Teoría curricular | cuatro preguntas; objetivos–evaluación | **Ampliada** |
+| [Robert Mager](./06-curriculo-evaluacion-investigacion/mager.md) | Objetivos operativos | conducta observable; criterio | Nueva |
+| [Talcott Parsons](./03-sociologia/parsons.md) | Funcionalismo | sistema social; roles | Nueva |
+
+Ya en el repo (columna vertebral pedagógica del mismo polo): [Durkheim](./03-sociologia/durkheim.md) · [Skinner](./02-psicologia-aprendizaje/skinner.md) · [Bloom](./06-curriculo-evaluacion-investigacion/bloom.md) · [Taba](./06-curriculo-evaluacion-investigacion/taba.md) · [Gagné](./02-psicologia-aprendizaje/gagne.md).
+
+---
+
+## Índice selectivo (tabla general)
 
 | Autor | Área | Conceptos | Ámbitos del Máster |
 |---|---|---|---|
-| [Sócrates](./01-filosofia-educacion/socrates.md) | Filosofía del diálogo | mayéutica; preguntas; diálogo socrático | Procesos y contextos educativos; Diseño de actividades de aprendizaje de Matemáticas; Habilidades comunicativas |
-| [Platón](./01-filosofia-educacion/platon.md) | Filosofía de la educación | conocimiento; educación; formación intelectual | Procesos y contextos educativos; Contenidos disciplinares de Matemáticas |
-| [Aristóteles](./01-filosofia-educacion/aristoteles.md) | Filosofía de la educación y del conocimiento | experiencia; hábito; virtud; lógica | Psicología del desarrollo y de la educación; Procesos y contextos educativos |
-| [Jan Amos Comenio](./01-filosofia-educacion/comenio.md) | Didáctica moderna | educación universal; enseñanza sistemática; organización escolar | Procesos y contextos educativos |
-| [Jean-Jacques Rousseau](./01-filosofia-educacion/rousseau.md) | Filosofía de la educación | educación natural; desarrollo; autonomía | Psicología del desarrollo y de la educación; Procesos y contextos educativos |
-| [Johann Heinrich Pestalozzi](./01-filosofia-educacion/pestalozzi.md) | Pedagogía | intuición; experiencia; educación integral | Procesos y contextos educativos; Diseño de actividades de aprendizaje de Matemáticas |
-| [Friedrich Fröbel](./01-filosofia-educacion/froebel.md) | Pedagogía de la infancia | kindergarten; juego; dones; ocupación | Psicología del desarrollo y de la educación; Procesos y contextos educativos |
-| [John Dewey](./01-filosofia-educacion/dewey.md) | Pragmatismo y pedagogía | aprender haciendo; experiencia; democracia; problemas | Procesos y contextos educativos; Diseño de actividades de aprendizaje de Matemáticas; Innovación e investigación educativa en Matemáticas |
-| [Maria Montessori](./01-filosofia-educacion/montessori.md) | Pedagogía | autonomía; ambiente preparado; actividad | Psicología del desarrollo y de la educación; Diseño de actividades de aprendizaje de Matemáticas |
-| [Ovide Decroly](./01-filosofia-educacion/decroly.md) | Escuela Nueva | centros de interés; globalización; escuela para la vida | Procesos y contextos educativos; Diseño de actividades de aprendizaje de Matemáticas |
-| [Francisco Giner de los Ríos](./01-filosofia-educacion/giner-de-los-rios.md) | Institución Libre de Enseñanza | ILE; libertad de cátedra; coeducación; educación integral | Procesos y contextos educativos; Sociedad, familia y procesos grupales |
-| [Rosa Sensat](./01-filosofia-educacion/rosa-sensat.md) | Renovación pedagógica | pedagogía de la vida; naturaleza; Escola d’Estiu | Procesos y contextos educativos; Sociedad, familia y procesos grupales |
-| [Francesc Ferrer i Guardia](./01-filosofia-educacion/ferrer-guardia.md) | Escuela Moderna / racionalismo libertario | educación racional; laicismo; coeducación; emancipación | Procesos y contextos educativos; Sociedad, familia y procesos grupales; Habilidades del pensamiento |
-| [Célestin Freinet](./01-filosofia-educacion/freinet.md) | Pedagogía cooperativa | cooperación; expresión; trabajo; aula | Procesos y contextos educativos; Sociedad, familia y procesos grupales; Diseño de actividades de aprendizaje de Matemáticas |
-| [Alexander S. Neill](./01-filosofia-educacion/neill.md) | Pedagogía antiautoritaria | Summerhill; libertad; autogobierno; felicidad | Procesos y contextos educativos; Psicología del desarrollo y de la educación; Educación emocional del profesorado |
-| [Ivan Illich](./01-filosofia-educacion/illich.md) | Crítica institucional / desescolarización | desescolarización; convivialidad; contrapraductividad; monopolio escolar | Procesos y contextos educativos; Sociedad, familia y procesos grupales; Habilidades del pensamiento |
-| [Rudolf Steiner](./01-filosofia-educacion/steiner.md) | Pedagogía Waldorf | antroposofía; épocas; dibujo de formas; ritmo | Procesos y contextos educativos; Psicología del desarrollo y de la educación |
-| [Paulo Freire](./01-filosofia-educacion/freire.md) | Pedagogía crítica | diálogo; conciencia crítica; educación como práctica social | Procesos y contextos educativos; Sociedad, familia y procesos grupales; Habilidades del pensamiento |
-| [Victoria Camps](./01-filosofia-educacion/victoria-camps.md) | Ética aplicada / virtudes cívicas | duda razonada; gobierno de las emociones; bien común; desconfianza institucional | Educación emocional del profesorado; Procesos y contextos educativos; Sociedad, familia y procesos grupales |
-| [Jean Piaget](./02-psicologia-aprendizaje/piaget.md) | Psicología del desarrollo | constructivismo; desarrollo cognitivo; esquemas | Psicología del desarrollo y de la educación |
-| [Lev Vygotsky](./02-psicologia-aprendizaje/vygotsky.md) | Psicología sociocultural | zona de desarrollo próximo; mediación; lenguaje | Psicología del desarrollo y de la educación; Sociedad, familia y procesos grupales |
-| [Jerome Bruner](./02-psicologia-aprendizaje/bruner.md) | Psicología cognitiva | andamiaje; descubrimiento; representación | Psicología del desarrollo y de la educación; Diseño de actividades de aprendizaje de Matemáticas |
-| [David Ausubel](./02-psicologia-aprendizaje/ausubel.md) | Psicología cognitiva | aprendizaje significativo; conocimientos previos | Psicología del desarrollo y de la educación; Diseño de actividades de aprendizaje de Matemáticas |
-| [B. F. Skinner](./02-psicologia-aprendizaje/skinner.md) | Conductismo | refuerzo; conducta; modificación de conducta | Psicología del desarrollo y de la educación |
-| [Albert Bandura](./02-psicologia-aprendizaje/bandura.md) | Aprendizaje social | modelado; aprendizaje vicario; autoeficacia | Psicología del desarrollo y de la educación; Sociedad, familia y procesos grupales |
-| [Carol Dweck](./02-psicologia-aprendizaje/dweck.md) | Motivación y aprendizaje | mentalidad fija/de crecimiento; creencias sobre capacidad | Psicología del desarrollo y de la educación; Educación emocional del profesorado; Habilidades del pensamiento |
-| [John Sweller](./02-psicologia-aprendizaje/sweller.md) | Ciencia cognitiva | carga cognitiva; memoria de trabajo; diseño instruccional | Psicología del desarrollo y de la educación; Diseño de actividades de aprendizaje de Matemáticas |
-| [Viktor Frankl](./02-psicologia-aprendizaje/frankl.md) | Logoterapia | sentido; resiliencia | Educación emocional del profesorado |
-| [Richard Lazarus](./02-psicologia-aprendizaje/lazarus.md) | Estrés y afrontamiento | appraisal; coping | Educación emocional del profesorado; Psicología del desarrollo y de la educación |
-| [Émile Durkheim](./03-sociologia/durkheim.md) | Sociología de la educación | socialización; función social de la educación | Sociedad, familia y procesos grupales |
-| [Pierre Bourdieu](./03-sociologia/bourdieu.md) | Sociología de la educación | capital cultural; habitus; reproducción | Sociedad, familia y procesos grupales |
-| [George Pólya](./05-educacion-matematica/polya.md) | Resolución de problemas | heurísticas; fases de resolución; estrategias | Diseño de actividades de aprendizaje de Matemáticas; Contenidos disciplinares de Matemáticas |
-| [Guy Brousseau](./05-educacion-matematica/brousseau.md) | Teoría de situaciones didácticas | situación didáctica; contrato didáctico; medio | Diseño curricular e instruccional de Matemáticas; Diseño de actividades de aprendizaje de Matemáticas |
-| [Yves Chevallard](./05-educacion-matematica/chevallard.md) | Teoría antropológica de lo didáctico | transposición didáctica; praxeologías | Diseño curricular e instruccional de Matemáticas; Diseño de actividades de aprendizaje de Matemáticas |
-| [Hans Freudenthal](./05-educacion-matematica/freudenthal.md) | Educación Matemática Realista | matematización; reinvención guiada | Contenidos disciplinares de Matemáticas; Diseño de actividades de aprendizaje de Matemáticas |
-| [Alan Schoenfeld](./05-educacion-matematica/schoenfeld.md) | Resolución de problemas | metacognición; recursos; heurísticas; creencias | Diseño de actividades de aprendizaje de Matemáticas; Innovación e investigación educativa en Matemáticas |
-| [Juan D. Godino](./05-educacion-matematica/godino.md) | Didáctica — EOS | idoneidad didáctica; objetos matemáticos | Diseño curricular e instruccional de Matemáticas; Diseño de actividades; Innovación e investigación; TFM |
-| [Alan J. Bishop](./05-educacion-matematica/bishop.md) | Educación matemática y cultura | valores; enculturación | Sociedad, familia y procesos grupales; Diseño de actividades de aprendizaje de Matemáticas |
-| [Mogens Niss](./05-educacion-matematica/niss.md) | Competencias matemáticas | competencias KOM; PISA | Contenidos disciplinares de Matemáticas; Diseño de actividades de aprendizaje de Matemáticas |
-| [Luis Rico](./05-educacion-matematica/rico.md) | Didáctica de la Matemática | análisis didáctico; organización de contenidos | Diseño curricular e instruccional de Matemáticas; Contenidos disciplinares de Matemáticas |
-| [Martín Socas](./05-educacion-matematica/socas.md) | Errores y dificultades | errores; álgebra; afecto | Diseño de actividades de aprendizaje de Matemáticas; Psicología del desarrollo y de la educación |
-| [Modesto Sierra](./05-educacion-matematica/sierra.md) | Historia e institucionalización | SEIEM; historia de la educación matemática | Innovación e investigación educativa en Matemáticas |
-| [Lee Shulman](./06-curriculo-evaluacion-investigacion/shulman.md) | Conocimiento profesional docente | PCK; conocimiento didáctico del contenido | Diseño curricular e instruccional de Matemáticas; Diseño de actividades; Innovación e investigación |
-| [Dylan Wiliam](./06-curriculo-evaluacion-investigacion/william.md) | Evaluación formativa | evidencias de aprendizaje; feedback | Diseño de actividades de aprendizaje de Matemáticas; Innovación e investigación educativa en Matemáticas |
-| [Seymour Papert](./07-tecnologia-ia/papert.md) | Tecnología educativa | construccionismo; Logo | TIC para el aprendizaje; Diseño de actividades de aprendizaje de Matemáticas |
-| [Alan Turing](./08-matematicas-ciencia-computacion/turing.md) | Computación | algoritmos; computabilidad | TIC para el aprendizaje; Diseño de actividades de aprendizaje de Matemáticas |
+| [Sócrates](./01-filosofia-educacion/socrates.md) | Filosofía del diálogo | mayéutica; diálogo socrático | Procesos; Diseño de actividades; Habilidades comunicativas |
+| [Platón](./01-filosofia-educacion/platon.md) | Filosofía de la educación | conocimiento; formación intelectual | Procesos; Contenidos disciplinares |
+| [Aristóteles](./01-filosofia-educacion/aristoteles.md) | Filosofía | experiencia; hábito; lógica | Psicología; Procesos |
+| [Comenio](./01-filosofia-educacion/comenio.md) | Didáctica moderna | enseñanza sistemática | Procesos |
+| [Rousseau](./01-filosofia-educacion/rousseau.md) | Filosofía | educación natural | Psicología; Procesos |
+| [Pestalozzi](./01-filosofia-educacion/pestalozzi.md) | Pedagogía | intuición; educación integral | Procesos |
+| [Fröbel](./01-filosofia-educacion/froebel.md) | Pedagogía infancia | juego; kindergarten | Psicología; Procesos |
+| [Dewey](./01-filosofia-educacion/dewey.md) | Pragmatismo | aprender haciendo; problemas | Procesos; Diseño de actividades |
+| [Montessori](./01-filosofia-educacion/montessori.md) | Pedagogía | autonomía; ambiente | Psicología |
+| [Decroly](./01-filosofia-educacion/decroly.md) | Escuela Nueva | centros de interés | Procesos |
+| [Giner de los Ríos](./01-filosofia-educacion/giner-de-los-rios.md) | ILE | libertad de cátedra | Procesos; Sociedad |
+| [Rosa Sensat](./01-filosofia-educacion/rosa-sensat.md) | Renovación | pedagogía de la vida | Procesos; Sociedad |
+| [Ferrer i Guardia](./01-filosofia-educacion/ferrer-guardia.md) | Escuela Moderna | educación racional; emancipación | Procesos; Sociedad |
+| [Freinet](./01-filosofia-educacion/freinet.md) | Pedagogía cooperativa | cooperación; trabajo | Procesos; Sociedad |
+| [Neill](./01-filosofia-educacion/neill.md) | Antiautoritaria | Summerhill; libertad | Procesos; Psicología |
+| [Illich](./01-filosofia-educacion/illich.md) | Crítica institucional | desescolarización | Procesos; Sociedad |
+| [Steiner](./01-filosofia-educacion/steiner.md) | Waldorf | antroposofía; ritmo | Procesos; Psicología |
+| [Freire](./01-filosofia-educacion/freire.md) | Pedagogía crítica | diálogo; conciencia | Procesos; Sociedad |
+| [Victoria Camps](./01-filosofia-educacion/victoria-camps.md) | Ética cívica | duda razonada; emociones | Educación emocional; Procesos |
+| [Auguste Comte](./01-filosofia-educacion/comte.md) | Positivismo | saber empírico | Procesos |
+| [Piaget](./02-psicologia-aprendizaje/piaget.md) | Desarrollo | constructivismo; esquemas | Psicología |
+| [Vygotsky](./02-psicologia-aprendizaje/vygotsky.md) | Sociocultural | ZDP; mediación | Psicología; Sociedad |
+| [Bruner](./02-psicologia-aprendizaje/bruner.md) | Cognitiva | andamiaje; descubrimiento | Psicología; Diseño de actividades |
+| [Ausubel](./02-psicologia-aprendizaje/ausubel.md) | Cognitiva | aprendizaje significativo | Psicología; Diseño de actividades |
+| [Thorndike](./02-psicologia-aprendizaje/thorndike.md) | Experimental | ley del efecto; medición | Psicología |
+| [Skinner](./02-psicologia-aprendizaje/skinner.md) | Conductismo | refuerzo; enseñanza programada | Psicología |
+| [Bandura](./02-psicologia-aprendizaje/bandura.md) | Aprendizaje social | autoeficacia; modelado | Psicología; Sociedad |
+| [Dweck](./02-psicologia-aprendizaje/dweck.md) | Motivación | mentalidad de crecimiento | Psicología; Educación emocional |
+| [Sweller](./02-psicologia-aprendizaje/sweller.md) | Carga cognitiva | memoria de trabajo | Psicología; Diseño de actividades |
+| [Gagné](./02-psicologia-aprendizaje/gagne.md) | Diseño instruccional | condiciones del aprendizaje | Psicología; Diseño curricular |
+| [Durkheim](./03-sociologia/durkheim.md) | Sociología | socialización; función social | Sociedad |
+| [Parsons](./03-sociologia/parsons.md) | Funcionalismo | sistema social; roles | Sociedad; Procesos |
+| [Bourdieu](./03-sociologia/bourdieu.md) | Sociología | capital cultural; habitus | Sociedad |
+| [Pólya](./05-educacion-matematica/polya.md) | Resolución de problemas | heurísticas | Diseño de actividades |
+| [Brousseau](./05-educacion-matematica/brousseau.md) | TSD | contrato didáctico | Diseño curricular |
+| [Chevallard](./05-educacion-matematica/chevallard.md) | TAD | transposición didáctica | Diseño curricular |
+| [Freudenthal](./05-educacion-matematica/freudenthal.md) | RME | matematización | Contenidos; Diseño de actividades |
+| [Schoenfeld](./05-educacion-matematica/schoenfeld.md) | Resolución de problemas | metacognición; creencias | Diseño de actividades |
+| [Godino](./05-educacion-matematica/godino.md) | EOS | idoneidad didáctica | Diseño curricular; TFM |
+| [Bishop](./05-educacion-matematica/bishop.md) | Cultura | valores; enculturación | Sociedad; Diseño de actividades |
+| [Niss](./05-educacion-matematica/niss.md) | Competencias | KOM; PISA | Contenidos |
+| [Rico](./05-educacion-matematica/rico.md) | Didáctica | análisis didáctico | Diseño curricular |
+| [Taylor](./06-curriculo-evaluacion-investigacion/taylor.md) | Organización | eficiencia | Procesos |
+| [Bobbitt](./06-curriculo-evaluacion-investigacion/bobbitt.md) | Currículo técnico | objetivos | Procesos; Diseño curricular |
+| [Tyler](./06-curriculo-evaluacion-investigacion/tyler.md) | Teoría curricular | modelo racional | Procesos; Diseño curricular |
+| [Mager](./06-curriculo-evaluacion-investigacion/mager.md) | Objetivos | conducta observable | Diseño curricular |
+| [Bloom](./06-curriculo-evaluacion-investigacion/bloom.md) | Objetivos / evaluación | taxonomía | Diseño curricular |
+| [Taba](./06-curriculo-evaluacion-investigacion/taba.md) | Currículo | desarrollo sistemático | Diseño curricular |
+| [Shulman](./06-curriculo-evaluacion-investigacion/shulman.md) | Conocimiento docente | PCK | Diseño curricular |
+| [Wiliam](./06-curriculo-evaluacion-investigacion/william.md) | Evaluación formativa | feedback | Diseño de actividades |
+| [Papert](./07-tecnologia-ia/papert.md) | Tecnología | construccionismo | TIC |
+| [Turing](./08-matematicas-ciencia-computacion/turing.md) | Computación | algoritmos | TIC |
 
-> Índice selectivo ampliado. El listado completo por carpeta está en las subcarpetas `01`–`08` y en [`MAPA-AUTOR-AMBITO.md`](./MAPA-AUTOR-AMBITO.md).
-
-> **Orden de estudio prioritario:** [INDICE-POR-RELEVANCIA.md](./INDICE-POR-RELEVANCIA.md).  
-> **Organismos (FESPM, CEMAT, NCTM):** [../organismos-sociedades/](../organismos-sociedades/).
+> Listado completo por carpeta en `01`–`08` y en [`MAPA-AUTOR-AMBITO.md`](./MAPA-AUTOR-AMBITO.md).  
+> **Orden de estudio:** [INDICE-POR-RELEVANCIA.md](./INDICE-POR-RELEVANCIA.md).
