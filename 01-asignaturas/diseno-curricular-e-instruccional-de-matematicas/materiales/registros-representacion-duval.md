@@ -2,7 +2,8 @@
 
 **Asignatura:** Diseño curricular e instruccional de Matemáticas  
 **Apuntes:** [Bloque 5 — Epistemología y fenomenología](../apuntes/05-fundamentos-epistemologicos-fenomenologicos.md) · [Bloque 7 — Dificultades](../apuntes/07-dificultades-y-obstaculos.md) · [Bloque 8 — Resolución de problemas](../apuntes/08-resolucion-de-problemas.md)  
-**Fichas de objeto:** [fracción](fichas-objetos/fraccion.md) · [función lineal](fichas-objetos/funcion-lineal.md) · [derivada](fichas-objetos/derivada.md) · [probabilidad](fichas-objetos/probabilidad.md)
+**Fichas de objeto:** [fracción](fichas-objetos/fraccion.md) · [función lineal](fichas-objetos/funcion-lineal.md) · [derivada](fichas-objetos/derivada.md) · [probabilidad](fichas-objetos/probabilidad.md)  
+**Tecnología:** [GeoGebra con criterio didáctico](geogebra-criterio-didactico.md)
 
 > Raymond Duval (didáctica de la matemática, registros semióticos): **no hay comprensión matemática sin coordinación de representaciones**. El objeto no se confunde con una sola de sus escrituras.
 
@@ -100,7 +101,7 @@ Si solo se evalúa el tratamiento simbólico, se puede **aprobar sin coordinar**
 
 Error típico de conversión: leer la ordenada en el origen como «pendiente».
 
-Ficha: [función lineal](fichas-objetos/funcion-lineal.md).
+Ficha: [función lineal](fichas-objetos/funcion-lineal.md). Soporte dinámico: [GeoGebra didáctico](geogebra-criterio-didactico.md).
 
 ### 6.2. Fracción
 
@@ -197,7 +198,7 @@ Enlace con [heurísticas y mediación](banco-problemas/heuristicas-y-mediacion.m
 | Thinking Classrooms | Pizarra vertical hace **visibles** registros distintos entre grupos |
 | Obstáculos (Brousseau / bloque 7) | Un registro escolar rígido puede *crear* obstáculo (solo algoritmo) |
 | DUA / multinivel | Ofrecer varios registros de entrada = más accesibilidad sin bajar el criterio |
-| GeoGebra (cuando se desarrolle) | Laboratorio de conversiones dinámica gráfico ↔ símbolo |
+| **[GeoGebra con criterio didáctico](geogebra-criterio-didactico.md)** | Laboratorio de conversiones dinámicas gráfico ↔ símbolo; predicción antes de arrastrar |
 
 ---
 
@@ -212,6 +213,8 @@ Enlace con [heurísticas y mediación](banco-problemas/heuristicas-y-mediacion.m
 4. Puesta en común: una tabla, una gráfica, una ecuación.  
 5. Institucionalización: $y = mx + n$ e interpretación de $m$, $n$.  
 6. *Looking back:* «Dada solo la gráfica, reconstruid la tarifa en palabras».
+
+Opcional: contraste dinámico de pendientes con [GeoGebra](geogebra-criterio-didactico.md) *después* de la predicción en papel.
 
 ---
 
@@ -236,6 +239,6 @@ No sustituye el currículo ni la normativa autonómica: orienta el **análisis d
 ## Enlaces del repo
 
 - [Bloque 5](../apuntes/05-fundamentos-epistemologicos-fenomenologicos.md) · [Bloque 7](../apuntes/07-dificultades-y-obstaculos.md) · [Bloque 8](../apuntes/08-resolucion-de-problemas.md)  
-- [Thinking Classrooms](thinking-classrooms-liljedahl.md)  
+- [GeoGebra con criterio didáctico](geogebra-criterio-didactico.md) · [Thinking Classrooms](thinking-classrooms-liljedahl.md)  
 - [Problemas ricos](banco-problemas/problemas-ricos.md) · [Heurísticas](banco-problemas/heuristicas-y-mediacion.md)  
 - [Glosario de la asignatura](../glosario.md)
