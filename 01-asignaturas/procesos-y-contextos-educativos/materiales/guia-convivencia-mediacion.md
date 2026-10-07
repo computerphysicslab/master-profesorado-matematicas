@@ -5,6 +5,9 @@ Línea de mejora de convivencia y ayuda entre iguales (tradición Torrego y equi
 
 > No sustituye el **plan de convivencia del centro** ni los protocolos autonómicos. Ante acoso, violencia o riesgo, priman esos protocolos y la derivación.
 
+**Gestión cotidiana de la disrupción en Matemáticas** (prevención, escalera de intervención de bajo nivel, situaciones típicas):  
+→ [Gestión de aula y disrupción](gestion-aula-disrupcion-matematicas.md)
+
 ---
 
 ## 1. Marco breve (LOMLOE y centro)
@@ -31,6 +34,8 @@ El docente de Matemáticas **aplica** el marco del centro; no inventa un código
 | **5. Derivación** | Jefatura, orientación, servicios externos | Acoso, violencia, riesgo para la salud |
 
 **Regla:** no saltar al nivel 4–5 por un conflicto menor; no quedarse en el 2 cuando hay indicios de acoso o riesgo.
+
+Detalle operativo de los niveles 1–2 en el aula de mates: [gestión de aula y disrupción](gestion-aula-disrupcion-matematicas.md).
 
 ---
 
@@ -85,7 +90,7 @@ En muchos centros existen **alumnado mediador** o equipos formados; el docente n
 | Acción | Recurso |
 |--------|--------|
 | Leer el plan de convivencia en la primera semana | Documentos de centro |
-| Observar tono de correcciones y tiempos muertos | [Guía de observación por temas](guia-observacion-practicum-por-temas.md) · [checklist](checklist-observacion-centro-aula.md) |
+| Observar tono de correcciones y tiempos muertos | [Guía de observación](guia-observacion-practicum-por-temas.md) · [checklist](checklist-observacion-centro-aula.md) · [gestión de aula](gestion-aula-disrupcion-matematicas.md) |
 | Preguntar el circuito de mediación / acoso | Tutor de centro, jefatura |
 
 ---
@@ -96,4 +101,4 @@ Si el caso toca **riesgo emocional grave o ideación**, el rol docente es detect
 
 ---
 
-**Ver también:** [Órganos y documentos](organos-y-documentos-de-centro.md) · [Tema 3](../apuntes/03-centros-organizacion-participacion-gestion.md) · [Estructuras cooperativas](estructuras-aprendizaje-cooperativo.md)
+**Ver también:** [Gestión de aula y disrupción](gestion-aula-disrupcion-matematicas.md) · [Órganos y documentos](organos-y-documentos-de-centro.md) · [Tema 3](../apuntes/03-centros-organizacion-participacion-gestion.md) · [Estructuras cooperativas](estructuras-aprendizaje-cooperativo.md) · [Comunicación con familias](../../sociedad-familia-y-procesos-grupales/materiales/comunicacion-con-familias-matematicas.md)
