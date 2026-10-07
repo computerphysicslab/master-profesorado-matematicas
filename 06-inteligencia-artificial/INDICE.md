@@ -50,6 +50,7 @@ Recursos sobre IA generativa, IA educativa, pensamiento crítico, diseño de act
 | [etica/README.md](etica/README.md) | Espacio de trabajo |
 | [etica/uso-responsable.md](etica/uso-responsable.md) | Principios, normas de aula y profesionalidad docente |
 | [etica/privacidad-integridad.md](etica/privacidad-integridad.md) | Privacidad, integridad académica y sesgos |
+| [etica/dilemas-eticos.md](etica/dilemas-eticos.md) | **Viñetas** (TDAH/andamiaje, equidad, desconfianza vs. uso, evaluación) + preguntas y orientaciones |
 
 ## 6. Actividades de aula
 
