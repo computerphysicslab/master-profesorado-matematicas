@@ -7,6 +7,9 @@
 
 **Unidad hermana (misma arquitectura, otro objeto):** [Geometría · perímetro y área](ejemplo-unidad-geometria-perimetro-area.md)
 
+**Laboratorio Python (sesión 4 o reserva, *después* de predecir en papel):**  
+[Notebook tarifas](../../../05-python-jupyter/matematicas/tarifas-funcion-afin.ipynb) · [Ficha de actividad](../../../05-python-jupyter/actividades/actividad-tarifas-python.md) · [Criterio Python](../../../05-python-jupyter/python-criterio-didactico.md)
+
 **Marcos del repo:** [Exigencia cognitiva y disciplina](exigencia-cognitiva-disciplina-razonamiento.md) · [Thinking Classrooms](thinking-classrooms-liljedahl.md) · [Modelización](modelizacion-matematica-aula.md) · [Duval](registros-representacion-duval.md) · [Función lineal](fichas-objetos/funcion-lineal.md) · [Plantilla UD](plantillas/unidad-didactica.md) · [Heurísticas](banco-problemas/heuristicas-y-mediacion.md)
 
 ---
@@ -94,6 +97,7 @@ Nivel de modelización: **2–3** ([modelización](modelizacion-matematica-aula.
 | **Fluidez mecánica** | Automatizar cálculos de tabla y de $m$ dados dos puntos | Sesión 3 (acotada) |
 | **Conversión de registros** | Profundidad (Duval), no solo cuentas | 2, 3, 5 |
 | **Validación y comunicación** | CE.2 y CE.8 | 4, 5, 6 |
+| **Python (opcional)** | Tabla, gráfica, sensibilidad a un parámetro | Sesión 4 o reserva, *tras* predicción en papel |
 
 **No** es: 4 sesiones de ejercicios idénticos y un “problema de aplicación” el último día.  
 **No** es: solo exploración sin formalizar ni practicar.
@@ -104,13 +108,13 @@ Nivel de modelización: **2–3** ([modelización](modelizacion-matematica-aula.
 
 | Sesión | Objetivo | Actividad principal | Demanda | Evidencia |
 |--------|----------|---------------------|---------|-----------|
-| **1** | Entrar en la situación; estructurar datos | Problema de dos tarifas *sin* anunciar “función afín”. Individual → parejas. Predicción: “¿quién gana si uso poco / mucho?” | **Alta** (decidir, estimar) | Borrador de estrategia |
-| **2** | Emerger tabla y gráfica; conjeturar el cruce | Thinking Classroom / vertical o pósters: varias estrategias. Puesta en común. Institucionalizar idea de “punto de equilibrio” | **Alta** | Foto/ póster o esquema |
-| **3** | Formalizar $y=mx+n$; fluidez controlada | Cierre simbólico. **Bloque corto de fluidez** (8–10 ítems variados: completar tabla, hallar $m$ y $n$ a partir de dos puntos, leer gráfica). No 40 iguales | **Media** (práctica) + conversión | Salida de ticket / mini-quiz |
-| **4** | Comparar tarifas con modelo; validar | Problema: tercera tarifa o cambio de un parámetro. “¿Y si la cuota sube 2 €?” GeoGebra opcional *después* de predecir ([criterio GeoGebra](geogebra-criterio-didactico.md)) | **Alta** | Resolución con supuestos |
-| **5** | Error plantado + comunicación | Dossier: gráfica y tarifa **incoherentes**; detectar el fallo. Redactar recomendación a un usuario tipo | **Alta** (analizar, comunicar) | Texto + justificación |
-| **6** | Evaluación competencial breve + metacognición | Prueba mixta (ver §8). *Looking back*: “¿Qué sé hacer ahora que no el día 1?” | Mixta | Prueba + 5 líneas |
-| **R** | Reserva | Refuerzo de conversiones o ampliación (tres tarifas, inequación) | — | — |
+| **1** | Entrar en la situación; estructurar datos | Problema de dos tarifas *sin* anunciar “función afín”. Individual → parejas. Predicción: “¿quién gana si uso poco / mucho?” | **Alta** | Borrador de estrategia |
+| **2** | Emerger tabla y gráfica; conjeturar el cruce | Thinking Classroom / vertical o pósters. Institucionalizar “punto de equilibrio” | **Alta** | Esquema / póster |
+| **3** | Formalizar $y=mx+n$; fluidez controlada | Cierre simbólico + bloque corto de fluidez (8–10 ítems) | **Media** | Mini-quiz |
+| **4** | Comparar tarifas; validar; opcional Python | Tercera tarifa o cambio de parámetro. Opcional: [notebook](../../../05-python-jupyter/matematicas/tarifas-funcion-afin.ipynb) *después* de predecir | **Alta** | Resolución + supuestos |
+| **5** | Error plantado + comunicación | Gráfica y conclusión incoherentes; corregir | **Alta** | Texto + justificación |
+| **6** | Evaluación + metacognición | Prueba mixta. *Looking back* | Mixta | Prueba |
+| **R** | Reserva | Refuerzo, ampliación o laboratorio Python completo | — | — |
 
 ---
 
@@ -126,117 +130,63 @@ Tarifa B: 6 €/mes + 0,12 € por MB extra.
 | Campo | Contenido |
 |-------|-----------|
 | Función | Introducir (problema primero) |
-| Estrategias esperables | Tabla, ensayo, razonamiento por unidad, esbozo gráfico, planteamiento informal de igualdad |
-| Mediación | «¿Qué es fijo y qué cambia?»; «Prueba 0 MB y 100 MB»; no regalar aún $y=mx+n$ |
+| Mediación | «¿Qué es fijo y qué cambia?»; no regalar aún $y=mx+n$ |
 | CE | 1, 9 |
 
 ### Tarea B — Fluidez acotada (sesión 3)
 
-Ítems del estilo:
-
-1. Completa la tabla para $y = 0{,}08x + 12$.  
-2. Dados $(0,;6)$ y $(100,;18)$, estima $m$ y $n$ y escribe la expresión.  
-3. Lee en una gráfica dada el coste para 50 unidades y la ordenada en el origen.
-
-| Campo | Contenido |
-|-------|-----------|
-| Función | Consolidar procedimientos **después** de dar sentido |
-| Límite | 15–20 min; corrección rápida; quien termina: inventar una tarifa y su tabla |
-| CE | 7 (representar), apoyo a 1 |
+Completar tabla; hallar $m$ y $n$; leer gráfica. Límite 15–20 min.
 
 ### Tarea C — Alta demanda (sesión 4–5)
 
-**Enunciado:**  
-Un anuncio dice: “Tarifa C: solo 0,04 €/MB, la más barata.” En letra pequeña: cuota de 18 €/mes.  
-1. ¿Es siempre la más barata? Razona con al menos dos representaciones.  
-2. Un compañero afirma que “si el área bajo la recta fuera igual, el perímetro también lo sería” en un problema de rectángulos de igual área — *análogo estructural*: [unidad de geometría](ejemplo-unidad-geometria-perimetro-area.md).  
-3. Escribe tres supuestos que tu modelo de tarifas **no** incluye (permanencia, consumo mínimo, roaming…).
+Anuncio “la más barata” con letra pequeña; supuestos del modelo; análogo estructural con [geometría P–A](ejemplo-unidad-geometria-perimetro-area.md).
 
-| Campo | Contenido |
-|-------|-----------|
-| Función | Profundizar + validar (modelización nivel 2–3) |
-| Mediación | «¿Qué significa “más barata”? ¿Para quién?» |
-| CE | 1, 2, 6, 8 |
+**Extensión digital:** [actividad-tarifas-python.md](../../../05-python-jupyter/actividades/actividad-tarifas-python.md).
 
 ### Tarea D — Error plantado (sesión 5)
 
-Se entrega una gráfica de dos rectas y una conclusión escrita errónea (“conviene A a partir de 20 MB”) incompatible con el corte visible. El alumno debe **localizar la ruptura** del argumento y corregirla.
-
-Conexión: rigor = revisión del pensamiento, no acierto a la primera ([exigencia cognitiva](exigencia-cognitiva-disciplina-razonamiento.md)).
+Gráfica y conclusión incompatible; localizar la ruptura del argumento.
 
 ---
 
 ## 8. Evaluación de la unidad
 
-### Instrumentos
-
 | Instrumento | Qué mide | Peso orientativo |
 |-------------|----------|------------------|
-| Observación / producto sesiones 1–2 | Entrada a la tarea, estrategias | Formativo |
-| Mini-fluidez sesión 3 | Tabla, $m$, $n$, lectura gráfica | 20 % |
-| Resolución comentada (tarifa C o corte) | Modelizar, decidir, validar | 40 % |
-| Prueba breve sesión 6 | Ítem mecánico + ítem de justificación + ítem de coherencia gráfica/texto | 30 % |
-| Metacognición | Qué estrategia usaré la próxima vez | 10 % |
+| Productos sesiones 1–2 | Estrategias | Formativo |
+| Mini-fluidez sesión 3 | Tabla, $m$, $n$ | 20 % |
+| Resolución comentada | Modelizar, decidir, validar | 40 % |
+| Prueba sesión 6 | Mixta | 30 % |
+| Metacognición | Estrategia | 10 % |
 
-### Prueba breve (modelo de ítems)
+Si se usa el notebook: valorar **interpretación y predicción**, no solo que el código ejecute.
 
-1. **Mecánico:** dada $y = 0{,}1x + 8$, coste para $x = 30$.  
-2. **Conversión:** de una tabla pequeña a expresión.  
-3. **Alta demanda:** «Dos tarifas se cruzan en 80 MB. Por debajo de 80, ¿cuál es más barata? ¿Por qué? ¿Qué pasaría si la cuota de la más cara en el tramo bajo bajara 1 €?»  
-4. **Validación:** «Un resultado sale −15 € de coste mensual. ¿Qué concluyes?»
+### Prueba breve (modelo)
 
-### Rúbrica sintética (producto de decisión)
+1. Mecánico: $y = 0{,}1x + 8$ para $x = 30$.  
+2. Conversión: tabla → expresión.  
+3. Alta demanda: corte en 80 MB; ¿quién conviene por debajo?  
+4. Validación: coste −15 € → ¿qué concluyes?
+
+### Rúbrica (producto de decisión)
 
 | Dimensión | En desarrollo | Adecuado | Sólido |
 |-----------|---------------|----------|--------|
-| Modelo | Solo números sueltos | Expresión o gráfica usable | Tabla + símbolo o gráfica + interpretación de $m$, $n$ |
-| Decisión | Afirma sin apoyo | Corte correcto | Corte + para qué usuarios |
-| Validación | No aparece | Un comentario de sentido | Supuestos o sensibilidad a un cambio |
-| Comunicación | Solo cifra | Frases comprensibles | Argumento ordenado |
+| Modelo | Números sueltos | Expresión o gráfica usable | + interpretación $m$, $n$ |
+| Decisión | Sin apoyo | Corte correcto | + para qué usuarios |
+| Validación | Ausente | Un comentario | Supuestos o sensibilidad |
+| Comunicación | Solo cifra | Claro | Argumento ordenado |
 
 ---
 
-## 9. Atención a la diversidad
+## 9–13. Diversidad, gestión, familias, margen, autoevaluación
 
-| Medida | Concreción |
-|--------|------------|
-| Acceso | Datos en tabla ya empezada (ruta A); enunciado oral + escrito |
-| Refuerzo | Checklist de fases (datos / fijo / variable / comparar); calculadora |
-| Ampliación | Tres tarifas; inequación; anuncio engañoso real recortado |
-| Evaluación | Misma CE; puede evidenciarse en entrevista oral corta si la escritura bloquea |
+Ver versiones anteriores del documento en el historial del repo si necesitas el detalle completo; criterios estables:
 
----
-
-## 10. Gestión de aula (prevención)
-
-- Norma explícita: **el error se discute; no se ridiculiza** (sesión 1).  
-- Tiempos: 3 min de silencio individual al abrir el problema rico.  
-- Transiciones: consigna en pizarra («tabla → esbozo → frase»).  
-- Disrupción: [gestión de aula](../../procesos-y-contextos-educativos/materiales/gestion-aula-disrupcion-matematicas.md).
-
----
-
-## 11. Qué decir a las familias (mensaje breve)
-
-> En esta unidad no solo practicamos cuentas de tarifas: el alumnado aprende a **modelizar** una oferta, **comparar** con gráfica o fórmula y **explicar** la decisión. Habrá práctica de fluidez y problemas donde hay que razonar. La nota valora el procedimiento y la justificación, no solo el número final.
-
----
-
-## 12. Preceptivo vs margen
-
-| Fijado | Margen docente |
-|--------|----------------|
-| Saberes y CE del decreto / departamento | Contextos de tarifas; orden problema → formalización → fluidez |
-
----
-
-## 13. Autoevaluación docente
-
-- [ ] ¿Hubo al menos dos momentos de alta demanda real?  
-- [ ] ¿La fluidez estuvo acotada y *después* del sentido?  
-- [ ] ¿La prueba incluía algo más que cálculo?  
-- [ ] ¿Se institucionalizó $m$ y $n$ en contexto?  
-- [ ] ¿El error productizó en alguna puesta en común?
+- Rutas A/B/C de andamiaje; misma CE.  
+- Norma: el error se discute.  
+- Mensaje a familias: modelizar y justificar, no solo cuentas.  
+- Checklist docente: alta demanda real; fluidez acotada *después* del sentido; prueba no solo cálculo.
 
 ---
 
@@ -247,8 +197,9 @@ Exigencia cognitiva (marco)
         ↓
 ┌──────────────────┬────────────────────────────┐
 │ Unidad tarifas   │ Unidad geometría P–A       │
-│ (afín / modelo)  │ (contraejemplo / medida)   │
-└──────────────────┴────────────────────────────┘
+└────────┬─────────┴────────────────────────────┘
+         ↓
+   Notebook Python (opcional, sesión 4)
 ```
 
 ---
