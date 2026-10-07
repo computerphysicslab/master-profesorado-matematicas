@@ -33,6 +33,7 @@ Actividades diseñadas para **ESO y Bachillerato**. Se pueden adaptar a distinto
 
 **Norma:** Está prohibido pedir la solución completa. Si la IA la da, el alumno debe señalarlo y no usarla.
 
+**Secuencia completa (marco, prompts, evidencias, rúbrica, variantes, DUA):** [dialogo-socratico-ia-completo.md](dialogo-socratico-ia-completo.md)  
 **Documentar el proceso:** [plantilla-proceso-ia.md](../evaluacion/plantilla-proceso-ia.md)
 
 ---
@@ -81,7 +82,7 @@ Actividades diseñadas para **ESO y Bachillerato**. Se pueden adaptar a distinto
 
 ## Indicaciones generales de implementación
 
-- Empezar con actividades de **análisis** (cazador de alucinaciones) antes de las de **uso productivo**.
+- Empezar con actividades de **análisis** (cazador de alucinaciones) antes de las de **uso productivo** (diálogo socrático).
 - Reservar evidencias sin dispositivos.
 - Declarar siempre el uso cuando esté permitido.
 - Conectar con los criterios de evaluación de la programación.
