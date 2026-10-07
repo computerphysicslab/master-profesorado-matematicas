@@ -2,17 +2,18 @@
 
 **Tipo:** Obligatoria
 
-## Descripción
+Espacio **administrativo/académico** de la asignatura Practicum II.
 
-Espacio de trabajo para la asignatura **Practicum II** del Máster de Profesorado de Educación Secundaria, especialidad Matemáticas.
+## Dónde está el trabajo de prácticas
 
-## Contenidos
+Diario, observación, centro/aula, memoria y reflexiones **versionables y anonimizadas**:
 
-Los contenidos, apuntes y materiales se incorporarán progresivamente durante el curso a partir de la documentación docente y del trabajo personal.
+→ **[../practicum/](../practicum/)** (carpeta integrada Practicum I + II)
 
-## Carpetas
+No duplicar ese contenido aquí. Entregas personales → `trabajos/` local (no versionada); [TRABAJOS-LOCAL.md](../TRABAJOS-LOCAL.md).
 
-- `apuntes/` — apuntes y resúmenes.
-- `materiales/` — recursos docentes y documentación.
-- `trabajos/` — tareas, actividades y entregas.
-- `bibliografia.md` — referencias bibliográficas.
+## En esta carpeta
+
+- README de la asignatura  
+- Bibliografía  
+- Materiales de la materia según se incorporen  
