@@ -6,88 +6,71 @@ has_children: true
 permalink: /01-asignaturas/
 ---
 
-# 📚 Asignaturas — Máster de Profesorado · Matemáticas
-
-Repositorio de trabajo correspondiente a las asignaturas del **Máster Universitario en Profesorado de Educación Secundaria Obligatoria, Bachillerato, Formación Profesional y Enseñanzas de Idiomas, Artísticas y Deportivas**, especialidad en **Matemáticas**.
+# Asignaturas — Máster de Profesorado · Matemáticas
 
 **Especialidad:** Matemáticas para E.S.O. y Bachillerato
 
+Reglas globales del repo: **[MANIFEST.md](../MANIFEST.md)** (dónde va cada tipo de contenido).
+
 ---
 
-## 🗺️ Estructura
-
-Cada asignatura tiene su propia carpeta dentro de `01-asignaturas/`.
+## Estructura
 
 ```text
 01-asignaturas/
-│
-├── README.md
-│
 ├── psicologia-del-desarrollo-y-de-la-educacion/
-│   ├── apuntes/  materiales/  examen/  …
 ├── procesos-y-contextos-educativos/
-│   ├── apuntes/  materiales/  examen/  …
-├── sociedad-familia-y-procesos-grupales/
-├── practicum-i/
-├── contenidos-disciplinares-de-matematicas/
+├── sociedad-familia-y-procesos-grupales/   ← Tema 1 y Tema 2 en apuntes/
+├── practicum-i/          ← carcasa asignatura S1
+├── practicum-ii/         ← carcasa asignatura
+├── practicum/            ← trabajo anonimizado (diario, centro, aula…)
 ├── diseno-curricular-e-instruccional-de-matematicas/
+├── contenidos-disciplinares-de-matematicas/
 ├── diseno-de-actividades-para-el-aprendizaje-de-matematicas/
 ├── innovacion-e-investigacion-educativa-en-matematicas/
-├── practicum-ii/
 ├── trabajo-fin-de-master/
-│
-├── practicum/          ← diario, centro, aula, actividades, reflexiones (anonimizado)
-│
 └── optativas/
-    ├── educacion-emocional-en-el-profesorado/
-    └── …
 ```
 
-En las asignaturas teóricas, la carpeta **`examen/`** recoge bancos de posibles preguntas de examen del Máster alineadas con el material del repositorio (autoevaluación y preparación; no son preguntas oficiales de convocatoria).
+**Practicum:** el contenido de prácticas versionable vive en **`practicum/`**. `practicum-i/` y `practicum-ii/` no duplican diario ni centro.
 
 ---
 
-# 📋 Asignaturas del Máster
-
-## 1. Formación general
-
-| Asignatura | Tipo | Semestre |
-| --- | --- | --- |
-| [Psicología del desarrollo y de la educación](psicologia-del-desarrollo-y-de-la-educacion/) | Obligatoria | S1 |
-| [Procesos y contextos educativos](procesos-y-contextos-educativos/) | Obligatoria | S1 |
-| [Sociedad, familia y procesos grupales](sociedad-familia-y-procesos-grupales/) | Obligatoria | S1 |
-| [Practicum I](practicum-i/) | Obligatoria | S1 |
-
-Estas materias constituyen parte de la formación psicopedagógica y contextual común del Máster.
-
----
-
-# ➗ 2. Especialidad de Matemáticas
-
-| Asignatura | Tipo | Semestre |
-| --- | --- | --- |
-| [Contenidos disciplinares de Matemáticas](contenidos-disciplinares-de-matematicas/) | Obligatoria | S2 |
-| [Diseño curricular e instruccional de Matemáticas](diseno-curricular-e-instruccional-de-matematicas/) | **Optativa** | S1 |
-| [Diseño de actividades para el aprendizaje de Matemáticas](diseno-de-actividades-para-el-aprendizaje-de-matematicas/) | Obligatoria | S2 |
-| [Innovación e investigación educativa en Matemáticas](innovacion-e-investigacion-educativa-en-matematicas/) | Obligatoria | S2 |
-
-Estas asignaturas constituyen el núcleo específico de la especialidad de Matemáticas.
-
----
-
-# 🎓 3. Trabajo Fin de Máster y Practicum II
+## Formación general (S1)
 
 | Asignatura | Tipo |
 | --- | --- |
-| [Practicum II](practicum-ii/) | Obligatoria |
-| [Trabajo Fin de Máster — Especialidad Matemáticas](trabajo-fin-de-master/) | Obligatoria |
-
-El TFM integrará los conocimientos adquiridos durante el Máster y podrá relacionarse con la didáctica de las Matemáticas, la innovación educativa, las metodologías activas, la tecnología educativa, Python, la Inteligencia Artificial u otras líneas de investigación educativa.
+| [Psicología del desarrollo y de la educación](psicologia-del-desarrollo-y-de-la-educacion/) | Obligatoria |
+| [Procesos y contextos educativos](procesos-y-contextos-educativos/) | Obligatoria |
+| [Sociedad, familia y procesos grupales](sociedad-familia-y-procesos-grupales/) | Obligatoria — [Tema 1](sociedad-familia-y-procesos-grupales/apuntes/Tema1_El_aula_como_grupo.md) · [Tema 2](sociedad-familia-y-procesos-grupales/apuntes/Tema2_Relaciones_de_poder_en_el_aula.md) |
+| [Practicum I](practicum-i/) | Obligatoria (trabajo en [practicum/](practicum/)) |
 
 ---
 
-# 🧩 Relación entre asignaturas
+## Especialidad de Matemáticas
 
-Una de las finalidades de este repositorio es evitar que las asignaturas se estudien como compartimentos aislados.
+| Asignatura | Tipo |
+| --- | --- |
+| [Diseño curricular e instruccional de Matemáticas](diseno-curricular-e-instruccional-de-matematicas/) | Según plan |
+| [Contenidos disciplinares de Matemáticas](contenidos-disciplinares-de-matematicas/) | Obligatoria |
+| [Diseño de actividades…](diseno-de-actividades-para-el-aprendizaje-de-matematicas/) | Obligatoria |
+| [Innovación e investigación…](innovacion-e-investigacion-educativa-en-matematicas/) | Obligatoria |
 
-La formación puede contemplarse como una cadena de aprendizaje que conecta psicología del desarrollo, contextos educativos, diseño curricular, diseño de actividades, innovación e investigación, practicum y TFM.
+---
+
+## Practicum II y TFM
+
+| Asignatura | Notas |
+| --- | --- |
+| [Practicum II](practicum-ii/) | Carcasa; evidencias en [practicum/](practicum/) |
+| [Trabajo Fin de Máster](trabajo-fin-de-master/) | Obligatoria |
+
+---
+
+## Optativas
+
+Ver [optativas/](optativas/).
+
+---
+
+Los apuntes **transversales** (DUA, evaluación formativa, IA…) están en [02-apuntes/](../02-apuntes/), no en carpetas vacías por disciplina.
