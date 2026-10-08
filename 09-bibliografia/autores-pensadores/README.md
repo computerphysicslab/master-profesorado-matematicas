@@ -10,8 +10,21 @@ No pretende ser una lista de autores «obligatorios» ni sustituir las guías do
 |---------------------|---------------------|
 | Fichas de **mapa intelectual**: área, conceptos, ámbitos del Máster, preguntas de lectura, localización bibliográfica | Historias o enigmas de aula → [`historias-matematicas`](../../03-materiales/historias-matematicas/) |
 | Orientación de lectura para el futuro profesor | Situaciones de aprendizaje → [`situaciones-aprendizaje`](../../04-pbl-abp/situaciones-aprendizaje/) |
+| **Línea temporal** del pensamiento educativo | Sustituto de manuales de Historia de la Educación |
 
-## Estructura
+## Empezar por aquí
+
+| Documento | Uso |
+|-----------|-----|
+| **[historia-del-pensamiento-educativo.md](./historia-del-pensamiento-educativo.md)** | Cronología por **año de nacimiento**: un párrafo por pensador (fichas del repo + lagunas prioritarias) |
+| [**mapa-paradigma-tecnocratico-positivista.md**](./mapa-paradigma-tecnocratico-positivista.md) | Cadena empírico-analítico / racional-tecnológico |
+| [`INDICE.md`](./INDICE.md) | Listado de autores por carpeta |
+| [`INDICE-POR-RELEVANCIA.md`](./INDICE-POR-RELEVANCIA.md) | Ruta de estudio prioritaria |
+| [`MAPA-AUTOR-AMBITO.md`](./MAPA-AUTOR-AMBITO.md) | Por ámbito del Máster |
+| [`RUTAS-LECTURA.md`](./RUTAS-LECTURA.md) | Itinerarios |
+| [`autores.json`](./autores.json) | Datos estructurados |
+
+## Estructura de fichas
 
 | Carpeta | Contenido |
 |---------|-----------|
@@ -23,16 +36,6 @@ No pretende ser una lista de autores «obligatorios» ni sustituir las guías do
 | [`06-curriculo-evaluacion-investigacion`](./06-curriculo-evaluacion-investigacion/) | Currículo, evaluación e investigación |
 | [`07-tecnologia-ia`](./07-tecnologia-ia/) | Tecnología educativa, programación e IA |
 | [`08-matematicas-ciencia-computacion`](./08-matematicas-ciencia-computacion/) | Matemáticas, ciencia y computación |
-
-## Mapas transversales
-
-| Documento | Uso |
-|-----------|-----|
-| [**mapa-paradigma-tecnocratico-positivista.md**](./mapa-paradigma-tecnocratico-positivista.md) | Cadena empírico-analítico / **racional-tecnológico** (Comte → Bobbitt/Tyler → Skinner…) sin etiquetar a todos como “positivistas” |
-| [`INDICE.md`](./INDICE.md) | Listado de autores |
-| [`MAPA-AUTOR-AMBITO.md`](./MAPA-AUTOR-AMBITO.md) | Por ámbito del Máster |
-| [`RUTAS-LECTURA.md`](./RUTAS-LECTURA.md) | Itinerarios |
-| [`autores.json`](./autores.json) | Datos estructurados |
 
 ## Ejes intelectuales
 
@@ -52,12 +55,12 @@ AULA Y GRUPOS
 Lewin ─ Asch ─ Tajfel ─ Goffman ─ Festinger
 
 MATEMÁTICAS ESCOLARES
-Pólya ─ Freudenthal ─ Brousseau ─ Chevallard ─ Duval
+Pólya ─ Skemp ─ Freudenthal ─ Brousseau ─ Chevallard ─ Duval
                          │
-                         └── Schoenfeld ─ Artigue ─ Godino
+                         └── Schoenfeld ─ Artigue ─ Godino ─ Liljedahl
 
 CURRÍCULO / RACIONAL-TECNOLÓGICO
-Taylor (eficiencia) ─ Bobbitt ─ Tyler ─ Bloom ─ Taba ─ Gagné ─ Mager
+Taylor ─ Bobbitt ─ Tyler ─ Bloom ─ Taba ─ Gagné ─ Mager
          │
          └── contraste: Stenhouse ─ Shulman ─ Schön ─ Elliott
 
@@ -75,4 +78,4 @@ Las fichas orientan la búsqueda; no sustituyen la verificación de la obra. Par
 
 ## Nota
 
-Las fichas canónicas viven **dentro** de `01`…`08`. No duplicar en la raíz (salvo README, índices, mapas y `autores.json`).
+Las fichas canónicas viven **dentro** de `01`…`08`. No duplicar en la raíz (salvo README, índices, mapas, historia cronológica y `autores.json`).
