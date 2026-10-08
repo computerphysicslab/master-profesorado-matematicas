@@ -92,7 +92,7 @@ Mapa **cronológico por año de nacimiento** de pensadores con influencia releva
 
 <br clear="all"/>
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Isaac_Newton_UK_portrait.jpg/120px-Isaac_Newton_UK_portrait.jpg" width="100" alt="Newton" align="left" style="margin:4px 12px 8px 0"/>
+<img src="https://commons.wikimedia.org/wiki/Special:FilePath/Portrait_of_Sir_Isaac_Newton,_1689_(brightened).jpg?width=120" width="100" alt="Newton" align="left" style="margin:4px 12px 8px 0"/>
 
 **1643 — [Isaac Newton](./08-matematicas-ciencia-computacion/newton.md).** Modelo de rigor y ley natural; influyó en ideales de enseñanza científica.
 
@@ -148,9 +148,17 @@ Mapa **cronológico por año de nacimiento** de pensadores con influencia releva
 
 <br clear="all"/>
 
+<img src="https://commons.wikimedia.org/wiki/Special:FilePath/Francisco_Giner_de_los_Ríos_(1881).jpg?width=120" width="100" alt="Giner de los Ríos" align="left" style="margin:4px 12px 8px 0"/>
+
 **1839 — [Francisco Giner de los Ríos](./01-filosofia-educacion/giner-de-los-rios.md).** Institución Libre de Enseñanza: renovación, laicismo y formación integral.
 
+<br clear="all"/>
+
+<img src="https://commons.wikimedia.org/wiki/Special:FilePath/Fredrick_Winslow_Taylor_c1907_retouched.png?width=120" width="100" alt="Taylor" align="left" style="margin:4px 12px 8px 0"/>
+
 **1856 — [Frederick W. Taylor](./06-curriculo-evaluacion-investigacion/taylor.md).** Organización científica del trabajo; analogías de eficiencia curricular.
+
+<br clear="all"/>
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Sigmund_Freud%2C_by_Max_Halberstadt_%28cropped%29.jpg/120px-Sigmund_Freud%2C_by_Max_Halberstadt_%28cropped%29.jpg" width="100" alt="Freud" align="left" style="margin:4px 12px 8px 0"/>
 
@@ -170,13 +178,13 @@ Mapa **cronológico por año de nacimiento** de pensadores con influencia releva
 
 <br clear="all"/>
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Max_Weber%2C_1918.jpg/120px-Max_Weber%2C_1918.jpg" width="100" alt="Weber" align="left" style="margin:4px 12px 8px 0"/>
+<img src="https://commons.wikimedia.org/wiki/Special:FilePath/Max_Weber,_1918.jpg?width=120" width="100" alt="Weber" align="left" style="margin:4px 12px 8px 0"/>
 
 **1864 — [Max Weber](./03-sociologia/weber.md).** Racionalización, burocracia y autoridad en organizaciones (incluida la escuela).
 
 <br clear="all"/>
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Montessori.jpg/120px-Montessori.jpg" width="100" alt="Montessori" align="left" style="margin:4px 12px 8px 0"/>
+<img src="https://commons.wikimedia.org/wiki/Special:FilePath/Maria_Montessori_(portrait).jpg?width=120" width="100" alt="Montessori" align="left" style="margin:4px 12px 8px 0"/>
 
 **1870 — [María Montessori](./01-filosofia-educacion/montessori.md).** Ambiente preparado, material autoeducativo y autonomía.
 
@@ -186,7 +194,7 @@ Mapa **cronológico por año de nacimiento** de pensadores con influencia releva
 
 **1873 — Édouard Claparède.*** Pedagogía funcional; necesidades e intereses del niño.
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Edward_L._Thorndike.jpg/120px-Edward_L._Thorndike.jpg" width="100" alt="Thorndike" align="left" style="margin:4px 12px 8px 0"/>
+<img src="https://commons.wikimedia.org/wiki/Special:FilePath/PSM_V80_D211_Edward_Lee_Thorndike.png?width=120" width="100" alt="Thorndike" align="left" style="margin:4px 12px 8px 0"/>
 
 **1874 — [Edward L. Thorndike](./02-psicologia-aprendizaje/thorndike.md).** Leyes del aprendizaje y medición; puente al conductismo.
 
@@ -200,13 +208,13 @@ Mapa **cronológico por año de nacimiento** de pensadores con influencia releva
 
 **1882 — [Kurt Lewin](./04-psicologia-social/lewin.md).** Clima de grupo y estilos de liderazgo; dinámica de grupos.
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Jean_Piaget_in_Ann_Arbor.png/120px-Jean_Piaget_in_Ann_Arbor.png" width="100" alt="Piaget" align="left" style="margin:4px 12px 8px 0"/>
+<img src="https://commons.wikimedia.org/wiki/Special:FilePath/Jean_Piaget_in_Ann_Arbor.png?width=120" width="100" alt="Piaget" align="left" style="margin:4px 12px 8px 0"/>
 
 **1896 — [Jean Piaget](./02-psicologia-aprendizaje/piaget.md).** Estadios cognitivos; constructivismo (asimilación / acomodación).
 
 <br clear="all"/>
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Lev-Semyonovich-Vygotsky-1896-1934.jpg/120px-Lev-Semyonovich-Vygotsky-1896-1934.jpg" width="100" alt="Vygotsky" align="left" style="margin:4px 12px 8px 0"/>
+<img src="https://commons.wikimedia.org/wiki/Special:FilePath/Lev-Semyonovich-Vygotsky-1896-1934.jpg?width=120" width="100" alt="Vygotsky" align="left" style="margin:4px 12px 8px 0"/>
 
 **1896 — [Lev Vygotsky](./02-psicologia-aprendizaje/vygotsky.md).** Mediación social, ZDP y lenguaje.
 
@@ -230,7 +238,7 @@ Mapa **cronológico por año de nacimiento** de pensadores con influencia releva
 
 **1902 — [Karl Popper](./06-curriculo-evaluacion-investigacion/popper.md).** Falsación y racionalidad crítica.
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/B.F._Skinner_at_Harvard_circa_1950.jpg/120px-B.F._Skinner_at_Harvard_circa_1950.jpg" width="100" alt="Skinner" align="left" style="margin:4px 12px 8px 0"/>
+<img src="https://commons.wikimedia.org/wiki/Special:FilePath/B.F._Skinner_at_Harvard_circa_1950_(cropped).jpg?width=120" width="100" alt="Skinner" align="left" style="margin:4px 12px 8px 0"/>
 
 **1904 — [B. F. Skinner](./02-psicologia-aprendizaje/skinner.md).** Condicionamiento operante y enseñanza programada.
 
@@ -262,7 +270,7 @@ Mapa **cronológico por año de nacimiento** de pensadores con influencia releva
 
 **1920 — [Hans Freudenthal](./05-educacion-matematica/freudenthal.md).** Matemáticas realistas.
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Paulo_Freire_1977.jpg/120px-Paulo_Freire_1977.jpg" width="100" alt="Freire" align="left" style="margin:4px 12px 8px 0"/>
+<img src="https://commons.wikimedia.org/wiki/Special:FilePath/Paulo_Freire_1977.jpg?width=120" width="100" alt="Freire" align="left" style="margin:4px 12px 8px 0"/>
 
 **1921 — [Paulo Freire](./01-filosofia-educacion/freire.md).** Pedagogía del oprimido; crítica de la educación bancaria.
 
@@ -276,13 +284,13 @@ Mapa **cronológico por año de nacimiento** de pensadores con influencia releva
 
 **1924 — [Solomon Asch](./04-psicologia-social/asch.md).** Conformidad.
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Albert_Bandura_Psychologist.jpg/120px-Albert_Bandura_Psychologist.jpg" width="100" alt="Bandura" align="left" style="margin:4px 12px 8px 0"/>
+<img src="https://commons.wikimedia.org/wiki/Special:FilePath/Albert_Bandura_Psychologist.jpg?width=120" width="100" alt="Bandura" align="left" style="margin:4px 12px 8px 0"/>
 
 **1925 — [Albert Bandura](./02-psicologia-aprendizaje/bandura.md).** Aprendizaje social y autoeficacia.
 
 <br clear="all"/>
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Foucault%2C_Michel_%28cropped%29.jpg/120px-Foucault%2C_Michel_%28cropped%29.jpg" width="100" alt="Foucault" align="left" style="margin:4px 12px 8px 0"/>
+<img src="https://commons.wikimedia.org/wiki/Special:FilePath/Photo_of_Michel_Foucault_on_1970_dustjacket_of_The_Order_of_Things.jpg?width=120" width="100" alt="Foucault" align="left" style="margin:4px 12px 8px 0"/>
 
 **1926 — [Michel Foucault](./03-sociologia/foucault.md).** Poder, disciplina y saber; escuela como dispositivo.
 
@@ -296,7 +304,7 @@ Mapa **cronológico por año de nacimiento** de pensadores con influencia releva
 
 **1929 — [Basil Bernstein](./03-sociologia/bernstein.md).** Códigos y pedagogías visibles/invisibles.
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Pierre_Bourdieu.jpg/120px-Pierre_Bourdieu.jpg" width="100" alt="Bourdieu" align="left" style="margin:4px 12px 8px 0"/>
+<img src="https://commons.wikimedia.org/wiki/Special:FilePath/Pierre_Bourdieu_(1).jpg?width=120" width="100" alt="Bourdieu" align="left" style="margin:4px 12px 8px 0"/>
 
 **1930 — [Pierre Bourdieu](./03-sociologia/bourdieu.md).** Capital cultural, habitus y reproducción.
 
@@ -394,7 +402,7 @@ Diálogo y razón (Sócrates–Aristóteles)
 
 ## Mantenimiento
 
-1. Miniaturas: `upload.wikimedia.org/.../thumb/.../120px-...` (comprobar en Commons si falla).  
+1. Miniaturas: preferir `commons.wikimedia.org/wiki/Special:FilePath/Archivo.jpg?width=120` (redirige al fichero real).  
 2. El **nombre** enlaza a la ficha; no usar «→ ficha».  
 3. Autores vivos: sin foto si no hay licencia libre.  
 4. El texto prima sobre la imagen.
