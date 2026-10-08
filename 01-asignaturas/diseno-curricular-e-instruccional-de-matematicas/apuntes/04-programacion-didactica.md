@@ -1,18 +1,111 @@
-# Bloque 4 · Del diseño curricular a la programación didáctica (incluyendo evaluación)
+# Tema 4 — La programación didáctica
 
 **Asignatura:** Diseño curricular e instruccional de Matemáticas  
-**Programa:** del diseño curricular a la programación didáctica
+**Bloque:** del diseño curricular a la programación didáctica (incluyendo evaluación)
 
 ---
 
+## 1. Niveles de concreción curricular
+
+Antes de programar conviene situar **dónde** se sitúa cada documento en la cadena del currículo. Tomamos como referencia la ESO en Aragón (en Bachillerato la lógica es análoga, con la normativa propia de etapa).
+
+| Nivel | Documento / actor | Qué decide |
+|-------|-------------------|------------|
+| **1.º** | Currículo básico estatal (RD 217/2022 ESO; RD 243/2022 Bachillerato) | Enseñanzas mínimas, competencias, criterios, saberes |
+| **2.º** | Currículo autonómico (Orden ECD/1172/2022 y modificaciones ECD/867/2024; Orden ECD/1173/2022 y ECD/886/2024) | Desarrollo del currículo en Aragón, evaluación, organización |
+| **3.º** | Centro: Proyecto Educativo (PEC) y **Proyecto Curricular de Etapa (PCE)** | Oferta formativa, planes de centro (lector, digitales, transversales…), criterios comunes |
+| **4.º** | Departamento: **programación didáctica** de la materia | Secuenciación anual, metodología, evaluación, atención a la diversidad de la materia |
+| **5.º** | Docente: **programación de aula** + unidades didácticas y situaciones de aprendizaje | Adaptación al grupo concreto; diseño de tareas y evidencias |
+
+```text
+Legislación (Estado + CCAA)
+        ↓
+   Proyecto Curricular de Etapa (centro)
+        ↓
+   Programación didáctica (departamento)
+        ↓
+   Programación de aula / unidades / SA (docente + grupo)
+```
+
+**Idea clave:** la programación didáctica no es un resumen del libro ni una copia del decreto. Es el **plan argumentado** de cómo, en ese centro y curso, se van a desarrollar las competencias de Matemáticas. El último eslabón (aula) adecúa ese plan al alumnado real mediante situaciones de aprendizaje (arts. 59.4 y 54.4 de las órdenes aragonesas).
+
+También es habitual condensar la cadena en **tres niveles**: (1) documentos legislativos, (2) documentos de centro hasta la programación didáctica, (3) aula (programación de aula, UD, SA, adaptaciones).
+
 ---
 
-## 1. La cadena completa (del decreto al aula)
+## 2. Qué es una programación didáctica
+
+Las órdenes aragonesas definen la programación didáctica como:
+
+> el **instrumento de planificación curricular** específico y necesario para desarrollar el proceso de enseñanza y aprendizaje del alumnado de manera **coordinada** entre todo el profesorado que integra el departamento, equipo u órgano de coordinación que corresponda.
+
+(Art. 59.2 Orden ECD/1172/2022 — ESO; art. 54.2 Orden ECD/1173/2022 — Bachillerato.)
+
+Implica:
+
+- **Coordinación de departamento**, no solo preferencias individuales.
+- Carácter **anual** y oficial (inspección, PGA).
+- Puente entre el currículo oficial y las decisiones de aula.
+
+---
+
+## 3. Qué debe incluir (marco legal Aragón)
+
+### 3.1. Educación Secundaria Obligatoria (art. 59.3 ECD/1172/2022)
+
+Las programaciones de cada curso incluirán, **al menos**:
+
+| | Apartado | Notas |
+|---|----------|-------|
+| a | Competencias específicas y criterios de evaluación asociados | Referente de la evaluación |
+| b | Concreción, agrupamiento y secuenciación de saberes básicos y criterios en **unidades didácticas** | Corazón de la planificación temporal |
+| c | Procedimientos e instrumentos de evaluación (carácter formativo + vinculación con criterios) | Cómo se recoge evidencia |
+| d | Criterios de calificación | Cómo se sintetiza la calificación |
+| e | Evaluación inicial: características, valoración y consecuencias en la PD | Ajuste del plan |
+| f | Atención a las diferencias individuales y adaptaciones curriculares | Inclusión |
+| g | Plan de seguimiento personal (alumnado que **no promociona**) | Art. 19.4 |
+| h | Plan de refuerzo personalizado (materias o ámbitos **no superados**) | Art. 20 |
+| i | Estrategias didácticas y metodológicas (organización, recursos, agrupamientos, SA…) | Estilo docente |
+| j | Concreción del **Plan Lector** del PCE | Solo ESO |
+| k | Concreción del plan de **elementos transversales** del PCE | |
+| l | Concreción del plan de **tecnologías digitales** del PCE | |
+| m | Medidas en proyectos bilingües / plurilingües / lenguas propias (si procede) | |
+| n | Mecanismos de **revisión, evaluación y modificación** de la PD | Mejora del proceso |
+| ñ | Actividades complementarias y extraescolares e incidencia en la evaluación | |
+
+### 3.2. Bachillerato (art. 54.3 ECD/1173/2022)
+
+Estructura paralela, con diferencias relevantes:
+
+| ESO | Bachillerato |
+|-----|--------------|
+| Plan de seguimiento (no promociona) + plan de refuerzo (materias no superadas) | **Plan de recuperación de materias pendientes** |
+| Plan Lector (j) | No aparece el Plan Lector como apartado específico |
+| Atención a diferencias + adaptaciones | Actuaciones generales de atención a diferencias individuales |
+
+El resto (competencias, saberes en UD, evaluación, metodología, transversales, digitales, revisión, extraescolares) se mantiene.
+
+### 3.3. Evaluación y calificación: precisión normativa (2024)
+
+La modificación curricular de 2024 insiste en que:
+
+> Los **criterios de calificación** deberán fundamentarse en la **ponderación de los criterios de evaluación**, que irán asociados a **instrumentos diferentes y variados**.
+
+Consecuencias prácticas:
+
+- No se ponderan “el examen 60 % + el cuaderno 20 % + deber 20 %” como si los **instrumentos** fueran el referente.
+- Los instrumentos sirven para **recabar indicios** del grado de desarrollo de los **criterios de evaluación** (y, a través de ellos, de las competencias específicas).
+- En ESO la calificación final es cualitativa (IN, SU, BI, NT, SB); los números, si se usan, son herramientas intermedias, no el sentido del sistema.
+- Evaluar ≠ calificar: se puede (y se debe) evaluar formativamente sin que cada evidencia entre en la nota final (p. ej. el eje socioafectivo).
+
+---
+
+## 4. La cadena completa (del decreto al aula)
 
 ```text
 Currículo oficial (estatal + autonómico)
-    → Programación didáctica (departamento / docente)
-        → Unidades o secuencias didácticas
+    → Programación didáctica (departamento)
+        → Unidades didácticas
             → Situaciones de aprendizaje / tareas
                 → Actividades de aula
                     → Evidencias de evaluación
@@ -20,742 +113,277 @@ Currículo oficial (estatal + autonómico)
 
 | Nivel | Qué decide principalmente |
 |-------|---------------------------|
-| **Currículo** | Competencias, criterios, saberes, principios de etapa |
-| **Programación didáctica** | Secuenciación anual, temporalización, metodología general, instrumentos de evaluación, atención a la diversidad |
-| **Unidad / secuencia** | Objetivos de la unidad, saberes prioritarios, tareas, sesión a sesión orientativo |
-| **Tarea / actividad** | Enunciado, materiales, agrupamiento, evidencia concreta |
-
-**Idea clave:** la programación no es un resumen del libro ni una copia del decreto: es el **plan argumentado** de cómo ese grupo, en ese centro y curso, va a desarrollar las competencias de Matemáticas.
+| Currículo | Competencias, criterios, saberes, principios de etapa |
+| Programación didáctica | Secuenciación anual, temporalización, metodología general, instrumentos, atención a la diversidad |
+| Unidad / secuencia | Objetivos de la unidad, saberes prioritarios, tareas, orientación sesión a sesión |
+| Tarea / actividad | Enunciado, materiales, agrupamiento, evidencia concreta |
 
 ---
 
-## 2. Qué debe contener una programación didáctica (orientativo)
+## 5. Principios para secuenciar el curso de Matemáticas
 
-Los centros y las inspecciones varían en el formato, pero una programación de Matemáticas coherente con LOMLOE suele incluir:
+### 5.1. Criterios de orden
 
-1. **Identificación:** materia, curso, etapa, horas semanales, marco normativo.
-2. **Contribución a las competencias clave** y relación con las **competencias específicas** de Matemáticas.
-3. **Saberes básicos** del curso (por sentidos) y su distribución a lo largo del año.
-4. **Secuenciación temporal** (unidades / trimestres / número aproximado de sesiones).
-5. **Criterios de evaluación** y su vinculación a instrumentos (pruebas, portfolio, observación, exposiciones…).
-6. **Metodología:** resolución de problemas, representaciones, digital, trabajo cooperativo, papel del error.
-7. **Atención a la diversidad:** refuerzo, ampliación, accesibilidad, agrupamientos.
-8. **Elementos transversales:** socioafectivo, sostenibilidad, igualdad, competencia digital…
-9. **Materiales y recursos** (libro, GeoGebra, calculadora, aula virtual…).
-10. **Procedimientos de evaluación y calificación** alineados con criterios (no solo con “temas”).
+- **Dependencias conceptuales:** no introducir la derivada sin dominio funcional sólido; no formalizar la probabilidad condicionada sin lenguaje de sucesos.
+- **Sentidos matemáticos:** alternar y conectar numérico, algebraico, espacial, medida, estocástico y socioafectivo (no “un bloque por trimestre” rígido).
+- **Progresión de representaciones:** de lo manipulativo/gráfico a lo simbólico cuando el curso lo permita.
+- **Tiempo real:** descontar fiestas, evaluaciones, imprevistos y días “muertos”.
 
-No todos los apartados tienen el mismo peso legal; lo **preceptivo** sigue siendo garantizar competencias, criterios y saberes. El formato exacto lo marca el centro y la normativa autonómica.
+### 5.2. Errores típicos de secuenciación
 
----
+- Copiar el índice del libro de texto sin argumentar.
+- Dejar el sentido estocástico o el socioafectivo “para si sobra tiempo”.
+- Concentrar toda la geometría al final del curso.
+- Ignorar la evaluación inicial a la hora de reordenar o reforzar.
 
-## 3. Principios para secuenciar el curso de Matemáticas
+### 5.3. ¿Cuántas sesiones hay realmente?
 
-### 3.1. Criterios de orden
-
-| Criterio | Pregunta práctica |
-|----------|-------------------|
-| **Dependencia cognitiva** | ¿Qué necesito antes para entender lo siguiente? (p. ej. proporcionalidad antes de funciones lineales) |
-| **Sentidos equilibrados** | ¿Queda algún sentido (estocástico, espacial, socioafectivo) solo al final “si sobra tiempo”? |
-| **Complejidad creciente** | ¿Se pasa de significados intuitivos a mayor formalización? |
-| **Conectividad** | ¿Hay unidades puente (p. ej. álgebra ↔ geometría ↔ datos)? |
-| **Calendario real** | ¿Festivos, evaluaciones de centro, EBAU, viajes de fin de curso? |
-| **Motivación y contexto** | ¿Alterno unidades muy abstractas con otras más aplicadas? |
-
-### 3.2. Errores típicos de secuenciación
-
-- **Apilar todo el álgebra** en un bloque interminable y dejar estadística para junio.
-- **Copiar el índice del libro** sin preguntarse si ese orden es el mejor para *este* grupo.
-- **Ignorar el sentido socioafectivo** hasta una charla aislada.
-- **Planificar 14 unidades de 8 sesiones** en un curso que solo tiene ~120 sesiones efectivas.
-- **Evaluar solo el último procedimiento** visto, sin retomar criterios de comunicación o modelización.
-
-### 3.3. ¿Cuántas sesiones hay realmente?
-
-Estimación orientativa (ajustar al horario del centro):
-
-| Curso | Horas/semana (orientativo) | Sesiones/año (~35 semanas lectivas) | Sesiones “efectivas” (restando pruebas, fiestas, imprevistos) |
-|-------|----------------------------|--------------------------------------|--------------------------------------------------------------|
+| Curso (orientativo) | h/semana | Sesiones teóricas/año | Sesiones reales útiles (aprox.) |
+|---------------------|----------|------------------------|--------------------------------|
 | ESO (4 h) | 4 | ~140 | **~110–125** |
 | ESO (3 h) | 3 | ~105 | **~85–95** |
 | Bachillerato (4 h) | 4 | ~140 | **~110–125** |
 
-**Regla práctica:** si tu programación suma más sesiones de las efectivas, **no es ambiciosa: es inviable**. Hay que priorizar.
+Conviene diseñar **entre 8 y 12 unidades** (el trabajo del Máster pide índice con 8–10; las oposiciones aragonesas recientes piden **mínimo 9**).
 
 ---
 
-## 4. Ejemplo de secuenciación anual argumentada (Matemáticas 3.º ESO)
+## 6. Ejemplo de secuenciación anual argumentada (Matemáticas 3.º ESO)
 
-> Ejemplo **ilustrativo**, no prescriptivo. Los nombres de unidades y el número de sesiones se adaptan al decreto autonómico y al centro.
+*(Ilustrativo; cada centro ajusta según PCE, grupo y evaluación inicial.)*
 
-**Marco:** 4 h/semana · ~120 sesiones efectivas · competencias específicas de ESO · saberes de 3.º.
+| Trimestre | Unidades (título orientativo) | Sentidos prioritarios | Sesiones orientativas |
+|-----------|-------------------------------|------------------------|------------------------|
+| 1.º | Números y proporcionalidad; Álgebra y ecuaciones; Introducción a funciones | Numérico, algebraico | ~35–40 |
+| 2.º | Funciones lineales y afines; Geometría plana; Estadística unidimensional | Algebraico, espacial, estocástico | ~35–40 |
+| 3.º | Cuerpos geométricos; Probabilidad; Proyecto / modelización y cierre socioafectivo | Espacial, estocástico, socioafectivo | ~30–35 |
 
-| Trim. | Unidad (título orientativo) | Sentidos prioritarios | Sesiones (~) | Anclaje competencial (idea) |
-|-------|----------------------------|----------------------|--------------|-----------------------------|
-| **1** | Números y proporcionalidad en contexto | Numérico | 14 | Modelizar situaciones de porcentajes y escalas |
-| **1** | Álgebra: expresiones y ecuaciones | Algebraico | 16 | Traducir lenguaje verbal ↔ simbólico; resolver e interpretar |
-| **1** | Introducción a funciones | Algebraico + espacial | 10 | Relacionar tabla, gráfica y expresión |
-| **2** | Geometría plana: semejanza y medida | Espacial + medida | 14 | Argumentar con proporciones geométricas |
-| **2** | Ecuaciones y sistemas | Algebraico | 14 | Elegir estrategia; comprobar razonabilidad |
-| **2** | Funciones lineales y afines | Algebraico | 12 | Modelizar; interpretar pendiente y ordenada |
-| **3** | Estadística unidimensional | Estocástico | 12 | Recoger, representar e interpretar datos reales del entorno |
-| **3** | Probabilidad | Estocástico | 10 | Estimar y calcular; criticar intuiciones erróneas |
-| **3** | Proyecto integrador + refuerzo | Varios + socioafectivo | 10 | Conectar saberes; comunicar; trabajar en equipo |
-| **Todo el año** | Rutinas socioafectivas y de resolución de problemas | Socioafectivo | Transversal | Error como aprendizaje; perseverancia; debate |
-
-**Argumentos de esta secuenciación (ejemplos):**
-
-1. **Proporcionalidad al inicio** refuerza el sentido numérico y prepara semejanza y funciones.
-2. **Funciones repartidas** (introducción en 1.º trim. y desarrollo en 2.º) evita un bloque único demasiado denso.
-3. **Estadística y probabilidad en el 3.º trimestre** permiten usar datos del propio curso o del centro; no quedan “si da tiempo”.
-4. **Proyecto final** obliga a *conectar* sentidos y a evaluar comunicación y trabajo en equipo con evidencia clara.
-5. **Socioafectivo transversal:** no es una unidad aislada de dos días.
+La argumentación (no solo la tabla) es lo que convierte la lista en **programación**: por qué ese orden, qué se refuerza tras la evaluación inicial, dónde se insertan las SA más largas.
 
 ---
 
-## 5. De la unidad a las sesiones: plantilla breve
+## 7. De la unidad a las sesiones
 
-### 5.1. Ficha de unidad (plantilla)
-
-```text
-Unidad: ________________________________
-Curso / materia: ________________________
-Sesiones previstas: _____
-
-Competencias específicas prioritarias:
-  -
-
-Criterios de evaluación que se van a evidenciar:
-  -
-
-Saberes básicos (por sentido):
-  - Numérico:
-  - Algebraico:
-  - …
-
-Situación de aprendizaje / hilo conductor:
-  (contexto en 2–4 líneas)
-
-Tareas principales:
-  1.
-  2.
-  3.
-
-Metodología y agrupamientos:
-
-Atención a la diversidad (refuerzo / ampliación / acceso):
-
-Evidencias de evaluación e instrumentos:
-
-Cierre de la unidad (síntesis, metacognición, error típico trabajado):
-```
-
-### 5.2. Ejemplo rellenado (fragmento) — «Funciones lineales» (3.º ESO)
+### 7.1. Ficha de unidad (plantilla)
 
 | Campo | Contenido |
 |-------|-----------|
-| **Sesiones** | ~12 |
-| **Competencias** | Modelizar / resolver; representar y comunicar; analizar soluciones |
-| **Criterios (idea)** | Asociar expresión–tabla–gráfica; interpretar $m$ y $n$ en contexto; comprobar si el modelo es razonable |
-| **Saberes** | Función afín; pendiente; tasa de variación media; intersección con ejes |
-| **Hilo** | Coste de dos tarifas eléctricas o de datos móviles a lo largo del mes |
-| **Tareas** | (1) De datos a gráfica; (2) De gráfica a expresión; (3) Decisión argumentada entre tarifas; (4) Error típico: confundir $m$ con un punto |
-| **Evidencias** | Informe breve con tres representaciones + rúbrica de interpretación; prueba con ítem de contexto |
-| **Diversidad** | Plantillas de ejes semipreparadas; ampliación con trozos de funciones o parámetros negativos |
+| Título | Claro y concreto |
+| Curso / trimestre / nº de sesiones | |
+| Introducción | Por qué esta unidad aquí |
+| Competencias específicas | Códigos de la orden |
+| Criterios de evaluación | Redacción y códigos oficiales |
+| Saberes básicos | Concretados (no solo copiados; no reducir el currículo) |
+| Elementos transversales / interdisciplinariedad | Si procede |
+| Tipos de actividades | Motivación, desarrollo, evaluación, refuerzo, ampliación |
+| Recursos | GeoGebra, calculadora, aula virtual, manipulación… |
+| Atención a la diversidad | Ajustes de esta unidad |
+| Evidencias e instrumentos | Ligados a criterios |
+
+Recomendación práctica del protocolo del Máster: **no más de ~2 páginas por unidad** en la PD escrita.
+
+### 7.2. Ejemplo breve — «Funciones lineales» (3.º ESO)
+
+- **Competencias:** interpretar, modelizar, representar, resolver, comunicar (según códigos del curso).
+- **Saberes:** concepto de función, tasa de variación, representación gráfica y algebraica, situaciones de proporcionalidad.
+- **Actividades tipo:** exploración con tablas y gráficas → modelización de una tarifa → contraste de modelos → síntesis.
+- **Instrumentos:** producción escrita de modelización, observación de estrategias, prueba breve con criterio explícito de representación.
 
 ---
 
-## 6. Evaluación alineada con la programación
+## 8. Estrategias didácticas y metodológicas (apartado i)
 
-### 6.1. Principio de alineación
+Es el apartado donde más se ve el **estilo docente** (elaboración propia; no es un corta-pega).
 
-```text
-Lo que se declara en criterios  ↔  lo que se enseña en tareas  ↔  lo que se califica
-```
+Puede organizarse así:
 
-Si el criterio pide **explicar el proceso** y el examen solo pide el número final, la programación está desalineada.
+1. **Principios metodológicos generales** (art. 10 ECD/1172; art. 5 ECD/1173).
+2. **Orientaciones de Matemáticas** (apartado IV del anexo de la materia en la Orden).
+3. **Enfoques de enseñanza:** resolución de problemas (*para / sobre / a través*), modelización, representaciones, papel del error.
+4. **Criterios para diseñar situaciones de aprendizaje.**
+5. **Gestión del aula:** organización, agrupamientos, ritmo.
+6. **Tipos de actividades formativas** (con ejemplos, no catálogo exhaustivo).
+7. **Materiales y recursos** prioritarios (GeoGebra, calculadora, manipulables, aula virtual…).
 
-### 6.2. Instrumentos posibles (combinables)
-
-| Instrumento | Qué criterios suele evidenciar bien |
-|-------------|-------------------------------------|
-| Prueba escrita con problemas de contexto | Resolución, análisis de soluciones, a veces modelización |
-| Producto (informe, póster, vídeo corto) | Comunicación, representaciones, conexiones |
-| Observación / lista de cotejo en el aula | Socioafectivo, perseverancia, trabajo en equipo |
-| Portfolio de problemas | Evolución, corrección de errores, diversidad de estrategias |
-| Entrevista o defensa breve | Argumentación, vocabulario matemático |
-
-### 6.3. Calificación
-
-La normativa autonómica y el centro fijan cómo se traduce la evaluación criterial a nota. En la programación debe quedar claro:
-
-- qué **criterios** se trabajan en cada trimestre;
-- con qué **instrumentos**;
-- cómo se recuperan aprendizajes (no solo “un examen de recuperación de todo”).
+En Matemáticas conviene explicitar cómo se trabaja el **sentido socioafectivo** (perseverancia, gestión del error, colaboración) sin convertirlo en un añadido ornamental.
 
 ---
 
-## 7. Atención a la diversidad dentro de la programación
+## 9. Evaluación dentro de la programación
 
-No es un párrafo genérico al final: se concreta en **tareas y evidencias**.
+### 9.1. Evaluar frente a calificar
 
-| Medida | Ejemplo en Matemáticas |
-|--------|------------------------|
-| **Acceso** | Enunciados con apoyo visual; calculadora cuando el criterio no sea el cálculo manual; tiempos flexibles |
-| **Refuerzo** | Ruta de problemas con andamiaje (datos intermedios, representación ya iniciada) |
-| **Ampliación** | Variantes del mismo problema (cambiar una condición, modelizar con más parámetros) |
-| **Agrupamiento** | Parejas cooperativas con roles (representa / calcula / explica) |
-| **Evaluación** | Misma competencia, distinta vía de evidencia (oral vs escrita) cuando proceda |
+| | Evaluación | Calificación |
+|---|------------|--------------|
+| Función | Comprender el aprendizaje y orientar la enseñanza | Sintetizar para informar / acreditar |
+| Momento | Continua (inicial, formativa, final) | Al cierre de periodos administrativos |
+| Riesgo | Quedarse solo en intuición sin evidencia | Convertir el curso en “yincana de puntos” |
 
----
+La LOMLOE enfatiza la **evaluación formativa**. La calificación es un requisito administrativo que **no debería colonizar** todo el diseño de tareas.
 
-## 8. Programación de departamento vs programación de aula
+### 9.2. Evaluación inicial
 
-| | **Departamento** | **Docente / aula** |
-|---|------------------|---------------------|
-| **Escala** | Materia y cursos del centro | Grupo concreto |
-| **Acuerdos** | Criterios comunes de calificación, mínimos, materiales compartidos | Ajustes a ritmo, intereses y diversidades del grupo |
-| **Riesgo** | Quedarse en documento burocrático | Improvisar sin anclaje curricular |
+- Diagnostica saberes previos, estrategias y actitudes ante la materia.
+- Sus resultados **reorientan** temporalización, refuerzos y agrupamientos.
+- No es un “examen que cuenta” ni un trámite vacío.
 
-Una buena práctica: el departamento fija **marcos y criterios**; el docente concreta **secuencias y tareas** sin romper esos marcos.
+### 9.3. Instrumentos (combinables)
 
----
+Pruebas escritas, producciones (informes, modelizaciones), observación sistemática, portfolios, exposiciones, autoevaluación / coevaluación — siempre con **criterio de evaluación** visible.
 
-## 9. Mini-ejemplo: dos programaciones del “mismo” contenido
+### 9.4. Criterios de calificación
 
-**Contenido:** sistemas de ecuaciones lineales (4.º ESO).
+- Anclados en **criterios de evaluación**, no en tipos de instrumento.
+- Instrumentos **variados** asociados a esos criterios.
+- Información clara a alumnado y familias sobre *qué* se valora y *cómo* se sintetiza.
 
-| | **Programación A (poco competencial)** | **Programación B (alineada)** |
-|---|----------------------------------------|--------------------------------|
-| **Secuencia** | 8 sesiones solo de métodos (sustitución, igualación, reducción) | 3 sesiones de modelización + 4 de métodos + 2 de comparación de estrategias + 1 de comunicación |
-| **Tarea típica** | “Resuelve el sistema” | “Elige tarifa / mezcla / tipología de problema; resuelve; justifica el método” |
-| **Evaluación** | 10 sistemas en examen | Problema de contexto + explicación del método + un error para corregir |
-| **Socioafectivo** | Ausente | Norma de aula: se valora la estrategia explicada, no solo la velocidad |
+*(Desarrollo ampliado de evaluación formativa, continua y final: ver segunda parte de este apunte y materiales de la asignatura.)*
 
 ---
 
-## Glosario
+## 10. Atención a la diversidad, seguimiento y refuerzo
 
-**Programación didáctica**  
-Documento de planificación de la materia en un curso/centro que concreta el currículo en secuenciación, metodología, evaluación y atención a la diversidad.
+La PD debe concretar:
 
-**Secuenciación anual**  
-Orden y temporalización de unidades o bloques a lo largo del curso, con justificación didáctica.
+- **Actuaciones generales** de atención a las diferencias individuales (DUA, refuerzo, ampliación, accesibilidad).
+- **Adaptaciones** cuando procedan (marco: Decreto 188/2017 y órdenes de intervención inclusiva).
+- En ESO: **plan de seguimiento** (quien no promociona) y **plan de refuerzo** (materias no superadas).
+- En Bachillerato: **plan de recuperación de pendientes**.
 
-**Unidad didáctica / secuencia didáctica**  
-Conjunto coherente de sesiones en torno a un hilo (saberes + competencias + tareas + evaluación).
-
-**Situación de aprendizaje**  
-Escenario que moviliza competencias y saberes de forma integrada (más que un ejercicio aislado).
-
-**Temporalización**  
-Asignación aproximada de sesiones o semanas a cada unidad, realista respecto al calendario escolar.
-
-**Instrumento de evaluación**  
-Medio concreto para recoger evidencias (prueba, portfolio, observación, producto…).
-
-**Alineación curricular**  
-Coherencia entre criterios, enseñanza y calificación.
-
-**Priorización**  
-Decisión consciente de profundizar en unos saberes/criterios cuando el tiempo efectivo no permite “hacerlo todo” al mismo nivel.
-
-**Programación de departamento**  
-Acuerdos comunes de la materia en el centro; marco para las programaciones de aula.
+La diversidad también incluye altas capacidades: ampliación y profundidad, no solo “más ejercicios del mismo tipo”.
 
 ---
 
-## Dudas frecuentes
+## 11. Planes del PCE que la PD debe concretar
 
-**1. ¿Puedo seguir el libro de texto como programación?**  
-Puedes usarlo como **recurso**, no como sustituto del currículo. Debes poder mostrar competencias, criterios y saberes oficiales, y justificar el orden.
+Sin proyecto curricular de etapa real (Máster / oposición) hay que **proponer una concreción verosímil**:
 
-**2. ¿Qué hago si no me da tiempo a “impartir todo”?**  
-Prioriza con argumentos (dependencias, criterios imprescindibles, sentidos menos trabajados). Documenta la priorización; no improvises recortes solo al final de curso.
-
-**3. ¿La programación es un documento cerrado en septiembre?**  
-Es un plan, no un contrato rígido. Puede ajustarse, pero los ajustes deben seguir siendo coherentes con criterios y competencias — y, si el centro lo pide, quedar registrados.
-
-**4. ¿Cuántas unidades debe tener el curso?**  
-No hay un número mágico. Mejor **pocas unidades bien cerradas** (con evaluación alineada) que muchas unidades a medias.
-
-**5. ¿Cómo incluyo el sentido socioafectivo sin artificialidad?**  
-Rutinas estables: normas de debate, corrección de errores típicos en público sin ridículo, rúbricas que valoran perseverancia y explicación, proyectos cooperativos con roles.
-
-**6. ¿Programación distinta para Matemáticas A y B (4.º)?**  
-Sí en **énfasis, profundidad y tipos de tarea**. No basta con “el mismo temario más lento/rápido”. Ver [asignaturas y dimensiones](../materiales/asignaturas-eso-bachillerato/).
-
-**7. ¿Qué me pedirán en el máster como evidencia de este bloque?**  
-Habitualmente una **secuenciación anual argumentada** o una **unidad completa** con cadena competencia → criterios → saberes → tareas → evaluación.
+| Plan | Qué concretar en Matemáticas |
+|------|------------------------------|
+| **Lector** (ESO) | Lectura de enunciados complejos, textos históricos, artículos divulgativos, escritura de argumentaciones |
+| **Transversales** | Igualdad, sostenibilidad, convivencia, emprendimiento… insertados en SA y normas de aula |
+| **Tecnologías digitales** | GeoGebra, hoja de cálculo, aula virtual, uso crítico de calculadora / IA según criterio didáctico |
 
 ---
 
-## Test A/B
+## 12. Revisión de la propia programación
 
-Elige la opción más alineada con una programación didáctica competencial.
+El apartado de mecanismos de revisión (n) obliga a evaluar no solo al alumnado, sino el **proceso de enseñanza** y la PD:
 
-**1.** Una buena secuenciación anual se basa sobre todo en:  
-- **A)** El índice del libro que ha elegido el departamento.  
-- **B)** Dependencias de aprendizaje, criterios, equilibrio de sentidos y calendario real.
+- Grado de adecuación de competencias, criterios y saberes al grupo.
+- Cumplimiento de la temporalización y causas de desviación.
+- Eficacia de instrumentos y de las medidas de atención a la diversidad.
+- Propuestas de mejora para el curso siguiente.
 
-**2.** Si solo quedan tres semanas y faltan estadística y un tema de álgebra:  
-- **A)** Se elimina estadística siempre: “es menos importante”.  
-- **B)** Se prioriza con argumentos (p. ej. no dejar un sentido entero a cero) y se ajusta profundidad.
-
-**3.** La evaluación de una unidad debe:  
-- **A)** Medir solo el último algoritmo explicado.  
-- **B)** Recoger evidencias de los criterios que la unidad decía trabajar.
-
-**4.** El sentido socioafectivo en la programación:  
-- **A)** Puede ser un párrafo genérico sin tareas asociadas.  
-- **B)** Debe concretarse en rutinas, tareas o criterios observables.
-
-**5.** Programar 160 sesiones en un curso con ~120 efectivas:  
-- **A)** Es señal de alto nivel de exigencia.  
-- **B)** Es inviable; hay que priorizar y recortar con criterio.
-
-**6.** Matemáticas A y B en 4.º:  
-- **A)** Pueden compartir la misma programación cambiando solo el ritmo.  
-- **B)** Requieren énfasis, tareas y a menudo evidencias distintas.
-
-**7.** Una unidad “de funciones” alineada:  
-- **A)** Lista de ejercicios de hallar la pendiente.  
-- **B)** Hilo contextual + varias representaciones + interpretación + evidencia de comunicación.
-
-**8.** El margen docente consiste en:  
-- **A)** Ignorar criterios oficiales si el grupo es “flojo”.  
-- **B)** Decidir secuenciación, ejemplos, metodología e instrumentos *dentro* del marco de competencias y criterios.
-
-### Soluciones
-
-1. **B** · 2. **B** · 3. **B** · 4. **B** · 5. **B** · 6. **B** · 7. **B** · 8. **B**
+La publicidad de la programación (familias, alumnado) forma parte de la cultura de centro.
 
 ---
 
-## Tarea orientativa del bloque
+## 13. Programación en el Máster y en oposiciones (Aragón)
 
-Elabora una **secuenciación anual argumentada** (3–5 páginas o tabla ampliada) para **una** materia concreta:
+### 13.1. Trabajo de la asignatura (curso 2026-27)
 
-1. Indica curso, horas semanales y estimación de sesiones efectivas.  
-2. Divide el curso en **8–12 unidades** (o las que justifiques) con sesiones aproximadas.  
-3. Asocia a cada unidad **sentidos** y **competencias/criterios** prioritarios.  
-4. Escribe **un párrafo de argumentación** del orden elegido (dependencias, equilibrio, calendario).  
-5. Desarrolla **una unidad** con la plantilla del §5.  
-6. Señala qué partes son **preceptivas** y cuáles son tu **margen docente**.
+- PD de un curso de ESO o Bachillerato (elección del estudiante).
+- Individual; discusión con el profesorado.
+- **Formal:** índice con **8–10 unidades**; máximo **40 páginas** DIN-A4, interlineado 1,5, Arial 10, una cara.
+- Portada: asignatura del Máster, “Programación Didáctica” + materia/curso/etapa, nombre y correo.
+- Referencias de todo lo no original (competencias, criterios, listados…).
+- **Entrega:** hasta el 11 de diciembre de 2026 (Moodle).
+- **Control intermedio:** 10 de noviembre (apartados 1–7 y 14 del guion orientativo).
 
----
+### 13.2. Oposiciones (referencia reciente ECD/137/2025)
 
-## Material relacionado
+- PD personal de un curso; defensa oral + unidad didáctica.
+- **Mínimo 9 unidades**; extensión **30–60 páginas** (sin anexos/portada), según convocatoria.
+- Debe incluir los apartados del art. 59 (ESO) o 54 (Bachillerato) en su redacción vigente.
+- Currículo del curso de la convocatoria (anexo IV de la orden).
 
-- [Programa de la asignatura](../programa.md)
-- [Bloque 3 — Elementos del currículo LOMLOE](03-elementos-curriculo-lomloe.md)
-- [Bloques 1–2 — Fines y evolución curricular](01-matematicas-escolares-fines-curriculo-evolucion.md)
-- [Asignaturas ESO/Bachillerato y dimensiones](../materiales/asignaturas-eso-bachillerato/)
-- [Bloque 8 — Resolución de problemas](08-resolucion-de-problemas.md)
+Los requisitos de formato **cambian por convocatoria**: hay que leer siempre la orden del año.
 
+### 13.3. Guion orientativo del trabajo (síntesis)
 
----
+Línea narrativa sugerida (adaptación del protocolo de la asignatura):
 
-# Evaluación en la programación didáctica de Matemáticas (ampliación)
+1. Introducción  
+2. Contextualización (centro, alumnado, marco legal)  
+3. Objetivos de etapa  
+4. Competencias clave y perfil de salida  
+5. Competencias específicas y criterios  
+6. Saberes básicos  
+7. Estrategias didácticas y metodológicas (**elaboración propia**)  
+8. Elementos transversales  
+9. Tecnologías digitales  
+10. Plan lector (ESO)  
+11. Actividades complementarias / extraescolares  
+12. Atención a la diversidad  
+13. Evaluación (inicial, procedimientos, calificación)  
+14. Secuenciación en unidades didácticas (**argumentada**)  
+15–16. Seguimiento / refuerzo o pendientes  
+17. Revisión y mejora de la PD  
+18. Bibliografía  
 
----
-
-## 1. Evaluación dentro de la programación didáctica
-
-La evaluación constituye uno de los elementos fundamentales de la programación didáctica. No debe entenderse únicamente como el procedimiento mediante el cual se obtiene una calificación numérica, sino como un proceso de **recogida y análisis de información sobre el aprendizaje del alumnado** que permite tomar decisiones educativas.
-
-En consecuencia, la evaluación está relacionada con todo el proceso de enseñanza-aprendizaje:
-
-**objetivos y competencias → actividades → aprendizaje → evidencias → evaluación → toma de decisiones.**
-
-La calificación es solamente una parte final del proceso.
-
----
-
-## 2. Evaluación frente a calificación
-
-Es importante distinguir ambos conceptos.
-
-**Evaluar** significa obtener información sobre aquello que está aprendiendo el alumno, detectar dificultades, comprobar el grado de adquisición de los aprendizajes y utilizar esa información para orientar la enseñanza.
-
-**Calificar** significa expresar mediante una escala o una nota el resultado de un proceso de evaluación.
-
-Por tanto:
-
-> **Evaluación ≠ calificación.**
-
-Una evaluación puede proporcionar mucha más información que la nota final.
-
-Por ejemplo, en Matemáticas un alumno puede obtener un 6, pero ese 6 no nos dice por sí solo si:
-
-- comprende realmente el concepto de función;
-- sabe interpretar una gráfica;
-- sabe plantear un problema;
-- comete errores algebraicos;
-- sabe justificar un procedimiento;
-- trabaja adecuadamente en equipo;
-- puede transferir lo aprendido a una situación nueva.
-
-La programación debe establecer cómo se obtiene la información necesaria para conocer estos aspectos.
+Los apartados legislativos pueden apoyarse en el texto oficial; los de **metodología, contextualización, secuenciación, evaluación y diversidad** deben mostrar criterio profesional propio.
 
 ---
 
-## 3. Criterios de evaluación y calificación
+## 14. Programación de departamento frente a programación de aula
 
-Los **criterios de evaluación** constituyen el referente para determinar qué debe observarse en el aprendizaje del alumnado.
+| | Departamento (PD) | Aula (docente) |
+|---|-------------------|----------------|
+| Alcance | Curso completo, común al equipo | Grupo concreto, año en curso |
+| Función | Coordinar, cumplir marco legal, orientar | Adaptar, diseñar SA, recoger evidencias |
+| Flexibilidad | Estable, revisable anualmente | Alta (evaluación inicial, imprevistos) |
 
-No se trata simplemente de establecer:
-
-> «Examen: 70 %; ejercicios: 20 %; trabajo: 10 %».
-
-Antes debe existir una relación coherente entre lo que se pretende que el alumnado aprenda, lo que se hace en clase y aquello que finalmente se evalúa.
-
-La evaluación debe permitir obtener **evidencias** de que se han alcanzado los aprendizajes previstos.
-
-### Ejemplo en Matemáticas
-
-Supongamos que queremos evaluar la resolución de problemas. Podemos obtener evidencias mediante:
-
-- resolución individual de problemas;
-- actividades de investigación;
-- explicación oral de un procedimiento;
-- trabajo cooperativo;
-- proyecto;
-- prueba escrita;
-- utilización de GeoGebra;
-- elaboración e interpretación de gráficos.
-
-El examen es, por tanto, **un instrumento de evaluación**, pero no necesariamente el único.
+Una PD rígida que no contempla márgenes de ajuste suele incumplirse; una programación de aula sin anclaje en la PD del departamento pierde coherencia de centro.
 
 ---
 
-## 4. Instrumentos de evaluación
+## 15. Ideas clave para el examen del Máster
 
-Los instrumentos son los procedimientos concretos utilizados para obtener información.
+1. Situar la PD en la **cadena de concreción** (no confundirla con el decreto ni con la ficha de una sesión).  
+2. Enumerar los **elementos mínimos** del art. 59.3 / 54.3 y las diferencias ESO–Bachillerato.  
+3. Distinguir **criterio de evaluación**, **instrumento** y **criterio de calificación**.  
+4. Argumentar una **secuenciación** (dependencias, sentidos, tiempo real).  
+5. Explicar la **evaluación inicial** como reorientación del plan, no como trámite.  
+6. Reconocer el apartado metodológico y el de unidades como espacio de **elaboración propia**.
 
-Entre ellos pueden encontrarse:
+**Fórmula breve:**
 
-- pruebas escritas;
-- tareas;
-- trabajos;
-- proyectos;
-- observación;
-- producciones del alumnado;
-- exposiciones;
-- actividades individuales;
-- actividades cooperativas;
-- rúbricas;
-- listas de control;
-- portfolios.
-
-La elección del instrumento debe depender de **qué queremos evaluar**.
-
-Esto es especialmente importante en Matemáticas. Una prueba escrita puede ser adecuada para comprobar determinados procedimientos algebraicos, pero puede ser insuficiente para conocer cómo un alumno argumenta matemáticamente, coopera con otros o desarrolla una investigación.
+> Currículo → PD coordinada → UD/SA → evidencias ligadas a **criterios** → calificación que no sustituye a la evaluación formativa.
 
 ---
 
-## 5. El peso de los diferentes elementos
+## 16. Material relacionado
 
-La programación puede establecer diferentes pesos para los elementos que intervienen en la calificación.
-
-| Evidencia                | Peso |
-| ------------------------ | ---: |
-| Pruebas escritas         | 50 % |
-| Problemas y actividades  | 20 % |
-| Proyecto                 | 20 % |
-| Exposición/argumentación | 10 % |
-
-El aspecto importante no es el porcentaje concreto, sino la **coherencia entre los criterios de evaluación y los instrumentos utilizados**.
-
-Además, puede existir un criterio de evaluación que se evalúe pero que no tenga necesariamente un peso directo en la calificación. Es decir, **evaluar un aspecto y asignarle peso en la nota no son exactamente la misma operación**.
+- [03 — Elementos del currículo LOMLOE](03-elementos-curriculo-lomloe.md)  
+- [02 — Evolución curricular y normativa](02-evolucion-curricular-y-normativa.md)  
+- Temarios Aragón y plantillas: `materiales/temarios-matematicas-aragon/`  
+- Situaciones de aprendizaje del repo: `04-pbl-abp/situaciones-aprendizaje/`  
+- Protocolo de la asignatura y guion de PD (documentos del curso 26-27)
 
 ---
 
-## 6. Evaluación inicial
+## 17. Referencias normativas y de apoyo
 
-La evaluación inicial ocupa un lugar específico dentro del proceso de evaluación.
-
-Su finalidad fundamental es **conocer la situación de partida del alumnado**.
-
-No debe concebirse simplemente como un examen realizado durante los primeros días de clase. Su finalidad es proporcionar información que permita al profesor tomar decisiones sobre su programación.
-
-Podemos formularlo mediante la pregunta:
-
-> **¿Desde dónde empieza este grupo?**
-
-La respuesta permite conocer:
-
-- conocimientos previos;
-- aprendizajes adquiridos;
-- dificultades;
-- posibles lagunas;
-- diferencias entre alumnos;
-- necesidades específicas;
-- aspectos que conviene reforzar.
+- Orden ECD/1172/2022 (currículo ESO Aragón) y Orden ECD/867/2024 (modificación).  
+- Orden ECD/1173/2022 (currículo Bachillerato Aragón) y Orden ECD/886/2024 (modificación).  
+- RD 217/2022 y RD 243/2022 (enseñanzas mínimas).  
+- Decreto 188/2017 (respuesta inclusiva y convivencia) y desarrollo de intervención inclusiva.  
+- Beltrán-Pellicer, Martínez-Juste y Alsina (2023); Beltrán-Pellicer, Martínez-Juste y Muñoz-Escolano (2023).  
+- Liljedahl, P. (2021). *Building Thinking Classrooms*. Corwin.
 
 ---
 
-## 7. ¿Para qué sirve realmente la evaluación inicial?
-
-La evaluación inicial tiene una función esencialmente **diagnóstica**.
-
-Imaginemos una clase de 3.º ESO en la que vamos a comenzar proporcionalidad.
-
-El currículo supone determinados conocimientos previos. Sin embargo, al realizar una actividad diagnóstica podemos descubrir que una parte importante del grupo:
-
-- tiene dificultades con las fracciones;
-- no interpreta correctamente porcentajes;
-- confunde razón y proporción;
-- sabe aplicar una regla mecánica pero no comprende el significado.
-
-El profesor dispone entonces de información para adaptar su intervención. Puede dedicar unas sesiones a recuperar conocimientos previos antes de introducir contenidos nuevos.
-
-Por tanto:
-
-> **La evaluación inicial no sirve principalmente para poner una nota, sino para saber cómo enseñar.**
-
----
-
-## 8. Información procedente del curso anterior
-
-Para realizar esta evaluación inicial no es necesario partir siempre de cero.
-
-El profesor puede disponer de información procedente del curso anterior:
-
-- resultados académicos;
-- actas;
-- información del departamento;
-- dificultades detectadas;
-- medidas educativas aplicadas;
-- observaciones realizadas por otros profesores;
-- aprendizajes que deberían haberse adquirido.
-
-Esta información permite construir una primera imagen del grupo.
-
-Cuando no existe información suficiente, se puede utilizar como referencia aquello que **normativamente debería haber aprendido el alumnado en cursos anteriores**.
-
----
-
-## 9. La evaluación inicial como punto de partida de la programación
-
-Esta idea es especialmente importante para el Máster:
-
-**la programación no debería ser completamente rígida.**
-
-El profesor realiza una planificación previa, pero posteriormente obtiene información sobre el grupo y puede tener que modificar su intervención.
-
-Podemos representar el proceso así:
-
-**Programación prevista**  
-↓  
-**Evaluación inicial**  
-↓  
-**Conocimiento de la situación real**  
-↓  
-**Adaptación de la enseñanza**  
-↓  
-**Evaluación continua**  
-↓  
-**Nuevas decisiones**
-
-La evaluación, por tanto, tiene una función reguladora.
-
----
-
-## 10. Evaluación continua
-
-La evaluación no se limita al comienzo y al final del curso.
-
-Durante el proceso de enseñanza se obtiene continuamente información sobre el aprendizaje. Esto permite detectar problemas mientras todavía existe tiempo para intervenir.
-
-Por ejemplo:
-
-> Un profesor explica sistemas de ecuaciones y observa que muchos alumnos pueden aplicar el método de sustitución, pero no saben interpretar qué representa la solución.
-
-La evaluación continua permite detectar esta situación y modificar la enseñanza. Podría introducir:
-
-- representaciones gráficas;
-- problemas contextualizados;
-- actividades de interpretación;
-- discusión colectiva;
-- utilización de GeoGebra.
-
-La evaluación deja así de ser solamente un mecanismo de control y se convierte en una **herramienta para mejorar el aprendizaje**.
-
----
-
-## 11. Evaluación formativa
-
-La evaluación continua está estrechamente relacionada con la **evaluación formativa**.
-
-La idea fundamental es utilizar la información obtenida durante el aprendizaje para ayudar al alumno a mejorar.
-
-Por ejemplo, no basta con señalar:
-
-> «Incorrecto».
-
-Es más útil proporcionar información como:
-
-> «El procedimiento algebraico es correcto hasta este paso, pero has cambiado incorrectamente el signo al pasar el término al segundo miembro.»
-
-El alumno recibe información que puede utilizar para corregir su aprendizaje.
-
-Aquí aparece el concepto de **feedback o retroalimentación**.
-
----
-
-## 12. Evaluación final
-
-Al finalizar un periodo de aprendizaje es necesario realizar una valoración del grado de adquisición de los aprendizajes previstos.
-
-Esta evaluación tiene una función diferente de la evaluación inicial.
-
-| Momento  | Finalidad principal               |
-| -------- | --------------------------------- |
-| Inicial  | Conocer el punto de partida       |
-| Continua | Regular y mejorar el aprendizaje  |
-| Final    | Valorar los resultados alcanzados |
-
-No son tres procesos completamente independientes. Forman parte de un mismo sistema de evaluación.
-
----
-
-## 13. La evaluación como proceso de toma de decisiones
-
-Una de las ideas que conviene conservar para el examen es que **evaluar implica tomar decisiones**.
-
-El profesor recoge información y, a partir de ella, decide:
-
-- qué debe reforzar;
-- qué puede avanzar;
-- qué contenidos necesitan recuperación;
-- qué alumnos necesitan apoyo;
-- si una actividad ha funcionado;
-- si debe modificar una metodología;
-- si debe adaptar la programación.
-
-Por eso la evaluación no debería aparecer como un apartado aislado al final de la programación. Debe estar conectada con el resto de elementos curriculares.
-
----
-
-## 14. Coherencia curricular
-
-Todo lo anterior conduce a una idea central del diseño curricular:
-
-> **Debe existir coherencia entre lo que se pretende enseñar, lo que se enseña, las actividades que se realizan y aquello que se evalúa.**
-
-En Matemáticas podemos representarlo:
-
-**Competencias específicas**  
-↓  
-**Criterios de evaluación**  
-↓  
-**Saberes básicos**  
-↓  
-**Actividades y situaciones de aprendizaje**  
-↓  
-**Evidencias**  
-↓  
-**Instrumentos de evaluación**  
-↓  
-**Calificación**  
-↓  
-**Toma de decisiones**
-
-Si estos elementos están desconectados, la programación pierde coherencia.
-
----
-
-## 15. Ejemplo completo para Matemáticas
-
-Supongamos una situación de aprendizaje sobre **funciones y consumo eléctrico**.
-
-### Aprendizaje
-El alumnado debe ser capaz de interpretar relaciones entre variables y utilizar representaciones gráficas.
-
-### Actividad
-Se proporciona una tabla con el consumo eléctrico de una vivienda y el alumnado debe:
-
-1. representar los datos;
-2. identificar variables;
-3. interpretar la gráfica;
-4. formular conclusiones;
-5. comparar diferentes situaciones.
-
-### Evidencias
-El profesor observa: representación gráfica, razonamiento, interpretación, argumentación y conclusiones.
-
-### Instrumentos
-Puede utilizar: rúbrica, hoja de trabajo, observación, exposición, producción escrita.
-
-### Evaluación
-Se comprueba el grado de adquisición de los criterios correspondientes.
-
-### Calificación
-La evidencia puede contribuir a la calificación según los criterios y ponderaciones establecidos en la programación.
-
-### Retroalimentación
-Finalmente, el profesor informa al alumno de:
-
-- qué ha realizado correctamente;
-- qué errores presenta;
-- qué debe mejorar;
-- cómo puede hacerlo.
-
-Aquí vemos funcionando todo el sistema curricular.
-
----
-
-## 16. Esquema global para estudiar
-
-### 1. Evaluar
-Recoger información sobre el aprendizaje.
-
-### 2. Analizar
-Interpretar esa información.
-
-### 3. Valorar
-Determinar el grado de adquisición de los aprendizajes.
-
-### 4. Retroalimentar
-Informar al alumno sobre sus avances y dificultades.
-
-### 5. Decidir
-Modificar, reforzar o continuar la enseñanza.
-
-### 6. Calificar
-Expresar el resultado mediante la escala establecida.
-
----
-
-## 17. Ideas clave para el examen del Máster
-
-**Evaluación inicial** → diagnostica el punto de partida.  
-**Evaluación continua** → permite realizar un seguimiento del aprendizaje.  
-**Evaluación formativa** → utiliza la información para mejorar el aprendizaje.  
-**Evaluación final** → permite valorar los resultados alcanzados.  
-**Instrumento** → procedimiento utilizado para obtener evidencias.  
-**Criterio de evaluación** → referente que permite valorar el aprendizaje.  
-**Calificación** → expresión del resultado de la evaluación mediante una escala determinada.
-
-### Fórmula para recordar
-
-> **Evaluar es obtener información para tomar decisiones; calificar es expresar mediante una nota una valoración de determinados resultados.**
-
----
-
-## 18. Relación con el diseño curricular
-
-Esta concepción de la evaluación encaja con una idea mucho más amplia: el currículo no es simplemente una lista de contenidos. Es una propuesta educativa que determina **qué se pretende conseguir, qué aprendizajes se consideran relevantes, cómo se desarrollan y cómo se comprueba su adquisición**.
-
-Por eso la evaluación es el mecanismo que permite comprobar la relación entre el **currículo previsto** y el **aprendizaje realmente alcanzado**.
-
-### Mapa conceptual final
-
-**CURRÍCULO** → ¿Qué queremos conseguir?  
-**PROGRAMACIÓN** → ¿Cómo lo vamos a enseñar?  
-**ACTIVIDADES** → ¿Qué harán los alumnos?  
-**EVIDENCIAS** → ¿Qué podremos observar?  
-**EVALUACIÓN** → ¿Qué han aprendido?  
-**FEEDBACK** → ¿Cómo pueden mejorar?  
-**CALIFICACIÓN** → ¿Cómo expresamos el resultado?  
-**TOMA DE DECISIONES** → ¿Qué hacemos a continuación?
+## Anexo — Evaluación ampliada (mapa de estudio)
+
+Para profundizar el bloque de evaluación dentro de la PD:
+
+| Pregunta | Respuesta operativa |
+|----------|---------------------|
+| ¿Qué se evalúa? | Criterios de evaluación ↔ competencias específicas |
+| ¿Cómo se recoge? | Procedimientos + instrumentos variados |
+| ¿Para qué? | Formar (regular la enseñanza) y, al cierre, calificar |
+| ¿Cuándo? | Inicial → continua/formativa → final de periodo |
+| ¿Qué no hacer? | Ponderar instrumentos como si fueran el referente legal |
+
+Ciclo útil: **evaluar → analizar → valorar → retroalimentar → decidir → (cuando toque) calificar**.
