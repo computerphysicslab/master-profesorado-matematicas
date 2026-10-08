@@ -8,7 +8,9 @@ permalink: /
 
 # Máster Universitario en Profesorado — Matemáticas
 
-Repositorio personal de trabajo del **Máster Universitario en Profesorado de Educación Secundaria**, especialidad **Matemáticas**.
+Repositorio de trabajo del **Máster Universitario en Profesorado de Educación Secundaria**, especialidad **Matemáticas** (marco **LOMLOE** / currículo de Aragón).
+
+Cuaderno digital de estudio y base reutilizable (REA) para la enseñanza de Matemáticas en ESO y Bachillerato.
 
 **Mapa de estructura y reglas de ubicación:** [MANIFEST.md](MANIFEST.md)
 
@@ -71,10 +73,27 @@ flowchart TB
 | S2 | Contenidos disciplinares · Diseño de actividades · Innovación e investigación |
 | Anual | Practicum II · TFM |
 
-## Objetivo
+## Cómo usar este repositorio
 
-Cuaderno digital de trabajo del máster y base reutilizable para la enseñanza de Matemáticas en Secundaria y Bachillerato.
+1. **Estudiar / navegar:** abre los `README.md` e `INDICE.md` de cada carpeta; los apuntes viven en Markdown.
+2. **Programación didáctica y currículo:** empieza por [Diseño curricular](01-asignaturas/diseno-curricular-e-instruccional-de-matematicas/).
+3. **Situaciones de aprendizaje:** [04-pbl-abp/](04-pbl-abp/).
+4. **Notebooks de aula:** [05-python-jupyter/](05-python-jupyter/) (local con Jupyter/VS Code, o **Google Colab** desde los enlaces de esa carpeta).
+5. **Clonar:**
+   ```bash
+   git clone https://github.com/computerphysicslab/master-profesorado-matematicas.git
+   ```
+6. **Dependencias Python** (solo si ejecutas notebooks en local): `numpy`, `matplotlib` suelen bastar; el resto se indica en cada notebook.
+
+**Stack del proyecto:** Markdown + (sitio) Just the Docs/Jekyll · Mermaid · notebooks Jupyter · recursos abiertos. No hay pipeline LaTeX obligatorio en este repo.
 
 ## Licencia
 
-**[CC BY-SA 4.0](LICENSE)**. Recursos de terceros: su propia licencia.
+**[CC BY-SA 4.0](LICENSE)** para materiales pedagógicos y, por defecto, scripts/notebooks del propio repo.  
+Recursos de terceros: su propia licencia. Textos oficiales (BOE, órdenes): se citan, no se redistribuyen como obra original.
+
+## Contribuir (notas breves)
+
+- Respeta la ubicación de archivos del [MANIFEST](MANIFEST.md).
+- No subas trabajos personales, credenciales ni artefactos de compilación (véase `.gitignore`).
+- Prefiere Markdown enlazado a PDFs binarios pesados cuando sea posible.

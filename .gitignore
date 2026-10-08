@@ -1,4 +1,75 @@
+# --- Trabajos personales / no publicar ---
 **/trabajos/
 **/trabajos/**
-
 .aider*
+
+# --- SO ---
+.DS_Store
+.DS_Store?
+._*
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# --- Editores / IDE ---
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# --- Python ---
+__pycache__/
+*.py[cod]
+*$py.class
+*.egg-info/
+.eggs/
+dist/
+build/
+.venv/
+venv/
+env/
+.env
+.python-version
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+
+# --- Jupyter ---
+.ipynb_checkpoints/
+*/.ipynb_checkpoints/
+
+# --- LaTeX (por si aparecen fuentes .tex) ---
+*.aux
+*.bbl
+*.bcf
+*.blg
+*.fdb_latexmk
+*.fls
+*.lof
+*.log
+*.lot
+*.out
+*.synctex.gz
+*.toc
+*.nav
+*.snm
+*.vrb
+*.run.xml
+
+# --- Node / Jekyll (sitio generado) ---
+node_modules/
+_site/
+.sass-cache/
+.jekyll-cache/
+.jekyll-metadata
+
+# --- GeoGebra / temporales locales ---
+*.ggb.bak
+~$*
+
+# --- Secretos y entornos ---
+.env.*
+!.env.example
+*.pem
+credentials.json

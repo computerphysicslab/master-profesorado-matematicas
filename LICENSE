@@ -13,7 +13,7 @@ You are free to:
 Under the following terms:
   • Attribution — You must give appropriate credit, provide a link to the
     license, and indicate if changes were made.
-  • ShareAlike — If you remix, transform, or build upon the material, you
+  • ShareAlike — If you remix, transform, and build upon the material, you
     must distribute your contributions under the same license as the original.
 
 Full legal code:
@@ -27,3 +27,8 @@ Notes:
   source before reuse.
 - Official curriculum texts (BOE, decrees) are public domain / official
   publications and are cited, not redistributed as original content of this repo.
+- Pedagogical Markdown, guides and teaching materials in this repository are
+  under CC BY-SA 4.0 unless a file states otherwise.
+- Small scripts and Jupyter notebooks authored in this repo may be reused under
+  the same CC BY-SA 4.0 terms (simple single license). If you need a more
+  permissive software-only licence for a specific script, open an issue.
