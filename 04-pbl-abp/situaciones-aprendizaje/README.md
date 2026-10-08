@@ -41,8 +41,9 @@ Cuando exista una **historia matemática** hermana (germen narrativo), se enlaza
 | [Cazadores de exoplanetas (tránsito)](sa-exoplanetas-transito-4eso.md) | 4.º ESO / 1.º Bach | Espacial, algebraico, medida · astronomía | 6 sesiones | Completa v1.0 |
 | [¿Cuántas personas para compartir cumpleaños?](sa-paradoja-cumpleanos-3eso.md) | 3.º–4.º ESO | Estocástico, numérico, socioafectivo | 5 sesiones | Completa v1.0 |
 | [¿Puede un folio llegar a la Luna?](sa-papel-luna-exponencial-2eso.md) | 2.º–3.º ESO | Numérico, algebraico, medida · astronomía ligera | 4 sesiones | Completa v1.0 |
-| [El vuelo de la abeja (distancias a dos flores)](sa-vuelo-abeja-distancias-2eso.md) | 2.º ESO (+ ampliación complejos) | Espacial, medida, representación · lugares geométricos | 3–4 sesiones | Completa v1.0 |
+| [El vuelo de la abeja (distancias a dos flores)](sa-vuelo-abeja-distancias-2eso.md) | 2.º ESO (+ ampliación complejos) | Espacial, medida, representación · lugares geométricos | 3–4 sesiones | Completa v1.1 |
 | [Lotería, independencia y Drake](sa-independencia-drake-4eso.md) | 4.º ESO / 1.º Bach | Estocástico, numérico, modelización · SETI | 7 sesiones | Completa v1.0 |
+| [Mutaciones, biosfera y supercomputación](sa-mutaciones-biosfera-supercomputacion.md) | 3.º–4.º ESO / Bach. | Numérico, modelización, pensamiento computacional · STEM | 4–6 sesiones | Completa v1.0 |
 | [La campana que esconde un círculo (gaussiana)](sa-campana-gaussiana-bach.md) | 2.º Bach. (adaptable 1.º) | Algebraico, medida, espacial · análisis | 6 sesiones | Completa v1.0 |
 | [Hamlet y los dígitos de π](sa-hamlet-pi-4eso.md) | 4.º ESO / 1.º Bach | Numérico, estocástico, algebraico · computacional | 5 sesiones | Completa v1.0 |
 | [¿Te conviene cambiar de puerta? (Monty Hall)](sa-monty-hall-4eso.md) | 4.º ESO / 1.º Bach | Estocástico · probabilidad condicionada | 5 sesiones | Completa v1.0 |
