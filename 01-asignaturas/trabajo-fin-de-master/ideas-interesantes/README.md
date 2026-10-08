@@ -38,15 +38,17 @@ Las ideas se incorporan cuando aparece una combinación especialmente interesant
 | [17 — Matemáticas y salud mental](17-matematicas-y-salud-mental.md) | Ansiedad, clima de error, bienestar y rol docente (límites y derivación) | Salud mental · ansiedad · feedback | expandida |
 | [18 — Codocencia e interferencia cognitiva](18-codocencia-interferencia-cognitiva.md) | Cuándo el 2.º docente suma capacidad o coste; modelos de interacción | Codocencia · carga cognitiva · mates | expandida |
 | [19 — SimulaESO: motor offline de SdA en Go](19-simulaeso-software-offline-go-matematicas.md) | Motor + DSL de escenarios; repositorio de SdA; informes locales | Offline · DSL · SdA · Go · open source | **expandida** |
+| [20 — Andamiaje permanente y autorregulación](20-andamiaje-permanente-autorregulacion.md) | Fading, autonomía cognitiva y perseverancia ante tareas difíciles | Andamiaje · ZDP · autorregulación · mates | **expandida** |
 
 ### Prioridad sugerida (línea crítica del repo)
 
-1. **16** — margen de acción bajo LOMLOE.
-2. **18** — codocencia e interferencia (pregunta experimental fuerte; bibliografía a favor/en contra).
-3. **19** — SimulaESO (motor de escenarios + piloto; encaja con 02 y 03).
-4. **17** — matemáticas y salud mental.
-5. **06** — ilusión de competencia ([protocolo](06-protocolo-practicum.md)).
-6. **11** — pizarra infinita ([protocolo](11-protocolo-practicum.md)).
+1. **20** — andamiaje permanente / fading / autorregulación (pregunta experimental fuerte; conecta 04–05 y psicología).
+2. **16** — margen de acción bajo LOMLOE.
+3. **18** — codocencia e interferencia.
+4. **19** — SimulaESO.
+5. **17** — matemáticas y salud mental.
+6. **06** — ilusión de competencia ([protocolo](06-protocolo-practicum.md)).
+7. **11** — pizarra infinita ([protocolo](11-protocolo-practicum.md)).
 
 ## Cruce rápido con el Atlas de saturación (v0.9–v0.10)
 
@@ -62,6 +64,7 @@ Las ideas se incorporan cuando aparece una combinación especialmente interesant
 | 16 | Opinión pro/contra LOMLOE sin aula | Margen docente real × mates × autonomía |
 | **18** | «Codocencia = inclusión» sin medir aprendizaje | **Modelo de interacción** × claridad × interferencia |
 | **19** | App de ejercicios cableados en el código | **SdA como dato + motor/DSL + evidencias locales** |
+| **20** | «Falta de disciplina de los jóvenes» | **Fading / permanencia del andamiaje** × autorregulación × mates |
 
 Fuente: [Atlas de nichos](../atlas-nichos/) · [mapa de saturación](../atlas-nichos/03-mapa-saturacion.md) · [ranking de intersecciones](../atlas-nichos/04-coocurrencias-y-ranking-v09.md).
 
@@ -74,6 +77,6 @@ Fuente: [Atlas de nichos](../atlas-nichos/) · [mapa de saturación](../atlas-ni
 | [Ejemplos de TFM](../ejemplos-tfm/) | ¿Cómo se estructuran trabajos reales? |
 | [Análisis de temáticas](../ANALISIS-TEMATICAS.md) | Visión general de saturación |
 | [Leyes educativas / PISA 2025](../../procesos-y-contextos-educativos/materiales/leyes-educativas/) | Marco de la idea 16 |
-| [Materiales de psicología](../../../03-materiales/psicologia/) | Ideas 10 y 17 |
+| [Materiales de psicología](../../../03-materiales/psicologia/) | Ideas 10, 17 y **20** |
 
 La carpeta `ideas-interesantes/` funciona como puente entre la **detección de un nicho**, la **lectura de impacto** y la **formulación de una propuesta concreta de TFM**.
