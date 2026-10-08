@@ -15,7 +15,7 @@ nav_order: 23
 | **Nivel / curso** | **2.º ESO** (núcleo); ampliación formal en 4.º ESO / 1.º Bach. / máster |
 | **Duración** | 3–4 sesiones × 50–55 min (o 1 sesión intensiva de olimpiada + ampliación) |
 | **Origen** | Final de la XXX Olimpiada Matemática de 2.º ESO (Aragón) |
-| **Fecha / versión** | 2026-10 / v1.0 |
+| **Fecha / versión** | 2026-10 / v1.1 |
 | **Contexto de uso** | Diseño curricular · Practicum · banco de problemas ricos |
 
 **Palabras clave:** lugares geométricos, mediatriz, circunferencia, distancia, gráfica vs trayectoria, problem-solving, modelización, números complejos (ampliación)
@@ -25,9 +25,24 @@ nav_order: 23
 
 ---
 
-## 1. Pregunta guía / reto
+## 1. Enunciado del problema (tal como se plantea)
 
-> *La gráfica representa la **distancia** a la que se encuentra una abeja de dos flores (una **rosa** y una **margarita**). Describe y dibuja su trayectoria de vuelo.*
+**Contexto:** final de la XXX Olimpiada Matemática Aragonesa de 2.º de ESO.
+
+> **La gráfica representa la distancia a la que se encuentra una abeja de dos flores (una margarita y una rosa). Describe y dibuja su trayectoria de vuelo, razonando tu respuesta.**
+
+![Gráfica del enunciado: distancia a la margarita (eje vertical) frente a distancia a la rosa (eje horizontal)](media/enunciado-grafica-distancias.svg)
+
+**Lectura de ejes (imprescindible):**
+
+| Eje | Magnitud |
+|-----|----------|
+| Horizontal | Distancia de la abeja a la **rosa** ($r$) |
+| Vertical | Distancia de la abeja a la **margarita** ($m$) |
+
+La curva roja **no** es el dibujo del camino en el jardín: es el rastro de la pareja $(r,m)$ a lo largo del vuelo. Los puntos marcados $(0,d)$, $(d,d)$ y $(d,0)$ corresponden a: abeja sobre la rosa, equidistante a distancia $d$ (como el radio entre flores), y abeja sobre la margarita, respectivamente ($d$ = distancia entre las dos flores).
+
+**Imagen de referencia del enunciado original** (olimpiada / difusión del problema): [gráfica en X/Twitter (P. Beltrán-Pellicer)](https://pbs.twimg.com/media/FTYarm-WYAAApdv.jpg). La figura SVG de arriba es una **recreación esquemática** alineada con esa gráfica y con la solución comentada en Beltrán-Pellicer & Muñoz-Escolano (2023).
 
 **Producto final esperado:** dibujo de una trayectoria espacial coherente con la gráfica, con **leyenda de tramos** (mediatriz, arco de circunferencia, segmento entre flores, rayo…) y un párrafo que explique por qué **la gráfica no es el mapa del vuelo**.
 
@@ -105,14 +120,16 @@ Sea $d$ la distancia entre la rosa $R$ y la margarita $M$. Coloca $R$ y $M$ en e
 | Paralelo a la bisectriz (ej. $m = r - d$) | $r - m = d$ | **Rayo** que sale de $M$ alejándose de $R$ | Línea recta “más allá” de la margarita |
 | Simétrico | $m - r = d$ | Rayo desde $R$ alejándose de $M$ | Más allá de la rosa |
 
-### Lectura cualitativa típica del enunciado olímpico
+### Lectura cualitativa del enunciado (orden de tramos)
 
-Sin fijar la figura exacta del año, el análisis del artículo y de las figuras de apoyo suele combinar, en algún orden:
+Alineada con la solución comentada en el artículo y con la gráfica:
 
-1. un tramo a **distancia constante** de una flor (arco de circunferencia),
-2. un tramo en la **mediatriz** ($r=m$),
-3. un tramo **entre las flores** ($r+m=d$),
-4. un tramo en **línea recta alejándose** de una flor pasando por la otra ($|r-m|=d$).
+1. Acercarse por la **mediatriz** ($r=m$), desde lejos hasta $(d,d)$.
+2. **Arco** de circunferencia centrada en la margarita ($m=d$ constante) hasta llegar a la rosa $(0,d)$.
+3. **Segmento** entre las flores ($r+m=d$) hasta la margarita $(d,0)$.
+4. **Rayo** más allá de la margarita ($r-m=d$), alejándose de la rosa.
+
+![Tramos del vuelo en el jardín](media/trayectoria-jardin-tramos.svg)
 
 **Construcción en papel (2.º):**
 
@@ -130,11 +147,11 @@ Sin fijar la figura exacta del año, el análisis del artículo y de las figuras
 
 | Sesión | Fase | Actividad | Rol docente |
 |--------|------|-----------|-------------|
-| 1 | Conflicto | Mostrar la gráfica; pedir que dibujen “el vuelo” sin pistas | Recoger dibujos literales de la gráfica roja |
+| 1 | Conflicto | Mostrar la gráfica del §1; pedir que dibujen “el vuelo” sin pistas | Recoger dibujos literales de la gráfica roja |
 | 1–2 | Reencuadre | “¿Qué miden los ejes?” Colocar dos puntos $R$, $M$ en la pizarra | Forzar la distinción gráfica ≠ mapa |
 | 2 | Diccionario | Completar en grupos la tabla tramo → lugar geométrico | Preguntas tipo «si $m$ no cambia, ¿qué curva es?» |
 | 3 | Reconstrucción | Dibujar una trayectoria completa + leyenda | Contrastar simétricos arriba/abajo |
-| 4 (opc.) | Ampliación | Intersección de circunferencias; esbozo con GeoGebra | Solo quienes avancen; ver §10 |
+| 4 (opc.) | Ampliación | Intersección de circunferencias; diagrama $T$; esbozo con GeoGebra | Solo quienes avancen; ver §10 |
 
 ---
 
@@ -193,21 +210,35 @@ Así, cada tramo de la gráfica se traduce en restricciones sobre $(r,\theta)$ o
 | $r+m=d$ | $\theta=0$ y $z$ en el segmento $[0,d]$ |
 | $r-m=d$ | $\theta=0$ y $z$ en el rayo $[d,+\infty)$ |
 
-### 10.3. ¿“Transformación al plano bi-complejo”?
+### 10.3. Transformación del plano euclídeo al plano de distancias (no “bi-complejo”)
 
-**No en sentido estricto.** Lo natural es la aplicación
+**No es un plano bi-complejo.** Lo natural es la aplicación real
 
 $$
 T:\; (x,y)\longmapsto (r,m)=\big(|z|,|z-d|\big)
+=\big(\sqrt{x^{2}+y^{2}},\,\sqrt{(x-d)^{2}+y^{2}}\big)
 $$
 
-del plano del jardín al **plano real de distancias**. Su jacobiano es
+del **jardín** al **plano de distancias**.
 
-$$\det DT = \frac{y\,d}{rm}$$
+![Transformación T: jardín (izquierda) → plano (r, m) (derecha)](media/transformacion-jardin-distancias.svg)
 
-(se anula en $y=0$, la recta de las flores). En el interior de la región triangular, $T$ es **2 a 1**; la inversa exige la raíz $\pm$. Eso se describe mejor como **recubrimiento de dos hojas** (o dos trayectorias espejo), no como plano bi-complejo ($\mathbb{C}^{2}$ sin restricción). El par $(z,\,z-d)$ vive en una **recta compleja** dentro de $\mathbb{C}^{2}$ por la ligadura $z-(z-d)=d$.
+**Qué muestra el diagrama**
 
-**Visualización didáctica avanzada:** a la izquierda el jardín con $R$, $M$ y la trayectoria; a la derecha el plano $(r,m)$ con la gráfica del enunciado; flechas $T$; cuadrícula de circunferencias centradas en $R$ y en $M$ para ver el levantamiento tramo a tramo.
+| Lado | Contenido |
+|------|-----------|
+| Izquierda | Rosa $R$, margarita $M$, abeja $P$ y su simétrica $P′$; las dos circunferencias que fijan $(r,m)$ |
+| Flecha $T$ | Cada posición del jardín se envía al par de distancias |
+| Derecha | Región admisible (verde): $|r-m|\le d\le r+m$; zona prohibida junto al origen (rojo); la gráfica del enunciado como curva dentro de la región |
+
+**Jacobiano.** $\det DT = \dfrac{y\,d}{rm}$ se anula en $y=0$ (recta de las flores). En el interior, $T$ es **2 a 1** ($P$ y $P′$); sobre el segmento/rayos de la recta $RM$ es 1 a 1. La inversa es el levantamiento de dos hojas:
+
+$$
+x = \frac{r^{2}-m^{2}+d^{2}}{2d},\qquad
+y = \pm\sqrt{r^{2}-x^{2}}.
+$$
+
+**Por qué no “bi-complejo”.** El par $(z,\,z-d)\in\mathbb{C}^{2}$ está atado por $z-(z-d)=d$: vive en una **recta compleja**, no en todo $\mathbb{C}^{2}$. Tomar módulos proyecta esa recta sobre el plano real $(r,m)$. Hablar de superficie de **dos hojas** sobre $(r,m)$ es más fiel que hablar de plano bi-complejo.
 
 ---
 
@@ -216,7 +247,7 @@ $$\det DT = \frac{y\,d}{rm}$$
 | Principio | Medida |
 |-----------|--------|
 | Implicación | Problema de olimpiada “de verdad”; dibujo en gran formato |
-| Representación | Tabla de tramos; GeoGebra (dos deslizadores $r$, $m$) opcional |
+| Representación | Tabla de tramos; figuras SVG del §1 y §10; GeoGebra (dos deslizadores $r$, $m$) opcional |
 | Acción y expresión | Dibujo, oral en pizarra, o audio de 90 s explicando un tramo |
 
 - Validar **varias trayectorias** bien argumentadas.
@@ -228,7 +259,7 @@ $$\det DT = \frac{y\,d}{rm}$$
 
 - Empezar **sin** la tabla de lugares: dejar que surja el error “copiar la gráfica”.
 - Fijar $d$ en la cuadrícula desde el principio.
-- Si la figura del año muestra un tramo $m=r-d$, insistir en el rayo exterior (hipérbola degenerada: diferencia de distancias $=d$).
+- Si la figura muestra un tramo $m=r-d$, insistir en el rayo exterior (hipérbola degenerada: diferencia de distancias $=d$).
 - GeoGebra: dos puntos fijos + punto $P$ + `Distancia(P,R)`, `Distancia(P,M)` y traza de $P$ al moverse con restricción.
 - Conexión curricular: prepara definición de **elipse** ($r+m=\mathrm{cte}>d$) e **hipérbola** ($|r-m|=\mathrm{cte}<d$) en cursos posteriores.
 
