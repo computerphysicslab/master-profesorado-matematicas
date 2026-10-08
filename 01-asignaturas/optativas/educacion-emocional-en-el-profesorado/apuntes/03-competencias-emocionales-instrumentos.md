@@ -163,3 +163,14 @@ Solo puede responderse con **evidencia de la propia práctica** (ensayos de aula
 2. ¿Por qué un autoinforme de IE puede ser engañoso si se usa como única medida?  
 3. Formula una micro-meta de mejora para *una* competencia que reconozcas como prioritaria en tu caso.  
 4. **(Nueva)** ¿Qué diferencia hay entre «atención», «claridad» y «reparación» en el TMMS-24? ¿Para qué sirve (y para qué no) en la formación del profesorado?
+
+---
+
+## Referencias clave de este tema
+
+- **Bisquerra, R., & Pérez Escoda, N. (2007).** Las competencias emocionales. *Educación XX1*.
+- **Extremera, N., & Fernández-Berrocal, P. (2003).** La inteligencia emocional: métodos de evaluación en el aula. *Revista Iberoamericana de Educación*.
+- **Cabello González, R. et al. (2016).** *Programa INTEMO+: mejorar la inteligencia emocional de los adolescentes*. Pirámide. — Ejemplo de programa estructurado (adaptar, no copiar).
+- **Martín, M. L., Harillo, D. A., & Mora, J. A. (2008).** IE y ajuste psicológico en secundaria. *Ansiedad y Estrés, 14*(1), 31–41.
+
+Instrumentos tratados en el tema (TMMS-24, e-COM, MSCEIT): ver también [bibliografía](../bibliografia.md).
