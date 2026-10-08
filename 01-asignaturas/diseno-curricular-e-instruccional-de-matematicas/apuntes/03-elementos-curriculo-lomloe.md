@@ -1,92 +1,57 @@
-# Bloque 3 · Currículo LOMLOE de Matemáticas (CE, criterios, saberes, orientaciones)
+# Tema 3 — Elementos del currículo LOMLOE (Matemáticas)
 
-**Asignatura:** Diseño curricular e instruccional de Matemáticas  
-**Programa:** elementos del currículo LOMLOE de Matemáticas
-
-> Currículo básico estatal: RD 217/2022 (ESO), RD 243/2022 (Bachillerato).  
-> Marco normativo de Aragón actualizado a septiembre de 2026.  
-> Para ESO: Orden ECD/1172/2022 + ECD/867/2024.  
-> Para Bachillerato: Orden ECD/1173/2022 + ECD/886/2024 + ECD/739/2025.  
-> Consulta siempre el BOA / sede electrónica del Gobierno de Aragón.
+**Asignatura:** Diseño curricular e instruccional de Matemáticas
 
 ---
 
-## Parte B · Referentes teóricos e institucionales
+## Parte A · Marco
 
-### B.1. Psicología y didáctica de la matemática
+La LOMLOE organiza el currículo en torno a **competencias**. En Matemáticas eso se concreta en:
 
-| Autor / corriente | Aportación clave | Eco en el currículo LOMLOE |
-|-------------------|------------------|----------------------------|
-| **Piaget** | Estadios del desarrollo; de lo concreto a lo formal; construcción activa del conocimiento | Ritmos, manipulación, material concreto, respeto al progreso cognitivo |
-| **Brousseau (Teoría de Situaciones Didácticas)** | Situaciones didácticas / adidácticas; devolución; institucionalización; contrato didáctico | Situaciones de aprendizaje con sentido; el alumno se responsabiliza de la resolución |
-| **Freudenthal (Realistic Mathematics Education)** | Matemáticas como **actividad humana**; matematización **horizontal** (del mundo real a las matemáticas) y **vertical** (dentro de las matemáticas, hacia mayor abstracción) | Problemas de contexto real como punto de partida y de llegada; sentidos matemáticos |
-| **Niss (proyecto KOM)** | Competencia matemática = entender, juzgar, hacer y usar las matemáticas en una variedad de contextos. Ocho subcompetencias | Base conceptual de PISA y de las competencias específicas (resolver, razonar, modelar, comunicar, representar…) |
+- **Competencias clave** (perfil de salida / descriptores operativos).
+- **Competencias específicas** de la materia (desempeños).
+- **Criterios de evaluación** (referentes de logro de esas competencias).
+- **Saberes básicos** (conocimientos, destrezas y actitudes; en Matemáticas organizados por *sentidos*).
+- **Situaciones de aprendizaje** (contexto para movilizar lo anterior).
 
-### B.2. Referentes institucionales
-
-**NCTM — *Principles and Standards for School Mathematics* (2000 / trad. 2003)**  
-- Seis principios: igualdad, currículo, enseñanza, aprendizaje, evaluación, tecnología.  
-- Estándares de **contenido** (números y operaciones, álgebra, geometría, medida, análisis de datos y probabilidad).  
-- Estándares de **procesos**: resolución de problemas, razonamiento y prueba, conexiones, comunicación, representación.  
-- En LOMLOE la relación es explícita: los ejes de las competencias específicas (salvo el socioafectivo) se vinculan directamente a estos procesos.
-
-**CEMAT — *Bases para la elaboración de un currículo de Matemáticas en Educación no Universitaria* (Calvo Pesce et al., 2021)**  
-- Documento elaborado por el Comité Español de Matemáticas (RSME, FESPM, SEIEM…) en diálogo con el Ministerio.  
-- Organización de la matemática escolar en torno a **sentidos matemáticos**.  
-- Grandes ideas matemáticas que vertebran la continuidad y las conexiones intramatemáticas.  
-- Introducción del **pensamiento computacional** en la enseñanza de las matemáticas.
-
-### B.3. Otros ecos presentes
-
-- **PISA / OCDE** y marco DeSeCo → definición operativa de competencia y descriptores.
-- **Diseño Universal para el Aprendizaje (DUA)** → inclusión y múltiples formas de implicación, representación y acción/expresión.
-- Tradición de grupos de renovación españoles y sociedades de profesores de matemáticas.
+En LOMLOE la relación es explícita: los ejes de las competencias específicas (salvo el socioafectivo) se vinculan directamente a los procesos matemáticos clásicos (resolver, razonar, conectar, comunicar).
 
 ---
 
-## Parte C · Arquitectura LOMLOE (niveles de concreción)
+## Parte B · Competencias clave y perfil de salida
 
-```text
-NIVEL 1 – Finalidades educativas de etapa
-        → Objetivos de etapa
+El **perfil de salida** describe lo que se espera al terminar la ESO. Se articula mediante **descriptores operativos** de las competencias clave (CCL, CP, STEM, CD, CPSAA, CC, CE, CCEC).
 
-NIVEL 2 – Perfil de salida
-        → Competencias clave + descriptores operativos
-
-NIVEL 3 – Desarrollo curricular de la materia
-        → Competencias específicas
-        → Criterios de evaluación
-        → Saberes básicos / sentidos matemáticos
-        → Orientaciones didácticas y metodológicas
-        → Situaciones de aprendizaje (ejemplos)
-```
-
-Algunos elementos son **prescriptivos** (competencias clave y específicas, criterios, saberes básicos) y proceden de la norma estatal; otros (orientaciones didácticas, ejemplos de situaciones de aprendizaje) se desarrollan en el currículo autonómico y forman parte del «currículo oficial designado» (Remillard & Heck, 2014).
+En Matemáticas el vínculo más directo suele ser con **STEM**, sin olvidar comunicación, digital, personal/social y ciudadana.
 
 ---
 
-## Parte D · Competencias clave y perfil de salida
+## Parte C · De los descriptores STEM a la materia
 
-Las ocho competencias clave definen el **perfil de salida** del alumnado al terminar la enseñanza básica (y se adaptan al terminar Bachillerato):
-
-1. Competencia en comunicación lingüística  
-2. Competencia plurilingüe  
-3. **Competencia matemática y competencia en ciencia, tecnología e ingeniería (STEM)**  
-4. Competencia digital  
-5. Competencia personal, social y de aprender a aprender  
-6. Competencia ciudadana  
-7. Competencia emprendedora  
-8. Competencia en conciencia y expresión culturales  
-
-### Descriptores operativos STEM (síntesis)
-
-| Descriptor | Enseñanza básica (ESO) | Bachillerato |
-|------------|------------------------|--------------|
+| Descriptor | Idea (síntesis ESO) | Matiz Bachillerato |
+|------------|---------------------|--------------------|
 | **STEM1** | Métodos inductivos/deductivos; estrategias de resolución de problemas; análisis crítico de soluciones | Idem, en situaciones propias de la modalidad |
 | **STEM2** | Pensamiento científico; preguntas e hipótesis; experimentación; actitud crítica | Idem, centrado en la modalidad |
 | **STEM3** | Proyectos, prototipos, trabajo en equipo, sostenibilidad | Idem + evaluación del impacto transformador |
 | **STEM4** | Interpretar y transmitir resultados científicos/matemáticos/tecnológicos en diversos formatos; lenguaje matemático-formal | Idem + valoración crítica de la contribución de ciencia y tecnología |
 | **STEM5** | Acciones para salud, medio ambiente y consumo responsable | Idem + compromisos ciudadanos locales y globales |
+
+---
+
+## Parte D · Arquitectura del currículo de la materia
+
+```text
+Competencias clave (perfil de salida)
+        ↓ (vinculación)
+Competencias específicas de Matemáticas
+        ↓
+Criterios de evaluación
+        ↓
+Saberes básicos (sentidos matemáticos)
+        → Situaciones de aprendizaje (ejemplos)
+```
+
+Algunos elementos son **prescriptivos** (competencias clave y específicas, criterios, saberes básicos) y proceden de la norma estatal; otros (orientaciones didácticas, ejemplos de situaciones de aprendizaje) se desarrollan en el currículo autonómico y forman parte del «currículo oficial designado» (Remillard & Heck, 2014).
 
 ---
 
@@ -96,20 +61,32 @@ Definición oficial: *desempeños que el alumnado debe poder desplegar en activi
 
 ### Cinco ejes (ESO)
 
-| Eje | Competencias específicas |
-|-----|--------------------------|
-| **Resolución de problemas** | **CE.M.1** Interpretar, modelizar y resolver problemas de la vida cotidiana y propios de las matemáticas…  
-**CE.M.2** Analizar las soluciones… verificando validez e idoneidad |
-| **Razonamiento y prueba** | **CE.M.3** Formular y comprobar conjeturas… o plantear problemas de forma autónoma  
-**CE.M.4** Pensamiento computacional: organizar datos, descomponer, reconocer patrones, crear algoritmos |
-| **Conexiones** | **CE.M.5** Conexiones intramatemáticas (visión de las matemáticas como un todo)  
-**CE.M.6** Matemáticas en otras materias y situaciones reales |
-| **Comunicación y representación** | **CE.M.7** Representar conceptos, procedimientos e información con diferentes tecnologías  
-**CE.M.8** Comunicar con lenguaje oral, escrito o gráfico y terminología apropiada |
-| **Socioafectivo** | **CE.M.9** Destrezas personales: gestionar emociones, aceptar el error, adaptarse a la incertidumbre  
-**CE.M.10** Destrezas sociales: respeto, trabajo en equipos heterogéneos, identidad positiva como estudiante de matemáticas |
+Las **10 competencias específicas** de Matemáticas en ESO se agrupan en **5 ejes** (2 competencias por eje). Lectura recomendada: primero el nombre del eje, luego el código, luego la idea en una frase.
 
-En **Bachillerato** se mantienen los cinco ejes; el socioafectivo se agrupa en una sola competencia específica (CE.M.9).
+| Eje | Código | Idea en una frase |
+|-----|--------|-------------------|
+| **1. Resolución de problemas** | **CE.M.1** | Interpretar, modelizar y **resolver** problemas (cotidianos y matemáticos). |
+| | **CE.M.2** | **Analizar** las soluciones: ¿son válidas? ¿son idóneas? |
+| **2. Razonamiento y prueba** | **CE.M.3** | Formular y comprobar **conjeturas**; plantear problemas. |
+| | **CE.M.4** | **Pensamiento computacional**: descomponer, patrones, algoritmos. |
+| **3. Conexiones** | **CE.M.5** | Conexiones **dentro** de las matemáticas (visión de conjunto). |
+| | **CE.M.6** | Conexiones con **otras materias** y con la realidad. |
+| **4. Comunicación y representación** | **CE.M.7** | **Representar** (gráficos, símbolos, tecnología…). |
+| | **CE.M.8** | **Comunicar** con lenguaje matemático oral, escrito o gráfico. |
+| **5. Socioafectivo** | **CE.M.9** | Destrezas **personales**: emociones, error, incertidumbre. |
+| | **CE.M.10** | Destrezas **sociales**: respeto, equipo, identidad como estudiante de mates. |
+
+**Esquema mental (ESO):**
+
+```text
+Resolver + analizar soluciones     →  CE.1 y CE.2
+Razonar + pensar de forma algorítmica →  CE.3 y CE.4
+Conectar dentro y fuera de las mates →  CE.5 y CE.6
+Representar + comunicar            →  CE.7 y CE.8
+Gestionarse a uno mismo + al grupo →  CE.9 y CE.10
+```
+
+En **Bachillerato** se mantienen los mismos cinco ejes; el socioafectivo se concentra en **una** competencia específica (CE.M.9).
 
 ---
 
@@ -118,124 +95,71 @@ En **Bachillerato** se mantienen los cinco ejes; el socioafectivo se agrupa en u
 Son los **referentes que indican los niveles de desempeño esperados** en las situaciones o actividades a las que se refieren las competencias específicas.
 
 - Están vinculados a cada competencia específica.
-- Deben evaluarse de forma **criterial** (no solo con exámenes algorítmicos).
-- Orientan el diseño de instrumentos y de evidencias de aprendizaje.
+- Son el ancla de la evaluación y de la calificación (no los “temas” del libro).
+- En la programación didáctica se secuencian junto con los saberes en unidades.
 
 ---
 
 ## Parte G · Saberes básicos y sentidos matemáticos
 
-Los saberes básicos son los **conocimientos, destrezas y actitudes** que se movilizan para el desarrollo de las competencias específicas. No constituyen un «temario a dar» lineal.
+Los saberes se organizan por **sentidos** (no por “temas” aislados del libro):
 
-### Sentidos matemáticos (organización LOMLOE / CEMAT)
-
-| Sentido | Contenidos y capacidades asociadas (síntesis) |
-|---------|-----------------------------------------------|
-| **Numérico** | Cantidad, sentido de las operaciones, relaciones, razonamiento proporcional, estimación, cálculo… |
-| **De la medida** | Magnitud, medición, estimación, relaciones entre magnitudes… |
-| **Espacial** | Figuras, localización, movimientos, visualización, razonamiento geométrico… |
-| **Algebraico** | Patrones, modelo matemático, variable, igualdad y desigualdad, relaciones y funciones… |
-| **Estocástico** | Distribución, incertidumbre, inferencia… |
+| Sentido | Enfoque |
+|---------|---------|
+| **Numérico** | Cantidad, cálculo, relaciones numéricas |
+| **De la medida** | Magnitud, estimación, medición |
+| **Espacial** | Forma, visualización, localización, movimientos |
+| **Algebraico** | Patrones, modelos, relaciones, cambio |
+| **Estocástico** | Incertidumbre, datos, probabilidad |
 | **Socioafectivo** | Creencias, actitudes, emociones, trabajo en equipo, gestión del error… |
-
-**Grandes ideas** (patrones, modelo, variable, relaciones y funciones, movimientos y transformaciones, distribución, incertidumbre, magnitud…) vertebrán la continuidad entre cursos y las conexiones intramatemáticas.
 
 **Pensamiento computacional** aparece integrado (especialmente en CE.M.4 y en orientaciones).
 
 ---
 
-## Parte H · Situaciones de aprendizaje y orientaciones didácticas
+## Parte H · Situaciones de aprendizaje
 
-**Situación de aprendizaje**: situación compleja y abierta, contextualizada, que moviliza saberes de uno o varios sentidos y permite evidenciar el desempeño de una o varias competencias específicas.
+Contextos en los que el alumnado moviliza competencias y saberes. No son un adorno: son el **formato preferente** para diseñar la actividad de aula alineada con LOMLOE.
 
-Características deseables:
-- Parten de un problema o reto con sentido.
-- Exigen matematización (horizontal y, cuando proceda, vertical).
-- Admiten varias estrategias y representaciones.
-- Incluyen momentos de comunicación, argumentación y reflexión (también socioafectiva).
-- Son coherentes con el DUA (múltiples formas de acceso, expresión e implicación).
-
----
-
-## Parte I · Preceptivo vs margen docente
-
-| Preceptivo (norma) | Margen docente (diseño propio) |
-|--------------------|--------------------------------|
-| Competencias específicas y criterios de evaluación | Secuenciación día a día y temporalización fina |
+| Qué aporta la norma / el centro | Qué aporta el docente |
+|---------------------------------|------------------------|
 | Saberes básicos del curso / etapa | Contextos, ejemplos, materiales y herramientas concretas |
-| Evaluación criterial (evidencias alineadas con criterios) | Metodología concreta coherente con las orientaciones |
-| Atención a la diversidad (DUA, medidas de inclusión) | Agrupamientos, ritmos, tipología exacta de tareas |
-
-No se puede vaciar un sentido entero. Sí se puede decidir **cómo** trabajarlo y con qué énfasis relativo.
+| Orientaciones metodológicas | Secuencia de tareas, agrupamientos, evidencias |
 
 ---
 
-## Parte J · ESO vs Bachillerato (síntesis)
+## Parte I · ESO frente a Bachillerato (síntesis)
 
 | Aspecto | ESO | Bachillerato |
 |---------|-----|--------------|
-| Finalidad | Alfabetización matemática, itinerarios, perfil de salida | Preparación académica más específica según modalidad |
-| Formalización | Gradual; varios significados de los objetos | Mayor peso de la justificación simbólica y formal |
-| Materias | Matemáticas 1.º–3.º; 4.º A / B | Matemáticas I–II, Aplicadas a las CCSS I–II, Matemáticas Generales |
+| Competencias específicas | 10 (dos por eje) | Misma lógica de ejes; socioafectivo en una CE |
 | Socioafectivo | Explícito (dos CE) | Presente (una CE); más peso formal en muchas tareas |
-| Situaciones de aprendizaje | Eje central del diseño | También, con mayor exigencia de modelización y prueba |
+| Saberes | Sentidos adaptados a la etapa | Mayor formalización y profundidad |
 
 ---
 
-## Parte K · Orientaciones metodológicas (síntesis práctica)
+## Parte J · Implicaciones para programar Matemáticas
 
-- Situaciones de aprendizaje como unidad de diseño.
 - Resolución de problemas como eje (no solo aplicación final).
-- Variedad de representaciones y conversiones entre ellas.
-- Herramientas digitales pertinentes al servicio de la comprensión, no como fin.
-- Trabajo individual y cooperativo; roles en equipos heterogéneos.
+- Criterios de evaluación visibles en las tareas.
+- Saberes por sentidos, no solo por capítulos del libro.
+- Representaciones múltiples y comunicación matemática.
 - Error como oportunidad de aprendizaje (eje socioafectivo).
-- Atención a la diversidad desde el DUA.
-
-Ver también: [DUA](../../procesos-y-contextos-educativos/materiales/dua-diseno-universal-aprendizaje.md).
+- Conexiones intramatemáticas e interdisciplinares planificadas.
 
 ---
 
-## Glosario rápido
+## Autoevaluación rápida
 
-**Perfil de salida** · **Competencia clave** · **Descriptor operativo** · **Competencia específica** · **Criterio de evaluación** · **Saber básico** · **Sentido matemático** · **Situación de aprendizaje** · **DUA** · **Matematización horizontal / vertical (Freudenthal)** · **Elemento preceptivo / margen docente** · **Pensamiento computacional**
-
----
-
-## Dudas frecuentes
-
-1. ¿Saberes = temario a «dar» entero? → No: se movilizan para **competencias**.  
-2. ¿Solo examen algorítmico? → Insuficiente para muchos criterios.  
+1. ¿Competencia específica = objetivo de unidad del libro? → No: desempeño más amplio, anclado en criterios.  
+2. ¿Los saberes sustituyen a las competencias? → No: son el “con qué”; las CE son el “para qué desempeñar”.  
 3. ¿Socioafectivo = test de personalidad? → No: conductas de aprendizaje observables y actitudes matemáticas.  
-4. ¿Misma competencia en todas las CCAA? → Base estatal común; criterios y saberes se concretan en la autonomía.  
-5. ¿A vs B en 4.º? → Mismo marco competencial, distinto énfasis y saberes.  
-6. ¿GeoGebra «quita» mates? → No si el criterio exige interpretación, estrategia y argumentación.  
-7. ¿Han «eliminado» la regla de tres o el cálculo mental? → Ver [material de evolución de contenidos](../materiales/contenidos-eliminados-trasladados-evolucion-curricular.md).
-
----
-
-## Tarea del bloque
-
-1. Elige una competencia específica en tu normativa autonómica.  
-2. Copia dos criterios asociados.  
-3. Selecciona saberes de al menos dos sentidos.  
-4. Diseña una situación de aprendizaje breve (contexto, pregunta/reto, posibles estrategias, evidencias).  
-5. Marca qué es preceptivo y qué decides tú.
+4. Nombra los cinco ejes y un ejemplo de tarea para cada uno.
 
 ---
 
 ## Material relacionado
 
-- **[Contenidos eliminados, trasladados y simplificados](../materiales/contenidos-eliminados-trasladados-evolucion-curricular.md)**
-- **[DUA](../../procesos-y-contextos-educativos/materiales/dua-diseno-universal-aprendizaje.md)**
-- [01 — Finalidades](01-finalidades-ensenanza-matematicas.md)
-- [02 — Evolución curricular y normativa](02-evolucion-curricular-y-normativa.md)
-- [04 — Programación didáctica](04-programacion-didactica.md)
-- [Asignaturas ESO/Bachillerato](../materiales/asignaturas-eso-bachillerato/)
-- [Mapa competencias–criterios](../materiales/curriculo-lomloe/)
-- [Temarios Matemáticas Aragón](../materiales/temarios-matematicas-aragon/)
-- [Programa de la asignatura](../programa.md)
-
----
-
-*Apunte actualizado: marco normativo de Aragón a septiembre 2026; enlaces internos corregidos.*
+- [04 — Programación didáctica](04-programacion-didactica.md)  
+- [02 — Evolución curricular y normativa](02-evolucion-curricular-y-normativa.md)  
+- Temarios Aragón: `materiales/temarios-matematicas-aragon/`
