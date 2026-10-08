@@ -11,4 +11,4 @@ Tras la actualización de la [bibliografía](../bibliografia.md) del programa, s
 | [06 — Reto educativo](06-educacion-emocional-reto-educativo.md) | Bisquerra; Álvarez (2001); Teruel (2000, 2005); Durlak et al. (2011) |
 | [09 — Salud del profesorado](09-emociones-salud-profesorado.md) | Hué (2008); Marchesi & Díaz; Extremera; Darder; Izquierdo |
 
-**Criterio:** no se volcó la lista completa de ~70 títulos del programa (incluye autoayuda, Brain Gym, obras sin datos bibliográficos, etc.); solo lo **académicamente prioritario** y alineado con cada tema. Detalle y exclusiones: [bibliografia.md §3](../bibliografia.md).
+**Criterio:** no se volcó la lista completa de ~70 títulos del programa; solo lo **académicamente prioritario** y alineado con cada tema. Detalle: [bibliografia.md §3](../bibliografia.md).
