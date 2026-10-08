@@ -94,6 +94,17 @@ Reconociendo la carga, protegiendo lo controlable (diseño de tareas, límites, 
 
 ---
 
+## Referencias clave de este tema
+
+- **Lyubomirsky, S., Sheldon, K. M., & Schkade, D. (2005).** Pursuing happiness: The architecture of sustainable change. *Review of General Psychology, 9*(2), 111–131. — Base empírica del bienestar sostenible (frente a autoayuda genérica).
+- **Csikszentmihalyi, M. (1997).** *Fluir (flow)*. Kairós. — Experiencia óptima; posible puente con engagement en tareas exigentes.
+- **Fernández-Abascal, E. G. (Coord.) (2008).** *Emociones positivas*. Pirámide.
+- **Oliva Delgado, A. (Coord.) (2015).** *Desarrollo positivo adolescente*. Síntesis.
+
+[Bibliografía de la asignatura](../bibliografia.md).
+
+---
+
 ## Para seguir
 
 - [Tema 5 — Emoción y motivación](05-emocion-y-motivacion.md)  

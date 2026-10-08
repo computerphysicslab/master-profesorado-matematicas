@@ -96,6 +96,18 @@ Cuando la situación supera las herramientas ordinarias de aula, cuando hay ries
 
 ---
 
+## Referencias clave de este tema
+
+- **Hué García, C. (2008).** *Bienestar docente y pensamiento emocional*. Wolters Kluwer.
+- **Marchesi, A., & Díaz, T. (2007).** *Las emociones y los valores del profesorado*. Fundación Santa María.
+- **Extremera, N., & Fernández-Berrocal, P.** — línea de investigación IE percibida, burnout y clima emocional (ver *Inteligencia emocional y educación*, 2015).
+- **Darder Vidal, P. (coord.) et al.** *La formación emocional del profesorado* — [PDF abierto](../../../09-bibliografia/educacion-emocional/darder-formacion-emocional-profesorado.md).
+- **Izquierdo, A.** *Competencias socioemocionales para el bienestar del profesorado* — [ficha](../../../09-bibliografia/educacion-emocional/izquierdo-competencias-socioemocionales-profesorado.md).
+
+[Bibliografía completa](../bibliografia.md) · [Estrés y gestión emocional](estres-impacto-y-gestion-emocional.md).
+
+---
+
 ## Para seguir
 
 - [Estrés: impacto y gestión emocional](estres-impacto-y-gestion-emocional.md)  

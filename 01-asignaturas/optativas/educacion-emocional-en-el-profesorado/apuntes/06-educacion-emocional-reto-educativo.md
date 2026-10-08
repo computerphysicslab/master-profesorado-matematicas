@@ -85,6 +85,18 @@ Integrar el sentido socioafectivo en el **diseño de tareas, el feedback y las n
 
 ---
 
+## Referencias clave de este tema
+
+- **Bisquerra Alzina, R.** *Educación emocional y bienestar*; *Orientación, tutoría y educación emocional* (2012).
+- **Álvarez, M. (2001).** *Diseño y evaluación de programas de educación emocional*. Ciss-Praxis.
+- **Teruel, M. P. (2000).** La IE en el currículo de la formación inicial de los maestros. *Revista Interuniversitaria de Formación del Profesorado, 38*, 141–152.
+- **Teruel, M. P. (Coord.) (2005).** Monografía «Educación emocional». *Revista Interuniversitaria de Formación del Profesorado, 19*(3). — Incluye precisiones de Marina y experiencias de programa (Obiols).
+- **Durlak, J. A. et al. (2011).** Metaanálisis SEL. *Child Development, 82*(1), 405–432. https://doi.org/10.1111/j.1467-8624.2010.01564.x
+
+[Bibliografía](../bibliografia.md).
+
+---
+
 ## Para seguir
 
 - [Tema 5](05-emocion-y-motivacion.md) · [Tema 7 — Neuroeducación](07-neuroeducacion-precauciones.md)  
