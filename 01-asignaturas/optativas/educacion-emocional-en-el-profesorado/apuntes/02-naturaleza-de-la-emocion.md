@@ -122,7 +122,7 @@ El docente puede observar indicios de emoción colectiva (susurros, risas nervio
 
 Hablar de la **naturaleza** de la emoción no basta para el oficio docente: hace falta conectar emoción con **competencia**. La inteligencia emocional (IE) es el puente: de «qué me pasa» a «qué puedo hacer con lo que me pasa (y con lo que les pasa a otros)».
 
-En el [Tema 1](01-inteligencia-emocional-contexto.md) se introduce el contraste habilidad vs. modelos mixtos. Aquí se amplía con **Bar-On** y se sitúa a **Bisquerra** como giro hacia el lenguaje educativo.
+En el [Tema 1](01-inteligencia-emocional-contexto.md) se introduce el contraste habilidad vs. modelos mixtos. Aquí se amplía con **Bar-On**, se incorpora la **alfabetización emocional** de **Steiner** y se sitúa a **Bisquerra** como giro hacia el lenguaje educativo.
 
 ### 5.1. Salovey y Mayer: modelo de habilidad
 
@@ -165,7 +165,25 @@ Instrumento asociado clásico: **EQ-i** (Emotional Quotient Inventory).
 
 **Idea para Matemáticas (sin convertir Bar-On en didáctica de la materia):** dos alumnos con la misma capacidad cognitiva pueden diferir en adaptabilidad, manejo del estrés u optimismo. Eso ayuda a leer la **persistencia** ante tareas exigentes, no a etiquetar «quién tiene más IE».
 
-### 5.4. Bisquerra: de la IE popular a la educación emocional
+### 5.4. Steiner: alfabetización emocional
+
+**Claude Steiner** (Análisis Transaccional) popularizó el término **emotional literacy** (*alfabetización emocional*): no un cociente medible, sino un conjunto de habilidades **relacionales** centradas en el corazón («intelligence with a heart»). Define la alfabetización emocional como la capacidad de comprender las propias emociones, escuchar y empatizar con las de otros, y expresarlas de forma productiva, de modo que mejoren las relaciones y el poder personal sin abusar del ajeno.
+
+Steiner descompone la alfabetización emocional en cinco componentes (síntesis habitual):
+
+| # | Componente | Idea | Ejemplo breve en el aula |
+|---|------------|------|--------------------------|
+| 1 | **Conocer los propios sentimientos** | Nombrar qué se siente y con qué intensidad | «Estoy frustrado (bastante), no solo “mal”» |
+| 2 | **Empatía** | Percibir y resonar con lo que siente el otro | Notar que un compañero se ha cerrado tras un error público |
+| 3 | **Gestionar las propias emociones** | Modular sin reprimir ni descargar sobre otros | Pausar antes de responder con ironía a una pregunta reiterada |
+| 4 | **Reparar problemas emocionales** | Disculparse, aclarar, restaurar el vínculo tras un daño | Pedir perdón por una corrección humillante y rehacer el clima |
+| 5 | **Interactividad emocional** | Integrar lo anterior en el diálogo real | Conversación breve post-conflicto que permite volver a la tarea |
+
+**Por qué interesa en educación (y no solo en terapia):** el acento en *expresar con responsabilidad*, *reparar* y *interactividad* conecta directamente con convivencia, mediación y clima de aula. El matiz importante respecto a Salovey–Mayer es el origen: Steiner viene del **Análisis Transaccional** y del trabajo con *strokes* (unidades de reconocimiento interpersonal), no de la psicometría de la inteligencia. Respecto a Goleman, comparte el lenguaje de competencias, pero insiste más en el **vínculo** y en la reparación tras el daño emocional.
+
+En el máster se usa como **vocabulario complementario** (alfabetización / reparación / interactividad), no como instrumento de medida ni como sustituto del modelo de habilidad o del pentagonal de Bisquerra.
+
+### 5.5. Bisquerra: de la IE popular a la educación emocional
 
 En el ámbito hispanohablante, **Rafael Bisquerra** (y colaboradores) representan una **evolución del discurso de Goleman hacia el mundo educativo**:
 
@@ -178,20 +196,20 @@ En el ámbito hispanohablante, **Rafael Bisquerra** (y colaboradores) representa
 
 No se trata de que Bisquerra «sustituya» a Goleman, sino de que en el máster el marco operativo suele ser el de **competencias emocionales** y educación emocional (Bisquerra / CASEL), no el de un cociente emocional fijo. El detalle del modelo pentagonal y los instrumentos se desarrolla en el [Tema 3](03-competencias-emocionales-instrumentos.md).
 
-### 5.5. Comparación de modelos
+### 5.6. Comparación de modelos
 
-| | **Salovey–Mayer** | **Goleman** | **Bar-On** | **Bisquerra (educativo)** |
-|---|-------------------|-------------|------------|---------------------------|
-| **Naturaleza** | Habilidad | Mixto / competencias | Mixto / socioemocional | Competencias emocionales + educación emocional |
-| **Núcleo** | Procesar información emocional | Competencias aplicadas al comportamiento | Funcionamiento emocional-social ante demandas del entorno | Entrenar competencias en contextos educativos |
-| Autoconocimiento / conciencia | ✓ | ✓ | ✓ (intrapersonal) | ✓ |
-| Empatía / interpersonal | ✓ | ✓ | ✓ | ✓ |
-| Regulación | ✓ | ✓ | ✓ (manejo del estrés) | ✓ |
-| Adaptabilidad | — (implícita) | ✓ | ✓ | vía competencias de vida |
-| Optimismo / estado de ánimo | — | ✓ | ✓ | bienestar |
-| Instrumento asociado | MSCEIT | Modelos de competencias | EQ-i | Programas, rúbricas, autoinformes formativos (p. ej. TMMS-24) |
+| | **Salovey–Mayer** | **Goleman** | **Bar-On** | **Steiner** | **Bisquerra (educativo)** |
+|---|-------------------|-------------|------------|-------------|---------------------------|
+| **Naturaleza** | Habilidad | Mixto / competencias | Mixto / socioemocional | Alfabetización emocional (relacional) | Competencias + educación emocional |
+| **Núcleo** | Procesar información emocional | Competencias de comportamiento | Afrontar demandas del entorno | Vínculo, expresión responsable, reparación | Entrenar competencias en la escuela |
+| Autoconocimiento | ✓ | ✓ | ✓ | ✓ (conocer sentimientos) | ✓ |
+| Empatía | ✓ | ✓ | ✓ | ✓ (central) | ✓ |
+| Regulación / gestión | ✓ | ✓ | ✓ | ✓ | ✓ |
+| Reparación / interactividad | — | parcial | — | ✓ (explícita) | vía convivencia y programas |
+| Adaptabilidad / estrés | — | ✓ | ✓ | — | vía vida y bienestar |
+| Origen / instrumento | MSCEIT | Modelos de competencias | EQ-i | Análisis Transaccional; ejercicios de *strokes* | Programas, rúbricas, TMMS-24 |
 
-**Precisión conceptual:** percibir, comprender y regular emociones (Salovey–Mayer) **no es lo mismo** que poseer un paquete amplio de competencias, disposiciones y estilos de afrontamiento (Bar-On, Goleman). En el aula conviene no mezclar «el alumno no nombra bien lo que siente» con «el alumno no es optimista».
+**Precisión conceptual:** percibir, comprender y regular emociones (Salovey–Mayer) **no es lo mismo** que poseer un paquete amplio de competencias y disposiciones (Bar-On, Goleman) ni que practicar la **reparación del vínculo** (Steiner). En el aula conviene no mezclar «el alumno no nombra bien lo que siente» con «el alumno no es optimista» ni con «el grupo no sabe restaurar el clima tras un conflicto».
 
 ---
 
@@ -317,7 +335,7 @@ Como **patrones observables** ligados a la tarea y a la evaluación: abandono, e
 ## 12. Para seguir
 
 - **Estrés (tema completo):** [estres-impacto-y-gestion-emocional.md](estres-impacto-y-gestion-emocional.md)  
-- Glosario: *emoción*, *eustrés*, *distrés*, *frustración*, *ansiedad matemática*, *regulación emocional*, *emociones básicas (Ekman)*, *IE (modelos)*.  
+- Glosario: *emoción*, *eustrés*, *distrés*, *frustración*, *ansiedad matemática*, *regulación emocional*, *emociones básicas (Ekman)*, *IE (modelos)*, *alfabetización emocional*.  
 - Apunte anterior: [01 — Inteligencia emocional](01-inteligencia-emocional-contexto.md).  
 - Siguiente: [03 — Competencias emocionales e instrumentos](03-competencias-emocionales-instrumentos.md) (pentagonal, CASEL, TMMS-24).
 
@@ -329,7 +347,7 @@ Como **patrones observables** ligados a la tarea y a la evaluación: abandono, e
 2. ¿Por qué no conviene eliminar toda activación emocional en una clase exigente?  
 3. Propón dos cambios de diseño de actividad que reduzcan distrés sin bajar el nivel matemático.  
 4. Recuerda las 6 emociones básicas de Ekman con la regla nemotécnica de emojis.  
-5. **(Nueva)** Sitúa en una frase cada modelo: Salovey–Mayer, Goleman, Bar-On y el giro de Bisquerra hacia la educación emocional.  
+5. **(Nueva)** Sitúa en una frase cada enfoque: Salovey–Mayer, Goleman, Bar-On, Steiner (alfabetización emocional) y el giro de Bisquerra hacia la educación emocional.  
 6. **(Nueva)** ¿En qué se diferencia *regulación* de *supresión*? Pon un ejemplo matemático de regulación adaptativa.
 
 ---
@@ -343,6 +361,7 @@ Como **patrones observables** ligados a la tarea y a la evaluación: abandono, e
 - **Pérez, M. A., Redondo, M. M., & León, L. (2008).** Aproximaciones a la emoción de la ira. *REME, 6*(28).
 - **Mayer, J. D., & Salovey, P. (1997).** What is emotional intelligence? — Modelo de habilidad (enlace con §5.1 y Tema 1).
 - **Bar-On, R.** Modelo de inteligencia emocional-social (dimensiones intrapersonal, interpersonal, adaptabilidad, estrés, estado de ánimo); instrumento EQ-i.
+- **Steiner, C.** *Emotional Literacy* / alfabetización emocional (Análisis Transaccional): conocer sentimientos, empatía, gestión, reparación, interactividad.
 - **Bisquerra Alzina, R.** *Educación emocional y bienestar* / *Psicopedagogía de las emociones*. — Giro educativo desde la IE popular hacia competencias y programas.
 - **Goleman, D. (1996).** *Inteligencia emocional*. Kairós. — Modelo mixto de competencias (contraste, no medida primaria).
 
