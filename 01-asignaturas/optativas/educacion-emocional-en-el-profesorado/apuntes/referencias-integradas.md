@@ -1,10 +1,10 @@
 # Referencias integradas en los apuntes (Educación emocional)
 
-Tras la actualización de la [bibliografía](../bibliografia.md) del programa, se añadieron bloques **Referencias clave de este tema** (o fichas hermanas) en:
+Tras la actualización de la [bibliografía](../bibliografia.md) del programa, se añadieron bloques **Referencias clave de este tema** al final de cada apunte:
 
 | Apunte | Referencias destacadas |
 |--------|------------------------|
-| [01 — IE y contexto](01-inteligencia-emocional-contexto.md) · [ficha refs](01-referencias.md) | Mayer & Salovey (1997); Manual IE; Extremera & FB (2015); Bisquerra; Goleman (contraste) |
+| [01 — IE y contexto](01-inteligencia-emocional-contexto.md) | Mayer & Salovey (1997); Manual IE; Extremera & FB (2015); Bisquerra; Goleman (contraste) |
 | [02 — Naturaleza de la emoción](02-naturaleza-de-la-emocion.md) | Damasio; Feldman Barrett; Fernández-Abascal; ira (Herrero, Pérez et al.) |
 | [03 — Competencias e instrumentos](03-competencias-emocionales-instrumentos.md) | Bisquerra & Pérez; Extremera (evaluación); INTEMO+; Martín et al. |
 | [04 — Psicología positiva](04-psicologia-positiva-bienestar.md) | Lyubomirsky et al. (2005); Csikszentmihalyi; Oliva (2015) |
