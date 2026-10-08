@@ -1,6 +1,6 @@
 # Banco de preguntas — Sociedad, familia y procesos grupales
 
-Apuntes: [Tema 1](../apuntes/Tema1_El_aula_como_grupo.md) · [Tema 2](../apuntes/Tema2_Relaciones_de_poder_en_el_aula.md).
+Apuntes: [Tema 1](../apuntes/Tema1_El_aula_como_grupo.md) · [Tema 2](../apuntes/Tema2_Relaciones_de_poder_en_el_aula.md) · [Tema 3](../apuntes/Tema3_Interaccion_y_comunicacion_en_el_aula.md).
 
 ---
 
@@ -39,11 +39,28 @@ Apuntes: [Tema 1](../apuntes/Tema1_El_aula_como_grupo.md) · [Tema 2](../apuntes
 
 ---
 
+## Tema 3 — Interacción y comunicación en el aula
+
+26. Explica los **elementos** de la comunicación y aplícalos a una escena de clase de Matemáticas.
+27. Describe las **fases** del ciclo comunicativo e indica en cuál se rompe típicamente una consigna ambigua.
+28. ¿Quiénes son los **agentes** de la comunicación en el aula? ¿Puede el material (pizarra, applet) actuar como emisor?
+29. Tipos de **ruido** en el aula de mates (físico, semántico, psicológico, social, representacional): un ejemplo de cada uno.
+30. Patrón **IRF**: qué es; diferencia entre IRF cerrado y diálogo exploratorio.
+31. Interacción **profesor–alumno**: tiempo de espera y comunicación del error.
+32. Interacción **entre alumnos**: habla acumulativa, disputativa y exploratoria.
+33. Redes de comunicación **centralizada** vs **descentralizada**: efecto en la participación.
+34. **Participación social**: formas que no son solo “hablar en voz alta”.
+35. ¿Qué actos comunicativos hacen falta para que haya **cooperación** real (no solo sentarse juntos)?
+36. Relación entre **convivencia** y actos comunicativos cotidianos: dos ejemplos que deterioran y dos que sostienen.
+37. Caso integrado: analiza con elementos, fases y agentes una secuencia IRF de proporcionalidad y propone un ajuste.
+
+---
+
 ## Transversales
 
-26. Capital cultural (Bourdieu) y Matemáticas.
-27. Igualdad vs equidad.
-28. Comunicación con familias: límites del rol docente.
+38. Capital cultural (Bourdieu) y Matemáticas.
+39. Igualdad vs equidad.
+40. Comunicación con familias: límites del rol docente.
 
 ---
 
