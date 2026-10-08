@@ -251,22 +251,12 @@ En la práctica: notar → nombrar con mesura → regular la propia respuesta �
 |----------|----------------------|------------------|
 | «Tener alta IE significa no enfadarse nunca en clase.» | Falso. La regulación no es represión sistemática. | Notar la ira (o la frustración) y **elegir** la respuesta: tono, tiempo, sanción proporcional, no el grito automático. |
 | «Si el alumno se frustra, hay que “arreglarle” la emoción antes de seguir.» | Confunde contención breve con terapia. | Validación mínima + retorno a la tarea + apoyo académico concreto; derivación si el malestar es persistente o de riesgo. |
-| «La IE del profesor sustituye las normas y el diseño de la clase.» | Psicologiza problemas de estructura. | Las normas claras y las tareas bien diseñadas *reducen* la carga emocional; la IE no las reemplaza. |
-| «Hablar de emociones en mates es “perder el tiempo de contenidos”.» | Falso si se hace con límites. | Un minuto de regulación y un clima seguro suelen recuperar más tiempo de aprendizaje del que “gastan”. |
-| «Si el alumno expresa emociones en redes, ya “trabaja” su IE.» | Confunde expresión con competencia (e-COM). | Expresar online ≠ percibir, comprender ni regular; hace falta entrenar las e-competencias. |
+| «La IE del profesor sustituye las normas y el diseño de la clase.» | Falso. | La IE orienta el *cómo* se aplican normas y se diseñan tareas; no las reemplaza. |
+| «Hablar de emociones en redes ya es competencia emocional.» | Falso (e-COM). | Expresar ≠ percibir, comprender ni regular. |
 
 ---
 
-## 9. Para seguir
-
-- Glosario: *inteligencia emocional*, *educación emocional*, *competencia emocional*, *SEL*, *regulación emocional*, *e-COM*, *emociones básicas (Ekman)* → [glosario.md](../glosario.md).  
-- Lecturas prioritarias: Darder et al. (*La formación emocional del profesorado*); guía CASEL / Save the Children; marco de competencias de Bisquerra y Pérez; Cebollero et al. (2022) sobre e-COM. Detalle y enlaces: [bibliografia.md](../bibliografia.md).  
-- Ficha e-COM y TRUST: [materiales/03-competencias-socioemocionales.md](../materiales/03-competencias-socioemocionales.md).  
-- Siguiente apunte: [02 — Naturaleza de la emoción](02-naturaleza-de-la-emocion.md) (emociones secundarias, colectivas, frustración y ansiedad matemática).
-
----
-
-## 10. Preguntas de autoevaluación
+## 9. Preguntas de autoevaluación
 
 Las preguntas no buscan una respuesta única; orientan un criterio profesional. Debajo de cada una, un **esquema de respuesta sólida** (rúbrica breve).
 
@@ -284,3 +274,15 @@ Las preguntas no buscan una respuesta única; orientan un criterio profesional. 
 
 **5.** ¿Qué implica el hallazgo de e-COM «expresar ≠ competencia» para el trabajo emocional con adolescentes?  
 - *Respuesta sólida:* Que publicar o verbalizar emociones en redes no garantiza percibirlas, comprenderlas ni regularlas. La educación emocional digital debe entrenar las cinco e-competencias (conciencia, regulación, autocontrol, autonomía, competencia social), no limitarse a «hablar de sentimientos» online.
+
+---
+
+## Referencias clave de este tema
+
+- **Mayer, J. D., & Salovey, P. (1997).** What is emotional intelligence? En Salovey & Sluyter (Eds.), *Emotional development and emotional intelligence*. Basic Books. — Definición del **modelo de habilidad**.
+- **Mestre, J. M., & Fernández-Berrocal, P. (Coords.) (2007).** *Manual de inteligencia emocional*. Pirámide.
+- **Extremera, N., & Fernández-Berrocal, P. (2015).** *Inteligencia emocional y educación*. Grupo 5.
+- **Bisquerra Alzina, R.** *Educación emocional y bienestar* / *Psicopedagogía de las emociones*. — Tradición hispánica de educación emocional.
+- **Goleman, D. (1996).** *Inteligencia emocional*. Kairós. — Impacto cultural; en este tema se usa como **contraste** (modelo mixto), no como medida de IE.
+
+Catálogo completo: [bibliografía de la asignatura](../bibliografia.md).
