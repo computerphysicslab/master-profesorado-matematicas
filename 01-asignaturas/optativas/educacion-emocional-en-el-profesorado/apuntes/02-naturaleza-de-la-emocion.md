@@ -47,6 +47,24 @@ Las emociones cumplen al menos cuatro funciones adaptativas:
 
 En el aula, reconocer estas funciones ayuda a no tratar toda emoción intensa como «problema» que hay que eliminar.
 
+### 3.2. Dinámica del proceso emocional
+
+El esquema breve que se usa más adelante (situación → interpretación → emoción → conducta) puede ampliarse para integrar valoración cognitiva, cuerpo y regulación:
+
+```text
+situación
+   → valoración cognitiva (Lazarus: ¿amenaza, daño, reto?)
+   → respuesta emocional (experiencia subjetiva)
+   → activación fisiológica
+   → tendencia a la acción
+   → conducta
+   → consecuencia
+   → regulación (propia o mediada)
+   → (retroalimentación sobre valoración y conducta futuras)
+```
+
+Esto permite ver la emoción **como proceso**, no solo como etiqueta: la misma situación (un problema de álgebra en la pizarra) puede valorarse como reto o como amenaza, y de ahí cambian la activación, la conducta y lo que el docente observa.
+
 ---
 
 ## 4. Emociones básicas y complejas
@@ -100,7 +118,128 @@ El docente puede observar indicios de emoción colectiva (susurros, risas nervio
 
 ---
 
-## 5. Eustrés y distrés
+## 5. Inteligencia emocional: de la emoción a la competencia
+
+Hablar de la **naturaleza** de la emoción no basta para el oficio docente: hace falta conectar emoción con **competencia**. La inteligencia emocional (IE) es el puente: de «qué me pasa» a «qué puedo hacer con lo que me pasa (y con lo que les pasa a otros)».
+
+En el [Tema 1](01-inteligencia-emocional-contexto.md) se introduce el contraste habilidad vs. modelos mixtos. Aquí se amplía con **Bar-On** y se sitúa a **Bisquerra** como giro hacia el lenguaje educativo.
+
+### 5.1. Salovey y Mayer: modelo de habilidad
+
+IE como **capacidad mental** para procesar información emocional:
+
+1. percibir emociones;  
+2. usarlas para facilitar el pensamiento;  
+3. comprenderlas (etiquetas, mezclas, evoluciones);  
+4. regularlas de forma adaptativa.
+
+Medición preferente: pruebas de **rendimiento** (p. ej. MSCEIT). Es el modelo más estrecho y más cercano a una «inteligencia» en sentido psicométrico.
+
+### 5.2. Goleman: modelo de competencias (mixto)
+
+Goleman popularizó la IE y la formuló como conjunto de **competencias emocionales y sociales** ligadas al comportamiento (autoconciencia, automotivación, empatía, habilidades sociales, etc.). Es un **modelo mixto**: mezcla habilidad, rasgos y conductas. Muy usable en formación, con el riesgo de que «IE» signifique casi cualquier cualidad deseable.
+
+### 5.3. Bar-On: inteligencia emocional-social
+
+Reuven **Bar-On** entiende la IE como un conjunto amplio de **competencias emocionales y sociales** que permiten afrontar con eficacia las demandas del entorno. También es un **modelo mixto** (más amplio que una capacidad cognitiva pura). Organiza la IE en cinco dimensiones:
+
+| Dimensión | ¿Qué incluye? | Ejemplo en ESO / Matemáticas |
+|-----------|---------------|------------------------------|
+| **1. Intrapersonal** | Autoconciencia, comprensión de las propias emociones, asertividad, independencia, autorrealización | El alumno reconoce que está frustrado porque no entiende el problema |
+| **2. Interpersonal** | Empatía, relaciones interpersonales, responsabilidad social | Escuchar a un compañero con dificultades; no ridiculizar el error ajeno |
+| **3. Adaptabilidad** | Resolución de problemas, prueba de realidad, flexibilidad | Cambiar de estrategia cuando un procedimiento no funciona |
+| **4. Manejo del estrés** | Tolerancia al estrés y control de impulsos | Mantener la calma ante un examen o un bloqueo |
+| **5. Estado de ánimo general** | Optimismo y felicidad | Mantener una actitud de «todavía no me sale» frente a «nunca me saldrá» |
+
+**Regla nemotécnica para el docente:**
+
+> **YO → LOS DEMÁS → SITUACIÓN → ESTRÉS → ACTITUD**
+
+- Intrapersonal: ¿qué me pasa a **mí**?  
+- Interpersonal: ¿qué les pasa a **los demás**?  
+- Adaptabilidad: ¿cómo me adapto a la **situación**?  
+- Estrés: ¿cómo controlo la **presión**?  
+- Estado de ánimo: ¿con qué **actitud** afronto lo que ocurre?
+
+Instrumento asociado clásico: **EQ-i** (Emotional Quotient Inventory).
+
+**Idea para Matemáticas (sin convertir Bar-On en didáctica de la materia):** dos alumnos con la misma capacidad cognitiva pueden diferir en adaptabilidad, manejo del estrés u optimismo. Eso ayuda a leer la **persistencia** ante tareas exigentes, no a etiquetar «quién tiene más IE».
+
+### 5.4. Bisquerra: de la IE popular a la educación emocional
+
+En el ámbito hispanohablante, **Rafael Bisquerra** (y colaboradores) representan una **evolución del discurso de Goleman hacia el mundo educativo**:
+
+| Goleman (impacto cultural) | Bisquerra (tradición educativa) |
+|----------------------------|----------------------------------|
+| IE como conjunto de competencias sociales y emocionales | **Educación emocional** como proceso educativo intencional |
+| Lenguaje de organizaciones y liderazgo | Lenguaje de **competencias emocionales** entrenables en la escuela |
+| Riesgo de «CI emocional» vago | Modelo **pentagonal** (conciencia, regulación, autonomía, competencia social, vida y bienestar) |
+| Poco anclado en programas escolares | Orientación, tutoría, diseño y evaluación de **programas** de EE |
+
+No se trata de que Bisquerra «sustituya» a Goleman, sino de que en el máster el marco operativo suele ser el de **competencias emocionales** y educación emocional (Bisquerra / CASEL), no el de un cociente emocional fijo. El detalle del modelo pentagonal y los instrumentos se desarrolla en el [Tema 3](03-competencias-emocionales-instrumentos.md).
+
+### 5.5. Comparación de modelos
+
+| | **Salovey–Mayer** | **Goleman** | **Bar-On** | **Bisquerra (educativo)** |
+|---|-------------------|-------------|------------|---------------------------|
+| **Naturaleza** | Habilidad | Mixto / competencias | Mixto / socioemocional | Competencias emocionales + educación emocional |
+| **Núcleo** | Procesar información emocional | Competencias aplicadas al comportamiento | Funcionamiento emocional-social ante demandas del entorno | Entrenar competencias en contextos educativos |
+| Autoconocimiento / conciencia | ✓ | ✓ | ✓ (intrapersonal) | ✓ |
+| Empatía / interpersonal | ✓ | ✓ | ✓ | ✓ |
+| Regulación | ✓ | ✓ | ✓ (manejo del estrés) | ✓ |
+| Adaptabilidad | — (implícita) | ✓ | ✓ | vía competencias de vida |
+| Optimismo / estado de ánimo | — | ✓ | ✓ | bienestar |
+| Instrumento asociado | MSCEIT | Modelos de competencias | EQ-i | Programas, rúbricas, autoinformes formativos (p. ej. TMMS-24) |
+
+**Precisión conceptual:** percibir, comprender y regular emociones (Salovey–Mayer) **no es lo mismo** que poseer un paquete amplio de competencias, disposiciones y estilos de afrontamiento (Bar-On, Goleman). En el aula conviene no mezclar «el alumno no nombra bien lo que siente» con «el alumno no es optimista».
+
+---
+
+## 6. Emoción, cognición y aprendizaje
+
+La emoción **no es lo contrario de la razón**. Para el profesor de Matemáticas esta idea es central: el bloqueo emocional no se «arregla» negando la emoción ni eliminando toda dificultad.
+
+### 6.1. Valoración cognitiva
+
+Según marcos como el de **Lazarus**, lo decisivo no es solo el estímulo, sino la **valoración** (¿es amenaza, daño o reto? ¿tengo recursos?). De ahí el puente con el modelo transaccional del estrés ([apunte de estrés](estres-impacto-y-gestion-emocional.md)).
+
+### 6.2. Emoción y memoria de trabajo
+
+Una activación **excesiva** (ansiedad intensa, vergüenza pública) puede interferir con la memoria de trabajo: el alumno «se queda en blanco» no solo por falta de estudio, sino porque la amenaza ocupa recursos cognitivos. Una activación **moderada** puede favorecer atención, esfuerzo y persistencia.
+
+### 6.3. Activación, rendimiento y aprendizaje
+
+| Nivel de activación | Efecto típico en la tarea matemática |
+|---------------------|--------------------------------------|
+| Muy bajo | Apatía, poco esfuerzo, abandono temprano |
+| Moderado (eustrés) | Atención, energía, disposición a intentar |
+| Muy alto (distrés) | Bloqueo, evitación, error por precipitación o por paralización |
+
+### 6.4. Esfuerzo, frustración y aprendizaje matemático
+
+El aprendizaje matemático **implica** cierta frustración: el problema debe resistirse un tiempo. La educación emocional en esta materia no apunta a alumnos permanentemente tranquilos y felices, sino a ayudarles a **reconocer y regular** sus estados para afrontar tareas cognitivamente exigentes.
+
+> **Objetivo pedagógico:** no eliminar la dificultad emocional del aprendizaje, sino impedir que se convierta en distrés crónico, autoetiqueta («no sirvo para mates») o abandono de la perseverancia.
+
+---
+
+## 7. Regulación emocional
+
+La regulación merece aparecer de forma **explícita** en la naturaleza de la emoción (no solo como consejo práctico al final).
+
+| Idea | Contenido |
+|------|-----------|
+| **Regulación ≠ supresión** | Modular intensidad y expresión no es «no sentir» |
+| **Secuencia orientativa** | Identificar → comprender → aceptar → modular → actuar |
+| **Estrategias** | Cognitivas (revaluación, descatastrofizar) y conductuales (pausa, pedir ayuda, cambiar de estrategia) |
+| **Adaptativa vs. evitación** | Regular para volver a la tarea ≠ evitar toda exposición difícil |
+| **Niveles** | Individual (el alumno se calma) e interpersonal (el docente o el grupo ayudan a desescalar) |
+
+En Matemáticas, la regulación adaptativa se parece más a: *«estoy bloqueado → respiro → pruebo otro procedimiento o un primer paso»* que a *«cierro el cuaderno y ya no miro el problema»*.
+
+---
+
+## 8. Eustrés y distrés
 
 No todo estrés es igual.
 
@@ -117,9 +256,9 @@ El objetivo educativo no es eliminar toda activación (a menudo el eustrés acom
 
 ---
 
-## 6. Frustración y ansiedad en la clase de Matemáticas
+## 9. Frustración y ansiedad en la clase de Matemáticas
 
-### 6.1. Frustración
+### 9.1. Frustración
 
 Aparece cuando se bloquea una meta: no se encuentra el camino del problema, la nota no llega, el ritmo del grupo apremia. Conductas observables frecuentes:
 
@@ -129,7 +268,7 @@ Aparece cuando se bloquea una meta: no se encuentra el camino del problema, la n
 
 **Lectura educativa:** la frustración es parte del aprendizaje matemático (el problema *debe* resistirse un tiempo). El trabajo docente es enseñar a **permanecer** ante la dificultad (primer paso, representación, estrategia alternativa) y poner límites si la frustración se traduce en agresión o disrupción.
 
-### 6.2. Ansiedad (y ansiedad matemática)
+### 9.2. Ansiedad (y ansiedad matemática)
 
 La ansiedad implica anticipación de amenaza, preocupación y activación fisiológica. La **ansiedad matemática** se asocia específicamente a situaciones de la materia y puede relacionarse de forma bidireccional con el rendimiento: las dificultades aumentan la ansiedad y la ansiedad dificulta recuperar lo aprendido.
 
@@ -143,20 +282,20 @@ Manifestaciones posibles en clase:
 
 **Importante:** observar estas señales **no** autoriza a diagnosticar un trastorno de ansiedad. Sí autoriza a ajustar la metodología (andamiaje, exposición gradual, clima ante el error) y a informar a tutoría/orientación si el patrón es intenso o persistente.
 
-### 6.3. Secuencia útil para el docente
+### 9.3. Secuencia situación → valoración → emoción → conducta
 
 ```text
-situación → interpretación del alumno → emoción → conducta → consecuencia
+situación → valoración cognitiva → emoción → conducta → consecuencia
 ```
 
 Ejemplo:  
-*Pedir salir a la pizarra* → «todos verán que no sé» → ansiedad/vergüenza → rechazo o provocación → se evita la tarea (refuerzo a corto plazo de la evitación).
+*Pedir salir a la pizarra* → «todos verán que no sé» (amenaza) → ansiedad/vergüenza → rechazo o provocación → se evita la tarea (refuerzo a corto plazo de la evitación).
 
-Intervenir solo sobre la conducta final («obedece») sin tocar la exposición pública o el clima de burla suele ser poco eficaz a medio plazo.
+Intervenir solo sobre la conducta final («obedece») sin tocar la exposición pública o el clima de burla suele ser poco eficaz a medio plazo. La secuencia ampliada del §3.2 añade activación fisiológica, tendencia a la acción y **regulación**.
 
 ---
 
-## 7. Qué puede hacer el profesor (sin ser clínico)
+## 10. Qué puede hacer el profesor (sin ser clínico)
 
 1. **Nombrar sin dramatizar:** «Es normal bloquearse un rato; vamos a buscar un primer paso.»  
 2. **Separar emoción y norma:** el malestar es legítimo; insultar o impedir el trabajo de otros no lo es.  
@@ -167,20 +306,20 @@ Intervenir solo sobre la conducta final («obedece») sin tocar la exposición p
 
 ---
 
-## 8. Respuesta a la pregunta guía
+## 11. Respuesta a la pregunta guía
 
 > *¿Cómo se manifiesta la frustración o la ansiedad en una clase de Matemáticas?*
 
-Como **patrones observables** ligados a la tarea y a la evaluación: abandono, evitación de la exposición, bloqueo en pruebas, autoetiquetas negativas, irritabilidad ante el anuncio de examen o reacciones desproporcionadas a la corrección. La respuesta profesional combina exigencia académica, reducción de amenaza innecesaria y límites claros de convivencia.
+Como **patrones observables** ligados a la tarea y a la evaluación: abandono, evitación de la exposición, bloqueo en pruebas, autoetiquetas negativas, irritabilidad ante el anuncio de examen o reacciones desproporcionadas a la corrección. Detrás hay valoración cognitiva, activación y (a menudo) fallos de regulación o de clima. La respuesta profesional combina exigencia académica, reducción de amenaza innecesaria y límites claros de convivencia — sin pretender diagnosticar ni «eliminar» toda emoción intensa.
 
 ---
 
-## 9. Para seguir
+## 12. Para seguir
 
 - **Estrés (tema completo):** [estres-impacto-y-gestion-emocional.md](estres-impacto-y-gestion-emocional.md)  
-- Glosario: *emoción*, *eustrés*, *distrés*, *frustración*, *ansiedad matemática*, *regulación emocional*, *emociones básicas (Ekman)*.  
+- Glosario: *emoción*, *eustrés*, *distrés*, *frustración*, *ansiedad matemática*, *regulación emocional*, *emociones básicas (Ekman)*, *IE (modelos)*.  
 - Apunte anterior: [01 — Inteligencia emocional](01-inteligencia-emocional-contexto.md).  
-- Siguiente: [03 — Competencias emocionales e instrumentos](03-competencias-emocionales-instrumentos.md).
+- Siguiente: [03 — Competencias emocionales e instrumentos](03-competencias-emocionales-instrumentos.md) (pentagonal, CASEL, TMMS-24).
 
 ---
 
@@ -189,7 +328,9 @@ Como **patrones observables** ligados a la tarea y a la evaluación: abandono, e
 1. Diferencia con un ejemplo de aula *emoción* y *estado de ánimo*.  
 2. ¿Por qué no conviene eliminar toda activación emocional en una clase exigente?  
 3. Propón dos cambios de diseño de actividad que reduzcan distrés sin bajar el nivel matemático.  
-4. Recuerda las 6 emociones básicas de Ekman con la regla nemotécnica de emojis.
+4. Recuerda las 6 emociones básicas de Ekman con la regla nemotécnica de emojis.  
+5. **(Nueva)** Sitúa en una frase cada modelo: Salovey–Mayer, Goleman, Bar-On y el giro de Bisquerra hacia la educación emocional.  
+6. **(Nueva)** ¿En qué se diferencia *regulación* de *supresión*? Pon un ejemplo matemático de regulación adaptativa.
 
 ---
 
@@ -200,5 +341,9 @@ Como **patrones observables** ligados a la tarea y a la evaluación: abandono, e
 - **Fernández-Abascal, E. G. (Coord.) (2008).** *Emociones positivas*. Pirámide.
 - **Herrero, N. (2011).** ¿Qué ocurre cuando nos enfadamos? *Mente y Cerebro, 47*. — Ira: lectura breve y accesible.
 - **Pérez, M. A., Redondo, M. M., & León, L. (2008).** Aproximaciones a la emoción de la ira. *REME, 6*(28).
+- **Mayer, J. D., & Salovey, P. (1997).** What is emotional intelligence? — Modelo de habilidad (enlace con §5.1 y Tema 1).
+- **Bar-On, R.** Modelo de inteligencia emocional-social (dimensiones intrapersonal, interpersonal, adaptabilidad, estrés, estado de ánimo); instrumento EQ-i.
+- **Bisquerra Alzina, R.** *Educación emocional y bienestar* / *Psicopedagogía de las emociones*. — Giro educativo desde la IE popular hacia competencias y programas.
+- **Goleman, D. (1996).** *Inteligencia emocional*. Kairós. — Modelo mixto de competencias (contraste, no medida primaria).
 
-Más en [bibliografía §2.4–2.6](../bibliografia.md).
+Más en [bibliografía §2](../bibliografia.md).
