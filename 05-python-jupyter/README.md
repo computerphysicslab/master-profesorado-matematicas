@@ -19,6 +19,7 @@ Laboratorio computacional para la **educación matemática** en Secundaria y Bac
 | [**Plantilla notebook**](jupyter/plantilla-notebook-escolar.ipynb) ([md](jupyter/plantilla-notebook-escolar.md)) | Predicción → modelo → código → interpretación |
 | [**Notebook tarifas / afín**](matematicas/tarifas-funcion-afin.ipynb) | [Unidad tarifas](../01-asignaturas/diseno-curricular-e-instruccional-de-matematicas/materiales/ejemplo-unidad-tarifas-exigencia-cognitiva.md) · [ficha](actividades/actividad-tarifas-python.md) |
 | [**Notebook perímetro–área**](matematicas/perimetro-area-rectangulos.ipynb) | [Unidad geometría](../01-asignaturas/diseno-curricular-e-instruccional-de-matematicas/materiales/ejemplo-unidad-geometria-perimetro-area.md) · [ficha](actividades/actividad-perimetro-area-python.md) |
+| [**Notebook estadística 1D**](matematicas/estadistica-unidimensional-tiempos.ipynb) | Media vs mediana y valor atípico · [ficha](actividades/actividad-estadistica-unidimensional-python.md) |
 
 ## Ejecutar en la nube (Google Colab)
 
@@ -29,8 +30,9 @@ Sin instalar nada: abre el notebook en Colab (cuenta de Google).
 | Plantilla escolar | [Abrir en Colab](https://colab.research.google.com/github/computerphysicslab/master-profesorado-matematicas/blob/main/05-python-jupyter/jupyter/plantilla-notebook-escolar.ipynb) |
 | Tarifas / función afín | [Abrir en Colab](https://colab.research.google.com/github/computerphysicslab/master-profesorado-matematicas/blob/main/05-python-jupyter/matematicas/tarifas-funcion-afin.ipynb) |
 | Perímetro–área | [Abrir en Colab](https://colab.research.google.com/github/computerphysicslab/master-profesorado-matematicas/blob/main/05-python-jupyter/matematicas/perimetro-area-rectangulos.ipynb) |
+| Estadística unidimensional | [Abrir en Colab](https://colab.research.google.com/github/computerphysicslab/master-profesorado-matematicas/blob/main/05-python-jupyter/matematicas/estadistica-unidimensional-tiempos.ipynb) |
 
-**En local:** JupyterLab, VS Code o `jupyter notebook` tras clonar el repo. Dependencias habituales: `numpy`, `matplotlib`.
+**En local:** JupyterLab, VS Code o `jupyter notebook` tras clonar el repo. Dependencias habituales: `numpy`, `matplotlib` (este notebook de estadística usa solo `statistics` + `matplotlib`).
 
 ## Carpetas
 

@@ -12,10 +12,11 @@ Recursos para integrar Python y Jupyter en la enseñanza de Matemáticas (ESO/Ba
 
 ## Matemáticas (notebooks)
 
-| Notebook | Objeto | Unidad del repo | Colab |
-|----------|--------|-----------------|-------|
+| Notebook | Objeto | Unidad / ficha | Colab |
+|----------|--------|----------------|-------|
 | [matematicas/tarifas-funcion-afin.ipynb](matematicas/tarifas-funcion-afin.ipynb) | Función afín / tarifas | [Unidad tarifas](../01-asignaturas/diseno-curricular-e-instruccional-de-matematicas/materiales/ejemplo-unidad-tarifas-exigencia-cognitiva.md) | [Abrir](https://colab.research.google.com/github/computerphysicslab/master-profesorado-matematicas/blob/main/05-python-jupyter/matematicas/tarifas-funcion-afin.ipynb) |
 | [matematicas/perimetro-area-rectangulos.ipynb](matematicas/perimetro-area-rectangulos.ipynb) | Perímetro–área / contraejemplo | [Unidad geometría](../01-asignaturas/diseno-curricular-e-instruccional-de-matematicas/materiales/ejemplo-unidad-geometria-perimetro-area.md) | [Abrir](https://colab.research.google.com/github/computerphysicslab/master-profesorado-matematicas/blob/main/05-python-jupyter/matematicas/perimetro-area-rectangulos.ipynb) |
+| [matematicas/estadistica-unidimensional-tiempos.ipynb](matematicas/estadistica-unidimensional-tiempos.ipynb) | Media, mediana, atípico | [Ficha de aula](actividades/actividad-estadistica-unidimensional-python.md) | [Abrir](https://colab.research.google.com/github/computerphysicslab/master-profesorado-matematicas/blob/main/05-python-jupyter/matematicas/estadistica-unidimensional-tiempos.ipynb) |
 
 ## Actividades de aula
 
@@ -23,6 +24,7 @@ Recursos para integrar Python y Jupyter en la enseñanza de Matemáticas (ESO/Ba
 |-------|-------------------|
 | [actividades/actividad-tarifas-python.md](actividades/actividad-tarifas-python.md) | tarifas-funcion-afin |
 | [actividades/actividad-perimetro-area-python.md](actividades/actividad-perimetro-area-python.md) | perimetro-area-rectangulos |
+| [actividades/actividad-estadistica-unidimensional-python.md](actividades/actividad-estadistica-unidimensional-python.md) | estadistica-unidimensional-tiempos |
 
 ## Bases técnicas (en construcción)
 
