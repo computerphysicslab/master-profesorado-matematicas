@@ -190,3 +190,15 @@ Como **patrones observables** ligados a la tarea y a la evaluación: abandono, e
 2. ¿Por qué no conviene eliminar toda activación emocional en una clase exigente?  
 3. Propón dos cambios de diseño de actividad que reduzcan distrés sin bajar el nivel matemático.  
 4. Recuerda las 6 emociones básicas de Ekman con la regla nemotécnica de emojis.
+
+---
+
+## Referencias clave de este tema
+
+- **Damasio, A. (1996).** *El error de Descartes*. Crítica. — Emoción, razón y marcador somático (con precaución frente a neuromitos de aula).
+- **Feldman Barrett, L.** *Cómo se construyen las emociones* (Paidós). — Emociones como construcciones; matiza listas fijas de emociones «básicas».
+- **Fernández-Abascal, E. G. (Coord.) (2008).** *Emociones positivas*. Pirámide.
+- **Herrero, N. (2011).** ¿Qué ocurre cuando nos enfadamos? *Mente y Cerebro, 47*. — Ira: lectura breve y accesible.
+- **Pérez, M. A., Redondo, M. M., & León, L. (2008).** Aproximaciones a la emoción de la ira. *REME, 6*(28).
+
+Más en [bibliografía §2.4–2.6](../bibliografia.md).
