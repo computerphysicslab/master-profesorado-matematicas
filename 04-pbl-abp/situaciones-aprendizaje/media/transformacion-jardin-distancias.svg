@@ -1,0 +1,53 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 420" font-family="Segoe UI, Helvetica, Arial, sans-serif">
+  <rect width="900" height="420" fill="#fff"/>
+  <text x="450" y="28" text-anchor="middle" font-size="16" font-weight="600" fill="#222">Transformación T: plano del jardín → plano de distancias</text>
+  <text x="450" y="48" text-anchor="middle" font-size="12" fill="#555">T(x,y) = (r, m) = (|z − R|, |z − M|) · no es un “plano bi-complejo”, sino ℝ² con región admisible</text>
+  <rect x="30" y="70" width="380" height="320" rx="8" fill="#fafafa" stroke="#ddd"/>
+  <text x="220" y="95" text-anchor="middle" font-size="14" font-weight="600" fill="#1a5276">Plano euclídeo (jardín)</text>
+  <line x1="100" y1="250" x2="340" y2="250" stroke="#888" stroke-width="1.5" stroke-dasharray="4 3"/>
+  <circle cx="140" cy="250" r="8" fill="#e74c3c"/>
+  <text x="140" y="275" text-anchor="middle" font-size="12" font-weight="600" fill="#c0392b">R (rosa)</text>
+  <circle cx="300" cy="250" r="8" fill="#27ae60"/>
+  <text x="300" y="275" text-anchor="middle" font-size="12" font-weight="600" fill="#1e8449">M (margarita)</text>
+  <text x="220" y="245" text-anchor="middle" font-size="11" fill="#666">d</text>
+  <circle cx="220" cy="160" r="7" fill="#8e44ad"/>
+  <text x="220" y="148" text-anchor="middle" font-size="12" font-weight="600" fill="#6c3483">P (abeja)</text>
+  <line x1="140" y1="250" x2="220" y2="160" stroke="#e74c3c" stroke-width="1.8"/>
+  <line x1="300" y1="250" x2="220" y2="160" stroke="#27ae60" stroke-width="1.8"/>
+  <text x="155" y="195" font-size="12" fill="#c0392b" font-weight="600">r</text>
+  <text x="270" y="195" font-size="12" fill="#1e8449" font-weight="600">m</text>
+  <circle cx="220" cy="340" r="6" fill="#8e44ad" fill-opacity="0.35" stroke="#8e44ad" stroke-width="1.5"/>
+  <text x="220" y="365" text-anchor="middle" font-size="11" fill="#7d3c98">P′ (simétrica)</text>
+  <line x1="140" y1="250" x2="220" y2="340" stroke="#e74c3c" stroke-width="1" stroke-dasharray="3 2" opacity="0.5"/>
+  <line x1="300" y1="250" x2="220" y2="340" stroke="#27ae60" stroke-width="1" stroke-dasharray="3 2" opacity="0.5"/>
+  <circle cx="140" cy="250" r="95" fill="none" stroke="#e74c3c" stroke-width="1" stroke-dasharray="2 2" opacity="0.45"/>
+  <circle cx="300" cy="250" r="95" fill="none" stroke="#27ae60" stroke-width="1" stroke-dasharray="2 2" opacity="0.45"/>
+  <text x="220" y="380" text-anchor="middle" font-size="11" fill="#666">Circunferencias |z−R|=r y |z−M|=m → dos puntos P, P′</text>
+  <defs>
+    <marker id="arrow" markerWidth="10" markerHeight="10" refX="8" refY="3" orient="auto">
+      <path d="M0,0 L8,3 L0,6 Z" fill="#2c3e50"/>
+    </marker>
+  </defs>
+  <line x1="420" y1="230" x2="480" y2="230" stroke="#2c3e50" stroke-width="2.5" marker-end="url(#arrow)"/>
+  <text x="450" y="215" text-anchor="middle" font-size="14" font-weight="600" fill="#2c3e50">T</text>
+  <text x="450" y="255" text-anchor="middle" font-size="11" fill="#555">(r, m)</text>
+  <rect x="500" y="70" width="380" height="320" rx="8" fill="#fafafa" stroke="#ddd"/>
+  <text x="690" y="95" text-anchor="middle" font-size="14" font-weight="600" fill="#1a5276">Plano de distancias (r, m)</text>
+  <line x1="560" y1="340" x2="850" y2="340" stroke="#111" stroke-width="2"/>
+  <line x1="560" y1="340" x2="560" y2="110" stroke="#111" stroke-width="2"/>
+  <text x="820" y="360" font-size="12" fill="#222">r (a la rosa)</text>
+  <text x="505" y="125" font-size="12" fill="#222">m</text>
+  <polygon points="560,270 630,340 850,120 850,110 560,110" fill="#d5f5e3" opacity="0.5"/>
+  <polygon points="560,340 560,270 630,340" fill="#fadbd8" opacity="0.7"/>
+  <text x="575" y="325" font-size="10" fill="#922b21">fuera</text>
+  <circle cx="700" cy="200" r="7" fill="#8e44ad"/>
+  <text x="715" y="195" font-size="12" font-weight="600" fill="#6c3483">(r, m)</text>
+  <g fill="none" stroke="#c0392b" stroke-width="2.2" stroke-linecap="round">
+    <polyline points="700,110 630,200"/>
+    <polyline points="630,200 560,200"/>
+    <polyline points="560,200 630,340"/>
+    <polyline points="630,340 800,170"/>
+  </g>
+  <text x="690" y="380" text-anchor="middle" font-size="11" fill="#666">La gráfica del enunciado es una curva dentro de esta región</text>
+  <text x="690" y="395" text-anchor="middle" font-size="10" fill="#888">T es 2→1 (P y P′); sobre la recta RM es 1→1</text>
+</svg>
