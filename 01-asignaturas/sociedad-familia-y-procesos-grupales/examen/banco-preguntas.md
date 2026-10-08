@@ -1,6 +1,6 @@
 # Banco de preguntas — Sociedad, familia y procesos grupales
 
-Apuntes: [Tema 1](../apuntes/Tema1_El_aula_como_grupo.md) · [Tema 2](../apuntes/Tema2_Relaciones_de_poder_en_el_aula.md) · [Tema 3](../apuntes/Tema3_Interaccion_y_comunicacion_en_el_aula.md).
+Apuntes: [Tema 1](../apuntes/Tema1_El_aula_como_grupo.md) · [Tema 2](../apuntes/Tema2_Relaciones_de_poder_en_el_aula.md) · [Tema 3](../apuntes/Tema3_Interaccion_y_comunicacion_en_el_aula.md) · [Tema 4](../apuntes/Tema4_Prejuicio_y_estereotipos_ante_la_diversidad.md).
 
 ---
 
@@ -43,24 +43,43 @@ Apuntes: [Tema 1](../apuntes/Tema1_El_aula_como_grupo.md) · [Tema 2](../apuntes
 
 26. Explica los **elementos** de la comunicación y aplícalos a una escena de clase de Matemáticas.
 27. Describe las **fases** del ciclo comunicativo e indica en cuál se rompe típicamente una consigna ambigua.
-28. ¿Quiénes son los **agentes** de la comunicación en el aula? ¿Puede el material (pizarra, applet) actuar como emisor?
-29. Tipos de **ruido** en el aula de mates (físico, semántico, psicológico, social, representacional): un ejemplo de cada uno.
-30. Patrón **IRF**: qué es; diferencia entre IRF cerrado y diálogo exploratorio.
-31. Interacción **profesor–alumno**: tiempo de espera y comunicación del error.
-32. Interacción **entre alumnos**: habla acumulativa, disputativa y exploratoria.
-33. Redes de comunicación **centralizada** vs **descentralizada**: efecto en la participación.
-34. **Participación social**: formas que no son solo “hablar en voz alta”.
-35. ¿Qué actos comunicativos hacen falta para que haya **cooperación** real (no solo sentarse juntos)?
-36. Relación entre **convivencia** y actos comunicativos cotidianos: dos ejemplos que deterioran y dos que sostienen.
-37. Caso integrado: analiza con elementos, fases y agentes una secuencia IRF de proporcionalidad y propone un ajuste.
+28. ¿Quiénes son los **agentes** de la comunicación en el aula?
+29. Tipos de **ruido** en el aula de mates: un ejemplo de cada tipo.
+30. Patrón **IRF**: cerrado vs diálogo exploratorio.
+31. Interacción profesor–alumno: tiempo de espera y comunicación del error.
+32. Habla entre alumnos: acumulativa, disputativa y exploratoria.
+33. Redes centralizada vs descentralizada.
+34. **Participación social**: formas que no son solo hablar en voz alta.
+35. Actos comunicativos necesarios para la **cooperación** real.
+36. Convivencia y actos comunicativos cotidianos.
+37. Caso integrado: analiza una secuencia IRF y propone un ajuste.
+
+---
+
+## Tema 4 — Prejuicio y estereotipos ante la diversidad
+
+38. ¿Qué es la **percepción social**? Relación con la categorización en el aula de mates.
+39. **Atribución** interna estable vs de estrategia: efecto en las expectativas docentes.
+40. Error fundamental de atribución: ejemplo docente–alumno.
+41. Define **estereotipo** y pon tres ejemplos ligados a las Matemáticas.
+42. ¿Qué es la **amenaza de estereotipo**? Implicación para el clima de aula.
+43. Distingue **estereotipo**, **prejuicio** y **discriminación** con un mismo hilo argumental.
+44. Prejuicio sutil y efecto **Pygmalion** en la distribución de preguntas.
+45. Endogrupo / exogrupo (Tajfel): ejemplo en un centro de Secundaria.
+46. Diversidad **social** y capital cultural: riesgo del “prejuicio de déficit”.
+47. Enfoques asimilacionista, multicultural e **intercultural**: cuál priorizar en mates y por qué.
+48. Condiciones del **contacto intergrupal** (Allport) aplicadas al cooperativo.
+49. Diversidad de **género** y Matemáticas: dos prácticas de aula que reducen sesgo.
+50. Caso integrado (exclusión en el grupo + comentario “esto es de ciencias”): analiza con los conceptos del tema y propone ajustes.
 
 ---
 
 ## Transversales
 
-38. Capital cultural (Bourdieu) y Matemáticas.
-39. Igualdad vs equidad.
-40. Comunicación con familias: límites del rol docente.
+51. Capital cultural (Bourdieu) y Matemáticas.
+52. Igualdad vs equidad.
+53. Comunicación con familias: límites del rol docente.
+54. Relación entre este Tema 4 y el Tema 4 de Procesos (inclusión / DUA): qué aporta cada uno.
 
 ---
 
