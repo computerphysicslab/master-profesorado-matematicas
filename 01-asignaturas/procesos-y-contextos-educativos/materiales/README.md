@@ -30,6 +30,7 @@ Recursos prácticos y transversales (citables desde otras asignaturas y el pract
 | [TALIS — ficha sintética](talis-ficha-sintetica.md) | Tema 1 |
 | [Comparativa de paradigmas en una tarea de mates](comparativa-paradigmas-tarea-matematicas.md) | Tema 1 |
 | [**Referentes progresista / crítica / libertaria**](referentes-progresista-critica-libertaria.md) | Tema 1 — Dewey, Giner, Sensat, Ferrer, Freinet, Freire, Neill |
+| [**Corrientes pedagógicas e historia (síntesis)**](corrientes-pedagogicas-historia-sintesis.md) | Tema 1 — corriente vs método; tradicional; constructivismo; Escuela Nueva |
 
 ## Otros
 
