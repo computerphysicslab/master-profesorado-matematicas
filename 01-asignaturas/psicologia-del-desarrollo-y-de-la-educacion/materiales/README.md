@@ -46,4 +46,4 @@ Recursos prácticos orientados al aula de Matemáticas.
 - Optativa **Educación emocional** (no duplicar su temario aquí): `01-asignaturas/optativas/educacion-emocional-en-el-profesorado/`
 - **Diseño curricular** (exigencia cognitiva, SA): `01-asignaturas/diseno-curricular-e-instruccional-de-matematicas/`
 - **Procesos** — [DUA](../../procesos-y-contextos-educativos/materiales/dua-diseno-universal-aprendizaje.md) · [Convivencia/mediación](../../procesos-y-contextos-educativos/materiales/guia-convivencia-mediacion.md)
-- **Habilidades comunicativas** — [Ventana de Johari](../../optativas/habilidades-comunicativas-para-docentes/materiales/ventana-de-johari-docencia-matematicas.md)
+- **Habilidades comunicativas** — [Ventana de Johari](../../optativas/habilidades-comunicativas-para-docentes/materiales/ventana-de-johari-docencia-matematicas.md) · [Empatía, escucha y asertividad](../../optativas/habilidades-comunicativas-para-docentes/materiales/empatia-escucha-asertividad-docente.md)
