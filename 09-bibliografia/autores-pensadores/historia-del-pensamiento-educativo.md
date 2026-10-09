@@ -14,6 +14,8 @@ Mapa **cronológico por año de nacimiento** de pensadores con influencia releva
 
 `*` = aún sin ficha dedicada. Si una miniatura falla, el texto manda; se puede corregir la URL.
 
+**Continúa en:** [historia-del-pensamiento-educativo-continuacion.md](./historia-del-pensamiento-educativo-continuacion.md) (Montessori → actualidad).
+
 ---
 
 ## Antigüedad
@@ -149,3 +151,5 @@ Mapa **cronológico por año de nacimiento** de pensadores con influencia releva
 **1859 — [John Dewey](./01-filosofia-educacion/dewey.md).** Educación democrática, experiencia y *learning by doing*.
 
 <br clear="all"/>
+
+**→ Continúa:** [Montessori, Freinet, Piaget, Vygotsky, Freire… hasta Liljedahl](./historia-del-pensamiento-educativo-continuacion.md).
