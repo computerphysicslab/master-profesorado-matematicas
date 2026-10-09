@@ -99,6 +99,20 @@ Complementa la [guía por temas de Procesos](../../procesos-y-contextos-educativ
 
 ---
 
+## Comunicación y clima (habilidad docente)
+
+Observar, sin grabar si no hay permiso:
+
+| Indicador | Ejemplo |
+|-----------|---------|
+| Escucha activa | ¿Se deja terminar? ¿Se parafrasea? ¿Se minimiza? |
+| Asertividad | ¿Se explican límites/notas con criterio o solo se impone/cede? |
+| Empatía con exigencia | ¿Se reconoce el malestar *sin* bajar el objetivo de aprendizaje? |
+
+→ [Empatía, escucha activa y asertividad](../../optativas/habilidades-comunicativas-para-docentes/materiales/empatia-escucha-asertividad-docente.md)
+
+---
+
 ## Plantilla rápida (copiar por sesión)
 
 ```text
