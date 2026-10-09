@@ -8,6 +8,7 @@ Recursos reutilizables que complementan los [apuntes](../apuntes/) de la asignat
 |-------------------|-------------|
 | [**infografia-asignatura.md**](infografia-asignatura.md) | Resumen visual de la asignatura |
 | [curriculo-lomloe/](curriculo-lomloe/) | Mapa de competencias/criterios y sentidos |
+| [**critica-ccec-conciencia-cultural.md**](critica-ccec-conciencia-cultural.md) | **Crítica CCEC:** *awareness* ≠ conciencia moral; qué es evaluable |
 | [**thinking-classrooms-liljedahl.md**](thinking-classrooms-liljedahl.md) | Thinking Classrooms (Liljedahl) |
 | [**exigencia-cognitiva-disciplina-razonamiento.md**](exigencia-cognitiva-disciplina-razonamiento.md) | Exigencia cognitiva vs mecánica; disciplina intelectual |
 | [**ejemplo-unidad-tarifas-exigencia-cognitiva.md**](ejemplo-unidad-tarifas-exigencia-cognitiva.md) | **Unidad ejemplo (tarifas / afín):** fluidez + alta demanda + evaluación |
@@ -27,4 +28,6 @@ Recursos reutilizables que complementan los [apuntes](../apuntes/) de la asignat
 
 **Metodología:** [Thinking Classrooms](thinking-classrooms-liljedahl.md) · [Exigencia cognitiva](exigencia-cognitiva-disciplina-razonamiento.md) · [Unidad tarifas](ejemplo-unidad-tarifas-exigencia-cognitiva.md) · [Unidad geometría P–A](ejemplo-unidad-geometria-perimetro-area.md) · [Duval](registros-representacion-duval.md) · [Modelización](modelizacion-matematica-aula.md)
 
-**Currículo:** [mapa CE](curriculo-lomloe/mapa-competencias-criterios.md) · [temarios Aragón](temarios-matematicas-aragon/) · [plantillas](plantillas/)
+**Currículo y rigor:** [mapa CE](curriculo-lomloe/) · [Crítica CCEC / conciencia cultural](critica-ccec-conciencia-cultural.md) · [Temarios Aragón](temarios-matematicas-aragon/)
+
+**Herramientas:** [GeoGebra](geogebra-criterio-didactico.md) · [Plantillas](plantillas/) · [Banco de problemas](banco-problemas/)
