@@ -1,20 +1,16 @@
 # Psicología del desarrollo y de la educación
 
-**Tipo:** Obligatoria · Máster en Profesorado de Educación Secundaria (especialidad Matemáticas)
+Asignatura del Máster de Profesorado (especialidad Matemáticas).
 
-## Descripción
-
-Estudio del **desarrollo adolescente** (procesos evolutivos, diferencias individuales, problemas frecuentes) y de la **psicología de la educación** aplicada a la enseñanza-aprendizaje: enfoques conductuales, cognoscitivos y motivación.
-
-## Por dónde leer
+## Cómo usar esta carpeta
 
 Mapa completo al inicio del [Tema 1](apuntes/01-desarrollo-adolescencia.md). Orden sugerido: apunte del tema → material(es) enlazado(s) → [glosario](glosario.md) / [examen](examen/).
 
 **Practicum:** [Guía de observación (Psicología)](materiales/guia-observacion-practicum-psicologia.md)
 
-**Podcast Tema 1:** 🎧 [Escuchar (~17 min)](../../08-podcasts/episodios/podcast_desarrollo_adolescencia.mp3) · [Guion](../../08-podcasts/guiones/podcast_desarrollo_adolescencia.md) · 🎧 [Alternativa: Detrás del «soy malo en mates»](../../08-podcasts/episodios/Detr%C3%A1s_del_soy_malo_en_matem%C3%A1ticas.m4a)
+**Podcast Tema 1:** 🎧 [Escuchar (~17 min)](../../08-podcasts/episodios/podcast_desarrollo_adolescencia.mp3) · [Guion](../../08-podcasts/guiones/podcast_desarrollo_adolescencia.md) · 🎧 [Alternativa: Detrás del «soy malo en mates»](../../08-podcasts/episodios/Detrás_del_soy_malo_en_matemáticas.m4a)
 
-## Programa y apuntes
+## Programa
 
 Documento: **[programa.md](programa.md)** · Índice de apuntes: **[apuntes/README.md](apuntes/README.md)**
 
@@ -26,22 +22,24 @@ Documento: **[programa.md](programa.md)** · Índice de apuntes: **[apuntes/READ
 | 4 | Procesamiento de la información y teorías cognoscitivas | [04](apuntes/04-procesamiento-informacion-teorias-cognitivas.md) |
 | 5 | Motivación en el proceso de enseñanza-aprendizaje | [05](apuntes/05-motivacion-ensenanza-aprendizaje.md) |
 
-## Materiales (inventario completo)
+## Materiales
 
 Índice detallado: **[materiales/README.md](materiales/README.md)**
 
 | Bloque | Materiales |
 |--------|------------|
-| Cognición | [Carga](materiales/carga-cognitiva-matematicas.md) · [ZDP](materiales/zdp-andamiaje-matematicas.md) · [FE](materiales/funciones-ejecutivas-matematicas.md) |
-| Motivación | [Mindset](materiales/mindset-atribuciones-matematicas.md) · [Autoeficacia](materiales/autoeficacia-matematica.md) · [Feedback](materiales/feedback-efectivo-matematicas.md) · [Error](materiales/gestion-del-error-matematicas.md) |
-| Diversidad / conducta | [Neurodivergencia](materiales/neurodivergencia-aula-matematicas.md) · [Discalculia](materiales/discalculia-y-dea-matematicas.md) · [ABC](materiales/registro-abc-conducta.md) |
-| Riesgos / actualidad | [Haidt — redes y atención](materiales/haidt-redes-atencion-adolescencia.md) · [Suicidio / rol docente](materiales/suicidio-juvenil-rrss-rol-docente.md) · [Entrevista Lucía, mi pediatra — Adolescencia](materiales/entrevista-lucia-mi-pediatra-adolescencia.md) |
+| Cognición | [Carga](materiales/carga-cognitiva-matematicas.md) · [Memoria / práctica / transferencia](materiales/memoria-practica-transferencia-matematicas.md) · [ZDP](materiales/zdp-andamiaje-matematicas.md) · [FE](materiales/funciones-ejecutivas-matematicas.md) · [Evidencia](materiales/evidencia-psicologia-educativa.md) |
+| Motivación | [Mindset](materiales/mindset-atribuciones-matematicas.md) · [Autoeficacia](materiales/autoeficacia-matematica.md) · [Feedback](materiales/feedback-efectivo-matematicas.md) · [Error](materiales/gestion-del-error-matematicas.md) · [Ansiedad matemática](materiales/ansiedad-matematica-aula.md) |
+| Diversidad / conducta | [Neurodivergencia](materiales/neurodivergencia-aula-matematicas.md) · [Discalculia](materiales/discalculia-y-dea-matematicas.md) · [ABC](materiales/registro-abc-conducta.md) · [Tareas multinivel](materiales/diseno-tareas-multinivel-matematicas.md) |
+| Desarrollo / moral | [Kohlberg / moral](materiales/desarrollo-moral-kohlberg-aula.md) |
+| Riesgos / actualidad | [Haidt — redes y atención](materiales/haidt-redes-atencion-adolescencia.md) · [Suicidio / rol docente](materiales/suicidio-juvenil-rrss-rol-docente.md) · [Entrevista Lucía, mi pediatra](materiales/entrevista-lucia-mi-pediatra-adolescencia.md) |
 | Practicum | [Observación Psicología](materiales/guia-observacion-practicum-psicologia.md) |
 
 ### Relacionados (otras carpetas)
 
 - [Ventana de Johari](../optativas/habilidades-comunicativas-para-docentes/materiales/ventana-de-johari-docencia-matematicas.md)
 - [DUA (Procesos)](../procesos-y-contextos-educativos/materiales/dua-diseno-universal-aprendizaje.md)
+- [Diseño curricular — exigencia cognitiva](../diseno-curricular-e-instruccional-de-matematicas/materiales/exigencia-cognitiva-disciplina-razonamiento.md)
 
 ## Examen
 

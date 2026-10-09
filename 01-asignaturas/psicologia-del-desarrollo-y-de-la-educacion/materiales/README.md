@@ -37,6 +37,7 @@ Recursos prácticos orientados al aula de Matemáticas.
 | [Discalculia y DEA](discalculia-y-dea-matematicas.md) | Tema 2 |
 | [Registro ABC](registro-abc-conducta.md) | Tema 3 |
 | [Desarrollo moral (Kohlberg)](desarrollo-moral-kohlberg-aula.md) | Tema 1 |
+| [Entrevista Lucía, mi pediatra — Adolescencia](entrevista-lucia-mi-pediatra-adolescencia.md) | Tema 1 — divulgación / familia |
 | [Haidt, redes y atención](haidt-redes-atencion-adolescencia.md) | Tema 1 |
 | [Suicidio juvenil, RRSS y rol docente](suicidio-juvenil-rrss-rol-docente.md) | Tema 2 — derivación |
 
@@ -44,3 +45,5 @@ Recursos prácticos orientados al aula de Matemáticas.
 
 - Optativa **Educación emocional** (no duplicar su temario aquí): `01-asignaturas/optativas/educacion-emocional-en-el-profesorado/`
 - **Diseño curricular** (exigencia cognitiva, SA): `01-asignaturas/diseno-curricular-e-instruccional-de-matematicas/`
+- **Procesos** — [DUA](../../procesos-y-contextos-educativos/materiales/dua-diseno-universal-aprendizaje.md) · [Convivencia/mediación](../../procesos-y-contextos-educativos/materiales/guia-convivencia-mediacion.md)
+- **Habilidades comunicativas** — [Ventana de Johari](../../optativas/habilidades-comunicativas-para-docentes/materiales/ventana-de-johari-docencia-matematicas.md)
