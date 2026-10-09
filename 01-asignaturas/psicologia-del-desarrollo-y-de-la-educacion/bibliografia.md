@@ -10,68 +10,53 @@ Referencias de trabajo orientativas. Completar con la guía docente oficial.
 - **Piaget, J. (1970s y eds. posteriores).** Obras sobre estadios del desarrollo cognitivo y operaciones formales.  
   → Pensamiento formal; **matizar** con evidencia de que no se alcanza de forma uniforme ni automática en toda la ESO.
 
-- Manuales de psicología del desarrollo (adolescencia): procesos biológicos, cognitivos, sociales e identitarios (p. ej. líneas de Steinberg, Coleman, o manuales universitarios de desarrollo en la adolescencia).
+- Manuales de psicología del desarrollo (adolescencia): procesos biológicos, cognitivos, sociales e identitarios (p. ej. líneas de **Steinberg**, **Santrock**, **Papalia** / Martorell).
 
 - **Galán Bertrand, L. (2026).** *Adolescencia*. Planeta.  
-  → Guía divulgativa (pediatría) sobre cambios físicos, emocionales, cerebrales y sociales; límites, tecnología y acompañamiento familiar.  
-  → Entrevista de apoyo: Belenguer, L. (2026, 23 sep). Lucía, mi pediatra publica *Adolescencia*. *20minutos*. [enlace](https://www.20minutos.es/salud/lucia-mi-pediatra-publica-adolescencia-prefiero-que-esten-un-parque-farmeando-aura-que-haciendo-botellon_7035107_0.html) · Ficha del repo: [entrevista-lucia-mi-pediatra-adolescencia.md](materiales/entrevista-lucia-mi-pediatra-adolescencia.md).
+  → Guía divulgativa (pediatría). Ficha: [entrevista-lucia-mi-pediatra-adolescencia.md](materiales/entrevista-lucia-mi-pediatra-adolescencia.md).
 
 ## Aprendizaje, cognición y educación
 
-- **Coll, C. (coord.) (2010).** *Desarrollo, aprendizaje y enseñanza en Educación Secundaria.* Graó / Ministerio de Educación.  
-  → Marco de Secundaria: desarrollo, aprendizaje y enseñanza.
+- **Coll, C. (coord.) (2010).** *Desarrollo, aprendizaje y enseñanza en Educación Secundaria.* Graó / Ministerio de Educación.
 
-- **Ausubel, D. P. (1968/2002).** *The psychology of meaningful verbal learning* / *Adquisición y retención del conocimiento.*  
-  → Aprendizaje significativo vs. memorístico.
+- **Ausubel, D. P. (1968/2002).** *Adquisición y retención del conocimiento* / aprendizaje significativo.
 
-- **Vygotsky, L. S. (1978/eds. en castellano).** *Mind in society* / *El desarrollo de los procesos psicológicos superiores.*  
-  → Mediación, ZDP, pensamiento y lenguaje.
+- **Vygotsky, L. S. (1978/eds. en castellano).** Mediación, ZDP.
 
-- **Bruner, J. S. (1960/1966 y eds. posteriores).** *The process of education* / *Toward a theory of instruction.*  
-  → Representaciones, andamiaje, curriculum en espiral.
+- **Bruner, J. S.** Representaciones, andamiaje, curriculum en espiral.
 
-- **Sweller, J., Ayres, P. & Kalyuga, S. (2011).** *Cognitive load theory.* Springer.  
-  → Carga intrínseca, extrínseca y germana; diseño de instrucción.
+- **Sweller, J., Ayres, P. & Kalyuga, S. (2011).** *Cognitive load theory.* Springer.
 
 ## Motivación, autoeficacia y feedback
 
-- **Bandura, A. (1997).** *Self-efficacy: The exercise of control.* W. H. Freeman.  
-  → Autoeficacia; fuentes (logros de dominio, vicaria, persuasión, estados afectivos).
+- **Bandura, A. (1997).** *Self-efficacy: The exercise of control.*
 
-- **Weiner, B. (1985/1986).** Trabajos sobre atribuciones causales del éxito y el fracaso.  
-  → Locus, estabilidad, controlabilidad.
+- **Deci, E. L. & Ryan, R. M.** Teoría de la autodeterminación (obras y revisiones).
 
-- **Dweck, C. S. (2006/2008).** *Mindset: The new psychology of success* / eds. en castellano (*Mindset*).  
-  → Mentalidad fija vs. de crecimiento; implicaciones del feedback.
+- **Dweck, C. S.** Mentalidad de crecimiento (lectura crítica; no como panacea).
 
-- **Deci, E. L. & Ryan, R. M. (2000 y trabajos posteriores).** Teoría de la autodeterminación.  
-  → Autonomía, competencia y relación; motivación intrínseca.
+- **Hattie, J. & Timperley, H. (2007).** The power of feedback. *Review of Educational Research.*
 
-- **Hattie, J. & Timperley, H. (2007).** “The power of feedback.” *Review of Educational Research.*  
-  → Modelo de feedback orientado a la tarea, al proceso y a la autorregulación.
+- **Weiner, B.** Atribuciones causales en contextos de logro.
+
+## Aprendizaje duradero, instrucción y evidencia (ampliación)
+
+> Comprobar **edición y datos editoriales** en la biblioteca del máster antes de citar en trabajos académicos (los años de catálogo comercial varían).
+
+- **Ruiz Martín, H. (2020).** Trabajos sobre cómo aprendemos (memoria, práctica, comprensión).  
+  → [Memoria, práctica y transferencia](materiales/memoria-practica-transferencia-matematicas.md).
+
+- Manuales de **psicología educativa** (marco general: aprendizaje, motivación, evaluación, diferencias individuales), p. ej. líneas **Woolfolk**, **Ormrod / Anderman**, **Slavin**, **Borich**, **Schunk** — usar la edición disponible en el centro.  
+  → [Evidencia en psicología educativa](materiales/evidencia-psicologia-educativa.md).
 
 ## Conducta y aula
 
-- **Skinner, B. F. (1953/1968).** *Science and human behavior* / *The technology of teaching.*  
-  → Operante, refuerzo; **uso ético** en educación (límites, plan de convivencia).
+- Textos de modificación de conducta y análisis funcional (ABC) orientados a contextos escolares; coordinar siempre con el protocolo del centro.
 
-## Dificultades de aprendizaje y neurodivergencia (orientativo)
+## Neurodivergencia y aprendizaje matemático
 
-- Revisiones y guías sobre **discalculia** / DEA del cálculo (p. ej. líneas de Butterworth, Geary, o documentos de consenso educativos).  
-- Material del repo: [discalculia y DEA](materiales/discalculia-y-dea-matematicas.md) · [neurodivergencia](materiales/neurodivergencia-aula-matematicas.md).
+- Materiales del repo: [neurodivergencia](materiales/neurodivergencia-aula-matematicas.md), [discalculia](materiales/discalculia-y-dea-matematicas.md). Completar con guías clínicas y orientaciones del centro (no diagnosticar desde el aula).
 
-## Ansiedad matemática y afecto
+## Enlace con Educación emocional
 
-- Meta-análisis e investigaciones sobre *math anxiety* y rendimiento (psicología educativa contemporánea).  
-- Repo: [afectividad y motivación intrínseca](../optativas/educacion-emocional-en-el-profesorado/materiales/afectividad-y-motivacion-intrinseca.md).
-
-## Riesgo y derivación (docente, no clínico)
-
-- Línea **024** (Ministerio de Sanidad) — ayuda a la conducta suicida.  
-- Guías autonómicas de prevención en centros educativos (p. ej. Guía Aragón 2021).  
-- Repo: [suicidio juvenil, RRSS y rol del docente](materiales/suicidio-juvenil-rrss-rol-docente.md).
-
-## Del repositorio
-
-- [Programa](programa.md) · [Apuntes](apuntes/) · [Materiales](materiales/) · [Glosario](glosario.md) · [Examen](examen/)  
-- 🎧 Podcast: [Escuchar — Pávlov, Skinner y Erikson](../../08-podcasts/recursos/podcast_Pavlov_Skinner_Erikson_Matematicas.mp3)  
+La optativa desarrolla IE, regulación y bienestar docente. Aquí solo se **enlaza** (ansiedad matemática, feedback afectivo); no se reproduce su temario.
