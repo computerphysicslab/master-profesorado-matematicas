@@ -75,6 +75,17 @@ Centro en la persona: libertad, creatividad, clima afectivo, crecimiento persona
 
 ## 3. Escuela Nueva y línea progresista / crítica
 
+### 3.0. Antecedentes de la escolarización popular (XVI–XVIII)
+
+Antes de la Escuela Nueva del XIX–XX, la **escuela de masas** tiene hitos confesionales decisivos:
+
+| Autor | Aporte |
+|-------|--------|
+| [**José de Calasanz**](../../../09-bibliografia/autores-pensadores/01-filosofia-educacion/jose-de-calasanz.md) (Escuelas Pías, 1597) | Escuela popular **gratuita**; graduación por niveles; insistencia en el **ábaco/aritmética** para los pobres |
+| [**Juan Bautista de La Salle**](../../../09-bibliografia/autores-pensadores/01-filosofia-educacion/juan-bautista-de-la-salle.md) | **Método simultáneo**; **formación de maestros**; escuela para hijos de artesanos y pobres |
+
+No son “progresistas” en el sentido de Dewey, pero sí **precursores estructurales** del acceso universal a la instrucción elemental y de la profesionalización docente.
+
 ### 3.1. Antecedentes
 
 | Autor | Idea que lega |
@@ -101,17 +112,12 @@ Detalle ampliado — roles, evaluación y **ecos en Matemáticas** — en:
 | **Dewey** | Progresismo / pragmatismo | Educación como vida; método del problema; proyectos |
 | **ILE** (Giner de los Ríos) | Progresismo laico (España) | Coeducación; campo; arte; renovación pedagógica |
 | **Rosa Sensat / Escuela Nueva catalana** | Progresista / entorno | Vida cotidiana, naturaleza, dignidad de la infancia |
-| **“Escuela del bosque” / aire libre** | Escuela Nueva | Entorno natural como medio; observación y experimentación |
 | **Ferrer i Guàrdia** | Escuela Moderna / libertaria | Racionalismo; coeducación; crítica al dogma |
-| **Freinet** (p. ej. Benaiges) | Cooperativa / popular | Tanteo experimental; imprenta; texto libre; correspondencia |
+| **Freinet** (p. ej. Benaiges) | Cooperativa / popular | Tanteo experimental; imprenta; texto libre |
 | **Freire** | Pedagogía crítica | Contra la educación bancaria; diálogo y concientización |
 | **Neill** (Summerhill) | Antiautoritaria | Libertad, asamblea, primacía del bienestar |
 
-**Notas de rigor**
-
-- *El maestro que prometió el mar* ilustra la **pedagogía Freinet** (Benaiges), no un manual LOMLOE.
-- Evaluación “sin exámenes” o “inexistente” (ILE en su horizonte, Ferrer, Neill) es **histórica**: el sistema actual exige evaluación y acreditación.
-- “Escuela del bosque” designa un abanico de prácticas outdoor; no un único método cerrado.
+**Notas de rigor:** evaluación “sin exámenes” es horizonte **histórico**, no plantilla LOMLOE. *El maestro que prometió el mar* ilustra la pedagogía Freinet (Benaiges).
 
 ---
 
@@ -119,34 +125,33 @@ Detalle ampliado — roles, evaluación y **ecos en Matemáticas** — en:
 
 | Debate | Orientación del máster |
 |--------|------------------------|
-| **Viabilidad “pura”** | Los modelos antiautoritarios o radicalmente progresistas **no** se transplantan enteros a un currículo prescrito y a la evaluación legal. Sí se pueden **tomar principios** (actividad, diálogo, proyectos, cooperación) con objetivos matemáticos claros. |
-| **Evaluación y motivación** | La evaluación puede frenar la motivación *si* es solo amenaza y nota; también puede **estructurar** el aprendizaje (formativa, criterios públicos). No es un binarismo “evaluar = malo”. |
-| **Identidad docente** | Conviene explicitar las propias creencias (“solo el libro”, “solo el proyecto”, “solo el clima”) y contrastarlas con evidencia y con el marco LOMLOE. |
-| **Activo ≠ poco exigente** | Un proyecto sin razonamiento matemático es activismo vacío; una explicación clara no es “bancaria” por el hecho de explicar. → [Exigencia cognitiva](../../diseno-curricular-e-instruccional-de-matematicas/materiales/exigencia-cognitiva-disciplina-razonamiento.md) |
+| **Viabilidad “pura”** | Los modelos antiautoritarios o radicalmente progresistas **no** se transplantan enteros a un currículo prescrito. Sí se pueden **tomar principios** con objetivos matemáticos claros. |
+| **Evaluación y motivación** | Puede frenar *si* es solo amenaza; también **estructura** el aprendizaje (formativa, criterios públicos). |
+| **Identidad docente** | Explicitar creencias y contrastarlas con evidencia y LOMLOE. |
+| **Activo ≠ poco exigente** | → [Exigencia cognitiva](../../diseno-curricular-e-instruccional-de-matematicas/materiales/exigencia-cognitiva-disciplina-razonamiento.md) |
 
 ---
 
 ## 5. Eco rápido en Matemáticas
 
-| Principio de la Escuela Nueva / crítica | Traducción sobria en mates |
-|----------------------------------------|----------------------------|
+| Principio | Traducción sobria en mates |
+|----------|----------------------------|
 | Aprender haciendo | Problemas y proyectos con **modelo matemático** real |
-| Saberes previos | Diagnóstico; anclaje (Ausubel); no asumir el capítulo anterior |
+| Saberes previos | Diagnóstico; anclaje (Ausubel) |
 | Cooperación (Freinet) | Revista de problemas; explicación entre iguales |
-| Problematizar (Freire) | Datos sociales (tarifas, alquiler, medias) + límites del modelo |
-| Libertad (Neill) | Elección *acotada* dentro de un banco de retos alineados al currículo |
-
-Más ejemplos: [referentes · § ecos](referentes-progresista-critica-libertaria.md#3-ecos-en-el-aula-de-matemáticas-eso).
+| Problematizar (Freire) | Datos sociales + límites del modelo |
+| Aritmética para la vida (Calasanz) | Cálculo y sentido numérico como **autonomía**, no solo trámite |
+| Aula-grupo (La Salle) | Explicación común + diferenciación (DUA); no solo preceptor |
 
 ---
 
 ## 6. Preguntas de repaso
 
 1. Diferencia *corriente* y *método* con un ejemplo de tu especialidad.  
-2. ¿Qué error hay al atribuir el andamiaje solo a Ausubel?  
-3. Cita dos rasgos de la Escuela Nueva y un riesgo de caricaturizar la “escuela tradicional”.  
+2. ¿Qué aporta Calasanz o La Salle a la idea de escuela de masas, más allá de la Escuela Nueva del XX?  
+3. ¿Qué error hay al atribuir el andamiaje solo a Ausubel?  
 4. ¿Por qué Neill o Ferrer no son plantillas de evaluación LOMLOE?  
-5. Propón una actividad de mates que sea activa *y* cognitivamente exigente.
+5. Propón una actividad de mates activa *y* cognitivamente exigente.
 
 ---
 
@@ -154,11 +159,11 @@ Más ejemplos: [referentes · § ecos](referentes-progresista-critica-libertaria
 
 | Recurso | Contenido |
 |---------|-----------|
-| [Referentes progresista / crítica / libertaria](referentes-progresista-critica-libertaria.md) | Tablas de dimensiones y 7 pedagogos |
-| [Comparativa paradigmas · tarea de mates](comparativa-paradigmas-tarea-matematicas.md) | Misma tarea, lentes distintas |
+| [José de Calasanz](../../../09-bibliografia/autores-pensadores/01-filosofia-educacion/jose-de-calasanz.md) | Escuela popular; ábaco |
+| [Juan Bautista de La Salle](../../../09-bibliografia/autores-pensadores/01-filosofia-educacion/juan-bautista-de-la-salle.md) | Método simultáneo; maestros |
+| [Referentes progresista / crítica / libertaria](referentes-progresista-critica-libertaria.md) | Tablas y ecos mates |
 | [Historia del pensamiento educativo](../../../09-bibliografia/autores-pensadores/historia-del-pensamiento-educativo.md) | Cronología |
-| Fichas Dewey, Giner, Sensat, Ferrer, Freinet, Freire, Neill | `09-bibliografia/autores-pensadores/01-filosofia-educacion/` |
 
 ---
 
-*Apunte de síntesis a partir de la sesión de corrientes. Corregidas atribuciones habituales (andamiaje, evaluación histórica) y alineado con el resto del repositorio.*
+*Apunte de síntesis. Corregidas atribuciones habituales y ampliado con precursores de la escolarización popular.*
