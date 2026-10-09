@@ -1,4 +1,4 @@
-# José de Calasanz (San José de Calasanz)
+# San José de Calasanz
 
 **Área:** Historia de la educación / pedagogía de la escuela popular  
 **Conceptos clave:** escuela popular gratuita; Escuelas Pías; piedad y letras; graduación por niveles; ábaco y aritmética para los pobres  
@@ -6,7 +6,7 @@
 
 ---
 
-## AUTOR: José de Calasanz Gastón
+## AUTOR: San José de Calasanz (José de Calasanz Gastón)
 
 **CORRIENTE / LUGAR HISTÓRICO:**  
 Precursor de la **escuela popular, pública y gratuita** en la Europa moderna. Fundador de las **Escuelas Pías** (escolapios). No es “Escuela Nueva” del XIX–XX, sino una de las grandes experiencias de **escolarización de masas pobres** en los siglos XVI–XVII, en paralelo (y a menudo comparado) con Comenio.
@@ -15,7 +15,7 @@ Precursor de la **escuela popular, pública y gratuita** en la Europa moderna. F
 
 ## BREVE RESEÑA BIOGRÁFICA
 
-José de Calasanz (Peralta de la Sal, Huesca, 1557 – Roma, 1648), sacerdote aragonés. En Roma, ante la pobreza de muchos niños, abre en **1597** (parroquia de Santa Dorotea, Trastévere) una escuela gratuita que se consolida como **Escuelas Pías**. Funda la orden de los Clérigos Regulares Pobres de la Madre de Dios de las Escuelas Pías. La tradición católica lo asocia al patronazgo de maestros y educadores (en España, el 27 de noviembre se recuerda el día del maestro en su entorno).
+**San José de Calasanz** (José de Calasanz Gastón; Peralta de la Sal, Huesca, 1557 – Roma, 1648), sacerdote aragonés. En Roma, ante la pobreza de muchos niños, abre en **1597** (parroquia de Santa Dorotea, Trastévere) una escuela gratuita que se consolida como **Escuelas Pías**. Funda la orden de los Clérigos Regulares Pobres de la Madre de Dios de las Escuelas Pías. La tradición católica lo asocia al patronazgo de maestros y educadores (en España, el 27 de noviembre se recuerda el día del maestro en su entorno).
 
 Su pensamiento está disperso en cartas, reglamentos y documentos prácticos (p. ej. el *Documentum Princeps*), no en un tratado tipo *Didáctica magna*.
 
@@ -33,14 +33,14 @@ Su pensamiento está disperso en cartas, reglamentos y documentos prácticos (p.
 
 ## ECO EN EL MÁSTER (Matemáticas / Procesos)
 
-| Idea calasancia | Lectura actual (sin anacronismo) |
+| Idea de San José de Calasanz | Lectura actual (sin anacronismo) |
 |-----------------|----------------------------------|
 | Aritmética para los pobres | El cálculo no es lujo cultural: es **herramienta de autonomía** en la vida cotidiana y laboral |
 | Gratuidad y acceso | Antecedente histórico del **derecho a la educación** y de la escuela comprensiva |
 | Graduación por niveles | Organización del aula y de la progresión curricular |
 | Escuela como reforma social | Parentesco lejano con debates posteriores sobre equidad (sin identificarlo con Freire o la pedagogía crítica del XX) |
 
-**Diferencia con Comenio:** ambos impulsan la universalización y el orden didáctico; Calasanz actúa sobre todo desde la **fundación de una red de escuelas y una orden** en el mundo católico; Comenio elabora un **sistema didáctico escrito** de alcance europeo.
+**Diferencia con Comenio:** ambos impulsan la universalización y el orden didáctico; San José de Calasanz actúa sobre todo desde la **fundación de una red de escuelas y una orden** en el mundo católico; Comenio elabora un **sistema didáctico escrito** de alcance europeo.
 
 ---
 
@@ -55,5 +55,5 @@ Su pensamiento está disperso en cartas, reglamentos y documentos prácticos (p.
 ## REFERENCIAS ORIENTATIVAS
 
 - Biografías y estudios de la tradición escolapia (obra pedagógica, cartas).  
-- Comparaciones historiográficas Calasanz–Comenio en historias de la educación moderna.  
+- Comparaciones historiográficas San José de Calasanz–Comenio en historias de la educación moderna.  
 - [Historia del pensamiento educativo](../historia-del-pensamiento-educativo.md) · [Comenio](comenio.md)
