@@ -13,8 +13,10 @@ Recursos prácticos orientados al aula de Matemáticas.
 | Material | Tema / uso |
 |----------|------------|
 | [Carga cognitiva en Matemáticas](carga-cognitiva-matematicas.md) | Tema 4 — memoria de trabajo, diseño de tareas |
+| [**Memoria, práctica y transferencia**](memoria-practica-transferencia-matematicas.md) | Tema 4 — recuperación, espaciado, intercalado |
 | [ZDP y andamiaje en Matemáticas](zdp-andamiaje-matematicas.md) | Tema 4 — mediación y ayuda temporal |
 | [Funciones ejecutivas en Matemáticas](funciones-ejecutivas-matematicas.md) | Tema 4 — inhibición, flexibilidad, planificación |
+| [**Evidencia en psicología educativa**](evidencia-psicologia-educativa.md) | Transversal — correlación, efectos, neuromitos |
 | [**Diseño de tareas multinivel**](diseno-tareas-multinivel-matematicas.md) | Mismo objetivo, distinto andamiaje (rutas A/B/C) |
 
 ## Motivación, identidad y feedback
@@ -26,32 +28,19 @@ Recursos prácticos orientados al aula de Matemáticas.
 | [**Ansiedad matemática en el aula**](ansiedad-matematica-aula.md) | Temas 2 y 5 — señales, diseño, evaluación, límites del rol |
 | [Feedback efectivo en Matemáticas](feedback-efectivo-matematicas.md) | Temas 1 y 5 |
 | [Gestión del error en Matemáticas](gestion-del-error-matematicas.md) | Temas 1, 4 y 5 |
-| [Ventana de Johari (enlace)](../../optativas/habilidades-comunicativas-para-docentes/materiales/ventana-de-johari-docencia-matematicas.md) | Autoconocimiento docente |
 
-## Desarrollo moral
-
-| Material | Tema / uso |
-|----------|------------|
-| [Desarrollo moral y aula (Kohlberg)](desarrollo-moral-kohlberg-aula.md) | Tema 1 — razonamiento moral; puente con Tema 5 (autorregulación) |
-
-## Diversidad, neurodivergencia y conducta
+## Desarrollo, conducta y diversidad
 
 | Material | Tema / uso |
 |----------|------------|
-| [Neurodivergencia en el aula de Matemáticas](neurodivergencia-aula-matematicas.md) | Tema 2 — TDAH, TEA/Asperger, dislexia, 2e |
-| [Discalculia y DEA en Matemáticas](discalculia-y-dea-matematicas.md) | Tema 2 |
-| [Registro ABC de conducta](registro-abc-conducta.md) | Tema 3 |
+| [Neurodivergencia en el aula de Matemáticas](neurodivergencia-aula-matematicas.md) | Tema 2 |
+| [Discalculia y DEA](discalculia-y-dea-matematicas.md) | Tema 2 |
+| [Registro ABC](registro-abc-conducta.md) | Tema 3 |
+| [Desarrollo moral (Kohlberg)](desarrollo-moral-kohlberg-aula.md) | Tema 1 |
+| [Haidt, redes y atención](haidt-redes-atencion-adolescencia.md) | Tema 1 |
+| [Suicidio juvenil, RRSS y rol docente](suicidio-juvenil-rrss-rol-docente.md) | Tema 2 — derivación |
 
-## Riesgos y bienestar
+## Enlaces a otras asignaturas
 
-| Material | Tema / uso |
-|----------|------------|
-| [**Haidt — redes, atención y adolescencia**](haidt-redes-atencion-adolescencia.md) | Temas 1 y 2 — atención, diseño adictivo, escuelas sin móvil |
-| [Suicidio juvenil, RRSS y rol del docente](suicidio-juvenil-rrss-rol-docente.md) | Tema 2 — detección y derivación |
-| [Entrevista Lucía, mi pediatra — Adolescencia](entrevista-lucia-mi-pediatra-adolescencia.md) | Temas 1 y 2 — divulgación actual (poda neuronal, identidad, límites, presión de grupo, pantallas) |
-
-## Enlaces
-
-- [Apuntes](../apuntes/) · [Programa](../programa.md) · [Glosario](../glosario.md) · [Examen](../examen/) · [Bibliografía](../bibliografia.md)  
-- DUA: [Procesos y contextos](../../procesos-y-contextos-educativos/materiales/dua-diseno-universal-aprendizaje.md)  
-- Mapa de lectura: inicio del [Tema 1](../apuntes/01-desarrollo-adolescencia.md)
+- Optativa **Educación emocional** (no duplicar su temario aquí): `01-asignaturas/optativas/educacion-emocional-en-el-profesorado/`
+- **Diseño curricular** (exigencia cognitiva, SA): `01-asignaturas/diseno-curricular-e-instruccional-de-matematicas/`
