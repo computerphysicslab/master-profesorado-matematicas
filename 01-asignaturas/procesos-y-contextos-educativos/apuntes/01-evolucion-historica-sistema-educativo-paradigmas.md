@@ -20,6 +20,7 @@ Este apunte es la **puerta de entrada**. El detalle está en los materiales. Ord
 | **6** | [TALIS — ficha sintética](../materiales/talis-ficha-sintetica.md) | Condiciones del profesorado (España–OCDE) |
 | **7** | Comparaciones de rendimiento | [PISA 2025](../materiales/leyes-educativas/comparativa-pisa-2025-y-sistemas-internacionales.md) · [PISA 2022](../materiales/pisa-2022-fracaso-escolar-matematicas.md) · [PISA 2018 microdatos Aragón/ESCS](../materiales/pisa-2018-aragon-china/) |
 | **8** | [Comparativa de paradigmas en una tarea de mates](../materiales/comparativa-paradigmas-tarea-matematicas.md) | Aplicación al aula |
+| **9** | [Referentes progresista / crítica / libertaria](../materiales/referentes-progresista-critica-libertaria.md) | Dewey–Freire–Neill y ecos en mates |
 
 **Podcast (escuchar):** 🎧 [De la tiza al colapso burocrático](../../../08-podcasts/episodios/De_la_tiza_al_colapso_burocrático.m4a) — evolución histórica, paradigmas y burocracia docente · [guion](../../../08-podcasts/guiones/Evoluci%C3%B3n%20hist%C3%B3rica%20del%20sistema%20educativo%20espa%C3%B1ol%20y%20paradigmas%20educativos.md)
 
@@ -38,30 +39,27 @@ Este apunte es la **puerta de entrada**. El detalle está en los materiales. Ord
 **Mapa visual (autores + LOMCE / LOMLOE / China):**  
 [Mapa epistemológico de los paradigmas educativos](../materiales/mapa-epistemologico-paradigmas-educativos.md) — triángulo positivista / interpretativo / sociocrítico; zona de hibridación; lectura orientativa de los marcos regulatorios.
 
+**Renovación pedagógica (progresista / crítica / libertaria):**  
+[Referentes y ecos en Matemáticas](../materiales/referentes-progresista-critica-libertaria.md).
+
 ## Leyes educativas (mapa rápido)
 
 | Ley | Año | Gobierno | Paradigma dominante (orientativo) | Clave |
 |-----|-----|----------|-----------------------------------|-------|
 | **LOECE** | 1980 | UCD | Racional-tecnológico (organización de centros) | Ideario; parcialmente anulada |
-| **LODE** | 1985 | PSOE | Socio-crítico (derecho y participación) | Conciertos; participación |
-| **LOGSE** | 1990 | PSOE | Interpretativo / socio-crítico | ESO comprensiva; diversidad |
-| **LOCE** | 2002 | PP | Racional-tecnológico | Itinerarios, cultura del esfuerzo (poca aplicación). |
-| **LOE** | 2006 | PSOE | Interpretativo + regulación estatal | Competencias; Ciudadanía |
-| **LOMCE** | 2013 | PP | Racional-tecnológico | Reválidas; itinerarios |
-| **LOMLOE** | 2020 | PSOE–UP | Socio-crítico e inclusivo | Perfil de salida; DUA |
+| **LODE** | 1985 | PSOE | Participación / derechos | Derecho a la educación; conciertos |
+| **LOGSE** | 1990 | PSOE | Comprensividad / constructivismo | ESO; atención a la diversidad |
+| **LOCE** | 2002 | PP | Recientes / calidad-control | Revocada en gran parte |
+| **LOE** | 2006 | PSOE | Competencias / inclusión | Base del sistema actual |
+| **LOMCE** | 2013 | PP | Racional-tecnológico / estándares | Reválidas; LOMLOE la deroga en lo esencial |
+| **LOMLOE** | 2020 | PSOE | Competencial / inclusivo (híbrido) | Situaciones de aprendizaje; DUA |
 
-Fichas detalladas: [leyes-educativas/](../materiales/leyes-educativas/) — LOECE, LODE, LOGSE, LOCE, LOE, LOMCE, LOMLOE (contexto, pedagogía, críticas y paradigmas).
+Fichas detalladas: [leyes-educativas/](../materiales/leyes-educativas/).
 
-**Comparativa internacional (PISA 2025):** [España frente a Corea, Estonia, Polonia y China; implicaciones LOMCE/LOMLOE](../materiales/leyes-educativas/comparativa-pisa-2025-y-sistemas-internacionales.md).  
-Ciclo anterior: [PISA 2022 y fracaso escolar en Matemáticas](../materiales/pisa-2022-fracaso-escolar-matematicas.md).
+**Comparativa internacional (PISA):** [España frente a otros sistemas](../materiales/leyes-educativas/comparativa-pisa-2025-y-sistemas-internacionales.md).
 
-> **Análisis de microdatos PISA 2018 (Aragón / España / B-S-J-Z):**  
-> Control por ESCS: Aragón +14–16 puntos netos sobre España; B-S-J-Z mantiene >110 puntos de ventaja en todos los quintiles socioeconómicos.  
-> → [Análisis completo PISA 2018](../materiales/pisa-2018-aragon-china/analisis-pisa-2018-aragon-china-escs.md)
+---
 
 ## Bibliografía orientativa
 
-- Apple, M. W. (1979). *Ideology and curriculum*. Routledge.
-- Bernal, J. L., Cano, J. y Lorenzo, J. (2014). *Organización de los centros educativos: LOMCE y políticas neoliberales*. Mira Editores.
-
-> Las referencias bibliográficas conservan el título original de las obras; no constituyen adhesión del repositorio a sus marcos.
+Ver [bibliografía de la asignatura](../bibliografia.md) y [autores-pensadores](../../../09-bibliografia/autores-pensadores/).

@@ -18,48 +18,24 @@ Recursos prácticos y transversales (citables desde otras asignaturas y el pract
 | [**Evaluación competencial en Matemáticas (LOMLOE)**](evaluacion-competencial-matematicas-lomloe.md) | 6 |
 | [Banco de instrumentos de evaluación](instrumentos-evaluacion.md) | 6 |
 | [Plantilla de alineación criterio → evidencia](plantilla-alineacion-criterio-evidencia.md) | 5–6 |
-| [DUA — Diseño Universal para el Aprendizaje](dua-diseno-universal-aprendizaje.md) | 4 (transversal) |
 
-## Historia, leyes y condiciones del sistema
+## Tema 1 — Historia, paradigmas y sistema
 
-| Recurso | Uso |
-|---------|-----|
-| [**Leyes educativas (fichas LOECE→LOMLOE)**](leyes-educativas/) | Tema 1 |
+| Recurso | Tema |
+|---------|------|
 | [**Mapa epistemológico de paradigmas**](mapa-epistemologico-paradigmas-educativos.md) | Tema 1 |
 | [**Comparativa PISA 2025**](leyes-educativas/comparativa-pisa-2025-y-sistemas-internacionales.md) | Tema 1 |
-| [**PISA 2018 — Aragón / España / B-S-J-Z**](pisa-2018-aragon-china/) | Tema 1 |
 | [Línea temporal de leyes](linea-temporal-leyes-educativas.md) | Tema 1 |
 | [Burocratización del trabajo docente](burocratizacion-trabajo-docente-analisis-historico.md) | Tema 1 |
+| [TALIS — ficha sintética](talis-ficha-sintetica.md) | Tema 1 |
 | [Comparativa de paradigmas en una tarea de mates](comparativa-paradigmas-tarea-matematicas.md) | Tema 1 |
-| [PISA 2022 y Matemáticas](pisa-2022-fracaso-escolar-matematicas.md) | Evaluación internacional |
-| [TALIS — ficha sintética](talis-ficha-sintetica.md) | Condiciones del profesorado |
-| [Ratio y condiciones de enseñanza](ratio-condiciones-ensenanza.md) | Organización y metodología |
+| [**Referentes progresista / crítica / libertaria**](referentes-progresista-critica-libertaria.md) | Tema 1 — Dewey, Giner, Sensat, Ferrer, Freinet, Freire, Neill |
 
-## Refuerzo transversal
+## Otros
 
-| Recurso | Uso |
-|---------|-----|
-| [Glosario](glosario-procesos-contextos.md) | Términos |
-| [Convivencia y mediación](guia-convivencia-mediacion.md) | Clima |
-| [Gestión de aula y disrupción](gestion-aula-disrupcion-matematicas.md) | Día a día en mates |
-| [Comunicación con familias](../../sociedad-familia-y-procesos-grupales/materiales/comunicacion-con-familias-matematicas.md) | Tutoría |
-
-## Inventario completo de esta carpeta
-
-- `leyes-educativas/` · `pisa-2018-aragon-china/`
-- `guia-observacion-practicum-por-temas.md` · `guia-convivencia-mediacion.md`
-- `gestion-aula-disrupcion-matematicas.md`
-- `evaluacion-competencial-matematicas-lomloe.md`
-- `mapa-epistemologico-paradigmas-educativos.md` · `img/`
-- `burocratizacion-trabajo-docente-analisis-historico.md`
-- `checklist-observacion-centro-aula.md` · `comparativa-paradigmas-tarea-matematicas.md`
-- `dua-diseno-universal-aprendizaje.md` · `estructuras-aprendizaje-cooperativo.md`
-- `glosario-procesos-contextos.md` · `instrumentos-evaluacion.md`
-- `linea-temporal-leyes-educativas.md` · `mapa-medidas-atencion-diversidad.md`
-- `mapa-sistema-educativo.md` · `organos-y-documentos-de-centro.md`
-- `pisa-2022-fracaso-escolar-matematicas.md` · `plantilla-alineacion-criterio-evidencia.md`
-- `ratio-condiciones-ensenanza.md` · `talis-ficha-sintetica.md`
-
-## Enlaces
+- `leyes-educativas/` — fichas LOECE…LOMLOE
+- `pisa-2018-aragon-china/` · `pisa-2022-fracaso-escolar-matematicas.md`
+- `dua-diseno-universal-aprendizaje.md` · `ratio-condiciones-ensenanza.md`
+- `glosario-procesos-contextos.md`
 
 - [Programa](../programa.md) · [Apuntes](../apuntes/) · [Bibliografía](../bibliografia.md) · [Examen](../examen/) · [SFYPG](../../sociedad-familia-y-procesos-grupales/)
