@@ -24,6 +24,11 @@ El **perfil de salida** describe lo que se espera al terminar la ESO. Se articul
 
 En Matemáticas el vínculo más directo suele ser con **STEM**, sin olvidar comunicación, digital, personal/social y ciudadana.
 
+> **Nota de rigor — CCEC («conciencia y expresión culturales»).**  
+> En el marco europeo el constructo es *Cultural **awareness** and expression*. *Awareness* apunta sobre todo a *percatarse / conocer*; en español, «conciencia» arrastra a menudo un sema moral-afectivo que **no es directamente evaluable** con rúbricas escolares. En la práctica se operativizan análisis, comparación y producción cultural —no el fuero interno—.  
+> En Matemáticas: preferir evidencias observables (patrimonio, historia de ideas, representaciones) e **evitar** indicadores del tipo «muestra conciencia…» o «se sensibiliza…».  
+> Desarrollo: [crítica CCEC — conciencia cultural](../materiales/critica-ccec-conciencia-cultural.md).
+
 ---
 
 ## Parte C · De los descriptores STEM a la materia
@@ -162,4 +167,5 @@ Contextos en los que el alumnado moviliza competencias y saberes. No son un ador
 
 - [04 — Programación didáctica](04-programacion-didactica.md)  
 - [02 — Evolución curricular y normativa](02-evolucion-curricular-y-normativa.md)  
+- [Crítica CCEC — conciencia cultural](../materiales/critica-ccec-conciencia-cultural.md)  
 - Temarios Aragón: `materiales/temarios-matematicas-aragon/`
