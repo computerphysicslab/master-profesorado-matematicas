@@ -32,9 +32,9 @@ Ya en el repo (columna vertebral pedagógica del mismo polo): [Durkheim](./03-so
 | [Sócrates](./01-filosofia-educacion/socrates.md) | Filosofía del diálogo | mayéutica; diálogo socrático | Procesos; Diseño de actividades; Habilidades comunicativas |
 | [Platón](./01-filosofia-educacion/platon.md) | Filosofía de la educación | conocimiento; formación intelectual | Procesos; Contenidos disciplinares |
 | [Aristóteles](./01-filosofia-educacion/aristoteles.md) | Filosofía | experiencia; hábito; lógica | Psicología; Procesos |
-| [José de Calasanz](./01-filosofia-educacion/jose-de-calasanz.md) | Escuela popular | gratuidad; ábaco; Escuelas Pías | Procesos |
+| [San José de Calasanz](./01-filosofia-educacion/jose-de-calasanz.md) | Escuela popular | gratuidad; ábaco; Escuelas Pías | Procesos |
 | [Comenio](./01-filosofia-educacion/comenio.md) | Didáctica moderna | enseñanza sistemática | Procesos |
-| [Juan Bautista de La Salle](./01-filosofia-educacion/juan-bautista-de-la-salle.md) | Escuela primaria moderna | método simultáneo; formación de maestros | Procesos |
+| [San Juan Bautista de La Salle](./01-filosofia-educacion/juan-bautista-de-la-salle.md) | Escuela primaria moderna | método simultáneo; formación de maestros | Procesos |
 | [Rousseau](./01-filosofia-educacion/rousseau.md) | Filosofía | educación natural | Psicología; Procesos |
 | [Pestalozzi](./01-filosofia-educacion/pestalozzi.md) | Pedagogía | intuición; educación integral | Procesos |
 | [Fröbel](./01-filosofia-educacion/froebel.md) | Pedagogía infancia | juego; kindergarten | Psicología; Procesos |
