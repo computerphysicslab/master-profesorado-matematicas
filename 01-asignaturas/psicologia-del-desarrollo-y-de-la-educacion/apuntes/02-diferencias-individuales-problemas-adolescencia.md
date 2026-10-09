@@ -5,100 +5,49 @@
 
 ---
 
-## 1. Diferencias individuales: de dónde salen
+## 1. Diferencias individuales (mapa)
 
-| Origen | Ejemplos |
-|--------|----------|
-| **Desarrollo** | Ritmo puberal, avance cognitivo desigual, temperamento |
-| **Aprendizaje previo** | Lagunas, hábitos de estudio, autoeficacia |
-| **Contexto** | Familia, pares, cultura, lengua, recursos |
-| **Necesidades específicas** | NEAE, neurodivergencia, altas capacidades, incorporación tardía |
+Los adolescentes no constituyen un grupo homogéneo. Conviven diferencias de **ritmo de desarrollo**, **aptitudes**, **conocimientos previos**, **estilos de afrontamiento**, **contexto familiar y socioeconómico** y, en su caso, **necesidades específicas de apoyo educativo**.
 
-El grupo-clase de Secundaria es **heterogéneo por definición**. La respuesta profesional es el diseño flexible (DUA, andamiaje), no la ficción de un alumno medio.
+En Matemáticas, lo observable en el aula (rendimiento en una prueba, velocidad, participación) **no agota** la capacidad ni el potencial: mediatizan la ansiedad, el tiempo disponible, el miedo al ridículo y el diseño de la tarea.
 
 ---
 
-## 2. Qué observar (sin diagnosticar)
+## 2. Problemas frecuentes (orientación docente)
 
-El docente registra **conductas y aprendizajes**, no pone etiquetas clínicas:
+| Ámbito | Señales de alerta en el aula | Respuesta de partida |
+|--------|------------------------------|----------------------|
+| Atención / impulsividad | Abandono de tareas multi-paso; errores por precipitación | Fragmentar, apoyos visuales, feedback frecuente ([FE](../materiales/funciones-ejecutivas-matematicas.md), [neurodivergencia](../materiales/neurodivergencia-aula-matematicas.md)) |
+| Aprendizaje matemático | Dificultad persistente con sentido numérico / procedimientos | Observar, adaptar, coordinar; [discalculia / DEA](../materiales/discalculia-y-dea-matematicas.md) |
+| Ansiedad / evitación | Bloqueo en exámenes; «soy malo en mates» | [Ansiedad matemática](../materiales/ansiedad-matematica-aula.md); no ridiculizar el error |
+| Conducta | Conflictos, oposición, desconexión | [Registro ABC](../materiales/registro-abc-conducta.md); normas claras |
+| Riesgo emocional grave | Ideación, aislamiento extremo, autolesiones | [Protocolo de derivación](../materiales/suicidio-juvenil-rrss-rol-docente.md) — **no** gestionar en solitario |
 
-- ritmo de trabajo y atención sostenida;  
-- reacción al error y a la evaluación;  
-- relación con pares (inclusión / exclusión);  
-- cambios bruscos de rendimiento o humor;  
-- barreras de acceso (lectura, idioma, asistencia).
-
-Ante sospecha de necesidad específica: **orientación** y protocolos de centro.
-
----
-
-## 3. Neurodivergencia (marco breve)
-
-La **neurodivergencia** (TDAH, TEA/autismo, dislexia, discalculia, etc.) implica perfiles distintos de atención, procesamiento o comunicación. En el aula de Matemáticas importa sobre todo:
-
-- bajar barreras de **acceso** (enunciado, copia, tiempo de organización);  
-- ajustar **carga** y **andamiaje** sin renunciar al aprendizaje;  
-- **coordinar** con tutoría/orientación; no diagnosticar en el pasillo.
-
-Perfiles, ajustes ordinarios, fortalezas y checklist:  
-→ **[Material: Neurodivergencia en el aula de Matemáticas](../materiales/neurodivergencia-aula-matematicas.md)**  
-→ Discalculia en detalle: [discalculia-y-dea-matematicas.md](../materiales/discalculia-y-dea-matematicas.md)
+**Límite del rol:** el docente observa, adapta y **deriva**; no diagnostica.
 
 ---
 
-## 4. Problemas frecuentes en la adolescencia (mapa escolar)
+## 3. Inclusión y diseño
 
-| Ámbito | Manifestaciones en el centro | Notas para el docente |
-|--------|------------------------------|------------------------|
-| **Motivación / aburrimiento** | Pasotismo, mínimo esfuerzo | Sentido de la tarea; retos graduados |
-| **Ansiedad evaluativa** | Bloqueo, evitación, quejas somáticas | Reducir amenaza; no solo «estudiar más» |
-| **Ansiedad matemática** | Evitar mates, pánico ante problemas | Ver [afectividad–motivación](../../optativas/educacion-emocional-en-el-profesorado/materiales/afectividad-y-motivacion-intrinseca.md) |
-| **Conducta disruptiva** | Interrupciones, desafío | Límites claros; no lucha de egos; convivencia |
-| **Acoso / exclusión** | Burlas, aislamiento | Protocolo inmediato |
-| **Sueño y hábitos** | Somnolencia, trabajos sin hacer | Coordinación tutorial; realismo de deberes |
-| **Identidad y autoestima** | «No valgo», comparación social | Feedback de proceso; evitar ridículo |
-| **Riesgos (consumo, autolesión, conducta suicida)** | Señales de alarma; RRSS como amplificador | **Derivar**; no improvisar terapia — ver [suicidio juvenil y RRSS](../materiales/suicidio-juvenil-rrss-rol-docente.md) |
-| **Atención / RRSS** | Scroll, comparación, pérdida de presencia | Normas de móvil del centro; ver [Haidt — redes y atención](../materiales/haidt-redes-atencion-adolescencia.md) |
+- **DUA** y tareas con **mismo objetivo, distinto andamiaje**: [tareas multinivel](../materiales/diseno-tareas-multinivel-matematicas.md) · [DUA](../../procesos-y-contextos-educativos/materiales/dua-diseno-universal-aprendizaje.md).  
+- Evitar bajar el listón cognitivo como única respuesta a la diversidad: ajustar **apoyos**, no siempre el **objetivo**.
 
 ---
 
-## 5. Principio de intervención en el aula
+## 4. Adolescencia digital y salud mental (puentes)
 
-```text
-Prevenir (diseño, clima, normas)
-  → Intervenir en lo ordinario (límite, andamiaje, tutoría)
-    → Coordinar / derivar (orientación, jefatura, familias según protocolo)
-```
-
----
-
-## 6. Diferencias y Matemáticas
-
-| Diferencia | Ajuste didáctico |
-|------------|------------------|
-| Ritmos distintos | Rutas de tarea (DUA); tiempo flexible formativo |
-| Lagunas previas | Diagnóstico breve; no asumir el temario del curso anterior |
-| Neurodivergencia (TDAH, TEA, dislexia, discalculia…) | Ver [material neurodivergencia](../materiales/neurodivergencia-aula-matematicas.md) |
-| Alta capacidad / 2e | Enriquecimiento y, si hay DEA asociada, apoyo en ambos ejes |
-| Lengua / acceso | Enunciados claros; apoyo visual; colaboración con especialistas |
-
----
-
-## 7. Preguntas de repaso
-
-1. Diferencia «observar una dificultad» y «diagnosticar».  
-2. Pon un ejemplo de problema frecuente y una respuesta *solo* de aula vs. una que exige derivación.  
-3. ¿Cómo evita el DUA tratar la diversidad como excepción?  
-4. Señala dos ajustes ordinarios distintos para un perfil de TDAH y para un perfil TEA en una tarea de problemas multi-paso.
+- [Haidt — redes y atención](../materiales/haidt-redes-atencion-adolescencia.md)  
+- [Suicidio juvenil, RRSS y rol docente](../materiales/suicidio-juvenil-rrss-rol-docente.md)
 
 ---
 
 ## Material relacionado
 
-- **[Neurodivergencia en el aula de Matemáticas](../materiales/neurodivergencia-aula-matematicas.md)**  
+- [Neurodivergencia en el aula de Matemáticas](../materiales/neurodivergencia-aula-matematicas.md)  
 - [Discalculia y DEA](../materiales/discalculia-y-dea-matematicas.md)  
+- [Ansiedad matemática](../materiales/ansiedad-matematica-aula.md)  
+- [Diseño de tareas multinivel](../materiales/diseno-tareas-multinivel-matematicas.md)  
 - [Funciones ejecutivas](../materiales/funciones-ejecutivas-matematicas.md)  
-- **[Haidt — redes, atención y adolescencia](../materiales/haidt-redes-atencion-adolescencia.md)** — atención, diseño adictivo, escuelas sin móvil  
-- **[Suicidio juvenil, RRSS y rol del docente](../materiales/suicidio-juvenil-rrss-rol-docente.md)** — detección, derivación, factores protectores  
+- [Suicidio juvenil / derivación](../materiales/suicidio-juvenil-rrss-rol-docente.md)  
 - [DUA](../../procesos-y-contextos-educativos/materiales/dua-diseno-universal-aprendizaje.md)  
-- [Tema 1 — Desarrollo](01-desarrollo-adolescencia.md)  
+- [Tema 1 — Desarrollo](01-desarrollo-adolescencia.md)
