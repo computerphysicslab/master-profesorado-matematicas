@@ -109,3 +109,31 @@ Mapa **cronológico por año de nacimiento** de pensadores con influencia releva
 **1651 — [San Juan Bautista de La Salle](./01-filosofia-educacion/juan-bautista-de-la-salle.md).** Método simultáneo; formación de maestros; escuela para hijos de artesanos y pobres.
 
 <br clear="all"/>
+
+---
+
+## Ilustración y pedagogía del XVIII–XIX
+
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Jean-Jacques_Rousseau_%28painted_portrait%29.jpg/120px-Jean-Jacques_Rousseau_%28painted_portrait%29.jpg" width="100" alt="Rousseau" align="left" style="margin:4px 12px 8px 0"/>
+
+**1712 — [Jean-Jacques Rousseau](./01-filosofia-educacion/rousseau.md).** *Emilio*: educación según la naturaleza y las etapas; respeto al ritmo del educando.
+
+<br clear="all"/>
+
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Immanuel_Kant_-_Gemaelde_1.jpg/120px-Immanuel_Kant_-_Gemaelde_1.jpg" width="100" alt="Kant" align="left" style="margin:4px 12px 8px 0"/>
+
+**1724 — Immanuel Kant.*** De la naturaleza a la autonomía racional y moral; disciplina, cultura y moralidad.
+
+<br clear="all"/>
+
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Johann_Heinrich_Pestalozzi_%28Reber%29.jpg/120px-Johann_Heinrich_Pestalozzi_%28Reber%29.jpg" width="100" alt="Pestalozzi" align="left" style="margin:4px 12px 8px 0"/>
+
+**1746 — [Johann Heinrich Pestalozzi](./01-filosofia-educacion/pestalozzi.md).** Educación integral (cabeza, corazón y manos); intuición sensorial; escuela popular.
+
+<br clear="all"/>
+
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Friedrich_Froebel.jpg/120px-Friedrich_Froebel.jpg" width="100" alt="Fröbel" align="left" style="margin:4px 12px 8px 0"/>
+
+**1782 — [Friedrich Fröbel](./01-filosofia-educacion/froebel.md).** Juego y *Kindergarten*; educación de la primera infancia.
+
+<br clear="all"/>
