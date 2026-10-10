@@ -1,18 +1,18 @@
-# Conclusiones actualizadas (Ciclo 5)
+# Conclusiones actualizadas (Ciclo 6)
 
-## Núcleo cognitivo-pedagógico (sin cambio)
-El argumento Elkonin-Davydov (ascenso de lo abstracto a lo concreto mediante mediación) es teóricamente fiel, lógicamente sólido y compatible con la evidencia empírica disponible (early algebra RCT de Blanton, revisiones rusas, ciencia cognitiva de la carga y el expertise-reversal). Las pedagogías que desplazan el conocimiento disciplinar y la instrucción guiada en favor del descubrimiento mínimamente guiado y las competencias genéricas son, en promedio, desfavorables al desarrollo del pensamiento teórico.
+## Paralelismo Values Clarification ↔ Discovery mínimamente guiado
 
-## Extensión ética (nueva)
-La misma lógica se aplica, de forma hipotética pero coherente, al dominio moral:
+El paralelismo no es retórico: es estructural.
 
-- El razonamiento moral principiado (Kohlberg postconvencional) exige abstracción formal.
-- Enfoques pedagógicos que relegan la transmisión de principios/virtudes abstractas en favor de la mera clarificación de valores personales (Values Clarification) o de lo exclusivamente concreto/situacional tienden a dejar al alumno sin herramientas para trascender el particularismo.
-- El paralelismo es estructural:  
-  **Matemáticas** → dar primero las estructuras (valor posicional, relaciones) para no quedar como traductor perpetuo de lo concreto.  
-  **Ética** → dar primero las estructuras (virtudes, principios de justicia) para no quedar como relativista situacional perpetuo.
+Ambos enfoques:
+1. Desconfían de la transmisión de estructuras abstractas ya elaboradas por la cultura.
+2. Parten de la experiencia inmediata / preferencias del alumno.
+3. Asignan al maestro un rol de facilitador neutral o de guía mínima.
+4. Resultan, según la evidencia disponible, inferiores para novatos: dejan al alumno sin las herramientas potentes (conceptos matemáticos o principios éticos) que le permitirían trascender lo particular.
 
-Esta extensión es **plausible y valiosa para la discusión**, pero permanece en el terreno de la hipótesis bien fundamentada, no de la conclusión causal firme. Los factores culturales extraescolares son confusores mayores.
+Values Clarification es el caso histórico más documentado de esta lógica aplicada al dominio moral. Su auge (60-70) y declive (a partir de los 80), junto con la autocrítica de uno de sus principales promotores (Kirschenbaum), ilustran los límites de la postura «solo clarificar, nunca transmitir».
 
-## Formulación práctica ampliada
-La educación que quiere formar pensadores capaces de rigor (matemático o ético) no debe condenar a cada generación a reinventar las ruedas conceptuales desde lo concreto inmediato. Debe ofrecer las abstracciones culturales potentes —ya sean el sistema decimal o las categorías de justicia y virtud— como legado, mediadas de forma viva, para que el alumno las interiorice y luego descienda con ellas a lo particular.
+La alternativa coherente con Elkonin-Davydov y con la ciencia cognitiva es la misma en ambos dominios:  
+**ofrecer primero las abstracciones culturales potentes (estructuras matemáticas o virtudes/principios éticos) mediante mediación viva, para que el alumno las internalice como herramientas propias y luego descienda con ellas a lo concreto y a la elección personal.**
+
+Esta es la formulación más precisa y accionable que la investigación ha alcanzado hasta el momento.

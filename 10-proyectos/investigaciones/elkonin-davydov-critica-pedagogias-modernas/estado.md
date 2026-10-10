@@ -1,40 +1,36 @@
-# Estado de la investigación — Ciclo 5 (profundización ética y abstracción)
+# Estado de la investigación — Ciclo 6 (paralelismo Values Clarification)
 **Fecha:** 2026-10-10
 
-## Pregunta en foco
-¿La mayor tendencia de las nuevas generaciones a relativizar el bien y el mal (dificultad para sostener juicios absolutos o principados) podría originarse, en parte, en un déficit de abstracción y pensamiento filosófico fomentado por pedagogías centradas en lo concreto, lo práctico y la autonomía temprana?
+## Profundización del paralelismo estructural
 
-## Hallazgos del Ciclo 5 (profundización)
+### Qué fue Values Clarification
+- Origen: Louis Raths (influido por Carl Rogers), con Merrill Harmin y Sidney Simon. Libro fundacional *Values and Teaching* (1966). Manual de estrategias de Simon et al. se convirtió en bestseller.
+- Tesis central: el profesor **no debe inculcar** valores (eso sería «sermonear» o adoctrinar). Debe ayudar al alumno a *clarificar* los suyos propios mediante un proceso de elección libre, prizing y actuación. El valor es lo que cada uno elige, aprecia y practica.
+- Contexto: reacción contra la educación moral tradicional (inculcación de virtudes) y contra el relativismo cultural percibido de la época; se presentaba como «libre de valores» o neutral.
+- Auge: finales de los 60 y 70 en EE.UU. Declive rápido a partir de los 80 por críticas teóricas, políticas y de eficacia.
 
-### 1. Condición cognitiva de la moral principiada (Kohlberg + Piaget)
-- El nivel **postconvencional** de Kohlberg (principios éticos universales, justicia abstracta) requiere como condición necesaria (aunque no suficiente) el pensamiento de **operaciones formales**: capacidad de razonar hipotético-deductivamente, manejar abstracciones sin referente concreto y considerar posibilidades sistemáticas.
-- Sin esta capacidad abstracta, el razonamiento moral tiende a permanecer en niveles preconvencionales (consecuencias inmediatas) o convencionales (normas del grupo).
-- Esto conecta directamente con el núcleo de la investigación: si las pedagogías modernas empobrecen el pensamiento teórico/abstracto (como se argumentó desde Davydov y la ciencia cognitiva), reducen la probabilidad de alcanzar juicios morales principados.
+### Críticas principales (verificadas)
+- **Teóricas** (Harrison 1976, Suttle 1982, Lockwood 1978): carece de fundamentos sólidos; trata los juicios de valor como meras preferencias personales en vez de afirmaciones susceptibles de análisis y justificación cognitiva; descansa en supuestos empíricos no probados.
+- **Morales/prácticas**: al negarse a transmitir principios objetivos, tiende al relativismo práctico («cada uno tiene sus valores y todos son igualmente válidos»). No forma carácter.
+- **Evidencia de eficacia** (Leming 1981 y revisiones): poca o ninguna confianza en su efectividad curricular.
+- **Evolución interna**: Howard Kirschenbaum (uno de los líderes del movimiento) reconoció en 2000 un fallo conceptual grave: insistir en que la clarificación *por sí sola* bastaba. Pasó a defender una educación del carácter integral que combina inculcación, modelado y facilitación de la elección.
 
-### 2. Values Clarification vs Character Education / Virtue Ethics
-- El enfoque de **Values Clarification** (Simon, Raths et al., décadas 1960-80) enfatiza que el alumno clarifique *sus propios* valores sin transmisión de principios objetivos. Críticas reiteradas (Suttle 1982, Leming 1981, Kirschenbaum posterior evolución): carece de análisis cognitivo de juicios de valor como afirmaciones justificables; tiende a producir relativismo práctico y debilita la formación del carácter.
-- En contraste, la **Character Education** y los modelos de virtud ética enfatizan la transmisión e internalización de virtudes concretas + modelado + práctica, junto con el razonamiento. Evidencia histórica y comparativa sugiere mayor eficacia en conducta moral que la mera clarificación.
-- Paralelismo con la investigación principal: Values Clarification es el análogo moral del «descubrimiento mínimamente guiado» y del empirismo concreto-primero; Character Education / virtud se acerca más a la mediación de abstracciones culturales potentes (principios, virtudes) que el alumno internaliza como herramientas propias.
+### El paralelismo con el núcleo de la investigación (estructural, no meramente analógico)
 
-### 3. Estado del estudio Sangwa (2025)
-- Sigue siendo la evidencia correlacional cross-nacional más directa que vincula pedagogías learner-centered con relativismo moral / ética situacional.
-- No se han encontrado aún réplicas independientes ni críticas académicas extensas (es muy reciente: noviembre 2025). Se mantiene como apoyo provisional, con la cautela metodológica ya registrada (orientación confesional, diseño secundario).
+| Dimensión | Values Clarification (moral) | Discovery mínimamente guiado / empirismo concreto (cognitivo) | Elkonin-Davydov / Character Education |
+|-----------|------------------------------|---------------------------------------------------------------|---------------------------------------|
+| Punto de partida | Experiencia y preferencias del alumno | Experiencia concreta / descubrimiento autónomo | Abstracciones culturales potentes (principios, estructuras) |
+| Rol del maestro | Facilitador neutral («no sermonear») | Guía mínima o facilitador | Mediador que ofrece el legado cultural |
+| Riesgo principal | Relativismo situacional; alumno sin herramientas para trascender lo particular | Pensamiento empírico; «traductor perpetuo» de lo concreto | Formalismo vacío si se ofrece sin mediación viva |
+| Objetivo declarado | Clarificar *sus* valores | Construir conocimiento desde la experiencia | Internalizar herramientas abstractas para pensar y actuar con rigor |
+| Evidencia de eficacia | Baja (revisiones 1978-81) | Inferior para novatos (Kirschner-Sweller-Clark, meta-análisis) | Superior en pensamiento teórico (Davydov) y, en moral, en formación de carácter |
 
-### 4. Evidencia contraria / matices importantes
-- El relativismo moral (en el sentido piagetiano de moral autónoma) es un logro evolutivo normal, no necesariamente una patología.
-- Algunos estudios de educación superior encuentran que la formación avanzada *aumenta* la certeza moral (absolutismo) en ciertos campos, no solo el relativismo.
-- Factores no escolares (redes, pluralismo cultural, declive de instituciones religiosas/tradicionales) son confounders potentes y probablemente dominantes.
-- No existe aún un diseño experimental que aísle el efecto del «orden concreto-primero en matemáticas/lengua» sobre el juicio moral absoluto.
+**Tesis del paralelismo:**  
+Ambos enfoques comparten la misma lógica epistemológica y pedagógica: desconfiar de la transmisión de estructuras abstractas ya elaboradas por la cultura (principios morales o conceptos matemáticos) y confiar en que el alumno, partiendo de lo inmediato y personal, llegará por sí mismo a generalizaciones valiosas. En ambos casos la evidencia y la crítica teórica convergen en que, para novatos, ese camino es ineficiente y deja al alumno sin las herramientas potentes que la cultura ya ha conquistado.
 
-## Síntesis actualizada de H5
-H5 permanece **plausible y teóricamente coherente**:
-- La abstracción es condición necesaria para el razonamiento moral principiado (Kohlberg).
-- Pedagogías que relegan la abstracción y la mediación de principios (Values Clarification, discovery mínimamente guiado, énfasis exclusivo en lo tangible) empobrecen esa condición.
-- El paralelismo con Elkonin-Davydov es fuerte: dar primero las estructuras abstractas (matemáticas o éticas) como legado cultural permite luego descender a lo concreto sin quedar atrapado en el particularismo situacional.
+### Relación con H5 (relativismo moral)
+Values Clarification es el ejemplo histórico más claro de una pedagogía moral que, al rechazar la mediación de principios abstractos objetivos, favorece el relativismo. Su auge y declive ilustran los límites de la postura «solo clarificar, nunca transmitir». El paralelismo refuerza la plausibilidad de H5 sin convertirla aún en causalidad demostrada.
 
-Sin embargo, H5 **no es causalidad demostrada**. Es una hipótesis de investigación que articula bien el núcleo cognitivo-pedagógico con la dimensión moral, pero requiere evidencia más fina para elevarse a conclusión firme.
-
-## Decisiones registradas
-- Se incorpora el paralelismo Values Clarification ↔ discovery mínimamente guiado / Character Education ↔ mediación de abstracciones potentes.
-- Se mantiene la cautela causal.
-- Se refuerza la relevancia de Davydov/Vygotsky no solo para matemáticas, sino como modelo general de transmisión de herramientas culturales abstractas (incluidas las éticas).
+## Estado de las hipótesis
+- H1 + H3: reforzadas.  
+- H5: articulada con mayor precisión histórica y estructural mediante el paralelismo Values Clarification. Sigue siendo hipótesis plausible, no conclusión causal firme.

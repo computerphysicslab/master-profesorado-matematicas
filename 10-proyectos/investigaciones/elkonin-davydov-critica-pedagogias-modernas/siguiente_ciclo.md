@@ -1,12 +1,12 @@
 # Siguiente ciclo
 **Fecha:** 2026-10-10
 
-## Tras la profundización ética
-H5 está ahora mejor articulada teóricamente (Kohlberg + paralelismo Values Clarification / Character Education). La evidencia causal directa sigue siendo limitada.
+La profundización del paralelismo con Values Clarification está completa.  
+La investigación principal dispone ahora de:
+- Núcleo cognitivo-pedagógico sólido (Davydov + ciencia cognitiva + early algebra RCT).
+- Extensión ética hipotética bien articulada (Kohlberg + paralelismo Values Clarification / Character Education).
 
-## Opciones de continuación
-1. Cerrar la investigación principal con la síntesis actual (cognitiva + ética hipotética).  
-2. Elaborar secuencias didácticas de matemáticas que ilustren el orden abstracto-primero (entregable más práctico para el profesorado).  
-3. Buscar más datos longitudinales o críticas específicas al vínculo pedagogía-relativismo moral.
-
-Se recomienda la opción 1 o 2 según el objetivo prioritario (síntesis teórica vs utilidad docente inmediata).
+Opciones:  
+1. Cerrar con la síntesis actual.  
+2. Elaborar secuencias didácticas de matemáticas (orden abstracto-primero).  
+3. Explorar más la dimensión de formación del carácter en el aula de matemáticas.

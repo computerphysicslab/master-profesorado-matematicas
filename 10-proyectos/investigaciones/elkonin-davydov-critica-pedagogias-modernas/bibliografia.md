@@ -1,18 +1,21 @@
-# Bibliografía verificada — Ciclos 1–5
+# Bibliografía verificada — Ciclos 1–6
 
-## Profundización ética-abstracción (Ciclo 5)
+## Values Clarification (profundización Ciclo 6)
 
-27. **Kohlberg, L.** Teoría del desarrollo moral. Nivel postconvencional requiere operaciones formales (pensamiento abstracto hipotético-deductivo) como condición necesaria.
+33. **Raths, L. E., Harmin, M., & Simon, S. B. (1966/1978).** *Values and Teaching: Working with Values in the Classroom*. Libro fundacional.
 
-28. **Suttle, B. B. (1982).** Moral Education Versus Values Clarification. *Journal of Educational Thought*. Crítica: Values Clarification carece de tratamiento de juicios de valor como afirmaciones objetivas justificables y de formación de carácter.
+34. **Simon, S. B., Howe, L. W., & Kirschenbaum, H.** *Values Clarification: A Handbook of Practical Strategies*. Bestseller de estrategias de aula.
 
-29. **Leming, J. S. (1981).** Curricular Effectiveness in Moral/Values Education: A Review of Research. *Journal of Moral Education*. Poca confianza en la eficacia de Values Clarification; optimismo cauteloso para enfoques de desarrollo moral.
+35. **Harrison, J. L. (1976).** Values Clarification: An Appraisal. *Journal of Moral Education*, 6(1). Crítica: fundamentos teóricos insuficientes y supuestos empíricos no probados.
 
-30. **Kirschenbaum, H. (2000).** From Values Clarification to Character Education: A Personal Journey. Evolución del propio promotor de Values Clarification hacia la educación del carácter integral.
+36. **Lockwood, A. L. (1978).** The Effects of Values Clarification and Moral Development Curricula… *Review of Educational Research*. Revisión de efectos.
 
-31. Estudios comparativos de modelos (bag-of-virtues, value-clarification, virtue-ethics): mayor eficacia conductual de enfoques que combinan transmisión de virtudes + modelado + razonamiento.
+37. **Suttle, B. B. (1982).** Moral Education Versus Values Clarification. *Journal of Educational Thought*.
 
-32. Sangwa (2025) — se mantiene como referencia correlacional cross-nacional (sin réplicas independientes localizadas aún).
+38. **Leming, J. S. (1981).** Curricular Effectiveness in Moral/Values Education. *Journal of Moral Education*. Poca confianza en Values Clarification.
+
+39. **Kirschenbaum, H. (2000).** From Values Clarification to Character Education: A Personal Journey. *Journal of Humanistic Counseling…*. Reconocimiento del fallo conceptual y evolución hacia educación del carácter integral.
+
+40. **Dabdoub, J. P. (2021).** Brief history of Values Clarification: Origin, development, downfall… *Revista Española de Pedagogía*. Síntesis histórica del auge y declive.
 
 ## Bibliografía previa se mantiene
-(Davydov, Engeström, Sidneva, Schmittau, Blanton et al. 2019, Kirschner-Sweller-Clark, Lazonder & Harmsen, Willingham, Christodoulou, Hirsch, Luri, Enkvist, PISA 2025, Piaget moral, American Worldview Inventory, etc.)
