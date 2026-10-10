@@ -2,7 +2,7 @@
 
 Índice de apuntes, conceptos clave, esquemas y resúmenes de **Contenidos disciplinares de Matemáticas**.
 
-> Los contenidos se incorporan progresivamente según el plan de mejora del repositorio (`00-administracion/PLAN-MEJORA-APUNTES.md`).
+> Los contenidos se incorporan progresivamente según el plan de mejora del repositorio (`99-archivo/PLAN-MEJORA-APUNTES.md`).
 
 ## Programa de referencia ↔ apuntes
 
@@ -25,4 +25,4 @@
 
 - [README de la asignatura](../README.md)
 - [Bibliografía](../bibliografia.md)
-- [Plan de mejora de apuntes](../../../00-administracion/PLAN-MEJORA-APUNTES.md)
+- [Plan de mejora de apuntes](../../../99-archivo/PLAN-MEJORA-APUNTES.md)

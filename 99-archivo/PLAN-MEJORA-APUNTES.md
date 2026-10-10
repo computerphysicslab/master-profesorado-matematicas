@@ -1,6 +1,6 @@
 # Plan de mejora incremental de apuntes — Máster de Profesorado (Matemáticas)
 
-**Ubicación canónica:** `00-administracion/PLAN-MEJORA-APUNTES.md`  
+**Ubicación canónica:** `99-archivo/PLAN-MEJORA-APUNTES.md`  
 **Última actualización:** 2026-10-10  
 **Estado de la auditoría inicial:** completada (Fase I–III)
 
@@ -28,97 +28,57 @@ Realizar una mejora **iterativa, tema a tema**, de los apuntes del repositorio, 
 
 ## 2. Resumen del estado de la auditoría (2026-10-10)
 
-### Estructura del repositorio
-Organizado según `MANIFEST.md`. Núcleo en `01-asignaturas/`. Transversales reales en `02-apuntes/`. Materiales reutilizables en `03-materiales/` (incluye `historias-matematicas/` con ~32 fichas).
-
-### Inventario resumido de cobertura
-
 | Asignatura | Estado de apuntes | Prioridad |
 |------------|-------------------|-----------|
-| Psicología del desarrollo y de la educación | Cubierto (5 temas) | Baja |
-| Procesos y contextos educativos | Cubierto (6 temas) | Baja |
-| Sociedad, familia y procesos grupales | Cubierto (4 temas) | Baja |
-| Diseño curricular e instruccional de Matemáticas | Cubierto / Parcial (9 bloques + materiales ricos) | Media-baja |
-| **Contenidos disciplinares de Matemáticas** | **Casi completo** (T-CD-01 a T-CD-04 disponibles; falta laboratorio) | **Alta** |
-| **Diseño de actividades para el aprendizaje de Matemáticas** | **Sin apuntes** | **Alta** |
-| **Innovación e investigación educativa en Matemáticas** | **Sin apuntes** | **Alta** |
-| Practicum I / II | Parcial (trabajo anonimizado + carcasas) | Media |
-| Trabajo Fin de Máster | Parcial (herramientas y ejemplos) | Media |
-| Educación emocional (optativa) | Cubierto (11+ temas) | Baja |
-| Otras optativas | Sin apuntes o mínimos | Baja |
+| Psicología / Procesos / Sociedad | Cubierto | Baja |
+| Diseño curricular e instruccional | Cubierto / Parcial | Media-baja |
+| **Contenidos disciplinares** | **Completo** (T-CD-01 a T-CD-05) | Baja |
+| **Diseño de actividades** | **En construcción** (T-DA-01) | **Alta** |
+| **Innovación e investigación** | **Sin apuntes** | **Alta** |
+| Practicum / TFM | Parcial | Media |
+| Educación emocional (opt.) | Cubierto | Baja |
 
 ---
 
-## 3. Matriz de cobertura (resumen)
+## 3. Lista ordenada de tareas
 
-Clasificación: Sin apuntes · Pendiente · Parcial · Cubierto · Por verificar.
+### Bloque A — Contenidos disciplinares (cerrado)
 
----
+| ID | Estado |
+|----|--------|
+| T-CD-01 … T-CD-05 | **completadas** |
 
-## 4. Lista ordenada de tareas
+### Bloque B — Diseño de actividades (prioridad actual)
 
-### Bloque A — Contenidos disciplinares de Matemáticas (prioridad 1)
-
-| ID | Tema | Archivo | Estado | Notas |
-|----|------|---------|--------|-------|
-| **T-CD-01** | Visión histórica del desarrollo de las Matemáticas | `…/01-vision-historica.md` | **completada** | 2026-10-10 |
-| **T-CD-02** | Geometría sintética, escuela griega, axiomatización euclidiana | `…/02-geometria-sintetica-euclides.md` | **completada** | 2026-10-10 |
-| **T-CD-03** | Plano ampliado, dualidad, cónicas y génesis de la geometría proyectiva | `…/03-geometria-proyectiva.md` | **completada** | 2026-10-10 |
-| **T-CD-04** | Reflexión sobre conceptos del currículo de Secundaria/Bachillerato | `…/04-reflexion-curricular.md` | **completada** | 2026-10-10 |
-| T-CD-05 | Laboratorio de software / aplicaciones | materiales/ + apuntes | pendiente | |
-| T-CD-05 | Laboratorio de software / aplicaciones | materiales/ + apuntes | pendiente | |
-
-### Bloque B — Diseño de actividades (prioridad 2)
-
-| ID | Tema | Estado |
-|----|------|--------|
-| T-DA-01 | Principios de diseño de tareas matemáticas | pendiente |
+| ID | Tema | Archivo | Estado |
+|----|------|---------|--------|
+| **T-DA-01** | Principios de diseño de tareas matemáticas | `…/diseno-de-actividades…/apuntes/01-principios-diseno-tareas.md` | **completada** |
 | T-DA-02 | Secuenciación y análisis de actividades | pendiente |
 | T-DA-03 | Modelización y situaciones de aprendizaje | pendiente |
 | T-DA-04 | Evaluación de actividades y feedback | pendiente |
 
-### Bloque C — Innovación e investigación (prioridad 3)
+### Bloque C — Innovación e investigación
 
 | ID | Tema | Estado |
 |----|------|--------|
-| T-II-01 | Conceptos de innovación docente en matemáticas | pendiente |
-| T-II-02 | Metodologías de investigación educativa en didáctica de las matemáticas | pendiente |
-| T-II-03 | Análisis de innovaciones y evaluación de impacto | pendiente |
-| T-II-04 | Líneas de investigación y conexión con TFM | pendiente |
-
-### Bloque D — Seguimiento y coherencia
-
-| ID | Tema | Estado |
-|----|------|--------|
-| T-PLAN-01 | Mantener este documento de seguimiento | en curso |
-| T-REV-01 | Coherencia terminológica Diseño curricular ↔ nuevos apuntes S2 | pendiente |
+| T-II-01 … T-II-04 | — | pendiente |
 
 ---
 
-## 5. Registro breve de cambios
+## 4. Registro breve de cambios
 
-| Fecha | Tarea | Cambio realizado |
-|-------|-------|------------------|
-| 2026-10-10 | Auditoría inicial | Diagnóstico, matriz, plan y documento de seguimiento creados |
-| 2026-10-10 | T-CD-01 | Creado `01-vision-historica.md` |
-| 2026-10-10 | T-CD-02 | Creado `02-geometria-sintetica-euclides.md` |
-| 2026-10-10 | T-CD-03 | Creado `03-geometria-proyectiva.md` (plano ampliado, dualidad, cónicas) |
-| 2026-10-10 | T-CD-04 | Creado `04-reflexion-curricular.md` (conceptos subyacentes al currículo) |
+| Fecha | Tarea | Cambio |
+|-------|-------|--------|
+| 2026-10-10 | T-CD-01…05 | Apuntes de Contenidos disciplinares |
+| 2026-10-10 | Ubicación plan | PLAN movido a `99-archivo/` (eliminado de `00-administracion/`) |
+| 2026-10-10 | T-DA-01 | Principios de diseño de tareas matemáticas |
 
 ---
 
-## 6. Próxima tarea recomendada
+## 5. Próxima tarea recomendada
 
-**T-CD-05** — Laboratorio de software matemático / aplicaciones  
-(Reutilizar y ampliar materiales existentes de la asignatura; posibles apuntes o guías de uso en `apuntes/` o `materiales/`).
-
----
-
-## 7. Decisiones pendientes y limitaciones
-
-- Entorno de sandbox con problemas intermitentes de git (locks, fetch). Los ficheros están listos; se intenta commit en cada paso.
-- Grado de detalle histórico vs. enfoque didáctico ya equilibrado en T-CD-01/02/03.
+**T-DA-02** — Secuenciación y análisis de actividades.
 
 ---
 
-*Este documento se actualiza al final de cada ciclo de trabajo.*
+*Documento de seguimiento del plan de mejora de apuntes.*
