@@ -89,3 +89,18 @@ Ganancias pre-post en pensamiento teórico y en rendimiento procedimental; calid
 - Parte de un marco ya explorado y de una laguna empírica clara en contexto español.
 
 **Estado:** propuesta elaborada a partir de investigación acumulativa previa; lista para matizar con el director/a del TFM.
+
+---
+
+## 10. Evaluación de solidez científica
+
+| Dimensión | Puntuación (0–3) | Comentario |
+|-----------|:----------------:|------------|
+| E1. Evidencia previa | 3 | Davydov + CLT/expertise-reversal + Blanton et al. 2019 (cluster RCT) + investigación acumulativa del repo |
+| E2. Calidad de fuentes | 3 | Pares, meta-análisis, RCT; límites explicitados en la investigación de origen |
+| E3. Novedad / hueco | 3 | Orden abstracto→concreto en ESO/Bachillerato español poco explorado; opción AICLE añade hueco |
+| E4. Hipótesis contrastables | 3 | H1–H3, variables, diseño mínimo y riesgos definidos |
+| E5. Viabilidad TFM | 2 | Muy viable en Prácticum; −1 por la dificultad de aislar el factor «orden» de otros |
+| **Total** | **14 / 15** | **Banda: Prioritaria TFM** |
+
+Criterios: [`00-criterios-evaluacion-solidez.md`](00-criterios-evaluacion-solidez.md) · Tabla global: [`README.md`](README.md).
