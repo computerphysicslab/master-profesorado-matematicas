@@ -22,6 +22,14 @@ Cada documento de ley sigue una estructura académica homogénea que facilita la
 | **LOMCE** | 2013 | PP (Rajoy) | [lomce-2013.md](lomce-2013.md) |
 | **LOMLOE** | 2020 | PSOE-UP (Sánchez) | [lomloe-2020.md](lomloe-2020.md) |
 
+## Lectura crítica del discurso normativo
+
+| Recurso | Contenido |
+|---------|-----------|
+| [**Análisis de sesgo del preámbulo de la LOMLOE**](lomloe-preambulo-analisis-sesgo.md) | El preámbulo como alegato político-legislativo (no diagnóstico técnico neutral): sesgos ideológico, terminológico, de selección, de autoridad, teleológico, de género/diversidad, territorial y económico-social |
+
+Útil para no confundir *valores declarados* del legislador con *efectos medibles* del sistema (contrastar con PISA/TALIS y con la ficha de la LOMCE).
+
 ## Comparativa internacional y mapa de paradigmas
 
 | Recurso | Contenido |
@@ -38,6 +46,7 @@ Relacionado en la carpeta de materiales: [PISA 2022 — fracaso escolar y matem�
 - Leer el resumen comparativo del apunte principal del Tema 1.
 - Consultar el documento detallado de cada ley según se trabaje en clase o en el estudio personal.
 - Utilizar la sección 5 (Paradigmas) para conectar con el marco teórico del tema (Racional-Tecnológico, Interpretativo-Constructivista, Socio-Crítico).
+- Leer el [análisis de sesgo del preámbulo LOMLOE](lomloe-preambulo-analisis-sesgo.md) antes de tomar el preámbulo como fuente «factual».
 - Situar LOMCE / LOMLOE / China en el [mapa epistemológico](../mapa-epistemologico-paradigmas-educativos.md).
 - Contrastar con la [comparativa PISA 2025](comparativa-pisa-2025-y-sistemas-internacionales.md) al debatir resultados y transferibilidad de políticas.
 

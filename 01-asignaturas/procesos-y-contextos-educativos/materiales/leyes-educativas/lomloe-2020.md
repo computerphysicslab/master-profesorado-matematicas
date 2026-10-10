@@ -3,6 +3,8 @@
 **Referencia legal:** Ley Orgánica 3/2020, de 29 de diciembre, por la que se modifica la Ley Orgánica 2/2006, de 3 de mayo, de Educación (LOMLOE).  
 **Naturaleza:** Modificación sustancial de la LOE orientada a revertir aspectos de la LOMCE y a actualizar el sistema (DUA, competencias, Agenda 2030). Ley vigente.
 
+**Lectura crítica del preámbulo:** [lomloe-preambulo-analisis-sesgo.md](lomloe-preambulo-analisis-sesgo.md) — el preámbulo es un alegato político-legislativo con sesgo explícito; no es un diagnóstico técnico neutral.
+
 ---
 
 ## 1. Marco Contextual
@@ -27,6 +29,8 @@ Revertir segregación temprana y reválidas de la LOMCE; reducir abandono; actua
 ## 2. Orientación del discurso normativo
 
 La LOMLOE se presenta como una **reversión de la LOMCE** y una actualización de la LOE. Entre las críticas habituales figuran: pérdida de exigencia, debilitamiento de la cultura del esfuerzo, efectos sobre la enseñanza concertada y la asignatura de Religión, y un exceso de contenidos transversales en el currículo. Otros sectores critican que no avanza lo suficiente en la reducción del peso de la concertada.
+
+El **preámbulo** articula ese relato de forma valorativa (LOMCE como ruptura; LOMLOE como restauración equitativa). Análisis detallado del sesgo: [lomloe-preambulo-analisis-sesgo.md](lomloe-preambulo-analisis-sesgo.md).
 
 ---
 
