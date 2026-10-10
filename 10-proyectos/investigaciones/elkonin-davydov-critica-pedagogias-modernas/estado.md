@@ -1,57 +1,38 @@
-# Estado de la investigación — Ciclo 2 (actualizado)
-**Tema:** Validez del argumento Elkonin-Davydov (ascenso de lo abstracto a lo concreto) frente a pedagogías empiristas/modernas, y evaluación de si los elementos novedosos de la «nueva escuela» favorecen o perjudican el desarrollo cognitivo del alumnado.
+# Estado de la investigación — Ciclo 3
 **Fecha:** 2026-10-10
-**Director:** investigación autónoma acumulativa
 
-## 1. Pregunta principal (sin cambio)
-Se mantienen las cuatro preguntas del Ciclo 1. El foco de este ciclo ha sido aportar evidencia empírica más fina a H1–H3 y tratar críticas a la posición cognitiva dominante.
+## Avance principal de este ciclo
+Búsqueda de evidencia experimental de **mayor escala** sobre enfoques afines a Elkonin-Davydov (pensamiento teórico temprano / early algebra).
 
-## 2. Hipótesis (estado actualizado)
-- **H1 (principal):** Se refuerza. El orden abstracto → concreto mediado favorece pensamiento teórico. Evidencia empírica de implementaciones (aunque limitadas) muestra ventajas en generalización teórica y resolución de problemas no estándar.
-- **H2 (contraria):** Debilitada. El descubrimiento mínimamente guiado sigue mostrando desventajas para novatos en meta-análisis.
-- **H3 (condicional):** Fortalecida y matizada. El efecto expertise-reversal y la necesidad de guía son consistentes: la indagación bien guiada puede superar a la instrucción directa en comprensión conceptual una vez hay base; la unguided falla.
-- **H4 (generacional):** Sigue descartada como hipótesis principal. Los descensos PISA se concentran en procesos de alto nivel cognitivo (evaluar/reflexionar), compatibles con déficits de atención sostenida y andamiaje de conocimientos, no con caída de inteligencia fluida innata.
+### Hallazgo clave de mayor escala
+**Blanton et al. (2019)** — *Does Early Algebra Matter? The Effectiveness of an Early Algebra Intervention in Grades 3 to 5*  
+- Diseño: **cluster randomized trial** (46 escuelas, 23 intervención / 23 control) en 3 distritos de Carolina del Norte.  
+- Intervención: early algebra (grados 3-5) impartida por los propios profesores durante la clase regular de matemáticas.  
+- Resultado: los alumnos de tratamiento mejoraron a un ritmo significativamente más rápido en comprensión algebraica y uso de estrategias; mantuvieron la ventaja; el efecto se observó también en poblaciones de riesgo.  
+- Es la evidencia experimental de mayor escala más cercana al espíritu de Davydov (introducir estructuras algebraicas/teóricas temprano en vez de retrasarlas).
 
-## 3. Hallazgos del Ciclo 2 (distinguiendo tipos de afirmación)
+### Evidencia rusa de escala media-grande
+- Revisiones (Gordeeva 2020 y relacionadas): comparaciones de decenas de clases (ej. Repkina: 43 clases RO N=929 vs 25 clases tradicionales N=525).  
+- Ventaja consistente en **pensamiento teórico** y resolución de problemas no estándar.  
+- Sin diferencias claras en pensamiento empírico ni en logros de currículo estándar.  
+- Limitaciones reconocidas por los propios autores: mayoría de estudios transversales, muchos en escuelas-laboratorio, escasez de medidas pre-test rigurosas y de diseños RCT al estilo occidental.
 
-### Hechos verificados / resultados replicados o convergentes
-- **Implementaciones Elkonin-Davydov:**
-  - Sidneva (2020, Frontiers, N=46, Grado 1): mejoras significativas en habilidades matemáticas generales y específicas del currículo; el progreso **no depende** del nivel inicial de readiness (motivación, regulación voluntaria, conservación lógica). Sin grupo control tradicional grande.
-  - Revisión de estudios rusos (2020): ventajas claras en pensamiento teórico y resolución de problemas no estándar; **no hay diferencias** en pensamiento empírico ni en logros de currículo estándar (problemas rutinarios).
-  - Implementaciones EE.UU. (Schmittau & Morris 2004; Lee 2002): cohortes pequeñas (n≈7); tras 3 años los alumnos resolvían problemas algebraicos de nivel secundario. Dificultades iniciales de concentración y cultura escolar; resolución conceptual de errores. Acción-investigación, no RCT.
-- **Guided vs unguided inquiry (meta-análisis post-2015):**
-  - Lazonder & Harmsen (2016): la guía aumenta el efecto de la indagación en ~0,5 DE.
-  - Alfieri et al. (clásico, reiterado): descubrimiento no asistido < instrucción explícita; descubrimiento asistido > instrucción explícita en algunos resultados conceptuales.
-  - Meta-análisis recientes (2022–2025): IBL (mayormente guiado) muestra efectos medios-grandes (g ≈ 0,7–1,2) en comprensión conceptual; open/unguided es más variable y a menudo inferior para novatos.
-- **PISA 2025 desagregado:** Los descensos son más pronunciados en procesos de alto nivel (evaluar y reflexionar) y textos largos; localizar información (bajo nivel) se ve menos afectado. Compatible con hipótesis de debilitamiento de atención sostenida + conocimiento organizado.
+### Conclusión actualizada sobre la evidencia empírica
+- No existe aún un RCT occidental de gran escala del currículo Elkonin-Davydov completo.  
+- Sí existe evidencia robusta (cluster RCT) de que introducir estructuras algebraicas/teóricas temprano produce ventajas durables en comprensión algebraica.  
+- La evidencia rusa de escala media confirma ventajas específicas en el tipo de pensamiento que Davydov priorizaba.  
+- Esto refuerza H1 + H3: el orden abstracto/teórico temprano + mediación es beneficioso; no es necesario (ni óptimo) esperar a que el alumno «descubra» todo desde lo concreto.
 
-### Resultados correlacionales / apoyo moderado
-- Sistemas con currículos ricos en conocimiento y mayor peso de instrucción explícita tienden a resistir mejor (evidencia observacional de ciclos PISA anteriores y reformas recientes).
-- El efecto expertise-reversal es robusto: la instrucción guiada es superior para novatos; la ventaja se reduce o invierte con expertise.
+## Estado de las hipótesis
+- **H1**: reforzada con la evidencia de early algebra a escala y las revisiones rusas.  
+- **H3**: confirmada (la guía y el conocimiento estructurado primero importan; la indagación posterior es útil).  
+- **H2**: sigue debilitada.  
+- **H4**: sin cambio (descartada como hipótesis principal).
 
-### Inferencias (no hechos)
-- La superioridad del sistema Elkonin-Davydov parece residir más en el tipo de pensamiento (teórico vs empírico) que en puntuaciones de tests estándar. Esto es coherente con el objetivo original de Davydov, pero dificulta la comparación con métricas PISA/TIMSS convencionales.
-- La «nueva escuela» no es homogénea: cuando incorpora guía fuerte + conocimiento disciplinar, se acerca a H3 y deja de ser desfavorable.
+## Limitación que permanece
+Falta un RCT directo y de gran escala del sistema Elkonin-Davydov completo fuera de Rusia. El proxy más sólido disponible es el early algebra de Blanton et al.
 
-### Evidencia contraria / limitaciones reconocidas
-- **Críticas a CLT (2020–2025):** dificultades de medición de los tipos de carga; distinciones a menudo post-hoc; subestimación de motivación, emoción y agencia; riesgo de sobre-expansión que reduce falsabilidad (Kalyuga & Plass 2025; críticas filosóficas 2024–2025; Bokhove y otros). Sweller interpreta fallos de replicación como expansión teórica.
-- Estudios Elkonin-Davydov fuera de Rusia son de muestra pequeña y diseño no experimental robusto. No existe aún un meta-análisis de gran escala con tamaños de efecto precisos.
-- Meta-análisis de IBL positivos suelen incluir formas guiadas; no invalidan la crítica al minimal guidance puro.
-- Causalidad PISA-pedagogía sigue siendo inferencial: tecnología, desigualdad, formación docente y pandemia intervienen.
-
-## 4. Decisiones de investigación (Ciclo 2)
-- Se incorporó evidencia empírica (aunque limitada) de Elkonin-Davydov → refuerzo de H1 en pensamiento teórico.
-- Se trataron críticas a CLT con honestidad: se aceptan limitaciones de medición y alcance, pero se mantiene el núcleo (límites de memoria de trabajo + necesidad de esquemas) por convergencia con otras líneas (Willingham, Hirsch, expertise-reversal).
-- Se descartó la dicotomía rígida «todo discovery es malo»: la evidencia favorece **guía + conocimiento primero**, indagación después.
-- Se mantiene la distinción pedagógica vs generacional.
-
-## 5. Conclusiones provisionales actualizadas (fin de Ciclo 2)
-El argumento original sigue siendo **válido en lo esencial** y se fortalece con datos empíricos limitados pero convergentes.  
-Los elementos novedosos de la nueva escuela son **desfavorables cuando desplazan** conocimiento disciplinar e instrucción guiada; son **condicionalmente favorables** cuando se aplican después de construir esquemas y con mediación fuerte.  
-La formulación más precisa y útil para el profesorado es:  
-**Abstracciones culturales potentes + mediación y modelado primero (orden Davydov + ciencia cognitiva); reducción gradual de guía y proyectos de indagación cuando el alumno ya posee esquemas (H3).**
-
-## 6. Limitaciones que permanecen
-- Escasez de RCTs de gran escala sobre Elkonin-Davydov fuera de Rusia.
-- Falta de datos longitudinales que aislen causalmente pedagogía vs tecnología vs otros factores en los descensos PISA.
-- Necesidad de estudios que midan simultáneamente pensamiento teórico (Davydov) y rendimiento en tests estándar.
+## Próximos pasos posibles
+1. Secuencias didácticas concretas (valor posicional / fracciones) que operativicen el orden recomendado.  
+2. Búsqueda de programas actuales de «Measure Up» (Dougherty/Venenciano) u otros herederos directos con datos de resultado.  
+3. Cierre de la investigación principal si se considera suficiente la síntesis actual.
