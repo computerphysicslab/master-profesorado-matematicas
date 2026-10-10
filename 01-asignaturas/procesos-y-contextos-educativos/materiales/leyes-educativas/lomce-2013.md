@@ -3,6 +3,8 @@
 **Referencia legal:** Ley Orgánica 8/2013, de 9 de diciembre, para la mejora de la calidad educativa (LOMCE).  
 **Naturaleza:** Reforma de la LOE centrada en **evaluación externa**, **itinerarios**, estándares y recentralización curricular parcial.
 
+**Lectura crítica del preámbulo:** [lomce-preambulo-analisis-sesgo.md](lomce-preambulo-analisis-sesgo.md) — el preámbulo es un alegato político-legislativo (calidad, esfuerzo, trayectorias, medición); no es un diagnóstico técnico neutral. Ejercicio simétrico: [lomloe-preambulo-analisis-sesgo.md](lomloe-preambulo-analisis-sesgo.md).
+
 ---
 
 ## 1. Marco Contextual
@@ -15,7 +17,7 @@
 
 ### 1.2. Diagnóstico oficial
 
-Mejorar resultados, combatir el abandono, reforzar la “cultura del esfuerzo” y la comparabilidad de resultados mediante evaluaciones de etapa.
+Mejorar resultados, combatir el abandono, reforzar la «cultura del esfuerzo» y la comparabilidad de resultados mediante evaluaciones de etapa.
 
 ---
 
@@ -23,11 +25,13 @@ Mejorar resultados, combatir el abandono, reforzar la “cultura del esfuerzo”
 
 Combinación de **enfoque eficientista** (evaluación, resultados, autonomía de centro orientada a indicadores) y énfasis en **estándares** y diferenciación de trayectorias. La calidad se asocia a medición y a itinerarios en 4.º de ESO / FP básica.
 
+El **preámbulo** articula ese relato de forma valorativa (sistema previo insuficiente en calidad; reforma como paso a la madurez de los sistemas avanzados). Análisis detallado del sesgo: [lomce-preambulo-analisis-sesgo.md](lomce-preambulo-analisis-sesgo.md).
+
 ---
 
 ## 3. Dimensión pedagógica y curricular
 
-- Evaluaciones finales de etapa / “reválidas” (con distintos grados de aplicación real según curso y sentencias políticas posteriores).
+- Evaluaciones finales de etapa / «reválidas» (con distintos grados de aplicación real según curso y sentencias políticas posteriores).
 - Itinerarios en 4.º de ESO y FP Básica.
 - **Estándares de aprendizaje** evaluables y mayor atomización del currículo.
 - Recentralización relativa (porcentajes de enseñanzas mínimas favorables al Estado respecto a ciclos anteriores).

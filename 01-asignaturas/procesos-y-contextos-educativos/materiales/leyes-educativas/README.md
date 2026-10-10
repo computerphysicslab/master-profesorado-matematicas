@@ -26,9 +26,10 @@ Cada documento de ley sigue una estructura académica homogénea que facilita la
 
 | Recurso | Contenido |
 |---------|-----------|
-| [**Análisis de sesgo del preámbulo de la LOMLOE**](lomloe-preambulo-analisis-sesgo.md) | El preámbulo como alegato político-legislativo (no diagnóstico técnico neutral): sesgos ideológico, terminológico, de selección, de autoridad, teleológico, de género/diversidad, territorial y económico-social |
+| [**Análisis de sesgo del preámbulo de la LOMCE**](lomce-preambulo-analisis-sesgo.md) | Alegato de calidad, esfuerzo, trayectorias y medición; redefinición de equidad; autoridad de las «mejores prácticas» internacionales |
+| [**Análisis de sesgo del preámbulo de la LOMLOE**](lomloe-preambulo-analisis-sesgo.md) | Alegato de equidad, inclusión y restauración; LOMCE como ruptura; Agenda 2030 y consenso invocado |
 
-Útil para no confundir *valores declarados* del legislador con *efectos medibles* del sistema (contrastar con PISA/TALIS y con la ficha de la LOMCE).
+Ambos preámbulos son **alegatos político-legislativos**, no diagnósticos técnicos neutrales. La lectura simétrica evita tratar solo uno como «ideológico» y el otro como «técnico». Contrastar siempre con datos (PISA, TALIS) y con el articulado.
 
 ## Comparativa internacional y mapa de paradigmas
 
@@ -46,7 +47,7 @@ Relacionado en la carpeta de materiales: [PISA 2022 — fracaso escolar y matem�
 - Leer el resumen comparativo del apunte principal del Tema 1.
 - Consultar el documento detallado de cada ley según se trabaje en clase o en el estudio personal.
 - Utilizar la sección 5 (Paradigmas) para conectar con el marco teórico del tema (Racional-Tecnológico, Interpretativo-Constructivista, Socio-Crítico).
-- Leer el [análisis de sesgo del preámbulo LOMLOE](lomloe-preambulo-analisis-sesgo.md) antes de tomar el preámbulo como fuente «factual».
+- Leer en paralelo los [análisis de sesgo de los preámbulos LOMCE](lomce-preambulo-analisis-sesgo.md) y [LOMLOE](lomloe-preambulo-analisis-sesgo.md) antes de tomar cualquiera de ellos como fuente «factual».
 - Situar LOMCE / LOMLOE / China en el [mapa epistemológico](../mapa-epistemologico-paradigmas-educativos.md).
 - Contrastar con la [comparativa PISA 2025](comparativa-pisa-2025-y-sistemas-internacionales.md) al debatir resultados y transferibilidad de políticas.
 
