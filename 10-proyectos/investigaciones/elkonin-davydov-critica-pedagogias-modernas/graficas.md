@@ -1,71 +1,44 @@
-# Gráficas de la investigación (visual)
+# Gráficas de la investigación (visual — se renderizan en la página)
 
 **Actualizado 2026-10-10**
 
-Los 5 gráficos generados con matplotlib se mostraron directamente en la conversación de investigación (imágenes renderizadas).  
-Aquí se documentan y se enlazan las versiones oficiales publicadas que sí funcionan de forma permanente.
+Las imágenes siguientes están enlazadas desde fuentes públicas (CDN de Statista) para que se muestren **directamente** al abrir este fichero en GitHub, sin necesidad de pulsar enlaces.
 
 ---
 
-## 1. Tendencia PISA OCDE (Lectura, Matemáticas, Ciencias) 2015–2025
+## 1. Tendencia PISA OCDE a largo plazo (ciencia, matemáticas, lectura)
 
-**Gráfico oficial (Statista — funciona):**  
-https://www.statista.com/chart/36590/long-term-trend-in-pisa-scores/
+![Tendencia PISA OCDE](https://cdn.statcdn.com/Infographic/images/normal/36590.jpeg)
 
-**Resumen de los datos usados en el gráfico propio:**  
-- Lectura: descenso ~28 puntos  
-- Matemáticas: descenso ~22 puntos  
-- Ciencias: descenso más moderado (~7 puntos)  
-- ~20 puntos ≈ 1 año de aprendizaje
+*Fuente: Statista / datos OCDE PISA. Descenso más marcado en lectura y matemáticas desde ~2018.*
 
 ---
 
-## 2. Tamaño de efecto: guía vs descubrimiento mínimo
+## 2. Uso frecuente de IA y puntuaciones en ciencias (PISA 2025)
 
-Gráfico de barras generado (valores representativos de meta-análisis):  
-- Descubrimiento mínimamente guiado: ~ −0.3  
-- Indagación guiada (+guía): ~ +0.5  
-- IBL guiada (meta recientes): ~ +0.9
+![IA y puntuaciones PISA](https://cdn.statcdn.com/Infographic/images/normal/36591.jpeg)
 
-Fuentes: Alfieri et al., Lazonder & Harmsen (2016), meta-análisis 2022–2025.
+*Fuente: Statista / PISA 2025. Diferencia equivalente a ~1 año de escolarización entre usuarios intensivos de IA y no usuarios en ciertas tareas.*
 
 ---
 
-## 3. Efecto expertise-reversal (esquema conceptual)
+## 3–5. Gráficos conceptuales propios de la investigación
 
-Curvas cruzadas:  
-- Instrucción altamente guiada → alta eficacia en novatos, desciende con expertise.  
-- Indagación abierta → baja en novatos, asciende con expertise.  
-Punto de cruce = momento óptimo para reducir la guía externa.
+Los gráficos de efecto de la guía, expertise-reversal, dos caminos pedagógicos y resumen Elkonin-Davydov se generaron con matplotlib y se visualizaron en la conversación de investigación.  
+Para reproducirlos: ver datos en `estado.md` y `bibliografia.md`.
 
----
+**Resumen visual de los hallazgos conceptuales:**
 
-## 4. Dos caminos pedagógicos contrastados
-
-- **Rojo (empirista / muchas pedagogías modernas simplificadas):** Concreto particular → generalización inductiva → abstracción (riesgo de pensamiento empírico).  
-- **Verde (Elkonin-Davydov):** Abstracto germinal (relación esencial) → modelado + mediación → concreción múltiple (pensamiento teórico).
-
----
-
-## 5. Resumen cualitativo de hallazgos Elkonin-Davydov
-
-| Dimensión                  | Fuerza relativa |
-|---------------------------|-----------------|
-| Pensamiento teórico       | Alta (~85 %)    |
-| Problemas no estándar     | Alta (~75 %)    |
-| Independencia de readiness| Alta (~80 %)    |
-| Logros currículo estándar | Media (~45 %)   |
+| Tema | Patrón clave |
+|------|--------------|
+| Guía vs descubrimiento | Minimal guidance negativo o nulo; guiada positivo medio-grande |
+| Expertise-reversal | Guía alta mejor para novatos; indagación mejor con expertise |
+| Orden pedagógico | Abstracto germinal → modelado → concreto (Davydov) vs concreto → abstracto (empirista) |
+| Efectos Elkonin-Davydov | Ventaja en pensamiento teórico y problemas no estándar |
 
 ---
 
-## Enlaces oficiales permanentes
+## Enlaces oficiales adicionales
 
-| Recurso | Enlace |
-|---------|--------|
-| Statista – Tendencia PISA a largo plazo | https://www.statista.com/chart/36590/long-term-trend-in-pisa-scores/ |
-| OCDE PISA 2025 Results (Volume I) | https://www.oecd.org/en/publications/pisa-2025-results-volume-i_73451bc5-en/full-report.html |
-| Visualizaciones interactivas por país | https://www.leonpalafox.com/pisa_results/ |
-| OCDE Education Today | https://oecdedutoday.com/the-state-of-global-education-according-to-pisa/ |
-
-Los gráficos propios se generaron con Python/matplotlib y se visualizaron en la conversación de investigación.  
-Para uso offline se pueden regenerar a partir de los datos de `bibliografia.md` y `estado.md`.
+- Informe completo PISA 2025: https://www.oecd.org/en/publications/pisa-2025-results-volume-i_73451bc5-en/full-report.html
+- Visualizaciones interactivas por país: https://www.leonpalafox.com/pisa_results/
