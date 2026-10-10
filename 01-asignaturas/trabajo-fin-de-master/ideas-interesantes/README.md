@@ -4,9 +4,14 @@ Esta carpeta reúne **ideas preliminares de investigación e innovación** que p
 
 No son propuestas cerradas ni recomendaciones de temas. Cada ficha debe considerarse una hipótesis de trabajo que necesita revisión bibliográfica, delimitación metodológica y comprobación de viabilidad.
 
+**Evaluación de solidez:** ver criterios en [`00-criterios-evaluacion-solidez.md`](00-criterios-evaluacion-solidez.md).  
+Las puntuaciones (0–15) estiman madurez científica para convertirse en un buen TFM, no el interés intelectual abstracto.
+
+---
+
 ## Criterio de organización
 
-Las ideas se incorporan cuando aparece una combinación especialmente interesante de:
+Las ideas se incorporan cuando aparece una combinación interesante de:
 
 - problema educativo;
 - pregunta investigable;
@@ -15,40 +20,58 @@ Las ideas se incorporan cuando aparece una combinación especialmente interesant
 - viabilidad para un TFM;
 - posibilidad de evolución hacia una línea de investigación posterior.
 
-## Ideas
+---
 
-| Ficha | Tema | Ejes | Detalle |
-|---|---|---|---|
-| [01 — Penalización del aprendizaje asociada al uso de IA generativa](01-penalizacion-aprendizaje-ia-generativa.md) | Diferencia entre rendimiento en tareas y aprendizaje demostrado sin asistencia de IA | IA · evaluación · cognición | expandida |
-| [02 — Tecnoestrés digital y autorregulación cognitiva](02-tecnoestres-digital.md) | Tecnoestrés, FOMO e hipervigilancia vs. atención profunda | Tecnoestrés · carga cognitiva · higiene digital | expandida |
-| [03 — Burocratización docente y carga administrativa](03-burocratizacion-docente-y-carga-administrativa.md) | Carga administrativa, autonomía y tiempo para enseñar mates | Burocracia · TALIS · bienestar | expandida |
-| [04 — Punto óptimo e intensificación educativa](04-punto-optimo-intensificacion-educativa.md) | Rendimientos decrecientes de la innovación intensificada | Intensificación · coste de oportunidad | expandida |
-| [05 — Esfuerzo cognitivo y pensamiento crítico](05-esfuerzo-cognitivo-y-pensamiento-critico.md) | Demanda cognitiva, abstracción, PC; auditoría de respuestas | PC · demanda cognitiva · IA | expandida |
-| [06 — Ilusión de competencia por tutoriales cortos](06-ilusion-competencia-tutoriales-cortos.md) | «Lo he pillado» en el Short vs. retención a 48 h | Fluidez · memoria · Shorts | **expandida + [protocolo](06-protocolo-practicum.md)** |
-| [07 — Gamificación y efecto crowding-out](07-gamificacion-crowding-out.md) | Puntos/Kahoot que desplazan motivación intrínseca | Motivación · autodeterminación | semilla |
-| [08 — Lenguaje natural como cuello de botella del álgebra](08-lenguaje-natural-cuello-botella-algebra.md) | Error lingüístico vs. error simbólico | Lectura · lenguaje algebraico | semilla |
-| [09 — Calculadora temprana y sentido numérico](09-calculadora-temprana-sentido-numerico.md) | Calculadora vs. estimación y control del resultado | Sentido numérico · estimación | semilla |
-| [10 — Ansiedad matemática transmitida](10-ansiedad-matematica-transmitida.md) | Ansiedad familiar/docente → alumno | Ansiedad · familia · género | expandida |
-| [11 — Pizarra infinita y pérdida de estructura](11-pizarra-infinita-perdida-estructura.md) | Lienzo infinito vs. jerarquía del razonamiento | Memoria de trabajo · apuntes | **expandida + [protocolo](11-protocolo-practicum.md)** |
-| [12 — Problemas de Fermi y orden de magnitud](12-problemas-fermi-orden-magnitud.md) | Estimación realista y juicio crítico cuantitativo | Fermi · modelización · STEM | semilla |
-| [13 — Fatiga de innovación metodológica](13-fatiga-innovacion-metodologica.md) | Rotación continua de metodologías | Innovación · coherencia · TALIS | semilla |
-| [14 — Datos reales vs. datos de libro en Estadística](14-datos-reales-vs-libro-estadistica.md) | Datos reales vs. tablas artificiales | Estadística · alfabetización de datos | semilla |
-| [15 — Corrección entre iguales y metacognición](15-correccion-entre-iguales-metacognicion.md) | Corregir el error ajeno para detectar el propio | Evaluación formativa · metacognición | semilla |
-| [16 — Margen de acción docente bajo LOMLOE](16-margen-accion-docente-lomloe-libertad-catedra.md) | Éxito matemático dentro de la norma; libertad de cátedra y burocracia | LOMLOE · autonomía · PISA · aula | expandida |
-| [17 — Matemáticas y salud mental](17-matematicas-y-salud-mental.md) | Ansiedad, clima de error, bienestar y rol docente (límites y derivación) | Salud mental · ansiedad · feedback | expandida |
-| [18 — Codocencia e interferencia cognitiva](18-codocencia-interferencia-cognitiva.md) | Cuándo el 2.º docente suma capacidad o coste; modelos de interacción | Codocencia · carga cognitiva · mates | expandida |
-| [19 — SimulaESO: motor offline de SdA en Go](19-simulaeso-software-offline-go-matematicas.md) | Motor + DSL de escenarios; repositorio de SdA; informes locales | Offline · DSL · SdA · Go · open source | **expandida** |
-| [20 — Andamiaje permanente y autorregulación](20-andamiaje-permanente-autorregulacion.md) | Fading, autonomía cognitiva y perseverancia ante tareas difíciles | Andamiaje · ZDP · autorregulación · mates | **expandida** |
+## Ideas y solidez científica
 
-### Prioridad sugerida (línea crítica del repo)
+| Ficha | Tema | Elaboración | **Solidez** | Banda | Notas breves de evaluación |
+|---|---|---|:---:|---|---|
+| [01](01-penalizacion-aprendizaje-ia-generativa.md) | Penalización del aprendizaje con IA generativa | expandida | **11** | Sólida | Evidencia emergente sobre IA y aprendizaje; H contrastables; diseño viable en aula |
+| [02](02-tecnoestres-digital.md) | Tecnoestrés digital y autorregulación | expandida | **9** | Prometedora | Marco de carga cognitiva sólido; medir tecnoestrés en mates es más difícil |
+| [03](03-burocratizacion-docente-y-carga-administrativa.md) | Burocratización docente | expandida | **10** | Sólida | TALIS y literatura de bienestar docente; menos «intervención de aula» clásica |
+| [04](04-punto-optimo-intensificacion-educativa.md) | Punto óptimo e intensificación | expandida | **10** | Sólida | Buena teoría de rendimientos decrecientes; operacionalizar «intensificación» es el reto |
+| [05](05-esfuerzo-cognitivo-y-pensamiento-critico.md) | Esfuerzo cognitivo y pensamiento crítico | expandida | **12** | Sólida | Anclaje fuerte en CLT / desirable difficulties; H y niveles de tarea bien definidos |
+| [06](06-ilusion-competencia-tutoriales-cortos.md) | Ilusión de competencia (tutoriales cortos) | expandida + [protocolo](06-protocolo-practicum.md) | **13** | **Prioritaria** | Fluidez vs retención: evidencia clásica; protocolo de Prácticum listo |
+| [07](07-gamificacion-crowding-out.md) | Gamificación y crowding-out | semilla | **7** | Prometedora | Teoría de autodeterminación sólida; ficha aún semilla |
+| [08](08-lenguaje-natural-cuello-botella-algebra.md) | Lenguaje natural y álgebra | semilla | **9** | Prometedora | Hueco real (lengua vs símbolo); diseño esbozado; falta desarrollo |
+| [09](09-calculadora-temprana-sentido-numerico.md) | Calculadora y sentido numérico | semilla | **6** | Prometedora | Debate clásico; novedad solo si se centra en estimación/absurdos |
+| [10](10-ansiedad-matematica-transmitida.md) | Ansiedad matemática transmitida | expandida | **11** | Sólida | Literatura robusta de ansiedad matemática; medición viable |
+| [11](11-pizarra-infinita-perdida-estructura.md) | Pizarra infinita y estructura | expandida + [protocolo](11-protocolo-practicum.md) | **12** | Sólida | Variable original (espacio de la pizarra); protocolo disponible |
+| [12](12-problemas-fermi-orden-magnitud.md) | Problemas de Fermi | semilla | **7** | Prometedora | Útil y poco saturado; ficha mínima |
+| [13](13-fatiga-innovacion-metodologica.md) | Fatiga de innovación metodológica | semilla | **6** | Prometedora | Pregunta relevante; difícil de aislar causalmente en un TFM |
+| [14](14-datos-reales-vs-libro-estadistica.md) | Datos reales vs libro | semilla | **7** | Prometedora | Hueco claro en estadística escolar; necesita diseño |
+| [15](15-correccion-entre-iguales-metacognicion.md) | Corrección entre iguales | semilla | **7** | Prometedora | Metacognición con base; ficha aún breve |
+| [16](16-margen-accion-docente-lomloe-libertad-catedra.md) | Margen de acción bajo LOMLOE | expandida | **11** | Sólida | Marco normativo + aula; menos «experimento» y más análisis de práctica |
+| [17](17-matematicas-y-salud-mental.md) | Matemáticas y salud mental | expandida | **10** | Sólida | Conecta con ansiedad y clima; límites éticos a respetar |
+| [18](18-codocencia-interferencia-cognitiva.md) | Codocencia e interferencia cognitiva | expandida | **11** | Sólida | Ángulo original (interferencia vs suma); H claras; acceso a codocencia variable |
+| [19](19-simulaeso-software-offline-go-matematicas.md) | SimulaESO (software offline) | expandida | **8** | Prometedora | Ambiciosa; viabilidad depende de alcance software vs. uso didáctico |
+| [20](20-andamiaje-permanente-autorregulacion.md) | Andamiaje permanente y autorregulación | expandida | **13** | **Prioritaria** | ZDP/fading con base sólida; pregunta experimental fuerte; muy viable en mates |
+| [21](21-elkonin-davydov-abstracto-concreto.md) | Orden abstracto→concreto (Elkonin-Davydov) | expandida | **14** | **Prioritaria** | Marco teórico + CLT + RCT proxy (Blanton); investigación previa completa; diseño de aula acotado; opción AICLE |
 
-1. **20** — andamiaje permanente / fading / autorregulación (pregunta experimental fuerte; conecta 04–05 y psicología).
-2. **16** — margen de acción bajo LOMLOE.
-3. **18** — codocencia e interferencia.
-4. **19** — SimulaESO.
-5. **17** — matemáticas y salud mental.
-6. **06** — ilusión de competencia ([protocolo](06-protocolo-practicum.md)).
-7. **11** — pizarra infinita ([protocolo](11-protocolo-practicum.md)).
+### Leyenda rápida de solidez
+
+| Banda | Rango | Significado |
+|-------|-------|------------|
+| Semilla | 0–5 | Aún no proponer como TFM sin desarrollo |
+| Prometedora | 6–9 | Desarrollar marco y diseño |
+| Sólida | 10–12 | Proponible con ajustes |
+| **Prioritaria TFM** | 13–15 | Candidata preferente |
+
+Criterios detallados: [`00-criterios-evaluacion-solidez.md`](00-criterios-evaluacion-solidez.md).
+
+---
+
+## Prioridad sugerida (por solidez + viabilidad de aula)
+
+1. **21** — Elkonin-Davydov abstracto→concreto (solidez 14; investigación de origen en [10-proyectos/investigaciones/...](../../../10-proyectos/investigaciones/elkonin-davydov-critica-pedagogias-modernas/)).
+2. **20** — andamiaje permanente / fading / autorregulación (13).
+3. **06** — ilusión de competencia + [protocolo](06-protocolo-practicum.md) (13).
+4. **05** — esfuerzo cognitivo y pensamiento crítico (12).
+5. **11** — pizarra infinita + [protocolo](11-protocolo-practicum.md) (12).
+6. **01 / 10 / 16 / 18** — bloque sólido (11).
+7. Resto según interés personal y acceso al centro de prácticas.
+
+---
 
 ## Cruce rápido con el Atlas de saturación (v0.9–v0.10)
 
@@ -65,8 +88,11 @@ Las ideas se incorporan cuando aparece una combinación especialmente interesant
 | **18** | «Codocencia = inclusión» sin medir aprendizaje | **Modelo de interacción** × claridad × interferencia |
 | **19** | App de ejercicios cableados en el código | **SdA como dato + motor/DSL + evidencias locales** |
 | **20** | «Falta de disciplina de los jóvenes» | **Fading / permanencia del andamiaje** × autorregulación × mates |
+| **21** | «ABP de funciones» o GeoGebra sin más | **Orden abstracto→concreto** × pensamiento teórico × (AICLE) |
 
 Fuente: [Atlas de nichos](../atlas-nichos/) · [mapa de saturación](../atlas-nichos/03-mapa-saturacion.md) · [ranking de intersecciones](../atlas-nichos/04-coocurrencias-y-ranking-v09.md).
+
+---
 
 ## Relación con otras secciones
 
@@ -78,5 +104,6 @@ Fuente: [Atlas de nichos](../atlas-nichos/) · [mapa de saturación](../atlas-ni
 | [Análisis de temáticas](../ANALISIS-TEMATICAS.md) | Visión general de saturación |
 | [Leyes educativas / PISA 2025](../../procesos-y-contextos-educativos/materiales/leyes-educativas/) | Marco de la idea 16 |
 | [Materiales de psicología](../../../03-materiales/psicologia/) | Ideas 10, 17 y **20** |
+| [Investigación Elkonin-Davydov](../../../10-proyectos/investigaciones/elkonin-davydov-critica-pedagogias-modernas/) | Origen empírico-teórico de la idea **21** |
 
 La carpeta `ideas-interesantes/` funciona como puente entre la **detección de un nicho**, la **lectura de impacto** y la **formulación de una propuesta concreta de TFM**.
