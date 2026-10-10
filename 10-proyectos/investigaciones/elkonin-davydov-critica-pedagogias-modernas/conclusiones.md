@@ -1,34 +1,18 @@
-# Conclusiones finales de la investigación
-**Tema:** Elkonin-Davydov frente a pedagogías de la nueva escuela y desarrollo cognitivo  
-**Ciclos:** 1 + 2 (2026-10-10)
+# Conclusiones actualizadas (Ciclo 5)
 
-## Resultado en una frase
-El argumento que defiende el ascenso de lo abstracto a lo concreto (Elkonin-Davydov) es **teóricamente fiel, lógicamente sólido y empíricamente plausible**; los elementos novedosos de muchas pedagogías modernas son **desfavorables al desarrollo del pensamiento teórico cuando desplazan el conocimiento disciplinar y la instrucción guiada**, y solo se vuelven útiles después de que el alumno ya posee esquemas potentes.
+## Núcleo cognitivo-pedagógico (sin cambio)
+El argumento Elkonin-Davydov (ascenso de lo abstracto a lo concreto mediante mediación) es teóricamente fiel, lógicamente sólido y compatible con la evidencia empírica disponible (early algebra RCT de Blanton, revisiones rusas, ciencia cognitiva de la carga y el expertise-reversal). Las pedagogías que desplazan el conocimiento disciplinar y la instrucción guiada en favor del descubrimiento mínimamente guiado y las competencias genéricas son, en promedio, desfavorables al desarrollo del pensamiento teórico.
 
-## Tres hallazgos clave
+## Extensión ética (nueva)
+La misma lógica se aplica, de forma hipotética pero coherente, al dominio moral:
 
-1. **Orden y mediación importan**  
-   Partir de las abstracciones culturales ya conquistadas (relaciones, modelos, valor posicional, estructuras) y mediarlas mediante actividad y modelado produce pensamiento teórico. Partir solo de lo concreto-sensorial y generalizar inductivamente tiende a dejar al alumno como traductor perpetuo de su experiencia inmediata. La evidencia de implementaciones (aunque de muestra limitada) y la ciencia cognitiva convergen en este punto.
+- El razonamiento moral principiado (Kohlberg postconvencional) exige abstracción formal.
+- Enfoques pedagógicos que relegan la transmisión de principios/virtudes abstractas en favor de la mera clarificación de valores personales (Values Clarification) o de lo exclusivamente concreto/situacional tienden a dejar al alumno sin herramientas para trascender el particularismo.
+- El paralelismo es estructural:  
+  **Matemáticas** → dar primero las estructuras (valor posicional, relaciones) para no quedar como traductor perpetuo de lo concreto.  
+  **Ética** → dar primero las estructuras (virtudes, principios de justicia) para no quedar como relativista situacional perpetuo.
 
-2. **La guía no es opcional para novatos**  
-   Meta-análisis reiterados muestran que el descubrimiento mínimamente guiado es inferior a la instrucción explícita + ejemplos resueltos cuando el conocimiento previo es bajo. La indagación bien guiada puede ser superior en comprensión conceptual **una vez** hay base. El efecto expertise-reversal es el mecanismo que explica cuándo reducir la guía.
+Esta extensión es **plausible y valiosa para la discusión**, pero permanece en el terreno de la hipótesis bien fundamentada, no de la conclusión causal firme. Los factores culturales extraescolares son confusores mayores.
 
-3. **Los descensos internacionales son compatibles con la hipótesis**  
-   PISA 2025 registra caídas mayores en tareas de alto nivel cognitivo (evaluar, integrar, reflexionar) que en localización simple de información. Esto es coherente con un debilitamiento del andamiaje de conocimientos y de la atención sostenida, no con una generación «menos inteligente».
-
-## Lo que NO se afirma
-- No se afirma que toda pedagogía moderna sea perjudicial.
-- No se afirma que la motivación, la autonomía o la tecnología sean malas en sí mismas.
-- No se afirma que haya que volver a un modelo rígido del pasado.
-- No se afirma una caída de la inteligencia fluida innata de las nuevas generaciones.
-
-## Formulación práctica para el aula de matemáticas
-**Primero:** ofrecer las estructuras abstractas potentes (relaciones, modelos, sistemas conceptuales) mediante mediación y modelado, no como definiciones vacías.  
-**Después:** bajar a lo concreto, a los problemas y a la indagación, cuando el alumno ya puede usar esas estructuras como herramientas propias.  
-**Siempre:** exigir esfuerzo intelectual sostenido y práctica deliberada; la motivación genuina suele llegar después del dominio, no antes.
-
-## Limitación principal reconocida
-La evidencia experimental de alta calidad (RCTs de gran escala) sobre el sistema Elkonin-Davydov fuera de Rusia sigue siendo escasa. Las conclusiones se apoyan en convergencia de teoría dialéctica, ciencia cognitiva, meta-análisis de guía vs descubrimiento y datos de rendimiento internacional, no en un único ensayo decisivo.
-
-## Pregunta que queda abierta (y es la más útil)
-¿Cómo formamos a los profesores para que medien abstracciones potentes de forma viva, sin caer ni en el formalismo vacío ni en el empirismo que obliga a reinventar la rueda cada generación?
+## Formulación práctica ampliada
+La educación que quiere formar pensadores capaces de rigor (matemático o ético) no debe condenar a cada generación a reinventar las ruedas conceptuales desde lo concreto inmediato. Debe ofrecer las abstracciones culturales potentes —ya sean el sistema decimal o las categorías de justicia y virtud— como legado, mediadas de forma viva, para que el alumno las interiorice y luego descienda con ellas a lo particular.

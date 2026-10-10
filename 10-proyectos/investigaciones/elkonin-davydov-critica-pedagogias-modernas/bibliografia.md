@@ -1,18 +1,18 @@
-# Bibliografía verificada — Ciclos 1–4
+# Bibliografía verificada — Ciclos 1–5
 
-## Nueva sección: relativismo moral, abstracción y pedagogía (Ciclo 4)
+## Profundización ética-abstracción (Ciclo 5)
 
-22. **Sangwa, S. (2025).** Learner-Centered Pedagogy and Moral Relativism: Empirical Analysis of Educational Theory’s Societal Impact. *Open Journal of Transformative Education & Lifelong Learning* / Zenodo.  
-    - Afirmación: la adopción de paradigmas learner-centered predice mayores niveles de ética situacional y relativismo, tras controles. Mecanismos: destronar verdad externa, centrar el yo, privilegiar skills sobre virtud.  
-    - Limitación: estudio reciente, orientación confesional; requiere réplica independiente.
+27. **Kohlberg, L.** Teoría del desarrollo moral. Nivel postconvencional requiere operaciones formales (pensamiento abstracto hipotético-deductivo) como condición necesaria.
 
-23. American Worldview Inventory (2024-2025, Barna / Arizona Christian University). Datos de encuesta sobre aceptación de múltiples verdades morales conflictivas y «todo vale si no daña» en Gen Z vs generaciones anteriores.
+28. **Suttle, B. B. (1982).** Moral Education Versus Values Clarification. *Journal of Educational Thought*. Crítica: Values Clarification carece de tratamiento de juicios de valor como afirmaciones objetivas justificables y de formación de carácter.
 
-24. Piaget, J. (1932 y posteriores). Teoría del desarrollo moral: de moral heterónoma (realismo absoluto) a moral autónoma (relativismo negociado). Hito normal del desarrollo cognitivo.
+29. **Leming, J. S. (1981).** Curricular Effectiveness in Moral/Values Education: A Review of Research. *Journal of Moral Education*. Poca confianza en la eficacia de Values Clarification; optimismo cauteloso para enfoques de desarrollo moral.
 
-25. Estudios de educación superior sobre efectos en actitudes morales (ej. National Study of Youth and Religion; análisis de campos de estudio): efectos mixtos (a veces aumentan certeza moral, a veces progresismo relativizante).
+30. **Kirschenbaum, H. (2000).** From Values Clarification to Character Education: A Personal Journey. Evolución del propio promotor de Values Clarification hacia la educación del carácter integral.
 
-26. Literatura de educación moral (Kohlberg, Narvaez, Licon 2023, etc.) sobre cómo abordar el relativismo en el aula y el papel de la discusión vs la transmisión de principios.
+31. Estudios comparativos de modelos (bag-of-virtues, value-clarification, virtue-ethics): mayor eficacia conductual de enfoques que combinan transmisión de virtudes + modelado + razonamiento.
 
-## Bibliografía previa (Ciclos 1–3) se mantiene
-(Davydov, Engeström, Sidneva, Schmittau, Blanton et al. 2019 early algebra RCT, Kirschner-Sweller-Clark, Lazonder & Harmsen, Willingham, Christodoulou, Hirsch, Luri, Enkvist, PISA 2025, críticas a CLT, etc.)
+32. Sangwa (2025) — se mantiene como referencia correlacional cross-nacional (sin réplicas independientes localizadas aún).
+
+## Bibliografía previa se mantiene
+(Davydov, Engeström, Sidneva, Schmittau, Blanton et al. 2019, Kirschner-Sweller-Clark, Lazonder & Harmsen, Willingham, Christodoulou, Hirsch, Luri, Enkvist, PISA 2025, Piaget moral, American Worldview Inventory, etc.)
