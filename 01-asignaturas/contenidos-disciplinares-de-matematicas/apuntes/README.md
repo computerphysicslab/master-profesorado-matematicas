@@ -8,10 +8,10 @@
 
 | Parte | Contenido de referencia | Apunte | Estado |
 |-------|-------------------------|--------|--------|
-| **1** | Visión general del desarrollo de las Matemáticas: problemas que originaron las ramas, evolución y presentación actual | [01-vision-historica.md](01-vision-historica.md) | **Disponible** (T-CD-01) |
-| **2** | Geometría sintética (escuela griega) y geometría proyectiva (plano ampliado, dualidad, cónicas) | [02-geometria-sintetica-euclides.md](02-geometria-sintetica-euclides.md) · [03-geometria-proyectiva.md](03-geometria-proyectiva.md) | **Disponible** (T-CD-02 + T-CD-03) |
-| **3** | Reflexión y análisis de conceptos del currículo de Secundaria | Pendiente (T-CD-04) | — |
-| **4** | Laboratorio de software matemático | Materiales existentes + ampliación (T-CD-05) | Parcial |
+| **1** | Visión general del desarrollo de las Matemáticas | [01-vision-historica.md](01-vision-historica.md) | **Disponible** (T-CD-01) |
+| **2** | Geometría sintética y geometría proyectiva | [02-geometria-sintetica-euclides.md](02-geometria-sintetica-euclides.md) · [03-geometria-proyectiva.md](03-geometria-proyectiva.md) | **Disponible** (T-CD-02 + T-CD-03) |
+| **3** | Reflexión y análisis de conceptos del currículo de Secundaria | [04-reflexion-curricular.md](04-reflexion-curricular.md) | **Disponible** (T-CD-04) |
+| **4** | Laboratorio de software matemático | Materiales existentes + ampliación (T-CD-05) | Parcial / pendiente |
 
 ## Materiales complementarios de la asignatura
 

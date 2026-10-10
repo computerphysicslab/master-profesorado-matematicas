@@ -39,7 +39,7 @@ Organizado según `MANIFEST.md`. Núcleo en `01-asignaturas/`. Transversales rea
 | Procesos y contextos educativos | Cubierto (6 temas) | Baja |
 | Sociedad, familia y procesos grupales | Cubierto (4 temas) | Baja |
 | Diseño curricular e instruccional de Matemáticas | Cubierto / Parcial (9 bloques + materiales ricos) | Media-baja |
-| **Contenidos disciplinares de Matemáticas** | **En construcción avanzada** (T-CD-01, 02 y 03 disponibles) | **Alta** |
+| **Contenidos disciplinares de Matemáticas** | **Casi completo** (T-CD-01 a T-CD-04 disponibles; falta laboratorio) | **Alta** |
 | **Diseño de actividades para el aprendizaje de Matemáticas** | **Sin apuntes** | **Alta** |
 | **Innovación e investigación educativa en Matemáticas** | **Sin apuntes** | **Alta** |
 | Practicum I / II | Parcial (trabajo anonimizado + carcasas) | Media |
@@ -64,7 +64,8 @@ Clasificación: Sin apuntes · Pendiente · Parcial · Cubierto · Por verificar
 | **T-CD-01** | Visión histórica del desarrollo de las Matemáticas | `…/01-vision-historica.md` | **completada** | 2026-10-10 |
 | **T-CD-02** | Geometría sintética, escuela griega, axiomatización euclidiana | `…/02-geometria-sintetica-euclides.md` | **completada** | 2026-10-10 |
 | **T-CD-03** | Plano ampliado, dualidad, cónicas y génesis de la geometría proyectiva | `…/03-geometria-proyectiva.md` | **completada** | 2026-10-10 |
-| T-CD-04 | Reflexión sobre conceptos del currículo de Secundaria/Bachillerato | `…/04-reflexion-curricular.md` | pendiente | |
+| **T-CD-04** | Reflexión sobre conceptos del currículo de Secundaria/Bachillerato | `…/04-reflexion-curricular.md` | **completada** | 2026-10-10 |
+| T-CD-05 | Laboratorio de software / aplicaciones | materiales/ + apuntes | pendiente | |
 | T-CD-05 | Laboratorio de software / aplicaciones | materiales/ + apuntes | pendiente | |
 
 ### Bloque B — Diseño de actividades (prioridad 2)
@@ -102,13 +103,14 @@ Clasificación: Sin apuntes · Pendiente · Parcial · Cubierto · Por verificar
 | 2026-10-10 | T-CD-01 | Creado `01-vision-historica.md` |
 | 2026-10-10 | T-CD-02 | Creado `02-geometria-sintetica-euclides.md` |
 | 2026-10-10 | T-CD-03 | Creado `03-geometria-proyectiva.md` (plano ampliado, dualidad, cónicas) |
+| 2026-10-10 | T-CD-04 | Creado `04-reflexion-curricular.md` (conceptos subyacentes al currículo) |
 
 ---
 
 ## 6. Próxima tarea recomendada
 
-**T-CD-04** — Reflexión y análisis de los principales conceptos que subyacen a los contenidos del currículo de matemáticas en Educación Secundaria  
-(Archivo previsto: `01-asignaturas/contenidos-disciplinares-de-matematicas/apuntes/04-reflexion-curricular.md`).
+**T-CD-05** — Laboratorio de software matemático / aplicaciones  
+(Reutilizar y ampliar materiales existentes de la asignatura; posibles apuntes o guías de uso en `apuntes/` o `materiales/`).
 
 ---
 
