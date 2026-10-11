@@ -71,6 +71,8 @@ La **Ley General de Educación de 1970** sustituyó el marco Moyano en el tardof
 | Interpretativo | Significados, constructivismo, comprensión |
 | Socio-crítico | Equidad, inclusión, poder y contexto |
 
+El paradigma sociocrítico —de raíz frankfurtiana, freireana y de la pedagogía crítica— sostiene que la educación no es neutral: está atravesada por relaciones de poder, intereses económicos, políticos y culturales. Por tanto, propone analizar cómo el poder, los intereses y los impactos sociales atraviesan al sistema educativo, cuestionando qué voces intervienen, qué mecanismos formales e informales pesan en las leyes y qué resultados producen, sin asumir ni la autoridad de las instituciones ni la de sus críticos como algo incuestionable. A la vez, esta perspectiva recuerda que, para cuestionar con rigor, primero hay que comprender, porque sin conocimientos y herramientas la crítica puede reducirse a opinión espontánea. Esto invita a planificar un progreso gradual desde el conocimiento hacia la comprensión y de ahí a la evaluación crítica, ajustando las exigencias a la madurez y preparación del alumnado. En suma, la tensión entre conocer, criticar y emanciparse es un núcleo clave para reflexionar sobre los fines de la educación y evaluar si realmente promueve autonomía intelectual y no solo toma de posición.
+
 [Mapa epistemológico](../materiales/mapa-epistemologico-paradigmas-educativos.md) — triángulo positivista / interpretativo / sociocrítico.
 
 **Renovación pedagógica:** [Referentes](../materiales/referentes-progresista-critica-libertaria.md) · [Corrientes e historia (síntesis de sesión)](../materiales/corrientes-pedagogicas-historia-sintesis.md).
