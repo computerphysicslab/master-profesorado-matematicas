@@ -7,47 +7,32 @@
 
 ## Estado resumido
 
-| Asignatura | Estado | Prioridad |
-|------------|--------|-----------|
-| Contenidos disciplinares | **Completo** (T-CD-01…05) | Baja |
-| Diseño de actividades | **Completo** (T-DA-01…04) | Baja |
-| Innovación e investigación | **Completo** (T-II-01…04) | Baja |
-| Sociedad, familia y procesos grupales | Temas 1–5 | Baja |
-| Procesos y contextos | Apuntes 01–06 + materiales amplios | Baja |
-| **Psicología del desarrollo** | **Temas 1–5 homogeneizados** | Baja |
-| Diseño curricular | Apuntes 01–09 | Baja |
+| Asignatura | Apuntes | Exámenes (3+3) |
+|-----------|---------|----------------|
+| Psicología | Temas 1–5 homogeneizados | **Patrón completo** |
+| Procesos y contextos | 01–06 | **Patrón completo** |
+| SFYPG | Temas 1–5 | **Patrón completo** |
+| Diseño curricular | 01–09 | **Patrón completo** |
+| Innovación e investigación | T-II-01…04 | **Patrón completo** |
+| Educación emocional | amplio | **Patrón completo** (referencia) |
+| Contenidos / Diseño de actividades | completo | Revisar si falta 3+3 |
 
 ---
 
-## Psicología del desarrollo
-
-| Tema | Estado |
-|------|--------|
-| 1 · Desarrollo evolutivo en la adolescencia | disponible (amplio) |
-| 2 · Diferencias individuales y problemas frecuentes | **ampliado** (2026-10-11) |
-| 3 · Teorías conductuales y modificación de conducta | **ampliado** (2026-10-11) |
-| 4 · Procesamiento de la información y teorías cognoscitivas | **ampliado** (2026-10-11) |
-| **5 · Motivación en el proceso de enseñanza-aprendizaje** | **ampliado** (2026-10-11) — **cierre de homogeneización** |
-
----
-
-## Registro de cambios
+## Registro de cambios (reciente)
 
 | Fecha | Cambio |
 |-------|--------|
-| 2026-10-10 | T-CD-01…05; T-DA-01…04 |
-| 2026-10-11 | T-II-01…04 (cierre Innovación) |
-| 2026-10-11 | Procesos: Moyano; responsabilidad social; sociocrítico (usuario) |
-| 2026-10-11 | SFYPG Tema 5 — Familia, escuela y acompañamiento |
-| 2026-10-11 | Psicología Temas 2, 3 y 4 ampliados |
-| 2026-10-11 | **Psicología Tema 5 ampliado** — motivación; **cierre homogeneización apuntes Psicología** |
+| 2026-10-11 | Psicología Temas 2–5 ampliados |
+| 2026-10-11 | SFYPG Tema 5 |
+| 2026-10-11 | **Exámenes unificados** al patrón 3 niveles + 3 soluciones (Psicología, Procesos, SFYPG, Diseño curricular, Innovación) |
 
 ---
 
 ## Próxima tarea sugerida
 
-Revisar bancos de examen de Psicología (alineación con apuntes ampliados) u otra asignatura según necesidad del curso.
+Completar 3+3 en asignaturas restantes (Contenidos disciplinares, Diseño de actividades, otras optativas) si aún solo tienen banco o un examen.
 
 ---
 
-*Documento de seguimiento del plan de mejora de apuntes.*
+*Documento de seguimiento.*

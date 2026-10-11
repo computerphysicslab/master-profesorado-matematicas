@@ -2,7 +2,7 @@
 
 **Nivel:** básico (comprensión y vocabulario)  
 **Duración orientativa:** 45–60 min  
-**Objetivo:** comprobar que se dominan los conceptos fundamentales del programa.
+**Respuestas:** [respuestas-facil.md](respuestas-facil.md)
 
 > Material de autoevaluación. No es una prueba oficial.
 
@@ -48,17 +48,3 @@ Elige **un** saber básico de sentido numérico o algebraico de 1.º–3.º de E
 - Una competencia específica con la que podría relacionarse.
 - Un criterio de evaluación posible (en tus palabras).
 - Una tarea breve (2–3 líneas) que pudiera servir como evidencia.
-
----
-
-## Orientación de corrección (autoevaluación)
-
-| Parte | Qué se espera |
-|-------|----------------|
-| V/F | 1F, 2F, 3V, 4V, 5V (con justificación breve de los falsos) |
-| Definiciones | Uso del vocabulario LOMLOE / didáctica sin confundir niveles |
-| Relaciona | A-2, B-1, C-3, D-4, E-5 |
-| Cortas | Ejes: resolución de problemas, razonamiento y prueba, conexiones, comunicación/representación, socioafectivo |
-| Mini-aplicación | Coherencia CE → criterio → tarea |
-
-*Basado en los bloques 1–4 y 6–7 del programa de la asignatura.*
