@@ -5,33 +5,34 @@
 
 ---
 
-## Estado resumido
+## Estado resumido — Exámenes (patrón 3+3)
 
-| Asignatura | Apuntes | Exámenes (3+3) |
-|-----------|---------|----------------|
-| Psicología | Temas 1–5 homogeneizados | **Patrón completo** |
-| Procesos y contextos | 01–06 | **Patrón completo** |
-| SFYPG | Temas 1–5 | **Patrón completo** |
-| Diseño curricular | 01–09 | **Patrón completo** |
-| Innovación e investigación | T-II-01…04 | **Patrón completo** |
-| Educación emocional | amplio | **Patrón completo** (referencia) |
-| Contenidos / Diseño de actividades | completo | Revisar si falta 3+3 |
+| Asignatura | Exámenes 3 niveles + 3 soluciones |
+|-----------|-----------------------------------|
+| Psicología | Completo |
+| Procesos y contextos | Completo |
+| SFYPG | Completo |
+| Diseño curricular | Completo |
+| Innovación e investigación | Completo |
+| Educación emocional | Completo (referencia) |
+| **Contenidos disciplinares** | **Completo** |
+| **Diseño de actividades** | **Completo** |
 
 ---
 
-## Registro de cambios (reciente)
+## Registro reciente
 
 | Fecha | Cambio |
 |-------|--------|
-| 2026-10-11 | Psicología Temas 2–5 ampliados |
-| 2026-10-11 | SFYPG Tema 5 |
-| 2026-10-11 | **Exámenes unificados** al patrón 3 niveles + 3 soluciones (Psicología, Procesos, SFYPG, Diseño curricular, Innovación) |
+| 2026-10-11 | Psicología Temas 2–5; SFYPG Tema 5 |
+| 2026-10-11 | Exámenes 3+3: Psicología, Procesos, SFYPG, Diseño curricular, Innovación |
+| 2026-10-11 | **Exámenes 3+3: Contenidos disciplinares + Diseño de actividades** |
 
 ---
 
 ## Próxima tarea sugerida
 
-Completar 3+3 en asignaturas restantes (Contenidos disciplinares, Diseño de actividades, otras optativas) si aún solo tienen banco o un examen.
+Otras optativas o practicum si se desea el mismo patrón; o limpieza de `respuestas-autocorreccion.md` legacy con redirección.
 
 ---
 

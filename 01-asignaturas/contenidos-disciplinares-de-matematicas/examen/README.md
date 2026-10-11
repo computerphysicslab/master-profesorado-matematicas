@@ -1,9 +1,15 @@
 # Examen — Contenidos disciplinares de Matemáticas
 
-Banco de posibles preguntas de examen del Máster.
+Modelos de examen a **tres niveles** + respuestas separadas para autoevaluación y preparación.
 
-| Archivo | Contenido |
-|---------|-----------|
-| [banco-preguntas.md](banco-preguntas.md) | Plantilla inicial |
+| Nivel | Archivo de examen | Respuestas | Descripción |
+|-------|-------------------|------------|-------------|
+| **Fácil** | [examen-facil.md](examen-facil.md) | [respuestas-facil.md](respuestas-facil.md) | Historia, Euclides, proyectiva, currículo, software |
+| **Intermedio** | [examen-intermedio.md](examen-intermedio.md) | [respuestas-intermedio.md](respuestas-intermedio.md) | Aplicar al aula de ESO/Bachillerato |
+| **Difícil** | [examen-dificil.md](examen-dificil.md) | [respuestas-dificil.md](respuestas-dificil.md) | Análisis, diseño y argumentación |
 
-> No son preguntas oficiales. Ampliar según los bloques de contenido del programa y del repo.
+**Banco:** [banco-preguntas.md](banco-preguntas.md)
+
+Alineado con apuntes T-CD-01…05 (visión histórica, geometría sintética, proyectiva, reflexión curricular, laboratorio software).
+
+> No son exámenes oficiales de convocatoria.

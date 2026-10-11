@@ -1,9 +1,15 @@
 # Examen — Diseño de actividades para el aprendizaje de Matemáticas
 
-Banco de posibles preguntas de examen del Máster.
+Modelos de examen a **tres niveles** + respuestas separadas.
 
-| Archivo | Contenido |
-|---------|-----------|
-| [banco-preguntas.md](banco-preguntas.md) | Plantilla inicial (ampliar con el material de la asignatura) |
+| Nivel | Archivo de examen | Respuestas | Descripción |
+|-------|-------------------|------------|-------------|
+| **Fácil** | [examen-facil.md](examen-facil.md) | [respuestas-facil.md](respuestas-facil.md) | Principios de diseño, secuenciación, SA, evaluación |
+| **Intermedio** | [examen-intermedio.md](examen-intermedio.md) | [respuestas-intermedio.md](respuestas-intermedio.md) | Diseñar y analizar actividades |
+| **Difícil** | [examen-dificil.md](examen-dificil.md) | [respuestas-dificil.md](respuestas-dificil.md) | Secuencias, modelización, feedback y rigor |
 
-> No son preguntas oficiales. Ir añadiendo ítems alineados con apuntes y materiales del repo.
+**Banco:** [banco-preguntas.md](banco-preguntas.md)
+
+Alineado con apuntes T-DA-01…04 (principios de diseño, secuenciación, modelización/SA, evaluación y feedback).
+
+> No son exámenes oficiales de convocatoria.
