@@ -7,8 +7,13 @@ parent: Procesos y contextos educativos
 # Línea temporal de leyes educativas (España)
 
 ```text
+1857  Ley Moyano (Ley de Instrucción Pública)
+        │  Primera ley general del sistema educativo moderno
+        │  Estructura de niveles; centralismo; estabilidad > 100 años
+        ▼
 1970  LGE (Ley General de Educación)
-        │  Nacionalcatolicismo; segregación; currículo cerrado
+        │  Sustituye el marco Moyano; tardofranquismo
+        │  Escolarización; currículo cerrado; segregación
         ▼
 1978  Constitución (art. 27)
         │  Compromiso: derecho a la educación + libertad de enseñanza
@@ -39,11 +44,18 @@ parent: Procesos y contextos educativos
 
 | Etapa | Clave |
 |-------|--------|
-| Franquismo | Dogma y segregación |
+| **Moyano (1857–1970)** | Primera ley general; estructura liberal; longevidad normativa |
+| Franquismo / LGE | Dogma, segregación, escolarización masiva |
 | Transición | Compromiso constitucional (art. 27) |
 | LODE–LOGSE | Expansión del derecho y modelo comprensivo |
 | LOCE–LOMCE | Énfasis en evaluación, diferenciación y esfuerzo |
 | LOMLOE | Competencias, inclusión, DUA |
+
+## Contraste de estabilidad
+
+La **Ley Moyano** ofreció un marco estructural durante más de un siglo. Desde 1980, en cambio, se suceden varias leyes orgánicas en un periodo relativamente corto. Ese contraste es el punto de partida del debate sobre **continuidad educativa y responsabilidad intergeneracional**:
+
+→ [Responsabilidad social, consenso y continuidad educativa](responsabilidad-social-consenso-y-continuidad-educativa.md)
 
 ## Fichas de análisis
 
@@ -61,3 +73,7 @@ Para profundizar en cada ley orgánica democrática (contexto, pedagogía, crít
 
 - [Comparativa PISA 2025 y sistemas de referencia (Corea, Estonia, Polonia, China)](leyes-educativas/comparativa-pisa-2025-y-sistemas-internacionales.md)
 - [PISA 2022 — rendimiento en Matemáticas y fracaso escolar](pisa-2022-fracaso-escolar-matematicas.md)
+
+## Apunte de entrada
+
+[Evolución histórica del sistema educativo y paradigmas](../apuntes/01-evolucion-historica-sistema-educativo-paradigmas.md)
