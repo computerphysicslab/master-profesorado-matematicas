@@ -9,8 +9,8 @@
 
 | Fecha | Cambio |
 |-------|--------|
-| 2026-10-11 | Psicología; exámenes 3+3; practicum; NEE; Habilidades comunicativas |
-| 2026-10-11 | **Optativa Prevención y resolución de conflictos:** apuntes 01–02, examen 3+3, README/bibliografía |
+| 2026-10-11 | NEE; Habilidades comunicativas; Prevención de conflictos |
+| 2026-10-11 | **Optativa TIC para el aprendizaje:** apuntes 01–02, examen 3+3, README/bibliografía |
 
 ---
 
@@ -21,14 +21,15 @@
 | Educación emocional | Completa |
 | Atención a NEE | Apuntes + 3+3 |
 | Habilidades comunicativas | Apuntes + 3+3 |
-| **Prevención y resolución de conflictos** | **Apuntes + 3+3** |
-| TIC / educación a distancia / español inmigrante | Pendiente |
+| Prevención y resolución de conflictos | Apuntes + 3+3 |
+| **TIC para el aprendizaje** | **Apuntes + 3+3** |
+| Diseño materiales a distancia / Español inmigrante | Pendiente |
 
 ---
 
 ## Próxima tarea sugerida
 
-- Optativa TIC para el aprendizaje, o plantillas diario/memoria del practicum.
+- Optativa Diseño de materiales para educación a distancia, o plantillas diario/memoria del practicum.
 
 ---
 
