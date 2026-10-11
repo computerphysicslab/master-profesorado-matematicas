@@ -1,25 +1,56 @@
-# Diario — Semana 3 (primera intervención planificada)
+# Diario — Semana 3 (apoyo + errores)
 
-**Foco:** dirigir una parte de la sesión (20–25 min) sobre ecuaciones de primer grado.
+```text
+Fase: [ ] observación  [x] apoyo  [ ] tramo / sesión propia  [x] mixta
+Niveles: ESO (genérico)
+Temas: álgebra inicial / ecuaciones (genérico)
+Nº aproximado de sesiones: 4
+```
 
-## Diseño previo
+---
 
-- Objetivo: resolver ecuaciones ax+b=c justificando cada paso.
-- Actividad: 1 ejemplo guiado + 3 ecuaciones en escalera de dificultad + puesta a un compañero.
-- Material: pizarra + hoja de trabajo (sin datos personales).
+## 1. Qué hice
 
-## Qué ocurrió
+- Apoyo sistemático en la fase de ejercicios.
+- Registro de 5 errores tipo con códigos (sin nombres).
+- Comentario breve con el tutor sobre un patrón de signo en ecuaciones.
 
-- El ejemplo guiado se alargó (preguntas de procedimiento).
-- Solo dio tiempo a 2 de las 3 ecuaciones.
-- La puesta en común final se sustituyó por la corrección del tutor al sonar el timbre.
+## 2. Qué observé
 
-## Errores detectados en el diseño
+- Consigna oral larga: solo parte del grupo inicia a la vez.
+- Quienes copian de la pizarra sin hablar no pueden reexplicar el paso.
 
-1. Subestimé el tiempo de la fase guiada.
-2. No preparé una versión “mínima” de la actividad por si faltaba tiempo.
-3. No cerré con una pregunta de metacognición (“¿qué paso te suele fallar?”).
+## 3. Errores / obstáculos
 
-## Ajuste para la próxima
+| Código | Qué se ve | Hipótesis breve |
+|--------|-----------|-----------------|
+| E5 | Al despejar cambia mal el signo | Procedimiento mecánico sin significado de igualdad |
+| E6 | Traduce mal “el doble de un número más 3” | Lengua académica / estructura del enunciado |
 
-Cronometrar el ejemplo en casa; llevar 2 tareas nucleares y 1 de ampliación; reservar 5 minutos de cierre sí o sí.
+## 4. Interacción y clima
+
+- Un comentario de un compañero (“eso es fácil”) corta a quien iba a preguntar.  
+- Intervención del docente: norma breve de respeto; efecto parcial.
+
+## 5. Mi intervención
+
+Fragmentar la consigna en datos → igualdad → despeje; pedir que señalen el signo en cada paso.
+
+## 6. Dudas / tensiones
+
+- ¿Cuándo el error de enunciado es lengua L2 y cuándo es álgebra?
+
+## 7. Puente con el máster
+
+| Lente | ¿La usé? | Nota |
+|-------|----------|------|
+| Carga / consignas | [x] | Consigna larga ≈ más tiempo muerto y copia |
+| Lengua académica / acceso | [x] | E6: posible barrera de enunciado (optativa español L2 / NEE acceso) |
+| Clima / etiquetas | [x] | “Es fácil” como presión de estatus (SFYPG) |
+
+## 8. Para la memoria
+
+**Escena útil:** norma ante “es fácil” + efecto en participación.  
+**Funcionó:** checklist mental de signos en el despeje.  
+**A mejorar:** tener un enunciado dual (simbólico + verbal corto) listo.  
+**Pregunta abierta:** cómo documentar E6 sin etiquetar al alumno como “de refuerzo de lengua”.
