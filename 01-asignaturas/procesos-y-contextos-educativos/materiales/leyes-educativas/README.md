@@ -31,6 +31,12 @@ Cada documento de ley sigue una estructura académica homogénea que facilita la
 
 Ambos preámbulos son **alegatos político-legislativos**, no diagnósticos técnicos neutrales. La lectura simétrica evita tratar solo uno como «ideológico» y el otro como «técnico». Contrastar siempre con datos (PISA, TALIS) y con el articulado.
 
+## Responsabilidad social y continuidad
+
+Más allá de la cronología de cada ley, el debate sobre la **sucesión de reformas** plantea una cuestión de responsabilidad intergeneracional y de límites de la disputa partidista:
+
+→ [**Responsabilidad social, consenso y continuidad educativa**](../responsabilidad-social-consenso-y-continuidad-educativa.md) (Arendt, Dewey, Freire, Bourdieu; costes de la inestabilidad; qué se puede afirmar y qué es hipótesis).
+
 ## Comparativa internacional y mapa de paradigmas
 
 | Recurso | Contenido |
@@ -50,6 +56,7 @@ Relacionado en la carpeta de materiales: [PISA 2022 — fracaso escolar y matem�
 - Leer en paralelo los [análisis de sesgo de los preámbulos LOMCE](lomce-preambulo-analisis-sesgo.md) y [LOMLOE](lomloe-preambulo-analisis-sesgo.md) antes de tomar cualquiera de ellos como fuente «factual».
 - Situar LOMCE / LOMLOE / China en el [mapa epistemológico](../mapa-epistemologico-paradigmas-educativos.md).
 - Contrastar con la [comparativa PISA 2025](comparativa-pisa-2025-y-sistemas-internacionales.md) al debatir resultados y transferibilidad de políticas.
+- Para el marco de responsabilidad intergeneracional y consenso: [responsabilidad-social-consenso-y-continuidad-educativa.md](../responsabilidad-social-consenso-y-continuidad-educativa.md).
 
 ## Ubicación en el repositorio
 
