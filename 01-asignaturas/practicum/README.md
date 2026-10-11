@@ -21,7 +21,7 @@ Carpeta **única versionable** para el trabajo de prácticas del máster (especi
 
 | Carpeta | Contenido |
 |---------|-----------|
-| [observacion/](observacion/) | Guías y registros de observación |
+| [observacion/](observacion/) | Guías, **checklist de sesión** y registros de observación (lentes Psicología / SFYPG) |
 | [centro/](centro/) | Análisis del centro (sin identificar) |
 | [aula/](aula/) | Organización espacial/temporal |
 | [alumnado/](alumnado/) | Perfiles de grupo (sin nombres) |
@@ -31,6 +31,12 @@ Carpeta **única versionable** para el trabajo de prácticas del máster (especi
 | [memoria/](memoria/) | Estructura de la memoria |
 | [reflexiones/](reflexiones/) | Contraste teoría–aula |
 | [evidencias/](evidencias/) | Rúbricas / evidencias sin datos personales |
+
+## Observación (punto de entrada recomendado)
+
+1. [Guía de observación](observacion/guia-observacion.md) — qué registrar y lentes teóricas.  
+2. [Checklist de sesión de mates](observacion/checklist-sesion-mates.md) — una hoja por clase.  
+3. [Observaciones didácticas](observacion/observaciones-didacticas.md) — patrones para contrastar.
 
 ## Recursos para la programación (Aragón)
 
