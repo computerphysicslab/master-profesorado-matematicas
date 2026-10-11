@@ -4,7 +4,7 @@
 **Tiempo orientativo:** 25–35 min  
 **Especialidad:** Matemáticas · ESO / Bachillerato  
 
-Respuestas: [respuestas-autocorreccion.md](respuestas-autocorreccion.md) (sección Fácil).
+**Respuestas:** [respuestas-facil.md](respuestas-facil.md)
 
 ---
 

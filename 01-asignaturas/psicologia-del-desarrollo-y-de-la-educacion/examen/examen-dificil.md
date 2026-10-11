@@ -5,7 +5,7 @@
 **Especialidad:** Matemáticas · ESO / Bachillerato  
 
 Basado en el [banco de preguntas](banco-preguntas.md).  
-Respuestas orientativas: [respuestas-autocorreccion.md](respuestas-autocorreccion.md) (sección Difícil).
+**Respuestas orientativas:** [respuestas-dificil.md](respuestas-dificil.md)
 
 ---
 
@@ -45,4 +45,4 @@ Respuestas orientativas: [respuestas-autocorreccion.md](respuestas-autocorreccio
 
 ---
 
-*Criterio orientativo: rigor conceptual, aplicación a Matemáticas, ética profesional (no diagnosticar, no humillar). No hay una única respuesta “oficial”.*
+*Criterio orientativo: rigor conceptual, aplicación a Matemáticas, ética profesional (no diagnosticar, no humillar).*

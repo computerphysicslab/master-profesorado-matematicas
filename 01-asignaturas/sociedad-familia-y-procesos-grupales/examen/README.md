@@ -1,13 +1,17 @@
 # Examen — Sociedad, familia y procesos grupales
 
-Banco de posibles preguntas de examen del Máster elaboradas a partir del material de esta asignatura en el repositorio.
+Modelos de examen a **tres niveles** + respuestas separadas para autoevaluación y preparación.
 
-| Archivo | Contenido |
-|---------|-----------|
-| [banco-preguntas.md](banco-preguntas.md) | Plantilla inicial (ampliar conforme se complete el material de la asignatura) |
+| Nivel | Archivo de examen | Respuestas | Descripción |
+|-------|-------------------|------------|-------------|
+| **Fácil** | [examen-facil.md](examen-facil.md) | [respuestas-facil.md](respuestas-facil.md) | Conceptos de grupo, poder, comunicación, prejuicio |
+| **Intermedio** | [examen-intermedio.md](examen-intermedio.md) | [respuestas-intermedio.md](respuestas-intermedio.md) | Aplicación al aula de mates y a la relación con familias |
+| **Difícil** | [examen-dificil.md](examen-dificil.md) | [respuestas-dificil.md](respuestas-dificil.md) | Casos integrados, estereotipos, poder y familias |
 
-**Criterios de elaboración**
-- Alineadas con apuntes y materiales del repo cuando existan.
-- Énfasis en sociología de la educación, familia, grupos y su eco en el aula de Matemáticas.
+**Banco completo:** [banco-preguntas.md](banco-preguntas.md)
 
-> No son preguntas oficiales. Ir ampliando el banco a medida que se consolide el contenido de la asignatura.
+**Criterios comunes**
+- Alineados con Temas 1–5 y material de comunicación con familias.
+- Foco en el aula de **Matemáticas** y límites del rol docente.
+
+> No son exámenes oficiales de convocatoria.
