@@ -14,7 +14,7 @@
 | Innovación e investigación | **Completo** (T-II-01…04) | Baja |
 | Sociedad, familia y procesos grupales | Temas 1–5 | Baja |
 | Procesos y contextos | Apuntes 01–06 + materiales amplios | Baja |
-| Psicología del desarrollo | Temas 1–5 (**Tema 2 ampliado**) | Baja |
+| Psicología del desarrollo | Temas 1–5 (**2 y 3 ampliados**) | Baja |
 | Diseño curricular | Apuntes 01–09 | Baja |
 
 ---
@@ -47,8 +47,8 @@
 | Tema | Estado |
 |------|--------|
 | 1 · Desarrollo evolutivo en la adolescencia | disponible (amplio) |
-| **2 · Diferencias individuales y problemas frecuentes** | **ampliado** (2026-10-11) |
-| 3 · Teorías conductuales | disponible |
+| 2 · Diferencias individuales y problemas frecuentes | **ampliado** (2026-10-11) |
+| **3 · Teorías conductuales y modificación de conducta** | **ampliado** (2026-10-11) |
 | 4 · Procesamiento de la información | disponible |
 | 5 · Motivación | disponible |
 
@@ -59,18 +59,17 @@
 | Fecha | Cambio |
 |-------|--------|
 | 2026-10-10 | T-CD-01…05; T-DA-01…04 |
-| 2026-10-11 | T-II-01; T-II-02 |
-| 2026-10-11 | T-II-03 — Análisis de innovaciones y evaluación de impacto |
-| 2026-10-11 | T-II-04 — Líneas de investigación y conexión con TFM (cierre del bloque) |
-| 2026-10-11 | Procesos: contexto histórico Ley Moyano; responsabilidad social; párrafo paradigma sociocrítico (commit usuario) |
-| 2026-10-11 | SFYPG Tema 5 — Familia, escuela y acompañamiento del aprendizaje |
-| 2026-10-11 | **Psicología Tema 2 ampliado** — diferencias individuales y problemas frecuentes |
+| 2026-10-11 | T-II-01…04 (cierre Innovación) |
+| 2026-10-11 | Procesos: Moyano; responsabilidad social; sociocrítico (usuario) |
+| 2026-10-11 | SFYPG Tema 5 — Familia, escuela y acompañamiento |
+| 2026-10-11 | Psicología Tema 2 ampliado |
+| 2026-10-11 | **Psicología Tema 3 ampliado** — conductismo, ABC, Bandura, ética |
 
 ---
 
 ## Próxima tarea sugerida
 
-Revisar bancos de examen (Psicología / SFYPG) tras las ampliaciones, o materiales puntuales según necesidad del curso.
+Ampliar Psicología Tema 4 o 5 si se busca homogeneizar profundidad; o revisar bancos de examen.
 
 ---
 
