@@ -11,21 +11,16 @@
 |------------|--------|-----------|
 | Contenidos disciplinares | **Completo** (T-CD-01…05) | Baja |
 | Diseño de actividades | **Completo** (T-DA-01…04) | Baja |
-| **Innovación e investigación** | T-II-01 hecho | **Alta** |
+| **Innovación e investigación** | T-II-01 y T-II-02 hechos | **Alta** |
 
 ---
 
-## Bloques
-
-### A — Contenidos disciplinares: cerrado (T-CD-01…05)
-### B — Diseño de actividades: cerrado (T-DA-01…04)
-
-### C — Innovación e investigación
+## Bloque C — Innovación e investigación
 
 | ID | Tema | Estado |
 |----|------|--------|
-| **T-II-01** | Conceptos de innovación docente en matemáticas | **completada** |
-| T-II-02 | Metodologías de investigación educativa en didáctica | pendiente |
+| **T-II-01** | Conceptos de innovación docente | **completada** |
+| **T-II-02** | Metodologías de investigación educativa | **completada** |
 | T-II-03 | Análisis de innovaciones y evaluación de impacto | pendiente |
 | T-II-04 | Líneas de investigación y conexión con TFM | pendiente |
 
@@ -35,14 +30,14 @@
 
 | Fecha | Cambio |
 |-------|--------|
-| 2026-10-10 | T-CD-01…05; T-DA-01…04; plan en `99-archivo/` |
-| 2026-10-11 | T-II-01 conceptos de innovación docente |
+| 2026-10-10 | T-CD-01…05; T-DA-01…04 |
+| 2026-10-11 | T-II-01; T-II-02 |
 
 ---
 
 ## Próxima tarea
 
-**T-II-02** — Metodologías de investigación educativa en didáctica de las matemáticas.
+**T-II-03** — Análisis de innovaciones y evaluación de impacto.
 
 ---
 
