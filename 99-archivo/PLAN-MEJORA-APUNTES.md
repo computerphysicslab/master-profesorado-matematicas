@@ -9,33 +9,27 @@
 
 | Fecha | Cambio |
 |-------|--------|
-| 2026-10-12 | Cierre bloque optativas (español L2) |
-| 2026-10-12 | **Practicum diario:** plantilla.md, guia-uso-diario.md, semanas 01–06, README diario y practicum |
+| 2026-10-12 | Diario practicum: plantilla + guía + semanas 01–06 |
+| 2026-10-12 | **Memoria practicum:** guia-diario-a-memoria, estructura ampliada, checklist-entrega |
 
 ---
 
-## Optativas
-
-Todas las del plan con base apuntes + examen 3+3 (o completa en EE).
-
----
-
-## Practicum
+## Practicum — estado del flujo
 
 | Elemento | Estado |
 |----------|--------|
-| Observación (guía + checklist + lentes) | Hecho |
-| **Diario (plantilla + guía + ejemplos)** | **Hecho** |
-| Memoria (estructura) | Básica — se puede enriquecer con guía “del diario a la memoria” |
+| Observación (guía + checklist) | Hecho |
+| Diario (plantilla + guía + ejemplos) | Hecho |
+| **Memoria (guía diario→memoria + estructura + checklist)** | **Hecho** |
 | Reflexiones | Presentes; ampliables |
 
 ---
 
 ## Próxima tarea sugerida
 
-- Guía **del diario a la memoria** (ampliar `memoria/`).  
 - Limpieza `respuestas-autocorreccion.md` legacy.  
-- Revisión índices / enlaces rotos.
+- Revisión índices / enlaces rotos.  
+- Ampliar reflexiones o evidencias/rúbricas del practicum si se necesita.
 
 ---
 

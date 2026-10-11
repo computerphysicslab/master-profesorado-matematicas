@@ -1,6 +1,6 @@
 # Guía de uso del diario de practicum
 
-**Complementa:** [plantilla.md](plantilla.md) · [checklist de sesión](../observacion/checklist-sesion-mates.md) · [estructura de memoria](../memoria/estructura.md)
+**Complementa:** [plantilla.md](plantilla.md) · [checklist de sesión](../observacion/checklist-sesion-mates.md) · [del diario a la memoria](../memoria/guia-diario-a-memoria.md)
 
 ---
 
@@ -39,7 +39,7 @@ Memoria (análisis didáctico + reflexión)
 
 - El **checklist** evita olvidar dimensiones (tarea, clima, inclusión).  
 - El **diario** interpreta y elige focos.  
-- La **memoria** argumenta con evidencia acumulada, no con una sola anécdota brillante.
+- La **memoria** argumenta con evidencia acumulada — ver [guía del diario a la memoria](../memoria/guia-diario-a-memoria.md).
 
 ---
 

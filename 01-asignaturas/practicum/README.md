@@ -21,14 +21,14 @@ Carpeta **única versionable** para el trabajo de prácticas del máster (especi
 
 | Carpeta | Contenido |
 |---------|-----------|
-| [observacion/](observacion/) | Guías, **checklist de sesión** y registros de observación (lentes Psicología / SFYPG) |
+| [observacion/](observacion/) | Guías, **checklist de sesión** y registros |
 | [centro/](centro/) | Análisis del centro (sin identificar) |
 | [aula/](aula/) | Organización espacial/temporal |
 | [alumnado/](alumnado/) | Perfiles de grupo (sin nombres) |
 | [profesor-tutor/](profesor-tutor/) | Acompañamiento (anonimizado) |
 | [actividades/](actividades/) | Modelos de actividades |
-| [diario/](diario/) | **Plantilla**, guía de uso y semanas ejemplo |
-| [memoria/](memoria/) | Estructura de la memoria |
+| [diario/](diario/) | Plantilla, guía de uso y semanas ejemplo |
+| [memoria/](memoria/) | **Guía diario→memoria**, estructura, checklist de entrega |
 | [reflexiones/](reflexiones/) | Contraste teoría–aula |
 | [evidencias/](evidencias/) | Rúbricas / evidencias sin datos personales |
 
@@ -41,7 +41,7 @@ Checklist de sesión  →  Diario semanal  →  Reflexiones  →  Memoria
 1. [Guía de observación](observacion/guia-observacion.md)  
 2. [Checklist de sesión de mates](observacion/checklist-sesion-mates.md)  
 3. [Plantilla de diario](diario/plantilla.md) · [Guía de uso del diario](diario/guia-uso-diario.md)  
-4. [Estructura de la memoria](memoria/estructura.md)
+4. [**Del diario a la memoria**](memoria/guia-diario-a-memoria.md) · [Estructura](memoria/estructura.md) · [Checklist de entrega](memoria/checklist-entrega-memoria.md)
 
 ## Recursos para la programación (Aragón)
 
