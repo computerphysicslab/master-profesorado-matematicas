@@ -4,7 +4,7 @@ Preguntas orientativas a partir de los apuntes y materiales del repositorio.
 **Especialidad:** Matemáticas · ESO y Bachillerato.
 
 **Exámenes por nivel:** [fácil](examen-facil.md) · [intermedio](examen-intermedio.md) · [difícil](examen-dificil.md)  
-**Autocorrección:** [respuestas-autocorreccion.md](respuestas-autocorreccion.md)
+**Respuestas:** [fácil](respuestas-facil.md) · [intermedio](respuestas-intermedio.md) · [difícil](respuestas-dificil.md)
 
 ---
 
@@ -120,4 +120,4 @@ Preguntas orientativas a partir de los apuntes y materiales del repositorio.
 
 ---
 
-*Última actualización: temas 1–6 + exámenes por nivel (fácil / intermedio / difícil) con autocorrección.*
+*Patrón canónico: examen + respuestas por nivel (fácil / intermedio / difícil). Sin archivo único de autocorrección.*

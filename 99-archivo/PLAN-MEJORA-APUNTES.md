@@ -9,27 +9,38 @@
 
 | Fecha | Cambio |
 |-------|--------|
-| 2026-10-12 | Diario practicum: plantilla + guía + semanas 01–06 |
-| 2026-10-12 | **Memoria practicum:** guia-diario-a-memoria, estructura ampliada, checklist-entrega |
+| 2026-10-12 | Diario + memoria practicum |
+| 2026-10-12 | **Limpieza exámenes legacy:** eliminados `respuestas-autocorreccion.md` (Psicología, Procesos) y `examen-normal.md` (Diseño curricular); bancos actualizados al 3+3 |
 
 ---
 
-## Practicum — estado del flujo
+## Exámenes — patrón canónico
+
+```text
+examen-facil.md      + respuestas-facil.md
+examen-intermedio.md + respuestas-intermedio.md
+examen-dificil.md     + respuestas-dificil.md
+(+ banco-preguntas.md opcional)
+```
+
+**No usar** `respuestas-autocorreccion.md` ni `examen-normal.md`.
+
+---
+
+## Practicum
 
 | Elemento | Estado |
 |----------|--------|
-| Observación (guía + checklist) | Hecho |
-| Diario (plantilla + guía + ejemplos) | Hecho |
-| **Memoria (guía diario→memoria + estructura + checklist)** | **Hecho** |
-| Reflexiones | Presentes; ampliables |
+| Observación | Hecho |
+| Diario | Hecho |
+| Memoria (guía diario→memoria) | Hecho |
 
 ---
 
 ## Próxima tarea sugerida
 
-- Limpieza `respuestas-autocorreccion.md` legacy.  
-- Revisión índices / enlaces rotos.  
-- Ampliar reflexiones o evidencias/rúbricas del practicum si se necesita.
+- Revisión ligera de índices / enlaces rotos restantes.  
+- Ampliar reflexiones o evidencias del practicum si se necesita.
 
 ---
 
