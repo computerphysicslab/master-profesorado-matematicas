@@ -5,11 +5,9 @@
 
 ---
 
-## Estado resumido — Exámenes (patrón 3+3)
+## Estado — Exámenes 3+3
 
-| Asignatura | Exámenes 3+3 |
-|-----------|--------------|
-| Psicología, Procesos, SFYPG, Diseño curricular, Innovación, Educación emocional, Contenidos, Diseño de actividades | Completo |
+Obligatorias principales + Educación emocional + **Atención a NEE (optativa)** → patrón disponible.
 
 ---
 
@@ -17,17 +15,16 @@
 
 | Fecha | Cambio |
 |-------|--------|
-| 2026-10-11 | Psicología Temas 2–5; SFYPG Tema 5 |
-| 2026-10-11 | Exámenes 3+3 en obligatorias principales |
-| 2026-10-11 | **Practicum observación:** guía ampliada (lentes Psicología/SFYPG), checklist de sesión, síntesis didáctica y README |
+| 2026-10-11 | Psicología 2–5; exámenes 3+3; practicum observación |
+| 2026-10-11 | **Optativa Atención a NEE:** apuntes 01–02, examen 3+3, materiales/README, bibliografía |
 
 ---
 
 ## Próxima tarea sugerida
 
-- Ampliar `practicum/reflexiones/` o plantillas de diario/memoria.  
-- Optativas con poco contenido (p. ej. Atención a NEE) o patrón 3+3 en optativas.  
-- Limpieza de `respuestas-autocorreccion.md` legacy.
+- Otras optativas (Habilidades comunicativas, Prevención de conflictos, TIC…).  
+- Plantillas diario/memoria del practicum.  
+- Limpieza `respuestas-autocorreccion.md` legacy.
 
 ---
 
