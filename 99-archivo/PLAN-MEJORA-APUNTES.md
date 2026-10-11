@@ -9,38 +9,28 @@
 
 | Fecha | Cambio |
 |-------|--------|
-| 2026-10-12 | Diario + memoria practicum |
-| 2026-10-12 | **Limpieza exámenes legacy:** eliminados `respuestas-autocorreccion.md` (Psicología, Procesos) y `examen-normal.md` (Diseño curricular); bancos actualizados al 3+3 |
+| 2026-10-12 | Diario + memoria practicum; limpieza exámenes legacy |
+| 2026-10-12 | **Índices/enlaces:** `02-apuntes/INDICE`, `01-asignaturas/README`, optativas S1/S2, READMEs de examen (Psicología, Procesos, SFYPG) |
 
 ---
 
-## Exámenes — patrón canónico
+## Estado global (síntesis)
 
-```text
-examen-facil.md      + respuestas-facil.md
-examen-intermedio.md + respuestas-intermedio.md
-examen-dificil.md     + respuestas-dificil.md
-(+ banco-preguntas.md opcional)
-```
-
-**No usar** `respuestas-autocorreccion.md` ni `examen-normal.md`.
-
----
-
-## Practicum
-
-| Elemento | Estado |
-|----------|--------|
-| Observación | Hecho |
-| Diario | Hecho |
-| Memoria (guía diario→memoria) | Hecho |
+| Bloque | Estado |
+|--------|--------|
+| Obligatórias + especialidad (apuntes + 3+3) | Hecho |
+| Optativas del plan | Hecho |
+| Practicum (obs. + diario + memoria) | Hecho |
+| Exámenes legacy | Limpiados |
+| Índices principales | Actualizados |
 
 ---
 
 ## Próxima tarea sugerida
 
-- Revisión ligera de índices / enlaces rotos restantes.  
-- Ampliar reflexiones o evidencias del practicum si se necesita.
+- Ampliar reflexiones/evidencias del practicum si se necesita en curso.  
+- Mantenimiento puntual (guía docente oficial vs. apuntes).  
+- Línea TFM (atlas/bibliometría) solo si se retoma.
 
 ---
 

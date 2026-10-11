@@ -18,3 +18,5 @@ Modelos de examen a **tres niveles** + respuestas separadas para autoevaluación
 > No son exámenes oficiales de convocatoria. Sirven para autoevaluación y preparación.
 
 **Uso recomendado:** fácil (definiciones) → intermedio (tablas y aplicación) → difícil (simular examen/oral).
+
+**Patrón del máster:** un archivo de respuestas **por nivel** (no hay `respuestas-autocorreccion.md` unificado).

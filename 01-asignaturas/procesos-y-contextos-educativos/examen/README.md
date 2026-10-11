@@ -15,3 +15,5 @@ Modelos de examen a **tres niveles** + respuestas separadas para autoevaluación
 - Orientados a la práctica docente de Matemáticas en Secundaria.
 
 > No son exámenes oficiales de convocatoria.
+
+**Patrón del máster:** respuestas por nivel (`respuestas-facil|intermedio|dificil.md`).
