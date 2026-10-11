@@ -11,7 +11,7 @@
 |------------|--------|-----------|
 | Contenidos disciplinares | **Completo** (T-CD-01…05) | Baja |
 | Diseño de actividades | **Completo** (T-DA-01…04) | Baja |
-| **Innovación e investigación** | T-II-01, T-II-02 y T-II-03 hechos | **Alta** |
+| **Innovación e investigación** | **Completo** (T-II-01…04) | Baja |
 
 ---
 
@@ -22,7 +22,7 @@
 | **T-II-01** | Conceptos de innovación docente | **completada** |
 | **T-II-02** | Metodologías de investigación educativa | **completada** |
 | **T-II-03** | Análisis de innovaciones y evaluación de impacto | **completada** |
-| T-II-04 | Líneas de investigación y conexión con TFM | pendiente |
+| **T-II-04** | Líneas de investigación y conexión con TFM | **completada** |
 
 ---
 
@@ -33,12 +33,14 @@
 | 2026-10-10 | T-CD-01…05; T-DA-01…04 |
 | 2026-10-11 | T-II-01; T-II-02 |
 | 2026-10-11 | T-II-03 — Análisis de innovaciones y evaluación de impacto |
+| 2026-10-11 | T-II-04 — Líneas de investigación y conexión con TFM (cierre del bloque) |
 
 ---
 
 ## Próxima tarea
 
-**T-II-04** — Líneas de investigación y conexión con TFM.
+Bloque **Innovación e investigación** cerrado.  
+Revisar otras asignaturas o materiales pendientes según necesidad del curso.
 
 ---
 
