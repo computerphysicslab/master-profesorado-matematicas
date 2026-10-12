@@ -50,7 +50,7 @@ Un gobierno afirma que no dispone de presupuesto suficiente para determinadas po
 
 - Las cifras globales ocultan diferencias enormes entre países.
 - No todas las «ayudas» tienen el mismo carácter (algunas son transferencias directas; otras, estimaciones de precios implícitos).
-- El modelo no demuestra por sí solo que exista una intención deliberada de priorizar a un sector; solo cuantifica el peso presupuestario de una decisión.
+- El modelo no demuestra por sí solo que exista una intención deliberada de priorizar a un sector; solo quantifica el peso presupuestario de una decisión.
 
 ---
 
@@ -180,6 +180,66 @@ Se proponen dos reformas:
 
 ---
 
+## Ejemplo 5 · Coste de una acampada en Sol frente al presupuesto del Estado y a la escala filantrópica
+
+### Enunciado
+
+En septiembre-octubre de 2026 se instaló una acampada por el derecho a la vivienda en la Puerta del Sol (Madrid). Según reportes periodísticos, llegó a reunir entre 300 y más de 1.000 tiendas y cientos de personas. Parte de la infraestructura inicial (tiendas, sacos de dormir, baños portátiles, generadores solares) fue aportada por organizaciones; el mantenimiento cotidiano se basa en autogestión, cuotas, merchandising y donaciones.
+
+Al mismo tiempo, diversos gráficos y reportajes relacionan la movilización con una red de organizaciones europeas que reciben financiación de fundaciones filantrópicas de gran escala.
+
+Queremos comparar **órdenes de magnitud**:
+- el coste estimado de montar y mantener la acampada durante un mes,
+- el Presupuesto General del Estado español,
+- la escala de gasto de grandes fundaciones filantrópicas y de subvenciones documentadas a coaliciones intermediarias.
+
+### Contenidos matemáticos
+
+- Estimación y órdenes de magnitud
+- Porcentajes y proporciones
+- Notación científica / potencias de 10
+- Comparación de magnitudes muy diferentes
+- Ratios
+
+### Datos orientativos (el docente puede actualizarlos)
+
+| Magnitud | Valor orientativo |
+|----------|-------------------|
+| Número de tiendas (orden de magnitud) | 500 |
+| Coste unitario de una tienda + saco + material básico | 80 – 150 € |
+| Coste diario de mantenimiento (agua, baños, comida solidaria, limpieza, comunicación) | 1.500 – 4.000 €/día |
+| Duración de referencia | 30 días |
+| Presupuesto General del Estado (orden de magnitud reciente) | ≈ 400.000 – 450.000 millones de € |
+| Gasto anual de una gran fundación filantrópica internacional (orden de magnitud) | cientos de millones de € |
+| Subvenciones documentadas de fundaciones intermediarias a coaliciones europeas de vivienda | decenas de miles de € (ej. 20.000 – 50.000 €) |
+
+### Preguntas de cálculo
+
+1. Estima el **coste de montaje inicial** de 500 tiendas si cada una cuesta, en promedio, 120 € (tienda + saco + material básico). Expresa el resultado en euros y en notación científica.
+2. Estima el **coste de mantenimiento de un mes** (30 días) si el gasto diario medio es de 2.500 €. Suma montaje + mantenimiento y obtén un coste total orientativo de la acampada durante un mes.
+3. Calcula qué **porcentaje** representa ese coste total respecto a un Presupuesto General del Estado de 420.000 millones de euros. Expresa el resultado también como «1 euro de cada X euros del presupuesto».
+4. Supón que una fundación intermediaria concede una subvención de 40.000 € a una coalición europea. ¿Qué porcentaje del coste estimado de la acampada de un mes representaría esa cantidad? ¿Cuántas acampadas del mismo coste se podrían financiar con 1 millón de euros de esa fundación?
+5. Compara el coste total estimado de la acampada con el gasto anual de una gran fundación (toma como referencia 300 millones de euros). ¿Cuántas veces cabe el coste de la acampada dentro de ese presupuesto anual?
+
+### Preguntas de interpretación
+
+- ¿Qué información aporta la comparación de órdenes de magnitud entre el coste de la acampada, el presupuesto del Estado y el de grandes fundaciones?
+- ¿Qué **no** permite concluir el cálculo? (por ejemplo: que la acampada fue diseñada o dirigida desde el exterior, o que las subvenciones a coaliciones europeas se destinaron específicamente a las tiendas de Sol).
+- Distingue entre:
+  - **poder de decisión** (quién decide montar y mantener la acampada),
+  - **poder estructural** (quién controla recursos a gran escala),
+  - **poder de influencia** (quién puede facilitar infraestructuras, redes o recursos a organizaciones intermediarias).
+- ¿Por qué es importante separar el cálculo matemático de la inferencia causal sobre «quién da las órdenes»?
+
+### Límites del modelo
+
+- Las cifras de coste de la acampada son **estimaciones** basadas en órdenes de magnitud; no existen cuentas públicas detalladas de la movilización.
+- Una subvención a una coalición europea no equivale automáticamente a financiación directa de una acampada concreta.
+- El modelo cuantifica escalas y proporciones; **no demuestra** dirección, coordinación ni intencionalidad política.
+- La autogestión, las cuotas de afiliados y las donaciones individuales pueden ser la fuente principal del mantenimiento cotidiano, aunque existan apoyos logísticos puntuales.
+
+---
+
 ## Orientaciones de uso en el aula
 
 | Fase | Qué hacer |
@@ -203,4 +263,4 @@ La reflexión social se apoya en resultados que el alumnado ha calculado, no en 
 
 ## Nota de mantenimiento
 
-Las cifras de los ejemplos 1 y 3 deben actualizarse periódicamente con datos oficiales (OCDE, AIE, bancos centrales, institutos de estadística). El valor didáctico no reside en la cifra exacta, sino en la estructura del problema y en la separación entre cálculo e interpretación.
+Las cifras de los ejemplos 1, 3 y 5 deben actualizarse periódicamente con datos oficiales (OCDE, AIE, bancos centrales, institutos de estadística, reportes periodísticos verificados). El valor didáctico no reside en la cifra exacta, sino en la estructura del problema y en la separación entre cálculo e interpretación.
