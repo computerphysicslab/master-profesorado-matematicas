@@ -14,7 +14,7 @@ Criterios de diseño de estos ejemplos:
 1. El trabajo matemático se completa **antes** de abrir la interpretación social.
 2. Los datos permiten que las conclusiones resulten incómodas; no se manipulan los cálculos.
 3. Se distinguen claramente tres dimensiones del poder: **poder de decisión**, **poder estructural** y **poder de influencia**.
-4. Cada actividad explicit a los **límites del modelo** matemático utilizado.
+4. Cada actividad explicita los **límites del modelo** matemático utilizado.
 
 ---
 
