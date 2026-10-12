@@ -50,7 +50,7 @@ Un gobierno afirma que no dispone de presupuesto suficiente para determinadas po
 
 - Las cifras globales ocultan diferencias enormes entre países.
 - No todas las «ayudas» tienen el mismo carácter (algunas son transferencias directas; otras, estimaciones de precios implícitos).
-- El modelo no demuestra por sí solo que exista una intención deliberada de priorizar a un sector; solo quantifica el peso presupuestario de una decisión.
+- El modelo no demuestra por sí solo que exista una intención deliberada de priorizar a un sector; solo cuantifica el peso presupuestario de una decisión.
 
 ---
 
