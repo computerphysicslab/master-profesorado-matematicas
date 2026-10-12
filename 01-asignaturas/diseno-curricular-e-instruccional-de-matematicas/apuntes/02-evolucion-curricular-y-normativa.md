@@ -70,11 +70,29 @@
 
 ---
 
-## 4. La desaparición de los estándares de aprendizaje y las nuevas demandas al profesorado
+## 4. Separación entre evaluación académica y conducta: el principio de objetividad
+
+Desde el Real Decreto 1543/1988 (derechos y deberes de los alumnos) y, de forma más consolidada, desde la **LOE (Ley Orgánica 2/2006)** y sus desarrollos posteriores (incluido el Real Decreto 732/1995 y las normas autonómicas de convivencia), el sistema educativo español ha establecido con claridad que **el rendimiento escolar debe evaluarse conforme a criterios de plena objetividad**.
+
+Esto implica, en la práctica actual:
+
+- La **calificación de una materia** (por ejemplo, Matemáticas) debe reflejar el grado de consecución de los aprendizajes y competencias específicas de esa materia.
+- El **comportamiento, la actitud en clase o el respeto hacia los compañeros** no pueden utilizarse legítimamente para bajar (ni subir) la nota académica de la asignatura.
+- Las conductas contrarias a la convivencia se corrigen mediante el **régimen disciplinario y las normas de convivencia del centro**, no a través de la calificación de las materias.
+
+Esta separación protege al alumnado de sanciones académicas impropias, pero genera una tensión cuando las medidas de convivencia resultan insuficientes: el perjuicio que la disrupción causa al aprendizaje del resto del grupo no queda reflejado en ninguna calificación, mientras que el alumno disruptivo puede mantener una nota excelente en la materia.
+
+Esta paradoja (igualdad formal en la evaluación + desigualdad real en las condiciones de aprendizaje) se analiza como posible línea de investigación en la idea de TFM:
+
+→ **[23 — Paradoja de la justicia evaluativa, disrupción y derecho colectivo al aprendizaje](../../trabajo-fin-de-master/ideas-interesantes/23-paradoja-justicia-evaluativa-disrupcion.md)**
+
+---
+
+## 5. La desaparición de los estándares de aprendizaje y las nuevas demandas al profesorado
 
 Uno de los cambios estructurales más visibles de la LOMLOE respecto a la LOMCE es la **eliminación de los estándares de aprendizaje evaluables** como elemento del currículo. Este cambio no es meramente terminológico: redistribuye el trabajo de programación, evaluación y justificación docente y tiene consecuencias directas en la carga de trabajo del profesorado.
 
-### 4.1. Por qué se eliminaron (justificación oficial y pedagógica)
+### 5.1. Por qué se eliminaron (justificación oficial y pedagógica)
 
 La LOMLOE y los desarrollos curriculares posteriores justifican la desaparición de los estándares principalmente por estas razones:
 
@@ -85,7 +103,7 @@ La LOMLOE y los desarrollos curriculares posteriores justifican la desaparición
 
 En resumen, la ley presenta la eliminación de los estándares como una medida de **simplificación estructural** y de **mejora pedagógica**: menos fragmentación, más coherencia competencial y mayor autonomía de centros y docentes para concretar el currículo.
 
-### 4.2. Qué aparece en su lugar: tres demandas nuevas al profesorado
+### 5.2. Qué aparece en su lugar: tres demandas nuevas al profesorado
 
 La desaparición de los estándares no deja un vacío. El trabajo de concreción y evaluación se redistribuye en varios elementos que el docente debe manejar de forma articulada:
 
@@ -97,7 +115,7 @@ La desaparición de los estándares no deja un vacío. El trabajo de concreción
 
 A estos tres se suman, en la práctica, los **descriptores operativos** de las competencias clave y la necesidad de explicitar la contribución de cada materia al perfil de salida. El resultado es un sistema de referencia más rico, pero también más complejo de manejar de forma coherente.
 
-### 4.3. ¿Menos fragmentación o más carga burocrática?
+### 5.3. ¿Menos fragmentación o más carga burocrática?
 
 La intención declarada de la norma es reducir la atomización y la burocracia asociada a cientos de estándares. En la práctica, sin embargo, numerosos análisis y testimonios docentes señalan que la nueva arquitectura ha generado **nuevas formas de complejidad y de carga administrativa**:
 
@@ -108,7 +126,7 @@ La intención declarada de la norma es reducir la atomización y la burocracia a
 
 En consecuencia, la eliminación de los estándares **no ha eliminado automáticamente la burocracia**. Ha cambiado su forma: de un exceso de indicadores predefinidos se ha pasado a un exceso de articulaciones que el profesorado debe construir y documentar. El coste en tiempo y energía es real y debe tenerse en cuenta al valorar el margen real de autonomía docente.
 
-### 4.4. Implicaciones para el diseño curricular y la práctica
+### 5.4. Implicaciones para el diseño curricular y la práctica
 
 Para el profesor de Matemáticas, las preguntas prácticas son:
 
@@ -126,7 +144,7 @@ Una respuesta equilibrada consiste en:
 
 ---
 
-## 5. ¿Qué contenidos se eliminaron, trasladaron o reformularon?
+## 6. ¿Qué contenidos se eliminaron, trasladaron o reformularon?
 
 No todo lo que “ya no se explica como antes” está **eliminado**. Conviene clasificar: eliminado · trasladado de curso · solo en cierta modalidad · simplificado o reformulado.
 
