@@ -30,7 +30,7 @@
 
 ## 1. Introducción y objetivos del tema
 
-Las finalidades de la enseñanza de las matemáticas no son un adorno teórico. Determinan qué se selecciona del saber matemático, cómo se organiza la actividad de aula, qué se evalúa y qué tipo de relación se establece entre el alumnado y la disciplina. Un docente que no explicitа las finalidades que persigue corre el riesgo de reproducir, de forma inconsciente, una concepción restringida de las matemáticas (por ejemplo, reducirlas a la ejecución de algoritmos) o de desconectar las actividades del sentido que justifica su presencia en el currículo.
+Las finalidades de la enseñanza de las matemáticas no son un adorno teórico. Determinan qué se selecciona del saber matemático, cómo se organiza la actividad de aula, qué se evalúa y qué tipo de relación se establece entre el alumnado y la disciplina. Un docente que no explicita las finalidades que persigue corre el riesgo de reproducir, de forma inconsciente, una concepción restringida de las matemáticas (por ejemplo, reducirlas a la ejecución de algoritmos) o de desconectar las actividades del sentido que justifica su presencia en el currículo.
 
 Este apunte tiene como objetivos:
 
@@ -204,6 +204,21 @@ Esta dimensión se refiere a la formación de una ciudadanía crítica capaz de 
 Una misma actividad puede trabajar simultáneamente varias dimensiones. La clasificación depende de los **objetivos**, del **tratamiento didáctico** y del **aprendizaje que se pretende promover**, no solamente del contexto superficial del ejercicio. Incluir un contexto cotidiano no garantiza automáticamente la dimensión funcional; incluir una demostración no garantiza automáticamente la dimensión formativa ni la cultural.
 
 ---
+
+### 5.6. Prevalencia orientativa según asignatura
+
+No se trata de un reparto rígido, sino de una ayuda para **priorizar** al programar unidades y actividades. Los pesos relativos son orientativos y deben adaptarse al contexto del grupo y del centro.
+
+| Curso / materia | Énfasis relativo sugerido |
+|-----------------|---------------------------|
+| 1.º–3.º ESO | Formativa + social-funcional + ética |
+| 4.º ESO **A** | Aplicado / funcional y social-ética (carácter más terminal) |
+| 4.º ESO **B** | Equilibrio; más cultural e instrumental (puente a Bachillerato) |
+| Bachillerato **Ciencias** | Social-instrumental + formativa + cultural |
+| Bachillerato **CCSS** | Social-instrumental y ética (datos, modelización social) |
+| Bachillerato **General** | Cultural, formativa y ética (formación integral) |
+
+Ver también el material de apoyo: [Asignaturas ESO/Bachillerato y dimensiones](../materiales/asignaturas-eso-bachillerato/).
 
 ## 6. Comparación y articulación de los tres marcos
 
@@ -530,4 +545,5 @@ Las afirmaciones relativas al teorema de Pitágoras y a las matemáticas de la A
 
 - [02 — Evolución curricular y normativa](02-evolucion-curricular-y-normativa.md)
 - [03 — Elementos del currículo LOMLOE](03-elementos-curriculo-lomloe.md)
+- [Asignaturas ESO/Bachillerato y dimensiones](../materiales/asignaturas-eso-bachillerato/)
 - [Programa](../programa.md)
