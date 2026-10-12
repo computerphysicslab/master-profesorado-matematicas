@@ -36,7 +36,32 @@ El trabajo denomina a este mecanismo **homework outsourcing**: externalización 
 
 ---
 
-## 3. Problema educativo
+## 3. Delegación cognitiva (cognitive offloading)
+
+El concepto de **delegación cognitiva** (o *cognitive offloading*) aporta un marco teórico más preciso para interpretar el fenómeno.
+
+Consiste en descargar en una herramienta, un dispositivo o un sistema externo parte del trabajo mental que podríamos realizar nosotros mismos: recordar información, calcular, buscar, comparar, razonar o tomar decisiones. No es un fenómeno nuevo (calculadoras, agendas, GPS), pero la IA generativa introduce una diferencia cualitativa: ya no se delegan solo operaciones concretas, sino procesos de razonamiento, generación de argumentos y toma de decisiones.
+
+Un informe reciente de la University of Technology Sydney (Lodge & Loble, 2026) distingue dos formas de delegación:
+
+- **Delegación beneficiosa:** la IA gestiona carga cognitiva extrínseca (por ejemplo, comprobaciones formales), liberando memoria de trabajo para las tareas intrínsecas del aprendizaje.
+- **Delegación perjudicial:** la IA sustituye el esfuerzo generativo necesario para construir conocimiento duradero, produciendo una *paradoja del rendimiento*: mejora el desempeño inmediato en la tarea y perjudica el aprendizaje a largo plazo.
+
+El informe señala además el riesgo de **ilusión de competencia** y de «pereza metacognitiva»: la fluidez de las respuestas generadas puede llevar al estudiante a abdicar del esfuerzo necesario para construir conocimiento profundo.
+
+Para la educación matemática resulta especialmente útil distinguir tres dimensiones que no son equivalentes:
+
+| Dimensión | Pregunta |
+|-----------|----------|
+| **Rendimiento** | ¿Puede completar la tarea con ayuda? |
+| **Aprendizaje** | ¿Ha adquirido conocimientos que puede recordar y aplicar después? |
+| **Autonomía cognitiva** | ¿Puede razonar, detectar errores y decidir cuándo confiar (o no) en una herramienta? |
+
+Un estudiante puede rendir bien con asistencia y, al mismo tiempo, no haber desarrollado la autonomía cognitiva necesaria para desenvolverse cuando la herramienta no está disponible.
+
+---
+
+## 4. Problema educativo
 
 La expansión de la IA generativa introduce un problema de validez de las tareas tradicionales.
 
@@ -64,7 +89,7 @@ En Matemáticas esto resulta especialmente interesante porque resolver un proble
 
 ---
 
-## 4. Posibles preguntas de investigación
+## 5. Posibles preguntas de investigación
 
 ### Variante A — Rendimiento frente a aprendizaje
 
@@ -76,27 +101,27 @@ En Matemáticas esto resulta especialmente interesante porque resolver un proble
 
 ### Variante C — Tipo de uso de IA
 
-> ¿Cómo cambia el aprendizaje matemático según el grado de externalización del proceso de resolución a una IA generativa?
+> ¿Cómo cambia el aprendizaje matemático según el grado de externalización (delegación cognitiva) del proceso de resolución a una IA generativa?
 
 ### Variante D — Diseño de tareas
 
-> ¿Qué características de las tareas de Matemáticas pueden reducir la externalización del proceso cognitivo cuando el alumnado dispone de IA generativa?
+> ¿Qué características de las tareas de Matemáticas pueden reducir la externalización perjudicial del proceso cognitivo cuando el alumnado dispone de IA generativa?
 
 La variante D puede conducir hacia un TFM de innovación educativa, mientras que A-C se acercan más a un TFM de investigación empírica.
 
 ---
 
-## 5. Hipótesis posibles
+## 6. Hipótesis posibles
 
-Estas hipótesis son **propuestas de trabajo**, no conclusiones establecidas por el artículo de partida.
+Estas hipótesis son **propuestas de trabajo**, no conclusiones establecidas por los estudios de partida.
 
 ### H1. Divergencia tarea–prueba
 
 El alumnado que utiliza IA generativa puede obtener un rendimiento superior en las tareas realizadas con asistencia, pero no necesariamente un rendimiento superior en una prueba posterior realizada sin asistencia.
 
-### H2. Externalización cognitiva
+### H2. Externalización / delegación cognitiva
 
-Un mayor grado de externalización de la resolución a la IA puede asociarse con un menor rendimiento posterior en pruebas independientes.
+Un mayor grado de delegación del proceso de resolución a la IA puede asociarse con un menor rendimiento posterior en pruebas independientes y con una menor autonomía cognitiva.
 
 ### H3. Tiempo de trabajo
 
@@ -104,29 +129,29 @@ La reducción del tiempo dedicado a las tareas puede estar asociada con un menor
 
 ### H4. Tipo de interacción
 
-El uso de la IA como **andamiaje** —preguntas, pistas, retroalimentación, detección de errores o solicitud de explicaciones— podría producir resultados diferentes del uso de la IA como **generador de soluciones completas**.
+El uso de la IA como **andamiaje** —preguntas, pistas, retroalimentación, detección de errores o solicitud de explicaciones— podría producir resultados diferentes del uso de la IA como **generador de soluciones completas** (delegación perjudicial).
 
 ---
 
-## 6. Variables que podrían estudiarse
+## 7. Variables que podrían estudiarse
 
 | Dimensión | Posibles indicadores |
 |---|---|
 | Uso de IA | frecuencia, duración, número de consultas |
 | Tipo de uso | pista, explicación, corrección, solución completa |
-| Externalización | porcentaje del proceso realizado por la IA |
+| Grado de delegación cognitiva | porcentaje del proceso realizado por la IA |
 | Tiempo | tiempo total dedicado a la tarea |
 | Rendimiento en tarea | puntuación de deberes |
 | Aprendizaje | prueba posterior sin IA |
 | Retención | prueba diferida |
 | Transferencia | problemas nuevos o ligeramente modificados |
-| Metacognición | capacidad de explicar y justificar el procedimiento |
+| Metacognición / autonomía cognitiva | capacidad de explicar, justificar y decidir cuándo confiar en la herramienta |
 | Errores | detección y corrección de errores |
 | Autonomía | resolución independiente posterior |
 
 ---
 
-## 7. Aplicación específica a Matemáticas
+## 8. Aplicación específica a Matemáticas
 
 La propuesta podría centrarse en una unidad didáctica concreta de ESO o Bachillerato.
 
@@ -163,13 +188,13 @@ Posteriormente se realiza una prueba equivalente **sin acceso a IA**.
 
 Puede añadirse una cuarta fase.
 
-### Fase 4 — Transferencia
+### Fase 4 — Transferencia y autonomía cognitiva
 
-Se presentan problemas nuevos que exigen aplicar los mismos conceptos en un contexto diferente.
+Se presentan problemas nuevos que exigen aplicar los mismos conceptos en un contexto diferente, y se pide al alumnado que justifique cuándo ha confiado (o no) en la herramienta.
 
 ---
 
-## 8. Diseño experimental posible
+## 9. Diseño experimental posible
 
 Un diseño sencillo para un TFM podría comparar diferentes modalidades de uso:
 
@@ -186,13 +211,14 @@ Posteriormente se compararían:
 2. tiempo empleado;
 3. rendimiento en prueba sin IA;
 4. capacidad de explicar el procedimiento;
-5. transferencia a problemas nuevos.
+5. transferencia a problemas nuevos;
+6. indicadores de autonomía cognitiva.
 
 No sería necesario reproducir la escala del estudio de partida. Un TFM podría utilizar una muestra mucho menor y plantearse como **estudio piloto o cuasi-experimental**.
 
 ---
 
-## 9. Alternativa especialmente interesante: rediseñar los deberes
+## 10. Alternativa especialmente interesante: rediseñar los deberes
 
 Otra dirección puede consistir en no preguntar simplemente:
 
@@ -218,13 +244,21 @@ Por ejemplo:
 
 Esta línea conecta directamente con la idea de que el estudiante debe seguir siendo **dueño del proceso matemático**, aunque utilice la IA como herramienta.
 
+Criterios prácticos derivados del marco de delegación cognitiva:
+
+- ¿Qué conocimientos debe construir el alumno por sí mismo?
+- ¿Qué esfuerzo intelectual es necesario para adquirirlos?
+- ¿Qué tareas podemos externalizar sin perjudicar ese aprendizaje?
+- ¿Cómo sabremos que el estudiante ha aprendido y no se ha limitado a obtener una respuesta?
+- ¿Puede explicar y defender su razonamiento cuando la herramienta deja de estar disponible?
+
 ---
 
-## 10. Relación con el concepto de andamiaje
+## 11. Relación con el concepto de andamiaje
 
 Una posible fundamentación teórica puede utilizar la distinción entre:
 
-### IA como sustituto cognitivo
+### IA como sustituto cognitivo (delegación perjudicial)
 
 → genera la solución  
 → reduce la necesidad de razonar  
@@ -233,7 +267,7 @@ Una posible fundamentación teórica puede utilizar la distinción entre:
 
 frente a:
 
-### IA como andamiaje
+### IA como andamiaje (delegación beneficiosa)
 
 → proporciona pistas  
 → formula preguntas  
@@ -241,15 +275,15 @@ frente a:
 → ayuda a detectar errores  
 → mantiene al estudiante realizando el proceso cognitivo principal
 
-Esta distinción permitiría conectar el proyecto con el concepto de **andamiaje** y con la investigación sobre aprendizaje autorregulado, metacognición y carga cognitiva.
+Esta distinción permite conectar el proyecto con el concepto de **andamiaje**, con la investigación sobre aprendizaje autorregulado, metacognición y carga cognitiva, y con el informe de Lodge & Loble (2026).
 
 ---
 
-## 11. Potencial para TFM
+## 12. Potencial para TFM
 
 ### Interés científico
 
-La IA generativa está modificando rápidamente la relación entre tareas, evaluación y aprendizaje. El problema de distinguir **productividad** de **aprendizaje** es especialmente relevante en educación matemática.
+La IA generativa está modificando rápidamente la relación entre tareas, evaluación y aprendizaje. El problema de distinguir **productividad** de **aprendizaje** y de **autonomía cognitiva** es especialmente relevante en educación matemática.
 
 ### Interés didáctico
 
@@ -278,9 +312,9 @@ El TFM podría convertirse posteriormente en:
 
 ---
 
-## 12. Riesgos y limitaciones
+## 13. Riesgos y limitaciones
 
-Hay que evitar convertir el trabajo de partida en una conclusión general sobre la IA.
+Hay que evitar convertir los trabajos de partida en una conclusión general sobre la IA.
 
 Entre las principales cuestiones metodológicas estarían:
 
@@ -291,7 +325,7 @@ Entre las principales cuestiones metodológicas estarían:
 - efecto novedad;
 - diferencias entre herramientas y modelos;
 - diferencias entre tipos de tareas;
-- dificultad para medir aprendizaje real;
+- dificultad para medir aprendizaje real y autonomía cognitiva;
 - posible contaminación entre grupos;
 - dificultad para controlar el trabajo realizado fuera del aula.
 
@@ -299,7 +333,7 @@ Por ello sería preferible formular el TFM como **estudio exploratorio o cuasi-e
 
 ---
 
-## 13. Posibles títulos
+## 14. Posibles títulos
 
 ### Línea de investigación
 
@@ -315,7 +349,7 @@ Por ello sería preferible formular el TFM como **estudio exploratorio o cuasi-e
 
 ### Línea de innovación
 
-**La IA como andamiaje frente a la IA como sustituto cognitivo en el aprendizaje de Matemáticas**
+**La IA como andamiaje frente a la IA como sustituto cognitivo: delegación cognitiva en el aprendizaje de Matemáticas**
 
 ### Línea de evaluación
 
@@ -323,7 +357,7 @@ Por ello sería preferible formular el TFM como **estudio exploratorio o cuasi-e
 
 ---
 
-## 14. Palabras clave
+## 15. Palabras clave
 
 - Inteligencia artificial generativa
 - IA generativa
@@ -333,8 +367,11 @@ Por ello sería preferible formular el TFM como **estudio exploratorio o cuasi-e
 - Tareas matemáticas
 - Evaluación
 - Externalización cognitiva
+- Delegación cognitiva
+- Cognitive offloading
 - Andamiaje
 - Metacognición
+- Autonomía cognitiva
 - Autorregulación
 - Carga cognitiva
 - Resolución de problemas
@@ -344,21 +381,21 @@ Por ello sería preferible formular el TFM como **estudio exploratorio o cuasi-e
 
 ---
 
-## 15. Encaje con el Atlas de Nichos
+## 16. Encaje con el Atlas de Nichos
 
 Esta idea se sitúa en la intersección de varios ejes:
 
-**IA generativa × Educación matemática × Evaluación × Aprendizaje × Metacognición × Diseño de tareas**
+**IA generativa × Educación matemática × Evaluación × Aprendizaje × Metacognición × Diseño de tareas × Delegación cognitiva**
 
 No debería clasificarse simplemente como otro TFM de "uso de IA en Matemáticas".
 
-Su posible nicho está en estudiar **la discrepancia entre el producto observable de una tarea y el aprendizaje que permanece cuando desaparece la asistencia de IA**.
+Su posible nicho está en estudiar **la discrepancia entre el producto observable de una tarea y el aprendizaje (y la autonomía cognitiva) que permanece cuando desaparece la asistencia de IA**.
 
 ---
 
-## 16. Estado actual de la idea
+## 17. Estado actual de la idea
 
-**Estado:** idea preliminar / candidata a investigación.
+**Estado:** idea preliminar / candidata a investigación (reforzada con el marco de delegación cognitiva).
 
 **No es todavía:** un título definitivo de TFM.
 
@@ -368,9 +405,9 @@ Realizar una revisión bibliográfica específica sobre:
 
 1. generative AI learning penalty;
 2. homework outsourcing;
-3. generative AI and mathematics education;
-4. AI-assisted problem solving;
-5. cognitive offloading;
+3. cognitive offloading and AI in education;
+4. generative AI and mathematics education;
+5. AI-assisted problem solving;
 6. metacognition and generative AI;
 7. AI and assessment;
 8. AI tutoring versus answer generation.
@@ -379,14 +416,15 @@ El objetivo de esa revisión sería determinar si el nicho está realmente abier
 
 ---
 
-## 17. Referencia inicial
+## 18. Referencias iniciales
 
-Strömberg, D., Lei, V., & Wu, Y. (2026). *The Generative AI Learning Penalty: Evidence from Chinese Secondary Education*. Working paper.
+- Strömberg, D., Lei, V., & Wu, Y. (2026). *The Generative AI Learning Penalty: Evidence from Chinese Secondary Education*. Working paper.
+- Lodge, J. M., & Loble, L. (2026). *Artificial intelligence, cognitive offloading and implications for education*. University of Technology Sydney. https://doi.org/10.71741/4pyxmbnjaq.31302475
 
-El artículo constituye el **punto de partida conceptual** de esta ficha, no una evidencia suficiente para trasladar automáticamente sus resultados al contexto español o a la enseñanza de Matemáticas.
+El artículo de Strömberg et al. constituye el **punto de partida empírico** de esta ficha; el informe de Lodge & Loble aporta el marco conceptual de la delegación cognitiva. Ninguno de los dos debe trasladarse automáticamente como evidencia definitiva al contexto español o a la enseñanza de Matemáticas sin una revisión crítica adicional.
 
 ---
 
-## 18. Pregunta que puede guiar la evolución de la idea
+## 19. Pregunta que puede guiar la evolución de la idea
 
-> **Si una IA puede hacer que un alumno entregue mejores deberes en menos tiempo, ¿cómo podemos saber si ese alumno ha aprendido realmente Matemáticas?**
+> **Si una IA puede hacer que un alumno entregue mejores deberes en menos tiempo, ¿cómo podemos saber si ese alumno ha aprendido realmente Matemáticas y ha conservado la autonomía cognitiva necesaria para razonar cuando la herramienta ya no está disponible?**
