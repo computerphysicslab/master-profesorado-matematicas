@@ -4,7 +4,7 @@
 
 Analizar la tensión entre la **protección del alumnado frente a sanciones académicas impropias** y la obligación de garantizar el **derecho del conjunto de la clase a disponer de condiciones adecuadas para aprender**.
 
-La situación problemática de partida es la siguiente: un alumno puede excelentes calificaciones en Matemáticas (demuestra dominio de contenidos y competencias específicas) mientras mantiene conductas disruptivas reiteradas que dificultan el aprendizaje de sus compañeros. Estos últimos pueden ver perjudicados sus resultados por unas condiciones de aula que no controlan.
+La situación problemática de partida es la siguiente: un alumno puede obtener excelentes calificaciones en Matemáticas (demuestra dominio de contenidos y competencias específicas) mientras mantiene conductas disruptivas reiteradas que dificultan el aprendizaje de sus compañeros. Estos últimos pueden ver perjudicados sus resultados por unas condiciones de aula que no controlan.
 
 Desde una perspectiva **sociocrítica**, interesa investigar si la separación normativa entre evaluación académica y corrección disciplinaria —aunque tiene una justificación legítima— puede generar consecuencias injustas cuando las medidas de convivencia resultan insuficientes o tardías.
 
@@ -24,7 +24,7 @@ La conversación de partida formula con claridad la paradoja:
 - **Justicia de reconocimiento:** se confunde el dominio académico con la responsabilidad social hacia el grupo.
 - **Dimensión emancipadora:** proteger al grupo, responsabilizar al alumno, exigir respuesta institucional y dar voz al alumnado afectado.
 
-La justicia social en el aula **no exige** que el alumno disruptivo obtenga peor nota por su conducta. Exige que su buen rendimiento académico no sirva para ocultar el perjuicio que causa, ni que la institución permanezca pasiva ante ese perjuicio.
+La justicia social en el aula **no exige** que el alumno disruptivo obtenga peor nota por su conducta. Exige que su buen rendimiento académico no sirva para ocultar el perjuicio que causa, ni que la institución permanezca pasiva ante ese ese perjuicio.
 
 ---
 
@@ -82,7 +82,7 @@ Estas fuentes no demuestran una causa única, pero sí confirman que el problema
 | **Émile Durkheim** (*La educación moral*) | La disciplina como parte de la formación moral y de la socialización | Analizar qué ocurre cuando las normas comunes pierden legitimidad o se aplican de forma inconsistente |
 | **John Dewey** | Educación activa estructurada vs. ausencia de dirección | Distinguir pedagogía activa bien organizada de falta de estructura |
 | **E. D. Hirsch** | Importancia de un currículo coherente y de expectativas explícitas | Relación indirecta con la construcción de un marco compartido de trabajo en el aula |
-| **Diane Ravitch** | Crítica a la reducción de problemas complejos a indicadores | Explorar si la presión administrativa deja insuficientemente atendidas las condiciones cotidianas de convivencia |
+| **Diane Ravitch** | Crítica a la reducción de problemas complejos a indicadores | Explorar si si la presión administrativa deja insuficientemente atendidas las condiciones cotidianas de convivencia |
 
 ---
 
