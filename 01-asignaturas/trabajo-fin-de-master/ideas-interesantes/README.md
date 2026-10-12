@@ -48,6 +48,7 @@ Las ideas se incorporan cuando aparece una combinación interesante de:
 | [20](20-andamiaje-permanente-autorregulacion.md) | Andamiaje permanente y autorregulación | expandida | **13** | **Prioritaria** | ZDP/fading con base sólida; pregunta experimental fuerte; muy viable en mates |
 | [21](21-elkonin-davydov-abstracto-concreto.md) | Orden abstracto→concreto (Elkonin-Davydov) | expandida | **14** | **Prioritaria** | Marco teórico + CLT + RCT proxy (Blanton); investigación previa completa; diseño de aula acotado; opción AICLE |
 | [22](22-practica-recuperacion-espaciado-algebra.md) | Recuperación espaciada y álgebra | expandida | **12** | Sólida | Evidencia consolidada sobre recuperación y espaciado; existe una tesis directamente relacionada; el diferencial debe centrarse en feedback, transferencia o errores |
+| [23](23-paradoja-justicia-evaluativa-disrupcion.md) | Paradoja justicia evaluativa y disrupción | expandida | **11** | Sólida | Anclaje TALIS + referentes sociocríticos; rechaza hipótesis conspirativas y nota-como-castigo; pregunta clara de justicia distributiva |
 
 ### Leyenda rápida de solidez
 
@@ -69,7 +70,7 @@ Criterios detallados: [`00-criterios-evaluacion-solidez.md`](00-criterios-evalua
 3. **06** — Ilusión de competencia + [protocolo](06-protocolo-practicum.md) (13).
 4. **05** — Esfuerzo cognitivo y pensamiento crítico (12).
 5. **11** — Pizarra infinita + [protocolo](11-protocolo-practicum.md) (12).
-6. **01 / 10 / 16 / 18** — Bloque sólido (11).
+6. **01 / 10 / 16 / 18 / 23** — Bloque sólido (11).
 7. **22** — Recuperación espaciada y álgebra (12): candidata secundaria hasta estudiar la tesis de Ruitenburg (2025) y precisar una contribución propia.
 8. Resto según interés personal y acceso al centro de prácticas.
 
@@ -94,6 +95,7 @@ La puntuación no sustituye la evaluación de la originalidad. Una idea con evid
 | **20** | «Falta de disciplina de los jóvenes» | **Fading / permanencia del andamiaje** × autorregulación × mates |
 | **21** | «ABP de funciones» o GeoGebra sin más | **Orden abstracto→concreto** × pensamiento teórico × (AICLE) |
 | **22** | Repetición de ejercicios sin distinguir el mecanismo de aprendizaje | **Recuperación activa** × espaciado × feedback × retención diferida y transferencia algebraica |
+| **23** | «Falta de disciplina» o castigo vía nota | **Paradoja justicia evaluativa** × condiciones colectivas × responsabilidad institucional |
 
 Fuente: [Atlas de nichos](../atlas-nichos/) · [mapa de saturación](../atlas-nichos/03-mapa-saturacion.md) · [ranking de intersecciones](../atlas-nichos/04-coocurrencias-y-ranking-v09.md).
 
@@ -112,4 +114,3 @@ Fuente: [Atlas de nichos](../atlas-nichos/) · [mapa de saturación](../atlas-ni
 | [Investigación Elkonin-Davydov](../../../10-proyectos/investigaciones/elkonin-davydov-critica-pedagogias-modernas/) | Origen empírico-teórico de la idea **21** |
 
 La carpeta `ideas-interesantes/` funciona como puente entre la **detección de un nicho**, la **lectura de impacto** y la **formulación de una propuesta concreta de TFM**.
-
