@@ -1,56 +1,46 @@
 # Memoria del proceso supervisado — Mejoras oct 2026
 
-**Repo:** [master-profesorado-matematicas](https://github.com/computerphysicslab/master-profesorado-matematicas)  
-**Rama:** `main`  
-**Inicio:** 2026-10-13  
+**Repo:** master-profesorado-matematicas · **Rama:** `main`  
 **Estado global:** [ESTADO.md](../ESTADO.md)
 
 ---
 
-## Checklist de fases
+## Checklist
 
-### Fase 0 — Preparación y diagnóstico
-- [x] `ESTADO.md`, inventario, memoria, trabajo en `main`
+### Fase 0 — Diagnóstico
+- [x] ESTADO.md, inventario, memoria, `main`
 
-### Fase 1 — Evaluación (prioridad máxima)
-- [x] `07-evaluacion/README.md` e `INDICE.md`
-- [x] Instrumentos de bajo coste (6) en `instrumentos/`
-- [x] Rúbricas CE (4, preexistentes)
-- [x] Ejemplo de alineación criterio → tarea → evidencia → calificación
-- [x] Enlace desde `02-apuntes/evaluacion/evaluacion-formativa-global.md`
-- [ ] Enlaces adicionales desde Diseño curricular / Diseño de actividades (opcional / Fase 3)
+### Fase 1 — Evaluación
+- [x] README + INDICE `07-evaluacion`
+- [x] 6 instrumentos de bajo coste
+- [x] Ejemplo de alineación
+- [x] Enlace desde apunte formativo global
 
 ### Fase 2 — Situaciones de Aprendizaje
-- [ ] Revisar plantilla SA
-- [ ] 4–5 SA completas listas para adaptar
-- [ ] Actualizar `04-pbl-abp/INDICE.md` y README
+- [x] Sincronizar INDICE con catálogo completo de SA (12 + tarifas)
+- [x] Mejorar plantilla (checklist de instrumentos `07-evaluacion`, CE protagonista)
+- [x] Nueva SA: tarifas / función afín (3.º ESO) enlazada a unidad e instrumentos
+- [ ] (Opcional) Revisar una SA antigua sesión a sesión si se detectan huecos de evaluación
 
 ### Fase 3 — Enlaces sistemáticos
-- [ ] Síntesis, INDICE apuntes, READMEs asignaturas, bibliografía
+- [ ] Síntesis, INDICE apuntes, READMEs asignaturas
 
 ### Fase 4 — Practicum II / TFM / IA / Python
-- [ ] Carcasas y flujo ejemplo
+- [ ] Pendiente
 
 ### Fase 5 — Cierre
 - [ ] MANIFEST + ESTADO + resumen final
 
 ---
 
-## Diario
+## Diario (extracto)
 
-### Paso 0.1 — Diagnóstico
-### Paso 1.1 — README + INDICE evaluación
-### Paso 1.2 — Seis instrumentos de bajo coste
-### Paso 1.3 — Ejemplo de alineación (2026-10-13)
+### Fase 2.1 (2026-10-13)
+- `04-pbl-abp/INDICE.md` — catálogo completo + enlaces a evaluación.
+- `plantilla-situacion-aprendizaje.md` — sección 8 con checklist de instrumentos y rúbricas.
 
-**Archivos:**
-- `07-evaluacion/ejemplos/alineacion-criterio-tarea-evidencia.md` (CE.M.8 + variante CE.M.2)
-- `07-evaluacion/INDICE.md` (actualizado)
-- `02-apuntes/evaluacion/evaluacion-formativa-global.md` (enlaces a instrumentos y ejemplo)
-- Esta memoria
+### Fase 2.2 (2026-10-13)
+- `sa-tarifas-funcion-afin-3eso.md` — SA algebraica que conecta unidad de tarifas + `07-evaluacion`.
+- Hallazgo: ya había **≥12 SA** completas; la prioridad era **indexar, plantilla y puente con evaluación**, no reescribir todas.
 
-**Verificación:** coherente con ejemplos de CE del repo; instrumentos y rúbricas citados existen; sin datos personales.
-
-**Siguiente:** Fase 2 (SA) o rematar enlaces en Diseño curricular (mini-paso 1.4) según prioridad del usuario.
-
-**Nota:** `07-evaluacion/` pasa a **mínimo viable operativo** (rúbricas + instrumentos + ejemplo de alineación + puerta de entrada documentada).
+**Siguiente:** Fase 3 (enlaces) o Fase 5 parcial actualizando ESTADO de `04-pbl-abp` y `07-evaluacion` a Operativo.
