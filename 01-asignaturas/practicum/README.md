@@ -30,7 +30,7 @@ Carpeta **única versionable** para el trabajo de prácticas del máster (especi
 | [diario/](diario/) | Plantilla, guía de uso y semanas ejemplo |
 | [memoria/](memoria/) | **Guía diario→memoria**, estructura, checklist de entrega |
 | [reflexiones/](reflexiones/) | Contraste teoría–aula |
-| [evidencias/](evidencias/) | Rúbricas / evidencias sin datos personales |
+| [evidencias/](evidencias/) | Rúbricas / evidencias sin datos personales · **[ejemplo de flujo completo](evidencias/ejemplo-flujo-observacion-diario-memoria.md)** |
 
 ## Flujo recomendado
 
@@ -41,9 +41,14 @@ Checklist de sesión  →  Diario semanal  →  Reflexiones  →  Memoria
 1. [Guía de observación](observacion/guia-observacion.md)  
 2. [Checklist de sesión de mates](observacion/checklist-sesion-mates.md)  
 3. [Plantilla de diario](diario/plantilla.md) · [Guía de uso del diario](diario/guia-uso-diario.md)  
-4. [**Del diario a la memoria**](memoria/guia-diario-a-memoria.md) · [Estructura](memoria/estructura.md) · [Checklist de entrega](memoria/checklist-entrega-memoria.md)
+4. [**Del diario a la memoria**](memoria/guia-diario-a-memoria.md) · [Estructura](memoria/estructura.md) · [Checklist de entrega](memoria/checklist-entrega-memoria.md)  
+5. [**Ejemplo sintético del flujo entero**](evidencias/ejemplo-flujo-observacion-diario-memoria.md) (observación → diario → fragmento de memoria)
 
 ## Recursos para la programación (Aragón)
 
 - [Temarios Matemáticas LOMLOE Aragón](../diseno-curricular-e-instruccional-de-matematicas/materiales/temarios-matematicas-aragon/)  
 - [Plantilla de programación didáctica](../diseno-curricular-e-instruccional-de-matematicas/materiales/temarios-matematicas-aragon/PLANTILLA_PROGRAMACION_DIDACTICA_ARAGON.md)
+
+## Evaluación en el aula de prácticas
+
+Instrumentos y rúbricas reutilizables: [07-evaluacion](../../07-evaluacion/).
