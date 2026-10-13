@@ -49,14 +49,64 @@
 
 ### LOMLOE (vigente)
 
-- Revertir cambios de evaluación, autonomía del director y trayectorias.
+- Revertir cambios de evaluación, autonomía del director y trayectorias (véase § 3.1).
 - Enfoque inclusivo (DUA) y condiciones de titulación.
 - Modernizar el currículo (redefinición de elementos).
 - Más modalidades de Bachillerato (incluida la general).
-- Flexibilización de primeros cursos de Secundaria por **ámbitos**.
+- Flexibilización de primeros cursos de Secundaria por **ámbitos** (véase § 3.2).
 - Desaparecen los estándares de aprendizaje evaluables.
 - Aparecen: **perfil de salida**, **competencias específicas**, **saberes básicos** organizados en **sentidos**, **situaciones de aprendizaje**, orientaciones didácticas y metodológicas más desarrolladas.
 - Marco inclusivo que la norma menciona: DUA, equidad, sostenibilidad.
+
+### 3.1. Qué significa «revertir cambios de evaluación, autonomía del director y trayectorias»
+
+La expresión resume tres modificaciones que la LOMLOE introdujo respecto a la LOMCE (2013):
+
+| Ámbito | LOMCE | LOMLOE |
+|--------|-------|--------|
+| **Evaluación** | Evaluaciones finales de etapa vinculadas, en su diseño original, a la obtención de los títulos. | Elimina ese modelo de reválidas como requisito general para titular; refuerza la evaluación continua, formativa y competencial. Las evaluaciones de diagnóstico tienen finalidad informativa y de mejora. |
+| **Autonomía del director / gobierno del centro** | Refuerzo de las atribuciones de la dirección y reducción de determinadas competencias decisorias del Consejo Escolar. | Redistribución de competencias: el Consejo Escolar recupera peso de participación y decisión; se refuerza la participación de representantes del centro en la selección del director. La dirección conserva funciones ejecutivas. |
+| **Trayectorias académicas** | Itinerarios diferenciados más explícitos en la ESO, especialmente opciones orientadas hacia enseñanzas académicas o aplicadas en 4.º. | Reduce la separación formal temprana; apuesta por una formación común más prolongada, manteniendo optativas, opciones en 4.º y programas de diversificación curricular. |
+
+Estas tres dimensiones no se limitan a cambiar contenidos: afectan a **quién decide**, **cómo se evalúa** y **cuándo se diferencia el recorrido** del alumnado.
+
+### 3.2. Flexibilización por ámbitos en los primeros cursos de ESO
+
+La LOMLOE permite agrupar materias en **ámbitos** en 1.º a 3.º de ESO (art. 24 de la LOE en la redacción dada por la LOMLOE; art. 8.6 del Real Decreto 217/2022). Se trata de una **posibilidad organizativa**, no de una obligación general.
+
+**Ejemplo habitual:** en lugar de impartir Matemáticas y Biología y Geología como materias completamente separadas, el centro puede organizar parte de esos contenidos dentro de un ámbito científico-tecnológico, con planificación conjunta y, según la normativa autonómica y los requisitos de especialidad, un mismo docente o una coordinación estrecha.
+
+| Organización por materias | Organización por ámbitos |
+|---------------------------|--------------------------|
+| Cada asignatura tiene programación y evaluación diferenciadas. | Varias materias se coordinan dentro de una estructura común. |
+| El alumno cambia de asignatura y, normalmente, de profesor. | Puede trabajar de forma más integrada y tener menos cambios de profesor. |
+| Predomina la organización disciplinar. | Se facilita la conexión entre disciplinas. |
+
+**Cuestión pedagógica central para Matemáticas:** ¿la integración ayuda a comprender mejor las conexiones entre conocimientos o puede diluir la profundidad específica de la disciplina? Un proyecto que combine proporcionalidad, escalas y mapas puede enriquecer las Matemáticas; una integración mal diseñada puede reducir el tiempo dedicado a practicar procedimientos y razonamiento fundamentales. El éxito depende del diseño, no del nombre «ámbito».
+
+La aplicación concreta depende de la normativa autonómica y de la organización de cada centro.
+
+### 3.3. Trayectorias: LOMCE vs LOMLOE y el debate sobre la atención a la diversidad
+
+| Criterio | LOMCE (2013) | LOMLOE (2020) |
+|----------|--------------|---------------|
+| Especialización | Diferenciación más explícita entre opciones académicas y aplicadas, especialmente en 4.º de ESO. | Mantiene opciones, pero dentro de una estructura más común y con separación formal más tardía. |
+| Alumnado con dificultades | Medidas específicas (FP Básica, programas de mejora del aprendizaje). | Diversificación curricular, ciclos formativos de grado básico y otras medidas de atención a la diversidad. |
+| Orientación | Facilitaba una diferenciación explícita del recorrido académico. | Busca retrasar la separación y mantener abiertas las posibilidades educativas. |
+| Riesgo que intenta evitar | Que una formación excesivamente común no responda a distintos intereses y necesidades. | Que una diferenciación temprana condicione de forma irreversible las oportunidades futuras. |
+
+**Dos concepciones de equidad que conviene no confundir:**
+
+- **Equidad mediante diferenciación:** ofrecer recorridos distintos para responder a capacidades, intereses y ritmos distintos (incluida la profundización para quien puede avanzar más deprisa).
+- **Equidad mediante formación común:** garantizar una base compartida y evitar que las diferencias iniciales determinen prematuramente las oportunidades posteriores.
+
+Ninguna de las dos garantiza por sí sola mejor calidad educativa. Lo decisivo es cómo se implementan, qué contenidos aprende realmente cada alumno y qué posibilidades de profundización o de refuerzo existen en la práctica.
+
+La LOMLOE establece formalmente que la educación inclusiva debe atender también al alumnado con mayor capacidad y motivación. La cuestión empírica abierta —relevante para un futuro profesor de Matemáticas— es si los centros disponen de recursos, tiempos y cultura organizativa suficientes para ofrecer **enriquecimiento real** al alumnado avanzado sin reducir el nivel del grupo, o si, en la práctica, tiende a prevalecer una nivelación por abajo.
+
+Esta tensión se desarrolla como posible línea de investigación en la idea de TFM:
+
+→ **[16 — Margen de acción docente bajo la LOMLOE, libertad de cátedra y excelencia inclusiva](../../trabajo-fin-de-master/ideas-interesantes/16-margen-accion-docente-lomloe-libertad-catedra.md)**
 
 ### Cuadro comparativo de elementos curriculares
 
