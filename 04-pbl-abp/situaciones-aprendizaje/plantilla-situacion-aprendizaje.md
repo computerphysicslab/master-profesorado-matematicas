@@ -63,6 +63,9 @@ Indica las **CE** del currículo de Matemáticas (ESO o Bachillerato) y los **cr
 | CE… | | |
 | CE… | | |
 
+**Competencia protagonista** (recomendado): una sola CE con peso evaluativo claro; el resto, secundarias.  
+Ver [ejemplos para distinguir CE](../../01-asignaturas/diseno-curricular-e-instruccional-de-matematicas/materiales/ejemplos-competencias-especificas-matematicas.md).
+
 **Competencias clave** (opcional): CCL, STEM, CD, CPSAA, CC, CE, CCEC…
 
 ---
@@ -111,16 +114,29 @@ Describe la progresión sesión a sesión (o por fases). Incluye qué hace el **
 
 ## 8. Evaluación
 
+> Reutilizar plantillas del repo: [instrumentos](../../07-evaluacion/instrumentos/) · [rúbricas CE](../../07-evaluacion/rubricas/) · [ejemplo de alineación](../../07-evaluacion/ejemplos/alineacion-criterio-tarea-evidencia.md).
+
 ### 8.1. Evaluación formativa
-- Instrumentos (diario de aprendizaje, listas de cotejo, preguntas clave, coevaluación…)
-- Momentos de feedback
+
+- Instrumentos (marcar los que se usen):
+  - [ ] Ticket de entrada / salida
+  - [ ] Observación de proceso (Pólya)
+  - [ ] Lista de cotejo de argumentación
+  - [ ] Portfolio de errores
+  - [ ] Audio 60–90 s
+  - [ ] Autoevaluación de cierre
+  - [ ] Otro: …
+- Momentos de feedback (feed up / feed back / feed forward)
 
 ### 8.2. Evaluación sumativa del producto
-- Criterios e indicadores (o enlace a rúbrica en `../rubricas/`)
+
+- Criterios e indicadores (o enlace a rúbrica en `07-evaluacion/rubricas/` o `../rubricas/`)
 - Peso orientativo proceso / producto / metacognición
+- **Alineación:** ¿la nota refleja el criterio declarado o solo el resultado numérico?
 
 ### 8.3. Autoevaluación y coevaluación
-- Breve descripción de cómo se incorporan
+
+- Cómo se incorporan (criterios visibles; evitar nota por simpatía)
 
 ---
 
@@ -166,7 +182,7 @@ Relaciona con CE9–CE10 / sentido socioafectivo:
 2. …
 
 ### Materiales del repositorio (si aplica)
-- Enlaces a apuntes, anexos socioafectivos, temarios, otras SA…
+- Enlaces a apuntes, anexos socioafectivos, temarios, otras SA, [07-evaluacion](../../07-evaluacion/)…
 
 ---
 
