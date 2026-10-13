@@ -12,6 +12,8 @@ Repositorio de trabajo del **Máster Universitario en Profesorado de Educación 
 
 Cuaderno digital de estudio y base reutilizable (REA) para la enseñanza de Matemáticas en ESO y Bachillerato.
 
+> **Lectura orientadora del conjunto:** [Los conocimientos fundamentales del Máster: una síntesis para el ejercicio docente](sintesis-conocimientos-fundamentales.md)
+
 **Mapa de estructura y reglas de ubicación:** [MANIFEST.md](MANIFEST.md)
 
 ```mermaid
@@ -75,15 +77,16 @@ flowchart TB
 
 ## Cómo usar este repositorio
 
-1. **Estudiar / navegar:** abre los `README.md` e `INDICE.md` de cada carpeta; los apuntes viven en Markdown.
-2. **Programación didáctica y currículo:** empieza por [Diseño curricular](01-asignaturas/diseno-curricular-e-instruccional-de-matematicas/).
-3. **Situaciones de aprendizaje:** [04-pbl-abp/](04-pbl-abp/).
-4. **Notebooks de aula:** [05-python-jupyter/](05-python-jupyter/) (local con Jupyter/VS Code, o **Google Colab** desde los enlaces de esa carpeta).
-5. **Clonar:**
+1. **Visión de conjunto:** [síntesis de conocimientos fundamentales](sintesis-conocimientos-fundamentales.md).
+2. **Estudiar / navegar:** abre los `README.md` e `INDICE.md` de cada carpeta; los apuntes viven en Markdown.
+3. **Programación didáctica y currículo:** empieza por [Diseño curricular](01-asignaturas/diseno-curricular-e-instruccional-de-matematicas/).
+4. **Situaciones de aprendizaje:** [04-pbl-abp/](04-pbl-abp/).
+5. **Notebooks de aula:** [05-python-jupyter/](05-python-jupyter/) (local con Jupyter/VS Code, o **Google Colab** desde los enlaces de esa carpeta).
+6. **Clonar:**
    ```bash
    git clone https://github.com/computerphysicslab/master-profesorado-matematicas.git
    ```
-6. **Dependencias Python** (solo si ejecutas notebooks en local): `numpy`, `matplotlib` suelen bastar; el resto se indica en cada notebook.
+7. **Dependencias Python** (solo si ejecutas notebooks en local): `numpy`, `matplotlib` suelen bastar; el resto se indica en cada notebook.
 
 **Stack del proyecto:** Markdown + (sitio) Just the Docs/Jekyll · Mermaid · notebooks Jupyter · recursos abiertos. No hay pipeline LaTeX obligatorio en este repo.
 
