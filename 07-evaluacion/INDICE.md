@@ -39,7 +39,13 @@ Mapa de la carpeta [`07-evaluacion/`](README.md). Actualizar al añadir instrume
 | [observacion-proceso-polya.md](instrumentos/observacion-proceso-polya.md) | Proceso Pólya (CE.M.1–2) | **Operativo** |
 | [autoevaluacion-cierre-tarea.md](instrumentos/autoevaluacion-cierre-tarea.md) | Metacognición al cerrar | **Operativo** |
 
-*Opcional posterior:* lista de cotejo de modelización; «2 estrellas y un deseo» como anexo de coevaluación.
+---
+
+## Ejemplos (`ejemplos/`)
+
+| Archivo | Descripción | Estado |
+|---------|-------------|--------|
+| [alineacion-criterio-tarea-evidencia.md](ejemplos/alineacion-criterio-tarea-evidencia.md) | Alineación completa CE.M.8 (y variante CE.M.2) | **Operativo** |
 
 ---
 
@@ -49,27 +55,19 @@ Mapa de la carpeta [`07-evaluacion/`](README.md). Actualizar al añadir instrume
 |---------|--------|-------|
 | [formativa/](formativa/) | Carcasa (README) | Ampliar con criterios de diseño de instrumentos formativos |
 | [sumativa/](sumativa/) | Carcasa (README) | Trazabilidad de la calificación y evidencias |
-| [autoevaluacion/](autoevaluacion/) | Carcasa (README) | Complementar con [autoevaluación de cierre](instrumentos/autoevaluacion-cierre-tarea.md) |
-| [coevaluacion/](coevaluacion/) | Carcasa (README) | Complementar con [lista de cotejo](instrumentos/lista-cotejo-argumentacion.md) |
+| [autoevaluacion/](autoevaluacion/) | Carcasa (README) | Ver [autoevaluación de cierre](instrumentos/autoevaluacion-cierre-tarea.md) |
+| [coevaluacion/](coevaluacion/) | Carcasa (README) | Ver [lista de cotejo](instrumentos/lista-cotejo-argumentacion.md) |
+| [normativa/](normativa/) | Vacío (`.gitkeep`) | Recordatorios LOMLOE (pendiente) |
 
 ---
 
-## Ejemplos y normativa
-
-| Carpeta | Estado | Contenido previsto |
-|---------|--------|--------------------|
-| [ejemplos/](ejemplos/) | Vacío (`.gitkeep`) | **Fase 1.3:** alineación completa criterio → tarea → evidencia → calificación |
-| [normativa/](normativa/) | Vacío (`.gitkeep`) | Recordatorios LOMLOE / evaluación (sin sustituir textos oficiales) |
-
----
-
-## Enlaces externos a esta carpeta (dentro del repo)
+## Enlaces en el repositorio
 
 - [02-apuntes/evaluacion/evaluacion-formativa-global.md](../02-apuntes/evaluacion/evaluacion-formativa-global.md)
-- [Síntesis del Máster — apartado evaluación](../sintesis-conocimientos-fundamentales.md)
+- [Síntesis del Máster](../sintesis-conocimientos-fundamentales.md)
 - [Ejemplos de competencias específicas](../01-asignaturas/diseno-curricular-e-instruccional-de-matematicas/materiales/ejemplos-competencias-especificas-matematicas.md)
 - [Descriptores STEM en la práctica](../01-asignaturas/diseno-curricular-e-instruccional-de-matematicas/materiales/descriptores-stem-practica-matematicas.md)
 
 ---
 
-*Última actualización: 2026-10-13 (Fase 1.2 — instrumentos de bajo coste).*
+*Última actualización: 2026-10-13 (Fase 1.3 — ejemplo de alineación).*
