@@ -17,6 +17,7 @@ nav_order: 1
 | [**Introducción for dummies**](introduccion-for-dummies.md) | Visión global en lenguaje sencillo |
 | [**Glosario**](glosario.md) | Términos frecuentes de la asignatura |
 | [**Infografía**](materiales/infografia-asignatura.md) | Resumen visual (Mermaid + ASCII) |
+| [**Síntesis del Máster**](../../sintesis-conocimientos-fundamentales.md) | Arquitectura intelectual del conjunto |
 
 ## Hilo conductor
 
@@ -51,7 +52,11 @@ Programa detallado: **[programa.md](programa.md)**
 | [Currículo LOMLOE](materiales/curriculo-lomloe/) | Mapas competencias–criterios, sentidos, anexos |
 | [Errores y obstáculos](materiales/errores-y-obstaculos/) | Banco de errores típicos |
 | [Banco de problemas](materiales/banco-problemas/) | Generatrices y problemas ricos |
+| [Ejemplos de CE](materiales/ejemplos-competencias-especificas-matematicas.md) | Actividades con competencia protagonista |
+| [STEM en la práctica](materiales/descriptores-stem-practica-matematicas.md) | Descriptores STEM1–5 en el aula |
 | [SA (PBL)](../../04-pbl-abp/situaciones-aprendizaje/) | Situaciones de aprendizaje de ejemplo |
+| [**Evaluación**](../../07-evaluacion/) | Instrumentos, rúbricas CE y ejemplo de alineación |
+| [Evaluación formativa (apunte)](../../02-apuntes/evaluacion/evaluacion-formativa-global.md) | Marco transversal |
 | [Bibliografía](bibliografia.md) | Referencias oficiales + fuentes docentes |
 | [Examen](examen/) | Exámenes por niveles y banco de preguntas |
 
