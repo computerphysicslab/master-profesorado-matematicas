@@ -28,21 +28,11 @@ Este archivo es la **memoria persistente** del proceso. Cada paso actualiza el d
 - [x] Confirmar trabajo en `main` (protegida: sin force push ni borrado)
 - [x] Crear esta memoria en `99-archivo/`
 
-**Hallazgos clave (diagnóstico):**
-
-| Zona | Situación |
-|------|-----------|
-| `07-evaluacion/` | README + INDICE mínimos; **4 rúbricas CE** ya existen; `instrumentos/`, `ejemplos/`, `normativa/` solo `.gitkeep`; formativa/sumativa/auto/coeval = README carcasa |
-| `04-pbl-abp/` | Plantilla SA + varias SA (`ajedrez`, `gaussiana`, `eratostenes`, etc.); `retos/` vacío; unificar y completar |
-| `06-inteligencia-artificial/` | Estructura rica (prompts, ética, evaluación); ampliable |
-| `10-proyectos/` | Investigación Elkonin-Davydov; resto reserva |
-| Enlaces | Pendiente revisión sistemática (Fase 3) |
-
 ### Fase 1 — Evaluación (prioridad máxima)
 
-- [ ] Completar `07-evaluacion/README.md` e `INDICE.md`
+- [x] Completar `07-evaluacion/README.md` e `INDICE.md`
 - [ ] Instrumentos de bajo coste (6–8) en `instrumentos/`
-- [ ] Completar / alinear rúbricas de proceso (ya hay 4 CE; añadir socioafectivo si falta)
+- [ ] Completar / alinear rúbricas de proceso (ya hay 4 CE; socioafectivo cubierto en CE9–10)
 - [ ] Ejemplo completo de alineación criterio → tarea → evidencia → calificación
 - [ ] Enlazar desde `02-apuntes/evaluacion/` y Diseño curricular / Diseño de actividades
 
@@ -77,20 +67,28 @@ Este archivo es la **memoria persistente** del proceso. Cada paso actualiza el d
 
 ### 2026-10-13 — Paso 0.1 (diagnóstico)
 
-**Hecho:**
+**Hecho:** inventario; `ESTADO.md`; esta memoria; trabajo en `main`.
 
-- Inventario del árbol del repo (~1128 rutas).
-- Creado [`ESTADO.md`](../ESTADO.md) con madurez por carpeta.
-- Creada esta memoria.
-- Confirmado: trabajo en `main`.
+### 2026-10-13 — Paso 1.1 (README + INDICE de evaluación)
 
-**Archivos:** `ESTADO.md`, `99-archivo/proceso-mejoras-2026-10.md`.
+**Objetivo:** convertir la puerta de entrada de `07-evaluacion/` en documentación operativa (sin crear aún los instrumentos).
 
-**Verificación:** no se han tocado apuntes ni materiales existentes; solo documentación de estado. MANIFEST no modificado aún (se actualizará en Fase 5 o cuando cambie la estructura).
+**Archivos afectados:**
 
-**Siguiente paso:** Fase 1.1 — Completar `07-evaluacion/README.md` e `INDICE.md` (sin crear aún todos los instrumentos).
+- `07-evaluacion/README.md` — reescrito: principios, mapa de carpetas, 4 rúbricas enlazadas, enlaces al resto del repo, próximos pasos.
+- `07-evaluacion/INDICE.md` — reescrito: tablas por subcarpeta, estado pendiente/operativo, enlaces cruzados.
+- `99-archivo/proceso-mejoras-2026-10.md` — checklist y diario.
 
-**Riesgos / dudas:** ninguna bloqueante. Las 4 rúbricas CE ya existentes se reutilizarán y se enlazarán; no se reescriben de cero.
+**Verificación:**
+
+- Enlaces relativos a `02-apuntes/evaluacion/`, rúbricas existentes, materiales de Diseño curricular, síntesis y bibliografía: coherentes desde `07-evaluacion/`.
+- No se ha borrado ni reescrito ninguna rúbrica CE.
+- Tono académico alineado con el apunte de evaluación formativa global.
+- Sin datos personales.
+
+**Siguiente paso:** Fase 1.2 — primer lote de instrumentos de bajo coste en `instrumentos/` (p. ej. ticket entrada/salida + portfolio de errores + lista de cotejo de argumentación), 1–3 archivos por commit.
+
+**Riesgos / dudas:** ninguna. Las rúbricas CE9–10 ya cubren socioafectivo/colaboración; no es obligatorio crear una quinta rúbrica solo de CE.M.9.
 
 ---
 
