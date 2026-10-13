@@ -25,14 +25,14 @@ Este archivo es la **memoria persistente** del proceso. Cada paso actualiza el d
 
 - [x] Crear `ESTADO.md` en la raíz
 - [x] Inventario rápido de madurez y carpetas con solo README / `.gitkeep`
-- [x] Confirmar trabajo en `main` (protegida: sin force push ni borrado)
+- [x] Confirmar trabajo en `main`
 - [x] Crear esta memoria en `99-archivo/`
 
 ### Fase 1 — Evaluación (prioridad máxima)
 
 - [x] Completar `07-evaluacion/README.md` e `INDICE.md`
-- [ ] Instrumentos de bajo coste (6–8) en `instrumentos/`
-- [ ] Completar / alinear rúbricas de proceso (ya hay 4 CE; socioafectivo cubierto en CE9–10)
+- [x] Instrumentos de bajo coste (6) en `instrumentos/`
+- [x] Rúbricas de proceso (4 CE ya existían; se mantienen)
 - [ ] Ejemplo completo de alineación criterio → tarea → evidencia → calificación
 - [ ] Enlazar desde `02-apuntes/evaluacion/` y Diseño curricular / Diseño de actividades
 
@@ -44,21 +44,15 @@ Este archivo es la **memoria persistente** del proceso. Cada paso actualiza el d
 
 ### Fase 3 — Enlaces
 
-- [ ] `sintesis-conocimientos-fundamentales.md`
-- [ ] `02-apuntes/INDICE.md`
-- [ ] READMEs de asignaturas y Diseño curricular
-- [ ] `09-bibliografia/autores-pensadores/`
+- [ ] Revisión sistemática de enlaces clave
 
 ### Fase 4 — Practicum II / TFM / IA / Python
 
-- [ ] Carcasas practicum-ii / TFM
-- [ ] Ejemplo flujo observación → diario → memoria (sintético)
-- [ ] Material mínimo adicional IA / Python si hay margen
+- [ ] Carcasas y ejemplo de flujo
 
 ### Fase 5 — Cierre
 
 - [ ] Actualizar MANIFEST + ESTADO
-- [ ] Coherencia de la síntesis
 - [ ] Resumen final al usuario
 
 ---
@@ -66,33 +60,41 @@ Este archivo es la **memoria persistente** del proceso. Cada paso actualiza el d
 ## Diario de ejecución
 
 ### 2026-10-13 — Paso 0.1 (diagnóstico)
+Inventario; `ESTADO.md`; memoria; `main`.
 
-**Hecho:** inventario; `ESTADO.md`; esta memoria; trabajo en `main`.
+### 2026-10-13 — Paso 1.1 (README + INDICE evaluación)
+Puerta de entrada operativa a `07-evaluacion/`.
 
-### 2026-10-13 — Paso 1.1 (README + INDICE de evaluación)
+### 2026-10-13 — Paso 1.2 (instrumentos de bajo coste)
 
-**Objetivo:** convertir la puerta de entrada de `07-evaluacion/` en documentación operativa (sin crear aún los instrumentos).
+**Objetivo:** mínimo viable de instrumentos formativos en Matemáticas.
 
-**Archivos afectados:**
+**Archivos creados en `07-evaluacion/instrumentos/`:**
 
-- `07-evaluacion/README.md` — reescrito: principios, mapa de carpetas, 4 rúbricas enlazadas, enlaces al resto del repo, próximos pasos.
-- `07-evaluacion/INDICE.md` — reescrito: tablas por subcarpeta, estado pendiente/operativo, enlaces cruzados.
-- `99-archivo/proceso-mejoras-2026-10.md` — checklist y diario.
+1. `README.md` — catálogo y principios
+2. `ticket-entrada-salida.md`
+3. `portfolio-errores-corregidos.md`
+4. `lista-cotejo-argumentacion.md`
+5. `audio-explicacion-breve.md`
+6. `observacion-proceso-polya.md`
+7. `autoevaluacion-cierre-tarea.md`
+
+**También:** actualización de `07-evaluacion/INDICE.md`.
 
 **Verificación:**
 
-- Enlaces relativos a `02-apuntes/evaluacion/`, rúbricas existentes, materiales de Diseño curricular, síntesis y bibliografía: coherentes desde `07-evaluacion/`.
-- No se ha borrado ni reescrito ninguna rúbrica CE.
-- Tono académico alineado con el apunte de evaluación formativa global.
-- Sin datos personales.
+- Alineados con el apunte de evaluación formativa global (tickets, portfolio, audio, Pólya).
+- Enlaces a rúbricas CE existentes.
+- Sin datos personales; plantillas genéricas.
+- No se han modificado las rúbricas.
 
-**Siguiente paso:** Fase 1.2 — primer lote de instrumentos de bajo coste en `instrumentos/` (p. ej. ticket entrada/salida + portfolio de errores + lista de cotejo de argumentación), 1–3 archivos por commit.
+**Siguiente paso:** Fase 1.3 — un ejemplo completo de alineación en `07-evaluacion/ejemplos/`.
 
-**Riesgos / dudas:** ninguna. Las rúbricas CE9–10 ya cubren socioafectivo/colaboración; no es obligatorio crear una quinta rúbrica solo de CE.M.9.
+**Riesgos:** ninguno. Opcional más adelante: lista de cotejo de modelización.
 
 ---
 
-## Formato de informe (plantilla para cada update)
+## Formato de informe (plantilla)
 
 ```
 ### Paso X.Y — título
