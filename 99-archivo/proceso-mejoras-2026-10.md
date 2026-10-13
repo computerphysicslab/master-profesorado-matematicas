@@ -17,30 +17,34 @@
 - [x] Enlace desde apunte formativo global
 
 ### Fase 2 — Situaciones de Aprendizaje
-- [x] Sincronizar INDICE con catálogo completo de SA (12 + tarifas)
-- [x] Mejorar plantilla (checklist de instrumentos `07-evaluacion`, CE protagonista)
-- [x] Nueva SA: tarifas / función afín (3.º ESO) enlazada a unidad e instrumentos
-- [ ] (Opcional) Revisar una SA antigua sesión a sesión si se detectan huecos de evaluación
+- [x] INDICE + plantilla + SA tarifas
 
 ### Fase 3 — Enlaces sistemáticos
-- [ ] Síntesis, INDICE apuntes, READMEs asignaturas
+- [x] Corregir rutas rotas a Niss, NCTM, Pólya, Schoenfeld (`evaluacion-formativa-global`, instrumento Pólya)
+- [x] Ampliar enlaces en `sintesis-conocimientos-fundamentales.md` (evaluación, SA, Psicología, IA, autores)
+- [x] README Diseño curricular → 07-evaluacion, síntesis, CE, STEM
+- [x] `02-apuntes/INDICE.md` ya apuntaba bien a transversales y 07-evaluacion
+- [x] Índice de autores verificado (rutas internas coherentes en su tabla)
 
 ### Fase 4 — Practicum II / TFM / IA / Python
 - [ ] Pendiente
 
 ### Fase 5 — Cierre
-- [ ] MANIFEST + ESTADO + resumen final
+- [ ] MANIFEST + ESTADO (subir madurez de 04 y 07) + resumen final
 
 ---
 
-## Diario (extracto)
+## Diario Fase 3 (2026-10-13)
 
-### Fase 2.1 (2026-10-13)
-- `04-pbl-abp/INDICE.md` — catálogo completo + enlaces a evaluación.
-- `plantilla-situacion-aprendizaje.md` — sección 8 con checklist de instrumentos y rúbricas.
+**Rutas rotas corregidas:**
 
-### Fase 2.2 (2026-10-13)
-- `sa-tarifas-funcion-afin-3eso.md` — SA algebraica que conecta unidad de tarifas + `07-evaluacion`.
-- Hallazgo: ya había **≥12 SA** completas; la prioridad era **indexar, plantilla y puente con evaluación**, no reescribir todas.
+| Ubicación incorrecta | Correcta |
+|----------------------|----------|
+| `autores-pensadores/niss.md` | `…/05-educacion-matematica/niss.md` |
+| `autores-pensadores/nctm.md` | `organismos-sociedades/nctm.md` |
+| `autores-pensadores/polya.md` | `…/05-educacion-matematica/polya.md` |
+| `autores-pensadores/schoenfeld.md` | `…/05-educacion-matematica/schoenfeld.md` |
 
-**Siguiente:** Fase 3 (enlaces) o Fase 5 parcial actualizando ESTADO de `04-pbl-abp` y `07-evaluacion` a Operativo.
+**Archivos tocados:** evaluación formativa global · observación Pólya · síntesis · README Diseño curricular · esta memoria.
+
+**Siguiente:** Fase 4 o Fase 5 (actualizar ESTADO: 07-evaluacion y 04-pbl-abp → Operativo).
