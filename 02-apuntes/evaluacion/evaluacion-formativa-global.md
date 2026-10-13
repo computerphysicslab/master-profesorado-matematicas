@@ -90,9 +90,10 @@ Ejemplo: criterio de comunicar el proceso → problema contextual + frase de int
 | Mindset / nota como única meta | [mindset-atribuciones](../../01-asignaturas/psicologia-del-desarrollo-y-de-la-educacion/materiales/mindset-atribuciones-matematicas.md) · [feedback efectivo](../../01-asignaturas/psicologia-del-desarrollo-y-de-la-educacion/materiales/feedback-efectivo-matematicas.md) |
 | Gestión del error | [gestion-del-error-matematicas](../../01-asignaturas/psicologia-del-desarrollo-y-de-la-educacion/materiales/gestion-del-error-matematicas.md) |
 | DUA | [Apunte DUA transversal](../didactica/dua-diseno-universal-aprendizaje.md) |
-| Competencias (Niss, NCTM) | [niss.md](../../09-bibliografia/autores-pensadores/niss.md) · [nctm.md](../../09-bibliografia/autores-pensadores/nctm.md) |
-| Heurísticas de resolución | [polya.md](../../09-bibliografia/autores-pensadores/polya.md) · [schoenfeld.md](../../09-bibliografia/autores-pensadores/schoenfeld.md) |
+| Competencias (Niss, NCTM) | [Niss](../../09-bibliografia/autores-pensadores/05-educacion-matematica/niss.md) · [NCTM](../../09-bibliografia/organismos-sociedades/nctm.md) |
+| Heurísticas de resolución | [Pólya](../../09-bibliografia/autores-pensadores/05-educacion-matematica/polya.md) · [Schoenfeld](../../09-bibliografia/autores-pensadores/05-educacion-matematica/schoenfeld.md) |
 | Instrumentos y rúbricas | [07-evaluacion](../../07-evaluacion/) |
+| Índice de autores | [09-bibliografia/autores-pensadores](../../09-bibliografia/autores-pensadores/INDICE.md) |
 
 ---
 
