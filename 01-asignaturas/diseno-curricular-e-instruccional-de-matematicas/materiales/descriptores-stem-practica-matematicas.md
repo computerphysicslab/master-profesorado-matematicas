@@ -47,10 +47,10 @@ La justificación se apoya en que $10 \equiv -1 \pmod{11}$: las potencias sucesi
 ## STEM2 · Formular preguntas e investigar mediante métodos científicos
 
 <p align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/b/bc/Glybbs_Paper_Plane.jpg" alt="Avión de papel" width="420"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/9/9d/White_paper_airplane.jpg" alt="Avión de papel blanco" width="420"/>
 </p>
 
-*Avión de papel (dominio público). [Fuente](https://commons.wikimedia.org/wiki/File:Glybbs_Paper_Plane.jpg).*
+*Avión de papel (Wikimedia Commons). [Fuente](https://commons.wikimedia.org/wiki/File:White_paper_airplane.jpg).*
 
 ### ESO · 2.º: ¿Vuela más lejos un avión de papel con alas más anchas?
 
