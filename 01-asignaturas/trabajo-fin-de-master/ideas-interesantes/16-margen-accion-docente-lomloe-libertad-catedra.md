@@ -9,11 +9,14 @@ No se trata de un TFM de “cómo reescribir la ley”, sino de:
 1. **Mapear el espacio legal y curricular real** (qué prescribe, qué deja abierto).
 2. **Diseñar o observar prácticas de aula** compatibles con la norma que mejoren secuenciación, fluidez + comprensión, evaluación formativa y excelencia inclusiva.
 3. **Analizar con rigor** si la autonomía efectiva del docente se ha reconfigurado (libertad de cátedra vs. libertad pedagógica acotada + carga administrativa).
+4. **Comprobar** si ese margen permite, en la práctica, ofrecer profundización real al alumnado avanzado o si tiende a prevalecer una nivelación por abajo.
 
 **Pregunta central:**  
 > Dentro de la LOMLOE y del currículo de Matemáticas vigente, ¿qué decisiones del profesor (tareas, secuenciación, evaluación, profundización) son legalmente posibles, pedagógicamente fundadas y operativas en un instituto real, y cómo condiciona ese margen la carga regulatoria y burocrática?
 
 Complemento socioemocional: [idea 17 — Matemáticas y salud mental](17-matematicas-y-salud-mental.md) (ansiedad, clima de error, límites del rol docente).
+
+Marco normativo de ámbitos y trayectorias: [02 — Evolución curricular y normativa](../../diseno-curricular-e-instruccional-de-matematicas/apuntes/02-evolucion-curricular-y-normativa.md).
 
 ---
 
@@ -65,7 +68,36 @@ La objetividad no es ausencia de juicio; es **transparencia metodológica** y co
 
 ---
 
-## 4. Cinco orientaciones de mejora (núcleo pedagógico del TFM)
+## 4. Excelencia inclusiva y el alumnado avanzado bajo la LOMLOE
+
+### 4.1. Dos concepciones de equidad
+
+La LOMLOE reduce la separación formal temprana en itinerarios (respecto a la LOMCE) y apuesta por una formación común más prolongada. Esa decisión puede interpretarse desde dos lógicas distintas:
+
+| Lógica | Qué busca | Riesgo si se aplica de forma rígida |
+|--------|-----------|-------------------------------------|
+| **Equidad mediante formación común** | Evitar que una decisión temprana limite oportunidades futuras. | Insuficiente profundización para quien ya domina los contenidos del curso. |
+| **Equidad mediante diferenciación** | Ofrecer recorridos y retos acordes a capacidades e intereses distintos. | Segregación prematura o reducción de la base común. |
+
+La norma afirma que la educación inclusiva debe atender también al alumnado con mayor capacidad y motivación. La cuestión empírica es si, en la práctica de los centros, existen **oportunidades reales de enriquecimiento** o si prevalece una nivelación que deja esperando al alumnado que podría avanzar más deprisa.
+
+### 4.2. Datos orientativos sobre altas capacidades (con cautela metodológica)
+
+Fuentes de organizaciones y estudios de divulgación sitúan el número de alumnos **identificados** con altas capacidades en España en torno a 50.000 (aprox. 0,6 % del alumnado), mientras que las estimaciones de prevalencia suelen situarse entre el 5 % y el 10 %. La infradetección es, por tanto, masiva. Estudios y asociaciones del ámbito reportan, entre el alumnado identificado, tasas elevadas de bajo rendimiento académico y de riesgo de desmotivación o fracaso (órdenes de magnitud del 35–70 %, según fuente y definición). Estos datos **no demuestran por sí solos** un efecto causal de la LOMLOE; sí muestran que el sistema detecta y atiende de forma muy incompleta a este colectivo, y que el coste humano de la invisibilización es medible.
+
+Una formulación frecuente de la nivelación por abajo, recogida en testimonios de familias, es la del alumno que deja de avanzar «porque tiene que esperar a que el resto del grupo aprenda». Esa dinámica es precisamente la que un margen docente bien aprovechado debería poder contrarrestar mediante tareas de profundización, agrupamientos flexibles o enriquecimiento dentro del aula ordinaria.
+
+### 4.3. Crítica del modelo «talla única»
+
+La pedagoga sueca **Inger Enkvist** (Universidad de Lund) ha formulado de forma sistemática la crítica al modelo comprensivo cuando este prioriza la armonía del grupo sobre la profundidad del conocimiento: «la misma talla para todos» no funciona porque los jóvenes no son iguales, y la etapa difícil es precisamente la ESO. Enkvist defiende poner como meta cierto aprendizaje (y no solo cierto número de años de escolarización) y proponer itinerarios o diferenciaciones según interés y capacidad. Esta posición no es un argumento automático contra la LOMLOE, pero sí un referente teórico útil para formular la hipótesis de que una formación común sin mecanismos efectivos de enriquecimiento puede producir nivelación por abajo.
+
+### 4.4. Implicación para el margen de acción docente
+
+Si el cuello de botella no es la prohibición legal de profundizar, sino la falta de tiempo, de formación o de cultura de centro, entonces el TFM puede demostrar **qué decisiones de aula son posibles hoy** (tareas de alta demanda cognitiva, profundización opcional, evaluación que informa, secuenciación exigente en lo esencial) y qué condiciones las facilitan o las bloquean.
+
+---
+
+## 5. Cinco orientaciones de mejora (núcleo pedagógico del TFM)
 
 Derivadas del contraste con sistemas de alto rendimiento y de la lectura crítica LOMCE/LOMLOE–PISA:
 
@@ -79,7 +111,7 @@ El TFM traduce cada punto en **decisiones docentes legales bajo LOMLOE**, no sol
 
 ---
 
-## 5. Preguntas de investigación
+## 6. Preguntas de investigación
 
 ### Variante A — Margen legal y curricular (recomendada como marco)
 
@@ -93,13 +125,17 @@ El TFM traduce cada punto en **decisiones docentes legales bajo LOMLOE**, no sol
 
 > ¿Cómo describen los docentes de Matemáticas su autonomía real (libertad pedagógica) frente a programaciones, plantillas de situación de aprendizaje y documentos de centro, y qué tiempo les queda para el diseño de tareas de alta demanda cognitiva?
 
-### Variante D — Comparada ligera
+### Variante D — Excelencia inclusiva y alumnado avanzado
+
+> ¿Qué oportunidades reales de profundización y enriquecimiento ofrece el aula ordinaria de Matemáticas bajo LOMLOE al alumnado que ya domina los contenidos del curso, y qué decisiones del docente (legalmente posibles) aumentan o reducen esas oportunidades?
+
+### Variante E — Comparada ligera
 
 > ¿Qué rasgos de Estonia/Polonia/Corea son **transferibles al aula** sin cambiar la ley orgánica española?
 
 ---
 
-## 6. Hipótesis de trabajo
+## 7. Hipótesis de trabajo
 
 **H1.** Bajo LOMLOE existe un **margen suficiente** para enseñar Matemáticas con progresión explícita, fluidez y razonamiento; el cuello de botella frecuente no es la prohibición legal, sino la **interpretación local**, la formación y el **tiempo**.  
 
@@ -109,36 +145,39 @@ El TFM traduce cada punto en **decisiones docentes legales bajo LOMLOE**, no sol
 
 **H4.** La libertad de cátedra, en Secundaria, opera en la práctica como **autonomía profesional reglada**; medirla exige separar marco constitucional, prescripción curricular y carga burocrática.
 
+**H5.** Sin mecanismos efectivos de enriquecimiento, la formación común prolongada tiende a producir, en la práctica, una **nivelación por abajo** que perjudica al alumnado avanzado, aunque la norma no prohíba la profundización.
+
 ---
 
-## 7. Diseño mínimo viable de TFM
+## 8. Diseño mínimo viable de TFM
 
 ### Parte 1 — Documental (3–4 semanas)
 
 - Lectura orientada: LOMLOE (artículos relevantes), real decreto de currículo de Matemáticas, orden autonómica, programaciones de departamento.
-- Tabla de doble entrada: *exigido / recomendado / abierto a decisión docente* (contenidos, metodología, evaluación, atención a la diversidad).
+- Tabla de doble entrada: *exigido / recomendado / abierto a decisión docente* (contenidos, metodología, evaluación, atención a la diversidad, enriquecimiento).
 - Síntesis breve de libertad de cátedra (CE, STC 5/1981, límites en no universitaria) + 1–2 indicadores de carga burocrática (TALIS / informes citados con cautela metodológica).
 - Contraste con [comparativa PISA 2025](../../procesos-y-contextos-educativos/materiales/leyes-educativas/comparativa-pisa-2025-y-sistemas-internacionales.md).
+- Lectura de la crítica al modelo comprensivo (Enkvist y fuentes afines) y de datos de detección de altas capacidades (con nota metodológica).
 
 ### Parte 2 — Empírica (Prácticum)
 
 | Opción | Qué hacer |
 |--------|-----------|
-| **A (preferente)** | Diseñar y aplicar **una unidad** (álgebra, funciones o estadística): hitos de dominio, práctica, problema contextual, profundización opcional, pre/post o rúbrica de justificación |
-| **B** | Estudio de caso: entrevistas a 2–3 docentes + análisis de 1 unidad de su programación |
-| **C** | Análisis de tareas del departamento con rúbrica de demanda cognitiva |
+| **A (preferente)** | Diseñar y aplicar **una unidad** (álgebra, funciones o estadística): hitos de dominio, práctica, problema contextual, **profundización opcional**, pre/post o rúbrica de justificación |
+| **B** | Estudio de caso: entrevistas a 2–3 docentes + análisis de 1 unidad de su programación (¿hay tareas de enriquecimiento? ¿para quién?) |
+| **C** | Análisis de tareas del departamento con rúbrica de demanda cognitiva y de diferenciación hacia arriba |
 
 ### Parte 3 — Discusión
 
 - Qué se pudo hacer *dentro* de la norma.
-- Qué lo dificultó (tiempo, plantillas, cultura de centro).
+- Qué lo dificultó (tiempo, plantillas, cultura de centro, presión de homogeneidad del grupo).
 - Qué mejoras de marco serían deseables **sin** confundirlas con los hallazgos de aula.
 
 **Muestra:** 1 grupo del Prácticum basta si el análisis es profundo y honesto sobre límites.
 
 ---
 
-## 8. Variables e indicadores
+## 9. Variables e indicadores
 
 | Dimensión | Indicadores |
 |-----------|-------------|
@@ -147,33 +186,36 @@ El TFM traduce cada punto en **decisiones docentes legales bajo LOMLOE**, no sol
 | Demanda cognitiva de tareas | Rúbrica (procedimental / conexión / hacer matemáticas) |
 | Evaluación formativa | Frecuencia y uso de evidencias para reenseñar |
 | Excelencia inclusiva | Tareas de profundización + andamiaje; no solo adaptación a la baja |
+| Oportunidades para alumnado avanzado | Existencia y uso real de enriquecimiento / agrupamientos flexibles / retos opcionales |
 | Tiempo docente | Diario de minutos: preparación vs. documentación |
 | Autonomía percibida | Escala breve / entrevista |
 | Aprendizaje (si hay piloto) | Pre/post, calidad de justificación, errores persistentes |
 
 ---
 
-## 9. Posibles títulos
+## 10. Posibles títulos
 
 - **Dentro de la LOMLOE: margen de acción del profesorado de Matemáticas entre el currículo competencial, la autonomía docente y la carga regulatoria**
 - **Libertad pedagógica y éxito matemático: decisiones de aula posibles bajo el marco actual**
 - **De la norma al plan de clase: secuenciación, evaluación formativa y excelencia inclusiva en Matemáticas (ESO)**
 - **Autonomía docente reglada: libertad de cátedra, burocracia y aprendizaje matemático en Secundaria**
+- **Equidad y excelencia en el aula de Matemáticas: ¿permite la LOMLOE profundizar con el alumnado avanzado?**
 
 ---
 
-## 10. Riesgos y limitaciones
+## 11. Riesgos y limitaciones
 
 - Deslizarse a panfleto anti- o pro-LOMLOE.
 - Atribuir a la ley lo que es implementación de centro o falta de formación.
-- Usar datos sindicales sin señalar límites de representatividad.
+- Usar datos sindicales o de asociaciones de altas capacidades sin señalar límites de representatividad y de causalidad.
 - Confundir libertad de cátedra universitaria con el régimen de Secundaria.
 - Piloto corto → indicios, no generalización nacional.
 - No promete “resolver PISA”; promete **clarificar el margen docente** y probar una mejora local.
+- No convertir la crítica al modelo comprensivo en negación de la necesidad de inclusión.
 
 ---
 
-## 11. Bibliografía semilla
+## 12. Bibliografía semilla
 
 **Normativa y jurisprudencia**
 - Constitución Española, art. 20.1.c) y 20.4.
@@ -194,9 +236,14 @@ El TFM traduce cada punto en **decisiones docentes legales bajo LOMLOE**, no sol
 - Informes sobre carga administrativa docente (CSIF y estudios autonómicos — citar con método y fecha).
 - Idea 03 del repo (burocratización docente).
 
+**Excelencia, inclusión y modelo comprensivo**
+- Enkvist, I. — obras y entrevistas sobre escuela comprensiva, «talla única» y prioridad del conocimiento (p. ej. *La educación en peligro*, *Repensar la educación*).
+- Datos de detección y atención al alumnado con altas capacidades (Fundación Adecco, estudios universitarios y asociaciones del ámbito — siempre con nota metodológica).
+- Apunte del repo: [02 — Evolución curricular y normativa](../../diseno-curricular-e-instruccional-de-matematicas/apuntes/02-evolucion-curricular-y-normativa.md) (ámbitos y trayectorias).
+
 ---
 
-## 12. Encaje con Atlas, Bibliometría e ideas del repo
+## 13. Encaje con Atlas, Bibliometría e ideas del repo
 
 | Recurso | Relación |
 |---------|----------|
@@ -207,21 +254,22 @@ El TFM traduce cada punto en **decisiones docentes legales bajo LOMLOE**, no sol
 | [Idea 17 — Matemáticas y salud mental](17-matematicas-y-salud-mental.md) | Clima de error, ansiedad y límites del rol docente |
 | [Comparativa PISA 2025](../../procesos-y-contextos-educativos/materiales/leyes-educativas/comparativa-pisa-2025-y-sistemas-internacionales.md) | Marco internacional |
 | [Leyes educativas](../../procesos-y-contextos-educativos/materiales/leyes-educativas/) | LOMCE / LOMLOE |
-| Atlas | Hueco: autonomía docente × matemáticas × evaluación (no otro TFM de “situación de aprendizaje” genérica) |
+| [02 — Evolución curricular](../../diseno-curricular-e-instruccional-de-matematicas/apuntes/02-evolucion-curricular-y-normativa.md) | Ámbitos, trayectorias, «revertir cambios» |
+| Atlas | Hueco: autonomía docente × matemáticas × evaluación × excelencia inclusiva |
 
-**Nicho en una frase:** estudiar el **éxito matemático posible dentro de la LOMLOE**, midiendo a la vez el **margen pedagógico** y los **límites reales** (norma, jurisprudencia, burocracia).
+**Nicho en una frase:** estudiar el **éxito matemático posible dentro de la LOMLOE**, midiendo a la vez el **margen pedagógico**, los **límites reales** (norma, jurisprudencia, burocracia) y las **oportunidades de profundización** para el alumnado avanzado.
 
 ---
 
-## 13. Estado y siguientes pasos
+## 14. Estado y siguientes pasos
 
-**Estado:** idea expandida; lista para delimitación con el tutor de TFM y el centro de prácticas.
+**Estado:** idea expandida (incluye excelencia inclusiva y crítica al modelo «talla única»); lista para delimitación con el tutor de TFM y el centro de prácticas.
 
 1. Fijar comunidad autónoma y etapa (ESO recomendada).
-2. Construir la tabla *exigido / abierto* del currículo de Matemáticas.
-3. Elegir unidad piloto y rúbricas.
+2. Construir la tabla *exigido / abierto* del currículo de Matemáticas (incluir enriquecimiento).
+3. Elegir unidad piloto y rúbricas (con tareas de profundización).
 4. Protocolo ético breve (entrevistas, datos de alumnos anonimizados).
-5. Redactar marco teórico: libertad de cátedra (Secundaria) + evidencia internacional + didáctica matemática.
+5. Redactar marco teórico: libertad de cátedra (Secundaria) + evidencia internacional + didáctica matemática + atención al alumnado avanzado.
 
 **Pregunta guía:**
 
