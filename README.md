@@ -14,7 +14,7 @@ Cuaderno digital de estudio y base reutilizable (REA) para la enseñanza de Mate
 
 > **Lectura orientadora del conjunto:** [Los conocimientos fundamentales del Máster: una síntesis para el ejercicio docente](sintesis-conocimientos-fundamentales.md)
 
-**Mapa de estructura y reglas de ubicación:** [MANIFEST.md](MANIFEST.md)
+**Mapa de estructura:** [MANIFEST.md](MANIFEST.md) · **Madurez por carpetas:** [ESTADO.md](ESTADO.md)
 
 ```mermaid
 flowchart TB
