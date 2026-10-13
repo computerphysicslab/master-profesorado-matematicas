@@ -7,44 +7,30 @@
 
 ## Checklist
 
-### Fase 0 — Diagnóstico
-- [x] ESTADO.md, inventario, memoria, `main`
-
-### Fase 1 — Evaluación
-- [x] README + INDICE `07-evaluacion`
-- [x] 6 instrumentos de bajo coste
-- [x] Ejemplo de alineación
-- [x] Enlace desde apunte formativo global
-
-### Fase 2 — Situaciones de Aprendizaje
-- [x] INDICE + plantilla + SA tarifas
-
-### Fase 3 — Enlaces sistemáticos
-- [x] Corregir rutas rotas a Niss, NCTM, Pólya, Schoenfeld (`evaluacion-formativa-global`, instrumento Pólya)
-- [x] Ampliar enlaces en `sintesis-conocimientos-fundamentales.md` (evaluación, SA, Psicología, IA, autores)
-- [x] README Diseño curricular → 07-evaluacion, síntesis, CE, STEM
-- [x] `02-apuntes/INDICE.md` ya apuntaba bien a transversales y 07-evaluacion
-- [x] Índice de autores verificado (rutas internas coherentes en su tabla)
+### Fase 0 — Diagnóstico — [x]
+### Fase 1 — Evaluación — [x]
+### Fase 2 — Situaciones de Aprendizaje — [x]
+### Fase 3 — Enlaces sistemáticos — [x]
 
 ### Fase 4 — Practicum II / TFM / IA / Python
-- [ ] Pendiente
+- [x] Ejemplo de flujo observación → diario → memoria (sintético, anonimizado)
+- [x] Guía operativa Practicum II (README)
+- [x] README practicum integrado + enlace al ejemplo
+- [x] TFM: sección «Del practicum al TFM»
+- [x] IA: ya operativa (no se reescribió; enlazada desde síntesis en Fase 3)
+- [ ] Python-Jupyter: base ya operativa; ampliación opcional a medio plazo
 
 ### Fase 5 — Cierre
-- [ ] MANIFEST + ESTADO (subir madurez de 04 y 07) + resumen final
+- [ ] Actualizar ESTADO.md (07 y 04 → Operativo; practicum flujo documentado)
+- [ ] MANIFEST si hace falta
+- [ ] Resumen final al usuario
 
 ---
 
-## Diario Fase 3 (2026-10-13)
+## Diario Fase 4 (2026-10-13)
 
-**Rutas rotas corregidas:**
+**Creado:** `01-asignaturas/practicum/evidencias/ejemplo-flujo-observacion-diario-memoria.md`
 
-| Ubicación incorrecta | Correcta |
-|----------------------|----------|
-| `autores-pensadores/niss.md` | `…/05-educacion-matematica/niss.md` |
-| `autores-pensadores/nctm.md` | `organismos-sociedades/nctm.md` |
-| `autores-pensadores/polya.md` | `…/05-educacion-matematica/polya.md` |
-| `autores-pensadores/schoenfeld.md` | `…/05-educacion-matematica/schoenfeld.md` |
+**Actualizados:** README practicum · practicum-ii · trabajo-fin-de-master
 
-**Archivos tocados:** evaluación formativa global · observación Pólya · síntesis · README Diseño curricular · esta memoria.
-
-**Siguiente:** Fase 4 o Fase 5 (actualizar ESTADO: 07-evaluacion y 04-pbl-abp → Operativo).
+**Nota:** IA y Python no requerían material mínimo nuevo; la carpeta 06 ya es rica. Pendiente solo cierre de madurez en ESTADO.
