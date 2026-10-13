@@ -14,7 +14,9 @@ Los ejemplos siguientes son propuestas didácticas adaptables. Las cifras señal
 
 ## STEM1 · Resolver problemas mediante razonamiento lógico
 
-![Razonamiento geométrico (teorema de Pitágoras)](https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Pythagorean.svg/480px-Pythagorean.svg.png)
+<p align="center">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Pythagorean.svg/500px-Pythagorean.svg.png" alt="Ilustración del teorema de Pitágoras" width="420"/>
+</p>
 
 *Ilustración del teorema de Pitágoras (dominio público / Wikimedia Commons). [Fuente](https://commons.wikimedia.org/wiki/File:Pythagorean.svg).*
 
@@ -44,7 +46,9 @@ La justificación se apoya en que $10 \equiv -1 \pmod{11}$: las potencias sucesi
 
 ## STEM2 · Formular preguntas e investigar mediante métodos científicos
 
-![Avión de papel (experimento de vuelo)](https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Glybbs_Paper_Plane.jpg/480px-Glybbs_Paper_Plane.jpg)
+<p align="center">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/b/bc/Glybbs_Paper_Plane.jpg" alt="Avión de papel" width="420"/>
+</p>
 
 *Avión de papel (dominio público). [Fuente](https://commons.wikimedia.org/wiki/File:Glybbs_Paper_Plane.jpg).*
 
@@ -74,7 +78,9 @@ La justificación se apoya en que $10 \equiv -1 \pmod{11}$: las potencias sucesi
 
 ## STEM3 · Diseñar soluciones, construir prototipos y mejorarlos
 
-![Puente de celosía (truss)](https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Truss_bridge.svg/640px-Truss_bridge.svg.png)
+<p align="center">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/2/22/Truss_bridge.svg" alt="Esquema de puente de celosía" width="520"/>
+</p>
 
 *Esquema de puente de celosía (CC0 / Wikimedia Commons). [Fuente](https://commons.wikimedia.org/wiki/File:Truss_bridge.svg).*
 
@@ -104,7 +110,9 @@ La justificación se apoya en que $10 \equiv -1 \pmod{11}$: las potencias sucesi
 
 ## STEM4 · Interpretar y comunicar información matemática, científica y tecnológica
 
-![Inflación de precios al consumo (ilustración de datos)](https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Inflation-of-consumer-prices.png/640px-Inflation-of-consumer-prices.png)
+<p align="center">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Inflation-of-consumer-prices.png" alt="Gráfico de inflación de precios al consumo" width="520"/>
+</p>
 
 *Inflación de precios al consumo (Our World in Data / Wikimedia Commons). [Fuente](https://commons.wikimedia.org/wiki/File:Inflation-of-consumer-prices.png).*
 
@@ -159,7 +167,9 @@ $$r_{\mathrm{real}}=\frac{1+r_{\mathrm{nominal}}}{1+\pi}-1$$
 
 ## STEM5 · Actuar de forma responsable con la salud y el medio ambiente
 
-![Símbolo de reciclaje](https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Recycle001.svg/240px-Recycle001.svg.png)
+<p align="center">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Recycle001.svg/250px-Recycle001.svg.png" alt="Símbolo internacional de reciclaje" width="160"/>
+</p>
 
 *Símbolo internacional de reciclaje (dominio público). [Fuente](https://commons.wikimedia.org/wiki/File:Recycle001.svg).*
 
