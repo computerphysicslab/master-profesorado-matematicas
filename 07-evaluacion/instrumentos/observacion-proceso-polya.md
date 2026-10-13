@@ -48,4 +48,4 @@
 - Si falta «verificar» de forma sistemática en el grupo: minilección de comprobación (sustituir, estimar, caso particular).
 - Compatible con Thinking Classrooms / trabajo en vertical: observar parejas, no solo individuos.
 
-**Bibliografía interna:** [Pólya](../../09-bibliografia/autores-pensadores/polya.md) · [Schoenfeld](../../09-bibliografia/autores-pensadores/schoenfeld.md) (si existen en el índice de autores).
+**Bibliografía interna:** [Pólya](../../09-bibliografia/autores-pensadores/05-educacion-matematica/polya.md) · [Schoenfeld](../../09-bibliografia/autores-pensadores/05-educacion-matematica/schoenfeld.md).
