@@ -142,16 +142,17 @@ Un proyecto que combine proporcionalidad, escalas y mapas puede enriquecer el se
 
 ## 8–12. Ejemplos desarrollados y traducción al diseño curricular
 
-→ **[Ejemplos desarrollados y aplicación curricular](../materiales/finalidades-ejemplos-desarrollados.md)**
+→ **[Ejemplos desarrollados y aplicación curricular](../materiales/finalidades-ejemplos-desarrollados.md)**  
+→ **[Preguntas de repaso y glosario](../materiales/finalidades-preguntas-y-glosario.md)**
 
 | Sección | Contenido |
 |---------|-----------|
-| 8 | Fracciones y pizzas: secuencia didáctica y evidencias de comprensión |
+| 8 | Fracciones y pizzas: secuencia didáctica completa y evidencias de comprensión |
 | 9 | Pitágoras e historia (dimensión cultural) |
 | 10 | Funcional, instrumental y formativa: ejemplos |
 | 11 | Dimensión ética y uso social |
 | 12 | Traducción a objetivos, actividades y evaluación |
-| 14–15 | Preguntas de repaso con respuestas y glosario |
+| 14–15 | Preguntas con respuestas razonadas y glosario |
 
 ---
 
@@ -190,6 +191,7 @@ Las finalidades de la enseñanza de las matemáticas no se agotan en la utilidad
 - [02 — Evolución curricular y normativa](02-evolucion-curricular-y-normativa.md)
 - [Concepciones de Ernest y dimensiones de Rico](../materiales/finalidades-concepciones-y-dimensiones.md)
 - [Ejemplos desarrollados y aplicación curricular](../materiales/finalidades-ejemplos-desarrollados.md)
+- [Preguntas de repaso y glosario](../materiales/finalidades-preguntas-y-glosario.md)
 - [Ampliación §7](../materiales/ampliacion-practica-teoria-abstraccion.md) *(integrada en la §7)*
 - [16 — Margen de acción docente bajo la LOMLOE](../../trabajo-fin-de-master/ideas-interesantes/16-margen-accion-docente-lomloe-libertad-catedra.md)
 - [Programa](../programa.md)
