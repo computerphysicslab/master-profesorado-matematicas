@@ -17,7 +17,7 @@ Autores como Bourdieu iluminan cómo el capital cultural y el *habitus* contribu
 
 En el marco de la LOMLOE, la educación se orienta al pleno desarrollo de la personalidad, a la equidad y a la formación de ciudadanos capaces de participar en una sociedad democrática. El profesorado de matemáticas no puede ignorar que la materia que enseña no es neutral: puede reforzar o desafiar estereotipos, puede generar ansiedad o autoeficacia, puede contribuir a la exclusión o a la inclusión.
 
-> En el repositorio: [paradigma tecnocrático](01-asignaturas/diseno-curricular-e-instruccional-de-matematicas/materiales/paradigma-tecnocratico-educacion.md) · [interpretativo](01-asignaturas/diseno-curricular-e-instruccional-de-matematicas/materiales/paradigma-interpretativo-educacion.md) · [sociocrítico](01-asignaturas/diseno-curricular-e-instruccional-de-matematicas/materiales/paradigma-sociocritico-educacion.md).
+> En el repositorio: [paradigma tecnocrático](01-asignaturas/diseno-curricular-e-instruccional-de-matematicas/materiales/paradigma-tecnocratico-educacion.md) · [interpretativo](01-asignaturas/diseno-curricular-e-instruccional-de-matematicas/materiales/paradigma-interpretativo-educacion.md) · [sociocrítico](01-asignaturas/diseno-curricular-e-instruccional-de-matematicas/materiales/paradigma-sociocritico-educacion.md) · [índice de autores](09-bibliografia/autores-pensadores/INDICE.md).
 
 ## Adolescencia, aprendizaje y dimensión socioafectiva
 
@@ -31,6 +31,8 @@ Bandura introduce la autoeficacia como creencia sobre la propia capacidad de log
 
 Las emociones —ansiedad matemática, vergüenza ante el error, frustración— ocupan recursos cognitivos y condicionan la participación. El sentido socioafectivo que la LOMLOE incorpora a las competencias específicas de matemáticas reconoce explícitamente esta dimensión: la perseverancia, la confianza y la gestión emocional ante la dificultad forman parte del aprendizaje matemático, no son un añadido externo.
 
+> Materiales de Psicología: [autoeficacia](01-asignaturas/psicologia-del-desarrollo-y-de-la-educacion/materiales/autoeficacia-matematica.md) · [mindset](01-asignaturas/psicologia-del-desarrollo-y-de-la-educacion/materiales/mindset-atribuciones-matematicas.md) · [gestión del error](01-asignaturas/psicologia-del-desarrollo-y-de-la-educacion/materiales/gestion-del-error-matematicas.md) · [feedback efectivo](01-asignaturas/psicologia-del-desarrollo-y-de-la-educacion/materiales/feedback-efectivo-matematicas.md).
+
 ## Enseñar: finalidades, PCK y transposición
 
 Enseñar es intervenir de manera intencional y fundamentada. Las finalidades educativas se concretan en competencias específicas, criterios de evaluación y saberes básicos. La alineación constructiva exige coherencia entre lo que se pretende, cómo se enseña y qué se evalúa. Si se declara el objetivo de modelizar e interpretar, pero se evalúa únicamente el resultado numérico, la alineación falla.
@@ -41,7 +43,7 @@ Pólya y Schoenfeld ofrecen marcos para la resolución de problemas: comprender,
 
 Las metodologías —aprendizaje basado en proyectos, trabajo cooperativo, uso de Python o GeoGebra— no son recetas universales: su valor depende de si permiten trabajar las competencias pretendidas, de si respetan la carga cognitiva y de si se adaptan al contexto real del grupo. La innovación no equivale automáticamente a mejora; debe justificarse por sus finalidades educativas, sus evidencias y sus costes de implementación.
 
-> En el repositorio: [finalidades de la enseñanza de las Matemáticas](01-asignaturas/diseno-curricular-e-instruccional-de-matematicas/apuntes/01-finalidades-ensenanza-matematicas.md) · [competencias específicas con ejemplos](01-asignaturas/diseno-curricular-e-instruccional-de-matematicas/materiales/ejemplos-competencias-especificas-matematicas.md) · [descriptores STEM en la práctica](01-asignaturas/diseno-curricular-e-instruccional-de-matematicas/materiales/descriptores-stem-practica-matematicas.md).
+> En el repositorio: [finalidades](01-asignaturas/diseno-curricular-e-instruccional-de-matematicas/apuntes/01-finalidades-ensenanza-matematicas.md) · [competencias específicas](01-asignaturas/diseno-curricular-e-instruccional-de-matematicas/materiales/ejemplos-competencias-especificas-matematicas.md) · [STEM en la práctica](01-asignaturas/diseno-curricular-e-instruccional-de-matematicas/materiales/descriptores-stem-practica-matematicas.md) · [situaciones de aprendizaje](04-pbl-abp/situaciones-aprendizaje/) · [Pólya](09-bibliografia/autores-pensadores/05-educacion-matematica/polya.md) · [Schoenfeld](09-bibliografia/autores-pensadores/05-educacion-matematica/schoenfeld.md).
 
 ## Currículo, autonomía y atención a la diversidad
 
@@ -49,7 +51,7 @@ El sistema educativo español se articula en niveles de concreción curricular. 
 
 La autonomía profesional no es absoluta: se ejerce dentro de un marco normativo y de acuerdos de centro. La libertad de cátedra existe, pero no autoriza a ignorar los criterios de evaluación ni a renunciar a la atención a la diversidad. Las necesidades específicas de apoyo educativo (NEAE) y las dificultades específicas de aprendizaje (DEA), incluida la discalculia, requieren observación, coordinación con orientación y diseño de medidas ordinarias y, cuando proceda, específicas. El docente de materia no diagnostica en solitario, pero sí diseña y adapta.
 
-> En el repositorio: [evolución curricular y normativa](01-asignaturas/diseno-curricular-e-instruccional-de-matematicas/apuntes/02-evolucion-curricular-y-normativa.md).
+> En el repositorio: [evolución curricular y normativa](01-asignaturas/diseno-curricular-e-instruccional-de-matematicas/apuntes/02-evolucion-curricular-y-normativa.md) · [discalculia y DEA](01-asignaturas/psicologia-del-desarrollo-y-de-la-educacion/materiales/discalculia-y-dea-matematicas.md).
 
 ## Evaluación formativa, *feedback* y el error
 
@@ -58,6 +60,8 @@ La evaluación es el punto donde se ponen a prueba la coherencia y la equidad de
 La evaluación formativa, tal como la caracterizan Black y Wiliam, reduce la brecha entre el estado actual y el objetivo cuando la información se usa para actuar. El *feedback* eficaz responde a tres preguntas: hacia dónde voy, dónde estoy ahora y cómo sigo (Hattie y Timperley). Los instrumentos de bajo coste —tickets de entrada y salida, borradores, rúbricas de proceso, portfolios de errores corregidos— permiten generar evidencias frecuentes sin saturar.
 
 La coevaluación y la autoevaluación requieren entrenamiento y criterios claros; de lo contrario, degeneran en notas por simpatía. La calificación debe ser trazable: debe poder justificarse a partir de evidencias alineadas con los criterios. La exposición pública de resultados o las comparaciones humillantes destruyen el clima formativo. Gestionar el error como información, y no solo como fallo a penalizar, es una decisión pedagógica y ética que afecta directamente a la autoeficacia y a la mentalidad de crecimiento del alumnado.
+
+> Recursos operativos: [evaluación formativa global](02-apuntes/evaluacion/evaluacion-formativa-global.md) · [instrumentos](07-evaluacion/instrumentos/) · [rúbricas CE](07-evaluacion/rubricas/) · [ejemplo de alineación](07-evaluacion/ejemplos/alineacion-criterio-tarea-evidencia.md).
 
 ## Convivencia y clima de aula
 
@@ -71,10 +75,12 @@ La identidad docente se construye en la reflexión sobre la propia práctica, en
 
 La competencia digital y el uso de la inteligencia artificial plantean un desafío particular. Utilizar herramientas tecnológicas para apoyar el pensamiento —modelizar, visualizar, verificar— es distinto de delegar en ellas procesos cognitivos que el alumnado necesita aprender a realizar por sí mismo. Generar código con un modelo de lenguaje no equivale a comprenderlo; auditar, ejecutar y explicar el resultado sigue siendo una responsabilidad del estudiante y del docente. La innovación tecnológica debe subordinarse a las finalidades educativas, no al revés.
 
+> En el repositorio: [IA en el aula de Matemáticas](02-apuntes/tecnologia-educativa/ia-en-el-aula-matematicas.md) · [06-inteligencia-artificial](06-inteligencia-artificial/).
+
 ## Cierre
 
 En definitiva, los conocimientos fundamentales del Máster no son un catálogo de autores ni un listado de técnicas. Constituyen una arquitectura que permite al docente de matemáticas comprender qué significa enseñar, cómo aprenden los adolescentes, cómo se articulan currículo y evaluación, y qué responsabilidades intelectuales, éticas y profesionales asume. Esta comprensión no elimina la incertidumbre de la práctica, pero la hace inteligible y orientable. El ejercicio responsable de la docencia consiste, precisamente, en actuar sobre esa complejidad con rigor, con sensibilidad y con la permanente disposición a revisar las propias decisiones a la luz de la evidencia y de los efectos reales sobre el alumnado.
 
 ---
 
-[← Volver al inicio del repositorio](README.md)
+[← Volver al inicio del repositorio](README.md) · [Estado del repo](ESTADO.md) · [MANIFEST](MANIFEST.md)
