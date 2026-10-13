@@ -56,7 +56,9 @@ Ver ejemplos de descalibración y remedios en la [guía práctica de acción doc
 | Audio 60–90 s | Argumentación sin ansiedad de pizarra | Criterios claros de contenido |
 | Rúbrica de proceso (Pólya / Schoenfeld) | Comprender–plan–ejecutar–verificar | No solo puntuar el resultado |
 
-Rúbricas del repo: [07-evaluacion/rubricas](../../07-evaluacion/rubricas/).
+**Plantillas operativas del repo:** [07-evaluacion/instrumentos](../../07-evaluacion/instrumentos/) (tickets, portfolio, lista de cotejo, audio, observación Pólya, autoevaluación de cierre).
+
+**Rúbricas:** [07-evaluacion/rubricas](../../07-evaluacion/rubricas/).
 
 ---
 
@@ -76,6 +78,9 @@ Si solo se puntúa el número final, **no** se evalúa un criterio de «interpre
 
 Ejemplo: criterio de comunicar el proceso → problema contextual + frase de interpretación **o** audio breve **o** lista de cotejo en grupo.
 
+**Ejemplo desarrollado paso a paso (CE.M.8 y variante CE.M.2):**  
+[alineacion-criterio-tarea-evidencia.md](../../07-evaluacion/ejemplos/alineacion-criterio-tarea-evidencia.md)
+
 ---
 
 ## 6. Relación con otras piezas del máster
@@ -87,6 +92,7 @@ Ejemplo: criterio de comunicar el proceso → problema contextual + frase de int
 | DUA | [Apunte DUA transversal](../didactica/dua-diseno-universal-aprendizaje.md) |
 | Competencias (Niss, NCTM) | [niss.md](../../09-bibliografia/autores-pensadores/niss.md) · [nctm.md](../../09-bibliografia/autores-pensadores/nctm.md) |
 | Heurísticas de resolución | [polya.md](../../09-bibliografia/autores-pensadores/polya.md) · [schoenfeld.md](../../09-bibliografia/autores-pensadores/schoenfeld.md) |
+| Instrumentos y rúbricas | [07-evaluacion](../../07-evaluacion/) |
 
 ---
 
