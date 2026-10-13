@@ -17,6 +17,7 @@ Aprendizaje basado en proyectos y problemas · Situaciones de aprendizaje LOMLOE
 | [Paradoja del cumpleaños](situaciones-aprendizaje/sa-paradoja-cumpleanos-3eso.md) | 3.º–4.º ESO | Estocástico |
 | [Folio → Luna (exponencial)](situaciones-aprendizaje/sa-papel-luna-exponencial-2eso.md) | 2.º–3.º ESO | Numérico, algebraico |
 | [Vuelo de la abeja — distancias](situaciones-aprendizaje/sa-vuelo-abeja-distancias-2eso.md) | 2.º ESO | Espacial, medida |
+| [**Tarifas y función afín**](situaciones-aprendizaje/sa-tarifas-funcion-afin-3eso.md) | 3.º ESO | Algebraico, modelización, comunicación |
 | [Independencia y ecuación de Drake](situaciones-aprendizaje/sa-independencia-drake-4eso.md) | 4.º ESO / 1.º Bach | Estocástico, modelización |
 | [Mutaciones, biosfera y supercomputación](situaciones-aprendizaje/sa-mutaciones-biosfera-supercomputacion.md) | 3.º–4.º / Bach | Numérico, computacional |
 | [Campana gaussiana](situaciones-aprendizaje/sa-campana-gaussiana-bach.md) | Bachillerato | Algebraico, análisis |
@@ -29,7 +30,7 @@ Aprendizaje basado en proyectos y problemas · Situaciones de aprendizaje LOMLOE
 
 ## Técnicas y proyectos
 
-- **[Técnica Jigsaw](proyectos/Jigsaw/Tecnica-Jigsaw.md)** (Aronson) — [infografía](proyectos/Jigsaw/T%C3%A9cnica_Jigsaw_de_aprendizaje_cooperativo.png)
+- **[Técnica Jigsaw](proyectos/Jigsaw/Tecnica-Jigsaw.md)** (Aronson)
 - [Proyectos matemáticos](proyectos-matematicos/)
 - [Proyectos STEM](proyectos-stem/)
 
@@ -37,14 +38,10 @@ Aprendizaje basado en proyectos y problemas · Situaciones de aprendizaje LOMLOE
 
 ## Evaluación y rúbricas (enlaces del repo)
 
-Al diseñar la sección de evaluación de una SA, reutilizar:
-
-- [07-evaluacion/instrumentos](../07-evaluacion/instrumentos/) — tickets, portfolio, audio, Pólya, autoevaluación
-- [07-evaluacion/rubricas](../07-evaluacion/rubricas/) — CE.M.1–2, 5–6, 7–8, 9–10
+- [07-evaluacion/instrumentos](../07-evaluacion/instrumentos/)
+- [07-evaluacion/rubricas](../07-evaluacion/rubricas/)
 - [Ejemplo de alineación](../07-evaluacion/ejemplos/alineacion-criterio-tarea-evidencia.md)
-
-Carpetas locales: [rubricas/](rubricas/) · [ideas/](ideas/) · [retos/](retos/)
 
 ---
 
-*Actualizado: 2026-10-13 (Fase 2.1 — sincronización de catálogo).*
+*Actualizado: 2026-10-13 (Fase 2.2).*
