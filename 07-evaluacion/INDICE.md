@@ -25,24 +25,21 @@ Mapa de la carpeta [`07-evaluacion/`](README.md). Actualizar al añadir instrume
 | [rubrica-proyectos-exposicion-ce9-ce10.md](rubricas/rubrica-proyectos-exposicion-ce9-ce10.md) | CE.M.9 · CE.M.10 | Socioafectivo, perseverancia, colaboración |
 | [rubricas/README.md](rubricas/README.md) | — | Notas de uso de las rúbricas |
 
-*Pendiente opcional:* rúbrica centrada solo en sentido socioafectivo (CE.M.9) si se quiere separar de colaboración.
-
 ---
 
 ## Instrumentos (`instrumentos/`)
 
-| Estado | Contenido previsto |
-|--------|--------------------|
-| **Pendiente (Fase 1.2)** | Ticket de entrada / salida |
-| **Pendiente** | Portfolio de errores corregidos |
-| **Pendiente** | Lista de cotejo de argumentación matemática |
-| **Pendiente** | Audio 60–90 s (explicar un razonamiento) |
-| **Pendiente** | Borrador + «2 estrellas y un deseo» (coevaluación) |
-| **Pendiente** | Observación estructurada de proceso (Pólya / Schoenfeld) |
-| **Pendiente** | Lista de cotejo de modelización |
-| **Pendiente** | Autoevaluación breve al cierre de tarea |
+| Archivo | Evidencia principal | Estado |
+|---------|---------------------|--------|
+| [README.md](instrumentos/README.md) | Catálogo y principios | **Operativo** |
+| [ticket-entrada-salida.md](instrumentos/ticket-entrada-salida.md) | Diagnóstico y cierre metacognitivo | **Operativo** |
+| [portfolio-errores-corregidos.md](instrumentos/portfolio-errores-corregidos.md) | Gestión del error y proceso | **Operativo** |
+| [lista-cotejo-argumentacion.md](instrumentos/lista-cotejo-argumentacion.md) | CE.M.7–8 · co/autoevaluación | **Operativo** |
+| [audio-explicacion-breve.md](instrumentos/audio-explicacion-breve.md) | Argumentación oral 60–90 s | **Operativo** |
+| [observacion-proceso-polya.md](instrumentos/observacion-proceso-polya.md) | Proceso Pólya (CE.M.1–2) | **Operativo** |
+| [autoevaluacion-cierre-tarea.md](instrumentos/autoevaluacion-cierre-tarea.md) | Metacognición al cerrar | **Operativo** |
 
-La carpeta existe; los archivos se irán incorporando en pasos atómicos.
+*Opcional posterior:* lista de cotejo de modelización; «2 estrellas y un deseo» como anexo de coevaluación.
 
 ---
 
@@ -52,8 +49,8 @@ La carpeta existe; los archivos se irán incorporando en pasos atómicos.
 |---------|--------|-------|
 | [formativa/](formativa/) | Carcasa (README) | Ampliar con criterios de diseño de instrumentos formativos |
 | [sumativa/](sumativa/) | Carcasa (README) | Trazabilidad de la calificación y evidencias |
-| [autoevaluacion/](autoevaluacion/) | Carcasa (README) | Plantillas y entrenamiento metacognitivo |
-| [coevaluacion/](coevaluacion/) | Carcasa (README) | Pautas para evitar «nota por simpatía» |
+| [autoevaluacion/](autoevaluacion/) | Carcasa (README) | Complementar con [autoevaluación de cierre](instrumentos/autoevaluacion-cierre-tarea.md) |
+| [coevaluacion/](coevaluacion/) | Carcasa (README) | Complementar con [lista de cotejo](instrumentos/lista-cotejo-argumentacion.md) |
 
 ---
 
@@ -61,18 +58,18 @@ La carpeta existe; los archivos se irán incorporando en pasos atómicos.
 
 | Carpeta | Estado | Contenido previsto |
 |---------|--------|--------------------|
-| [ejemplos/](ejemplos/) | Vacío (`.gitkeep`) | Alineación completa: criterio → tarea → evidencia → calificación |
+| [ejemplos/](ejemplos/) | Vacío (`.gitkeep`) | **Fase 1.3:** alineación completa criterio → tarea → evidencia → calificación |
 | [normativa/](normativa/) | Vacío (`.gitkeep`) | Recordatorios LOMLOE / evaluación (sin sustituir textos oficiales) |
 
 ---
 
 ## Enlaces externos a esta carpeta (dentro del repo)
 
-- [02-apuntes/evaluacion/evaluacion-formativa-global.md](../02-apuntes/evaluacion/evaluacion-formativa-global.md) — ya apunta a `07-evaluacion/rubricas`
+- [02-apuntes/evaluacion/evaluacion-formativa-global.md](../02-apuntes/evaluacion/evaluacion-formativa-global.md)
 - [Síntesis del Máster — apartado evaluación](../sintesis-conocimientos-fundamentales.md)
 - [Ejemplos de competencias específicas](../01-asignaturas/diseno-curricular-e-instruccional-de-matematicas/materiales/ejemplos-competencias-especificas-matematicas.md)
 - [Descriptores STEM en la práctica](../01-asignaturas/diseno-curricular-e-instruccional-de-matematicas/materiales/descriptores-stem-practica-matematicas.md)
 
 ---
 
-*Última actualización de este índice: 2026-10-13 (Fase 1.1 del proceso supervisado).*
+*Última actualización: 2026-10-13 (Fase 1.2 — instrumentos de bajo coste).*
