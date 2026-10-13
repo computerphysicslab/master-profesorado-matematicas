@@ -2,7 +2,8 @@
 
 Inventario de la estructura y **criterios de organización**. Actualizar al cambiar carpetas de primer nivel o reglas de ubicación.
 
-**Última limpieza estructural:** 2026-10-07 — eliminación de reservas vacías en `02-apuntes/` (`psicologia/`, `matematicas/`, `sociologia-educacion/`); contenido de asignatura solo en `01-asignaturas/`.
+**Última limpieza estructural:** 2026-10-07 — eliminación de reservas vacías en `02-apuntes/` (`psicologia/`, `matematicas/`, `sociologia-educacion/`); contenido de asignatura solo en `01-asignaturas/`.  
+**Última actualización de madurez:** 2026-10-13 — proceso supervisado (evaluación, SA, enlaces, practicum); ver [ESTADO.md](ESTADO.md).
 
 ---
 
@@ -15,8 +16,10 @@ Inventario de la estructura y **criterios de organización**. Actualizar al camb
 | Apuntes **transversales** (cruzan varias materias) | `02-apuntes/` (subcarpetas con contenido real) |
 | Fichas reutilizables multi-asignatura | `03-materiales/` |
 | Diario / centro / aula / reflexiones de prácticas (**anonimizado**) | `01-asignaturas/practicum/` |
-| Carcasa académica Practicum I o II (bibliografía, trabajos locales) | `practicum-i/` · `practicum-ii/` |
-| Histórico / scripts de un solo uso | `99-archivo/` |
+| Carcasa académica Practicum I o II (bibliografía, trabajos locales) | `01-asignaturas/practicum-i/` · `01-asignaturas/practicum-ii/` |
+| Instrumentos y rúbricas de evaluación | `07-evaluacion/` |
+| Situaciones de aprendizaje LOMLOE | `04-pbl-abp/situaciones-aprendizaje/` |
+| Histórico / scripts de un solo uso / memoria de procesos | `99-archivo/` |
 
 **No crear** carpetas vacías “por si acaso” en `02-apuntes/` que dupliquen `01-asignaturas/`.
 
@@ -27,17 +30,19 @@ Inventario de la estructura y **criterios de organización**. Actualizar al camb
 | Carpeta | Contenido | Madurez orientativa |
 |---------|-----------|---------------------|
 | `00-administracion/` | Matrícula, calendario, trámites (anonimizado) | Operativo |
-| `01-asignaturas/` | Una carpeta por asignatura + optativas + TFM + `practicum/` | Núcleo maduro (Psicología, Procesos, Sociedad, Diseño curricular…) |
+| `01-asignaturas/` | Una carpeta por asignatura + optativas + TFM + `practicum/` | Núcleo maduro |
 | `02-apuntes/` | Índice general, glosario central, transversales con **contenido** | Operativo (sin reservas vacías) |
 | `03-materiales/` | Materiales docentes reutilizables | Operativo |
-| `04-pbl-abp/` | Situaciones de aprendizaje, ABP, Jigsaw | Parcial / en crecimiento |
+| `04-pbl-abp/` | Situaciones de aprendizaje, ABP, Jigsaw | **Operativo (base)** |
 | `05-python-jupyter/` | Marco didáctico + notebooks (tarifas, perímetro-área) | Operativo (base) |
-| `06-inteligencia-artificial/` | IA en educación (estructura + recursos) | Parcial |
-| `07-evaluacion/` | Instrumentos y rúbricas | Parcial |
+| `06-inteligencia-artificial/` | IA en educación (estructura + recursos) | Parcial / base |
+| `07-evaluacion/` | Instrumentos, rúbricas CE, ejemplo de alineación | **Operativo (mínimo viable)** |
 | `08-podcasts/` | Guiones e índices | Operativo |
 | `09-bibliografia/` | Autores-pensadores, índices | Operativo |
 | `10-proyectos/` | Proyectos integradores | Reserva / poco contenido |
-| `99-archivo/` | Histórico / scripts one-shot | Activo para archivo |
+| `99-archivo/` | Histórico / scripts one-shot / memoria de mejoras | Activo para archivo |
+
+Madurez detallada y pendientes a medio plazo: **[ESTADO.md](ESTADO.md)**.
 
 ---
 
@@ -47,7 +52,7 @@ Inventario de la estructura y **criterios de organización**. Actualizar al camb
 |------|-----------|
 | `glosario-central-master.md` | Lenguaje común |
 | `didactica/` | DUA transversal |
-| `evaluacion/` | Evaluación formativa global |
+| `evaluacion/` | Evaluación formativa global (enlaza a `07-evaluacion`) |
 | `tecnologia-educativa/` | IA en el aula de Matemáticas |
 | `legislacion-educativa/` | Libertad de cátedra |
 | `recursos-externos/` | Listados GitHub |
@@ -60,9 +65,9 @@ Inventario de la estructura y **criterios de organización**. Actualizar al camb
 
 | Carpeta | Rol |
 |---------|-----|
-| **`01-asignaturas/practicum/`** | **Espacio de trabajo integrado** versionable: observación, centro, aula, diario, memoria, reflexiones, actividades (**anonimizado**). |
-| **`practicum-i/`** | Ficha de la asignatura Practicum I (README, bibliografía, `trabajos/` local no versionado). |
-| **`practicum-ii/`** | Idem Practicum II. |
+| **`01-asignaturas/practicum/`** | **Espacio de trabajo integrado** versionable: observación, centro, aula, diario, memoria, reflexiones, actividades (**anonimizado**). Ejemplo de flujo: `practicum/evidencias/ejemplo-flujo-observacion-diario-memoria.md`. |
+| **`01-asignaturas/practicum-i/`** | Ficha de la asignatura Practicum I (README, bibliografía, `trabajos/` local no versionado). |
+| **`01-asignaturas/practicum-ii/`** | Idem Practicum II. |
 
 No duplicar diarios ni análisis de centro en I/II: eso va en `practicum/`.
 
@@ -83,9 +88,13 @@ Ver [TRABAJOS-LOCAL.md](01-asignaturas/TRABAJOS-LOCAL.md).
 | Índice | Ruta |
 |--------|------|
 | Manifest (este archivo) | `MANIFEST.md` |
+| Estado de madurez | `ESTADO.md` |
 | README raíz | `README.md` |
+| Síntesis del Máster | `sintesis-conocimientos-fundamentales.md` |
 | Asignaturas | `01-asignaturas/README.md` |
 | Apuntes generales | `02-apuntes/INDICE.md` |
+| Evaluación | `07-evaluacion/INDICE.md` |
+| SA / PBL | `04-pbl-abp/INDICE.md` |
 | Autores | `09-bibliografia/autores-pensadores/INDICE.md` |
 
 ---
