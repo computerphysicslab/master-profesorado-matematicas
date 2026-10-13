@@ -1,30 +1,50 @@
 # Índice PBL / ABP
 
-Espacio para proyectos de aprendizaje basado en problemas y en proyectos, aplicados a Matemáticas y STEM.
+Aprendizaje basado en proyectos y problemas · Situaciones de aprendizaje LOMLOE · Matemáticas y STEM.
+
+**Entrada:** [README de la carpeta](README.md) · [Catálogo de SA](situaciones-aprendizaje/README.md) · [Plantilla](situaciones-aprendizaje/plantilla-situacion-aprendizaje.md)
+
+---
 
 ## Situaciones de aprendizaje
 
-- [README y catálogo](situaciones-aprendizaje/README.md)
-- [Plantilla SA](situaciones-aprendizaje/plantilla-situacion-aprendizaje.md)
-- [SA Ajedrez / grafos](situaciones-aprendizaje/ajedrez-y-matematicas.md)
-- [SA Eratóstenes](situaciones-aprendizaje/sa-eratostenes-3eso.md)
-- [SA Kepler III](situaciones-aprendizaje/sa-kepler-ley-planetas-4eso.md)
-- [SA Exoplanetas](situaciones-aprendizaje/sa-exoplanetas-transito-4eso.md)
-- [SA Paradoja del cumpleaños](situaciones-aprendizaje/sa-paradoja-cumpleanos-3eso.md)
-- [SA Folio → Luna](situaciones-aprendizaje/sa-papel-luna-exponencial-2eso.md)
-- [SA Independencia y Drake](situaciones-aprendizaje/sa-independencia-drake-4eso.md)
-- [SA Campana gaussiana](situaciones-aprendizaje/sa-campana-gaussiana-bach.md)
-- [SA Hamlet / π](situaciones-aprendizaje/sa-hamlet-pi-4eso.md)
-- [SA Monty Hall](situaciones-aprendizaje/sa-monty-hall-4eso.md)
+| SA | Nivel | Sentidos / foco |
+|----|-------|-----------------|
+| [Ajedrez y grafos](situaciones-aprendizaje/ajedrez-y-matematicas.md) | 4.º ESO / 1.º Bach | Espacial, algorítmico, socioafectivo |
+| [Eratóstenes — radio de la Tierra](situaciones-aprendizaje/sa-eratostenes-3eso.md) | 3.º–4.º ESO | Medida, espacial, numérico |
+| [Kepler III — planetas](situaciones-aprendizaje/sa-kepler-ley-planetas-4eso.md) | 4.º ESO / 1.º Bach | Algebraico, modelización |
+| [Exoplanetas — tránsito](situaciones-aprendizaje/sa-exoplanetas-transito-4eso.md) | 4.º ESO / 1.º Bach | Espacial, algebraico, medida |
+| [Paradoja del cumpleaños](situaciones-aprendizaje/sa-paradoja-cumpleanos-3eso.md) | 3.º–4.º ESO | Estocástico |
+| [Folio → Luna (exponencial)](situaciones-aprendizaje/sa-papel-luna-exponencial-2eso.md) | 2.º–3.º ESO | Numérico, algebraico |
+| [Vuelo de la abeja — distancias](situaciones-aprendizaje/sa-vuelo-abeja-distancias-2eso.md) | 2.º ESO | Espacial, medida |
+| [Independencia y ecuación de Drake](situaciones-aprendizaje/sa-independencia-drake-4eso.md) | 4.º ESO / 1.º Bach | Estocástico, modelización |
+| [Mutaciones, biosfera y supercomputación](situaciones-aprendizaje/sa-mutaciones-biosfera-supercomputacion.md) | 3.º–4.º / Bach | Numérico, computacional |
+| [Campana gaussiana](situaciones-aprendizaje/sa-campana-gaussiana-bach.md) | Bachillerato | Algebraico, análisis |
+| [Hamlet y los dígitos de π](situaciones-aprendizaje/sa-hamlet-pi-4eso.md) | 4.º ESO / 1.º Bach | Numérico, estocástico |
+| [Monty Hall](situaciones-aprendizaje/sa-monty-hall-4eso.md) | 4.º ESO / 1.º Bach | Estocástico |
+
+**Plantilla:** [plantilla-situacion-aprendizaje.md](situaciones-aprendizaje/plantilla-situacion-aprendizaje.md)
+
+---
 
 ## Técnicas y proyectos
 
-- **[Técnica Jigsaw (rompecabezas)](proyectos/Jigsaw/Tecnica-Jigsaw.md)** — aprendizaje cooperativo (Aronson, 1971): fundamentación, paradigmas, LOMLOE, ventajas/riesgos, ESO y reflexión de identidad docente · [infografía](proyectos/Jigsaw/T%C3%A9cnica_Jigsaw_de_aprendizaje_cooperativo.png)
+- **[Técnica Jigsaw](proyectos/Jigsaw/Tecnica-Jigsaw.md)** (Aronson) — [infografía](proyectos/Jigsaw/T%C3%A9cnica_Jigsaw_de_aprendizaje_cooperativo.png)
 - [Proyectos matemáticos](proyectos-matematicos/)
 - [Proyectos STEM](proyectos-stem/)
 
-## Otras carpetas
+---
 
-- [Rúbricas](rubricas/)
-- [Ideas](ideas/)
-- [Retos](retos/)
+## Evaluación y rúbricas (enlaces del repo)
+
+Al diseñar la sección de evaluación de una SA, reutilizar:
+
+- [07-evaluacion/instrumentos](../07-evaluacion/instrumentos/) — tickets, portfolio, audio, Pólya, autoevaluación
+- [07-evaluacion/rubricas](../07-evaluacion/rubricas/) — CE.M.1–2, 5–6, 7–8, 9–10
+- [Ejemplo de alineación](../07-evaluacion/ejemplos/alineacion-criterio-tarea-evidencia.md)
+
+Carpetas locales: [rubricas/](rubricas/) · [ideas/](ideas/) · [retos/](retos/)
+
+---
+
+*Actualizado: 2026-10-13 (Fase 2.1 — sincronización de catálogo).*
