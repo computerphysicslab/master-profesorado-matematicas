@@ -38,3 +38,19 @@ ideas-interesantes/ → ¿Qué puedo investigar yo?
 5. [Ideas interesantes](ideas-interesantes/)
 6. Ejemplos completos en [ejemplos-tfm/](ejemplos-tfm/)
 7. [Trámites: matrícula, depósito, defensa](../../00-administracion/tfm/tramite-tfm.md)
+
+## Del practicum al TFM
+
+Un **foco bien analizado** en la memoria de prácticas (escena + patrón + marco + límite) suele ser mejor germen de TFM que un tema genérico sin evidencia de aula.
+
+| Recurso del practicum | Uso para el TFM |
+|-----------------------|-----------------|
+| [Flujo observación → diario → memoria](../practicum/evidencias/ejemplo-flujo-observacion-diario-memoria.md) | Modelo de evidencia y escritura |
+| [Guía diario→memoria](../practicum/memoria/guia-diario-a-memoria.md) | Cómo seleccionar focos |
+| [Practicum II](../practicum-ii/) | Carcasa de la asignatura de prácticas |
+| [07-evaluacion](../../07-evaluacion/) | Instrumentos si el TFM evalúa una intervención |
+| [Situaciones de aprendizaje](../../04-pbl-abp/situaciones-aprendizaje/) | Posible objeto de diseño o implementación |
+
+---
+
+*Prevalece la normativa y la rúbrica oficiales de la universidad / facultad.*
