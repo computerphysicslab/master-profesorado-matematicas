@@ -8,6 +8,7 @@ Recursos reutilizables que complementan los [apuntes](../apuntes/) de la asignat
 |-------------------|-------------|
 | [**infografia-asignatura.md**](infografia-asignatura.md) | Resumen visual de la asignatura |
 | [curriculo-lomloe/](curriculo-lomloe/) | Mapa de competencias/criterios y sentidos |
+| [**descriptores-stem-practica-matematicas.md**](descriptores-stem-practica-matematicas.md) | **STEM1–5 → aula:** 5 actividades ESO/Bach. con evidencias e imágenes |
 | [**paradigma-tecnocratico-educacion.md**](paradigma-tecnocratico-educacion.md) | Paradigma tecnocrático / empírico-analítico |
 | [**paradigma-interpretativo-educacion.md**](paradigma-interpretativo-educacion.md) | Paradigma interpretativo / hermenéutico |
 | [**paradigma-sociocritico-educacion.md**](paradigma-sociocritico-educacion.md) | Paradigma sociocrítico (teoría crítica, praxis) |
@@ -33,8 +34,8 @@ Recursos reutilizables que complementan los [apuntes](../apuntes/) de la asignat
 
 **Paradigmas:** [Tecnocrático](paradigma-tecnocratico-educacion.md) · [Interpretativo](paradigma-interpretativo-educacion.md) · [Sociocrítico](paradigma-sociocritico-educacion.md)
 
+**STEM y currículo:** [Descriptores STEM → práctica](descriptores-stem-practica-matematicas.md) · [10 CE con ejemplos](ejemplos-competencias-especificas-matematicas.md) · [mapa CE](curriculo-lomloe/) · [Crítica CCEC](critica-ccec-conciencia-cultural.md)
+
 **Metodología:** [Thinking Classrooms](thinking-classrooms-liljedahl.md) · [Exigencia cognitiva](exigencia-cognitiva-disciplina-razonamiento.md) · [Unidad tarifas](ejemplo-unidad-tarifas-exigencia-cognitiva.md) · [Unidad geometría P–A](ejemplo-unidad-geometria-perimetro-area.md) · [Duval](registros-representacion-duval.md) · [Modelización](modelizacion-matematica-aula.md)
 
-**Currículo y rigor:** [mapa CE](curriculo-lomloe/) · [10 CE con ejemplos](ejemplos-competencias-especificas-matematicas.md) · [Crítica CCEC](critica-ccec-conciencia-cultural.md) · [Temarios Aragón](temarios-matematicas-aragon/)
-
-**Herramientas:** [GeoGebra](geogebra-criterio-didactico.md) · [Plantillas](plantillas/) · [Banco de problemas](banco-problemas/)
+**Herramientas:** [GeoGebra](geogebra-criterio-didactico.md) · [Plantillas](plantillas/) · [Banco de problemas](banco-problemas/) · [Temarios Aragón](temarios-matematicas-aragon/)
