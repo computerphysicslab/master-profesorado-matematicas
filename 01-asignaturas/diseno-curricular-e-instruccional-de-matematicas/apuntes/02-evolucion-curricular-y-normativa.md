@@ -118,6 +118,10 @@ Esta tensión se desarrolla como posible línea de investigación en la idea de 
 
 → **[16 — Margen de acción docente bajo la LOMLOE, libertad de cátedra y excelencia inclusiva](../../trabajo-fin-de-master/ideas-interesantes/16-margen-accion-docente-lomloe-libertad-catedra.md)**
 
+**Opinión docente y social (no confundir con la norma):** hay encuestas e informes con reservas hacia aspectos de la LOMLOE, pero **no** permiten afirmar un consenso a favor o en contra de limitar la especialización temprana. Síntesis crítica y fuentes:
+
+→ [Termómetro de opinión — LOMLOE e itinerarios](../../procesos-y-contextos-educativos/materiales/termometro-opinion-lomloe-itinerarios.md)
+
 ### Cuadro comparativo de elementos curriculares
 
 | Ley | Elementos principales |
