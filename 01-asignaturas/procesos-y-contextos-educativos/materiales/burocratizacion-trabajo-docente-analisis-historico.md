@@ -5,6 +5,8 @@
 
 **Podcast:** 🎧 [De la tiza al colapso burocrático](../../../08-podcasts/episodios/De_la_tiza_al_colapso_burocrático.m4a) — evolución histórica, paradigmas y burocracia docente · [guion](../../../08-podcasts/guiones/Evoluci%C3%B3n%20hist%C3%B3rica%20del%20sistema%20educativo%20espa%C3%B1ol%20y%20paradigmas%20educativos.md)
 
+**Estimación cuantitativa LOMCE–LOMLOE (SCM, TALIS, CCAA):** [Carga burocrática LOMCE–LOMLOE](carga-burocratica-lomce-lomloe-scm.md)
+
 ## Precisión metodológica
 
 Ninguna ley por sí sola determina todo el papeleo que realiza un profesor. Una parte importante procede de los reales decretos de currículo, reglamentos orgánicos, órdenes de evaluación y, desde la descentralización educativa, de la normativa de cada comunidad autónoma.
@@ -185,6 +187,8 @@ qué competencia → mediante qué saber → en qué situación → mediante qu�
 → con qué medidas de atención → y cómo evaluaré además mi propia práctica
 ```
 
+Para una **estimación de horas y factores de incremento** LOMCE–LOMLOE (SCM, TALIS, escenarios autonómicos): [carga-burocratica-lomce-lomloe-scm.md](carga-burocratica-lomce-lomloe-scm.md).
+
 ---
 
 ## 10. Tabla comparativa histórica
@@ -255,7 +259,8 @@ Evidencia empírica contemporánea (TALIS 2024, secundaria inferior / ISCED 2):
 
 El problema **no se reduce** al número absoluto de horas administrativas (España no está por encima de la media OCDE en ese indicador). La relación entre burocracia y estrés depende también de la **naturaleza y fragmentación de las tareas** (trazabilidad, evidencias, actualizaciones normativas) y de cómo interfieren con enseñar y relacionarse con el alumnado.
 
-Ficha completa del estudio (diseño, límites, cuadro ampliado): **[TALIS — ficha sintética](talis-ficha-sintetica.md)**.
+Ficha completa del estudio (diseño, límites, cuadro ampliado): **[TALIS — ficha sintética](talis-ficha-sintetica.md)**.  
+Estimación por escenarios y factor 3×: **[Carga burocrática LOMCE–LOMLOE (SCM)](carga-burocratica-lomce-lomloe-scm.md)**.
 
 ---
 
@@ -299,6 +304,8 @@ Esta pregunta conecta directamente con el análisis del posible desplazamiento h
 
 ## Para seguir
 
+- [**Carga burocrática LOMCE–LOMLOE (SCM, TALIS, CCAA)**](carga-burocratica-lomce-lomloe-scm.md)
 - [Tema 1 — Evolución histórica y paradigmas](../apuntes/01-evolucion-historica-sistema-educativo-paradigmas.md)
 - [TALIS — ficha sintética](talis-ficha-sintetica.md)
+- [Termómetro de opinión — LOMLOE e itinerarios](termometro-opinion-lomloe-itinerarios.md)
 - 🎧 [Podcast: De la tiza al colapso burocrático](../../../08-podcasts/episodios/De_la_tiza_al_colapso_burocrático.m4a) · [guion](../../../08-podcasts/guiones/Evoluci%C3%B3n%20hist%C3%B3rica%20del%20sistema%20educativo%20espa%C3%B1ol%20y%20paradigmas%20educativos.md)
