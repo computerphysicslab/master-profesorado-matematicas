@@ -3,7 +3,8 @@
 Estructuración temática de las asignaturas del departamento de Matemáticas para ESO y Bachillerato, orientada al Máster del Profesorado y adaptada al currículo de la **Comunidad Autónoma de Aragón**.
 
 > **Ubicación en el repo:** material de apoyo de [Diseño curricular e instruccional de Matemáticas](../../README.md).  
-> Complementa [asignaturas-eso-bachillerato](../asignaturas-eso-bachillerato/), [curriculo-lomloe](../curriculo-lomloe/) y [plantillas](../plantillas/).
+> Complementa [asignaturas-eso-bachillerato](../asignaturas-eso-bachillerato/), [curriculo-lomloe](../curriculo-lomloe/) y [plantillas](../plantillas/).  
+> **Contexto político-normativo autonómico (no solo temario):** [Política educativa en Aragón — estudio comparado](../../../procesos-y-contextos-educativos/materiales/politica-educativa-aragon-estudio-comparado.md).
 
 ## Marco normativo
 
@@ -57,6 +58,7 @@ Relacionada con las plantillas genéricas de la asignatura: [programacion-anual]
 - **Diseño curricular (bloques 3–4):** concreción autonómica de competencias específicas, criterios y saberes básicos.
 - **Practicum / programación didáctica:** base para elaborar la programación del centro de prácticas en Aragón.
 - **Contenidos disciplinares:** contraste entre temario y sentidos matemáticos LOMLOE.
+- **Procesos y contextos:** marco político e inclusión autonómica en el [estudio comparado de política educativa en Aragón](../../../procesos-y-contextos-educativos/materiales/politica-educativa-aragon-estudio-comparado.md).
 
 ## Nota
 
