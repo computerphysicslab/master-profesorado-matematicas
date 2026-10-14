@@ -14,6 +14,7 @@ Recursos prácticos orientados al aula de Matemáticas.
 |----------|------------|
 | [Carga cognitiva en Matemáticas](carga-cognitiva-matematicas.md) | Tema 4 — memoria de trabajo, diseño de tareas |
 | [**Memoria, práctica y transferencia**](memoria-practica-transferencia-matematicas.md) | Tema 4 — recuperación, espaciado, intercalado |
+| [**Técnicas de estudio basadas en evidencia**](tecnicas-estudio-basadas-en-evidencia.md) | Tema 4 — catálogo alumnado/docente + sueño y consolidación |
 | [ZDP y andamiaje en Matemáticas](zdp-andamiaje-matematicas.md) | Tema 4 — mediación y ayuda temporal |
 | [Funciones ejecutivas en Matemáticas](funciones-ejecutivas-matematicas.md) | Tema 4 — inhibición, flexibilidad, planificación |
 | [**Evidencia en psicología educativa**](evidencia-psicologia-educativa.md) | Transversal — correlación, efectos, neuromitos |
