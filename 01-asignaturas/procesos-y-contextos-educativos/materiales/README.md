@@ -13,6 +13,7 @@ Recursos prácticos y transversales (citables desde otras asignaturas y el pract
 | [**Comunicación con familias (Matemáticas)**](../../sociedad-familia-y-procesos-grupales/materiales/comunicacion-con-familias-matematicas.md) | 3 · tutoría · SFYPG |
 | [Mapa del sistema educativo](mapa-sistema-educativo.md) | 2 |
 | [**Política educativa en Aragón (estudio comparado)**](politica-educativa-aragon-estudio-comparado.md) | 2–4 · marco estatal, singularidades, aplicación |
+| [**Termómetro de opinión — LOMLOE e itinerarios**](termometro-opinion-lomloe-itinerarios.md) | 1–2 · encuestas, límites de evidencia, no el diálogo completo |
 | [Órganos y documentos de centro](organos-y-documentos-de-centro.md) | 3 |
 | [Mapa de medidas de atención a la diversidad](mapa-medidas-atencion-diversidad.md) | 4 |
 | [Estructuras de aprendizaje cooperativo](estructuras-aprendizaje-cooperativo.md) | 4–5 |
