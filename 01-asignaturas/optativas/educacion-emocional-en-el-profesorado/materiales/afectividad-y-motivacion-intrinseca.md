@@ -5,6 +5,8 @@
 
 > El profesor no es terapeuta. Sí diseña tareas, feedback y normas de aula que **protegen** la motivación de calidad.
 
+**Relacionado:** [Emociones académicas — teoría control-valor (Pekrun)](emociones-academicas-pekrun.md) · [Autoeficacia matemática](../../psicologia-del-desarrollo-y-de-la-educacion/materiales/autoeficacia-matematica.md)
+
 ---
 
 ## 1. Qué conecta afecto y motivación
@@ -23,6 +25,8 @@ Cadena práctica:
 Emoción en la tarea  →  interpretación (“puedo / no puedo”, “tiene sentido / no”)
         →  calidad de la motivación  →  persistencia y aprendizaje
 ```
+
+Esa interpretación de “puedo” y “tiene sentido” es el núcleo de la [teoría control-valor de Pekrun](emociones-academicas-pekrun.md).
 
 ---
 
@@ -123,7 +127,7 @@ Límites: este recurso no sustituye prevención de riesgos laborales ni atenció
 
 ## 8. Glosario express
 
-**Motivación intrínseca / extrínseca** · **Autodeterminación** · **Autonomía, competencia, relación** · **Ansiedad matemática** · **Eustrés / distrés** · **Flow** · **Sentido socioafectivo** · **Clima de aula**
+**Motivación intrínseca / extrínseca** · **Autodeterminación** · **Autonomía, competencia, relación** · **Ansiedad matemática** · **Eustrés / distrés** · **Flow** · **Sentido socioafectivo** · **Clima de aula** · **Control percibido / valor de la tarea** (Pekrun)
 
 Definiciones ampliadas: [glosario de la asignatura](../glosario.md).
 
@@ -132,6 +136,7 @@ Definiciones ampliadas: [glosario de la asignatura](../glosario.md).
 ## 9. Lecturas de anclaje (orientativas)
 
 - Deci, E. L., & Ryan, R. M. — teoría de la autodeterminación (motivación intrínseca y necesidades básicas).  
+- Pekrun, R. (2006) — teoría control-valor de las emociones de logro ([ficha](emociones-academicas-pekrun.md)).  
 - Trabajos sobre **math anxiety** y rendimiento (meta-análisis recientes en psicología educativa).  
 - CASEL / educación emocional: competencias que sostienen el engagement.  
 - Bibliografía de la optativa: [bibliografia.md](../bibliografia.md).
@@ -140,8 +145,10 @@ Definiciones ampliadas: [glosario de la asignatura](../glosario.md).
 
 ## Material relacionado en el máster
 
+- [Emociones académicas — Pekrun](emociones-academicas-pekrun.md)  
 - [Apuntes: naturaleza de la emoción](../apuntes/02-naturaleza-de-la-emocion.md)  
 - [Apuntes: competencias emocionales](../apuntes/03-competencias-emocionales-instrumentos.md)  
+- [Autoeficacia matemática](../../psicologia-del-desarrollo-y-de-la-educacion/materiales/autoeficacia-matematica.md)  
 - [DUA](../../procesos-y-contextos-educativos/materiales/dua-diseno-universal-aprendizaje.md)  
 - [Comparativa de paradigmas en una tarea](../../procesos-y-contextos-educativos/materiales/comparativa-paradigmas-tarea-matematicas.md)  
 - Diseño curricular — sentido socioafectivo y evaluación alineada  
