@@ -17,10 +17,12 @@ parent: Situaciones de aprendizaje
 | **Nivel / curso** | 4.º ESO (Matemáticas) · adaptable a 1.º Bachillerato |
 | **Duración** | 8–10 sesiones × 50–55 min |
 | **Autor/a de la ficha** | Material del repositorio |
-| **Fecha / versión** | 2026-10-14 · v1.0 |
+| **Fecha / versión** | 2026-10-14 · v1.1 |
 | **Contexto de uso** | Diseño curricular / Practicum / TFM / dimensión histórica |
 
 **Palabras clave:** constantes, π, *e*, razón áurea, irracionales, trascendentes, historia de las matemáticas, ABP, socioafectivo
+
+**Anexo de consulta en profundidad:** [Contexto histórico y matemático de las constantes](anexo-contexto-historico-constantes.md)
 
 ---
 
@@ -106,13 +108,12 @@ No se pretende un curso de teoría de números: se pretende **criterio** al habl
 |--------|------|------------------------|-------------|--------------|
 | 1 | Activación | Observar la tabla SVG; clasificar constantes conocidas / desconocidas; lluvia de ideas sobre «¿qué es una constante?» | Presentar el reto del museo; no adelantar fichas completas | Individual → clase |
 | 2 | Exploración guiada | Mini-taller común: π (razón L/D) y √2 (diagonal); medición o construcción | Andamiaje geométrico; conectar con [falacia π=4](sa-falacia-pi-4-4eso.md) si conviene | Parejas / equipos |
-| 3 | Asignación e investigación | Cada equipo recibe 2–3 constantes; busca definición, tipo de número, historia breve, aplicación | Facilitar fuentes fiables; lista de criterios del panel | Equipos 3–4 |
+| 3 | Asignación e investigación | Cada equipo recibe 2–3 constantes; consulta el [anexo histórico](anexo-contexto-historico-constantes.md) y otras fuentes; redacta definición, tipo, historia breve, aplicación | Facilitar criterios del panel; evitar copia literal del anexo | Equipos 3–4 |
 | 4–5 | Profundización | Construcción GeoGebra o cálculo (p. ej. aproximar *e* o φ); contrastar mitos (p. ej. φ «en todo el arte») | Revisar borradores; señalar afirmaciones sin prueba | Equipos |
 | 6–7 | Producto | Diseño del estandarte / infografía; ensayo de exposición | Checklist de calidad del panel | Equipos |
 | 8 | Museo | Montaje y visita rotativa; preguntas entre equipos | Moderar; registrar evidencia de CE | Grupo-clase |
 | 9 (opc.) | Síntesis | Mapa colectivo de relaciones (π–τ, *e*–ln, φ–Fibonacci…); autoevaluación | Cierre conceptual | Clase |
-| 10 (opc. Bach.) | Ampliación | Límite de (1+1/*n*)^*n*; serie de ln 2; idea de trascendencia | Nivel Bachillerato | Equipos /
-individual |
+| 10 (opc. Bach.) | Ampliación | Límite de $(1+1/n)^n$; serie de ln 2; idea de trascendencia | Nivel Bachillerato | Equipos / individual |
 
 **Hito intermedio (sesión 5):** borrador del panel con definición + una fuente citada por constante.
 
@@ -123,7 +124,7 @@ individual |
 - **Enfoque:** ABP / investigación guiada + exposición.
 - **Agrupamientos:** equipos heterogéneos de 3–4; roles (documentalista, matemático, diseñador, portavoz).
 - **Espacios:** aula; opcional aula de informática (GeoGebra, búsqueda).
-- **Materiales:** tabla SVG (impresa o proyectada); regla/compás; calculadora; cartulinas o plantilla digital; lista de fuentes recomendadas (Anexo).
+- **Materiales:** tabla SVG; [anexo histórico-matemático](anexo-contexto-historico-constantes.md); regla/compás; calculadora; cartulinas o plantilla digital.
 
 ---
 
@@ -148,7 +149,7 @@ individual |
 | Comunicación y representación | Panel legible; exposición clara | 25 % |
 | Proceso socioafectivo | Cooperación; revisión de fuentes; respeto en el museo | 20 % |
 
-**Alineación:** se valora la **calidad del argumento y de las fuentes**, no la memorización de quince decimales.
+**Alineación:** se valora la **calidad del argumento y de las fuentes**, no la memorización de quince decimales ni la copia del anexo.
 
 ### 8.3. Autoevaluación y coevaluación
 
@@ -165,7 +166,7 @@ individual |
 | **Acción y expresión** | Panel escrito, oral, digital; plantilla con huecos |
 
 **Refuerzo:** constantes prioritarias π, *e*, φ, √2; ficha modelo rellenada a medias.  
-**Ampliación:** γ (problema abierto de racionalidad), ζ(3), *C*₂, Feigenbaum; conexión con series o caos a nivel divulgativo.
+**Ampliación:** γ (problema abierto), ζ(3), *C*₂, Feigenbaum; [anexo](anexo-contexto-historico-constantes.md) completo.
 
 ---
 
@@ -184,10 +185,10 @@ individual |
 ## 11. Orientaciones para la implementación
 
 - **Dificultades:** saturación si se exigen las 15 constantes; mitos sobre φ; confusión irracional/trascendente.
-- **Anticipación:** repartir **2–3 constantes por equipo**; exigir siempre definición + una fuente; usar el Anexo como referencia, no como texto para copiar.
+- **Anticipación:** repartir **2–3 constantes por equipo**; exigir siempre definición + una fuente; usar el [anexo histórico](anexo-contexto-historico-constantes.md) como **consulta**, no como texto para copiar.
 - **Variante corta (5–6 sesiones):** solo π, *e*, φ, √2, *i* + museo reducido.
 - **Variante Bachillerato:** añadir límites y series; discusión breve de trascendencia (Gelfond–Schneider a nivel idea).
-- **Precisión:** la racionalidad de **γ** (Euler–Mascheroni) **sigue abierta**; no presentarla como demostrada.
+- **Precisión:** la racionalidad de **γ** y de **$G$** **sigue abierta**; no presentarlas como demostradas.
 
 ---
 
@@ -199,8 +200,8 @@ individual |
 - Aragón: Orden ECD/1172/2022 y Orden ECD/867/2024 (concreción curricular ESO).
 
 ### Didáctica y recursos
-1. Valores y definiciones estándar (manuales de análisis / teoría de números a nivel divulgativo).
-2. OEIS / referencias clásicas para series (Catalan, Apéry, primos gemelos) — uso docente.
+1. [**Anexo: contexto histórico y matemático de las constantes**](anexo-contexto-historico-constantes.md) (consulta en profundidad).
+2. Manuales de análisis / teoría de números a nivel divulgativo.
 3. Hartl, M. — *The Tau Manifesto* (debate π vs τ; lectura crítica, no dogma).
 
 ### Materiales del repositorio
@@ -213,24 +214,22 @@ individual |
 
 ---
 
-## 13. Anexo — Fichas rápidas de las constantes (referencia docente / equipos)
+## 13. Resumen rápido de constantes (vista corta)
 
-> Uso: **consulta**, no texto para copiar literalmente en el panel. Priorizar definición y una propiedad clave.
+> Detalle ampliado: **[anexo histórico y matemático](anexo-contexto-historico-constantes.md)**.
 
-1. **π** — Razón longitud/diámetro de la circunferencia. Irracional y trascendente. Arquímedes (polígonos); símbolo popularizado vía Euler.
-2. ***e*** — Base del logaritmo natural; $$e = \lim_{n\to\infty}\left(1+\frac{1}{n}\right)^n$$. Derivada de $$e^x$$ es ella misma. Bernoulli / Euler.
-3. ***i*** — $$i^2 = -1$$. Números complejos. Cardano, Bombelli; símbolo *i* (Euler); legitimación con Gauss.
-4. **φ** — $$\varphi = \frac{1+\sqrt{5}}{2}$$. Extrema y media razón (Euclides). Pacioli / arte del Renacimiento (con prudencia ante mitos).
-5. **γ** (Euler–Mascheroni) — $$\gamma = \lim_{n\to\infty}\big(H_n - \ln n\big)$$. **No se sabe** si es racional o irracional.
-6. **√2** — Diagonal del cuadrado unidad. Irracional; crisis pitagórica (tradición de Hipaso).
-7. **ln 2** — Área bajo $$1/x$$ en [1, 2]; serie alternada de Mercator. Tiempo de duplicación / semivida.
-8. **τ** — $$\tau = 2\pi$$ (razón longitud/radio). Debate contemporáneo (Palais, Hartl); no sustituye el currículo de π.
-9. ***e*^(π)** (constante de Gelfond) — Ejemplo de trascendente ligado a resultados tipo Gelfond–Schneider.
-10. **δ** (Feigenbaum) — Tasa universal de bifurcaciones hacia el caos en mapas unidimensionales.
-11. **ζ(3)** (Apéry) — $$\sum 1/n^3$$. Apéry (1979): irracionalidad de ζ(3).
-12. ***G*** (Catalan) — $$\sum_{n=0}^{\infty}(-1)^n/(2n+1)^2$$.
-13. ***K*₀** (Khinchin) — Media geométrica típica de coeficientes de fracciones continuas.
-14. ***K*** (Sierpiński) — Constante ligada al orden medio de representaciones como suma de dos cuadrados / problema del círculo de Gauss.
-15. ***C*₂** (primos gemelos) — Producto de Hardy–Littlewood en la conjetura de densidades de primos gemelos.
-
-**Precauciones de rigor:** no afirmar la racionalidad/irracionalidad de γ; no exagerar la presencia de φ en el arte o la naturaleza; distinguir valor numérico, definición y teorema.
+1. **π** — Razón longitud/diámetro. Irracional y trascendente. Arquímedes / Euler.  
+2. ***e*** — $\lim(1+1/n)^n$; $e^x$ = su derivada. Bernoulli / Euler.  
+3. ***i*** — $i^2=-1$. Complejos. Cardano, Bombelli, Euler, Gauss.  
+4. **φ** — $(1+\sqrt{5})/2$. Euclides; Pacioli (prudencia con mitos artísticos).  
+5. **γ** — $H_n - \ln n$. Racionalidad **abierta**.  
+6. **√2** — Diagonal del cuadrado. Crisis pitagórica.  
+7. **ln 2** — $\int_1^2 dx/x$; serie de Mercator.  
+8. **τ** — $2\pi$. Debate didáctico (Palais, Hartl).  
+9. ***e*^(π)** — Trascendente (línea Gelfond–Schneider).  
+10. **δ** (Feigenbaum) — Bifurcaciones y caos.  
+11. **ζ(3)** (Apéry) — $\sum 1/n^3$; irracional.  
+12. ***G*** (Catalan) — Serie alternada de impares al cuadrado; racionalidad abierta.  
+13. ***K*₀** (Khinchin) — Media geométrica de coeficientes de fracciones continuas.  
+14. ***K*** (Sierpiński) — Problema del círculo / sumas de dos cuadrados.  
+15. ***C*₂** — Hardy–Littlewood; densidades de primos gemelos (conjetural).
