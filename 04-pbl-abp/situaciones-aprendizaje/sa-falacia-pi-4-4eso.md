@@ -52,7 +52,7 @@ Es relevante porque:
 - Desarrolla el sentido crítico ante demostraciones «obvias» y refuerza la necesidad de justificar por qué una aproximación es válida.
 - Conecta con el sentido de la medida y el espacial de forma no rutinaria.
 
-**Historia matemática hermana (opcional):** el método de Arquímedes con polígonos regulares inscritos y circunscritos, que *sí* produce una aproximación legítima de π. En el repo: [Hamlet y los dígitos de π](sa-hamlet-pi-4eso.md) (otro enfoque sobre π).
+**SA hermanas:** [Hamlet y los dígitos de π](sa-hamlet-pi-4eso.md) · [Constantes matemáticas](sa-constantes-matematicas-4eso.md) · método de Arquímedes (polígonos regulares).
 
 ---
 
@@ -60,7 +60,7 @@ Es relevante porque:
 
 1. Reconstruir con precisión la sucesión de polígonos de la falacia y verificar que el perímetro se conserva en cada paso.
 2. Identificar y explicar el error lógico-matemático: la convergencia de las curvas (en distancia) no implica la convergencia de las longitudes.
-3. Contrastar la construcción falaz con una aproximación legítima mediante polígonos regulares (perímetro que sí tiende a \(2\pi r\)).
+3. Contrastar la construcción falaz con una aproximación legítima mediante polígonos regulares (perímetro que sí tiende a $2\pi r$).
 4. Formular un argumento claro, oral o escrito, que desmonte la falacia sin limitarse a «π no es 4».
 5. Reflexionar sobre la importancia de la continuidad de la función longitud y sobre la gestión del error cuando un razonamiento «parece» correcto.
 
@@ -89,7 +89,7 @@ Es relevante porque:
 |---------|----------------------|----------|
 | Espacial | Circunferencia, polígonos, aproximación de curvas, distancia entre curvas | Alta |
 | De la medida | Longitud de arco / perímetro; conservación de longitud bajo recortes; no continuidad de la longitud | Alta |
-| Algebraico | Sucesiones; idea informal de límite; contraste \(\lim\) longitud ≠ longitud del límite | Media–Alta |
+| Algebraico | Sucesiones; idea informal de límite; contraste $\lim$ longitud $\neq$ longitud del límite | Media–Alta |
 | Numérico | Valor de π; comparación numérica de perímetros de polígonos regulares | Media |
 | Socioafectivo | Gestión del error; tolerancia a la frustración ante argumentos persuasivos; argumentación respetuosa | Alta |
 | Estocástico | N/A | Baja |
@@ -104,7 +104,7 @@ Es relevante porque:
 |--------|------|------------------------|-------------|--------------|
 | 1 | Activación / reto | Observación de la imagen; lluvia de ideas: «¿dónde está el truco?»; reconstrucción colectiva de los primeros pasos; hipótesis iniciales por escrito | Presentar la imagen **sin** dar la solución; recoger hipótesis en pizarra | Individual → clase |
 | 2 | Exploración | Verificar experimentalmente (papel, regla o GeoGebra) que el perímetro se mantiene constante; dibujar 3–4 iteraciones; medir o calcular longitudes | Andamiaje con preguntas («¿qué se conserva? ¿qué cambia?»); evitar adelantar el diagnóstico | Equipos de 3–4 |
-| 3 | Contraste | Construir o calcular perímetros de polígonos regulares de 4, 8, 16… lados inscritos/circunscritos; observar que el perímetro sí se aproxima a \(2\pi r\); comparar ambas sucesiones | Introducir la distinción convergencia de formas vs. convergencia de longitudes | Equipos |
+| 3 | Contraste | Construir o calcular perímetros de polígonos regulares de 4, 8, 16… lados inscritos/circunscritos; observar que el perímetro sí se aproxima a $2\pi r$; comparar ambas sucesiones | Introducir la distinción convergencia de formas vs. convergencia de longitudes | Equipos |
 | 4 | Formalización y producto | Redactar el informe: localizar el fallo, explicar por qué la longitud no es continua, contrastar con Arquímedes/polígonos regulares; preparar exposición breve | Revisar borradores; ofrecer plantilla de estructura del informe | Equipos |
 | 5 | Comunicación y cierre | Presentaciones o puesta en común; debate sobre otras falacias visuales; autoevaluación socioafectiva; síntesis docente | Moderar; celebrar la diversidad de formulaciones correctas del error | Grupo-clase |
 
@@ -209,7 +209,7 @@ Registro: observación de proceso + ítems de la autoevaluación de cierre.
 ### Materiales del repositorio
 - [Plantilla SA](plantilla-situacion-aprendizaje.md)
 - [07-evaluacion](../../07-evaluacion/) (instrumentos y rúbricas)
-- SA relacionadas: [Eratóstenes](sa-eratostenes-3eso.md) · [Hamlet y los dígitos de π](sa-hamlet-pi-4eso.md)
+- SA relacionadas: [Eratóstenes](sa-eratostenes-3eso.md) · [Hamlet y los dígitos de π](sa-hamlet-pi-4eso.md) · [Constantes matemáticas](sa-constantes-matematicas-4eso.md)
 - Diagrama: [media/falacia-pi-4.svg](media/falacia-pi-4.svg)
 
 ---
