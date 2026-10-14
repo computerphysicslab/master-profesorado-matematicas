@@ -1,0 +1,90 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 1150" width="100%" height="100%" style="background-color: #d8d8d8; font-family: 'Times New Roman', Times, serif;">
+  <style>
+    .title { font-size: 32px; font-weight: bold; fill: #000000; text-anchor: middle; font-family: 'Georgia', 'Times New Roman', serif; }
+    .header-text { font-size: 16px; font-weight: bold; fill: #000000; letter-spacing: 1.5px; }
+    .label-bold { font-size: 16px; font-weight: bold; fill: #000000; }
+    .label-regular { font-size: 16px; font-weight: normal; fill: #000000; }
+    .math-text { font-size: 17px; font-style: italic; fill: #000000; font-family: 'Times New Roman', Times, serif; }
+    .math-upright { font-size: 17px; font-style: normal; fill: #000000; font-family: 'Times New Roman', Times, serif; }
+    .val-text { font-size: 16px; fill: #000000; font-family: 'Times New Roman', Times, serif; letter-spacing: 0.5px; }
+    .table-border { stroke: #000000; stroke-width: 2; fill: none; }
+    .grid-line { stroke: #7a7a7a; stroke-width: 1; }
+    .subscript { font-size: 12px; font-style: normal; }
+    .superscript { font-size: 12px; font-style: normal; }
+  </style>
+  <rect width="100%" height="100%" fill="#d8d8d8"/>
+  <text x="400" y="70" class="title">Constantes Matemáticas</text>
+  <rect x="50" y="120" width="700" height="970" class="table-border"/>
+  <line x1="335" y1="120" x2="335" y2="1090" class="grid-line"/>
+  <line x1="480" y1="120" x2="480" y2="1090" class="grid-line"/>
+  <line x1="50" y1="180" x2="750" y2="180" stroke="#000000" stroke-width="1.5"/>
+  <line x1="50" y1="240" x2="750" y2="240" class="grid-line"/>
+  <line x1="50" y1="300" x2="750" y2="300" class="grid-line"/>
+  <line x1="50" y1="360" x2="750" y2="360" class="grid-line"/>
+  <line x1="50" y1="420" x2="750" y2="420" class="grid-line"/>
+  <line x1="50" y1="480" x2="750" y2="480" class="grid-line"/>
+  <line x1="50" y1="540" x2="750" y2="540" class="grid-line"/>
+  <line x1="50" y1="600" x2="750" y2="600" class="grid-line"/>
+  <line x1="50" y1="660" x2="750" y2="660" class="grid-line"/>
+  <line x1="50" y1="720" x2="750" y2="720" class="grid-line"/>
+  <line x1="50" y1="780" x2="750" y2="780" class="grid-line"/>
+  <line x1="50" y1="840" x2="750" y2="840" class="grid-line"/>
+  <line x1="50" y1="900" x2="750" y2="900" class="grid-line"/>
+  <line x1="50" y1="960" x2="750" y2="960" class="grid-line"/>
+  <line x1="50" y1="1025" x2="750" y2="1025" class="grid-line"/>
+  <text x="192" y="156" class="header-text" text-anchor="middle">CONSTANTE</text>
+  <text x="407" y="156" class="header-text" text-anchor="middle">SÍMBOLO</text>
+  <text x="615" y="156" class="header-text" text-anchor="middle">VALOR APROX.</text>
+  <text x="65" y="216" class="label-bold">Pi <tspan class="label-regular">(constante del círculo)</tspan></text>
+  <text x="407" y="216" class="math-text" text-anchor="middle">π</text>
+  <text x="500" y="216" class="val-text">3.141592653589793...</text>
+  <text x="65" y="276" class="label-bold">Número de Euler</text>
+  <text x="407" y="276" class="math-text" text-anchor="middle">e</text>
+  <text x="500" y="276" class="val-text">2.718281828459045...</text>
+  <text x="65" y="336" class="label-bold">Unidad imaginaria</text>
+  <text x="407" y="336" class="math-text" text-anchor="middle">i</text>
+  <g transform="translate(500, 320)">
+    <text x="0" y="16" class="math-text">i =</text>
+    <path d="M 28 14 L 32 23 L 38 4 L 70 4" fill="none" stroke="#000000" stroke-width="1.3" stroke-linecap="round" stroke-linejoin="round"/>
+    <text x="42" y="16" class="math-text" letter-spacing="-1.0">−1</text>
+  </g>
+  <text x="65" y="396" class="label-bold">Razón áurea</text>
+  <text x="407" y="396" class="math-text" text-anchor="middle">φ</text>
+  <text x="500" y="396" class="val-text">1.618033988749895...</text>
+  <text x="65" y="456" class="label-bold">Constante de Euler-Mascheroni</text>
+  <text x="407" y="456" class="math-text" text-anchor="middle">γ</text>
+  <text x="500" y="456" class="val-text">0.577215664901533...</text>
+  <text x="65" y="516" class="label-bold">Raíz cuadrada de 2</text>
+  <g transform="translate(395, 498)">
+    <path d="M 0 14 L 4 22 L 10 3 L 26 3" fill="none" stroke="#000000" stroke-width="1.2" stroke-linecap="round" stroke-linejoin="round"/>
+    <text x="13" y="17" class="math-text">2</text>
+  </g>
+  <text x="500" y="516" class="val-text">1.414213562373095...</text>
+  <text x="65" y="576" class="label-bold">Logaritmo natural de 2</text>
+  <text x="407" y="576" text-anchor="middle"><tspan class="math-upright">ln </tspan><tspan class="math-text">2</tspan></text>
+  <text x="500" y="576" class="val-text">0.693147180559945...</text>
+  <text x="65" y="636" class="label-bold">Tau</text>
+  <text x="407" y="636" class="math-text" text-anchor="middle">τ</text>
+  <text x="500" y="636" class="val-text">6.283185307179586...</text>
+  <text x="65" y="696" class="label-bold">Constante de Gelfond</text>
+  <text x="407" y="696" class="math-text" text-anchor="middle">e<tspan dy="-7" class="superscript">π</tspan></text>
+  <text x="500" y="696" class="val-text">23.140692632779269...</text>
+  <text x="65" y="756" class="label-bold">Constante de Feigenbaum</text>
+  <text x="407" y="756" class="math-text" text-anchor="middle">δ</text>
+  <text x="500" y="756" class="val-text">4.669201609102990...</text>
+  <text x="65" y="816" class="label-bold">Constante de Apéry</text>
+  <text x="407" y="816" text-anchor="middle"><tspan class="math-text">ζ</tspan><tspan class="math-upright">(3)</tspan></text>
+  <text x="500" y="816" class="val-text">1.202056903159594...</text>
+  <text x="65" y="876" class="label-bold">Constante de Catalan</text>
+  <text x="407" y="876" class="math-text" text-anchor="middle">G</text>
+  <text x="500" y="876" class="val-text">0.915965594177219...</text>
+  <text x="65" y="936" class="label-bold">Constante de Khinchin</text>
+  <text x="407" y="936" class="math-text" text-anchor="middle">K<tspan dy="4" class="subscript">0</tspan></text>
+  <text x="500" y="936" class="val-text">2.685452001065306...</text>
+  <text x="65" y="996" class="label-bold">Constante de Sierpiński</text>
+  <text x="407" y="996" class="math-text" text-anchor="middle">K</text>
+  <text x="500" y="996" class="val-text">2.584981759579253...</text>
+  <text x="65" y="1060" class="label-bold">Constante de los primos gemelos</text>
+  <text x="407" y="1060" class="math-text" text-anchor="middle">C<tspan dy="4" class="subscript">2</tspan></text>
+  <text x="500" y="1060" class="val-text">0.660161815846869...</text>
+</svg>
