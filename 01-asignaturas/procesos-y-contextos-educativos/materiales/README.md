@@ -13,7 +13,8 @@ Recursos prácticos y transversales (citables desde otras asignaturas y el pract
 | [**Comunicación con familias (Matemáticas)**](../../sociedad-familia-y-procesos-grupales/materiales/comunicacion-con-familias-matematicas.md) | 3 · tutoría · SFYPG |
 | [Mapa del sistema educativo](mapa-sistema-educativo.md) | 2 |
 | [**Política educativa en Aragón (estudio comparado)**](politica-educativa-aragon-estudio-comparado.md) | 2–4 · marco estatal, singularidades, aplicación |
-| [**Termómetro de opinión — LOMLOE e itinerarios**](termometro-opinion-lomloe-itinerarios.md) | 1–2 · encuestas, límites de evidencia, no el diálogo completo |
+| [**Termómetro de opinión — LOMLOE e itinerarios**](termometro-opinion-lomloe-itinerarios.md) | 1–2 · encuestas, límites de evidencia |
+| [**Carga burocrática LOMCE–LOMLOE (SCM)**](carga-burocratica-lomce-lomloe-scm.md) | 1–2 · TALIS, escenarios, hipótesis 3× |
 | [Órganos y documentos de centro](organos-y-documentos-de-centro.md) | 3 |
 | [Mapa de medidas de atención a la diversidad](mapa-medidas-atencion-diversidad.md) | 4 |
 | [Estructuras de aprendizaje cooperativo](estructuras-aprendizaje-cooperativo.md) | 4–5 |
@@ -25,15 +26,16 @@ Recursos prácticos y transversales (citables desde otras asignaturas y el pract
 
 | Recurso | Tema |
 |---------|------|
-| [**Responsabilidad social, consenso y continuidad educativa**](responsabilidad-social-consenso-y-continuidad-educativa.md) | Tema 1 — Arendt, Dewey, Freire, Bourdieu; límites de la disputa partidista |
+| [**Responsabilidad social, consenso y continuidad educativa**](responsabilidad-social-consenso-y-continuidad-educativa.md) | Tema 1 — Arendt, Dewey, Freire, Bourdieu |
 | [**Mapa epistemológico de paradigmas**](mapa-epistemologico-paradigmas-educativos.md) | Tema 1 |
 | [**Comparativa PISA 2025**](leyes-educativas/comparativa-pisa-2025-y-sistemas-internacionales.md) | Tema 1 |
 | [Línea temporal de leyes](linea-temporal-leyes-educativas.md) | Tema 1 |
-| [Burocratización del trabajo docente](burocratizacion-trabajo-docente-analisis-historico.md) | Tema 1 |
+| [Burocratización del trabajo docente (histórico)](burocratizacion-trabajo-docente-analisis-historico.md) | Tema 1 |
+| [**Carga burocrática LOMCE–LOMLOE (SCM)**](carga-burocratica-lomce-lomloe-scm.md) | Tema 1 — estimación cuantitativa |
 | [TALIS — ficha sintética](talis-ficha-sintetica.md) | Tema 1 |
 | [Comparativa de paradigmas en una tarea de mates](comparativa-paradigmas-tarea-matematicas.md) | Tema 1 |
-| [**Referentes progresista / crítica / libertaria**](referentes-progresista-critica-libertaria.md) | Tema 1 — Dewey, Giner, Sensat, Ferrer, Freinet, Freire, Neill |
-| [**Corrientes pedagógicas e historia (síntesis)**](corrientes-pedagogicas-historia-sintesis.md) | Tema 1 — corriente vs método; tradicional; constructivismo; Escuela Nueva |
+| [**Referentes progresista / crítica / libertaria**](referentes-progresista-critica-libertaria.md) | Tema 1 |
+| [**Corrientes pedagógicas e historia (síntesis)**](corrientes-pedagogicas-historia-sintesis.md) | Tema 1 |
 
 ## Otros
 
