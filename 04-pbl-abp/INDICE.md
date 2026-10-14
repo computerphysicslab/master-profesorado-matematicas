@@ -24,6 +24,7 @@ Aprendizaje basado en proyectos y problemas · Situaciones de aprendizaje LOMLOE
 | [Hamlet y los dígitos de π](situaciones-aprendizaje/sa-hamlet-pi-4eso.md) | 4.º ESO / 1.º Bach | Numérico, estocástico |
 | [Monty Hall](situaciones-aprendizaje/sa-monty-hall-4eso.md) | 4.º ESO / 1.º Bach | Estocástico |
 | [**¿Es π igual a 4?** (falacia visual)](situaciones-aprendizaje/sa-falacia-pi-4-4eso.md) | 4.º ESO / 1.º Bach | Medida, espacial, argumentación |
+| [**Constantes matemáticas** (museo)](situaciones-aprendizaje/sa-constantes-matematicas-4eso.md) | 4.º ESO / 1.º Bach | Numérico, histórico, comunicación |
 
 **Plantilla:** [plantilla-situacion-aprendizaje.md](situaciones-aprendizaje/plantilla-situacion-aprendizaje.md)
 
@@ -45,4 +46,4 @@ Aprendizaje basado en proyectos y problemas · Situaciones de aprendizaje LOMLOE
 
 ---
 
-*Actualizado: 2026-10-14 (SA falacia π = 4).*
+*Actualizado: 2026-10-14 (SA constantes matemáticas).*
