@@ -2,7 +2,7 @@
 
 **Asignatura:** Psicología del desarrollo y de la educación  
 **Temas relacionados:** [5 — Motivación](../apuntes/05-motivacion-ensenanza-aprendizaje.md) · [1 — Adolescencia e identidad](../apuntes/01-desarrollo-adolescencia.md) · [2 — Diferencias individuales](../apuntes/02-diferencias-individuales-problemas-adolescencia.md)  
-**Materiales vinculados:** [Mindset y atribuciones](mindset-atribuciones-matematicas.md) · [Feedback efectivo](feedback-efectivo-matematicas.md) · [Gestión del error](gestion-del-error-matematicas.md) · [ZDP y andamiaje](zdp-andamiaje-matematicas.md)
+**Materiales vinculados:** [Mindset y atribuciones](mindset-atribuciones-matematicas.md) · [Feedback efectivo](feedback-efectivo-matematicas.md) · [Gestión del error](gestion-del-error-matematicas.md) · [ZDP y andamiaje](zdp-andamiaje-matematicas.md) · [Emociones académicas (Pekrun)](../../optativas/educacion-emocional-en-el-profesorado/materiales/emociones-academicas-pekrun.md)
 
 ---
 
@@ -23,6 +23,8 @@ Un alumno puede *saber* más de lo que *cree* que puede (subestima y evita) o al
 
 En Matemáticas, la autoeficacia condiciona: qué problemas intenta, cuánto persiste, si pide ayuda y cómo interpreta el error.
 
+En términos de emociones de logro, la autoeficacia es una forma central de **control percibido** (véase [Pekrun — control-valor](../../optativas/educacion-emocional-en-el-profesorado/materiales/emociones-academicas-pekrun.md)).
+
 ---
 
 ## 2. Fuentes de autoeficacia (y lectura docente)
@@ -35,6 +37,8 @@ En Matemáticas, la autoeficacia condiciona: qué problemas intenta, cuánto per
 | **Estado fisiológico / afectivo** | Ansiedad, bloqueo, “me quedo en blanco” | Ignorar la ansiedad matemática |
 
 La fuente más potente suele ser el **logro de dominio** bien dosificado (reto alcanzable con esfuerzo).
+
+**Matiz sobre la experiencia vicaria:** observar a un compañero que termina mucho antes puede **bajar** la autoeficacia si el modelo se percibe como inalcanzable. Ayuda más un modelo similar que muestra el **proceso** (incluidos errores y correcciones) que el “genio” que solo exhibe el resultado.
 
 ---
 
@@ -122,4 +126,5 @@ La autoeficacia se construye con **evidencias de dominio**, no solo con discurso
 - [Feedback efectivo](feedback-efectivo-matematicas.md)  
 - [Gestión del error](gestion-del-error-matematicas.md)  
 - [ZDP y andamiaje](zdp-andamiaje-matematicas.md)  
+- [Emociones académicas — Pekrun](../../optativas/educacion-emocional-en-el-profesorado/materiales/emociones-academicas-pekrun.md)  
 - [Tema 5 — Motivación](../apuntes/05-motivacion-ensenanza-aprendizaje.md)  
