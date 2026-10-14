@@ -12,6 +12,7 @@ Recursos prácticos y transversales (citables desde otras asignaturas y el pract
 | [**Gestión de aula y disrupción (Matemáticas)**](gestion-aula-disrupcion-matematicas.md) | 3–5 · prevención e intervención cotidiana |
 | [**Comunicación con familias (Matemáticas)**](../../sociedad-familia-y-procesos-grupales/materiales/comunicacion-con-familias-matematicas.md) | 3 · tutoría · SFYPG |
 | [Mapa del sistema educativo](mapa-sistema-educativo.md) | 2 |
+| [**Política educativa en Aragón (estudio comparado)**](politica-educativa-aragon-estudio-comparado.md) | 2–4 · marco estatal, singularidades, aplicación |
 | [Órganos y documentos de centro](organos-y-documentos-de-centro.md) | 3 |
 | [Mapa de medidas de atención a la diversidad](mapa-medidas-atencion-diversidad.md) | 4 |
 | [Estructuras de aprendizaje cooperativo](estructuras-aprendizaje-cooperativo.md) | 4–5 |
