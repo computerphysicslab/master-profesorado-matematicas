@@ -43,6 +43,16 @@
 
 *(Desarrollo más detallado de la distinción A/B y sus implicaciones formativas: [material de asignaturas](../materiales/asignaturas-eso-bachillerato/).)*
 
+### Concreción autonómica (Aragón)
+
+El marco estatal (RD 217/2022) se desarrolla en cada comunidad. En Aragón, la ESO se concreta principalmente en la **Orden ECD/1172/2022** y su modificación **ECD/867/2024**. Para el detalle de competencias, criterios y saberes de Matemáticas por curso:
+
+→ [Temarios Matemáticas LOMLOE Aragón](../materiales/temarios-matematicas-aragon/)
+
+Para distinguir marco estatal, desarrollo aragonés y **aplicación efectiva** (autoridad docente, inclusión, ruralidad, lenguas propias):
+
+→ [Política educativa en Aragón — estudio comparado](../../procesos-y-contextos-educativos/materiales/politica-educativa-aragon-estudio-comparado.md)
+
 ---
 
 ## 3. Evolución normativa (síntesis)
