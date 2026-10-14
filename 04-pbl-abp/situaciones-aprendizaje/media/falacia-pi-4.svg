@@ -1,43 +1,136 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 440 640" font-family="DejaVu Sans, Arial, Helvetica, sans-serif">
-  <rect width="440" height="640" fill="#ffffff"/>
-  <text x="220" y="18" text-anchor="middle" font-size="11" fill="#666">Falacia visual: perímetro constante (= 4) mientras la forma se aproxima a la circunferencia</text>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 780" width="100%" height="100%" style="background-color: #f8fafc; font-family: 'Comic Sans MS', 'Caveat', 'Comic Neue', cursive, sans-serif;">
+  <defs>
+    <!-- Fondo de papel pautado -->
+    <pattern id="ruled-paper" width="100" height="24" patternUnits="userSpaceOnUse">
+      <line x1="0" y1="24" x2="100" y2="24" stroke="#d0d7de" stroke-width="1" />
+    </pattern>
 
-  <text x="16" y="55" fill="#c62828" font-size="17" font-weight="700">Step 1:</text>
-  <rect x="100" y="30" width="72" height="72" fill="none" stroke="#1565c0" stroke-width="2.2"/>
-  <circle cx="136" cy="66" r="36" fill="none" stroke="#c62828" stroke-width="2"/>
-  <line x1="100" y1="24" x2="172" y2="24" stroke="#333" stroke-width="1"/>
-  <line x1="100" y1="21" x2="100" y2="27" stroke="#333"/>
-  <line x1="172" y1="21" x2="172" y2="27" stroke="#333"/>
-  <text x="136" y="20" text-anchor="middle" font-size="12">1</text>
-  <line x1="178" y1="30" x2="178" y2="102" stroke="#333" stroke-width="1"/>
-  <line x1="175" y1="30" x2="181" y2="30" stroke="#333"/>
-  <line x1="175" y1="102" x2="181" y2="102" stroke="#333"/>
-  <text x="188" y="70" font-size="12">1</text>
-  <text x="250" y="72" font-size="16" font-family="DejaVu Sans Mono, Consolas, monospace">P₀ = 4</text>
+    <!-- Flechas para cotas de medida -->
+    <marker id="arrow-start" viewBox="0 0 10 10" refX="3" refY="5" markerWidth="6" markerHeight="6" orient="auto">
+      <path d="M 10 1 L 1 5 L 10 9 z" fill="#1e293b" />
+    </marker>
+    <marker id="arrow-end" viewBox="0 0 10 10" refX="7" refY="5" markerWidth="6" markerHeight="6" orient="auto">
+      <path d="M 0 1 L 9 5 L 0 9 z" fill="#1e293b" />
+    </marker>
+  </defs>
 
-  <text x="16" y="155" fill="#c62828" font-size="17" font-weight="700">Step 2:</text>
-  <circle cx="136" cy="165" r="36" fill="none" stroke="#c62828" stroke-width="2"/>
-  <path d="M100,129 L172,129 L172,147 L154,147 L154,165 L172,165 L172,201 L154,201 L154,183 L136,183 L136,201 L118,201 L118,183 L100,183 L100,165 L118,165 L118,147 L100,147 Z" fill="none" stroke="#1565c0" stroke-width="2"/>
-  <text x="250" y="170" font-size="16" font-family="DejaVu Sans Mono, Consolas, monospace">P₁ = 4</text>
+  <!-- Papel de libreta -->
+  <rect width="600" height="780" fill="#f4f5f7" />
+  <rect width="600" height="780" fill="url(#ruled-paper)" />
+  <!-- Margen rojo vertical de la libreta -->
+  <line x1="75" y1="0" x2="75" y2="780" stroke="#f43f5e" stroke-width="1.5" opacity="0.7" />
 
-  <text x="16" y="255" fill="#c62828" font-size="17" font-weight="700">Step 3:</text>
-  <circle cx="136" cy="265" r="36" fill="none" stroke="#c62828" stroke-width="2"/>
-  <path d="M100,229 L118,229 L118,238 L127,238 L127,229 L136,229 L136,238 L145,238 L145,229 L154,229 L154,238 L163,238 L163,229 L172,229 L172,247 L163,247 L163,256 L172,256 L172,265 L163,265 L163,274 L172,274 L172,283 L163,283 L163,292 L172,292 L172,301 L163,301 L163,292 L154,292 L154,301 L145,301 L145,292 L136,292 L136,301 L127,301 L127,292 L118,292 L118,301 L100,301 L100,292 L109,292 L109,283 L100,283 L100,274 L109,274 L109,265 L100,265 L100,256 L109,256 L109,247 L100,247 Z" fill="none" stroke="#1565c0" stroke-width="1.6"/>
-  <text x="250" y="270" font-size="16" font-family="DejaVu Sans Mono, Consolas, monospace">P₂ = 4</text>
+  <g transform="translate(25, 0)">
+    
+    <!-- ================= STEP 1 ================= -->
+    <g transform="translate(0, 20)">
+      <!-- Texto Step 1 -->
+      <text x="70" y="80" fill="#dc2626" font-size="26" font-weight="bold" font-style="italic">Step 1 :</text>
+      
+      <!-- Cuadrado y Círculo -->
+      <g transform="translate(200, 30)">
+        <!-- Cuadrado exterior -->
+        <rect x="0" y="0" width="100" height="100" fill="none" stroke="#000000" stroke-width="2.5" />
+        <!-- Círculo rojo inscrito -->
+        <circle cx="50" cy="50" r="50" fill="none" stroke="#dc2626" stroke-width="2.5" />
+        
+        <!-- Cota Superior (medida 1) -->
+        <line x1="0" y1="-15" x2="100" y2="-15" stroke="#1e293b" stroke-width="1.5" marker-start="url(#arrow-start)" marker-end="url(#arrow-end)" />
+        <text x="50" y="-22" text-anchor="middle" fill="#0f172a" font-size="22" font-style="italic">1</text>
+        
+        <!-- Cota Derecha (medida 1) -->
+        <line x1="115" y1="0" x2="115" y2="100" stroke="#1e293b" stroke-width="1.5" marker-start="url(#arrow-start)" marker-end="url(#arrow-end)" />
+        <text x="127" y="58" text-anchor="start" fill="#0f172a" font-size="22" font-style="italic">1</text>
+      </g>
 
-  <text x="16" y="355" fill="#c62828" font-size="17" font-weight="700">Step 4:</text>
-  <circle cx="136" cy="365" r="36" fill="none" stroke="#c62828" stroke-width="2"/>
-  <circle cx="136" cy="365" r="37.5" fill="none" stroke="#1565c0" stroke-width="1.4" stroke-dasharray="2.5 1.5"/>
-  <text x="250" y="370" font-size="16" font-family="DejaVu Sans Mono, Consolas, monospace">Pₙ = 4</text>
+      <!-- Fórmula P_0 = 4 -->
+      <text x="380" y="80" fill="#0f172a" font-size="28" font-style="italic">
+        P<tspan font-size="18" dy="5">0</tspan><tspan dy="-5" font-style="normal"> = 4</tspan>
+      </text>
+    </g>
 
-  <text x="16" y="455" fill="#c62828" font-size="17" font-weight="700">Step 5:</text>
-  <circle cx="136" cy="470" r="36" fill="none" stroke="#c62828" stroke-width="2" stroke-dasharray="7 4"/>
-  <text x="230" y="455" font-size="15" font-family="DejaVu Sans Mono, Consolas, monospace">C = lim  Pₙ = 4</text>
-  <text x="268" y="470" font-size="12" font-family="DejaVu Sans Mono, Consolas, monospace">n→∞</text>
-  <text x="230" y="495" font-size="15" font-family="DejaVu Sans Mono, Consolas, monospace">C = π · 1 = π</text>
-  <rect x="230" y="510" width="100" height="32" fill="#fff8f8" stroke="#c62828" stroke-width="2.2" rx="3"/>
-  <text x="280" y="532" text-anchor="middle" font-size="18" font-weight="700" fill="#c62828" font-family="DejaVu Sans Mono, Consolas, monospace">π = 4</text>
+    <!-- ================= STEP 2 ================= -->
+    <g transform="translate(0, 160)">
+      <text x="70" y="80" fill="#dc2626" font-size="26" font-weight="bold" font-style="italic">Step 2 :</text>
+      
+      <g transform="translate(200, 30)">
+        <!-- Círculo rojo de guía (discontinuo) -->
+        <circle cx="50" cy="50" r="50" fill="none" stroke="#dc2626" stroke-width="1.5" stroke-dasharray="4 3" opacity="0.7" />
+        <!-- Escalera Nivel 1 (Azul) -->
+        <path d="M 25 0 H 75 V 12.5 H 87.5 V 25 H 100 V 75 H 87.5 V 87.5 H 75 V 100 H 25 V 87.5 H 12.5 V 75 H 0 V 25 H 12.5 V 12.5 H 25 Z" 
+              fill="none" stroke="#1d4ed8" stroke-width="2.5" stroke-linejoin="bevel" />
+      </g>
 
-  <text x="16" y="580" font-size="12" fill="#444">La longitud no es continua respecto a la convergencia de las curvas: lim longitud(Cₙ) ≠ longitud(lim Cₙ).</text>
-  <text x="16" y="600" font-size="11" fill="#888">Material didáctico · repositorio master-profesorado-matematicas</text>
+      <!-- Fórmula P_1 = 4 -->
+      <text x="380" y="80" fill="#0f172a" font-size="28" font-style="italic">
+        P<tspan font-size="18" dy="5">1</tspan><tspan dy="-5" font-style="normal"> = 4</tspan>
+      </text>
+    </g>
+
+    <!-- ================= STEP 3 ================= -->
+    <g transform="translate(0, 300)">
+      <text x="70" y="80" fill="#dc2626" font-size="26" font-weight="bold" font-style="italic">Step 3 :</text>
+      
+      <g transform="translate(200, 30)">
+        <!-- Círculo rojo de guía -->
+        <circle cx="50" cy="50" r="50" fill="none" stroke="#dc2626" stroke-width="1.5" stroke-dasharray="4 3" opacity="0.7" />
+        <!-- Escalera Nivel 2 más fina -->
+        <path d="M 37.5 0 H 62.5 V 6.25 H 75 V 12.5 H 81.25 V 18.75 H 87.5 V 25 H 93.75 V 37.5 H 100 V 62.5 H 93.75 V 75 H 87.5 V 81.25 H 81.25 V 87.5 H 75 V 93.75 H 62.5 V 100 H 37.5 V 93.75 H 25 V 87.5 H 18.75 V 81.25 H 12.5 V 75 H 6.25 V 62.5 H 0 V 37.5 H 6.25 V 25 H 12.5 V 18.75 H 18.75 V 12.5 H 25 V 6.25 H 37.5 Z" 
+              fill="none" stroke="#1d4ed8" stroke-width="2" stroke-linejoin="bevel" />
+      </g>
+
+      <!-- Fórmula P_2 = 4 -->
+      <text x="380" y="80" fill="#0f172a" font-size="28" font-style="italic">
+        P<tspan font-size="18" dy="5">2</tspan><tspan dy="-5" font-style="normal"> = 4</tspan>
+      </text>
+    </g>
+
+    <!-- ================= STEP 4 ================= -->
+    <g transform="translate(0, 440)">
+      <text x="70" y="80" fill="#dc2626" font-size="26" font-weight="bold" font-style="italic">Step 4 :</text>
+      
+      <g transform="translate(200, 30)">
+        <!-- Círculo base -->
+        <circle cx="50" cy="50" r="50" fill="none" stroke="#dc2626" stroke-width="1.5" stroke-dasharray="3 3" />
+        <!-- Aproximación fractal muy fina (simulando paso n) -->
+        <circle cx="50" cy="50" r="50" fill="none" stroke="#1d4ed8" stroke-width="2" stroke-dasharray="2 3" />
+      </g>
+
+      <!-- Fórmula P_n = 4 -->
+      <text x="380" y="80" fill="#0f172a" font-size="28" font-style="italic">
+        P<tspan font-size="18" dy="5">n</tspan><tspan dy="-5" font-style="normal"> = 4</tspan>
+      </text>
+    </g>
+
+    <!-- ================= STEP 5 ================= -->
+    <g transform="translate(0, 580)">
+      <text x="70" y="70" fill="#dc2626" font-size="26" font-weight="bold" font-style="italic">Step 5 :</text>
+      
+      <g transform="translate(200, 20)">
+        <!-- Círculo completamente discontinuo en rojo -->
+        <circle cx="50" cy="50" r="50" fill="none" stroke="#dc2626" stroke-width="2.5" stroke-dasharray="6 5" />
+      </g>
+
+      <!-- Bloque de Ecuaciones en Step 5 -->
+      <g transform="translate(360, 40)">
+        <!-- C = lim P_n = 4 -->
+        <text x="0" y="20" fill="#0f172a" font-size="26" font-style="italic">
+          C = 
+          <tspan font-size="22" font-style="normal"> lim </tspan>
+          P<tspan font-size="16" dy="4">n</tspan><tspan dy="-4" font-style="normal"> = 4</tspan>
+        </text>
+        <text x="62" y="34" fill="#0f172a" font-size="13" font-style="italic">n&#8594;&#8734;</text>
+
+        <!-- C = \pi . 1 = \pi -->
+        <text x="12" y="75" fill="#0f172a" font-size="26" font-style="italic">
+          C = &#960; &#183; 1 = &#960;
+        </text>
+
+        <!-- Recuadro final: \pi = 4 -->
+        <rect x="45" y="98" width="130" height="48" fill="none" stroke="#dc2626" stroke-width="2.5" />
+        <text x="110" y="132" text-anchor="middle" fill="#0f172a" font-size="30" font-weight="bold" font-style="italic">&#960; = 4</text>
+      </g>
+    </g>
+
+  </g>
 </svg>
