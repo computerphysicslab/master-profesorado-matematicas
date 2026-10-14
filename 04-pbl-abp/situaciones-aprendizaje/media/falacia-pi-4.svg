@@ -1,0 +1,43 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 440 640" font-family="DejaVu Sans, Arial, Helvetica, sans-serif">
+  <rect width="440" height="640" fill="#ffffff"/>
+  <text x="220" y="18" text-anchor="middle" font-size="11" fill="#666">Falacia visual: perímetro constante (= 4) mientras la forma se aproxima a la circunferencia</text>
+
+  <text x="16" y="55" fill="#c62828" font-size="17" font-weight="700">Step 1:</text>
+  <rect x="100" y="30" width="72" height="72" fill="none" stroke="#1565c0" stroke-width="2.2"/>
+  <circle cx="136" cy="66" r="36" fill="none" stroke="#c62828" stroke-width="2"/>
+  <line x1="100" y1="24" x2="172" y2="24" stroke="#333" stroke-width="1"/>
+  <line x1="100" y1="21" x2="100" y2="27" stroke="#333"/>
+  <line x1="172" y1="21" x2="172" y2="27" stroke="#333"/>
+  <text x="136" y="20" text-anchor="middle" font-size="12">1</text>
+  <line x1="178" y1="30" x2="178" y2="102" stroke="#333" stroke-width="1"/>
+  <line x1="175" y1="30" x2="181" y2="30" stroke="#333"/>
+  <line x1="175" y1="102" x2="181" y2="102" stroke="#333"/>
+  <text x="188" y="70" font-size="12">1</text>
+  <text x="250" y="72" font-size="16" font-family="DejaVu Sans Mono, Consolas, monospace">P₀ = 4</text>
+
+  <text x="16" y="155" fill="#c62828" font-size="17" font-weight="700">Step 2:</text>
+  <circle cx="136" cy="165" r="36" fill="none" stroke="#c62828" stroke-width="2"/>
+  <path d="M100,129 L172,129 L172,147 L154,147 L154,165 L172,165 L172,201 L154,201 L154,183 L136,183 L136,201 L118,201 L118,183 L100,183 L100,165 L118,165 L118,147 L100,147 Z" fill="none" stroke="#1565c0" stroke-width="2"/>
+  <text x="250" y="170" font-size="16" font-family="DejaVu Sans Mono, Consolas, monospace">P₁ = 4</text>
+
+  <text x="16" y="255" fill="#c62828" font-size="17" font-weight="700">Step 3:</text>
+  <circle cx="136" cy="265" r="36" fill="none" stroke="#c62828" stroke-width="2"/>
+  <path d="M100,229 L118,229 L118,238 L127,238 L127,229 L136,229 L136,238 L145,238 L145,229 L154,229 L154,238 L163,238 L163,229 L172,229 L172,247 L163,247 L163,256 L172,256 L172,265 L163,265 L163,274 L172,274 L172,283 L163,283 L163,292 L172,292 L172,301 L163,301 L163,292 L154,292 L154,301 L145,301 L145,292 L136,292 L136,301 L127,301 L127,292 L118,292 L118,301 L100,301 L100,292 L109,292 L109,283 L100,283 L100,274 L109,274 L109,265 L100,265 L100,256 L109,256 L109,247 L100,247 Z" fill="none" stroke="#1565c0" stroke-width="1.6"/>
+  <text x="250" y="270" font-size="16" font-family="DejaVu Sans Mono, Consolas, monospace">P₂ = 4</text>
+
+  <text x="16" y="355" fill="#c62828" font-size="17" font-weight="700">Step 4:</text>
+  <circle cx="136" cy="365" r="36" fill="none" stroke="#c62828" stroke-width="2"/>
+  <circle cx="136" cy="365" r="37.5" fill="none" stroke="#1565c0" stroke-width="1.4" stroke-dasharray="2.5 1.5"/>
+  <text x="250" y="370" font-size="16" font-family="DejaVu Sans Mono, Consolas, monospace">Pₙ = 4</text>
+
+  <text x="16" y="455" fill="#c62828" font-size="17" font-weight="700">Step 5:</text>
+  <circle cx="136" cy="470" r="36" fill="none" stroke="#c62828" stroke-width="2" stroke-dasharray="7 4"/>
+  <text x="230" y="455" font-size="15" font-family="DejaVu Sans Mono, Consolas, monospace">C = lim  Pₙ = 4</text>
+  <text x="268" y="470" font-size="12" font-family="DejaVu Sans Mono, Consolas, monospace">n→∞</text>
+  <text x="230" y="495" font-size="15" font-family="DejaVu Sans Mono, Consolas, monospace">C = π · 1 = π</text>
+  <rect x="230" y="510" width="100" height="32" fill="#fff8f8" stroke="#c62828" stroke-width="2.2" rx="3"/>
+  <text x="280" y="532" text-anchor="middle" font-size="18" font-weight="700" fill="#c62828" font-family="DejaVu Sans Mono, Consolas, monospace">π = 4</text>
+
+  <text x="16" y="580" font-size="12" fill="#444">La longitud no es continua respecto a la convergencia de las curvas: lim longitud(Cₙ) ≠ longitud(lim Cₙ).</text>
+  <text x="16" y="600" font-size="11" fill="#888">Material didáctico · repositorio master-profesorado-matematicas</text>
+</svg>
