@@ -2,7 +2,7 @@
 
 **Asignatura:** Psicología del desarrollo y de la educación  
 **Anclaje:** [Tema 4 — Procesamiento de la información y teorías cognoscitivas](../apuntes/04-procesamiento-informacion-teorias-cognitivas.md)  
-**Relacionado:** [ZDP y andamiaje](zdp-andamiaje-matematicas.md)
+**Relacionado:** [ZDP y andamiaje](zdp-andamiaje-matematicas.md) · [Memoria, práctica y transferencia](memoria-practica-transferencia-matematicas.md) · [Técnicas de estudio basadas en evidencia](tecnicas-estudio-basadas-en-evidencia.md)
 
 ---
 
@@ -110,6 +110,8 @@ Reducir la carga cognitiva **no** es “hacer las mates más fáciles” en el s
 | ¿El enunciado añade ruido? | Simplificar forma; separar contexto de lo esencial al inicio |
 | ¿Hay apoyo externo (tabla, esquema, GeoGebra)? | Ofrecer representación que descargue memoria de trabajo |
 | ¿El andamiaje está en la ZDP? | Ver [ZDP y andamiaje](zdp-andamiaje-matematicas.md) |
+
+Los *faded worked examples* (ejemplo resuelto → incompleto → autónomo) son una forma directa de gestionar la carga en novatos: [técnicas de estudio basadas en evidencia](tecnicas-estudio-basadas-en-evidencia.md).
 
 ---
 
