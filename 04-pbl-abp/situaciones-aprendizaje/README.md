@@ -49,6 +49,7 @@ Cuando exista una **historia matemática** hermana (germen narrativo), se enlaza
 | [Hamlet y los dígitos de π](sa-hamlet-pi-4eso.md) | 4.º ESO / 1.º Bach | Numérico, estocástico, algebraico · computacional | 5 sesiones | Completa v1.0 |
 | [¿Te conviene cambiar de puerta? (Monty Hall)](sa-monty-hall-4eso.md) | 4.º ESO / 1.º Bach | Estocástico · probabilidad condicionada | 5 sesiones | Completa v1.0 |
 | [**¿Es π igual a 4?** (falacia visual del perímetro)](sa-falacia-pi-4-4eso.md) | 4.º ESO / 1.º Bach | Medida, espacial, argumentación · límite | 5 sesiones | Completa v1.0 |
+| [**Constantes matemáticas** (museo de números universales)](sa-constantes-matematicas-4eso.md) | 4.º ESO / 1.º Bach | Numérico, histórico, comunicación | 8–10 sesiones | Completa v1.0 |
 
 ## Plantilla
 
