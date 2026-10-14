@@ -24,6 +24,7 @@ Especial atención a la prevención del burnout docente y al clima socioafectivo
 | [propuestas-actividades.md](propuestas-actividades.md) | Plantillas y orientaciones para diseñar actividades de educación emocional y situaciones de evaluación |
 | [recursos.md](recursos.md) | Referencias bibliográficas clave y recursos recomendados |
 | [Afectividad y motivación intrínseca](afectividad-y-motivacion-intrinseca.md) | Emociones, autodeterminación (Deci y Ryan), ansiedad matemática, prácticas de aula y sentido socioafectivo LOMLOE |
+| [**Emociones académicas — Pekrun (control-valor)**](emociones-academicas-pekrun.md) | Valoraciones de control y valor; mapa emocional del logro; puente Bandura / aula de mates |
 | [Ventana de Johari aplicada a la docencia de Matemáticas](ventana-de-johari-docencia-matematicas.md) | Autoconocimiento y comunicación: áreas pública, ciega, oculta y desconocida; feedback y autorrevelación; clima de aula de Matemáticas |
 
 **Apunte de síntesis del estrés (tema completo):** [../apuntes/estres-impacto-y-gestion-emocional.md](../apuntes/estres-impacto-y-gestion-emocional.md)  
@@ -34,7 +35,7 @@ Especial atención a la prevención del burnout docente y al clima socioafectivo
 1. Leer primero el modelo transaccional del estrés (ficha + apunte) para comprender la base teórica.
 2. Continuar con inteligencia emocional y competencias socioemocionales.
 3. Utilizar las propuestas de actividades como punto de partida para el diseño propio (nunca copiar literalmente).
-4. Consultar afectividad/motivación y Ventana de Johari para el puente al aula de Matemáticas.
+4. Consultar afectividad/motivación, **Pekrun** y Ventana de Johari para el puente al aula de Matemáticas.
 5. Consultar las referencias para profundizar.
 6. Autoevaluarse con los [exámenes a tres niveles](../examen/).
 
