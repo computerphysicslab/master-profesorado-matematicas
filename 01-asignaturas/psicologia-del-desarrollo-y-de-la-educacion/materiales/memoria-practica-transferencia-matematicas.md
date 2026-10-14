@@ -6,7 +6,7 @@ parent: Materiales Psicología
 
 # Memoria, práctica y transferencia en Matemáticas
 
-**Complementa:** [Tema 4](../apuntes/04-procesamiento-informacion-teorias-cognitivas.md) · [Carga cognitiva](carga-cognitiva-matematicas.md)
+**Complementa:** [Tema 4](../apuntes/04-procesamiento-informacion-teorias-cognitivas.md) · [Carga cognitiva](carga-cognitiva-matematicas.md) · [Técnicas de estudio basadas en evidencia](tecnicas-estudio-basadas-en-evidencia.md)
 
 ---
 
@@ -36,6 +36,8 @@ Comprender en clase **no garantiza** recuperar dentro de una semana: hace falta 
 
 - Débil: mirar 10 soluciones resueltas y «entenderlas».  
 - Fuerte: resolver sin ayuda, localizar el error, reintentar días después.
+
+Catálogo ampliado (Feynman, sueño, decálogo para el alumnado): [técnicas de estudio basadas en evidencia](tecnicas-estudio-basadas-en-evidencia.md).
 
 ---
 
@@ -77,4 +79,4 @@ Facilita el aprendizaje nuevo cuando está bien asentado; **interfiere** cuando 
 
 ## Lecturas orientativas
 
-Ruiz Martín (aprendizaje y memoria); Sweller et al. (carga cognitiva); manuales de psicología educativa (práctica, transferencia). Verificar edición antes de citar.
+Ruiz Martín (aprendizaje y memoria); Sweller et al. (carga cognitiva); Dunlosky et al. (2013) sobre técnicas de estudio; manuales de psicología educativa (práctica, transferencia). Verificar edición antes de citar.
