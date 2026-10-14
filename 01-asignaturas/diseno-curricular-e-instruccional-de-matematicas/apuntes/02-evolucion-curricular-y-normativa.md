@@ -190,6 +190,11 @@ La intención declarada de la norma es reducir la atomización y la burocracia a
 
 En consecuencia, la eliminación de los estándares **no ha eliminado automáticamente la burocracia**. Ha cambiado su forma: de un exceso de indicadores predefinidos se ha pasado a un exceso de articulaciones que el profesorado debe construir y documentar. El coste en tiempo y energía es real y debe tenerse en cuenta al valorar el margen real de autonomía docente.
 
+**Estimación cuantitativa y variabilidad autonómica** (TALIS, SCM, hipótesis del incremento 3×, escenarios de implementación):
+
+→ [**Carga burocrática del profesorado tras LOMCE–LOMLOE**](../../procesos-y-contextos-educativos/materiales/carga-burocratica-lomce-lomloe-scm.md)  
+→ Marco histórico de la burocratización: [análisis histórico-comparativo](../../procesos-y-contextos-educativos/materiales/burocratizacion-trabajo-docente-analisis-historico.md)
+
 ### 5.4. Implicaciones para el diseño curricular y la práctica
 
 Para el profesor de Matemáticas, las preguntas prácticas son:
@@ -216,4 +221,4 @@ Análisis y tablas: **[Contenidos eliminados, trasladados y simplificados](../ma
 
 ---
 
-> **Nota de mantenimiento:** el texto completo histórico del apunte se mantiene en el repositorio local del proyecto; esta versión en `main` prioriza la síntesis operativa y la formulación neutra del marco LOMLOE (sin «perspectiva de género» como ítem del repositorio).
+> **Nota de mantenimiento:** el texto completo histórico del apunte se mantiene en el repositorio local del proyecto; esta versión en `main` prioriza la síntesis operativa y los enlaces a materiales actualizados.
