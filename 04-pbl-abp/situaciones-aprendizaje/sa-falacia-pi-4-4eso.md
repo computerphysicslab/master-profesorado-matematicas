@@ -214,25 +214,18 @@ Registro: observación de proceso + ítems de la autoevaluación de cierre.
 
 ---
 
-## 13. Anexo — Guía rápida para el docente
+## 13. Guía rápida para el docente
 
-**Idea clave del error:**  
-Las curvas \(C_n\) convergen a la circunferencia \(C\) en el sentido de que la distancia máxima entre puntos de \(C_n\) y \(C\) tiende a 0. Sin embargo, la función  
+### Idea clave del error
+Las curvas ($C_n$) convergen a la circunferencia ($C$) en el sentido de que la distancia máxima entre puntos de $C_n$ y $C$ tiende a $0$. Sin embargo, la función
+$$\text{longitud}: \{\text{curvas}\} \to \mathbb{R}$$
+no es continua respecto a esa topología. Por tanto:
+$$\lim_{n\to\infty} \text{longitud}(C_n) = 4 \neq \pi = \text{longitud}(C).$$
 
-\[
-\text{longitud}: \{\text{curvas}\} \to \mathbb{R}
-\]
+### Contraste útil (polígonos regulares de $2^k$ lados)
+El perímetro sí tiende a $2\pi r$. La diferencia esencial es que los lados son cuerdas (o tangentes) cuyos extremos están sobre la circunferencia y la dirección de los lados se alinea progresivamente con la tangente.
 
-no es continua respecto a esa topología. Por tanto
-
-\[
-\lim_{n\to\infty} \text{longitud}(C_n) = 4 \neq \pi = \text{longitud}(C).
-\]
-
-**Contraste útil (polígonos regulares de \(2^k\) lados):**  
-El perímetro sí tiende a \(2\pi r\). La diferencia esencial es que los lados son cuerdas (o tangentes) cuyos extremos están sobre la circunferencia y la dirección de los lados se alinea progresivamente con la tangente.
-
-**Área vs. perímetro:**  
-Las áreas de las regiones limitadas por \(C_n\) **sí** convergen al área del círculo; solo el perímetro falla. Esto ayuda a separar las dos magnitudes.
+### Área vs. perímetro
+Las áreas de las regiones limitadas por $C_n$ sí convergen al área del círculo; solo el perímetro falla. Esto ayuda a separar las dos magnitudes.
 
 **Imagen de partida:** [media/falacia-pi-4.svg](media/falacia-pi-4.svg) (también reproducible a mano en la pizarra o con GeoGebra).
