@@ -4,7 +4,9 @@
 **Uso:** apoyo visual y conceptual al [Tema 7 — Neuroeducación](../apuntes/07-neuroeducacion-precauciones.md) y al [apunte de estrés](../apuntes/estres-impacto-y-gestion-emocional.md).  
 **Precaución:** modelo didáctico simplificado; no es un mapa anatómico exhaustivo ni justifica neuromitos.
 
-![Tres regiones, una misma historia: amígdala, hipocampo y corteza prefrontal](tres-regiones-emocion-estres.svg)
+![Tres regiones, una misma historia: amígdala, hipocampo y corteza prefrontal](tres-regiones-emocion-estres.png)
+
+> Infografía: amígdala (alerta), hipocampo (memoria y contexto) y corteza prefrontal (regulación). Flujo: **Alerta → Contexto → Regulación**.
 
 ---
 
