@@ -1,27 +1,27 @@
 # Auditoría - San Agustín de Hipona
 
-- **Ficha:** **NO EXISTE** → **FICHA PENDIENTE**
-- **Estado de enlace (2026-10-15):** no hay ficha a la que enlazar
+- **Ficha:** `09-bibliografia/autores-pensadores/01-filosofia-educacion/agustin.md` (**CREADA 2026-10-15**)
+- **Estado de enlace (2026-10-15):** **COMPLETADO**
 
-## Menciones localizadas
+## Enlaces a la ficha
 
-| Archivo | Tipo de mención |
-|---------|-----------------|
-| `09-bibliografia/autores-pensadores/historia-del-pensamiento-educativo.md` | Entrada en línea temporal (354) marcada con `***` (sin ficha dedicada). Texto: «búsqueda interior de la verdad; el maestro como guía. Integró tradición clásica y cristianismo» |
+| Archivo | Cambio |
+|---------|--------|
+| `09-bibliografia/autores-pensadores/historia-del-pensamiento-educativo.md` | Nombre enlazado; eliminado marcador `***` |
+| `09-bibliografia/autores-pensadores/INDICE.md` | Añadido al índice selectivo |
 
-No aparecen menciones sustantivas en apuntes de asignaturas, materiales de Psicología, Procesos, Diseño curricular ni en otras carpetas del repositorio.
+## Contenido de la ficha
 
-## Decisión
+- Maestro Interior e iluminación (*De Magistro*)
+- Artes liberales y matemáticas como entrenamiento de la abstracción
+- Tabla de relevancia para didáctica de las matemáticas
+- Motivación, signos y lenguaje
+- Citas clave y obras de referencia
+- Preguntas guía y conexión con Platón / constructivismo
 
-**FICHA PENDIENTE.** No se crean enlaces porque no hay destino. La entrada en la línea temporal ya indica la ausencia de ficha con el convenio del documento (`***`).
+## Menciones previas
 
-Si en el futuro se redacta la ficha (p. ej. `01-filosofia-educacion/agustin.md` o `san-agustin.md`), habrá que:
-1. Enlazar el nombre en `historia-del-pensamiento-educativo.md`.
-2. Valorar una entrada en `INDICE.md` / `MAPA-AUTOR-AMBITO.md` / `INDICE-POR-RELEVANCIA.md`.
-
-## Relevancia orientativa para el máster
-
-Influencia medieval en la idea de educación interior, maestro como guía y síntesis clasicismo–cristianismo. Prioridad media-baja respecto a autores con presencia curricular más directa (Comenio, Rousseau, Piaget, etc.).
+Solo existía la entrada en la línea temporal (sin ficha). No hay otras menciones sustantivas en apuntes de asignaturas.
 
 ## Siguiente autor en la cola
 
