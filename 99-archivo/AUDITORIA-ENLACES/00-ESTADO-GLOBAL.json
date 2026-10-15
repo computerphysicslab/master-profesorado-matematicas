@@ -1,8 +1,9 @@
 {
   "autores_total": 38,
   "autores_completados": ["socrates", "platon", "aristoteles", "euclides"],
-  "autor_actual": "agustin",
+  "fichas_pendientes": ["agustin"],
+  "autor_actual": "aquino",
   "fecha_inicio": "2026-10-15",
-  "ultima_actualizacion": "2026-10-15T11:06:00Z",
-  "notas": "Ficha Euclides ampliada (método axiomático, Elementos, actividades ESO, bibliografía). Candidatos FICHA PENDIENTE: agustin, aquino, erasmo, vives, galileo, locke, newton, kant, bobbitt, wallon, claparede, liljedahl, polya, skemp, schoenfeld — verificar en siguientes iteraciones."
+  "ultima_actualizacion": "2026-10-15T13:09:00Z",
+  "notas": "San Agustín: sin ficha (solo mención en línea temporal). Candidatos FICHA PENDIENTE restantes: aquino, erasmo, vives, galileo, locke, newton, kant, bobbitt, wallon, claparede, liljedahl, polya, skemp, schoenfeld — verificar."
 }
