@@ -25,7 +25,7 @@ Una enseñanza equilibrada busca comprensión relacional **y** fluidez procedime
 
 Bruner: progresión enactivo → icónico → simbólico. En Secundaria, partir de lo concreto facilita el acceso a lo general **si el recorrido no se detiene en el ejemplo**.
 
-Lectura educativa del platonismo: elevar desde lo particular hacia relaciones generales; no rechazar aplicaciones. Dieudonné: preservar el carácter de estructura, no diluir en técnicas aplicadas.
+Lectura educativa del [platonismo](../../../09-bibliografia/autores-pensadores/01-filosofia-educacion/platon.md): elevar desde lo particular hacia relaciones generales; no rechazar aplicaciones. Dieudonné: preservar el carácter de estructura, no diluir en técnicas aplicadas.
 
 **Referencias:** Bruner (1960); Dieudonné (rigor y estructura).
 
