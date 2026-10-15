@@ -27,7 +27,7 @@ En el currículo de Secundaria y Bachillerato la geometría que se enseña es, e
 Las civilizaciones egipcia y mesopotámica disponían de **reglas empíricas** muy eficaces para áreas, volúmenes y proporciones. Eran matemáticas de **cálculo y aplicación**, no de demostración sistemática a partir de principios explícitos.
 
 ### 2.2. El giro griego
-A partir del siglo VI a. e. c. (Tales, pitagóricos, Platón, Eudoxo…) se consolida la idea de que las verdades geométricas deben **demostrarse**. El ideal platónico de un conocimiento eterno e inmutable favorece un estilo axiomático-deductivo.
+A partir del siglo VI a. e. c. (Tales, pitagóricos, [Platón](../../../09-bibliografia/autores-pensadores/01-filosofia-educacion/platon.md), Eudoxo…) se consolida la idea de que las verdades geométricas deben **demostrarse**. El ideal [platónico](../../../09-bibliografia/autores-pensadores/01-filosofia-educacion/platon.md) de un conocimiento eterno e inmutable favorece un estilo axiomático-deductivo.
 
 **Problema central:** organizar el saber geométrico de modo que:
 
@@ -135,6 +135,7 @@ Los problemas clásicos (duplicación del cubo, trisección del ángulo, cuadrat
 
 ## 8. Lecturas y recursos del repositorio
 
+- [Platón](../../../09-bibliografia/autores-pensadores/01-filosofia-educacion/platon.md) — matemáticas como propedéutica; ideal de demostración
 - Panorama histórico general: [01-vision-historica.md](01-vision-historica.md)
 - Fichas narrativas: [Hipatia](../../../03-materiales/historias-matematicas/fichas/hipatia.md), [Eratóstenes](../../../03-materiales/historias-matematicas/fichas/eratostenes-tierra.md), [Arquímedes](../../../03-materiales/historias-matematicas/fichas/arquimedes-corona.md)
 - Próximo apunte (T-CD-03): plano ampliado, dualidad y cónicas → génesis de la geometría proyectiva.
