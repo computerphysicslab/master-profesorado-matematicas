@@ -74,6 +74,9 @@ Ya en el repo (columna vertebral pedagógica del mismo polo): [Durkheim](./03-so
 | [Rico](./05-educacion-matematica/rico.md) | Didáctica | análisis didáctico | Diseño curricular |
 | [Taylor](./06-curriculo-evaluacion-investigacion/taylor.md) | Organización | eficiencia | Procesos |
 | [Bobbitt](./06-curriculo-evaluacion-investigacion/bobbitt.md) | Currículo técnico | objetivos | Procesos; Diseño curricular |
+| [Tyler](./06-curriculo-evaluacion-investigacion/tyler.md) | Teoría curricular | modelo racional | Procesos; Diseño curricular |
+| [Mager](./06-curriculo-evaluacion-investigacion/mager.md) | Objetivos | conducta observable | Diseño curricular |
+| [Bloom](./06-curriculo-evaluacion-investigacion/bloom.md) | Objetivos / evaluación | taxonomía | Diseño curricular |
 | [Taba](./06-curriculo-evaluacion-investigacion/taba.md) | Currículo | desarrollo sistemático | Diseño curricular |
 | [Shulman](./06-curriculo-evaluacion-investigacion/shulman.md) | Conocimiento docente | PCK | Diseño curricular |
 | [Wiliam](./06-curriculo-evaluacion-investigacion/william.md) | Evaluación formativa | feedback | Diseño de actividades |
