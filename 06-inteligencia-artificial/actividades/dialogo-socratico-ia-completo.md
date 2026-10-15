@@ -5,6 +5,8 @@
 **Tema:** cualquiera del momento que admita **bloqueo productivo** (no un ejercicio mecánico de una sola operación).  
 **Rol de la IA:** *tutor socrático* (pistas y preguntas), **nunca** resolutor del producto final.
 
+**Marco conceptual:** el diálogo por preguntas y la mayéutica se inspiran en el método atribuido a [**Sócrates**](../../09-bibliografia/autores-pensadores/01-filosofia-educacion/socrates.md) (no en dar la respuesta, sino en ayudar a razonar).
+
 Enlaces: [catálogo de prompts](../prompts/catalogo-prompts-matematicas.md) · [plantilla de proceso](../evaluacion/plantilla-proceso-ia.md) · [rúbricas de uso](../evaluacion/rubricas-uso-ia.md) · [propuestas-aula](propuestas-aula.md)
 
 ---
@@ -150,7 +152,7 @@ Usar la rúbrica o los criterios de la programación de aula. La IA no altera el
 | Chat muy largo y sin avance | Intervenir: «Escribe en una frase dónde estás bloqueado» y usar el prompt de refuerzo |
 | Sin dispositivos / sin red | El docente proyecta un diálogo socrático *preparado* y el alumnado responde en papel a las preguntas del tutor; o trabajo por estaciones con pocos dispositivos |
 | Copia entre compañeros del hilo | Resolución individual; el hilo puede ser parecido, el producto y la reflexión deben ser propios |
-| Ansiedad («sin la IA no sé») | Cierre: el objetivo es necesitar *menos* pistas la próxima vez; anotar qué estrategia interna se aprendió |
+| Ansiedad («sin la IA no sé») | Cierre: el objetivo es necesitar *menos* pistas la próxima vez; anotar qué estrategia interna se vivió |
 
 ---
 
@@ -183,6 +185,7 @@ Enlazar con el dilema ético de andamiaje vs. sustitución: [dilemas-eticos.md](
 
 | Pieza | Uso en esta actividad |
 |-------|----------------------|
+| [**Sócrates** — mayéutica y diálogo](../../09-bibliografia/autores-pensadores/01-filosofia-educacion/socrates.md) | Fundamento del rol «tutor socrático» |
 | [Tutor socrático en el catálogo](../prompts/catalogo-prompts-matematicas.md) | Base del prompt §5.1 |
 | [Plantilla de proceso](../evaluacion/plantilla-proceso-ia.md) | Evidencia de uso declarado |
 | [Cazador de alucinaciones](cazador-alucinaciones-completo.md) | Conviene **antes**: el alumnado ya sabe que la IA puede fallar |
