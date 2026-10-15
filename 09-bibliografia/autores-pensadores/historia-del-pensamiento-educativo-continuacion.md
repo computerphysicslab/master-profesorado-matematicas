@@ -87,7 +87,7 @@ Continúa la [línea temporal principal](./historia-del-pensamiento-educativo.md
 ## Hilo de lectura
 
 ```text
-Diálogo y razón (Sócrates–Aristóteles)
+Diálogo y razón ([Sócrates](./01-filosofia-educacion/socrates.md)–[Aristóteles](./01-filosofia-educacion/aristoteles.md))
   → humanismo y método (Vives–San José de Calasanz–Comenio–San Juan Bautista de La Salle–Locke)
   → naturaleza y autonomía (Rousseau–Kant–Pestalozzi)
   → Escuela Nueva y experiencia (Dewey–Montessori–Freinet)
