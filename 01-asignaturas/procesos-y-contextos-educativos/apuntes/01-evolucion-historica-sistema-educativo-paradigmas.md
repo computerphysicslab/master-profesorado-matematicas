@@ -12,6 +12,7 @@ Este apunte es la **puerta de entrada**. El detalle está en los materiales. Ord
 
 | Paso | Recurso | Para qué |
 |------|---------|----------|
+| **0** | [**Orígenes de la pedagogía (práctica y reflexión)**](../materiales/origenes-pedagogia-practica-y-reflexion.md) | Práctica ancestral, textos de sabiduría, Confucio, sofistas, Sócrates; distinguir práctica / teoría / disciplina |
 | **1** | Este apunte (contexto histórico, paradigmas y leyes) | Visión de conjunto en 20–25 min |
 | **2** | [Mapa epistemológico de paradigmas](../materiales/mapa-epistemologico-paradigmas-educativos.md) | Situar positivista / interpretativo / socio-crítico; LOMCE, LOMLOE, China |
 | **3** | [Leyes educativas (fichas)](../materiales/leyes-educativas/) | Una ley por sesión o las que toquen en clase |
@@ -75,7 +76,7 @@ El paradigma sociocrítico —de raíz frankfurtiana, freireana y de la pedagog�
 
 [Mapa epistemológico](../materiales/mapa-epistemologico-paradigmas-educativos.md) — triángulo positivista / interpretativo / sociocrítico.
 
-**Renovación pedagógica:** [Referentes](../materiales/referentes-progresista-critica-libertaria.md) · [Corrientes e historia (síntesis de sesión)](../materiales/corrientes-pedagogicas-historia-sintesis.md).
+**Renovación pedagógica:** [Referentes](../materiales/referentes-progresista-critica-libertaria.md) · [Corrientes e historia](../materiales/corrientes-pedagogicas-historia-sintesis.md) · [Orígenes de la pedagogía](../materiales/origenes-pedagogia-practica-y-reflexion.md).
 
 ## Leyes educativas (mapa rápido)
 
