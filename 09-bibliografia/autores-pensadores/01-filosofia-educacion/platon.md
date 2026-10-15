@@ -9,13 +9,13 @@
 ## AUTOR: Platón
 
 **CORRIENTE PEDAGÓGICA:**  
-Idealismo educativo / Educación del filósofo-rey. Discípulo de Sócrates y maestro de Aristóteles. Fundó la Academia de Atenas (c. 387 a. C.), considerada a menudo la primera institución de educación superior de Occidente. Su pensamiento educativo se expone sobre todo en la *República* y en las *Leyes*.
+Idealismo educativo / Educación del filósofo-rey. Discípulo de [Sócrates](socrates.md) y maestro de [Aristóteles](aristoteles.md). Fundó la Academia de Atenas (c. 387 a. C.), considerada a menudo la primera institución de educación superior de Occidente. Su pensamiento educativo se expone sobre todo en la *República* y en las *Leyes*.
 
 ---
 
 ## BREVE RESEÑA BIOGRÁFICA:
 
-Platón (Atenas, c. 428/427 a. C. – 348/347 a. C.) perteneció a una familia aristocrática. Tras la muerte de Sócrates se dedicó a la filosofía y a la escritura de diálogos. Viajó a Sicilia e intentó, sin éxito, influir en la política de Siracusa.
+Platón (Atenas, c. 428/427 a. C. – 348/347 a. C.) perteneció a una familia aristocrática. Tras la muerte de [Sócrates](socrates.md) se dedicó a la filosofía y a la escritura de diálogos. Viajó a Sicilia e intentó, sin éxito, influir en la política de Siracusa.
 
 En la Academia se cultivaban la filosofía, las matemáticas, la astronomía y la dialéctica. La tradición atribuye a la entrada de la Academia el lema “Nadie entre aquí que no sepa geometría”, reflejo de la importancia que Platón concedía a las matemáticas como preparación del pensamiento abstracto.
 
