@@ -96,7 +96,7 @@ Mapa **cronológico por año de nacimiento** de pensadores con influencia releva
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/John_Locke.jpg/120px-John_Locke.jpg" width="100" alt="John Locke" align="left" style="margin:4px 12px 8px 0"/>
 
-**1632 — John Locke.*** Empirismo, hábitos y entorno en la formación del carácter (*Some Thoughts Concerning Education*).
+**1632 — [John Locke](./01-filosofia-educacion/locke.md).** Empirismo, hábitos y entorno en la formación del carácter (*Some Thoughts Concerning Education*).
 
 <br clear="all"/>
 
