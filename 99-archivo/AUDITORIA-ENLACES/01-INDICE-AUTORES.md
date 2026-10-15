@@ -15,7 +15,7 @@ Actualizado: 2026-10-15
 | San José de Calasanz | SÍ | `01-filosofia-educacion/jose-de-calasanz.md` | 1+ | 2+ | **COMPLETADO** |
 | Galileo | SÍ | `08-matematicas-ciencia-computacion/galileo.md` | 3+ | 4+ | **COMPLETADO** |
 | Comenio | SÍ | `01-filosofia-educacion/comenio.md` | 2+ | 3+ | **COMPLETADO** |
-| Locke | ? | — | — | — | pendiente |
+| Locke | SÍ | `01-filosofia-educacion/locke.md` | 1+ | 2+ | **COMPLETADO** |
 | Newton | SÍ | `08-matematicas-ciencia-computacion/newton.md` | — | — | pendiente |
 | San Juan Bautista de La Salle | SÍ | `01-filosofia-educacion/juan-bautista-de-la-salle.md` | — | — | pendiente |
 | Rousseau | SÍ | `01-filosofia-educacion/rousseau.md` | — | — | pendiente |
