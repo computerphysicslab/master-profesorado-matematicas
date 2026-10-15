@@ -54,9 +54,9 @@ Mapa **cronológico por año de nacimiento** de pensadores con influencia releva
 
 <br clear="all"/>
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/St-thomas-aquinasFXD.jpg/120px-St-thomas-aquinasFXD.jpg" width="100" alt="Tomás de Aquino" align="left" style="margin:4px 12px 8px 0"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/St-thomas-aquinasFXD.jpg/120px-St-thomas-aquinasFXD.jpg" width="100" alt="Santo Tomás de Aquino" align="left" style="margin:4px 12px 8px 0"/>
 
-**c. 1225 — Tomás de Aquino.*** Aristóteles + pensamiento cristiano; aprendizaje como actualización de capacidades racionales del alumno.
+**c. 1225 — [Santo Tomás de Aquino](./01-filosofia-educacion/santo-tomas-de-aquino.md).** Aristóteles + pensamiento cristiano; aprendizaje como actualización de capacidades racionales del alumno; virtudes intelectuales y método de la *quaestio*.
 
 <br clear="all"/>
 
