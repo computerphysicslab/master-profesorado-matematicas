@@ -62,7 +62,7 @@ Medir tierras, construir, calcular volúmenes de graneros, orientar edificios, p
 
 ### 4.2. Primeras soluciones y saltos conceptuales
 - **Geometría práctica egipcia y mesopotámica:** reglas empíricas (a veces aproximadas) para áreas y volúmenes.
-- **Escuela griega (especialmente Euclides, *Elementos*):** reorganización axiomática. El problema ya no es solo “calcular”, sino **demostrar** a partir de postulados. El postulado de las paralelas generará, siglos después, las geometrías no euclidianas.
+- **Escuela griega (especialmente [Euclides](../../../09-bibliografia/autores-pensadores/08-matematicas-ciencia-computacion/euclides.md), *Elementos*):** reorganización axiomática. El problema ya no es solo “calcular”, sino **demostrar** a partir de postulados. El postulado de las paralelas generará, siglos después, las geometrías no euclidianas.
 - **Arquímedes:** método de exhausción, áreas y volúmenes, aproximación de $\pi$, principio de flotación. Ver ficha [Arquímedes (corona)](../../../03-materiales/historias-matematicas/fichas/arquimedes-corona.md).
 - **Eratóstenes:** medición del radio de la Tierra con proporcionalidad y geometría. Ver [Eratóstenes](../../../03-materiales/historias-matematicas/fichas/eratostenes-tierra.md).
 - **Perspectiva renacentista** (Brunelleschi, Alberti, luego Desargues…): el problema de representar el espacio tridimensional en un plano. Este problema es una de las raíces de la **geometría proyectiva** (desarrollada en el bloque 2 de la asignatura).
