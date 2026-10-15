@@ -1,9 +1,9 @@
 {
   "autores_total": 38,
-  "autores_completados": ["socrates", "platon", "aristoteles", "euclides", "agustin"],
+  "autores_completados": ["socrates", "platon", "aristoteles", "euclides", "agustin", "santo-tomas-de-aquino"],
   "fichas_pendientes": [],
-  "autor_actual": "aquino",
+  "autor_actual": "erasmo",
   "fecha_inicio": "2026-10-15",
-  "ultima_actualizacion": "2026-10-15T13:25:00Z",
-  "notas": "San Agustín: ficha creada (agustin.md) + enlaces en historia e INDICE. Candidatos FICHA PENDIENTE: aquino, erasmo, vives, locke, kant, bobbitt, wallon, claparede, liljedahl, polya, skemp, schoenfeld — verificar. Galileo y Newton ya tienen ficha en 08."
+  "ultima_actualizacion": "2026-10-15T13:45:00Z",
+  "notas": "Santo Tomás de Aquino: ficha creada (santo-tomas-de-aquino.md; se mantiene SANTO) + enlaces en historia e INDICE. Candidatos FICHA PENDIENTE: erasmo, vives, locke, kant, bobbitt, wallon, claparede, liljedahl, polya, skemp, schoenfeld — verificar. Galileo y Newton ya tienen ficha en 08."
 }
