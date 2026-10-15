@@ -9,7 +9,7 @@
 ## AUTOR: Sócrates
 
 **CORRIENTE PEDAGÓGICA:**  
-Método socrático / mayéutica. No dejó obra escrita; su pensamiento y su método se conocen principalmente a través de los diálogos de Platón (y, en menor medida, de Jenofonte). Es el origen de la tradición dialógica y de la enseñanza por preguntas en Occidente.
+Método socrático / mayéutica. No dejó obra escrita; su pensamiento y su método se conocen principalmente a través de los diálogos de [Platón](platon.md) (y, en menor medida, de Jenofonte). Es el origen de la tradición dialógica y de la enseñanza por preguntas en Occidente.
 
 ---
 
@@ -19,7 +19,7 @@ Sócrates (Atenas, c. 470 a. C. – 399 a. C.) fue un filósofo ateniense que de
 
 Fue condenado a muerte por impiedad y por corromper a la juventud. Prefirió beber la cicuta antes que renunciar a su modo de vida o aceptar el exilio. Su figura se convirtió en el modelo del educador que prioriza el examen crítico de las ideas sobre la transmisión de contenidos.
 
-El episodio más famoso relacionado con las matemáticas aparece en el *Menón* de Platón: Sócrates guía a un esclavo, mediante preguntas, hasta descubrir cómo duplicar el área de un cuadrado usando la diagonal.
+El episodio más famoso relacionado con las matemáticas aparece en el *Menón* de [Platón](platon.md): Sócrates guía a un esclavo, mediante preguntas, hasta descubrir cómo duplicar el área de un cuadrado usando la diagonal.
 
 ---
 
@@ -49,43 +49,43 @@ El episodio más famoso relacionado con las matemáticas aparece en el *Menón* 
 
 ## PLANTEAMIENTO DE UNA ACTIVIDAD BASADA EN EL AUTOR:
 
-### Título: **“Duplicar el cuadrado: un diálogo socrático en el aula de Matemáticas”**
+### Título: **“¿Qué es un número primo?” — diálogo socrático en 2.º–3.º ESO**
 
-**Nivel sugerido:** 2.º-3.º ESO (o Primaria superior con adaptación).  
-**Duración:** 1-2 sesiones.
+**Nivel sugerido:** 2.º o 3.º ESO.  
+**Duración:** 1 sesión.
 
 **Objetivos:**
-- Experimentar el método socrático aplicado a un problema geométrico clásico.
-- Desarrollar razonamiento, argumentación y metacognición.
-- Vivir el paso de la certeza aparente a la duda y de la duda al descubrimiento.
+- Formular y refinar una definición de número primo.
+- Detectar contraejemplos y contradicciones en definiciones provisionales.
+- Experimentar el valor de la pregunta frente a la respuesta inmediata.
 
 **Desarrollo:**
 
-1. **Planteamiento del problema**  
-   Se presenta un cuadrado dibujado en la pizarra o en papel cuadriculado. Pregunta inicial: “¿Cómo podemos construir un cuadrado que tenga el doble de área que este?”
+1. **Pregunta inicial:** «¿Qué es un número primo?»  
+   Recoger definiciones espontáneas sin corregir aún.
 
-2. **Fase de tentativas y refutación**  
-   Los alumnos proponen soluciones (duplicar el lado, etc.). El docente, mediante preguntas del tipo “¿estáis seguros?”, “¿qué pasaría si…?”, “¿podéis comprobarlo?”, conduce a que descubran que duplicar el lado cuadruplica el área.
+2. **Elenchos suave:**  
+   Ante «solo divisible por 1 y por sí mismo», preguntar: «¿Y el 1?»; «¿Y los negativos?»; «¿Cómo lo comprobarías para 91?».
 
-3. **Descubrimiento guiado**  
-   Con nuevas preguntas se orienta hacia el uso de la diagonal del cuadrado original como lado del nuevo cuadrado (teorema de Pitágoras / área del cuadrado sobre la diagonal).
+3. **Contraejemplos y precisiones:**  
+   El grupo ajusta la definición (enteros mayores que 1, exactamente dos divisores positivos, etc.).
 
-4. **Reflexión metacognitiva**  
-   ¿Qué hemos aprendido sobre el problema? ¿Qué hemos aprendido sobre cómo pensamos? ¿En qué se diferencia este proceso de recibir la fórmula directamente?
+4. **Cierre:**  
+   Comparar la definición acordada con la del libro; breve reflexión: «¿Qué hemos ganado al no recibir la definición al inicio?».
 
 **Conexión con Sócrates:**  
-La actividad reproduce la estructura del diálogo del *Menón*: el docente no explica la solución, sino que, mediante preguntas, hace que el alumnado examine sus supuestos, reconozca el error y llegue por sí mismo a la construcción correcta.
+Prioriza el diálogo y la mayéutica frente a la exposición directa de la definición canónica.
 
 ---
 
 ## CRÍTICAS Y LIMITACIONES:
 
-- **Tiempo y ratios**: el diálogo socrático auténtico requiere tiempo y grupos pequeños; es difícil de sostener en aulas numerosas con presión curricular.
-- **Dependencia de la habilidad del docente**: mal aplicado puede convertirse en un interrogatorio intimidatorio o en una forma encubierta de transmitir la respuesta “correcta”.
-- **No es adecuado para todos los contenidos**: funciona mejor con conceptos, definiciones y razonamiento que con procedimientos técnicos que requieren práctica reiterada.
-- **Riesgo de frustración**: el reconocimiento de la propia ignorancia puede generar malestar si no se gestiona con cuidado el clima emocional del aula.
-- **Limitaciones del ejemplo del *Menón***: estudios contemporáneos han mostrado que no todos los participantes logran generalizar el resultado incluso después de seguir el diálogo completo.
-- **El Sócrates histórico vs. el de Platón**: es difícil separar el método real de Sócrates de la reconstrucción literaria y filosófica de su discípulo.
+- **Coste de tiempo:** el diálogo socrático profundo es difícil en grupos numerosos con presión curricular.
+- **Dependencia de la habilidad del docente:** mal aplicado puede convertirse en un interrogatorio intimidatorio o en una forma encubierta de transmitir la respuesta “correcta”.
+- **No es adecuado para todos los contenidos:** funciona mejor con conceptos, definiciones y razonamiento que con procedimientos técnicos que requieren práctica reiterada.
+- **Riesgo de frustración:** el reconocimiento de la propia ignorancia puede generar malestar si no se gestiona con cuidado el clima emocional del aula.
+- **Limitaciones del ejemplo del *Menón*:** estudios contemporáneos han mostrado que no todos los participantes logran generalizar el resultado incluso después de seguir el diálogo completo.
+- **El Sócrates histórico vs. el de Platón:** es difícil separar el método real de Sócrates de la reconstrucción literaria y filosófica de su discípulo.
 
 ---
 
