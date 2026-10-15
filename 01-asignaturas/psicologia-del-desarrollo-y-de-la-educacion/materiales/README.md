@@ -34,7 +34,8 @@ Recursos prácticos orientados al aula de Matemáticas.
 
 | Material | Tema / uso |
 |----------|------------|
-| [Neurodivergencia en el aula de Matemáticas](neurodivergencia-aula-matematicas.md) | Tema 2 |
+| [Neurodivergencia en el aula de Matemáticas](neurodivergencia-aula-matematicas.md) | Tema 2 — TDAH, TEA, dislexia, 2e |
+| [**Otros TND (DI, TDL, TDC, Tourette, perfil TANV)**](tnd-otros-trastornos-neurodesarrollo-matematicas.md) | Tema 2 — mapa ampliado y comorbilidad |
 | [Discalculia y DEA](discalculia-y-dea-matematicas.md) | Tema 2 |
 | [Registro ABC](registro-abc-conducta.md) | Tema 3 |
 | [Desarrollo moral (Kohlberg)](desarrollo-moral-kohlberg-aula.md) | Tema 1 |
