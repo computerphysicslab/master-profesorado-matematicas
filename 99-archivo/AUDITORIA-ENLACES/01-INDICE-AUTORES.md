@@ -1,4 +1,4 @@
-# Índice de auditor\u00eda de enlaces — autores / pensadores
+# Índice de auditoría de enlaces — autores / pensadores
 
 Actualizado: 2026-10-15
 
@@ -10,7 +10,7 @@ Actualizado: 2026-10-15
 | Euclides | SÍ | `08-matematicas-ciencia-computacion/euclides.md` | 15+ (geometría, visión histórica, exámenes, SA) | 5+ (geometría, visión histórica, Hipatia, MAPA, historia) | **COMPLETADO** |
 | San Agustín | SÍ | `01-filosofia-educacion/agustin.md` | 1+ (línea temporal + índice) | 2 (historia + INDICE) | **COMPLETADO** |
 | Santo Tomás de Aquino | SÍ | `01-filosofia-educacion/santo-tomas-de-aquino.md` | 1+ (línea temporal + índice) | 2 (historia + INDICE) | **COMPLETADO** |
-| Erasmo | ? | — | — | — | pendiente |
+| Erasmo | SÍ | `01-filosofia-educacion/erasmo.md` | 1+ (línea temporal) | 3 (historia + INDICE + auditoría) | **COMPLETADO** |
 | Juan Luis Vives | ? | — | — | — | pendiente |
 | San José de Calasanz | SÍ | `01-filosofia-educacion/jose-de-calasanz.md` | — | — | pendiente |
 | Galileo | ? | — | — | — | pendiente |
