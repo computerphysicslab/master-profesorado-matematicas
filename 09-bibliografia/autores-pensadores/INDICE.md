@@ -33,6 +33,7 @@ Ya en el repo (columna vertebral pedagógica del mismo polo): [Durkheim](./03-so
 | [Platón](./01-filosofia-educacion/platon.md) | Filosofía de la educación | conocimiento; formación intelectual | Procesos; Contenidos disciplinares |
 | [Aristóteles](./01-filosofia-educacion/aristoteles.md) | Filosofía | experiencia; hábito; lógica | Psicología; Procesos |
 | [San Agustín](./01-filosofia-educacion/agustin.md) | Filosofía de la educación | Maestro Interior; artes liberales; iluminación | Procesos; Contenidos disciplinares |
+| [Santo Tomás de Aquino](./01-filosofia-educacion/santo-tomas-de-aquino.md) | Filosofía de la educación | actualización de capacidades; virtudes intelectuales; *quaestio* | Procesos; Contenidos disciplinares |
 | [San José de Calasanz](./01-filosofia-educacion/jose-de-calasanz.md) | Escuela popular | gratuidad; ábaco; Escuelas Pías | Procesos |
 | [Comenio](./01-filosofia-educacion/comenio.md) | Didáctica moderna | enseñanza sistemática | Procesos |
 | [San Juan Bautista de La Salle](./01-filosofia-educacion/juan-bautista-de-la-salle.md) | Escuela primaria moderna | método simultáneo; formación de maestros | Procesos |
@@ -73,9 +74,6 @@ Ya en el repo (columna vertebral pedagógica del mismo polo): [Durkheim](./03-so
 | [Rico](./05-educacion-matematica/rico.md) | Didáctica | análisis didáctico | Diseño curricular |
 | [Taylor](./06-curriculo-evaluacion-investigacion/taylor.md) | Organización | eficiencia | Procesos |
 | [Bobbitt](./06-curriculo-evaluacion-investigacion/bobbitt.md) | Currículo técnico | objetivos | Procesos; Diseño curricular |
-| [Tyler](./06-curriculo-evaluacion-investigacion/tyler.md) | Teoría curricular | modelo racional | Procesos; Diseño curricular |
-| [Mager](./06-curriculo-evaluacion-investigacion/mager.md) | Objetivos | conducta observable | Diseño curricular |
-| [Bloom](./06-curriculo-evaluacion-investigacion/bloom.md) | Objetivos / evaluación | taxonomía | Diseño curricular |
 | [Taba](./06-curriculo-evaluacion-investigacion/taba.md) | Currículo | desarrollo sistemático | Diseño curricular |
 | [Shulman](./06-curriculo-evaluacion-investigacion/shulman.md) | Conocimiento docente | PCK | Diseño curricular |
 | [Wiliam](./06-curriculo-evaluacion-investigacion/william.md) | Evaluación formativa | feedback | Diseño de actividades |
