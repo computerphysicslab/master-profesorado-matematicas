@@ -18,7 +18,7 @@ parent: Materiales Procesos
 |---------|-------------|-------------------------------|
 | **Práctica educativa** | Formar a las nuevas generaciones (hogar, taller, templo, escuela) | Tan antigua como las sociedades humanas |
 | **Reflexión escrita** sobre cómo educar | Textos de sabiduría, normas escolares, tratados | Egipto y Mesopotamia entre los testimonios más antiguos conservados |
-| **Teoría / filosofía de la educación** explícita | Fines, métodos, relación con la ciudad y la virtud | Confucio; sofistas; Sócrates–Platón–Aristóteles |
+| **Teoría / filosofía de la educación** explícita | Fines, métodos, relación con la ciudad y la virtud | Confucio; sofistas; [Sócrates](../../../09-bibliografia/autores-pensadores/01-filosofia-educacion/socrates.md)–[Platón](../../../09-bibliografia/autores-pensadores/01-filosofia-educacion/platon.md)–[Aristóteles](../../../09-bibliografia/autores-pensadores/01-filosofia-educacion/aristoteles.md) |
 | **Disciplina científica y autónoma** | Campo universitario y sistemático (Herbart y la tradición moderna) | Sobre todo siglos XVII–XIX (Comenio; Rousseau; Pestalozzi; Herbart…) |
 
 La pedagogía como **reflexión sistemática** en la tradición occidental se asocia con fuerza a Grecia, pero la **práctica** y los **textos de formación** son anteriores y transculturales.
@@ -85,7 +85,7 @@ Con **[Sócrates](../../../09-bibliografia/autores-pensadores/01-filosofia-educa
 |--------------------------------|--------------------------------|
 | Práctica de formar a las nuevas generaciones | Las primeras sociedades humanas |
 | Reflexión **escrita** sobre cómo educar | Egipto y Mesopotamia (testimonios muy antiguos) |
-| Teoría pedagógica explícita y elaborada | Confucio; sofistas; [Sócrates](../../../09-bibliografia/autores-pensadores/01-filosofia-educacion/socrates.md) y [Platón](../../../09-bibliografia/autores-pensadores/01-filosofia-educacion/platon.md) |
+| Teoría pedagógica explícita y elaborada | Confucio; sofistas; [Sócrates](../../../09-bibliografia/autores-pensadores/01-filosofia-educacion/socrates.md), [Platón](../../../09-bibliografia/autores-pensadores/01-filosofia-educacion/platon.md) y [Aristóteles](../../../09-bibliografia/autores-pensadores/01-filosofia-educacion/aristoteles.md) |
 | Disciplina **científica y autónoma** moderna | Comenio (s. XVII); Rousseau, Pestalozzi, Herbart (ss. XVIII–XIX) |
 
 Para la **escuela de masas**, la **profesionalización docente** y las **corrientes** del XIX–XX, seguir en [corrientes pedagógicas e historia](corrientes-pedagogicas-historia-sintesis.md) y en las fichas de [autores-pensadores](../../../09-bibliografia/autores-pensadores/).
@@ -109,7 +109,7 @@ Para la **escuela de masas**, la **profesionalización docente** y las **corrien
 - Corpus escolar mesopotámico (edubba): estudios de historia de la educación y de asiriología sobre tablillas escolares paleobabilónicas.  
 - Confucio, *Analectas* (*Lunyu*).  
 - Homero; Hesíodo, *Los trabajos y los días*.  
-- [Platón](../../../09-bibliografia/autores-pensadores/01-filosofia-educacion/platon.md), *República*; Aristóteles, *Política*; Quintiliano, *Institutio oratoria*.
+- [Platón](../../../09-bibliografia/autores-pensadores/01-filosofia-educacion/platon.md), *República*; [Aristóteles](../../../09-bibliografia/autores-pensadores/01-filosofia-educacion/aristoteles.md), *Política*; Quintiliano, *Institutio oratoria*.
 
 **Historia de la educación (manuales y síntesis)**
 
@@ -120,6 +120,7 @@ Para la **escuela de masas**, la **profesionalización docente** y las **corrien
 
 - [Sócrates (mayéutica, diálogo)](../../../09-bibliografia/autores-pensadores/01-filosofia-educacion/socrates.md)  
 - [Platón](../../../09-bibliografia/autores-pensadores/01-filosofia-educacion/platon.md)  
+- [Aristóteles](../../../09-bibliografia/autores-pensadores/01-filosofia-educacion/aristoteles.md)  
 - [Corrientes pedagógicas e historia (síntesis)](corrientes-pedagogicas-historia-sintesis.md)  
 - [Tema 1 — Evolución histórica y paradigmas](../apuntes/01-evolucion-historica-sistema-educativo-paradigmas.md)  
 - [Historia del pensamiento educativo](../../../09-bibliografia/autores-pensadores/historia-del-pensamiento-educativo.md)  
