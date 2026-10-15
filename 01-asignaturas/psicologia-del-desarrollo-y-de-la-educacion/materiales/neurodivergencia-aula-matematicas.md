@@ -2,7 +2,7 @@
 
 **Asignatura:** Psicología del desarrollo y de la educación  
 **Temas relacionados:** [2 — Diferencias individuales](../apuntes/02-diferencias-individuales-problemas-adolescencia.md) · [4 — Cognición y FE](../apuntes/04-procesamiento-informacion-teorias-cognitivas.md)  
-**Materiales vinculados:** [Discalculia y DEA](discalculia-y-dea-matematicas.md) · [Funciones ejecutivas](funciones-ejecutivas-matematicas.md) · [Carga cognitiva](carga-cognitiva-matematicas.md) · [ZDP y andamiaje](zdp-andamiaje-matematicas.md) · [Gestión del error](gestion-del-error-matematicas.md) · [Feedback efectivo](feedback-efectivo-matematicas.md) · [Ansiedad matemática](ansiedad-matematica-aula.md) · [Tareas multinivel](diseno-tareas-multinivel-matematicas.md)  
+**Materiales vinculados:** [Discalculia y DEA](discalculia-y-dea-matematicas.md) · [**Otros TND (DI, TDL, TDC, Tourette, perfil TANV)**](tnd-otros-trastornos-neurodesarrollo-matematicas.md) · [Funciones ejecutivas](funciones-ejecutivas-matematicas.md) · [Carga cognitiva](carga-cognitiva-matematicas.md) · [ZDP y andamiaje](zdp-andamiaje-matematicas.md) · [Gestión del error](gestion-del-error-matematicas.md) · [Feedback efectivo](feedback-efectivo-matematicas.md) · [Ansiedad matemática](ansiedad-matematica-aula.md) · [Tareas multinivel](diseno-tareas-multinivel-matematicas.md)  
 **Marco de centro:** [DUA (Procesos y contextos)](../../procesos-y-contextos-educativos/materiales/dua-diseno-universal-aprendizaje.md) · [Atención a la diversidad](../../procesos-y-contextos-educativos/apuntes/04-atencion-diversidad-perspectiva-inclusiva.md)
 
 ---
@@ -32,6 +32,10 @@ Observar conductas  →  Describir hechos  →  Identificar barreras
 ```
 
 El docente **observa patrones; no diagnostica**.
+
+**Ampliación del mapa TND** (discapacidad intelectual, trastorno del lenguaje, coordinación, tics/Tourette, perfil TANV y comorbilidad):
+
+→ [**Otros TND e impacto en Matemáticas**](tnd-otros-trastornos-neurodesarrollo-matematicas.md)
 
 ---
 
@@ -127,6 +131,12 @@ Sentido numérico — no es “ser malo en mates” ni TDAH/dislexia. → [Disca
 
 Enriquecimiento en profundidad; en 2e atender **ambos** perfiles; clima de error ante perfeccionismo.
 
+### 3.6. Otros TND (mapa ampliado)
+
+DI, trastorno del desarrollo del lenguaje, trastorno del desarrollo de la coordinación, tics/Tourette y perfil TANV (no diagnóstico DSM):
+
+→ [**Otros TND e impacto en el aula de Matemáticas**](tnd-otros-trastornos-neurodesarrollo-matematicas.md)
+
 ---
 
 ## 4. Conducta, desregulación y evitación
@@ -178,7 +188,7 @@ Diagnosticar en el pasillo; bromear con etiquetas; bajar el currículo sin crite
 
 ## 9. Enlaces del máster
 
-[DUA](../../procesos-y-contextos-educativos/materiales/dua-diseno-universal-aprendizaje.md) · [DUA transversal](../../../02-apuntes/didactica/dua-diseno-universal-aprendizaje.md) · [Atención a la diversidad](../../procesos-y-contextos-educativos/apuntes/04-atencion-diversidad-perspectiva-inclusiva.md) · [Ansiedad matemática](ansiedad-matematica-aula.md) · [Tareas multinivel](diseno-tareas-multinivel-matematicas.md) · [Discalculia](discalculia-y-dea-matematicas.md) · [FE](funciones-ejecutivas-matematicas.md) · [Carga cognitiva](carga-cognitiva-matematicas.md) · [Dilemas IA](../../../06-inteligencia-artificial/etica/dilemas-eticos.md)
+[DUA](../../procesos-y-contextos-educativos/materiales/dua-diseno-universal-aprendizaje.md) · [DUA transversal](../../../02-apuntes/didactica/dua-diseno-universal-aprendizaje.md) · [Atención a la diversidad](../../procesos-y-contextos-educativos/apuntes/04-atencion-diversidad-perspectiva-inclusiva.md) · [Ansiedad matemática](ansiedad-matematica-aula.md) · [Tareas multinivel](diseno-tareas-multinivel-matematicas.md) · [Discalculia](discalculia-y-dea-matematicas.md) · [**Otros TND**](tnd-otros-trastornos-neurodesarrollo-matematicas.md) · [FE](funciones-ejecutivas-matematicas.md) · [Carga cognitiva](carga-cognitiva-matematicas.md) · [Dilemas IA](../../../06-inteligencia-artificial/etica/dilemas-eticos.md)
 
 ---
 
