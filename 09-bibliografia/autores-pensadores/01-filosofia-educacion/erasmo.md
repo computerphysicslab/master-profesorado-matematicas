@@ -45,7 +45,7 @@ Critica la escolástica rígida y el aprendizaje de fórmulas sin comprensión n
 
 - Respecto a [San Agustín](agustin.md) y [Santo Tomás de Aquino](santo-tomas-de-aquino.md): mantiene la centralidad de la formación moral e intelectual, pero desplaza el acento hacia las letras, la filología y una pedagogía más *liberal* (menos escolástica de disputas, más lectura y estilo).  
 - Respecto a [Comenio](comenio.md): anticipa la idea de educación ordenada y universalizable; Comenio sistematizará método y escuela para todos.  
-- Con **Juan Luis Vives** (aún sin ficha dedicada en el repo): comparte el humanismo ibérico-europeo, la atención al alumno concreto y la crítica de métodos brutales.
+- Con [Juan Luis Vives](vives.md): comparte el humanismo ibérico-europeo, la atención al alumno concreto y la crítica de métodos brutales; Vives sistematiza más la *traditio* de las disciplinas (*De disciplinis*).
 
 ---
 
@@ -119,7 +119,7 @@ Erasmo marca el paso del marco escolástico medieval al **humanismo pedagógico*
 - ¿Qué concepto debe poder explicar un futuro profesor? Humanismo pedagógico; educación *liberaliter*; crítica del castigo y de la memorización vacía.
 - ¿Cómo aparece en el aula? Clima sin humillación; exigencia con dignidad; procedimientos matemáticos con sentido, no solo repeticiones.
 - ¿Qué limitaciones tiene? Horizonte aristocrático-humanista del XVI; no es un manual de escuela de masas ni de DUA.
-- ¿Conexiones? [San Agustín](agustin.md); [Santo Tomás de Aquino](santo-tomas-de-aquino.md); [Comenio](comenio.md); Juan Luis Vives (ficha pendiente); línea temporal del pensamiento educativo.
+- ¿Conexiones? [San Agustín](agustin.md); [Santo Tomás de Aquino](santo-tomas-de-aquino.md); [Comenio](comenio.md); [Juan Luis Vives](vives.md); línea temporal del pensamiento educativo.
 
 ### Enlaces de investigación
 - [Google Scholar](https://scholar.google.com/scholar?q=Erasmus+De+pueris+instituendis+education)
