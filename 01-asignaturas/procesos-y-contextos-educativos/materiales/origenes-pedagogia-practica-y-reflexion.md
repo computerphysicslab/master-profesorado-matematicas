@@ -85,7 +85,7 @@ Con **[Sócrates](../../../09-bibliografia/autores-pensadores/01-filosofia-educa
 |--------------------------------|--------------------------------|
 | Práctica de formar a las nuevas generaciones | Las primeras sociedades humanas |
 | Reflexión **escrita** sobre cómo educar | Egipto y Mesopotamia (testimonios muy antiguos) |
-| Teoría pedagógica explícita y elaborada | Confucio; sofistas; [Sócrates](../../../09-bibliografia/autores-pensadores/01-filosofia-educacion/socrates.md) y Platón |
+| Teoría pedagógica explícita y elaborada | Confucio; sofistas; [Sócrates](../../../09-bibliografia/autores-pensadores/01-filosofia-educacion/socrates.md) y [Platón](../../../09-bibliografia/autores-pensadores/01-filosofia-educacion/platon.md) |
 | Disciplina **científica y autónoma** moderna | Comenio (s. XVII); Rousseau, Pestalozzi, Herbart (ss. XVIII–XIX) |
 
 Para la **escuela de masas**, la **profesionalización docente** y las **corrientes** del XIX–XX, seguir en [corrientes pedagógicas e historia](corrientes-pedagogicas-historia-sintesis.md) y en las fichas de [autores-pensadores](../../../09-bibliografia/autores-pensadores/).
@@ -109,7 +109,7 @@ Para la **escuela de masas**, la **profesionalización docente** y las **corrien
 - Corpus escolar mesopotámico (edubba): estudios de historia de la educación y de asiriología sobre tablillas escolares paleobabilónicas.  
 - Confucio, *Analectas* (*Lunyu*).  
 - Homero; Hesíodo, *Los trabajos y los días*.  
-- Platón, *República*; Aristóteles, *Política*; Quintiliano, *Institutio oratoria*.
+- [Platón](../../../09-bibliografia/autores-pensadores/01-filosofia-educacion/platon.md), *República*; Aristóteles, *Política*; Quintiliano, *Institutio oratoria*.
 
 **Historia de la educación (manuales y síntesis)**
 
@@ -119,6 +119,7 @@ Para la **escuela de masas**, la **profesionalización docente** y las **corrien
 **En el repositorio**
 
 - [Sócrates (mayéutica, diálogo)](../../../09-bibliografia/autores-pensadores/01-filosofia-educacion/socrates.md)  
+- [Platón](../../../09-bibliografia/autores-pensadores/01-filosofia-educacion/platon.md)  
 - [Corrientes pedagógicas e historia (síntesis)](corrientes-pedagogicas-historia-sintesis.md)  
 - [Tema 1 — Evolución histórica y paradigmas](../apuntes/01-evolucion-historica-sistema-educativo-paradigmas.md)  
 - [Historia del pensamiento educativo](../../../09-bibliografia/autores-pensadores/historia-del-pensamiento-educativo.md)  
