@@ -28,197 +28,216 @@ Implicación de aula: el «atracón» nocturno a costa del sueño **no** sustitu
 
 ---
 
-## 2. Catálogo de técnicas de alta eficacia
+## 2. Mapa de referencia: Dunlosky et al. (2013)
 
-### 2.1. Recuperación activa (*active recall* / *retrieval practice*)
+Dunlosky y colaboradores evaluaron **diez técnicas clásicas** de estudio según la evidencia disponible. **No todas son iguales**: la utilidad varía. Esta tabla orienta al docente y al alumnado de ESO/Bachillerato (síntesis didáctica del informe original).
+
+| # | Técnica (Dunlosky et al., 2013) | Utilidad (según el informe) | En esta ficha |
+|---|--------------------------------|-----------------------------|---------------|
+| 1 | Práctica de recuperación (*practice testing*) | **Alta** | §3.1 |
+| 2 | Práctica distribuida (*distributed practice*) | **Alta** | §3.2 |
+| 3 | Práctica intercalada (*interleaved practice*) | Moderada | §3.3 |
+| 4 | Elaboración interrogativa (*elaborative interrogation*) | Moderada | relacionada con §3.4 |
+| 5 | Autoexplicación (*self-explanation*) | Moderada | §3.4 |
+| 6 | Resumen (*summarization*) | Baja | usar con cautela |
+| 7 | Subrayado / destacado (*highlighting*) | Baja | sustituir por recuperación |
+| 8 | Mnemotecnia de palabras clave (*keyword mnemonic*) | Baja | útil en casos muy acotados |
+| 9 | Imágenes para textos (*imagery for text*) | Baja | distinta de la codificación dual bien diseñada |
+| 10 | Relectura (*rereading*) | Baja | ilusión de competencia frecuente |
+
+**Lectura para el aula:** priorizar recuperación y distribución; complementar con intercalación y autoexplicación; no presentar subrayado y relectura como «las mejores técnicas» solo porque son populares.
+
+**Técnicas útiles en ESO/Bachillerato que no están en esa lista de diez** (pero se apoyan en marcos afines): **Método Cornell**, **codificación dual** (Paivio / representaciones múltiples; cercana a Mayer en multimedia) y **técnica Feynman** (detección de lagunas por explicación simple). Se desarrollan abajo junto al catálogo prioritario.
+
+---
+
+## 3. Catálogo prioritario (alta / moderada utilidad + complementos)
+
+### 3.1. Recuperación activa (*active recall* / *practice testing*)
 
 - **Qué es:** reconstruir lo aprendido **sin** mirar el material (cuestionario, hoja en blanco, explicar en voz alta, resolver sin solución a la vista).
-- **Por qué funciona:** el esfuerzo de recuperación fortalece las rutas de acceso y combate la **ilusión de competencia** de la relectura pasiva.
+- **Por qué funciona:** el esfuerzo de recuperación fortalece las rutas de acceso y combate la **ilusión de competencia** de la relectura pasiva. Dunlosky et al.: utilidad **alta**.
 - **En Matemáticas:** cerrar el cuaderno y rehacer un tipo de problema; luego corregir.
 
-### 2.2. Repetición espaciada (*spaced repetition*)
+### 3.2. Repetición espaciada / práctica distribuida (*spaced / distributed practice*)
 
 - **Qué es:** repasos en intervalos crecientes (p. ej. día 1, 2, 5, 14), no un único bloque la víspera.
-- **Por qué funciona:** interrumpe la curva del olvido (Ebbinghaus); reconsolidar cuando el recuerdo empieza a debilitarse afianza la traza.
+- **Por qué funciona:** interrumpe la curva del olvido (Ebbinghaus); reconsolidar cuando el recuerdo empieza a debilitarse afianza la traza. Dunlosky et al.: utilidad **alta**.
 - **En Matemáticas:** 8–12 minutos de problemas mixtos del tema anterior al inicio de sesión.
 
-### 2.3. Intercalación (*interleaving*)
+### 3.3. Intercalación (*interleaving*)
 
 - **Qué es:** alternar tipos de problemas o procedimientos en la misma sesión (ecuaciones de primer grado, segundo grado y sistemas), no solo bloques homogéneos.
-- **Por qué funciona:** entrena la **discriminación** de estrategias ante un enunciado nuevo.
+- **Por qué funciona:** entrena la **discriminación** de estrategias ante un enunciado nuevo. Dunlosky et al.: utilidad **moderada**.
 - **En Matemáticas:** calentamiento con 4 ítems de temas distintos ya vistos.
 
-### 2.4. Autoexplicación y elaboración (*self-explanation*)
+### 3.4. Autoexplicación y elaboración interrogativa
 
-- **Qué es:** verbalizar o escribir **por qué** cada paso (p. ej. «resto 5 en ambos miembros para mantener la equivalencia»).
-- **Por qué funciona:** conecta lo nuevo con esquemas previos y activa metacognición.
+- **Qué es:** verbalizar o escribir **por qué** cada paso; preguntarse «¿por qué es verdad esto?» / «¿cómo se relaciona con lo que ya sé?» (*elaborative interrogation* + *self-explanation*).
+- **Por qué funciona:** conecta lo nuevo con esquemas previos y activa metacognición. Dunlosky et al.: utilidad **moderada** en ambas.
 - **En Matemáticas:** un paso justificado en voz alta o en margen; compatible con [lista de cotejo de argumentación](../../../07-evaluacion/instrumentos/lista-cotejo-argumentacion.md).
 
-### 2.5. Higiene del sueño estratégica
+### 3.5. Higiene del sueño estratégica
 
 - **Qué es:** rutina regular de sueño suficiente; evitar el estudio sistemático que roba horas al descanso.
 - **Por qué funciona:** el sueño participa en la consolidación declarativa y procedimental y en la regulación emocional (ansiedad ante el examen).
 - **Mensaje al alumnado:** estudiar quitando sueño no es «más esfuerzo productivo»; a menudo es menos recuerdo al día siguiente.
 
-### 2.6. Técnica de Feynman (exposición simplificada)
+### 3.6. Técnica de Feynman (simplificación y detección de lagunas)
 
-- **Qué es:** explicar un concepto o procedimiento con lenguaje sencillo, como a un compañero de un curso inferior.
-- **Por qué funciona:** pone al descubierto lagunas que la jerga memorizada oculta.
-- **En Matemáticas:** «explícale a un 1.º de ESO qué es una ecuación y un ejemplo».
+Inspirada en el físico **Richard Feynman**. No figura en la lista de diez de Dunlosky; es un procedimiento práctico de **autoexplicación exigente**.
 
-### 2.7. Ejemplos resueltos con retirada progresiva (*faded worked examples*)
+1. Elegir el tema (p. ej. fotosíntesis, derivada, teorema de Pitágoras).
+2. Explicarlo **por escrito o en voz alta sin apuntes**, con lenguaje cotidiano (como a un compañero de un curso inferior).
+3. Marcar dónde uno se atasca o recurre a jerga para tapar dudas.
+4. Volver a la fuente **solo** en esas lagunas; reescribir la explicación más simple.
+
+- **Por qué funciona en ESO/Bachillerato:** expone la **falsa sensación de aprendizaje** (parecer familiar ≠ comprender la estructura) y obliga a reorganizar el contenido.
+- **En Matemáticas:** «explícale a un 1.º de ESO qué es una ecuación y un ejemplo resuelto paso a paso en lenguaje llano».
+
+### 3.7. Ejemplos resueltos con retirada progresiva (*faded worked examples*)
 
 - **Qué es:** partir de problemas **completamente resueltos**, luego con pasos a completar, y solo después práctica autónoma.
 - **Por qué funciona:** carga cognitiva (Sweller): en novatos libera memoria de trabajo para atender la **estructura** del problema.
 - **En Matemáticas:** secuencia modelado → huecos → independiente (ver también [carga cognitiva](carga-cognitiva-matematicas.md)).
 
-### 2.8. Codificación dual (*dual coding*)
+### 3.8. Codificación dual (*dual coding*; Paivio / representaciones integradas)
 
 - **Qué es:** combinar de forma **integrada** información verbal (texto, explicación oral) e información no verbal / visual (diagramas, esquemas, mapas, gráficos, dibujos propios) en la **misma** tarea de aprendizaje. No basta con «poner una imagen al lado»: hay que **relacionar** ambas representaciones (flechas, etiquetas, correspondencia dato–símbolo).
-- **Por qué funciona:** la **teoría de la codificación dual** (Paivio) sostiene que el sistema cognitivo dispone de códigos verbales y no verbales (imaginería) relativamente independientes; cuando se activan de forma coordinada, se generan **más rutas de recuperación**. En la línea de la teoría cognitiva del aprendizaje multimedia (Mayer) y de las **representaciones múltiples** en STEM, los diagramas bien diseñados suelen apoyar la comprensión en matemáticas y ciencias, siempre que no multipliquen la carga extrínseca (redundancia decorativa, texto + narración idéntica sin función).
-- **Evidencia (lectura prudente):** meta-análisis recientes sobre representaciones múltiples en matemáticas y STEM encuentran, en conjunto, efectos positivos modestos sobre el rendimiento cuando se comparan con una sola representación; el efecto depende del **diseño**, del apoyo al alumnado para integrar representaciones y del dominio (p. ej. algebraico frente a otros). No confundir codificación dual con el mito de los «estilos de aprendizaje VARK» (enseñar solo al estilo preferido): la evidencia no apoya adaptar la instrucción al estilo autodeclarado; sí apoya **usar varias representaciones bien integradas** para todos.
-- **En Matemáticas (ESO / Bachillerato):**
-  - Tras resolver un problema, dibujar un **esquema** que enlace datos, incógnita y relaciones (flechas, tabla, diagrama de barras o árbol según el tipo).
-  - En geometría: figura + enunciado en palabras propias + una propiedad etiquetada en el dibujo.
-  - En funciones: tabla de valores + gráfica + frase que diga qué crece/decrece.
-  - En álgebra: ecuación + interpretación en una recta numérica o en un contexto.
-- **En otras materias (ejemplos para el alumnado):**
-  - **Biología (ESO):** esquema de la célula con orgánulos **y** función escrita con palabras propias (no solo copiar el dibujo del libro).
-  - **Historia (Bachillerato):** texto de causas → **línea temporal visual** con iconos o palabras clave por factor.
+- **Por qué funciona:** la **teoría de la codificación dual** (Paivio) sostiene canales verbal y no verbal relativamente independientes; al coordinarlos se generan más rutas de recuperación. La teoría cognitiva del aprendizaje multimedia (Mayer) y la investigación en **representaciones múltiples** en STEM apoyan diagramas bien diseñados en matemáticas y ciencias, sin saturar con redundancia decorativa.
+- **Distinción importante:** no es lo mismo que el ítem «imágenes para textos» de utilidad baja en Dunlosky (a menudo imaginería pasiva poco controlada), ni que el mito VARK (enseñar solo al estilo preferido). La evidencia apoya **varias representaciones integradas para todos**, no etiquetar al alumno como «visual».
+- **En Matemáticas:** esquema datos–incógnita tras resolver; figura + propiedad etiquetada; tabla + gráfica + frase de tendencia.
+- **Otras materias:** célula (esquema + función en palabras propias); Historia (línea temporal visual de causas).
 
-**Qué evitar:** adornos sin función cognitiva; copiar el esquema del libro sin reorganizarlo; saturar la página con tres gráficos y un muro de texto que nadie integra.
+**Qué evitar:** adornos sin función; copiar el dibujo del libro sin reorganizarlo; tres gráficos + muro de texto sin integración.
 
-**Puente curricular:** competencia de **representación** (CE.M.7 en la síntesis del repo) y [carga cognitiva](carga-cognitiva-matematicas.md) (el visual debe **reducir** carga extrínseca, no añadirla).
+**Puente curricular:** representación (CE.M.7) y [carga cognitiva](carga-cognitiva-matematicas.md).
+
+### 3.9. Método Cornell (organización activa de apuntes)
+
+No está en la lista de diez de Dunlosky; es un **sistema de toma y procesamiento de apuntes** muy usado en secundaria y preparación de pruebas tipo EBAU/PAU.
+
+Dividir el folio en tres zonas:
+
+| Zona | Uso |
+|------|-----|
+| **Columna de notas** (derecha, ~70 %) | Apuntes principales durante la clase |
+| **Columna de claves / preguntas** (izquierda, ~30 %) | Tras la clase: palabras clave, fórmulas, preguntas de repaso |
+| **Pie de página** | Resumen en 2–3 frases de la idea central |
+
+- **Por qué funciona en ESO/Bachillerato:** obliga a **reprocesar** (no solo copiar al dictado); la columna izquierda alimenta la **recuperación activa** (tapar la derecha e intentar responder las preguntas); el resumen fuerza síntesis.
+- **En Matemáticas:** derecha = desarrollo de un ejemplo; izquierda = «¿cuándo uso este método?» / fórmula clave; pie = en una frase, qué tipo de problema resuelve.
+- **Cuidado:** Cornell **no sustituye** la práctica de problemas; organiza y prepara el repaso. Combinarlo con recuperación y espaciado.
 
 ---
 
-## 3. Condiciones de estudio: atención y entorno
+## 4. Condiciones de estudio: atención y entorno
 
-Las técnicas de alta eficacia **fracasan** si la memoria de trabajo se fragmenta continuamente. El entorno y la gestión de distracciones no son «consejos de organización» menores: son **condiciones de codificación**.
+Las técnicas de alta eficacia **fracasan** si la memoria de trabajo se fragmenta continuamente. El entorno y la gestión de distracciones son **condiciones de codificación**.
 
-### 3.1. Cero móviles, cero redes, cero multitarea
-
-Cuando se estudia Matemáticas (o cualquier materia que exija razonamiento secuencial):
+### 4.1. Cero móviles, cero redes, cero multitarea
 
 | Regla | Por qué importa |
 |-------|------------------|
-| **Móvil fuera del campo visual** (otro habitación, cajón, modo avión sin excepciones «por si acaso») | La mera **presencia** del teléfono reduce la capacidad atencional disponible, aunque no se mire (efecto de reserva atencional). |
-| **Cero redes sociales y mensajería** durante el bloque de estudio | Cada notificación o «solo un momento» obliga a un **cambio de tarea**: se pierde el hilo del problema multi-paso y hay que reconstruir el estado mental. |
-| **Una sola tarea cognitiva** (estudiar *o* responder chats, no ambas) | La multitarea no duplica el tiempo: lo **parte** y degrada la codificación en memoria de trabajo (Sweller: carga extrínseca artificial). |
+| **Móvil fuera del campo visual** | La mera presencia del teléfono puede reducir capacidad atencional disponible (reserva atencional). |
+| **Cero redes y mensajería** en el bloque | Cada interrupción es un **cambio de tarea** que rompe el hilo del problema multi-paso. |
+| **Una sola tarea cognitiva** | La multitarea parte el tiempo y degrada la codificación (carga extrínseca artificial). |
 
-**Mensaje al alumnado (sin moralina):** no se trata de «ser disciplinado» en abstracto. Se trata de que el cerebro **no puede** codificar bien un procedimiento algebraico mientras parte de la atención vigila el móvil. Un bloque de 25–40 minutos **protegido** rinde más que dos horas interrumpidas.
+Bloques de 25–40 minutos **protegidos** rinden más que dos horas interrumpidas. Redes **entre** bloques, no dentro.
 
-**Estrategias prácticas:**
+### 4.2. El escritorio como espejo del orden mental
 
-1. Definir el bloque **antes** de sentarse («hoy: 30 min de sistemas; móvil en la cocina»).
-2. Si hace falta el móvil como temporizador, ponerlo **en modo no molestar** y fuera del alcance de la mano.
-3. Acordar con la familia o compañeros de piso un intervalo sin interrupciones.
-4. Las redes se revisan **entre** bloques, no *dentro* del bloque.
-
-### 3.2. El escritorio como espejo del orden mental
-
-Una mesa abarrotada de apuntes de otras asignaturas, botellas, auriculares y pantallas en paralelo **compite** por la atención visual y aumenta la carga extrínseca. Una mesa limpia, con **solo** lo necesario para esa sesión, reduce decisiones irrelevantes y facilita entrar en el problema.
-
-| Elemento en la mesa | Criterio |
-|---------------------|----------|
-| Material del tema de hoy (cuaderno, hoja de problemas, libro abierto en la página útil) | Sí |
-| Calculadora, regla, bolígrafo de trabajo | Sí, si se usan |
-| Apuntes de otras materias, ropa, platos, móvil | No |
-| Pantalla secundaria con redes o vídeo de fondo | No |
-
-**Idea para el alumnado:** preparar la mesa **antes** de empezar el temporizador es parte del estudio, no un retraso. Ordenar el espacio es una forma visible de **compromiso con una sola tarea**. No garantiza la comprensión, pero elimina fricción inútil.
-
-**Para el docente:** se puede modelar en clase (mesa de trabajo limpia al iniciar una práctica) y hablarlo sin juzgar el hogar del alumno: el principio es **reducir estímulos irrelevantes**, no imponer estética.
+Mesa limpia con **solo** el material de esa sesión; fuera apuntes de otras materias, móvil y pantallas de distracción. Preparar la mesa **antes** del temporizador forma parte del estudio. El docente puede modelarlo en clase sin juzgar el hogar del alumno.
 
 ---
 
-## 4. Plan de examen: regulación emocional en la prueba
+## 5. Plan de examen: regulación emocional en la prueba
 
-En este contexto, **«plan de examen»** no es un temario ni una lista de fórmulas. Es una **estrategia que el alumno prepara de antemano** para gestionar las emociones y organizar su actuación **durante** el examen.
+**«Plan de examen»** = estrategia previa para gestionar emociones y organizar la actuación **durante** la prueba (no es el temario).
 
-### 4.1. Ejemplo (Matemáticas ESO)
+### 5.1. Ejemplo (Matemáticas ESO)
 
-1. **Primera lectura:** leer todos los ejercicios y valorar su dificultad aparente.
-2. **Orden de resolución:** empezar por los que sabe resolver para ganar confianza y asegurar puntos.
-3. **Ante un bloqueo:** respirar, releer el enunciado e identificar *qué* se pregunta (datos, incógnita, tipo de problema).
-4. **Si persiste la dificultad:** dejar el ejercicio temporalmente y continuar con otro.
-5. **Revisión final:** si queda tiempo, comprobar cálculos y respuestas.
+1. Primera lectura de todos los ejercicios y valoración de dificultad.  
+2. Empezar por los que se saben resolver (confianza y puntos seguros).  
+3. Ante un bloqueo: respirar, releer, identificar qué se pregunta.  
+4. Si persiste: dejar el ejercicio y continuar con otro.  
+5. Revisión final de cálculos si queda tiempo.
 
-Este plan se **ensaya** en simulacros o en controles cortos; no se improvisa solo el día del examen oficial.
+Ensayar en simulacros; no improvisar solo el día oficial.
 
-### 4.2. Por qué pertenece a la regulación emocional (Salovey y Mayer)
+### 5.2. Salovey y Mayer (cuatro ramas)
 
-El modelo de habilidad de **Salovey y Mayer** distingue cuatro ramas de la inteligencia emocional. El plan de examen no se limita a *notar* la ansiedad: **usa estrategias** para que esa emoción no dicte la conducta y el alumno siga orientado al objetivo (resolver la prueba).
+| Rama | Ejemplo en el examen |
+|------|----------------------|
+| **Percepción** | «Estoy sintiendo ansiedad» |
+| **Facilitación** | «La ansiedad me dificulta concentrarme» |
+| **Comprensión** | «Me pongo ansioso cuando no sé un ejercicio porque temo suspender» |
+| **Regulación** | «Lo dejo, hago otro y vuelvo después» |
 
-| Rama | Ejemplo en el examen de mates |
-|------|-------------------------------|
-| **Percepción** | «Estoy sintiendo ansiedad» (nudo en el estómago, mente en blanco al leer el 3). |
-| **Facilitación** | «La ansiedad me está dificultando concentrarme en este enunciado». |
-| **Comprensión** | «Me pongo ansioso cuando encuentro un ejercicio que no sé resolver porque temo suspender». |
-| **Regulación** | «Voy a dejar este ejercicio, resolver otro y volver después con más calma». |
-
-**Resumen:** el plan de examen es una **estrategia práctica de regulación emocional**. Evita que la ansiedad determine el orden de trabajo (p. ej. quedarse atascado 20 minutos en el ítem más difícil y no llegar a los que sí sabía).
-
-**Puente de aula:** conectar con [ansiedad matemática](ansiedad-matematica-aula.md) y, si se cursa, con la optativa de educación emocional (modelo de habilidad, TMMS, regulación). El docente puede pedir que el alumnado **escriba su plan de examen** una semana antes de la prueba y lo pruebe en un simulacro.
+Puente: [ansiedad matemática](ansiedad-matematica-aula.md) y optativa de educación emocional si se cursa.
 
 ---
 
-## 5. Decálogo práctico (alumnado ESO / Bachillerato)
+## 6. Decálogo práctico (alumnado ESO / Bachillerato)
 
-1. **Sustituye el subrayado pasivo por la autoevaluación:** cerrar el libro y escribir o explicar lo que se recuerda.
-2. **Repasos breves y frecuentes:** bloques de ~25 minutos varios días superan al atracón de la víspera.
-3. **El error en la práctica es información:** indica dónde centrar el siguiente repaso espaciado.
-4. **Respeta 8–10 horas de sueño** (orientativo en adolescencia): el estudio nocturno crónico degrada consolidación y regulación emocional.
-5. **Una tarea cada vez:** móvil fuera de alcance; cero redes durante el bloque.
-6. **Prepara la mesa** con solo lo de esa sesión antes de empezar el temporizador.
-7. **Combina palabras y esquema:** tras un problema, dibuja la relación datos–incógnita (codificación dual); no copies el dibujo del libro sin etiquetarlo.
-8. **Antes del examen, escribe tu plan** (orden, qué hacer si te bloqueas, revisión) y ensáyalo.
+1. Sustituye subrayado y relectura pasiva por **autoevaluación** (cerrar el libro).  
+2. **Repasos breves y frecuentes** (espaciado), no solo atracón la víspera.  
+3. El error en la práctica indica dónde centrar el siguiente repaso.  
+4. **8–10 h de sueño** (orientativo en adolescencia).  
+5. **Móvil fuera**; una tarea por bloque.  
+6. **Mesa solo con lo de hoy.**  
+7. **Palabras + esquema** (codificación dual) tras un problema.  
+8. Apuntes tipo **Cornell** + preguntas de repaso a la izquierda.  
+9. Explica en voz simple (**Feynman**) y localiza lagunas.  
+10. **Plan de examen** escrito y ensayado antes de la prueba oficial.
 
 ---
 
-## 6. Uso docente (resumen)
+## 7. Uso docente (resumen)
 
 | Decisión de diseño | Técnica que apoya |
 |---------------------|-------------------|
-| Inicio de sesión con 2–3 ítems del tema anterior | Recuperación + espaciado |
-| Mezcla de tipos en la hoja de práctica | Intercalación |
-| Exigir justificación de un paso clave | Autoexplicación / CE.M.8 |
-| Secuencia ejemplo resuelto → incompleto → solo | *Faded worked examples* + carga cognitiva |
-| Pedir esquema propio datos–incógnita o figura etiquetada | Codificación dual + representación (CE.M.7) |
-| Hablar en clase de sueño, móvil y planificación del estudio | Higiene atencional y del sueño (con mecanismo, sin moralina) |
-| Simulacro + «escribe tu plan de examen» | Regulación emocional (Salovey y Mayer) + [ansiedad matemática](ansiedad-matematica-aula.md) |
-
-No sustituye la comprensión ni los problemas ricos: **complementa** la práctica para que lo comprendido sea **recuperable** y para que la emoción no secuestre la actuación en la prueba.
+| 2–3 ítems del tema anterior al inicio | Recuperación + espaciado (alta utilidad Dunlosky) |
+| Mezcla de tipos en la hoja | Intercalación |
+| Justificar un paso clave | Autoexplicación / elaboración |
+| Ejemplo resuelto → incompleto → solo | *Faded worked examples* |
+| Esquema propio datos–incógnita | Codificación dual + CE.M.7 |
+| Modelo de hoja Cornell en un tema | Organización de apuntes + recuperación |
+| «Explícalo como a 1.º de ESO» | Feynman |
+| Simulacro + plan de examen escrito | Regulación emocional + [ansiedad matemática](ansiedad-matematica-aula.md) |
+| Desincentivar subrayado masivo y relectura sola | Coherente con utilidad **baja** en Dunlosky |
 
 ---
 
-## 7. Referencias orientativas
+## 8. Referencias orientativas
 
-**Cognición, práctica y sueño**
+**Mapa de técnicas y cognición**
+
+- Dunlosky, J., Rawson, K. A., Marsh, E. J., Nathan, M. J., & Willingham, D. T. (2013). Improving students’ learning with effective learning techniques: Promising directions from cognitive and educational psychology. *Psychological Science in the Public Interest*, 14(1), 4–58.  
+  → Referencia canónica de las **diez técnicas** y su utilidad alta / moderada / baja.
+- Ebbinghaus, H. (1885). *Über das Gedächtnis*. Duncker & Humblot.
+- Sweller, J. (1988). Cognitive load during problem solving. *Cognitive Science*, 12(2), 257–285.
+
+**Sueño y consolidación**
 
 - Born, J., Rasch, B., & Gais, S. (2006). Sleep to remember. *Neuroscientist*, 12(5), 410–424.
-- Dunlosky, J., Rawson, K. A., Marsh, E. J., Nathan, M. J., & Willingham, D. T. (2013). Improving students’ learning with effective learning techniques. *Psychological Science in the Public Interest*, 14(1), 4–58.
-- Ebbinghaus, H. (1885). *Über das Gedächtnis*. Duncker & Humblot.
-- Jenkins, J. G., & Dallenbach, K. M. (1924). Obliviscence during sleep and waking. *The American Journal of Psychology*, 35(4), 605–612.
 - Stickgold, R. (2005). Sleep-dependent memory consolidation. *Nature*, 437(7063), 1272–1278.
-- Sweller, J. (1988). Cognitive load during problem solving: Effects on learning. *Cognitive Science*, 12(2), 257–285.
 - Tononi, G., & Cirelli, C. (2014). Sleep and the price of plasticity. *Neuron*, 81(1), 12–34.
 - Walker, M. P. (2009). The role of sleep in cognition and emotion. *Annals of the New York Academy of Sciences*, 1156(1), 168–197.
+- Jenkins, J. G., & Dallenbach, K. M. (1924). Obliviscence during sleep and waking. *The American Journal of Psychology*, 35(4), 605–612.
 
-**Codificación dual y representaciones múltiples**
+**Codificación dual y multimedia**
 
-- Paivio, A. (1971/1990 y trabajos posteriores). Teoría de la codificación dual (*dual coding theory*).
+- Paivio, A. (1971/1990 y trabajos posteriores). *Dual coding theory*.
 - Clark, J. M., & Paivio, A. (1991). Dual coding theory and education. *Educational Psychology Review*, 3, 149–210.
-- Mayer, R. E. — teoría cognitiva del aprendizaje multimedia (principios de coherencia, señalización, redundancia; no saturar canales).
-- Meta-análisis recientes sobre **representaciones múltiples** en matemáticas / STEM (efectos positivos modestos en promedio; heterogeneidad alta según diseño y apoyo). Verificar el estudio concreto antes de citar un tamaño de efecto en un TFM.
-
-**Atención y distracción digital (lectura complementaria)**
-
-- Estudios sobre presencia del teléfono y capacidad atencional (p. ej. línea de trabajo de Ward et al. sobre *brain drain*); sintetizar con prudencia en clase: el mecanismo útil es la **reserva atencional** y el coste del cambio de tarea.
+- Mayer, R. E. — teoría cognitiva del aprendizaje multimedia (coherencia, señalización, redundancia).
 
 **Regulación emocional**
 
 - Salovey, P., & Mayer, J. D. (1990). Emotional intelligence. *Imagination, Cognition and Personality*, 9(3), 185–211.
-- Mayer, J. D., Salovey, P., & Caruso, D. R. (trabajos posteriores sobre el modelo de habilidad de cuatro ramas).
+
+**Método Cornell**
+
+- Sistema de apuntes atribuido a Walter Pauk (Universidad de Cornell); difundido en manuales de estudio universitario y de secundaria. Presentarlo como **organización + apoyo a la recuperación**, no como técnica aislada de utilidad «alta» en el sentido Dunlosky.
 
 Verificar edición y acceso antes de citar en trabajos académicos.
