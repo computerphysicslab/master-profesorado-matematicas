@@ -23,7 +23,7 @@ El rol más sostenible es una combinación: el docente sigue siendo responsable 
 - **Andamiaje gradual** (pistas de distinto nivel sin dar la solución completa).
 - **Reformulación de enunciados** (accesibilidad, DUA).
 - **Generación de contextos** más cercanos al alumnado (con cuidado de estereotipos).
-- **Simulación de diálogo socrático** para que el alumno practique argumentar y criticar.
+- **Simulación de [diálogo socrático](../../09-bibliografia/autores-pensadores/01-filosofia-educacion/socrates.md)** para que el alumno practique argumentar y criticar (véase también la [actividad completa](../actividades/dialogo-socratico-ia-completo.md)).
 - **Apoyo a la modelización** (ideas de variables, hipótesis, representaciones).
 
 Lo que **no** aporta de forma fiable:
@@ -68,5 +68,6 @@ La IA facilita generar feedback borrador, pero el juicio sobre el aprendizaje si
 ## 5. Lecturas y recursos orientativos
 
 - Apunte base del repositorio: [IA en el aula de Matemáticas](../../02-apuntes/tecnologia-educativa/ia-en-el-aula-matematicas.md)
+- [Sócrates](../../09-bibliografia/autores-pensadores/01-filosofia-educacion/socrates.md) — mayéutica y diálogo (base del «tutor socrático»)
 - Marcos institucionales (consultar actualizaciones): recomendaciones de la UE sobre IA en educación, informes UNESCO sobre IA y educación.
 - Conexión con innovación: posible línea de TFM o de investigación-acción en el Practicum.
