@@ -8,7 +8,7 @@ Actualizado: 2026-10-15
 | Platón | SÍ | `01-filosofia-educacion/platon.md` | 10+ (orígenes, geometría, finalidades, concepciones) | 6+ (orígenes, geometría, finalidades, materiales, cross-links) | **COMPLETADO** |
 | Aristóteles | SÍ | `01-filosofia-educacion/aristoteles.md` | 5+ (orígenes + índices + cross-links) | 4+ (orígenes tablas/referencias + hilo histórico + índices) | **COMPLETADO** |
 | Euclides | SÍ | `08-matematicas-ciencia-computacion/euclides.md` | 15+ (geometría, visión histórica, exámenes, SA) | 5+ (geometría, visión histórica, Hipatia, MAPA, historia) | **COMPLETADO** |
-| San Agustín | ? | — | — | — | pendiente |
+| San Agustín | NO | — | 1 (línea temporal) | 0 | **FICHA PENDIENTE** |
 | Tomás de Aquino | ? | — | — | — | pendiente |
 | Erasmo | ? | — | — | — | pendiente |
 | Juan Luis Vives | ? | — | — | — | pendiente |
