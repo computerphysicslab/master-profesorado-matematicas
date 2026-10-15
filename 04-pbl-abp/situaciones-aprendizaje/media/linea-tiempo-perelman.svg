@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 160" role="img" aria-label="Línea temporal conjetura de Poincaré y Perelman">
+  <rect width="720" height="160" fill="#f8fafc"/>
+  <line x1="60" y1="80" x2="660" y2="80" stroke="#1e3a5f" stroke-width="3"/>
+  <circle cx="100" cy="80" r="10" fill="#2563eb"/>
+  <text x="100" y="55" text-anchor="middle" font-family="system-ui,sans-serif" font-size="13" font-weight="700" fill="#1e3a5f">1904</text>
+  <text x="100" y="115" text-anchor="middle" font-family="system-ui,sans-serif" font-size="11" fill="#334155">Poincaré formula</text>
+  <text x="100" y="130" text-anchor="middle" font-family="system-ui,sans-serif" font-size="11" fill="#334155">la conjetura</text>
+  <circle cx="280" cy="80" r="10" fill="#0d9488"/>
+  <text x="280" y="55" text-anchor="middle" font-family="system-ui,sans-serif" font-size="13" font-weight="700" fill="#1e3a5f">2002–03</text>
+  <text x="280" y="115" text-anchor="middle" font-family="system-ui,sans-serif" font-size="11" fill="#334155">Perelman: preprints</text>
+  <text x="280" y="130" text-anchor="middle" font-family="system-ui,sans-serif" font-size="11" fill="#334155">en arXiv</text>
+  <circle cx="460" cy="80" r="10" fill="#d97706"/>
+  <text x="460" y="55" text-anchor="middle" font-family="system-ui,sans-serif" font-size="13" font-weight="700" fill="#1e3a5f">2006</text>
+  <text x="460" y="115" text-anchor="middle" font-family="system-ui,sans-serif" font-size="11" fill="#334155">Declina la</text>
+  <text x="460" y="130" text-anchor="middle" font-family="system-ui,sans-serif" font-size="11" fill="#334155">Medalla Fields</text>
+  <circle cx="620" cy="80" r="10" fill="#dc2626"/>
+  <text x="620" y="55" text-anchor="middle" font-family="system-ui,sans-serif" font-size="13" font-weight="700" fill="#1e3a5f">2010</text>
+  <text x="620" y="115" text-anchor="middle" font-family="system-ui,sans-serif" font-size="11" fill="#334155">Declina el premio</text>
+  <text x="620" y="130" text-anchor="middle" font-family="system-ui,sans-serif" font-size="11" fill="#334155">Clay (1 M USD)</text>
+</svg>
