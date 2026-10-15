@@ -100,7 +100,7 @@ No confundir **formativa** (capacidades) con **instrumental** (utilidad para otr
 | Cockcroft | ¿Para qué necesita matemáticas el ciudadano/estudiante? | Justificar la presencia en el currículo |
 | Rico | ¿Qué *valores* educativos aportan? | Equilibrar cultural, social, formativa y ética |
 
-Una misma actividad puede analizarse desde los tres sin confundirlos. Ejemplo: comparar fracciones con pizzas puede ser instrumentalista (solo la regla), platonista (propiedades de equivalencia) o de resolución de problemas (explorar estrategias); a la vez es funcional (reparto) y formativa (razonamiento proporcional).
+Una misma actividad puede analizarse desde los tres sin confundirlos. Ejemplo: comparar fracciones con pizzas puede ser instrumentalista (solo la regla), [platonista](../../../09-bibliografia/autores-pensadores/01-filosofia-educacion/platon.md) (propiedades de equivalencia) o de resolución de problemas (explorar estrategias); a la vez es funcional (reparto) y formativa (razonamiento proporcional).
 
 ---
 
@@ -128,7 +128,7 @@ Una enseñanza equilibrada busca comprensión relacional **y** fluidez procedime
 
 Jerome Bruner describió la progresión enactivo → icónico → simbólico. En Secundaria, partir de lo concreto facilita el acceso a lo general **si el recorrido no se detiene en el ejemplo**.
 
-Una lectura educativa del platonismo no implica rechazar las aplicaciones: apunta a **elevar al alumnado desde lo particular hacia relaciones generales**. Dieudonné insistió en preservar el carácter de estructura y no diluir las matemáticas en una mera colección de técnicas aplicadas.
+Una lectura educativa del [platonismo](../../../09-bibliografia/autores-pensadores/01-filosofia-educacion/platon.md) no implica rechazar las aplicaciones: apunta a **elevar al alumnado desde lo particular hacia relaciones generales**. Dieudonné insistió en preservar el carácter de estructura y no diluir las matemáticas en una mera colección de técnicas aplicadas.
 
 ### 7.3. Ámbitos, contextualización y profundidad disciplinar
 
