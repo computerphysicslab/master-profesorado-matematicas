@@ -8,7 +8,7 @@ parent: Materiales Psicología
 
 **Destinatarios:** profesorado y alumnado de ESO y Bachillerato.  
 **Ámbito:** transversal · didáctica de las Matemáticas y ciencias.  
-**Marco:** psicología cognitiva (Sweller, Ebbinghaus, Dunlosky et al.), consolidación durante el sueño (Born, Stickgold, Tononi, Walker) y regulación emocional (Salovey y Mayer).
+**Marco:** psicología cognitiva (Sweller, Ebbinghaus, Dunlosky et al., Paivio), consolidación durante el sueño (Born, Stickgold, Tononi, Walker) y regulación emocional (Salovey y Mayer).
 
 **Complementa:** [Memoria, práctica y transferencia](memoria-practica-transferencia-matematicas.md) · [Carga cognitiva](carga-cognitiva-matematicas.md) · [Evidencia en psicología educativa](evidencia-psicologia-educativa.md) · [Ansiedad matemática](ansiedad-matematica-aula.md) · [Tema 4](../apuntes/04-procesamiento-informacion-teorias-cognitivas.md)
 
@@ -71,6 +71,24 @@ Implicación de aula: el «atracón» nocturno a costa del sueño **no** sustitu
 - **Qué es:** partir de problemas **completamente resueltos**, luego con pasos a completar, y solo después práctica autónoma.
 - **Por qué funciona:** carga cognitiva (Sweller): en novatos libera memoria de trabajo para atender la **estructura** del problema.
 - **En Matemáticas:** secuencia modelado → huecos → independiente (ver también [carga cognitiva](carga-cognitiva-matematicas.md)).
+
+### 2.8. Codificación dual (*dual coding*)
+
+- **Qué es:** combinar de forma **integrada** información verbal (texto, explicación oral) e información no verbal / visual (diagramas, esquemas, mapas, gráficos, dibujos propios) en la **misma** tarea de aprendizaje. No basta con «poner una imagen al lado»: hay que **relacionar** ambas representaciones (flechas, etiquetas, correspondencia dato–símbolo).
+- **Por qué funciona:** la **teoría de la codificación dual** (Paivio) sostiene que el sistema cognitivo dispone de códigos verbales y no verbales (imaginería) relativamente independientes; cuando se activan de forma coordinada, se generan **más rutas de recuperación**. En la línea de la teoría cognitiva del aprendizaje multimedia (Mayer) y de las **representaciones múltiples** en STEM, los diagramas bien diseñados suelen apoyar la comprensión en matemáticas y ciencias, siempre que no multipliquen la carga extrínseca (redundancia decorativa, texto + narración idéntica sin función).
+- **Evidencia (lectura prudente):** meta-análisis recientes sobre representaciones múltiples en matemáticas y STEM encuentran, en conjunto, efectos positivos modestos sobre el rendimiento cuando se comparan con una sola representación; el efecto depende del **diseño**, del apoyo al alumnado para integrar representaciones y del dominio (p. ej. algebraico frente a otros). No confundir codificación dual con el mito de los «estilos de aprendizaje VARK» (enseñar solo al estilo preferido): la evidencia no apoya adaptar la instrucción al estilo autodeclarado; sí apoya **usar varias representaciones bien integradas** para todos.
+- **En Matemáticas (ESO / Bachillerato):**
+  - Tras resolver un problema, dibujar un **esquema** que enlace datos, incógnita y relaciones (flechas, tabla, diagrama de barras o árbol según el tipo).
+  - En geometría: figura + enunciado en palabras propias + una propiedad etiquetada en el dibujo.
+  - En funciones: tabla de valores + gráfica + frase que diga qué crece/decrece.
+  - En álgebra: ecuación + interpretación en una recta numérica o en un contexto.
+- **En otras materias (ejemplos para el alumnado):**
+  - **Biología (ESO):** esquema de la célula con orgánulos **y** función escrita con palabras propias (no solo copiar el dibujo del libro).
+  - **Historia (Bachillerato):** texto de causas → **línea temporal visual** con iconos o palabras clave por factor.
+
+**Qué evitar:** adornos sin función cognitiva; copiar el esquema del libro sin reorganizarlo; saturar la página con tres gráficos y un muro de texto que nadie integra.
+
+**Puente curricular:** competencia de **representación** (CE.M.7 en la síntesis del repo) y [carga cognitiva](carga-cognitiva-matematicas.md) (el visual debe **reducir** carga extrínseca, no añadirla).
 
 ---
 
@@ -153,7 +171,8 @@ El modelo de habilidad de **Salovey y Mayer** distingue cuatro ramas de la intel
 4. **Respeta 8–10 horas de sueño** (orientativo en adolescencia): el estudio nocturno crónico degrada consolidación y regulación emocional.
 5. **Una tarea cada vez:** móvil fuera de alcance; cero redes durante el bloque.
 6. **Prepara la mesa** con solo lo de esa sesión antes de empezar el temporizador.
-7. **Antes del examen, escribe tu plan** (orden, qué hacer si te bloqueas, revisión) y ensáyalo.
+7. **Combina palabras y esquema:** tras un problema, dibuja la relación datos–incógnita (codificación dual); no copies el dibujo del libro sin etiquetarlo.
+8. **Antes del examen, escribe tu plan** (orden, qué hacer si te bloqueas, revisión) y ensáyalo.
 
 ---
 
@@ -165,6 +184,7 @@ El modelo de habilidad de **Salovey y Mayer** distingue cuatro ramas de la intel
 | Mezcla de tipos en la hoja de práctica | Intercalación |
 | Exigir justificación de un paso clave | Autoexplicación / CE.M.8 |
 | Secuencia ejemplo resuelto → incompleto → solo | *Faded worked examples* + carga cognitiva |
+| Pedir esquema propio datos–incógnita o figura etiquetada | Codificación dual + representación (CE.M.7) |
 | Hablar en clase de sueño, móvil y planificación del estudio | Higiene atencional y del sueño (con mecanismo, sin moralina) |
 | Simulacro + «escribe tu plan de examen» | Regulación emocional (Salovey y Mayer) + [ansiedad matemática](ansiedad-matematica-aula.md) |
 
@@ -184,6 +204,13 @@ No sustituye la comprensión ni los problemas ricos: **complementa** la práctic
 - Sweller, J. (1988). Cognitive load during problem solving: Effects on learning. *Cognitive Science*, 12(2), 257–285.
 - Tononi, G., & Cirelli, C. (2014). Sleep and the price of plasticity. *Neuron*, 81(1), 12–34.
 - Walker, M. P. (2009). The role of sleep in cognition and emotion. *Annals of the New York Academy of Sciences*, 1156(1), 168–197.
+
+**Codificación dual y representaciones múltiples**
+
+- Paivio, A. (1971/1990 y trabajos posteriores). Teoría de la codificación dual (*dual coding theory*).
+- Clark, J. M., & Paivio, A. (1991). Dual coding theory and education. *Educational Psychology Review*, 3, 149–210.
+- Mayer, R. E. — teoría cognitiva del aprendizaje multimedia (principios de coherencia, señalización, redundancia; no saturar canales).
+- Meta-análisis recientes sobre **representaciones múltiples** en matemáticas / STEM (efectos positivos modestos en promedio; heterogeneidad alta según diseño y apoyo). Verificar el estudio concreto antes de citar un tamaño de efecto en un TFM.
 
 **Atención y distracción digital (lectura complementaria)**
 
