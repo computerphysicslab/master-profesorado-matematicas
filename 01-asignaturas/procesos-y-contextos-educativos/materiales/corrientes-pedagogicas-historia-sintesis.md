@@ -8,9 +8,11 @@ parent: Materiales Procesos
 
 **Asignatura:** Procesos y contextos educativos  
 **Uso:** apunte de apoyo a la sesión de corrientes / Escuela Nueva / pedagogía progresista y crítica.  
-**Complementa:** [Tema 1](../apuntes/01-evolucion-historica-sistema-educativo-paradigmas.md) · [Referentes progresista/crítica/libertaria](referentes-progresista-critica-libertaria.md) · [Mapa epistemológico](mapa-epistemologico-paradigmas-educativos.md)
+**Complementa:** [Tema 1](../apuntes/01-evolucion-historica-sistema-educativo-paradigmas.md) · [**Orígenes de la pedagogía (práctica y reflexión)**](origenes-pedagogia-practica-y-reflexion.md) · [Referentes progresista/crítica/libertaria](referentes-progresista-critica-libertaria.md) · [Mapa epistemológico](mapa-epistemologico-paradigmas-educativos.md)
 
 No sustituye las fichas de autor en [autores-pensadores](../../../09-bibliografia/autores-pensadores/). La psicología del aprendizaje se desarrolla en [Psicología](../../psicologia-del-desarrollo-y-de-la-educacion/).
+
+**Antes de las corrientes modernas:** práctica educativa, textos de sabiduría (Egipto, Mesopotamia), Confucio, sofistas y la pedagogía filosófica griega → [orígenes de la pedagogía](origenes-pedagogia-practica-y-reflexion.md).
 
 ---
 
@@ -100,6 +102,7 @@ Viabilidad de modelos “puros” en LOMLOE; evaluación que estructura sin ser 
 
 ## 7. Para seguir
 
+- [**Orígenes de la pedagogía (práctica y reflexión)**](origenes-pedagogia-practica-y-reflexion.md)  
 - [San José de Calasanz](../../../09-bibliografia/autores-pensadores/01-filosofia-educacion/jose-de-calasanz.md)  
 - [San Juan Bautista de La Salle](../../../09-bibliografia/autores-pensadores/01-filosofia-educacion/juan-bautista-de-la-salle.md)  
 - [Historia del pensamiento educativo](../../../09-bibliografia/autores-pensadores/historia-del-pensamiento-educativo.md)  
