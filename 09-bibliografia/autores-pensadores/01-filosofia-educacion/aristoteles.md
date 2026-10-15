@@ -9,15 +9,15 @@
 ## AUTOR: Aristóteles
 
 **CORRIENTE PEDAGÓGICA:**  
-Realismo educativo / Ética de la virtud. Discípulo de Platón y tutor de Alejandro Magno. Fundó el Liceo en Atenas. Su pensamiento educativo aparece principalmente en la *Ética a Nicómaco* y en la *Política* (libro VIII).
+Realismo educativo / Ética de la virtud. Discípulo de [Platón](platon.md) y tutor de Alejandro Magno. Fundó el Liceo en Atenas. Su pensamiento educativo aparece principalmente en la *Ética a Nicómaco* y en la *Política* (libro VIII).
 
 ---
 
 ## BREVE RESEÑA BIOGRÁFICA:
 
-Aristóteles (Estagira, 384 a. C. – Calcis, 322 a. C.) estudió en la Academia de Platón durante unos veinte años. Tras la muerte de Platón viajó y fue preceptor de Alejandro. Regresó a Atenas y fundó el Liceo, donde enseñaba paseando (de ahí el nombre de “peripatéticos”).
+Aristóteles (Estagira, 384 a. C. – Calcis, 322 a. C.) estudió en la Academia de [Platón](platon.md) durante unos veinte años. Tras la muerte de [Platón](platon.md) viajó y fue preceptor de Alejandro. Regresó a Atenas y fundó el Liceo, donde enseñaba paseando (de ahí el nombre de “peripatéticos”).
 
-A diferencia de Platón, Aristóteles concedió un papel central a la experiencia sensible, a la observación y a la formación del carácter mediante el hábito. Su obra abarca lógica, física, biología, metafísica, ética, política, retórica y poética.
+A diferencia de [Platón](platon.md), Aristóteles concedió un papel central a la experiencia sensible, a la observación y a la formación del carácter mediante el hábito. Su obra abarca lógica, física, biología, metafísica, ética, política, retórica y poética.
 
 ---
 
