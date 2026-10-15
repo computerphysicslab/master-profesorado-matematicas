@@ -1,7 +1,7 @@
 # Jan Amos Comenio (Comenius)
 
 **Área:** Didáctica moderna  
-**Conceptos clave:** educación universal (pampaedia); didáctica magna; enseñar todo a todos; orden natural; pansofía  
+**Conceptos clave:** educación universal (*pampaedia*); *Didáctica magna*; enseñar todo a todos; orden natural; enseñanza intuitiva; *Orbis Pictus*; pansofía  
 **Ámbitos del Máster relacionados:** Procesos y contextos educativos; Diseño curricular e instruccional de Matemáticas
 
 ---
@@ -9,93 +9,127 @@
 ## AUTOR: Jan Amos Comenio (Comenius)
 
 **CORRIENTE PEDAGÓGICA:**  
-Didáctica sistemática y educación universal. Se le considera el “padre de la didáctica moderna” y uno de los primeros en concebir la pedagogía como disciplina con método propio. Precursor de la escuela popular, de la organización por edades y de la enseñanza intuitiva.
+Didáctica sistemática y educación universal. Se le considera el «padre de la didáctica moderna» y uno de los primeros en concebir la pedagogía como disciplina con **método propio**. Precursor de la escuela popular, de la organización por edades y de la enseñanza intuitiva.
 
 ---
 
-## BREVE RESEÑA BIOGRÁFICA:
+## BREVE RESEÑA BIOGRÁFICA
 
-Jan Amos Komenský (Comenius) (Nivnice, Moravia, 1592 – Ámsterdam, 1670) fue teólogo, filósofo y pedagogo checo, miembro de la Iglesia de los Hermanos Moravos. Vivió en una época de guerras religiosas (Guerra de los Treinta Años) que le obligó a un exilio permanente.
+Jan Amos Komenský (Comenius) (Nivnice, Moravia, 1592 – Ámsterdam, 1670), teólogo, filósofo y pedagogo checo, miembro de la Iglesia de los Hermanos Moravos. La Guerra de los Treinta Años le obligó a un exilio permanente (Polonia, Inglaterra, Suecia, Países Bajos).
 
-Escribió en checo, latín y otras lenguas. Su obra pedagógica fundamental es la *Didáctica Magna* (*Didactica Magna*, 1632/1657), donde propone un sistema completo de educación para todos. También elaboró innovadores libros de texto ilustrados (*Orbis Sensualium Pictus*, 1658, considerado el primer libro ilustrado para niños) y obras sobre pansofía (saber universal).
-
-Viajó por Polonia, Inglaterra, Suecia y los Países Bajos intentando impulsar reformas educativas y pansóficas. Murió en Ámsterdam.
+Obra pedagógica fundamental: ***Didáctica magna*** (*Didactica Magna*, redactada c. 1632, ed. latina 1657): «artificio universal para enseñar todo a todos». También ***Orbis sensualium pictus*** (1658), considerado el primer libro ilustrado para niños, y escritos sobre pansofía (saber universal ordenado).
 
 ---
 
-## PRINCIPALES APORTACIONES AL ÁMBITO EDUCATIVO:
+## PRINCIPALES APORTACIONES AL ÁMBITO EDUCATIVO
 
-- **Educación universal (pampaedia)**: enseñar *todo a todos* (hombres y mujeres, ricos y pobres, talentosos y menos dotados), en todas las etapas de la vida.
-- **Didáctica como arte de enseñar con seguridad, agrado y solidez**: la enseñanza debe ser metódica, agradable y eficaz.
-- **Seguir el orden de la naturaleza**: aprender de lo general a lo particular, de lo fácil a lo difícil, de lo concreto a lo abstracto, de acuerdo con la edad.
-- **Enseñanza por los sentidos**: partir de la observación de las cosas mismas, no solo de las palabras de los libros.
-- **Organización escolar sistemática**: propuesta de un sistema de escuelas por edades (maternal, elemental, latina, academia) con continuidad.
-- **Libros de texto ilustrados y atractivos**: *Orbis Pictus* como modelo de material didáctico visual y significativo.
-- **Pansofía**: ideal de un saber universal ordenado que permitiera la armonía y la reforma de la sociedad.
-- **Escuela como taller de humanidad**: no solo transmitir conocimientos, sino formar personas piadosas, cultas y útiles a la sociedad.
+### A. Educación universal (*pampaedia*)
 
----
+Enseñar **todo a todos**: hombres y mujeres, ricos y pobres, con más o menos talento, a lo largo de la vida. Frente a la escuela de élite de su tiempo, defiende educabilidad universal y escuela organizada.
 
-## MÉTODOS / TÉCNICAS:
+### B. *Didáctica magna*: arte de enseñar con seguridad, agrado y solidez
 
-| Técnica / principio | Descripción breve |
-|---------------------|-------------------|
-| **Orden natural de la enseñanza** | De lo general a lo particular, de lo fácil a lo difícil, de lo cercano a lo lejano, según la edad. |
-| **Enseñanza sensorial / intuitiva** | Partir de la observación directa de las cosas (naturaleza, objetos) antes que de las palabras. |
-| **Un solo método** | Coherencia metodológica a lo largo de todo el proceso educativo. |
-| **Gradualidad y repetición** | Avanzar paso a paso, consolidando antes de introducir lo nuevo. |
-| **Materiales atractivos e ilustrados** | Libros y recursos que hagan agradable y comprensible el aprendizaje. |
-| **Escuela para todos** | Acceso universal independientemente de sexo, clase o capacidad. |
-| **Formación integral** | Intelecto, moralidad y piedad de forma integrada. |
+La enseñanza debe ser metódica, agradable y eficaz —no un «matadero de inteligencias». Un método coherente a lo largo del itinerario.
 
----
+### C. Seguir el orden de la naturaleza
 
-## PLANTEAMIENTO DE UNA ACTIVIDAD BASADA EN EL AUTOR:
+De lo general a lo particular, de lo fácil a lo difícil, de lo concreto a lo abstracto, de lo cercano a lo lejano; según la edad; no pasar a lo siguiente sin consolidar lo anterior.
 
-### Título: **“Orbis Pictus matemático: de las cosas a los conceptos”**
+### D. Enseñanza por los sentidos
 
-**Nivel sugerido:** Primaria o 1.º-2.º ESO (introducción a un tema nuevo).  
-**Duración:** 2-4 sesiones.
+Partir de la **observación de las cosas mismas**, no solo de las palabras de los libros. Base de la tradición intuitiva que luego desarrollarán Pestalozzi y otros.
 
-**Objetivos:**
-- Partir de la observación de objetos y situaciones reales antes de formalizar.
-- Seguir una progresión de lo concreto a lo abstracto y de lo general a lo particular.
-- Hacer el aprendizaje agradable y significativo mediante imágenes y ejemplos cotidianos.
+### E. Organización escolar por etapas
 
-**Desarrollo (ejemplo con el concepto de proporcionalidad o de medida):**
+| Escuela | Edades (orientativo) | Ámbito |
+|---------|----------------------|--------|
+| Maternal | 0–6 | Hogar |
+| Lengua materna | 6–12 | Cada pueblo |
+| Latina / gimnasio | 12–18 | Cada ciudad |
+| Academia | 18–24 | Reino |
 
-1. **Observación de las cosas (sesión 1)**  
-   Presentar imágenes, objetos reales o situaciones cotidianas (recetas, mapas, precios, sombras, ampliaciones…). Los alumnos observan, describen y comparan sin formalismos previos.
+Continuidad del sistema: idea que anticipa la estructura de los sistemas escolares modernos.
 
-2. **De lo general a lo particular (sesión 2)**  
-   Identificar relaciones comunes (“cuando una cantidad crece, la otra también…”). Introducir progresivamente el lenguaje matemático a partir de lo observado.
+### F. Materiales ilustrados (*Orbis Pictus*)
 
-3. **Representación y consolidación (sesiones 3-4)**  
-   Elaborar un pequeño “Orbis Pictus” de clase: láminas o fichas ilustradas que conecten la situación real con el concepto formal. Ejercicios graduales de aplicación.
+Modelo de material didáctico visual y significativo: el mundo en imágenes como puente entre cosa y palabra.
 
-**Conexión con Comenio:**  
-La actividad respeta el principio de partir de los sentidos y de las cosas, avanza de lo general a lo particular y busca hacer el aprendizaje agradable y accesible a todos.
+### G. Relación con otras figuras del mapa
+
+- [San José de Calasanz](jose-de-calasanz.md): ambos impulsan la escolarización de masas; Calasanz desde una **orden y red de escuelas** católicas; Comenio desde un **sistema didáctico escrito** de alcance europeo.  
+- [Erasmo](erasmo.md) y [Vives](vives.md): humanismo, educabilidad, crítica del castigo brutal; Comenio **sistematiza** método, etapas y universalidad.  
+- [Pestalozzi](pestalozzi.md), [Rousseau](rousseau.md): heredan, con matices, la intuición sensorial y el respeto al ritmo del educando.
 
 ---
 
-## CRÍTICAS Y LIMITACIONES:
+## RELEVANCIA PARA LA DIDÁCTICA DE LAS MATEMÁTICAS
 
-- **Optimismo pansófico**: el ideal de enseñar “todo a todos” de forma completa y armoniosa resulta utópico ante la explosión del conocimiento y la diversidad de contextos.
-- **Enfoque todavía centrado en el método del adulto**: aunque defiende la facilidad y el agrado, algunos críticos señalan que el alumno sigue ocupando un rol relativamente pasivo frente a un método muy estructurado desde arriba.
-- **Contexto religioso**: su proyecto está impregnado de una visión cristiana de la salvación y del orden divino que no se traslada directamente a una escuela laica contemporánea.
-- **Rigidez del “único método”**: la idea de un método universal y seguro puede chocar con la necesidad de adaptación a la diversidad del alumnado y a las didácticas específicas.
-- **Limitaciones históricas**: escribió en el siglo XVII; muchas de sus propuestas organizativas (escuelas por edades, libros ilustrados) hoy nos parecen obvias, pero entonces eran revolucionarias.
-- **Escasa atención a la construcción activa del conocimiento**: su didáctica es más de transmisión ordenada y sensorial que de construcción socio-constructivista posterior.
+| Dimensión | Enfoque de Comenio | Aplicación actual en mates |
+|-----------|--------------------|----------------------------|
+| **De lo concreto a lo abstracto** | Cosas → imágenes → símbolos | Manipulativos, representaciones, formalización posterior |
+| **Gradualidad** | No avanzar sin consolidar | Secuenciación; andamiaje; no «saltar» al algoritmo |
+| **Universalidad** | Todo a todos | Equidad: mates para todos, no solo para «los de ciencias» |
+| **Agrado y solidez** | Enseñanza agradable y eficaz | Motivación sin renunciar al rigor |
+| **Materiales** | *Orbis Pictus* | Visualización, GeoGebra, esquemas, problemas ilustrados |
+| **Orden del currículo** | Sistema por edades y progresión | Programación didáctica coherente |
+
+**Eco en el máster:** legitima históricamente la pregunta *cómo enseñar* (no solo *qué*), la progresión de representaciones y el derecho de todo el alumnado a una matemática con sentido.
 
 ---
 
-## REFERENCIAS (APA 7):
+## MÉTODOS / PRINCIPIOS
 
-Comenius, J. A. (1657/1896). *The great didactic* (M. W. Keatinge, Trans.). A. & C. Black. (Obra original publicada en 1657).
+| Principio | Descripción breve |
+|----------|-------------------|
+| **Orden natural** | De lo general a lo particular; de lo fácil a lo difícil; según la edad |
+| **Enseñanza sensorial / intuitiva** | Observación de las cosas antes que solo palabras |
+| **Un método coherente** | Coherencia a lo largo del itinerario |
+| **Gradualidad y consolidación** | No pasar de etapa sin afianzar |
+| **Materiales atractivos** | Ilustración y agrado al servicio de la comprensión |
+| **Escuela para todos** | Acceso universal (sexo, clase, capacidad) |
+| **Formación integral** | Intelecto, moralidad y (en su marco) piedad |
 
-Comenius, J. A. (1658/1967). *Orbis sensualium pictus*. Oxford University Press.
+---
 
-Piaget, J. (1993). Jan Amos Comenius. *Prospects, 23*(1-2), 173–196. (Texto de la UNESCO sobre Comenio).
+## ACTIVIDAD TIPO (orientativa)
+
+### «Orbis Pictus matemático: de las cosas a los conceptos»
+
+**Nivel:** 1.º–2.º ESO (introducción a un tema). **Duración:** 2–4 sesiones.
+
+1. **Observación** — Imágenes/objetos/situaciones (recetas, mapas, precios, sombras…) sin formalismos.  
+2. **De lo general a lo particular** — Relaciones comunes; lenguaje matemático progresivo.  
+3. **Representación y consolidación** — Pequeño «Orbis» de clase: láminas que conecten situación y concepto; ejercicios graduales.
+
+Conexión: sentidos → general → particular; aprendizaje agradable y accesible.
+
+---
+
+## CRÍTICAS Y LIMITACIONES
+
+- Optimismo pansófico («todo a todos» de forma completa) utópico ante la explosión del saber.  
+- Método muy estructurado desde el adulto; el alumno no es aún el constructor socio-constructivista del XX.  
+- Marco religioso del XVII; no se traslada literalmente a la escuela laica.  
+- El «único método» choca con la diversidad y las didácticas específicas actuales.  
+- Muchas de sus ideas organizativas hoy parecen obvias: entonces eran revolucionarias.
+
+---
+
+## OBRAS DE REFERENCIA
+
+1. ***Didáctica magna*** (1657) — sistema didáctico completo.  
+2. ***Orbis sensualium pictus*** (1658) — libro ilustrado para niños.  
+3. Escritos pansóficos y de reforma escolar.
+
+---
+
+## REFERENCIAS (APA 7 orientativas)
+
+Comenius, J. A. (1657/ed. moderna). *Didáctica magna*.
+
+Comenius, J. A. (1658/ed. moderna). *Orbis sensualium pictus*.
+
+Piaget, J. (1993). Jan Amos Comenius. *Prospects, 23*(1-2), 173–196.
 
 Sadler, J. E. (1966). *J. A. Comenius and the concept of universal education*. Allen & Unwin.
 
@@ -103,19 +137,18 @@ Sadler, J. E. (1966). *J. A. Comenius and the concept of universal education*. A
 
 ## Por qué conocerlo (orientación del Máster)
 
-Jan Amos Comenio forma parte del mapa intelectual del Máster por su relación con **didáctica moderna**. Esta ficha sirve como punto de entrada: conviene entender las ideas fundamentales y, después, localizar una obra primaria o una revisión académica adecuada al nivel del estudiante.
+Comenio aporta al mapa del Máster el **primer gran sistema didáctico escrito**: educación para todos, orden según la edad, intuición sensorial y materiales que hacen visible el saber. Enlaza el humanismo ([Erasmo](erasmo.md), [Vives](vives.md)) y la escuela popular ([Calasanz](jose-de-calasanz.md)) con la pedagogía del XVIII–XIX ([Pestalozzi](pestalozzi.md), [Rousseau](rousseau.md)) y con el diseño curricular actual.
 
 ### Preguntas guía
-- ¿Qué problema educativo, psicológico, social, matemático o científico intentó abordar?
-- ¿Qué concepto suyo debería poder explicar un futuro profesor de Matemáticas?
-- ¿Cómo podría aparecer esa idea en una situación real de aula?
-- ¿Qué limitaciones o críticas tiene su enfoque?
-- ¿Qué conexiones tiene con otros autores del mapa?
+- ¿Qué problema educativo aborda? Cómo enseñar de forma metódica, universal y agradable, no solo a una élite.
+- ¿Qué concepto debe poder explicar un futuro profesor? *Didáctica magna*; enseñar todo a todos; orden natural; enseñanza intuitiva.
+- ¿Cómo aparece en el aula? Progresión concreto→abstracto; materiales visuales; secuenciación; mates para todos.
+- ¿Qué limitaciones tiene? Utopía pansófica; método único; marco del XVII.
+- ¿Conexiones? [Calasanz](jose-de-calasanz.md); [Erasmo](erasmo.md); [Vives](vives.md); [Pestalozzi](pestalozzi.md); [Rousseau](rousseau.md); línea temporal.
 
-### Enlaces de localización
-- [Google Scholar](https://scholar.google.com/scholar?q=Comenio+did%C3%A1ctica)
-- [Semantic Scholar](https://www.semanticscholar.org/search?q=Comenius+education)
-- [Dialnet](https://dialnet.unirioja.es/buscar/documentos?querysDismax.DOCUMENTAL_TODO=Comenio)
+### Enlaces de investigación
+- [Google Scholar](https://scholar.google.com/scholar?q=Comenius+Didactica+Magna)
+- [Historia del pensamiento educativo](../historia-del-pensamiento-educativo.md)
 
-### Advertencia
-Esta ficha no implica que el autor figure de forma explícita en todas las guías docentes. Distingue entre autores de núcleo del plan y autores de ampliación conceptual.
+### Relación con el Máster
+Los ámbitos indicados orientan la lectura; **no implican** presencia obligatoria en las guías docentes.
