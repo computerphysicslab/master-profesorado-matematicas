@@ -8,9 +8,9 @@ parent: Materiales Psicología
 
 **Destinatarios:** profesorado y alumnado de ESO y Bachillerato.  
 **Ámbito:** transversal · didáctica de las Matemáticas y ciencias.  
-**Marco:** psicología cognitiva (Sweller, Ebbinghaus, Dunlosky et al.) y consolidación durante el sueño (Born, Stickgold, Tononi, Walker).
+**Marco:** psicología cognitiva (Sweller, Ebbinghaus, Dunlosky et al.), consolidación durante el sueño (Born, Stickgold, Tononi, Walker) y regulación emocional (Salovey y Mayer).
 
-**Complementa:** [Memoria, práctica y transferencia](memoria-practica-transferencia-matematicas.md) · [Carga cognitiva](carga-cognitiva-matematicas.md) · [Evidencia en psicología educativa](evidencia-psicologia-educativa.md) · [Tema 4](../apuntes/04-procesamiento-informacion-teorias-cognitivas.md)
+**Complementa:** [Memoria, práctica y transferencia](memoria-practica-transferencia-matematicas.md) · [Carga cognitiva](carga-cognitiva-matematicas.md) · [Evidencia en psicología educativa](evidencia-psicologia-educativa.md) · [Ansiedad matemática](ansiedad-matematica-aula.md) · [Tema 4](../apuntes/04-procesamiento-informacion-teorias-cognitivas.md)
 
 ---
 
@@ -74,17 +74,90 @@ Implicación de aula: el «atracón» nocturno a costa del sueño **no** sustitu
 
 ---
 
-## 3. Decálogo práctico (alumnado ESO / Bachillerato)
+## 3. Condiciones de estudio: atención y entorno
 
-1. **Sustituye el subrayado pasivo por la autoevaluación:** cerrar el libro y escribir o explicar lo que se recuerda.
-2. **Repasos breves y frecuentes:** p. ej. bloques de ~25 minutos varios días superan al atracón de la víspera.
-3. **El error en la práctica es información:** indica dónde centrar el siguiente repaso espaciado.
-4. **Respeta 8–10 horas de sueño** (orientativo en adolescencia): el estudio nocturno crónico degrada consolidación y regulación emocional.
-5. **Una tarea cada vez:** notificaciones y multitarea fragmentan la codificación en memoria de trabajo.
+Las técnicas de alta eficacia **fracasan** si la memoria de trabajo se fragmenta continuamente. El entorno y la gestión de distracciones no son «consejos de organización» menores: son **condiciones de codificación**.
+
+### 3.1. Cero móviles, cero redes, cero multitarea
+
+Cuando se estudia Matemáticas (o cualquier materia que exija razonamiento secuencial):
+
+| Regla | Por qué importa |
+|-------|------------------|
+| **Móvil fuera del campo visual** (otro habitación, cajón, modo avión sin excepciones «por si acaso») | La mera **presencia** del teléfono reduce la capacidad atencional disponible, aunque no se mire (efecto de reserva atencional). |
+| **Cero redes sociales y mensajería** durante el bloque de estudio | Cada notificación o «solo un momento» obliga a un **cambio de tarea**: se pierde el hilo del problema multi-paso y hay que reconstruir el estado mental. |
+| **Una sola tarea cognitiva** (estudiar *o* responder chats, no ambas) | La multitarea no duplica el tiempo: lo **parte** y degrada la codificación en memoria de trabajo (Sweller: carga extrínseca artificial). |
+
+**Mensaje al alumnado (sin moralina):** no se trata de «ser disciplinado» en abstracto. Se trata de que el cerebro **no puede** codificar bien un procedimiento algebraico mientras parte de la atención vigila el móvil. Un bloque de 25–40 minutos **protegido** rinde más que dos horas interrumpidas.
+
+**Estrategias prácticas:**
+
+1. Definir el bloque **antes** de sentarse («hoy: 30 min de sistemas; móvil en la cocina»).
+2. Si hace falta el móvil como temporizador, ponerlo **en modo no molestar** y fuera del alcance de la mano.
+3. Acordar con la familia o compañeros de piso un intervalo sin interrupciones.
+4. Las redes se revisan **entre** bloques, no *dentro* del bloque.
+
+### 3.2. El escritorio como espejo del orden mental
+
+Una mesa abarrotada de apuntes de otras asignaturas, botellas, auriculares y pantallas en paralelo **compite** por la atención visual y aumenta la carga extrínseca. Una mesa limpia, con **solo** lo necesario para esa sesión, reduce decisiones irrelevantes y facilita entrar en el problema.
+
+| Elemento en la mesa | Criterio |
+|---------------------|----------|
+| Material del tema de hoy (cuaderno, hoja de problemas, libro abierto en la página útil) | Sí |
+| Calculadora, regla, bolígrafo de trabajo | Sí, si se usan |
+| Apuntes de otras materias, ropa, platos, móvil | No |
+| Pantalla secundaria con redes o vídeo de fondo | No |
+
+**Idea para el alumnado:** preparar la mesa **antes** de empezar el temporizador es parte del estudio, no un retraso. Ordenar el espacio es una forma visible de **compromiso con una sola tarea**. No garantiza la comprensión, pero elimina fricción inútil.
+
+**Para el docente:** se puede modelar en clase (mesa de trabajo limpia al iniciar una práctica) y hablarlo sin juzgar el hogar del alumno: el principio es **reducir estímulos irrelevantes**, no imponer estética.
 
 ---
 
-## 4. Uso docente (resumen)
+## 4. Plan de examen: regulación emocional en la prueba
+
+En este contexto, **«plan de examen»** no es un temario ni una lista de fórmulas. Es una **estrategia que el alumno prepara de antemano** para gestionar las emociones y organizar su actuación **durante** el examen.
+
+### 4.1. Ejemplo (Matemáticas ESO)
+
+1. **Primera lectura:** leer todos los ejercicios y valorar su dificultad aparente.
+2. **Orden de resolución:** empezar por los que sabe resolver para ganar confianza y asegurar puntos.
+3. **Ante un bloqueo:** respirar, releer el enunciado e identificar *qué* se pregunta (datos, incógnita, tipo de problema).
+4. **Si persiste la dificultad:** dejar el ejercicio temporalmente y continuar con otro.
+5. **Revisión final:** si queda tiempo, comprobar cálculos y respuestas.
+
+Este plan se **ensaya** en simulacros o en controles cortos; no se improvisa solo el día del examen oficial.
+
+### 4.2. Por qué pertenece a la regulación emocional (Salovey y Mayer)
+
+El modelo de habilidad de **Salovey y Mayer** distingue cuatro ramas de la inteligencia emocional. El plan de examen no se limita a *notar* la ansiedad: **usa estrategias** para que esa emoción no dicte la conducta y el alumno siga orientado al objetivo (resolver la prueba).
+
+| Rama | Ejemplo en el examen de mates |
+|------|-------------------------------|
+| **Percepción** | «Estoy sintiendo ansiedad» (nudo en el estómago, mente en blanco al leer el 3). |
+| **Facilitación** | «La ansiedad me está dificultando concentrarme en este enunciado». |
+| **Comprensión** | «Me pongo ansioso cuando encuentro un ejercicio que no sé resolver porque temo suspender». |
+| **Regulación** | «Voy a dejar este ejercicio, resolver otro y volver después con más calma». |
+
+**Resumen:** el plan de examen es una **estrategia práctica de regulación emocional**. Evita que la ansiedad determine el orden de trabajo (p. ej. quedarse atascado 20 minutos en el ítem más difícil y no llegar a los que sí sabía).
+
+**Puente de aula:** conectar con [ansiedad matemática](ansiedad-matematica-aula.md) y, si se cursa, con la optativa de educación emocional (modelo de habilidad, TMMS, regulación). El docente puede pedir que el alumnado **escriba su plan de examen** una semana antes de la prueba y lo pruebe en un simulacro.
+
+---
+
+## 5. Decálogo práctico (alumnado ESO / Bachillerato)
+
+1. **Sustituye el subrayado pasivo por la autoevaluación:** cerrar el libro y escribir o explicar lo que se recuerda.
+2. **Repasos breves y frecuentes:** bloques de ~25 minutos varios días superan al atracón de la víspera.
+3. **El error en la práctica es información:** indica dónde centrar el siguiente repaso espaciado.
+4. **Respeta 8–10 horas de sueño** (orientativo en adolescencia): el estudio nocturno crónico degrada consolidación y regulación emocional.
+5. **Una tarea cada vez:** móvil fuera de alcance; cero redes durante el bloque.
+6. **Prepara la mesa** con solo lo de esa sesión antes de empezar el temporizador.
+7. **Antes del examen, escribe tu plan** (orden, qué hacer si te bloqueas, revisión) y ensáyalo.
+
+---
+
+## 6. Uso docente (resumen)
 
 | Decisión de diseño | Técnica que apoya |
 |---------------------|-------------------|
@@ -92,13 +165,16 @@ Implicación de aula: el «atracón» nocturno a costa del sueño **no** sustitu
 | Mezcla de tipos en la hoja de práctica | Intercalación |
 | Exigir justificación de un paso clave | Autoexplicación / CE.M.8 |
 | Secuencia ejemplo resuelto → incompleto → solo | *Faded worked examples* + carga cognitiva |
-| Hablar en clase de sueño y planificación del estudio | Higiene del sueño (sin moralina; con mecanismo) |
+| Hablar en clase de sueño, móvil y planificación del estudio | Higiene atencional y del sueño (con mecanismo, sin moralina) |
+| Simulacro + «escribe tu plan de examen» | Regulación emocional (Salovey y Mayer) + [ansiedad matemática](ansiedad-matematica-aula.md) |
 
-No sustituye la comprensión ni los problemas ricos: **complementa** la práctica para que lo comprendido sea **recuperable** días después.
+No sustituye la comprensión ni los problemas ricos: **complementa** la práctica para que lo comprendido sea **recuperable** y para que la emoción no secuestre la actuación en la prueba.
 
 ---
 
-## 5. Referencias orientativas
+## 7. Referencias orientativas
+
+**Cognición, práctica y sueño**
 
 - Born, J., Rasch, B., & Gais, S. (2006). Sleep to remember. *Neuroscientist*, 12(5), 410–424.
 - Dunlosky, J., Rawson, K. A., Marsh, E. J., Nathan, M. J., & Willingham, D. T. (2013). Improving students’ learning with effective learning techniques. *Psychological Science in the Public Interest*, 14(1), 4–58.
@@ -108,5 +184,14 @@ No sustituye la comprensión ni los problemas ricos: **complementa** la práctic
 - Sweller, J. (1988). Cognitive load during problem solving: Effects on learning. *Cognitive Science*, 12(2), 257–285.
 - Tononi, G., & Cirelli, C. (2014). Sleep and the price of plasticity. *Neuron*, 81(1), 12–34.
 - Walker, M. P. (2009). The role of sleep in cognition and emotion. *Annals of the New York Academy of Sciences*, 1156(1), 168–197.
+
+**Atención y distracción digital (lectura complementaria)**
+
+- Estudios sobre presencia del teléfono y capacidad atencional (p. ej. línea de trabajo de Ward et al. sobre *brain drain*); sintetizar con prudencia en clase: el mecanismo útil es la **reserva atencional** y el coste del cambio de tarea.
+
+**Regulación emocional**
+
+- Salovey, P., & Mayer, J. D. (1990). Emotional intelligence. *Imagination, Cognition and Personality*, 9(3), 185–211.
+- Mayer, J. D., Salovey, P., & Caruso, D. R. (trabajos posteriores sobre el modelo de habilidad de cuatro ramas).
 
 Verificar edición y acceso antes de citar en trabajos académicos.
