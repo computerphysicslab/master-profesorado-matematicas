@@ -26,6 +26,7 @@ Recursos prácticos y transversales (citables desde otras asignaturas y el pract
 
 | Recurso | Tema |
 |---------|------|
+| [**Orígenes de la pedagogía (práctica y reflexión)**](origenes-pedagogia-practica-y-reflexion.md) | Tema 1 — Egipto, Mesopotamia, Confucio, sofistas, Sócrates |
 | [**Responsabilidad social, consenso y continuidad educativa**](responsabilidad-social-consenso-y-continuidad-educativa.md) | Tema 1 — Arendt, Dewey, Freire, Bourdieu |
 | [**Mapa epistemológico de paradigmas**](mapa-epistemologico-paradigmas-educativos.md) | Tema 1 |
 | [**Comparativa PISA 2025**](leyes-educativas/comparativa-pisa-2025-y-sistemas-internacionales.md) | Tema 1 |
