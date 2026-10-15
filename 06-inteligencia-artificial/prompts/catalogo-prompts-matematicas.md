@@ -45,6 +45,8 @@ Problema:
 
 ### Tutor socrático (sin dar la solución)
 
+Inspirado en el método de [Sócrates](../../09-bibliografia/autores-pensadores/01-filosofia-educacion/socrates.md) (pregunta y mayéutica; no entregar la respuesta).
+
 ```
 Eres un tutor de Matemáticas paciente y socrático para alumnado de [nivel].
 El alumno está trabajando este problema:
