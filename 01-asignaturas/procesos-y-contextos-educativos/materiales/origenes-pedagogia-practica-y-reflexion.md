@@ -47,7 +47,7 @@ Las **edubba** («casas de tablillas») formaban escribas sumerios y acadios: co
 
 ### China
 
-**Confucio** (551–479 a. C.) es contemporáneo de los presocráticos tardíos y **anterior** a Sócrates (470–399 a. C.). Su pensamiento educativo es muy elaborado: enseñar sin distinción de clase (en el ideal), adaptar la enseñanza al discípulo, unir aprendizaje, reflexión y conducta moral. Es uno de los **primeros grandes pensadores explícitamente pedagógicos** de la tradición escrita mundial.
+**Confucio** (551–479 a. C.) es contemporáneo de los presocráticos tardíos y **anterior** a [Sócrates](../../../09-bibliografia/autores-pensadores/01-filosofia-educacion/socrates.md) (470–399 a. C.). Su pensamiento educativo es muy elaborado: enseñar sin distinción de clase (en el ideal), adaptar la enseñanza al discípulo, unir aprendizaje, reflexión y conducta moral. Es uno de los **primeros grandes pensadores explícitamente pedagógicos** de la tradición escrita mundial.
 
 ### India
 
@@ -73,7 +73,7 @@ La Torá y los textos sapienciales (p. ej. *Proverbios*) incluyen mandatos de in
 
 ## 5. Sócrates y después
 
-Con **Sócrates**, **Platón** (*República*, *Leyes*) y **Aristóteles** (*Política*, *Ética a Nicómaco*) la educación se convierte en **objeto de filosofía**: se discute su fin, sus métodos (mayéutica) y su relación con la ciudad y la virtud.
+Con **[Sócrates](../../../09-bibliografia/autores-pensadores/01-filosofia-educacion/socrates.md)**, **[Platón](../../../09-bibliografia/autores-pensadores/01-filosofia-educacion/platon.md)** (*República*, *Leyes*) y **[Aristóteles](../../../09-bibliografia/autores-pensadores/01-filosofia-educacion/aristoteles.md)** (*Política*, *Ética a Nicómaco*) la educación se convierte en **objeto de filosofía**: se discute su fin, sus métodos ([mayéutica](../../../09-bibliografia/autores-pensadores/01-filosofia-educacion/socrates.md)) y su relación con la ciudad y la virtud.
 
 **Isócrates** y, en Roma, **Quintiliano** (*Institutio oratoria*, s. I d. C.) sistematizan la formación del orador y aportan orientaciones didácticas aún legibles hoy (gradación, ejemplo, ejercicio).
 
@@ -85,7 +85,7 @@ Con **Sócrates**, **Platón** (*República*, *Leyes*) y **Aristóteles** (*Pol�
 |--------------------------------|--------------------------------|
 | Práctica de formar a las nuevas generaciones | Las primeras sociedades humanas |
 | Reflexión **escrita** sobre cómo educar | Egipto y Mesopotamia (testimonios muy antiguos) |
-| Teoría pedagógica explícita y elaborada | Confucio; sofistas; Sócrates y Platón |
+| Teoría pedagógica explícita y elaborada | Confucio; sofistas; [Sócrates](../../../09-bibliografia/autores-pensadores/01-filosofia-educacion/socrates.md) y Platón |
 | Disciplina **científica y autónoma** moderna | Comenio (s. XVII); Rousseau, Pestalozzi, Herbart (ss. XVIII–XIX) |
 
 Para la **escuela de masas**, la **profesionalización docente** y las **corrientes** del XIX–XX, seguir en [corrientes pedagógicas e historia](corrientes-pedagogicas-historia-sintesis.md) y en las fichas de [autores-pensadores](../../../09-bibliografia/autores-pensadores/).
@@ -118,6 +118,7 @@ Para la **escuela de masas**, la **profesionalización docente** y las **corrien
 
 **En el repositorio**
 
+- [Sócrates (mayéutica, diálogo)](../../../09-bibliografia/autores-pensadores/01-filosofia-educacion/socrates.md)  
 - [Corrientes pedagógicas e historia (síntesis)](corrientes-pedagogicas-historia-sintesis.md)  
 - [Tema 1 — Evolución histórica y paradigmas](../apuntes/01-evolucion-historica-sistema-educativo-paradigmas.md)  
 - [Historia del pensamiento educativo](../../../09-bibliografia/autores-pensadores/historia-del-pensamiento-educativo.md)  
