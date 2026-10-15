@@ -29,7 +29,30 @@ Estas ideas conectan directamente con el [apunte de estrés](estres-impacto-y-ge
 
 ---
 
-## 3. Neuromitos frecuentes (a evitar)
+## 3. Tres regiones, una misma historia (modelo didáctico)
+
+Un esquema útil —**simplificado a propósito**— para hablar de emoción y estrés en el aula es el de tres sistemas que cooperan:
+
+| Región | Papel orientativo | Ejemplo en Matemáticas |
+|--------|-------------------|------------------------|
+| **Amígdala** | Alerta emocional: detecta amenaza, respuesta rápida, activación del cuerpo | Anuncio de examen o salida a la pizarra |
+| **Hipocampo** | Memoria y contexto: dónde, cuándo, qué pasaba | Recuerdos de fracasos (o éxitos) previos colorean el problema actual |
+| **Corteza prefrontal** | Regulación: analiza, valora, decide, modula la emoción | Releer el enunciado, elegir estrategia, pedir pista |
+
+```text
+Alerta (amígdala) → Contexto (hipocampo) → Regulación (corteza prefrontal)
+```
+
+Cuando el distrés es muy alto, la **alerta** puede reducir temporalmente la capacidad de planificar y de usar la memoria de trabajo. El docente no «arregla el cerebro»: diseña clima, tarea y tiempo para que la regulación sea más probable.
+
+**Desarrollo completo (tabla, Mermaid, actividad de 5–10 min, bidireccionalidad emociones–estrés):**  
+→ [Material: tres regiones, emoción y estrés](../materiales/04-tres-regiones-emocion-estres.md)
+
+**Precaución:** no diagnosticar «problemas de amígdala» ni usar el esquema para legitimar determinismo («cerebros de mates»). Es un **mapa de conversación**, no un informe neurológico.
+
+---
+
+## 4. Neuromitos frecuentes (a evitar)
 
 | Neuromito | Matiz |
 |-----------|--------|
@@ -44,7 +67,7 @@ El neuromito más peligroso en Matemáticas es el que legitima la idea de que �
 
 ---
 
-## 4. Emoción, estrés y aula de Matemáticas
+## 5. Emoción, estrés y aula de Matemáticas
 
 - Un poco de **activación** (eustrés) puede ayudar a centrarse.  
 - La **amenaza** (ridículo, tiempo imposible, exposición sin andamiaje) favorece respuestas de evitación.  
@@ -52,9 +75,11 @@ El neuromito más peligroso en Matemáticas es el que legitima la idea de que �
 
 Coincide con lo visto en motivación y ansiedad matemática: no hace falta invocar “el cerebro” para justificar un clima seguro y un reto graduado; la neurociencia **refuerza** lo que la psicología educativa ya recomienda.
 
+La relación **emociones ↔ estrés** es bidireccional: las emociones modulan la respuesta de estrés y el estrés altera el estado emocional. Detalle y mecanismos compartidos: [material tres regiones](../materiales/04-tres-regiones-emocion-estres.md) · [apunte de estrés](estres-impacto-y-gestion-emocional.md).
+
 ---
 
-## 5. Criterio profesional
+## 6. Criterio profesional
 
 Antes de adoptar un “método neuro…”:
 
@@ -67,11 +92,11 @@ Si la respuesta a 2 y 3 es débil, mejor no cambiar la práctica por moda.
 
 ---
 
-## 6. Respuesta a la pregunta guía
+## 7. Respuesta a la pregunta guía
 
 > *¿Qué ideas son útiles y cuáles hay que matizar?*
 
-Útiles: vínculo emoción–atención–memoria; efecto del estrés alto; plasticidad con práctica; límites de la atención. A matizar o rechazar: porcentajes mágicos de uso del cerebro, estilos de aprendizaje rígidos, lateralización simplista y productos que venden “cerebro” sin evidencia de aula.
+Útiles: vínculo emoción–atención–memoria; efecto del estrés alto sobre la función ejecutiva; plasticidad con práctica; límites de la atención; el esquema **alerta → contexto → regulación** como mapa de conversación. A matizar o rechazar: porcentajes mágicos de uso del cerebro, estilos de aprendizaje rígidos, lateralización simplista, productos que venden “cerebro” sin evidencia de aula y cualquier uso diagnóstico del esquema de tres regiones.
 
 ---
 
@@ -81,4 +106,5 @@ Si la respuesta a 2 y 3 es débil, mejor no cambiar la práctica por moda.
 - [Tema 6 — EE como reto](06-educacion-emocional-reto-educativo.md)  
 - **Bloque C:** [8 · PAT y aula](08-emociones-pat-aula.md) · [9 · Salud docente](09-emociones-salud-profesorado.md) · [10 · Casos](10-sintesis-casos-matematicas.md)  
 - [Apunte de estrés](estres-impacto-y-gestion-emocional.md)  
+- [Material: tres regiones](../materiales/04-tres-regiones-emocion-estres.md)  
 - [Glosario](../glosario.md): neuromito, eustrés, distrés, flow  
