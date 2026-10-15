@@ -72,7 +72,7 @@ Mapa **cronológico por año de nacimiento** de pensadores con influencia releva
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/LuisVives.jpg/120px-LuisVives.jpg" width="100" alt="Juan Luis Vives" align="left" style="margin:4px 12px 8px 0"/>
 
-**1493 — Juan Luis Vives.*** Observación del alumno, diferencias individuales y enseñanza ligada a la experiencia; puente filosofía–psicología–pedagogía.
+**1493 — [Juan Luis Vives](./01-filosofia-educacion/vives.md).** Observación del alumno, diferencias individuales y enseñanza ligada a la experiencia; puente filosofía–psicología–pedagogía (*De disciplinis*).
 
 <br clear="all"/>
 
