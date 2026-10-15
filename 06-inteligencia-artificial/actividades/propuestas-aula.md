@@ -24,7 +24,8 @@ Actividades diseñadas para **ESO y Bachillerato**. Se pueden adaptar a distinto
 
 ## 2. Diálogo socrático con la IA (3.º ESO – Bachillerato)
 
-**Objetivo:** Practicar argumentación y pedir ayuda de forma estratégica.
+**Objetivo:** Practicar argumentación y pedir ayuda de forma estratégica.  
+**Fundamento:** método de pregunta y mayéutica → ficha [Sócrates](../../09-bibliografia/autores-pensadores/01-filosofia-educacion/socrates.md).
 
 **Desarrollo:**
 1. Se asigna un problema desafiante.
