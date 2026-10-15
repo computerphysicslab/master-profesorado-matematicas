@@ -4,8 +4,8 @@ Actualizado: 2026-10-15
 
 | Autor | Ficha existe? | Ruta ficha | Nº menciones (aprox.) | Nº enlaces a ficha | Estado |
 |-------|---------------|------------|----------------------|--------------------|--------|
-| Sócrates | SÍ | `01-filosofia-educacion/socrates.md` | 15+ (6-IA + orígenes + índices) | 4 (solo dentro de `09-bibliografia/autores-pensadores/`) | **COMPLETADO** — huecos críticos en IA y Procesos |
-| Platón | SÍ | `01-filosofia-educacion/platon.md` | — | — | pendiente |
+| Sócrates | SÍ | `01-filosofia-educacion/socrates.md` | 15+ (6-IA + orígenes + índices) | 4+ (IA + Procesos + índices) | **COMPLETADO** |
+| Platón | SÍ | `01-filosofia-educacion/platon.md` | 10+ (orígenes, geometría, finalidades, concepciones) | 6+ (orígenes, geometría, finalidades, materiales, cross-links) | **COMPLETADO** |
 | Aristóteles | SÍ | `01-filosofia-educacion/aristoteles.md` | — | — | pendiente |
 | Euclides | ? | — | — | — | pendiente |
 | San Agustín | ? | — | — | — | pendiente |
