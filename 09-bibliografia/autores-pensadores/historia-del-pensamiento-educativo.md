@@ -50,7 +50,7 @@ Mapa **cronológico por año de nacimiento** de pensadores con influencia releva
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Saint_Augustine_by_Philippe_de_Champaigne.jpg/120px-Saint_Augustine_by_Philippe_de_Champaigne.jpg" width="100" alt="San Agustín" align="left" style="margin:4px 12px 8px 0"/>
 
-**354 — San Agustín de Hipona.*** Búsqueda interior de la verdad; el maestro como guía. Integró tradición clásica y cristianismo; enorme influencia en la Edad Media.
+**354 — [San Agustín de Hipona](./01-filosofia-educacion/agustin.md).** Búsqueda interior de la verdad; el maestro como guía (Maestro Interior). Integró tradición clásica y cristianismo; artes liberales y matemáticas como entrenamiento de la abstracción; enorme influencia en la Edad Media.
 
 <br clear="all"/>
 
