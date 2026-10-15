@@ -66,7 +66,7 @@ Mapa **cronológico por año de nacimiento** de pensadores con influencia releva
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Holbein-erasmus.jpg/120px-Holbein-erasmus.jpg" width="100" alt="Erasmo" align="left" style="margin:4px 12px 8px 0"/>
 
-**1469 — Erasmo de Róterdam.*** Humanismo: humanidades, lenguaje, moral y razón; crítica del castigo físico y de la memorización vacía.
+**1469 — [Erasmo de Róterdam](./01-filosofia-educacion/erasmo.md).** Humanismo: humanidades, lenguaje, moral y razón; crítica del castigo físico y de la memorización vacía (*De pueris instituendis*).
 
 <br clear="all"/>
 
