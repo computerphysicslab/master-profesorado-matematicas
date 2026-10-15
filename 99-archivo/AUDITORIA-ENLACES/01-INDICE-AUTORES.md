@@ -14,9 +14,9 @@ Actualizado: 2026-10-15
 | Juan Luis Vives | SÍ | `01-filosofia-educacion/vives.md` | 1+ | 3 | **COMPLETADO** |
 | San José de Calasanz | SÍ | `01-filosofia-educacion/jose-de-calasanz.md` | 1+ | 2+ | **COMPLETADO** |
 | Galileo | SÍ | `08-matematicas-ciencia-computacion/galileo.md` | 3+ | 4+ | **COMPLETADO** |
-| Comenio | SÍ | `01-filosofia-educacion/comenio.md` | — | — | pendiente |
+| Comenio | SÍ | `01-filosofia-educacion/comenio.md` | 2+ | 3+ | **COMPLETADO** |
 | Locke | ? | — | — | — | pendiente |
-| Newton | ? | — | — | — | pendiente |
+| Newton | SÍ | `08-matematicas-ciencia-computacion/newton.md` | — | — | pendiente |
 | San Juan Bautista de La Salle | SÍ | `01-filosofia-educacion/juan-bautista-de-la-salle.md` | — | — | pendiente |
 | Rousseau | SÍ | `01-filosofia-educacion/rousseau.md` | — | — | pendiente |
 | Kant | ? | — | — | — | pendiente |
