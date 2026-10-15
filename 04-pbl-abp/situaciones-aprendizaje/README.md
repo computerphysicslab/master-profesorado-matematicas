@@ -50,6 +50,7 @@ Cuando exista una **historia matemática** hermana (germen narrativo), se enlaza
 | [¿Te conviene cambiar de puerta? (Monty Hall)](sa-monty-hall-4eso.md) | 4.º ESO / 1.º Bach | Estocástico · probabilidad condicionada | 5 sesiones | Completa v1.0 |
 | [**¿Es π igual a 4?** (falacia visual del perímetro)](sa-falacia-pi-4-4eso.md) | 4.º ESO / 1.º Bach | Medida, espacial, argumentación · límite | 5 sesiones | Completa v1.0 |
 | [**Constantes matemáticas** (museo de números universales)](sa-constantes-matematicas-4eso.md) | 4.º ESO / 1.º Bach | Numérico, histórico, comunicación | 8–10 sesiones | Completa v1.0 |
+| [**Perelman y la conjetura de Poincaré** (valor social del conocimiento)](sa-perelman-poincare-4eso.md) | 4.º ESO / 1.º Bach | Espacial (intuición topológica), argumentación, mediático, sociocrítico | 4 sesiones | Completa v1.0 |
 
 ## Plantilla
 
