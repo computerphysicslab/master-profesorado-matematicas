@@ -21,6 +21,7 @@ Especial atención a la prevención del burnout docente y al clima socioafectivo
 | [01-modelo-transaccional-estres.md](01-modelo-transaccional-estres.md) | Modelo de Lazarus y Folkman, mitos, tipos de estresores, afrontamiento (problema/emoción; aproximación/evitación), Tipo A, técnicas (D’Zurilla), aplicaciones al profesorado y al aula |
 | [02-inteligencia-emocional.md](02-inteligencia-emocional.md) | Concepto de IE (Mayer y Salovey, Goleman y otros), componentes, relación con el éxito profesional y personal |
 | [03-competencias-socioemocionales.md](03-competencias-socioemocionales.md) | Competencias socioemocionales, escala e-COM, prueba TRUST y su relevancia para la docencia |
+| [04-tres-regiones-emocion-estres.md](04-tres-regiones-emocion-estres.md) | Amígdala, hipocampo y corteza prefrontal: alerta → contexto → regulación; bidireccionalidad emociones–estrés; actividad breve de aula |
 | [propuestas-actividades.md](propuestas-actividades.md) | Plantillas y orientaciones para diseñar actividades de educación emocional y situaciones de evaluación |
 | [recursos.md](recursos.md) | Referencias bibliográficas clave y recursos recomendados |
 | [Afectividad y motivación intrínseca](afectividad-y-motivacion-intrinseca.md) | Emociones, autodeterminación (Deci y Ryan), ansiedad matemática, prácticas de aula y sentido socioafectivo LOMLOE |
@@ -28,16 +29,18 @@ Especial atención a la prevención del burnout docente y al clima socioafectivo
 | [Ventana de Johari aplicada a la docencia de Matemáticas](ventana-de-johari-docencia-matematicas.md) | Autoconocimiento y comunicación: áreas pública, ciega, oculta y desconocida; feedback y autorrevelación; clima de aula de Matemáticas |
 
 **Apunte de síntesis del estrés (tema completo):** [../apuntes/estres-impacto-y-gestion-emocional.md](../apuntes/estres-impacto-y-gestion-emocional.md)  
-**Síntesis del modelo transaccional aplicada a EE:** [../apuntes/11-modelo-transaccional-educacion-emocional.md](../apuntes/11-modelo-transaccional-educacion-emocional.md)
+**Síntesis del modelo transaccional aplicada a EE:** [../apuntes/11-modelo-transaccional-educacion-emocional.md](../apuntes/11-modelo-transaccional-educacion-emocional.md)  
+**Neuroeducación (Tema 7, con tres regiones):** [../apuntes/07-neuroeducacion-precauciones.md](../apuntes/07-neuroeducacion-precauciones.md)
 
 ## Uso recomendado
 
 1. Leer primero el modelo transaccional del estrés (ficha + apunte) para comprender la base teórica.
 2. Continuar con inteligencia emocional y competencias socioemocionales.
-3. Utilizar las propuestas de actividades como punto de partida para el diseño propio (nunca copiar literalmente).
-4. Consultar afectividad/motivación, **Pekrun** y Ventana de Johari para el puente al aula de Matemáticas.
-5. Consultar las referencias para profundizar.
-6. Autoevaluarse con los [exámenes a tres niveles](../examen/).
+3. Usar el material de **tres regiones** junto al Tema 7 para el puente neuro ↔ aula (sin neuromitos).
+4. Utilizar las propuestas de actividades como punto de partida para el diseño propio (nunca copiar literalmente).
+5. Consultar afectividad/motivación, **Pekrun** y Ventana de Johari para el puente al aula de Matemáticas.
+6. Consultar las referencias para profundizar.
+7. Autoevaluarse con los [exámenes a tres niveles](../examen/).
 
 ## Enlaces relacionados en el máster
 
