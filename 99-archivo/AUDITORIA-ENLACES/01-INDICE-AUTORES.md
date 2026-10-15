@@ -13,7 +13,7 @@ Actualizado: 2026-10-15
 | Erasmo | SÍ | `01-filosofia-educacion/erasmo.md` | 1+ | 3 | **COMPLETADO** |
 | Juan Luis Vives | SÍ | `01-filosofia-educacion/vives.md` | 1+ | 3 | **COMPLETADO** |
 | San José de Calasanz | SÍ | `01-filosofia-educacion/jose-de-calasanz.md` | 1+ | 2+ | **COMPLETADO** |
-| Galileo | ? | — | — | — | pendiente |
+| Galileo | SÍ | `08-matematicas-ciencia-computacion/galileo.md` | 3+ | 4+ | **COMPLETADO** |
 | Comenio | SÍ | `01-filosofia-educacion/comenio.md` | — | — | pendiente |
 | Locke | ? | — | — | — | pendiente |
 | Newton | ? | — | — | — | pendiente |
