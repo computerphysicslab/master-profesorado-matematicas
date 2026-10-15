@@ -1,8 +1,8 @@
 {
   "autores_total": 38,
-  "autores_completados": ["socrates"],
-  "autor_actual": "platon",
+  "autores_completados": ["socrates", "platon"],
+  "autor_actual": "aristoteles",
   "fecha_inicio": "2026-10-15",
-  "ultima_actualizacion": "2026-10-15T12:06:00Z",
+  "ultima_actualizacion": "2026-10-15T12:29:00Z",
   "notas": "Fichas no existentes en árbol (candidatos FICHA PENDIENTE): euclides, agustin, aquino, erasmo, vives, galileo, locke, newton, kant, bobbitt, wallon, claparede, liljedahl, polya, skemp, schoenfeld — verificar en siguientes iteraciones."
 }
