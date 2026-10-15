@@ -24,6 +24,8 @@ Las matemáticas se entienden como un conjunto de herramientas, procedimientos, 
 
 ### 3.2. Concepción platonista
 
+> Nombre inspirado en la tradición de [Platón](../../../09-bibliografia/autores-pensadores/01-filosofia-educacion/platon.md); en Ernest designa una *filosofía de las matemáticas* en el aula (verdades objetivas que se descubren), no un curso de filosofía antigua.
+
 Las matemáticas se entienden como un sistema de conocimientos, relaciones, estructuras y verdades que existen de forma objetiva y que pueden descubrirse y comprenderse. El conocimiento matemático se concibe como un cuerpo estático pero unificado, interconectado por la lógica.
 
 **Manifestaciones en el aula:**
