@@ -17,7 +17,7 @@
 
 ## 2. Historia
 
-**Hipatia** (c. 355/370 – 415 d. C.), matemática y filósofa neoplatónica de **Alejandría**. Hija de Teón (astrónomo y editor de Euclides). Enseña geometría, astronomía y filosofía; se le atribuyen comentarios a **Diofanto**, a las **Cónicas de Apolonio** y trabajo sobre el **Almagesto** / tablas astronómicas, aunque los textos originales no se conservan de forma segura.
+**Hipatia** (c. 355/370 – 415 d. C.), matemática y filósofa neoplatónica de **Alejandría**. Hija de Teón (astrónomo y editor de [Euclides](../../../09-bibliografia/autores-pensadores/08-matematicas-ciencia-computacion/euclides.md)). Enseña geometría, astronomía y filosofía; se le atribuyen comentarios a **Diofanto**, a las **Cónicas de Apolonio** y trabajo sobre el **Almagesto** / tablas astronómicas, aunque los textos originales no se conservan de forma segura.
 
 Fue figura pública respetada en Alejandría. Murió de forma violenta en 415, en un contexto de tensión política de la ciudad. Para el aula, el centro de interés es su **trabajo matemático y la transmisión del saber**, no la mitificación de su muerte.
 
