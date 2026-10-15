@@ -35,6 +35,7 @@ Ya en el repo (columna vertebral pedagógica del mismo polo): [Durkheim](./03-so
 | [San Agustín](./01-filosofia-educacion/agustin.md) | Filosofía de la educación | Maestro Interior; artes liberales; iluminación | Procesos; Contenidos disciplinares |
 | [Santo Tomás de Aquino](./01-filosofia-educacion/santo-tomas-de-aquino.md) | Filosofía de la educación | actualización de capacidades; virtudes intelectuales; *quaestio* | Procesos; Contenidos disciplinares |
 | [Erasmo de Róterdam](./01-filosofia-educacion/erasmo.md) | Humanismo pedagógico | *De pueris*; crítica del castigo; letras y virtud | Procesos; Habilidades comunicativas; Educación emocional |
+| [Juan Luis Vives](./01-filosofia-educacion/vives.md) | Humanismo pedagógico | *De disciplinis*; ingenio; experiencia; diferencias individuales | Procesos; Psicología; Diseño de actividades |
 | [San José de Calasanz](./01-filosofia-educacion/jose-de-calasanz.md) | Escuela popular | gratuidad; ábaco; Escuelas Pías | Procesos |
 | [Comenio](./01-filosofia-educacion/comenio.md) | Didáctica moderna | enseñanza sistemática | Procesos |
 | [San Juan Bautista de La Salle](./01-filosofia-educacion/juan-bautista-de-la-salle.md) | Escuela primaria moderna | método simultáneo; formación de maestros | Procesos |
