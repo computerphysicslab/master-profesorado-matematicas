@@ -6,7 +6,7 @@ Actualizado: 2026-10-15
 |-------|---------------|------------|----------------------|--------------------|--------|
 | Sócrates | SÍ | `01-filosofia-educacion/socrates.md` | 15+ (6-IA + orígenes + índices) | 4+ (IA + Procesos + índices) | **COMPLETADO** |
 | Platón | SÍ | `01-filosofia-educacion/platon.md` | 10+ (orígenes, geometría, finalidades, concepciones) | 6+ (orígenes, geometría, finalidades, materiales, cross-links) | **COMPLETADO** |
-| Aristóteles | SÍ | `01-filosofia-educacion/aristoteles.md` | — | — | pendiente |
+| Aristóteles | SÍ | `01-filosofia-educacion/aristoteles.md` | 5+ (orígenes + índices + cross-links) | 4+ (orígenes tablas/referencias + hilo histórico + índices) | **COMPLETADO** |
 | Euclides | ? | — | — | — | pendiente |
 | San Agustín | ? | — | — | — | pendiente |
 | Tomás de Aquino | ? | — | — | — | pendiente |
