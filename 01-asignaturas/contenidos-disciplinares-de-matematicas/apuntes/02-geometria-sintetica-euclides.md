@@ -35,7 +35,7 @@ A partir del siglo VI a. e. c. (Tales, pitagóricos, [Platón](../../../09-bibli
 2. Todo el resto se derive por razonamiento lógico.
 3. Se minimicen las lagunas y las peticiones de principio.
 
-Euclides (c. 300 a. e. c.), en los *Elementos*, ofrece la solución más influyente de la historia.
+[Euclides](../../../09-bibliografia/autores-pensadores/08-matematicas-ciencia-computacion/euclides.md) (c. 300 a. e. c.), en los *Elementos*, ofrece la solución más influyente de la historia.
 
 ---
 
@@ -135,6 +135,7 @@ Los problemas clásicos (duplicación del cubo, trisección del ángulo, cuadrat
 
 ## 8. Lecturas y recursos del repositorio
 
+- [Euclides](../../../09-bibliografia/autores-pensadores/08-matematicas-ciencia-computacion/euclides.md) — axiomas; demostración; geometría sintética
 - [Platón](../../../09-bibliografia/autores-pensadores/01-filosofia-educacion/platon.md) — matemáticas como propedéutica; ideal de demostración
 - Panorama histórico general: [01-vision-historica.md](01-vision-historica.md)
 - Fichas narrativas: [Hipatia](../../../03-materiales/historias-matematicas/fichas/hipatia.md), [Eratóstenes](../../../03-materiales/historias-matematicas/fichas/eratostenes-tierra.md), [Arquímedes](../../../03-materiales/historias-matematicas/fichas/arquimedes-corona.md)
@@ -144,7 +145,7 @@ Los problemas clásicos (duplicación del cubo, trisección del ángulo, cuadrat
 
 ## 9. Referencias orientativas
 
-- Euclides, *Elementos* (cualquier edición comentada moderna; la de Heath sigue siendo referencia en inglés).
+- [Euclides](../../../09-bibliografia/autores-pensadores/08-matematicas-ciencia-computacion/euclides.md), *Elementos* (cualquier edición comentada moderna; la de Heath sigue siendo referencia en inglés).
 - Hartshorne, R. *Geometry: Euclid and Beyond* (enfoque moderno sobre los *Elementos*).
 - Boyer / Katz / Stillwell (historias generales ya citadas en el apunte 01).
 - Para el aula: materiales de construcción con regla y compás y análisis de demostraciones escolares del teorema de Pitágoras o de los criterios de congruencia.
