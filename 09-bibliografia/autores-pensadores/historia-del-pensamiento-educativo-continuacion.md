@@ -16,7 +16,7 @@ Continúa la [línea temporal principal](./historia-del-pensamiento-educativo.md
 
 <br clear="all"/>
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Ovide_Decroly.jpg/120px-Ovide_Decroly.jpg" width="100" alt="Decroly" align="left" style="margin:4px 12px 8px 0"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Ovide_Decroly_%281871-1932%29.jpg/120px-Ovide_Decroly_%281871-1932%29.jpg" width="100" alt="Decroly" align="left" style="margin:4px 12px 8px 0"/>
 
 **1871 — [Ovide Decroly](./01-filosofia-educacion/decroly.md).** Centros de interés y globalización.
 
@@ -90,7 +90,7 @@ Continúa la [línea temporal principal](./historia-del-pensamiento-educativo.md
 Diálogo y razón ([Sócrates](./01-filosofia-educacion/socrates.md)–[Aristóteles](./01-filosofia-educacion/aristoteles.md))
   → humanismo y método (Vives–San José de Calasanz–Comenio–San Juan Bautista de La Salle–Locke)
   → naturaleza y autonomía (Rousseau–Kant–Pestalozzi)
-  → Escuela Nueva y experiencia (Dewey–Montessori–Freinet)
+  → Escuela Nueva y experiencia (Dewey–Montessori–Decroly–Freinet)
   → mente y mediación (Piaget–Vygotsky–Bruner)
   → sociedad y poder (Durkheim–Bourdieu–Foucault–Freire)
   → aula de mates que piensa (Pólya–Skemp–Brousseau–Schoenfeld–Liljedahl)
