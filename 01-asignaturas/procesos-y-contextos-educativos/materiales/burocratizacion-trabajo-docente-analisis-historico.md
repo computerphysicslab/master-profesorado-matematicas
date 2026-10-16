@@ -3,6 +3,8 @@
 > Material complementario del [Tema 1](../apuntes/01-evolucion-historica-sistema-educativo-paradigmas.md).  
 > Versión completa del análisis. La sección 7 del Tema 1 ofrece la síntesis gráfica.
 
+**Marco sociológico clásico:** [Max Weber](../../../09-bibliografia/autores-pensadores/03-sociologia/weber.md) — tipo ideal de burocracia, autoridad racional-legal, racionalización y «jaula de hierro» (vocabulario para leer la formalización documental de la enseñanza).
+
 **Podcast:** 🎧 [De la tiza al colapso burocrático](../../../08-podcasts/episodios/De_la_tiza_al_colapso_burocrático.m4a) — evolución histórica, paradigmas y burocracia docente · [guion](../../../08-podcasts/guiones/Evoluci%C3%B3n%20hist%C3%B3rica%20del%20sistema%20educativo%20espa%C3%B1ol%20y%20paradigmas%20educativos.md)
 
 **Estimación cuantitativa LOMCE–LOMLOE (SCM, TALIS, CCAA):** [Carga burocrática LOMCE–LOMLOE](carga-burocratica-lomce-lomloe-scm.md)
@@ -296,7 +298,7 @@ Pregunta de fondo (especialmente relevante para el máster de Matemáticas):
 
 ¿Hasta qué punto la progresiva formalización documental de la enseñanza ha desplazado al profesor desde el papel de profesional que interpreta y decide hacia el de gestor de un sistema de especificaciones curriculares?
 
-Esta pregunta conecta directamente con el análisis del posible desplazamiento hacia un paradigma racional-tecnológico.
+Esta pregunta conecta directamente con el análisis del posible desplazamiento hacia un paradigma racional-tecnológico y con el vocabulario weberiano de racionalización y burocracia ([ficha Max Weber](../../../09-bibliografia/autores-pensadores/03-sociologia/weber.md)).
 
 > **Importante:** la formulación anterior es una **hipótesis de análisis**, no una conclusión demostrada. Los datos de TALIS confirman que la carga administrativa es actualmente una fuente importante de estrés para una proporción elevada del profesorado español, pero no permiten atribuir causalmente ese fenómeno a una ley concreta.
 
@@ -304,8 +306,10 @@ Esta pregunta conecta directamente con el análisis del posible desplazamiento h
 
 ## Para seguir
 
+- [**Max Weber** — burocracia, racionalización, autoridad](../../../09-bibliografia/autores-pensadores/03-sociologia/weber.md)
 - [**Carga burocrática LOMCE–LOMLOE (SCM, TALIS, CCAA)**](carga-burocratica-lomce-lomloe-scm.md)
 - [Tema 1 — Evolución histórica y paradigmas](../apuntes/01-evolucion-historica-sistema-educativo-paradigmas.md)
 - [TALIS — ficha sintética](talis-ficha-sintetica.md)
+- [Idea TFM 03 — Burocratización docente](../../trabajo-fin-de-master/ideas-interesantes/03-burocratizacion-docente-y-carga-administrativa.md)
 - [Termómetro de opinión — LOMLOE e itinerarios](termometro-opinion-lomloe-itinerarios.md)
 - 🎧 [Podcast: De la tiza al colapso burocrático](../../../08-podcasts/episodios/De_la_tiza_al_colapso_burocrático.m4a) · [guion](../../../08-podcasts/guiones/Evoluci%C3%B3n%20hist%C3%B3rica%20del%20sistema%20educativo%20espa%C3%B1ol%20y%20paradigmas%20educativos.md)
