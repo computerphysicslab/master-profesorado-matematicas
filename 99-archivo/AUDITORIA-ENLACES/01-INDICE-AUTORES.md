@@ -19,7 +19,7 @@ Actualizado: 2026-10-16
 | Newton | SÍ | `08-matematicas-ciencia-computacion/newton.md` | 2+ | 3+ | **COMPLETADO** |
 | San Juan Bautista de La Salle | SÍ | `01-filosofia-educacion/juan-bautista-de-la-salle.md` | 1+ | 2+ | **COMPLETADO** |
 | Rousseau | SÍ | `01-filosofia-educacion/rousseau.md` | 2+ | 3+ | **COMPLETADO** |
-| Kant | ? | — | — | — | pendiente |
+| Kant | SÍ | `01-filosofia-educacion/kant.md` | 1+ | 2+ | **COMPLETADO** |
 | Pestalozzi | SÍ | `01-filosofia-educacion/pestalozzi.md` | — | — | pendiente |
 | Fröbel | SÍ | `01-filosofia-educacion/froebel.md` | — | — | pendiente |
 | Comte | SÍ | `01-filosofia-educacion/comte.md` | — | — | pendiente |
