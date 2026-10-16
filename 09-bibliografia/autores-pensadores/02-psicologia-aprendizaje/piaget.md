@@ -1,124 +1,165 @@
 # Jean Piaget
 
 **Área:** Psicología del desarrollo  
-**Conceptos clave:** constructivismo; estadios del desarrollo; esquemas; asimilación y acomodación; equilibración  
+**Conceptos clave:** constructivismo; estadios del desarrollo; esquemas; asimilación y acomodación; equilibración; operaciones concretas y formales  
 **Ámbitos del Máster relacionados:** Psicología del desarrollo y de la educación; Diseño de actividades de aprendizaje de Matemáticas
 
 ---
 
 ## AUTOR: Jean Piaget
 
-**CORRIENTE PEDAGÓGICA:**  
-Constructivismo cognitivo / psicología genética. Una de las teorías del desarrollo más influyentes del siglo XX. Su obra fundamenta la idea de que el conocimiento no se transmite, sino que se construye activamente a través de la interacción del sujeto con el medio.
+**CORRIENTE:**  
+**Constructivismo cognitivo** / psicología genética. El conocimiento no se transmite: se **construye** activamente en la interacción del sujeto con el medio. Formado en el entorno del [Instituto Jean-Jacques Rousseau](../01-filosofia-educacion/claparede.md) (Ginebra).
 
 ---
 
-## BREVE RESEÑA BIOGRÁFICA:
+## BREVE RESEÑA BIOGRÁFICA
 
-Jean William Fritz Piaget (Neuchâtel, Suiza, 1896 – Ginebra, 1980) fue biólogo, psicólogo y epistemólogo. Publicó su primer artículo científico a los 11 años. Estudió zoología y se interesó por el desarrollo del pensamiento infantil a partir de su trabajo en el laboratorio de Binet en París.
+Jean William Fritz Piaget (Neuchâtel, 1896 – Ginebra, 1980). Biólogo, psicólogo y epistemólogo. Trabajo en el laboratorio de Binet; después, décadas al frente del Centro Internacional de Epistemología Genética. Estudió el desarrollo de la inteligencia, el número, el espacio, el tiempo, la causalidad y la moral.
 
-Dirigió durante décadas el Centro Internacional de Epistemología Genética en Ginebra. Su obra es inmensa: estudió el desarrollo de la inteligencia, del lenguaje, de la moral, del número, del espacio, del tiempo y de la causalidad. Obras clave: *La representación del mundo en el niño*, *La génesis del número en el niño* (con Szeminska), *La psicología de la inteligencia* y *La equilibración de las estructuras cognitivas*.
-
----
-
-## PRINCIPALES APORTACIONES AL ÁMBITO EDUCATIVO:
-
-- **El niño como constructor activo del conocimiento**: no es un receptor pasivo; construye esquemas a través de la acción y la reflexión sobre la acción.
-- **Estadios del desarrollo cognitivo**:
-  - Sensoriomotor (0-2 años)
-  - Preoperacional (2-7 años)
-  - Operaciones concretas (7-11/12 años)
-  - Operaciones formales (desde ~12 años)
-- **Asimilación y acomodación**: el organismo incorpora la experiencia a los esquemas existentes (asimilación) o modifica los esquemas cuando la experiencia no encaja (acomodación). El equilibrio entre ambos es la equilibración.
-- **Operaciones**: acciones interiorizadas, reversibles y coordinadas. En el estadio de operaciones concretas el niño puede clasificar, seriar y conservar; en el formal, razonar hipotético-deductivamente.
-- **Aprendizaje y desarrollo**: el desarrollo de las estructuras cognitivas limita lo que se puede aprender en cada momento; la enseñanza debe respetar el nivel de desarrollo (en contraste con Vygotsky).
-- **Método clínico-crítico**: entrevista flexible basada en la acción del niño y en la justificación de sus respuestas, no solo en el acierto o error.
-
-En matemáticas, Piaget estudió la génesis del número, de la medida, de las operaciones y del pensamiento proporcional. Su trabajo inspiró la enseñanza basada en la manipulación, el descubrimiento y el respeto a los estadios.
+Obras clave: *La genésis del número en el niño* (con Szeminska); *La psicología de la inteligencia*; *La equilibración de las estructuras cognitivas*; con Inhelder, el paso al pensamiento formal.
 
 ---
 
-## MÉTODOS / TÉCNICAS:
+## PRINCIPALES APORTACIONES
 
-| Técnica / principio | Descripción breve |
-|---------------------|-------------------|
-| **Aprendizaje por descubrimiento** | El alumno construye el conocimiento actuando sobre el material y reflexionando. |
-| **Conflictos cognitivos** | Situaciones que generan desequilibrio y obligan a acomodar los esquemas. |
-| **Materiales manipulativos** | Objetos que permiten acciones concretas (contar, clasificar, seriar, medir). |
-| **Método clínico-crítico** | Preguntas adaptadas a las respuestas del alumno para explorar su razonamiento. |
-| **Respeto al estadio** | No forzar operaciones formales en alumnos que aún razonan en concreto. |
-| **Actividades de conservación, clasificación y seriación** | Tareas clásicas piagetianas adaptadas al aula. |
+### A. Constructor activo
 
----
+El niño no es receptor pasivo: construye **esquemas** mediante la acción y la reflexión sobre la acción.
 
-## PLANTEAMIENTO DE UNA ACTIVIDAD BASADA EN EL AUTOR:
+### B. Estadios (modelo clásico)
 
-### Título: **“Conservación y conflicto cognitivo: del número a las fracciones”**
+| Estadio | Edad orientativa | Rasgo central |
+|---------|------------------|---------------|
+| Sensoriomotor | 0–2 | Acción y percepción |
+| Preoperacional | 2–7 | Simbólico; egocentrismo cognitivo |
+| Operaciones concretas | 7–11/12 | Clasificar, seriar, conservar |
+| Operaciones formales | desde ~12 | Hipotético-deductivo; proporcionalidad abstracta |
 
-**Nivel sugerido:** 5.º-6.º Primaria o 1.º ESO (alumnado con dificultades en fracciones).  
-**Duración:** 2-3 sesiones.
+En ESO el supuesto «ya son formales» es **falso como universal**: el pensamiento formal es una posibilidad, no un logro automático en todos los dominios.
 
-**Objetivos:**
-- Generar un conflicto cognitivo en torno a la conservación de la cantidad.
-- Observar y hacer explicitar el razonamiento del alumnado.
-- Transitar de la acción concreta a la representación y a la operación.
+### C. Asimilación, acomodación, equilibración
 
-**Desarrollo:**
+Incorporar la experiencia a esquemas (asimilación) o modificar esquemas (acomodación). El motor del desarrollo es la **equilibración** (incluidos los conflictos cognitivos).
 
-1. **Situación de conservación (sesión 1)**  
-   Con material manipulativo (tiras de papel, liquidadores, regletas o figuras geométricas): presentar dos cantidades iguales; transformar una (partir, estirar, redistribuir) y preguntar: “¿Hay la misma cantidad? ¿Por qué?”. Registrar justificaciones sin corregir de inmediato.
+### D. Operaciones
 
-2. **Conflicto y discusión (sesión 2)**  
-   Confrontar respuestas divergentes. Introducir nuevas transformaciones. Guiar hacia la reversibilidad (“si lo vuelvo a juntar, ¿qué pasa?”) y hacia la compensación.
+Acciones interiorizadas, reversibles y coordinadas. Base de la conservación, la clasificación y, más tarde, del razonamiento sobre hipótesis.
 
-3. **Formalización gradual (sesión 3)**  
-   Pasar del material a dibujos y, finalmente, a notación fraccionaria o numérica. Reflexión: ¿qué ha cambiado en cómo pensamos la cantidad?
+### E. Desarrollo y aprendizaje
 
-**Conexión con Piaget:**  
-La actividad se basa en la acción del alumno, genera desequilibrio (conflicto cognitivo), explora el razonamiento con método clínico y solo después introduce la formalización, respetando el paso de lo concreto a lo operatorio.
+Las estructuras limitan lo aprendible en cada momento; la enseñanza debe respetar el nivel de desarrollo. **Contraste central** con [Vygotsky](vygotsky.md) (ZDP: lo que se puede hacer con mediación anticipa lo autónomo).
 
----
+### F. Método clínico-crítico
 
-## CRÍTICAS Y LIMITACIONES:
+Entrevista flexible centrada en la **justificación** del alumno, no solo en acierto/error.
 
-- **Subestimación de las capacidades infantiles**: estudios posteriores (y la tradición vygotskiana) han mostrado que, con apoyos adecuados, los niños pueden realizar tareas antes de lo que predicen los estadios clásicos.
-- **Rigidez de los estadios**: la idea de etapas universales y cualitativamente distintas ha sido matizada; el desarrollo es más continuo y dependiente del dominio y del contexto.
-- **Escasa atención a lo social y cultural**: Piaget centró el análisis en el individuo que actúa sobre el mundo físico; Vygotsky y la psicología sociocultural subrayaron el papel del lenguaje, la interacción y la cultura.
-- **Método clínico difícil de escalar**: la entrevista clínica es rica pero costosa; no se traslada fácilmente a la evaluación masiva en el aula.
-- **Aplicaciones escolares simplificadas**: el “piagetianismo escolar” a veces se redujo a “no enseñar nada antes de tiempo” o a un uso superficial de manipulativos sin reflexión sobre la acción.
-- **Adolescencia y operaciones formales**: no todos los adolescentes (ni adultos) razonan de forma consistentemente formal en todos los dominios; el estadio formal es más una posibilidad que una conquista universal.
+### G. Matemáticas
+
+Génesis del número, medida, operaciones y pensamiento proporcional. Inspiró manipulación, descubrimiento y respeto a la secuencia concreto → operatorio.
+
+### H. Relación con otras figuras
+
+- [Vygotsky](vygotsky.md): contraste desarrollo/aprendizaje y papel de lo social.  
+- [Claparède](../01-filosofia-educacion/claparede.md): Instituto J.-J. Rousseau; interés y escuela activa.  
+- [Bruner](bruner.md): descubrimiento; representaciones.  
+- [Ausubel](ausubel.md): conocimientos previos (otro eje: significativo vs. mecánico).  
+- Contraste con [Thorndike](thorndike.md)/[Skinner](skinner.md): comprensión y estructuras, no solo conexiones reforzadas.
 
 ---
 
-## REFERENCIAS (APA 7):
+## RELEVANCIA PARA LA DIDÁCTICA DE LAS MATEMÁTICAS
 
-Piaget, J. (1952). *The child’s conception of number*. Routledge & Kegan Paul. (Obra original en colaboración con A. Szeminska).
+| Dimensión | Enfoque Piaget | Aplicación actual |
+|-----------|----------------|-------------------|
+| **Estadios / formal** | No asumir formalidad plena en ESO | Álgebra y proporcionalidad con anclaje concreto |
+| **Conflicto cognitivo** | Desequilibrio → acomodación | Tareas que desafían intuiciones erróneas |
+| **Manipulación** | Acción antes que símbolo | Material → representación → formalización |
+| **Método clínico** | Explorar el razonamiento | Preguntar «¿por qué?»; evaluar proceso |
+| **Límite** | Estadios rígidos | Complementar con ZDP y carga cognitiva |
 
-Piaget, J. (1964). *Six psychological studies*. Vintage.
+**Eco en el máster:** Piaget es de lectura obligada en Psicología; en el aula de mates orienta el paso de lo concreto a lo formal y previene el error de tratar a todo el grupo como «ya formal».
 
-Piaget, J. (1975). *The equilibration of cognitive structures*. University of Chicago Press.
+---
 
-Inhelder, B., & Piaget, J. (1958). *The growth of logical thinking from childhood to adolescence*. Basic Books.
+## MÉTODOS / PRINCIPIOS
 
-Lourenço, O., & Machado, A. (1996). In defense of Piaget’s theory: A reply to 10 common criticisms. *Psychological Review, 103*(1), 143–164.
+| Principio | Descripción breve |
+|----------|-------------------|
+| Descubrimiento / acción | Construir actuando y reflexionando |
+| Conflicto cognitivo | Desequilibrio productivo |
+| Materiales manipulativos | Soportes de la acción concreta |
+| Método clínico-crítico | Explorar justificaciones |
+| Respeto al nivel operatorio | No forzar formalismo prematuro |
+
+---
+
+## ACTIVIDAD TIPO
+
+### «Conservación y conflicto: del número a las fracciones»
+
+**Nivel:** 1.º ESO (o refuerzo). **Duración:** 2–3 sesiones.
+
+1. Transformar cantidades iguales (partir, redistribuir) y preguntar si hay la misma cantidad y **por qué**.  
+2. Confrontar respuestas; guiar hacia reversibilidad y compensación.  
+3. Pasar a dibujo y notación fraccionaria.
+
+---
+
+## MATERIALES DEL REPO RELACIONADOS
+
+| Material | Relación |
+|----------|----------|
+| [Vygotsky](vygotsky.md) | Contraste ZDP / estadios |
+| [Bruner](bruner.md) | Descubrimiento; representaciones |
+| [Ausubel](ausubel.md) | Conocimientos previos |
+| [Claparède](../01-filosofia-educacion/claparede.md) | Instituto J.-J. Rousseau |
+| [Thorndike](thorndike.md) | Contraste asociacionista |
+| [Síntesis conocimientos fundamentales](../../../sintesis-conocimientos-fundamentales.md) | Adolescencia; formal no universal |
+| Psicología · Tema procesamiento / teorías cognitivas | Estadios, esquemas, contraste Vygotsky |
+| [Podcast desarrollo adolescencia](../../../08-podcasts/guiones/podcast_desarrollo_adolescencia.md) | Piaget en el guion |
+| [Rutas de lectura](../RUTAS-LECTURA.md) | Ruta Psicología del aprendizaje |
+| [Historia (continuación)](../historia-del-pensamiento-educativo-continuacion.md) | Entrada 1896 |
+
+---
+
+## CRÍTICAS Y LIMITACIONES
+
+- Subestimación de capacidades con apoyo (línea vygotskiana).  
+- Estadios más rígidos que el desarrollo real (dominio y contexto importan).  
+- Poco peso a lo social y cultural.  
+- Método clínico difícil de escalar.  
+- «Piagetianismo escolar» simplificado (solo manipulativos o «no enseñar antes de tiempo»).  
+- Operaciones formales no universales en adolescencia.
+
+---
+
+## REFERENCIAS (APA 7 orientativas)
+
+Piaget, J., & Szeminska, A. (obra clásica). *La genésis del número en el niño*.
+
+Piaget, J. (1975). *The equilibration of cognitive structures*.
+
+Inhelder, B., & Piaget, J. (1958). *The growth of logical thinking from childhood to adolescence*.
+
+Lourenço, O., & Machado, A. (1996). In defense of Piaget’s theory. *Psychological Review, 103*(1), 143–164.
 
 ---
 
 ## Por qué conocerlo (orientación del Máster)
 
-Jean Piaget forma parte del mapa intelectual del Máster por su relación con **psicología del desarrollo**. Esta ficha sirve como punto de entrada: conviene comprender las ideas fundamentales y localizar una obra primaria o una revisión académica adecuada.
+Piaget es núcleo de **Psicología del desarrollo** en el Máster: constructivismo, estadios, esquemas y el contraste obligatorio con [Vygotsky](vygotsky.md). En Matemáticas orienta el tránsito concreto–formal y la exploración del razonamiento del alumnado.
 
 ### Preguntas guía
-- ¿Qué problema educativo o didáctico permite abordar?
-- ¿Qué concepto suyo debería poder explicar un futuro profesor de Matemáticas?
-- ¿Cómo podría aparecer esa idea en el aula de Matemáticas?
-- ¿Qué limitaciones o críticas tiene su enfoque?
-- ¿Qué conexiones tiene con otros autores del mapa?
+- ¿Qué problema aborda? Cómo se construye la inteligencia y qué limita lo aprendible en cada momento.
+- ¿Qué concepto debe poder explicar un futuro profesor? Esquemas; asimilación/acomodación; operaciones concretas vs. formales; conflicto cognitivo.
+- ¿Cómo aparece en el aula? Manipulación con reflexión; tareas que desestabilizan intuiciones; no asumir formalidad plena en ESO.
+- ¿Qué limitaciones tiene? Estadios; poco social; contraste con ZDP y carga cognitiva.
+- ¿Conexiones? [Vygotsky](vygotsky.md); [Bruner](bruner.md); [Ausubel](ausubel.md); síntesis del máster.
 
-### Localización bibliográfica
-- [Google Scholar](https://scholar.google.com/scholar?q=Piaget+cognitive+development+education)
-- [Semantic Scholar](https://www.semanticscholar.org/search?q=Piaget+education)
-- [Dialnet](https://dialnet.unirioja.es/buscar/documentos?querysDismax.DOCUMENTAL_TODO=Piaget)
+### Enlaces de investigación
+- [Google Scholar](https://scholar.google.com/scholar?q=Piaget+cognitive+development+mathematics+education)
+- [Historia del pensamiento educativo (continuación)](../historia-del-pensamiento-educativo-continuacion.md)
 
 ### Relación con el Máster
-Los ámbitos indicados orientan la lectura; **no implican** que el autor figure de forma explícita en todas las guías docentes.
+Los ámbitos indicados orientan la lectura; **no implican** presencia obligatoria en todas las guías docentes.
