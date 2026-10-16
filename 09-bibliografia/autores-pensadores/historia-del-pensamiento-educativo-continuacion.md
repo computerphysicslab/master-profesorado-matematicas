@@ -34,9 +34,7 @@ Continúa la [línea temporal principal](./historia-del-pensamiento-educativo.md
 
 <br clear="all"/>
 
-<img src="https://commons.wikimedia.org/wiki/Special:FilePath/Franklin_Bobbitt.jpg?width=120" width="100" alt="Bobbitt" align="left" style="margin:4px 12px 8px 0"/>
-
-**1876 — [Franklin Bobbitt](./06-curriculo-evaluacion-investigacion/bobbitt.md).** Currículo como ingeniería de objetivos.
+**1876 — [Franklin Bobbitt](./06-curriculo-evaluacion-investigacion/bobbitt.md).** Currículo como ingeniería de objetivos. *(Sin retrato de dominio público localizado en Commons.)*
 
 <br clear="all"/>
 
@@ -44,37 +42,35 @@ Continúa la [línea temporal principal](./historia-del-pensamiento-educativo.md
 
 <br clear="all"/>
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Celestin_Freinet.jpg/120px-Celestin_Freinet.jpg" width="100" alt="Freinet" align="left" style="margin:4px 12px 8px 0"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Freinet.jpg/120px-Freinet.jpg" width="100" alt="Freinet" align="left" style="margin:4px 12px 8px 0"/>
 
 **1881 — [Célestin Freinet](./01-filosofia-educacion/freinet.md).** Imprenta escolar, cooperación y tanteo experimental.
 
 <br clear="all"/>
 
-<img src="https://commons.wikimedia.org/wiki/Special:FilePath/Kurt_Lewin.jpg?width=120" width="100" alt="Lewin" align="left" style="margin:4px 12px 8px 0"/>
-
-**1882 — [Kurt Lewin](./04-psicologia-social/lewin.md).** Clima de grupo y estilos de liderazgo.
+**1882 — [Kurt Lewin](./04-psicologia-social/lewin.md).** Clima de grupo y estilos de liderazgo. *(Retrato en Wikipedia bajo fair use; no hay equivalente libre en Commons.)*
 
 <br clear="all"/>
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Jean_Piaget_in_Ann_Arbor.png/120px-Jean_Piaget_in_Ann_Arbor.png" width="100" alt="Piaget" align="left" style="margin:4px 12px 8px 0"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Jean_Piaget_in_Ann_Arbor_%28cropped%29.png/120px-Jean_Piaget_in_Ann_Arbor_%28cropped%29.png" width="100" alt="Piaget" align="left" style="margin:4px 12px 8px 0"/>
 
 **1896 — [Jean Piaget](./02-psicologia-aprendizaje/piaget.md).** Estadios cognitivos; constructivismo.
 
 <br clear="all"/>
 
-<img src="https://commons.wikimedia.org/wiki/Special:FilePath/Lev_Vygotsky.jpg?width=120" width="100" alt="Vygotsky" align="left" style="margin:4px 12px 8px 0"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Lev_Vygotsky.1923.png/120px-Lev_Vygotsky.1923.png" width="100" alt="Vygotsky" align="left" style="margin:4px 12px 8px 0"/>
 
 **1896 — [Lev Vygotsky](./02-psicologia-aprendizaje/vygotsky.md).** Mediación social, ZDP y andamiaje.
 
 <br clear="all"/>
 
-<img src="https://commons.wikimedia.org/wiki/Special:FilePath/Paulo_Freire_1977.jpg?width=120" width="100" alt="Freire" align="left" style="margin:4px 12px 8px 0"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Paulo_Freire_1977.jpg/120px-Paulo_Freire_1977.jpg" width="100" alt="Freire" align="left" style="margin:4px 12px 8px 0"/>
 
 **1921 — [Paulo Freire](./01-filosofia-educacion/freire.md).** Pedagogía del oprimido; crítica a la educación bancaria.
 
 <br clear="all"/>
 
-<img src="https://commons.wikimedia.org/wiki/Special:FilePath/B.F._Skinner_at_Harvard_circa_1950.jpg?width=120" width="100" alt="Skinner" align="left" style="margin:4px 12px 8px 0"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/B.F._Skinner_at_Harvard_circa_1950_%28cropped%29.jpg/120px-B.F._Skinner_at_Harvard_circa_1950_%28cropped%29.jpg" width="100" alt="Skinner" align="left" style="margin:4px 12px 8px 0"/>
 
 **1904 — [B. F. Skinner](./02-psicologia-aprendizaje/skinner.md).** Condicionamiento operante.
 
