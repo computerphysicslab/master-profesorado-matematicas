@@ -22,11 +22,13 @@ Continúa la [línea temporal principal](./historia-del-pensamiento-educativo.md
 
 <br clear="all"/>
 
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Edouard_Clapar%C3%A8de_%281873-1940%29_%28cropped%29.jpg/120px-Edouard_Clapar%C3%A8de_%281873-1940%29_%28cropped%29.jpg" width="100" alt="Claparède" align="left" style="margin:4px 12px 8px 0"/>
+
 **1873 — [Édouard Claparède](./01-filosofia-educacion/claparede.md).** Pedagogía funcional; necesidades e intereses del niño; escuela activa.
 
 <br clear="all"/>
 
-<img src="https://commons.wikimedia.org/wiki/Special:FilePath/Edward_Thorndike.jpg?width=120" width="100" alt="Thorndike" align="left" style="margin:4px 12px 8px 0"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/PSM_V80_D211_Edward_Lee_Thorndike.png/120px-PSM_V80_D211_Edward_Lee_Thorndike.png" width="100" alt="Thorndike" align="left" style="margin:4px 12px 8px 0"/>
 
 **1874 — [Edward L. Thorndike](./02-psicologia-aprendizaje/thorndike.md).** Leyes del aprendizaje; medición educativa.
 
