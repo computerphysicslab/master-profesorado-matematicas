@@ -33,7 +33,7 @@ Actualizado: 2026-10-16
 | Bobbitt | SÍ | `06-curriculo-evaluacion-investigacion/bobbitt.md` | 3+ | 4+ | **COMPLETADO** |
 | Wallon | ? | — | — | — | pendiente |
 | Freinet | SÍ | `01-filosofia-educacion/freinet.md` | 10+ | 8+ | **COMPLETADO** |
-| Lewin | SÍ | `04-psicologia-social/lewin.md` | — | — | pendiente |
+| Lewin | SÍ | `04-psicologia-social/lewin.md` | 2+ | 2+ | **COMPLETADO** |
 | Piaget | SÍ | `02-psicologia-aprendizaje/piaget.md` | — | — | pendiente |
 | Vygotsky | SÍ | `02-psicologia-aprendizaje/vygotsky.md` | — | — | pendiente |
 | Freire | SÍ | `01-filosofia-educacion/freire.md` | — | — | pendiente |
