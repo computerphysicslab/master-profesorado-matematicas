@@ -41,6 +41,7 @@ Ya en el repo (columna vertebral pedagógica del mismo polo): [Durkheim](./03-so
 | [Galileo Galilei](./08-matematicas-ciencia-computacion/galileo.md) | Ciencia y matematización | experimento; $s \propto t^2$; lenguaje matemático de la naturaleza | Contenidos; Diseño curricular |
 | [Comenio](./01-filosofia-educacion/comenio.md) | Didáctica moderna | enseñanza sistemática | Procesos |
 | [John Locke](./01-filosofia-educacion/locke.md) | Empirismo / pedagogía del carácter | *tabula rasa*; hábitos; *Some Thoughts Concerning Education* | Procesos; Psicología |
+| [Isaac Newton](./08-matematicas-ciencia-computacion/newton.md) | Matemática y física | *Principia*; leyes del movimiento; cálculo; modelización | Contenidos; Diseño curricular |
 | [San Juan Bautista de La Salle](./01-filosofia-educacion/juan-bautista-de-la-salle.md) | Escuela primaria moderna | método simultáneo; formación de maestros | Procesos |
 | [Rousseau](./01-filosofia-educacion/rousseau.md) | Filosofía | educación natural | Psicología; Procesos |
 | [Pestalozzi](./01-filosofia-educacion/pestalozzi.md) | Pedagogía | intuición; educación integral | Procesos |
