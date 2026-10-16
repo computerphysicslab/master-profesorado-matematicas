@@ -20,7 +20,7 @@ Actualizado: 2026-10-16
 | San Juan Bautista de La Salle | SÍ | `01-filosofia-educacion/juan-bautista-de-la-salle.md` | 1+ | 2+ | **COMPLETADO** |
 | Rousseau | SÍ | `01-filosofia-educacion/rousseau.md` | 2+ | 3+ | **COMPLETADO** |
 | Kant | SÍ | `01-filosofia-educacion/kant.md` | 1+ | 2+ | **COMPLETADO** |
-| Pestalozzi | SÍ | `01-filosofia-educacion/pestalozzi.md` | — | — | pendiente |
+| Pestalozzi | SÍ | `01-filosofia-educacion/pestalozzi.md` | 2+ | 3+ | **COMPLETADO** |
 | Fröbel | SÍ | `01-filosofia-educacion/froebel.md` | — | — | pendiente |
 | Comte | SÍ | `01-filosofia-educacion/comte.md` | — | — | pendiente |
 | Dewey | SÍ | `01-filosofia-educacion/dewey.md` | — | — | pendiente |
