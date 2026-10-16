@@ -44,6 +44,7 @@ Ya en el repo (columna vertebral pedagógica del mismo polo): [Durkheim](./03-so
 | [Isaac Newton](./08-matematicas-ciencia-computacion/newton.md) | Matemática y física | *Principia*; leyes del movimiento; cálculo; modelización | Contenidos; Diseño curricular |
 | [San Juan Bautista de La Salle](./01-filosofia-educacion/juan-bautista-de-la-salle.md) | Escuela primaria moderna | método simultáneo; formación de maestros | Procesos |
 | [Rousseau](./01-filosofia-educacion/rousseau.md) | Filosofía | educación natural | Psicología; Procesos |
+| [Immanuel Kant](./01-filosofia-educacion/kant.md) | Ilustración / autonomía moral | disciplina; cultura; moralización; *Über Pädagogik* | Procesos; Psicología; Educación emocional |
 | [Pestalozzi](./01-filosofia-educacion/pestalozzi.md) | Pedagogía | intuición; educación integral | Procesos |
 | [Fröbel](./01-filosofia-educacion/froebel.md) | Pedagogía infancia | juego; kindergarten | Psicología; Procesos |
 | [Dewey](./01-filosofia-educacion/dewey.md) | Pragmatismo | aprender haciendo; problemas | Procesos; Diseño de actividades |
