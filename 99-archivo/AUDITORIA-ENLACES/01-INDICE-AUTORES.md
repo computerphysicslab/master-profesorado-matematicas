@@ -26,6 +26,7 @@ Actualizado: 2026-10-16
 | Dewey | SÍ | `01-filosofia-educacion/dewey.md` | 10+ | 8+ | **COMPLETADO** |
 | Montessori | SÍ | `01-filosofia-educacion/montessori.md` | 5+ | 5+ | **COMPLETADO** |
 | Weber | SÍ | `03-sociologia/weber.md` | 8+ | 6+ | **COMPLETADO** |
+| Durkheim | SÍ | `03-sociologia/durkheim.md` | 10+ | 8+ | **COMPLETADO** |
 | Decroly | SÍ | `01-filosofia-educacion/decroly.md` | — | — | pendiente |
 | Claparède | ? | — | — | — | pendiente |
 | Thorndike | SÍ | `02-psicologia-aprendizaje/thorndike.md` | — | — | pendiente |
@@ -38,7 +39,6 @@ Actualizado: 2026-10-16
 | Freire | SÍ | `01-filosofia-educacion/freire.md` | — | — | pendiente |
 | Skinner | SÍ | `02-psicologia-aprendizaje/skinner.md` | — | — | pendiente |
 | Liljedahl | ? | — | — | — | pendiente |
-| Durkheim | SÍ | `03-sociologia/durkheim.md` | — | — | pendiente |
 | Bourdieu | SÍ | `03-sociologia/bourdieu.md` | — | — | pendiente |
 | Foucault | SÍ | `03-sociologia/foucault.md` | — | — | pendiente |
 | Bruner | SÍ | `02-psicologia-aprendizaje/bruner.md` | — | — | pendiente |
