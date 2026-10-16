@@ -10,7 +10,7 @@ Continúa la [línea temporal principal](./historia-del-pensamiento-educativo.md
 
 <br clear="all"/>
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Maria_Montessori_%28portrait%29.jpg/120px-Maria_Montessori_%28portrait%29.jpg" width="100" alt="Montessori" align="left" style="margin:4px 12px 8px 0"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Maria_Montessori_%28portrait%29.jpg/120px-Maria_Montessori_%28portrait%29.jpg" width="100" alt="Montessori" align="left" style="margin:4px 12px 8px 0"/>
 
 **1870 — [María Montessori](./01-filosofia-educacion/montessori.md).** Ambiente preparado, autonomía y materiales.
 
