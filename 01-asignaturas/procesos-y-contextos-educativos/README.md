@@ -14,8 +14,8 @@ Orden sugerido alineado con el programa: apunte del tema → materiales enlazado
 
 | # | Tema | Apunte |
 |---|------|--------|
-| 1 | Sistema educativo y paradigmas | [01](apuntes/01-sistema-educativo-paradigmas.md) |
-| 2 | Relación familia–escuela–entorno | [02](apuntes/02-relacion-familia-escuela-entorno.md) |
+| 1 | Evolución histórica del SEE, paradigmas y burocratización del trabajo docente | [01](apuntes/01-evolucion-historica-sistema-educativo-paradigmas.md) |
+| 2 | Estructura de Secundaria, FP y enseñanzas de régimen especial | [02](apuntes/02-estructura-secundaria-fp-ensenanzas-regimen-especial.md) |
 | 3 | Centros: organización, participación y gestión | [03](apuntes/03-centros-organizacion-participacion-gestion.md) |
 | 4 | Atención a la diversidad e inclusión | [04](apuntes/04-atencion-diversidad-perspectiva-inclusiva.md) |
 | 5 | Metodología y recursos en Secundaria | [05](apuntes/05-metodologia-recursos-educacion-secundaria.md) |
