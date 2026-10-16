@@ -35,7 +35,7 @@ Actualizado: 2026-10-16
 | Freinet | SÍ | `01-filosofia-educacion/freinet.md` | 10+ | 8+ | **COMPLETADO** |
 | Lewin | SÍ | `04-psicologia-social/lewin.md` | 2+ | 2+ | **COMPLETADO** |
 | Piaget | SÍ | `02-psicologia-aprendizaje/piaget.md` | 15+ | 10+ | **COMPLETADO** |
-| Vygotsky | SÍ | `02-psicologia-aprendizaje/vygotsky.md` | — | — | pendiente |
+| Vygotsky | SÍ | `02-psicologia-aprendizaje/vygotsky.md` | 20+ | 15+ | **COMPLETADO** |
 | Freire | SÍ | `01-filosofia-educacion/freire.md` | — | — | pendiente |
 | Skinner | SÍ | `02-psicologia-aprendizaje/skinner.md` | — | — | pendiente |
 | Liljedahl | ? | — | — | — | pendiente |
