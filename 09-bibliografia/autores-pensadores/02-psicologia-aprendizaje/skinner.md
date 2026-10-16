@@ -1,128 +1,151 @@
 # B. F. Skinner
 
 **Área:** Conductismo  
-**Conceptos clave:** condicionamiento operante; refuerzo; moldeamiento; enseñanza programada; análisis experimental de la conducta  
-**Ámbitos del Máster relacionados:** Psicología del desarrollo y de la educación; Diseño de actividades de aprendizaje de Matemáticas
+**Conceptos clave:** condicionamiento operante; refuerzo; moldeamiento (*shaping*); enseñanza programada; análisis experimental de la conducta  
+**Ámbitos del Máster relacionados:** Psicología del desarrollo y de la educación; Diseño de actividades de aprendizaje de Matemáticas  
+**Mapa:** [paradigma empírico-analítico / racional-tecnológico](../mapa-paradigma-tecnocratico-positivista.md)
 
 ---
 
-## AUTOR: B. F. Skinner
+## AUTOR: Burrhus Frederic Skinner
 
-**CORRIENTE PEDAGÓGICA:**  
-Conductismo radical / análisis experimental de la conducta. Máximo representante del conductismo de mitad del siglo XX. Su influencia en educación se concreta en la enseñanza programada, las máquinas de enseñar y, de forma más amplia, en el uso sistemático del refuerzo y de la contingencia en el aula.
-
----
-
-## BREVE RESEÑA BIOGRÁFICA:
-
-Burrhus Frederic Skinner (Susquehanna, Pensilvania, 1904 – Cambridge, Massachusetts, 1990) fue psicólogo y profesor en Harvard. Estudió en Hamilton College y se doctoró en Harvard. Desarrolló la cámara de condicionamiento operante (“caja de Skinner”) y formuló los principios del condicionamiento operante.
-
-Obras clave: *The Behavior of Organisms* (1938), *Science and Human Behavior* (1953), *Verbal Behavior* (1957) y, en educación, *The Technology of Teaching* (1968). También escribió la utopía *Walden Two* (1948). Fue una de las figuras más influyentes y controvertidas de la psicología del siglo XX.
+**CORRIENTE:**  
+**Conductismo radical** / análisis experimental de la conducta. Máximo representante del conductismo de mitad del siglo XX. En el [mapa tecnocrático](../mapa-paradigma-tecnocratico-positivista.md) cierra el arco **Thorndike → Skinner** (medición y tecnología de la enseñanza).
 
 ---
 
-## PRINCIPALES APORTACIONES AL ÁMBITO EDUCATIVO:
+## BREVE RESEÑA BIOGRÁFICA
 
-- **Condicionamiento operante**: la conducta se fortalece o debilita según sus consecuencias. El refuerzo aumenta la probabilidad de que una conducta se repita; el castigo la disminuye.
-- **Tipos de refuerzo**:
-  - Positivo: añadir un estímulo apetitivo tras la conducta.
-  - Negativo: retirar un estímulo aversivo tras la conducta.
-- **Programas de refuerzo**: continuo, de razón fija/variable, de intervalo fijo/variable; influyen en la resistencia a la extinción y en el patrón de respuesta.
-- **Moldeamiento (*shaping*)**: refuerzo de aproximaciones sucesivas a la conducta deseada.
-- **Enseñanza programada**: material dividido en pequeños pasos, con respuesta activa del alumno y feedback inmediato. Las “máquinas de enseñar” de Skinner anticiparon formas de instrucción adaptativa.
-- **Control de estímulos**: la conducta se pone bajo control de señales ambientales (el enunciado del problema, la presencia del docente, etc.).
-- **Rechazo de las explicaciones mentalistas**: Skinner prefería analizar la conducta en términos de antecedentes y consecuencias observables, no de “mente”, “motivación interna” o “comprensión” como constructos autónomos.
-
-En matemáticas, sus ideas sustentan la práctica espaciada con feedback inmediato, los sistemas de fichas, la descomposición de habilidades complejas en componentes y, en parte, el diseño de software de práctica adaptativa.
+B. F. Skinner (Susquehanna, Pensilvania, 1904 – Cambridge, Massachusetts, 1990). Psicólogo; Harvard. Cámara de condicionamiento operante («caja de Skinner»). Obras: *The Behavior of Organisms* (1938); *Science and Human Behavior* (1953); *Verbal Behavior* (1957); en educación, ***The Technology of Teaching*** (1968). Utopía *Walden Two* (1948).
 
 ---
 
-## MÉTODOS / TÉCNICAS:
+## PRINCIPALES APORTACIONES
 
-| Técnica / principio | Descripción breve |
-|---------------------|-------------------|
-| **Refuerzo inmediato y contingente** | Feedback o consecuencia positiva justo después de la respuesta correcta. |
-| **Moldeamiento** | Reforzar pasos intermedios hacia la habilidad completa (por ejemplo, hacia la resolución de ecuaciones). |
-| **Enseñanza programada / pasos pequeños** | Secuencia de ítems con dificultad creciente y comprobación continua. |
-| **Práctica masiva y espaciada con feedback** | Ensayos repetidos con información inmediata sobre acierto/error. |
-| **Análisis de tareas** | Descomponer una competencia matemática en subhabilidades entrenables. |
-| **Control de estímulos** | Señales claras de cuándo y cómo aplicar un procedimiento. |
+### A. Condicionamiento operante
 
----
+La conducta se fortalece o debilita según sus **consecuencias**. El **refuerzo** aumenta la probabilidad de repetición; el castigo la disminuye.
 
-## PLANTEAMIENTO DE UNA ACTIVIDAD BASADA EN EL AUTOR:
+### B. Tipos de refuerzo
 
-### Título: **“Moldeamiento y feedback inmediato: dominar el algoritmo de la división”**
+- **Positivo:** añadir estímulo apetitivo tras la conducta.  
+- **Negativo:** retirar estímulo aversivo tras la conducta.  
+(No confundir refuerzo negativo con castigo.)
 
-**Nivel sugerido:** 5.º-6.º Primaria o 1.º ESO (refuerzo).  
-**Duración:** secuencia de 4-6 sesiones cortas de práctica.
+### C. Programas de refuerzo
 
-**Objetivos:**
-- Construir el procedimiento de la división mediante aproximaciones sucesivas reforzadas.
-- Proporcionar feedback inmediato y contingente.
-- Reducir errores sistemáticos por práctica guiada y reforzada.
+Continuo; razón fija/variable; intervalo fijo/variable. Influyen en la resistencia a la extinción y en el patrón de respuesta.
 
-**Desarrollo:**
+### D. Moldeamiento (*shaping*)
 
-1. **Análisis de la tarea**  
-   Descomponer la división en pasos: estimar, multiplicar, restar, bajar la cifra siguiente, etc.
+Refuerzo de **aproximaciones sucesivas** a la conducta deseada.
 
-2. **Moldeamiento (sesiones 1-3)**  
-   - Fase 1: solo estimar el cociente parcial (refuerzo por acierto).
-   - Fase 2: estimar + multiplicar.
-   - Fase 3: añadir la resta.
-   - Fase 4: procedimiento completo.
-   En cada fase, feedback inmediato (correcto / incorrecto + corrección breve).
+### E. Enseñanza programada
 
-3. **Práctica con programa de refuerzo (sesiones 4-5)**  
-   Pasar de refuerzo continuo a refuerzo intermitente (por ejemplo, cada 3-4 aciertos) para aumentar la resistencia a la extinción.
+Material en pasos pequeños, respuesta activa y **feedback inmediato**. Las «máquinas de enseñar» anticipan formas de instrucción adaptativa y software de práctica.
 
-4. **Evaluación y mantenimiento (sesión 6)**  
-   Resolución independiente. Revisar errores residuales y programar práctica de mantenimiento espaciada.
+### F. Control de estímulos
 
-**Conexión con Skinner:**  
-La actividad aplica moldeamiento, refuerzo contingente e inmediato, descomposición en pasos y paso gradual hacia la autonomía, los pilares de la enseñanza programada y del condicionamiento operante.
+La conducta queda bajo control de señales ambientales (enunciado, contexto del aula…).
+
+### G. Anti-mentalismo metodológico
+
+Preferencia por antecedentes y consecuencias **observables**, no por «mente» o «comprensión» como constructos autónomos. Límite fuerte frente a [Piaget](piaget.md), [Ausubel](ausubel.md), [Vygotsky](vygotsky.md).
+
+### H. Relación con otras figuras
+
+- [Thorndike](thorndike.md): ley del efecto → operante sistematizado.  
+- Cadena del [mapa](../mapa-paradigma-tecnocratico-positivista.md): medición y tecnología instruccional.  
+- Contraste: cognitivismo y constructivismo (comprensión, significado, mediación social).
 
 ---
 
-## CRÍTICAS Y LIMITACIONES:
+## RELEVANCIA PARA LA DIDÁCTICA DE LAS MATEMÁTICAS
 
-- **Reduccionismo**: al centrarse en la conducta observable, el conductismo skinneriano deja fuera la comprensión, la representación mental y el significado, aspectos centrales en matemáticas.
-- **Aprendizaje mecánico**: la enseñanza programada puede producir ejecución correcta sin comprensión conceptual (el alumno “hace” pero no “entiende”).
-- **Control y ética**: la idea de moldear la conducta mediante refuerzos genera reservas éticas sobre la autonomía y la manipulación.
-- **Transferencia limitada**: las conductas entrenadas en un contexto no siempre se transfieren a problemas nuevos o a situaciones de resolución creativa.
-- **Motivación intrínseca**: el uso intensivo de refuerzos externos puede socavar el interés intrínseco (efecto de sobrejustificación), según investigaciones posteriores.
-- **Contraste con el cognitivismo y el constructivismo**: Piaget, Ausubel, Bruner y Vygotsky desplazaron el centro de atención hacia las estructuras cognitivas, el significado y la interacción social; Skinner queda como referencia histórica y como base de técnicas concretas (feedback, práctica), no como marco global de la didáctica de las matemáticas.
+| Dimensión | Enfoque Skinner | Aplicación actual |
+|-----------|-----------------|-------------------|
+| **Feedback inmediato** | Contingente a la respuesta | Práctica con corrección rápida |
+| **Moldeamiento** | Aproximaciones sucesivas | Procedimientos complejos por pasos |
+| **Pasos pequeños** | Enseñanza programada | Secuencias de ítems; software adaptativo |
+| **Análisis de tareas** | Subhabilidades entrenables | Descomponer algoritmos |
+| **Riesgo** | Ejecución sin comprensión | Equilibrar con significado y transferencia |
+
+**Eco en el máster:** justifica técnicas de **práctica + feedback** y el análisis de tareas; no basta como marco global de la didáctica de las mates.
 
 ---
 
-## REFERENCIAS (APA 7):
+## MÉTODOS / PRINCIPIOS
+
+| Principio | Descripción breve |
+|----------|-------------------|
+| Refuerzo inmediato y contingente | Consecuencia justa tras la respuesta |
+| Moldeamiento | Reforzar pasos intermedios |
+| Enseñanza programada | Pasos pequeños + comprobación continua |
+| Práctica con feedback | Ensayos repetidos informados |
+| Análisis de tareas | Descomponer la competencia |
+| Control de estímulos | Señales claras de cuándo aplicar un procedimiento |
+
+---
+
+## ACTIVIDAD TIPO
+
+### «Moldeamiento: algoritmo de la división»
+
+**Nivel:** 1.º ESO (refuerzo). **Duración:** 4–6 sesiones cortas.
+
+1. Descomponer pasos (estimar, multiplicar, restar…).  
+2. Moldear fase a fase con feedback inmediato.  
+3. Pasar de refuerzo continuo a intermitente.  
+4. Práctica autónoma + mantenimiento espaciado.
+
+---
+
+## MATERIALES DEL REPO RELACIONADOS
+
+| Material | Relación |
+|----------|----------|
+| [Thorndike](thorndike.md) | Ley del efecto; antecedente |
+| [Mapa tecnocrático](../mapa-paradigma-tecnocratico-positivista.md) | Cadena Bobbitt → Thorndike → Skinner |
+| [Piaget](piaget.md) / [Vygotsky](vygotsky.md) | Contraste comprensión y mediación |
+| Psicología · Tema 3 (conducta / modificación) | ABC, operante, ética |
+| [Podcast Pávlov, Skinner y Erikson](../../../08-podcasts/) | Episodio del repo |
+| [Historia (continuación)](../historia-del-pensamiento-educativo-continuacion.md) | Entrada 1904 |
+
+---
+
+## CRÍTICAS Y LIMITACIONES
+
+- Reduccionismo: deja fuera comprensión y representación.  
+- Riesgo de aprendizaje mecánico.  
+- Reservas éticas sobre control y autonomía.  
+- Transferencia limitada a problemas nuevos.  
+- Refuerzos externos pueden socavar motivación intrínseca (sobrejustificación).  
+- Útil como **caja de herramientas** (feedback, shaping), no como teoría completa del aprendizaje matemático.
+
+---
+
+## REFERENCIAS (APA 7 orientativas)
 
 Skinner, B. F. (1953). *Science and human behavior*. Macmillan.
 
 Skinner, B. F. (1968). *The technology of teaching*. Appleton-Century-Crofts.
 
-Skinner, B. F. (1938). *The behavior of organisms: An experimental analysis*. Appleton-Century.
-
-Morris, E. K., & Smith, N. G. (2003). B. F. Skinner. En S. J. Hupp & J. D. Jewell (Eds.), *The encyclopedia of child and adolescent development*.
-
 ---
 
 ## Por qué conocerlo (orientación del Máster)
 
-B. F. Skinner forma parte del mapa intelectual del Máster por su relación con el **conductismo y la modificación de conducta**. Esta ficha sirve como punto de entrada: conviene comprender las ideas fundamentales y localizar una obra primaria o una revisión académica adecuada.
+Skinner aporta al mapa del Máster el **condicionamiento operante**, el **moldeamiento** y la **enseñanza programada**. Es eslabón del polo empírico-analítico y referencia obligada al hablar de refuerzo, feedback y práctica —siempre en diálogo crítico con cognitivismo y constructivismo.
 
 ### Preguntas guía
-- ¿Qué problema educativo o didáctico permite abordar?
-- ¿Qué concepto suyo debería poder explicar un futuro profesor de Matemáticas?
-- ¿Cómo podría aparecer esa idea en el aula de Matemáticas?
-- ¿Qué limitaciones o críticas tiene su enfoque?
-- ¿Qué conexiones tiene con otros autores del mapa?
+- ¿Qué problema aborda? Cómo las consecuencias moldean la conducta y cómo diseñar instrucción paso a paso.
+- ¿Qué concepto debe poder explicar un futuro profesor? Operante; refuerzo positivo/negativo; shaping; enseñanza programada.
+- ¿Cómo aparece en el aula? Feedback inmediato; práctica por pasos; sistemas de puntos (con cautela).
+- ¿Qué limitaciones tiene? Comprensión, transferencia, motivación intrínseca, ética del control.
+- ¿Conexiones? [Thorndike](thorndike.md); [mapa tecnocrático](../mapa-paradigma-tecnocratico-positivista.md); contraste [Piaget](piaget.md)/[Vygotsky](vygotsky.md).
 
-### Localización bibliográfica
-- [Google Scholar](https://scholar.google.com/scholar?q=Skinner+programmed+instruction)
-- [Semantic Scholar](https://www.semanticscholar.org/search?q=B.F.+Skinner+education)
-- [Dialnet](https://dialnet.unirioja.es/buscar/documentos?querysDismax.DOCUMENTAL_TODO=Skinner)
+### Enlaces de investigación
+- [Google Scholar](https://scholar.google.com/scholar?q=Skinner+programmed+instruction+education)
+- [Historia del pensamiento educativo (continuación)](../historia-del-pensamiento-educativo-continuacion.md)
 
 ### Relación con el Máster
-Los ámbitos indicados orientan la lectura; **no implican** que el autor figure de forma explícita en todas las guías docentes.
+Los ámbitos indicados orientan la lectura; **no implican** presencia obligatoria en todas las guías docentes.
