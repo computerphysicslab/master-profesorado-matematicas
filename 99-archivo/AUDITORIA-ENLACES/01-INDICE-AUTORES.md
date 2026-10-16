@@ -12,7 +12,7 @@ Actualizado: 2026-10-16
 | Santo Tomás de Aquino | SÍ | `01-filosofia-educacion/santo-tomas-de-aquino.md` | 1+ | 2 | **COMPLETADO** |
 | Erasmo | SÍ | `01-filosofia-educacion/erasmo.md` | 1+ | 3 | **COMPLETADO** |
 | Juan Luis Vives | SÍ | `01-filosofia-educacion/vives.md` | 1+ | 3 | **COMPLETADO** |
-| San José de Calasanz | SÍ | `01-filosofia-educacion/jose-de-calasanz.md` | 1+ | 2+ | **COMPLETADO** |
+| San José de Calasanz | SÜ | `01-filosofia-educacion/jose-de-calasanz.md` | 1+ | 2+ | **COMPLETADO** |
 | Galileo | SÍ | `08-matematicas-ciencia-computacion/galileo.md` | 3+ | 4+ | **COMPLETADO** |
 | Comenio | SÍ | `01-filosofia-educacion/comenio.md` | 2+ | 3+ | **COMPLETADO** |
 | Locke | SÍ | `01-filosofia-educacion/locke.md` | 1+ | 2+ | **COMPLETADO** |
@@ -28,9 +28,9 @@ Actualizado: 2026-10-16
 | Weber | SÍ | `03-sociologia/weber.md` | 8+ | 6+ | **COMPLETADO** |
 | Durkheim | SÍ | `03-sociologia/durkheim.md` | 10+ | 8+ | **COMPLETADO** |
 | Decroly | SÍ | `01-filosofia-educacion/decroly.md` | 4+ | 4+ | **COMPLETADO** |
-| Claparède | SÍ | `01-filosofia-educacion/claparede.md` | 1+ | 2+ | **COMPLETADO** (nueva + foto) |
+| Claparède | SÍ | `01-filosofia-educacion/claparede.md` | 1+ | 2+ | **COMPLETADO** |
 | Thorndike | SÍ | `02-psicologia-aprendizaje/thorndike.md` | 5+ | 5+ | **COMPLETADO** |
-| Bobbitt | ? | — | — | — | pendiente |
+| Bobbitt | SÍ | `06-curriculo-evaluacion-investigacion/bobbitt.md` | 3+ | 4+ | **COMPLETADO** |
 | Wallon | ? | — | — | — | pendiente |
 | Freinet | SÍ | `01-filosofia-educacion/freinet.md` | — | — | pendiente |
 | Lewin | SÍ | `04-psicologia-social/lewin.md` | — | — | pendiente |
