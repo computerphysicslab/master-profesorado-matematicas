@@ -61,6 +61,7 @@ Ya en el repo (columna vertebral pedagógica del mismo polo): [Durkheim](./03-so
 | [Freire](./01-filosofia-educacion/freire.md) | Pedagogía crítica | diálogo; conciencia | Procesos; Sociedad |
 | [Victoria Camps](./01-filosofia-educacion/victoria-camps.md) | Ética cívica | duda razonada; emociones | Educación emocional; Procesos |
 | [Auguste Comte](./01-filosofia-educacion/comte.md) | Positivismo | saber empírico | Procesos |
+| [Henri Wallon](./02-psicologia-aprendizaje/wallon.md) | Desarrollo | unidad afectivo-cognitiva; estadios; crisis | Psicología; Educación emocional |
 | [Piaget](./02-psicologia-aprendizaje/piaget.md) | Desarrollo | constructivismo; esquemas | Psicología |
 | [Vygotsky](./02-psicologia-aprendizaje/vygotsky.md) | Sociocultural | ZDP; mediación | Psicología; Sociedad |
 | [Bruner](./02-psicologia-aprendizaje/bruner.md) | Cognitiva | andamiaje; descubrimiento | Psicología; Diseño de actividades |
