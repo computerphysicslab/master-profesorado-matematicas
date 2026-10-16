@@ -22,7 +22,7 @@ Actualizado: 2026-10-16
 | Kant | SÍ | `01-filosofia-educacion/kant.md` | 1+ | 2+ | **COMPLETADO** |
 | Pestalozzi | SÍ | `01-filosofia-educacion/pestalozzi.md` | 2+ | 3+ | **COMPLETADO** |
 | Fröbel | SÍ | `01-filosofia-educacion/froebel.md` | 2+ | 3+ | **COMPLETADO** |
-| Comte | SÍ | `01-filosofia-educacion/comte.md` | — | — | pendiente |
+| Comte | SÍ | `01-filosofia-educacion/comte.md` | 5+ | 5+ | **COMPLETADO** |
 | Dewey | SÍ | `01-filosofia-educacion/dewey.md` | — | — | pendiente |
 | Weber | SÍ | `03-sociologia/weber.md` | — | — | pendiente |
 | Montessori | SÍ | `01-filosofia-educacion/montessori.md` | — | — | pendiente |
