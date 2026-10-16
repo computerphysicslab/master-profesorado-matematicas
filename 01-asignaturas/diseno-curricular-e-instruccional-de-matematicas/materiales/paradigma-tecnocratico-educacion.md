@@ -2,7 +2,8 @@
 
 **Asignatura:** Diseño curricular e instruccional de Matemáticas  
 **Serie:** paradigmas de pensamiento e investigación educativa  
-**Relacionados:** [interpretativo](paradigma-interpretativo-educacion.md) · [sociocrítico](paradigma-sociocritico-educacion.md)
+**Relacionados:** [interpretativo](paradigma-interpretativo-educacion.md) · [sociocrítico](paradigma-sociocritico-educacion.md)  
+**Mapa de autores del polo:** [mapa-paradigma-tecnocratico-positivista.md](../../../09-bibliografia/autores-pensadores/mapa-paradigma-tecnocratico-positivista.md)
 
 También se denomina **positivista**, **empírico-analítico**, **cuantitativo** o **racionalista** en la literatura metodológica. En educación, la etiqueta **tecnocrático** subraya la confianza en la planificación por objetivos, la medición y el control de resultados.
 
@@ -27,27 +28,35 @@ No debe confundirse «usar números» con adscribirse al paradigma: lo decisivo 
 
 ### Auguste Comte y el positivismo clásico
 
-**Aportación:** la ciencia social debe seguir el modelo de las ciencias naturales; conocimiento positivo frente a especulación metafísica.
+**Aportación:** la ciencia social debe seguir el modelo de las ciencias naturales; conocimiento positivo frente a especulación metafísica. Ley de los tres estados; orden y progreso.
+
+**Ficha del repo:** [Auguste Comte](../../../09-bibliografia/autores-pensadores/01-filosofia-educacion/comte.md)
 
 ### Ralph W. Tyler
 
 **Aportación:** currículo organizado en torno a objetivos claros, experiencias de aprendizaje y evaluación del logro. Modelo de racionalidad técnica en el diseño curricular.
 
-**Obra:** *Basic Principles of Curriculum and Instruction* (1949).
+**Obra:** *Basic Principles of Curriculum and Instruction* (1949).  
+**Ficha:** [Tyler](../../../09-bibliografia/autores-pensadores/06-curriculo-evaluacion-investigacion/tyler.md)
 
 ### Benjamin Bloom
 
 **Aportación:** taxonomía de objetivos educativos; operacionalización de lo que el alumnado debe lograr y evaluación por niveles de dominio.
 
-**Obra:** taxonomía de objetivos (1956 y revisiones posteriores).
+**Obra:** taxonomía de objetivos (1956 y revisiones posteriores).  
+**Ficha:** [Bloom](../../../09-bibliografia/autores-pensadores/06-curriculo-evaluacion-investigacion/bloom.md)
 
 ### Robert Gagné
 
 **Aportación:** condiciones del aprendizaje; secuencias instruccionales basadas en tipos de aprendizaje y eventos de instrucción.
 
+**Ficha:** [Gagné](../../../09-bibliografia/autores-pensadores/02-psicologia-aprendizaje/gagne.md)
+
 ### B. F. Skinner (influencia en educación)
 
 **Aportación:** enseñanza programada, refuerzo y control de la conducta; base conductista de muchas prácticas de instrucción guiada y evaluación objetiva.
+
+**Ficha:** [Skinner](../../../09-bibliografia/autores-pensadores/02-psicologia-aprendizaje/skinner.md)
 
 ### Tradición de la investigación experimental en educación
 
