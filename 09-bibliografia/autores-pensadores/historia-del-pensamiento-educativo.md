@@ -124,7 +124,7 @@ Mapa **cronológico por año de nacimiento** de pensadores con influencia releva
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Immanuel_Kant_-_Gemaelde_1.jpg/120px-Immanuel_Kant_-_Gemaelde_1.jpg" width="100" alt="Kant" align="left" style="margin:4px 12px 8px 0"/>
 
-**1724 — Immanuel Kant.*** De la naturaleza a la autonomía racional y moral; disciplina, cultura y moralidad.
+**1724 — [Immanuel Kant](./01-filosofia-educacion/kant.md).** De la naturaleza a la autonomía racional y moral; disciplina, cultura y moralidad (*Über Pädagogik*).
 
 <br clear="all"/>
 
