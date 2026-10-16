@@ -17,7 +17,7 @@ Actualizado: 2026-10-16
 | Comenio | SÍ | `01-filosofia-educacion/comenio.md` | 2+ | 3+ | **COMPLETADO** |
 | Locke | SÍ | `01-filosofia-educacion/locke.md` | 1+ | 2+ | **COMPLETADO** |
 | Newton | SÍ | `08-matematicas-ciencia-computacion/newton.md` | 2+ | 3+ | **COMPLETADO** |
-| San Juan Bautista de La Salle | SÍ | `01-filosofia-educacion/juan-bautista-de-la-salle.md` | — | — | pendiente |
+| San Juan Bautista de La Salle | SÍ | `01-filosofia-educacion/juan-bautista-de-la-salle.md` | 1+ | 2+ | **COMPLETADO** |
 | Rousseau | SÍ | `01-filosofia-educacion/rousseau.md` | — | — | pendiente |
 | Kant | ? | — | — | — | pendiente |
 | Pestalozzi | SÍ | `01-filosofia-educacion/pestalozzi.md` | — | — | pendiente |
