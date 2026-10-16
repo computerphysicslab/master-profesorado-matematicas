@@ -1,6 +1,6 @@
 # Índice de auditoría de enlaces — autores / pensadores
 
-Actualizado: 2026-10-16
+Actualizado: 2026-10-17
 
 | Autor | Ficha existe? | Ruta ficha | Nº menciones (aprox.) | Nº enlaces a ficha | Estado |
 |-------|---------------|------------|----------------------|--------------------|--------|
@@ -31,20 +31,20 @@ Actualizado: 2026-10-16
 | Claparède | SÍ | `01-filosofia-educacion/claparede.md` | 1+ | 2+ | **COMPLETADO** |
 | Thorndike | SÍ | `02-psicologia-aprendizaje/thorndike.md` | 5+ | 5+ | **COMPLETADO** |
 | Bobbitt | SÍ | `06-curriculo-evaluacion-investigacion/bobbitt.md` | 3+ | 4+ | **COMPLETADO** |
-| Wallon | ? | — | — | — | pendiente |
+| Wallon | SÍ | `02-psicologia-aprendizaje/wallon.md` | 2+ | 2+ | **COMPLETADO** |
 | Freinet | SÍ | `01-filosofia-educacion/freinet.md` | 10+ | 8+ | **COMPLETADO** |
 | Lewin | SÍ | `04-psicologia-social/lewin.md` | 2+ | 2+ | **COMPLETADO** |
 | Piaget | SÍ | `02-psicologia-aprendizaje/piaget.md` | 15+ | 10+ | **COMPLETADO** |
 | Vygotsky | SÍ | `02-psicologia-aprendizaje/vygotsky.md` | 20+ | 15+ | **COMPLETADO** |
 | Freire | SÍ | `01-filosofia-educacion/freire.md` | 10+ | 8+ | **COMPLETADO** |
 | Skinner | SÍ | `02-psicologia-aprendizaje/skinner.md` | 10+ | 8+ | **COMPLETADO** |
-| Liljedahl | SÍ | `05-educacion-matematica/liljedahl.md` | 0 (nueva) | 1+ | **COMPLETADO** |
+| Liljedahl | SÍ | `05-educacion-matematica/liljedahl.md` | 1+ | 2+ | **COMPLETADO** |
 | Bourdieu | SÍ | `03-sociologia/bourdieu.md` | — | — | pendiente |
 | Foucault | SÍ | `03-sociologia/foucault.md` | — | — | pendiente |
 | Bruner | SÍ | `02-psicologia-aprendizaje/bruner.md` | — | — | pendiente |
-| Pólya | ? | — | — | — | pendiente |
+| Pólya | SÍ | `05-educacion-matematica/polya.md` | — | — | pendiente |
 | Skemp | ? | — | — | — | pendiente |
 | Brousseau | SÍ | `05-educacion-matematica/brousseau.md` | — | — | pendiente |
-| Schoenfeld | ? | — | — | — | pendiente |
+| Schoenfeld | SÍ | `05-educacion-matematica/schoenfeld.md` | — | — | pendiente |
 
 Rutas relativas a `09-bibliografia/autores-pensadores/`.
