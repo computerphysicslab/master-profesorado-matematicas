@@ -1,7 +1,7 @@
 # Ovide Decroly
 
 **Área:** Pedagogía activa / Escuela Nueva  
-**Conceptos clave:** centros de interés; globalización; función de globalización; escuela para la vida; observación  
+**Conceptos clave:** centros de interés; globalización; función de globalización; escuela para la vida; observación → asociación → expresión  
 **Ámbitos del Máster relacionados:** Procesos y contextos educativos; Diseño de actividades de aprendizaje de Matemáticas; Psicología del desarrollo y de la educación
 
 ---
@@ -9,113 +9,138 @@
 ## AUTOR: Ovide Decroly
 
 **CORRIENTE PEDAGÓGICA:**  
-**Escuela Nueva** belga. Médico, psicólogo y pedagogo. Su propuesta de **centros de interés** y de enseñanza globalizada influyó en la organización curricular activa en Europa y América Latina.
+**Escuela Nueva** belga. Médico, psicólogo y pedagogo. Su propuesta de **centros de interés** y de enseñanza globalizada influyó en la organización curricular activa en Europa y América Latina. Puente entre [Pestalozzi](pestalozzi.md)/[Fröbel](froebel.md) y las prácticas de proyectos e interdisciplinariedad ([Dewey](dewey.md), [Freinet](freinet.md)).
 
 ---
 
-## BREVE RESEÑA BIOGRÁFICA:
+## BREVE RESEÑA BIOGRÁFICA
 
-Ovide Decroly (Renaix, Bélgica, 1871 – Bruselas, 1932) se formó en medicina y se especializó en enfermedades nerviosas e infancia con dificultades. En 1901 fundó el Instituto de Enseñanza Especial para niños “irregulares”; en 1907 creó la escuela **L’Ermitage** en Bruselas, laboratorio de su método para la enseñanza ordinaria.
+Ovide Decroly (Renaix, Bélgica, 1871 – Bruselas, 1932). Formado en medicina; se especializó en infancia con dificultades. En 1901 fundó un instituto de enseñanza especial; en **1907** creó la escuela **L'Ermitage** (Bruselas), laboratorio de su método para la enseñanza ordinaria, bajo el lema *école pour la vie et par la vie*.
 
-Partía de la observación clínica y psicológica: el niño percibe primero totalidades significativas, no elementos aislados. De ahí su crítica a la escuela tradicional fragmentada en asignaturas desconectadas y su apuesta por organizar el aprendizaje en torno a **necesidades e intereses vitales**.
-
-Obras y difundidores posteriores sistematizaron sus ideas en programas por centros de interés (alimentación, protección, trabajo, juego/sociedad, etc.).
+Partía de la observación clínica: el niño percibe primero **totalidades significativas**, no elementos aislados. Criticó la escuela tradicional fragmentada en asignaturas desconectadas y propuso organizar el aprendizaje en torno a **necesidades e intereses vitales**.
 
 ---
 
-## PRINCIPALES APORTACIONES AL ÁMBITO EDUCATIVO:
+## PRINCIPALES APORTACIONES AL ÁMBITO EDUCATIVO
 
-- **Función de globalización**: el pensamiento infantil opera de lo global a lo analítico; la enseñanza debe respetar ese orden.
-- **Centros de interés**: unidades de trabajo organizadas en torno a un tema vital (p. ej. el alimento, la vivienda, el transporte) que integran lectura, cálculo, ciencias, expresión…
-- **Escuela para la vida y por la vida**: los contenidos se justifican por su utilidad para comprender y actuar en el medio.
-- **Observación → asociación → expresión**: secuencia metodológica (ver, pensar, expresar/hacer).
-- **Individualización y ambiente preparado**: atención a ritmos y a un medio rico en estímulos reales.
-- **Educación integral**: no separar lo intelectual de lo social, moral y práctico.
+### A. Función de globalización
 
-En matemáticas, Decroly favorece el **cálculo ligado a situaciones reales** del centro de interés (medidas de la clase, precios, cantidades de un taller) frente al ejercicio descontextualizado.
+El pensamiento infantil opera de lo global a lo analítico; la enseñanza debe respetar ese orden (no empezar por fragmentos descontextualizados).
 
----
+### B. Centros de interés
 
-## MÉTODOS / TÉCNICAS:
+Unidades de trabajo organizadas en torno a un **tema vital** (alimentación, protección, trabajo, juego/sociedad…) que integran lectura, cálculo, ciencias, expresión. El interés nace de la necesidad: **necesidad → interés → globalización**.
 
-| Técnica / principio | Descripción breve |
-|---------------------|-------------------|
-| **Centro de interés** | Tema vital que organiza varias semanas de trabajo interdisciplinar. |
-| **Observación** | Contacto directo con objetos, hechos y el entorno. |
-| **Asociación** | Relacionar lo observado con conocimientos previos y otras áreas. |
-| **Expresión** | Hablar, escribir, dibujar, construir, calcular a partir de lo vivido. |
-| **Globalización de la enseñanza** | Evitar la fragmentación artificial de asignaturas en la etapa inicial. |
-| **Material de la vida cotidiana** | Objetos reales, visitas, medidas del entorno escolar. |
+### C. Escuela para la vida y por la vida
 
----
+Los contenidos se justifican por su utilidad para comprender y actuar en el medio.
 
-## PLANTEAMIENTO DE UNA ACTIVIDAD BASADA EN EL AUTOR:
+### D. Observación → asociación → expresión
 
-### Título: **“Centro de interés: ¿cuánto cuesta vivir un día en nuestro instituto?”**
+Secuencia metodológica: ver/contactar → relacionar → hablar, escribir, dibujar, construir, calcular.
 
-**Nivel sugerido:** 1.º–3.º ESO.  
-**Duración:** 5–6 sesiones (puede cruzar Matemáticas con tutoría o economía básica).
+### E. Matemáticas
 
-**Objetivos:**
-- Aplicar proporcionalidad, media, tablas y gráficos a datos reales del entorno.
-- Experimentar un aprendizaje globalizado con un eje vital (consumo, recursos, sostenibilidad).
-- Practicar observación, registro y expresión matemática.
+Cálculo ligado a **situaciones reales** del centro de interés (medidas, precios, cantidades del entorno) frente al ejercicio descontextualizado.
 
-**Desarrollo:**
+### F. Relación con otras figuras
 
-1. **Observación (sesiones 1–2)**  
-   Inventario: transporte, desayuno, material, luz del aula, agua, pantallas… Los alumnos registran consumos y precios aproximados (encuestas, tickets, datos del centro si se autorizan).
-
-2. **Asociación y cálculo (sesiones 3–4)**  
-   - Coste medio por alumno/día.  
-   - Extrapolación a un mes y a un curso.  
-   - Comparación de escenarios (reducir plástico, compartir material, transporte colectivo).  
-   - Gráficos de barras y porcentajes.
-
-3. **Expresión (sesiones 5–6)**  
-   Informe colectivo o podcast breve + cartel con conclusiones matemáticas y propuestas al consejo escolar.
-
-**Conexión con Decroly:**  
-El tema es un centro de interés vital; las matemáticas no son el fin aislado, sino herramienta de comprensión y expresión del problema.
+- [Dewey](dewey.md): experiencia y problema; Decroly sistematiza el eje temático vital.  
+- [Montessori](montessori.md): observación y ambiente; Decroly prioriza la globalización curricular.  
+- [Freinet](freinet.md): Escuela Nueva; técnicas cooperativas y vida del entorno.  
+- [Pestalozzi](pestalozzi.md) / [Fröbel](froebel.md): concreto e interés del niño.
 
 ---
 
-## CRÍTICAS Y LIMITACIONES:
+## RELEVANCIA PARA LA DIDÁCTICA DE LAS MATEMÁTICAS
 
-- **Riesgo de superficialidad disciplinar**: la globalización puede diluir la progresión rigurosa de contenidos matemáticos si no hay diseño cuidadoso.
-- **Centros de interés “artificiales”**: cuando el tema lo impone el docente sin anclaje real en el alumnado, se convierte en proyecto cosmético.
-- **Transferencia a secundaria y Bachillerato**: más natural en Infantil/Primaria; en ESO exige adaptación (proyectos interdisciplinares acotados).
-- **Evaluación**: difícil de encajar en pruebas estandarizadas por asignatura si el trabajo es global.
-- **Actualización psicológica**: la idea de globalización percptiva ha sido matizada por la investigación cognitiva posterior; sigue siendo útil como principio didáctico, no como teoría psicológica cerrada.
+| Dimensión | Enfoque Decroly | Aplicación actual |
+|-----------|-----------------|-------------------|
+| **Centro de interés** | Tema vital interdisciplinar | Situaciones de aprendizaje; proyectos |
+| **Cálculo contextualizado** | Medidas, precios, datos del entorno | Modelización; estadística del aula |
+| **Observación → expresión** | De lo vivido a lo simbólico | Secuencia concreta → abstracto |
+| **Globalización** | Evitar fragmentación artificial | Interdisciplinariedad acotada en ESO |
+
+**Eco en el máster:** justifica históricamente los **centros de interés** y muchas prácticas de globalización/PBL. En ESO sirve como antecedente de situaciones de aprendizaje y proyectos, no como programa completo por asignaturas fusionadas.
 
 ---
 
-## REFERENCIAS (APA 7):
+## MÉTODOS / PRINCIPIOS
 
-Decroly, O., & Monchamp, E. (1928). *L’initiation à l’activité intellectuelle et motrice par les jeux éducatifs*. Delachaux & Niestlé.
+| Principio | Descripción breve |
+|----------|-------------------|
+| **Centro de interés** | Tema vital que organiza semanas de trabajo |
+| **Observación** | Contacto directo con objetos y entorno |
+| **Asociación** | Relacionar lo observado con saberes previos |
+| **Expresión** | Hablar, escribir, construir, calcular |
+| **Globalización** | De la totalidad significativa a lo analítico |
+
+---
+
+## ACTIVIDAD TIPO (orientativa)
+
+### «Centro de interés: ¿cuánto cuesta vivir un día en nuestro instituto?»
+
+**Nivel:** 1.º–3.º ESO. **Duración:** 5–6 sesiones.
+
+1. **Observación** — Inventario de consumos y precios (transporte, material, energía…).  
+2. **Asociación y cálculo** — Medias, extrapolaciones, gráficos, escenarios.  
+3. **Expresión** — Informe o cartel con conclusiones y propuestas.
+
+---
+
+## MATERIALES DEL REPO RELACIONADOS
+
+| Material | Relación con Decroly |
+|----------|----------------------|
+| [Dewey](dewey.md) | Experiencia, problema, Escuela Nueva |
+| [Freinet](freinet.md) | Educación Nueva; entorno y cooperación |
+| [Montessori](montessori.md) | Observación; ambiente |
+| [04-pbl-abp/](../../../04-pbl-abp/) | Proyectos y problemas (eco de centros de interés) |
+| [Corrientes pedagógicas · síntesis](../../../01-asignaturas/procesos-y-contextos-educativos/materiales/corrientes-pedagogicas-historia-sintesis.md) | Escuela Nueva; paidocentrismo |
+| [Historia (continuación)](../historia-del-pensamiento-educativo-continuacion.md) | Entrada 1871 |
+
+---
+
+## CRÍTICAS Y LIMITACIONES
+
+- Riesgo de superficialidad disciplinar si la globalización diluye la progresión matemática.  
+- Centros de interés «artificiales» cuando el tema no ancla en el alumnado.  
+- Transferencia a ESO/Bachillerato exige adaptación (proyectos acotados).  
+- Tensión con evaluación por asignatura estandarizada.  
+- La psicología de la globalización percptiva ha sido matizada; sigue útil como principio didáctico.
+
+---
+
+## OBRAS DE REFERENCIA
+
+1. Trabajos sobre juegos educativos e iniciación intelectual (con Monchamp).  
+2. Práctica de L'Ermitage y programas por centros de interés (difusión posterior).
+
+---
+
+## REFERENCIAS (APA 7 orientativas)
+
+Decroly, O., & Monchamp, E. (1928). *L'initiation à l'activité intellectuelle et motrice par les jeux éducatifs*. Delachaux & Niestlé.
 
 Dubreucq, F. (1994). *Decroly*. Presses Universitaires de France.
-
-Hammarberg, T. (s.f.). Revisiones históricas del método Decroly en la tradición de la Escuela Nueva.
-
-García, J. (ed.). Textos y estudios sobre centros de interés en la tradición activa europea.
 
 ---
 
 ## Por qué conocerlo (orientación del Máster)
 
-Ovide Decroly forma parte del mapa de la **Escuela Nueva** y explica el origen de los **centros de interés** y de muchas prácticas de globalización e interdisciplinariedad. Para Matemáticas, ayuda a pensar cuándo el cálculo y la estadística ganan sentido al servir a un problema vital del entorno escolar.
+Decroly aporta al mapa del Máster los **centros de interés** y la **globalización** de la enseñanza: origen de muchas prácticas de interdisciplinariedad y de cálculo ligado a la vida del centro. Enlaza [Dewey](dewey.md) y la Escuela Nueva con [Freinet](freinet.md) y con el diseño de situaciones de aprendizaje / PBL.
 
 ### Preguntas guía
-- ¿Qué problema educativo intentó abordar?
-- ¿Qué concepto suyo debería poder explicar un futuro profesor de Matemáticas?
-- ¿Cómo podría aparecer un centro de interés en una secuencia de Matemáticas de ESO?
-- ¿Qué límites tiene la globalización frente a la progresión disciplinar?
-- ¿Qué conexiones tiene con Freinet, Dewey o el aprendizaje basado en proyectos?
+- ¿Qué problema educativo aborda? La fragmentación artificial de asignaturas y el desinterés del alumnado.
+- ¿Qué concepto debe poder explicar un futuro profesor? Centro de interés; función de globalización; observación–asociación–expresión.
+- ¿Cómo aparece en el aula? Proyectos temáticos; estadística y medida del entorno; situaciones de aprendizaje.
+- ¿Qué limitaciones tiene? Equilibrio globalización vs. progresión disciplinar; más natural en Primaria.
+- ¿Conexiones? [Dewey](dewey.md); [Freinet](freinet.md); [Montessori](montessori.md); 04-pbl-abp.
 
-### Enlaces de localización
+### Enlaces de investigación
 - [Google Scholar](https://scholar.google.com/scholar?q=Decroly+centres+d%27int%C3%A9r%C3%AAt)
-- [Dialnet](https://dialnet.unirioja.es/buscar/documentos?querysDismax.DOCUMENTAL_TODO=Decroly)
+- [Historia del pensamiento educativo (continuación)](../historia-del-pensamiento-educativo-continuacion.md)
 
-### Advertencia
-Esta ficha no implica que el autor figure de forma explícita en todas las guías docentes. Distingue entre autores de núcleo del plan y autores de ampliación conceptual.
+### Relación con el Máster
+Los ámbitos indicados orientan la lectura; **no implican** presencia obligatoria en las guías docentes.
