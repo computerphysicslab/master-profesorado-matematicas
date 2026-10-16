@@ -50,6 +50,7 @@ Ya en el repo (columna vertebral pedagógica del mismo polo): [Durkheim](./03-so
 | [Dewey](./01-filosofia-educacion/dewey.md) | Pragmatismo | aprender haciendo; problemas | Procesos; Diseño de actividades |
 | [Montessori](./01-filosofia-educacion/montessori.md) | Pedagogía | autonomía; ambiente | Psicología |
 | [Decroly](./01-filosofia-educacion/decroly.md) | Escuela Nueva | centros de interés | Procesos |
+| [Édouard Claparède](./01-filosofia-educacion/claparede.md) | Pedagogía funcional | interés; necesidades; escuela activa | Psicología; Procesos |
 | [Giner de los Ríos](./01-filosofia-educacion/giner-de-los-rios.md) | ILE | libertad de cátedra | Procesos; Sociedad |
 | [Rosa Sensat](./01-filosofia-educacion/rosa-sensat.md) | Renovación | pedagogía de la vida | Procesos; Sociedad |
 | [Ferrer i Guardia](./01-filosofia-educacion/ferrer-guardia.md) | Escuela Moderna | educación racional; emancipación | Procesos; Sociedad |
