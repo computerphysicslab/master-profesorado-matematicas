@@ -38,7 +38,7 @@ Actualizado: 2026-10-16
 | Vygotsky | SÍ | `02-psicologia-aprendizaje/vygotsky.md` | 20+ | 15+ | **COMPLETADO** |
 | Freire | SÍ | `01-filosofia-educacion/freire.md` | 10+ | 8+ | **COMPLETADO** |
 | Skinner | SÍ | `02-psicologia-aprendizaje/skinner.md` | 10+ | 8+ | **COMPLETADO** |
-| Liljedahl | ? | — | — | — | pendiente |
+| Liljedahl | SÍ | `05-educacion-matematica/liljedahl.md` | 0 (nueva) | 1+ | **COMPLETADO** |
 | Bourdieu | SÍ | `03-sociologia/bourdieu.md` | — | — | pendiente |
 | Foucault | SÍ | `03-sociologia/foucault.md` | — | — | pendiente |
 | Bruner | SÍ | `02-psicologia-aprendizaje/bruner.md` | — | — | pendiente |
