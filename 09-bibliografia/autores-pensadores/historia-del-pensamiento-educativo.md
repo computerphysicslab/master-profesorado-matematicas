@@ -128,7 +128,7 @@ Mapa **cronológico por año de nacimiento** de pensadores con influencia releva
 
 <br clear="all"/>
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Johann_Heinrich_Pestalozzi_%28Reber%29.jpg/120px-Johann_Heinrich_Pestalozzi_%28Reber%29.jpg" width="100" alt="Pestalozzi" align="left" style="margin:4px 12px 8px 0"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Johann_Heinrich_Pestalozzi_Portr%C3%A4t.jpg/120px-Johann_Heinrich_Pestalozzi_Portr%C3%A4t.jpg" width="100" alt="Pestalozzi" align="left" style="margin:4px 12px 8px 0"/>
 
 **1746 — [Johann Heinrich Pestalozzi](./01-filosofia-educacion/pestalozzi.md).** Educación integral (cabeza, corazón y manos); intuición sensorial; escuela popular.
 
