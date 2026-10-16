@@ -27,7 +27,7 @@ Actualizado: 2026-10-16
 | Montessori | SÍ | `01-filosofia-educacion/montessori.md` | 5+ | 5+ | **COMPLETADO** |
 | Weber | SÍ | `03-sociologia/weber.md` | 8+ | 6+ | **COMPLETADO** |
 | Durkheim | SÍ | `03-sociologia/durkheim.md` | 10+ | 8+ | **COMPLETADO** |
-| Decroly | SÍ | `01-filosofia-educacion/decroly.md` | — | — | pendiente |
+| Decroly | SÍ | `01-filosofia-educacion/decroly.md` | 4+ | 4+ | **COMPLETADO** |
 | Claparède | ? | — | — | — | pendiente |
 | Thorndike | SÍ | `02-psicologia-aprendizaje/thorndike.md` | — | — | pendiente |
 | Bobbitt | ? | — | — | — | pendiente |
