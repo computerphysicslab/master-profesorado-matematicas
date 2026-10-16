@@ -16,9 +16,9 @@ La recomendación de integrar la mayor parte del contenido en el documento exist
 ## Checklist de Ejecución
 
 - [x] **Paso 1:** Reorganizar el archivo principal (encabezados según esquema de 8 secciones)
-- [ ] **Paso 2:** Desarrollar las secciones de ESO, Bachillerato y FP (contenido sintetizado + tablas + referencia Aragón)
-- [ ] **Paso 3:** Incorporar el mapa visual (Mermaid) y elementos de orientación (Sección 7)
-- [ ] **Paso 4:** Enlaces cruzados y referencias bibliográficas (enlace a Tema 1 + atribución)
+- [x] **Paso 2:** Desarrollar las secciones de ESO, Bachillerato y FP (contenido sintetizado + tablas + referencia Aragón)
+- [x] **Paso 3:** Incorporar el mapa visual (Mermaid) y elementos de orientación (Sección 7)
+- [x] **Paso 4:** Enlaces cruzados y referencias bibliográficas (enlace a Tema 1 + atribución)
 - [ ] **Paso 5:** Unificación de índices (README.md de la asignatura + programa.md)
 - [ ] **Paso 6:** Verificación de enlaces internos
 
@@ -29,7 +29,9 @@ La recomendación de integrar la mayor parte del contenido en el documento exist
 | Fecha | Paso | Acción | Notas |
 |-------|------|--------|-------|
 | 2026-10-17 | 0 | Creación de esta memoria persistente | Diagnóstico inicial: desalineación README.md vs programa.md/apuntes/ |
-| 2026-10-17 | 1 | Reestructuración completa del apunte Tema 2 | 8 secciones implementadas; contenido original expandido; tablas ESO/Bach/FP; referencia Aragón; enlaces a Tema 1 |
+| 2026-10-17 | 1 | Reestructuración completa del apunte Tema 2 | 8 secciones implementadas; contenido original expandido |
+| 2026-10-17 | 2+3 | Desarrollo ESO/Bach/FP + mapa Mermaid + tabla comparativa | Diagrama de flujos de acceso; tabla sintética; Sección 7 de orientación matemática |
+| 2026-10-17 | 4 | Enlaces cruzados y bibliografía | Enlaces a Tema 1 en secciones 2 y 8; nota de atribución y fuentes originales |
 
 ---
 
