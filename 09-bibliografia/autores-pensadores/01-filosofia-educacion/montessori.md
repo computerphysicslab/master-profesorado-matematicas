@@ -1,7 +1,7 @@
 # Maria Montessori
 
 **Área:** Pedagogía científica / Método Montessori  
-**Conceptos clave:** autonomía; ambiente preparado; material sensorial; períodos sensibles; autoeducación  
+**Conceptos clave:** autonomía; ambiente preparado; material sensorial y de matemáticas; períodos sensibles; control del error; autoeducación  
 **Ámbitos del Máster relacionados:** Psicología del desarrollo y de la educación; Diseño de actividades de aprendizaje de Matemáticas
 
 ---
@@ -9,121 +9,142 @@
 ## AUTOR: Maria Montessori
 
 **CORRIENTE PEDAGÓGICA:**  
-Método Montessori (pedagogía científica). Se inscribe en el movimiento de la Educación Nueva, con un fuerte componente de observación científica del niño y de respeto a su desarrollo natural.
+Método Montessori (pedagogía científica). Educación Nueva, con fuerte componente de **observación científica** del niño y respeto a su desarrollo natural. Puente entre [Pestalozzi](pestalozzi.md)/[Fröbel](froebel.md) (materiales, intuición) y enfoques posteriores de autonomía y ambiente preparado.
 
 ---
 
-## BREVE RESEÑA BIOGRÁFICA:
+## BREVE RESEÑA BIOGRÁFICA
 
-Maria Tecla Artemisia Montessori (Chiaravalle, Italia, 1870 – Noordwijk, Países Bajos, 1952) fue médica, educadora y la primera mujer italiana en graduarse en Medicina (1896). Trabajó inicialmente con niños con discapacidad intelectual en el Instituto Ortográfico de Roma, donde descubrió que muchos de los problemas considerados “médicos” eran en realidad pedagógicos.
+Maria Tecla Artemisia Montessori (Chiaravalle, Italia, 1870 – Noordwijk, Países Bajos, 1952). Médica; primera mujer italiana graduada en Medicina (1896). Trabajó con niños con discapacidad intelectual en el Instituto Ortográfico de Roma: muchos problemas «médicos» resultaron pedagógicos.
 
-En 1907 abrió la primera **Casa dei Bambini** en el barrio de San Lorenzo (Roma), con niños de familias obreras. Allí desarrolló y perfeccionó su método a través de la observación sistemática. Publicó *Il metodo della pedagogia scientifica* (1909), traducido al inglés como *The Montessori Method* (1912).
-
-Viajó y formó docentes por todo el mundo. Durante el fascismo se exilió. Su método se extendió globalmente y hoy existen decenas de miles de escuelas Montessori.
+En **1907** abrió la primera ***Casa dei Bambini*** en San Lorenzo (Roma), con niños de familias obreras. Allí perfeccionó el método por observación sistemática. Obra fundacional: *Il metodo della pedagogia scientifica* (1909; *The Montessori Method*, 1912). Formó docentes en todo el mundo; se exilió durante el fascismo. Hoy hay decenas de miles de escuelas Montessori.
 
 ---
 
-## PRINCIPALES APORTACIONES AL ÁMBITO EDUCATIVO:
+## PRINCIPALES APORTACIONES AL ÁMBITO EDUCATIVO
 
-- **El niño como constructor de sí mismo**: el adulto no “enseña” en el sentido tradicional, sino que prepara las condiciones para que el niño se autoeduque.
-- **Ambiente preparado**: espacio ordenado, estéticamente cuidado, con materiales accesibles y proporcionados al tamaño del niño.
-- **Materiales didácticos específicos**: diseñados para aislar una cualidad (tamaño, color, forma, cantidad…) y permitir el control del error por el propio niño.
-- **Períodos sensibles**: ventanas de desarrollo en las que el niño es especialmente receptivo a ciertos aprendizajes (lenguaje, orden, movimiento, números…).
-- **Libertad dentro de límites**: el niño elige su actividad y el tiempo que le dedica, dentro de un marco de respeto al material y a los demás.
-- **Rol del adulto como guía u observador**: presenta el material, observa y retira obstáculos, sin interrumpir el trabajo concentrado.
-- **Educación de la voluntad y de la concentración**: a través del trabajo libre y prolongado (“ciclo de trabajo” de 2-3 horas).
+### A. El niño como constructor de sí mismo
 
-En matemáticas, Montessori desarrolló un conjunto de materiales (barras numéricas, husos, perlas doradas, tableros de operaciones, fracciones…) que hacen tangible el sistema decimal y las operaciones desde edades tempranas.
+El adulto no «enseña» en el sentido tradicional: **prepara condiciones** para que el niño se autoeduque.
 
----
+### B. Ambiente preparado
 
-## MÉTODOS / TÉCNICAS:
+Espacio ordenado, estéticamente cuidado, materiales accesibles y a escala del niño. Belleza y orden como condiciones de concentración.
 
-| Técnica / elemento | Descripción breve |
-|--------------------|-------------------|
-| **Material sensorial** | Cilindros, torres, escaleras, tabletas de color… para refinar los sentidos y preparar el pensamiento abstracto. |
-| **Material de matemáticas** | Barras numéricas, perlas doradas (unidades, decenas, centenas, millares), tableros de operaciones, fracciones circulares. |
-| **Lección de tres períodos** | 1) Nombrar; 2) Reconocer; 3) Recordar. Presentación individual o en pequeño grupo. |
-| **Control del error** | El propio material permite al niño detectar y corregir sus errores sin intervención constante del adulto. |
-| **Ciclo de trabajo largo** | Bloques de 2-3 horas de trabajo ininterrumpido elegido por el niño. |
-| **Ambiente preparado** | Muebles a escala infantil, materiales ordenados, belleza y orden como condiciones de concentración. |
-| **Observación científica** | El adulto registra el progreso y los intereses del niño para adaptar el ambiente. |
+### C. Materiales didácticos específicos
 
----
+Diseñados para aislar una cualidad (tamaño, color, forma, cantidad) y permitir el **control del error** por el propio niño, sin intervención constante del adulto.
 
-## PLANTEAMIENTO DE UNA ACTIVIDAD BASADA EN LA AUTORA:
+### D. Períodos sensibles
 
-### Título: **“Del material concreto a la abstracción: el sistema decimal con perlas doradas”**
+Ventanas de desarrollo en las que el niño es especialmente receptivo (lenguaje, orden, movimiento, números…).
 
-**Nivel sugerido:** 1.º-2.º de Primaria (o adaptación para alumnado con dificultades en ESO).  
-**Duración:** secuencia de 4-6 sesiones individuales o en pequeño grupo.
+### E. Libertad dentro de límites
 
-**Objetivos:**
-- Comprender el valor posicional y el sistema decimal de forma sensorial y manipulativa.
-- Pasar progresivamente de lo concreto a lo simbólico.
-- Fomentar la autonomía y el control del error.
+El niño elige actividad y tiempo, dentro del respeto al material y a los demás. Ciclos de trabajo largos (2–3 h) de concentración.
 
-**Desarrollo (inspirado en el material Montessori de perlas doradas):**
+### F. Rol del adulto: guía / observador
 
-1. **Presentación del material**  
-   Unidades (perlas sueltas), barras de 10, placas de 100 y cubos de 1000. El niño manipula, cuenta y nombra.
+Presenta el material, observa, retira obstáculos; no interrumpe el trabajo concentrado.
 
-2. **Formación de números**  
-   El adulto pide “trae 3 centenas, 2 decenas y 5 unidades”. El niño construye la cantidad y después la asocia al símbolo numérico.
+### G. Matemáticas
 
-3. **Operaciones concretas**  
-   Suma y resta con intercambio (cambio de 10 unidades por 1 decena, etc.). El material hace visible el “préstamo” y el “llevado”.
+Materiales que hacen tangible el sistema decimal y las operaciones: barras numéricas, husos, **perlas doradas** (unidades, decenas, centenas, millares), tableros de operaciones, fracciones. Paso de lo concreto a lo abstracto.
 
-4. **Paso a la abstracción**  
-   Una vez dominado el material, se introduce el trabajo solo con símbolos y, finalmente, con papel y lápiz.
+### H. Relación con otras figuras
 
-5. **Trabajo libre**  
-   El niño elige repetir, combinar o inventar variaciones dentro del marco del material.
-
-**Conexión con Montessori:**  
-La secuencia respeta el paso de lo concreto a lo abstracto, utiliza material con control de error y permite la autoeducación dentro de un ambiente preparado.
+- [Fröbel](froebel.md): materiales estructurados y juego; Montessori sistematiza el control del error y el ambiente.  
+- [Pestalozzi](pestalozzi.md): concreto → abstracto; intuición sensorial.  
+- [Dewey](dewey.md): experiencia y actividad; Montessori es más individual y material-específica (Dewey enfatiza más el problema social y la cooperación).  
+- [Freinet](freinet.md): Escuela Nueva; técnicas cooperativas vs. trabajo predominantemente individual Montessori.
 
 ---
 
-## CRÍTICAS Y LIMITACIONES:
+## RELEVANCIA PARA LA DIDÁCTICA DE LAS MATEMÁTICAS
 
-- **Rigidez del material y del método**: algunos críticos (incluido Kilpatrick, discípulo de Dewey) consideraron el método demasiado formal y restrictivo de la imaginación y del juego simbólico.
-- **Escasa presencia del juego de ficción**: Montessori desconfiaba del juego de fantasía; la investigación actual valora más el juego simbólico en el desarrollo.
-- **Dificultad de implementación en la escuela pública**: requiere formación específica del profesorado, ratios bajas y un ambiente material muy cuidado (coste elevado).
-- **Individualismo vs. cooperación**: el trabajo es predominantemente individual; la interacción social y el trabajo cooperativo quedan en segundo plano.
-- **Adaptación a secundaria**: el método está pensado principalmente para 0-12 años; su transferencia a ESO es limitada y poco desarrollada.
-- **Riesgo de fetichismo del material**: la obsesión por el “uso correcto” de los materiales puede sofocar la creatividad y la exploración libre.
-- **Evidencia mixta**: meta-análisis recientes muestran efectos positivos en literacidad, numeración y funciones ejecutivas cuando se aplica con fidelidad, pero los resultados son más débiles en versiones “adaptadas” o diluidas.
+| Dimensión | Enfoque Montessori | Aplicación actual |
+|-----------|--------------------|-------------------|
+| **Concreto → abstracto** | Perlas, barras, tableros | Manipulativos antes del símbolo |
+| **Valor posicional** | Perlas doradas (1, 10, 100, 1000) | Sistema decimal tangible |
+| **Control del error** | El material «dice» si hay error | Autocorrección; menos dependencia del docente |
+| **Autonomía** | Elección y ritmo propios | Trabajo individual con material estructurado |
+| **Ambiente** | Orden y accesibilidad | Rincones de matemáticas; material al alcance |
+
+**Eco en el máster:** justifica históricamente los **manipulativos estructurados** y la idea de que el material puede mediar la comprensión del número y las operaciones. En ESO interesa como antecedente y contraste (horizonte 0–12 años), no como método completo de Secundaria.
 
 ---
 
-## REFERENCIAS (APA 7):
+## MÉTODOS / PRINCIPIOS
 
-Montessori, M. (1912/1964). *The Montessori method*. Schocken Books. (Obra original publicada en 1909).
+| Principio | Descripción breve |
+|----------|-------------------|
+| **Ambiente preparado** | Orden, belleza, materiales a escala |
+| **Material con control del error** | El niño detecta y corrige sin el adulto |
+| **Lección de tres períodos** | Nombrar → reconocer → recordar |
+| **Ciclo de trabajo largo** | Concentración prolongada elegida |
+| **Observación científica** | Registrar intereses y progreso |
+| **Libertad dentro de límites** | Elección + respeto al marco |
 
-Montessori, M. (1948/2007). *The discovery of the child*. Ballantine Books.
+---
+
+## ACTIVIDAD TIPO (orientativa)
+
+### «Del material concreto a la abstracción: sistema decimal con perlas doradas»
+
+**Nivel:** 1.º–2.º Primaria (adaptable a dificultades en ESO). **Duración:** 4–6 sesiones en pequeño grupo.
+
+1. Presentación: unidades, barras de 10, placas de 100, cubos de 1000.  
+2. Formación de números: construir cantidades y asociar al símbolo.  
+3. Operaciones concretas con intercambio (llevadas / préstamos visibles).  
+4. Paso a símbolos y papel.  
+5. Trabajo libre dentro del marco del material.
+
+---
+
+## CRÍTICAS Y LIMITACIONES
+
+- Rigidez percibida del material (p. ej. crítica de Kilpatrick / entorno Dewey).  
+- Escasa valoración del juego de ficción.  
+- Implementación costosa en escuela pública (formación, ratios, material).  
+- Trabajo predominantemente individual; cooperación en segundo plano.  
+- Horizonte 0–12 años; transferencia a ESO limitada.  
+- Riesgo de fetichismo del «uso correcto» del material.  
+- Evidencia positiva en literacidad/numeración cuando se aplica con fidelidad; más débil en versiones diluidas.
+
+---
+
+## OBRAS DE REFERENCIA
+
+1. ***Il metodo della pedagogia scientifica*** / *The Montessori Method* (1909/1912).  
+2. *The Discovery of the Child*.  
+3. Materiales de matemáticas (perlas doradas, etc.).
+
+---
+
+## REFERENCIAS (APA 7 orientativas)
+
+Montessori, M. (1909/1912/ed. moderna). *El método de la pedagogía científica*.
 
 Lillard, A. S. (2017). *Montessori: The science behind the genius* (3rd ed.). Oxford University Press.
 
-Marshall, C. (2017). Montessori education: A review of the evidence base. *npj Science of Learning, 2*, Article 11. https://doi.org/10.1038/s41539-017-0012-7
+Marshall, C. (2017). Montessori education: A review of the evidence base. *npj Science of Learning, 2*, Article 11.
 
 ---
 
 ## Por qué conocerla (orientación del Máster)
 
-Maria Montessori forma parte del mapa intelectual del Máster por su relación con **pedagogía**. Esta ficha sirve como punto de entrada: conviene entender las ideas fundamentales y, después, localizar una obra primaria o una revisión académica adecuada al nivel del estudiante.
+Montessori aporta al mapa del Máster el **ambiente preparado**, la autonomía y los **materiales estructurados** de matemáticas (sistema decimal tangible). Enlaza [Fröbel](froebel.md) y [Pestalozzi](pestalozzi.md) con la Escuela Nueva y con el uso actual de manipulativos; en Secundaria sirve sobre todo como contraste y antecedente.
 
 ### Preguntas guía
-- ¿Qué problema educativo, psicológico, social, matemático o científico intentó abordar?
-- ¿Qué concepto suyo debería poder explicar un futuro profesor de Matemáticas?
-- ¿Cómo podría aparecer esa idea en una situación real de aula?
-- ¿Qué limitaciones o críticas tiene su enfoque?
-- ¿Qué conexiones tiene con otros autores del mapa?
+- ¿Qué problema educativo aborda? Cómo educar respetando el desarrollo natural y la autoeducación, con materiales que hagan visible el error.
+- ¿Qué concepto debe poder explicar un futuro profesor? Ambiente preparado; control del error; períodos sensibles; materiales de matemáticas Montessori.
+- ¿Cómo aparece en el aula? Manipulativos de valor posicional; rincones; autonomía en el uso del material.
+- ¿Qué limitaciones tiene? Horizonte infantil; individualismo; coste de implementación; no es método de ESO completo.
+- ¿Conexiones? [Fröbel](froebel.md); [Pestalozzi](pestalozzi.md); [Dewey](dewey.md); [Freinet](freinet.md); línea temporal (continuación).
 
-### Enlaces de localización
-- [Google Scholar](https://scholar.google.com/scholar?q=Montessori+educaci%C3%B3n)
-- [Semantic Scholar](https://www.semanticscholar.org/search?q=Montessori+education)
-- [Dialnet](https://dialnet.unirioja.es/buscar/documentos?querysDismax.DOCUMENTAL_TODO=Montessori)
+### Enlaces de investigación
+- [Google Scholar](https://scholar.google.com/scholar?q=Montessori+mathematics+materials)
+- [Historia del pensamiento educativo (continuación)](../historia-del-pensamiento-educativo-continuacion.md)
 
-### Advertencia
-Esta ficha no implica que el autor figure de forma explícita en todas las guías docentes. Distingue entre autores de núcleo del plan y autores de ampliación conceptual.
+### Relación con el Máster
+Los ámbitos indicados orientan la lectura; **no implican** presencia obligatoria en las guías docentes.
