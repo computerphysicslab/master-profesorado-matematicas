@@ -31,7 +31,9 @@ Se opone al reduccionismo del paradigma tecnocrático (solo lo medible) y se dif
 
 ### Max Weber
 
-**Aportación:** sociología comprensiva; la acción social se entiende por el sentido que el actor le atribuye.
+**Aportación:** sociología comprensiva; la acción social se entiende por el sentido que el actor le atribuye. También tipo ideal de burocracia y tipos de autoridad (marco para leer la racionalización escolar).
+
+**Ficha del repo:** [Max Weber](../../../09-bibliografia/autores-pensadores/03-sociologia/weber.md)
 
 ### Alfred Schütz y la fenomenología social
 
@@ -85,7 +87,7 @@ En España el paradigma se usa sobre todo como **marco de investigación cualita
 
 ## 5. Selección breve para apuntes del Máster
 
-1. **Dilthey / Weber** — fundamento del *verstehen*.  
+1. **Dilthey / Weber** — fundamento del *verstehen* ([ficha Weber](../../../09-bibliografia/autores-pensadores/03-sociologia/weber.md)).  
 2. **Geertz** — descripción densa.  
 3. **Stenhouse** — investigación del profesor y currículo como proceso.  
 4. **Elliott** — investigación-acción interpretativa.  
