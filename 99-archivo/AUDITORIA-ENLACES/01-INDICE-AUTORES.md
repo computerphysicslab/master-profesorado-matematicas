@@ -12,7 +12,7 @@ Actualizado: 2026-10-16
 | Santo Tomás de Aquino | SÍ | `01-filosofia-educacion/santo-tomas-de-aquino.md` | 1+ | 2 | **COMPLETADO** |
 | Erasmo | SÍ | `01-filosofia-educacion/erasmo.md` | 1+ | 3 | **COMPLETADO** |
 | Juan Luis Vives | SÍ | `01-filosofia-educacion/vives.md` | 1+ | 3 | **COMPLETADO** |
-| San José de Calasanz | SÜ | `01-filosofia-educacion/jose-de-calasanz.md` | 1+ | 2+ | **COMPLETADO** |
+| San José de Calasanz | SÍ | `01-filosofia-educacion/jose-de-calasanz.md` | 1+ | 2+ | **COMPLETADO** |
 | Galileo | SÍ | `08-matematicas-ciencia-computacion/galileo.md` | 3+ | 4+ | **COMPLETADO** |
 | Comenio | SÍ | `01-filosofia-educacion/comenio.md` | 2+ | 3+ | **COMPLETADO** |
 | Locke | SÍ | `01-filosofia-educacion/locke.md` | 1+ | 2+ | **COMPLETADO** |
