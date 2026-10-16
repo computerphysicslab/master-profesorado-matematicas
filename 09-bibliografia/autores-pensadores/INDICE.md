@@ -74,10 +74,11 @@ Ya en el repo (columna vertebral pedagógica del mismo polo): [Durkheim](./03-so
 | [Max Weber](./03-sociologia/weber.md) | Sociología | burocracia; racionalización; autoridad racional-legal; *verstehen* | Procesos; Sociedad |
 | [Bourdieu](./03-sociologia/bourdieu.md) | Sociología | capital cultural; habitus | Sociedad |
 | [Pólya](./05-educacion-matematica/polya.md) | Resolución de problemas | heurísticas | Diseño de actividades |
+| [Schoenfeld](./05-educacion-matematica/schoenfeld.md) | Resolución de problemas | metacognición; creencias | Diseño de actividades |
+| [Peter Liljedahl](./05-educacion-matematica/liljedahl.md) | Práctica de aula | *Thinking Classrooms*; 14 prácticas; grupos aleatorios; superficies verticales | Diseño de actividades; Practicum |
 | [Brousseau](./05-educacion-matematica/brousseau.md) | TSD | contrato didáctico | Diseño curricular |
 | [Chevallard](./05-educacion-matematica/chevallard.md) | TAD | transposición didáctica | Diseño curricular |
 | [Freudenthal](./05-educacion-matematica/freudenthal.md) | RME | matematización | Contenidos; Diseño de actividades |
-| [Schoenfeld](./05-educacion-matematica/schoenfeld.md) | Resolución de problemas | metacognición; creencias | Diseño de actividades |
 | [Godino](./05-educacion-matematica/godino.md) | EOS | idoneidad didáctica | Diseño curricular; TFM |
 | [Bishop](./05-educacion-matematica/bishop.md) | Cultura | valores; enculturación | Sociedad; Diseño de actividades |
 | [Niss](./05-educacion-matematica/niss.md) | Competencias | KOM; PISA | Contenidos |
