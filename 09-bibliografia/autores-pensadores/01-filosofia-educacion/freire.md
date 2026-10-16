@@ -1,105 +1,133 @@
 # Paulo Freire
 
 **Área:** Pedagogía crítica  
-**Conceptos clave:** diálogo; conciencia crítica; educación bancaria; problematización; concientización  
-**Ámbitos del Máster relacionados:** Procesos y contextos educativos; Sociedad, familia y procesos grupales; Habilidades del pensamiento
+**Conceptos clave:** diálogo; educación bancaria; problematización; concientización (*conscientização*); praxis  
+**Ámbitos del Máster relacionados:** Procesos y contextos educativos; Sociedad, familia y procesos grupales; paradigma sociocrítico
 
 ---
 
 ## AUTOR: Paulo Freire
 
-**CORRIENTE PEDAGÓGICA:**  
-Pedagogía crítica / Pedagogía de la liberación. Una de las corrientes más influyentes de la segunda mitad del siglo XX, especialmente en América Latina y en los movimientos de educación popular y de adultos.
+**CORRIENTE:**  
+**Pedagogía crítica** / pedagogía de la liberación. Referente de la segunda mitad del siglo XX en América Latina y en educación popular. En el mapa del Máster representa el polo **sociocrítico** frente al funcionalista ([Durkheim](../03-sociologia/durkheim.md)) y al tecnocrático ([mapa](../mapa-paradigma-tecnocratico-positivista.md)).
 
 ---
 
-## BREVE RESEÑA BIOGRÁFICA:
+## BREVE RESEÑA BIOGRÁFICA
 
-Paulo Reglus Neves Freire (Recife, Brasil, 1921 – São Paulo, 1997) fue educador, filósofo y teórico de la pedagogía crítica. Creció en un contexto de pobreza que marcó profundamente su pensamiento. Estudió Derecho, pero se dedicó a la educación de adultos y a la alfabetización.
+Paulo Reglus Neves Freire (Recife, 1921 – São Paulo, 1997). Educador y filósofo; alfabetización de adultos y lectura crítica de la realidad en el nordeste brasileño. Tras el golpe de 1964, cárcel y exilio (Chile, EE. UU., Suiza). Regreso a Brasil en 1980; secretario de Educación de São Paulo (1989–1991).
 
-En los años 60 desarrolló un método de alfabetización basado en el diálogo y en la lectura crítica de la realidad, aplicado con éxito en el nordeste brasileño. Tras el golpe militar de 1964 fue encarcelado y exiliado. Vivió en Chile, Estados Unidos y Suiza, donde trabajó con el Consejo Mundial de Iglesias. Regresó a Brasil en 1980 y fue secretario de Educación de São Paulo (1989-1991).
-
-Su obra fundamental es *Pedagogía del oprimido* (1968/1970). Otras obras clave: *La educación como práctica de la libertad*, *Pedagogía de la esperanza* y *Pedagogía de la autonomía*.
+Obra fundamental: ***Pedagogía del oprimido*** (1968/1970). También: *La educación como práctica de la libertad*; *Pedagogía de la esperanza*; *Pedagogía de la autonomía*.
 
 ---
 
-## PRINCIPALES APORTACIONES AL ÁMBITO EDUCATIVO:
+## PRINCIPALES APORTACIONES
 
-- **Crítica al modelo bancario de educación**: el docente “deposita” conocimientos en alumnos pasivos; produce dependencia y deshumanización.
-- **Educación problematizadora / dialógica**: docente y alumnado aprenden juntos a través del diálogo sobre problemas reales de su existencia.
-- **Concientización** (*conscientização*): proceso de toma de conciencia crítica de la realidad social, política y económica para transformarla.
-- **Educación como práctica de la libertad**: no se trata solo de transmitir contenidos, sino de humanizar y empoderar.
-- **Palabra generadora y temas generadores**: partiendo de la vida del alumnado se construyen los contenidos de aprendizaje.
-- **Horizontalidad en la relación educativa**: el educador también es educando; el educando también es educador.
+### A. Educación bancaria (crítica)
 
-En el ámbito de las matemáticas se ha desarrollado la **Educación Matemática Crítica** (inspirada en Freire y en autores como Skovsmose), que busca que el alumnado use las matemáticas para leer y transformar el mundo.
+El docente «deposita» conocimientos en alumnos pasivos. Produce dependencia, adaptación acrítica y deshumanización. Contraste con cualquier pedagogía que solo mida reproducción de contenidos.
 
----
+### B. Educación problematizadora / dialógica
 
-## MÉTODOS / TÉCNICAS:
+Docente y alumnado aprenden juntos mediante el **diálogo** sobre problemas reales de su existencia. Horizontalidad: el educador también es educando.
 
-| Técnica / principio | Descripción breve |
-|---------------------|-------------------|
-| **Diálogo** | Intercambio horizontal que permite la construcción conjunta de conocimiento. |
-| **Problematización** | Presentar la realidad como problema a indagar, no como dato a memorizar. |
-| **Temas / palabras generadoras** | Partir de situaciones significativas de la vida del alumnado. |
-| **Círculos de cultura** | Espacios de discusión colectiva donde se analiza la realidad y se genera conocimiento. |
-| **Lectura crítica del mundo** | Usar los saberes (incluida la matemática) para comprender y cuestionar la realidad. |
-| **Acción-reflexión-acción** | Ciclo permanente de praxis. |
+### C. Concientización (*conscientização*)
 
----
+Toma de conciencia crítica de la realidad social, política y económica para **transformarla** (no solo describirla).
 
-## PLANTEAMIENTO DE UNA ACTIVIDAD BASADA EN EL AUTOR:
+### D. Temas y palabras generadoras
 
-### Título: **“Matemáticas para leer el barrio: datos, desigualdad y propuestas”**
+Partir de la vida del alumnado para construir los contenidos de aprendizaje.
 
-**Nivel sugerido:** 3.º-4.º ESO o 1.º Bachillerato.  
-**Duración:** 5-7 sesiones.
+### E. Praxis
 
-**Objetivos:**
-- Usar las matemáticas (estadística, proporcionalidad, representación gráfica) para analizar una realidad cercana.
-- Desarrollar conciencia crítica a través del diálogo.
-- Pasar de la lectura de la realidad a la formulación de propuestas.
+Ciclo **acción–reflexión–acción**. La educación como práctica de la libertad.
 
-**Desarrollo:**
+### F. Matemáticas
 
-1. **Generación del tema (sesión 1)**  
-   Diálogo abierto: ¿qué problemas o situaciones de nuestro barrio/pueblo nos preocupan? (precios de la vivienda, acceso a transporte, contaminación, desigualdad salarial, uso de espacios públicos…). Se elige un tema generador.
+Base de la **Educación Matemática Crítica** (p. ej. Skovsmose): usar las matemáticas para leer y cuestionar el mundo (datos, desigualdad, poder), no solo para ejecutar algoritmos.
 
-2. **Investigación y recolección de datos (sesiones 2-3)**  
-   Los alumnos recogen datos reales (encuestas, datos abiertos del ayuntamiento, observación). Organizan tablas, calculan porcentajes, elaboran gráficos.
+### G. Relación con otras figuras
 
-3. **Análisis dialógico (sesiones 4-5)**  
-   Presentación de resultados y debate: ¿qué revelan los números? ¿quién se beneficia o se perjudica? ¿qué relaciones de poder aparecen?
-
-4. **Propuesta y comunicación (sesiones 6-7)**  
-   Elaboración de un informe o exposición pública con propuestas fundamentadas matemáticamente. Reflexión final sobre el proceso de aprendizaje.
-
-**Conexión con Freire:**  
-La actividad parte de la realidad del alumnado, usa el diálogo como método, convierte los datos matemáticos en herramienta de lectura crítica del mundo y orienta hacia la transformación.
+- [Dewey](dewey.md): democracia y experiencia (línea pragmática) vs. liberación y opresión (Freire).  
+- [Freinet](freinet.md): escuela popular y cooperación; Freire radicaliza la lectura política.  
+- [Durkheim](../03-sociologia/durkheim.md): socialización funcional vs. crítica a la adaptación acrítica.  
+- [Bourdieu](../03-sociologia/bourdieu.md): reproducción y capital cultural; Freire insiste en la transformación.  
+- Contraste con el [mapa tecnocrático](../mapa-paradigma-tecnocratico-positivista.md): objetivos medibles vs. concientización.
 
 ---
 
-## CRÍTICAS Y LIMITACIONES:
+## RELEVANCIA PARA LA DIDÁCTICA DE LAS MATEMÁTICAS
 
-- **Riesgo de adoctrinamiento**: algunos críticos señalan que el marco de “opresor/oprimido” puede simplificar la realidad y conducir a una pedagogía ideológicamente sesgada.
-- **Escasa atención a la especificidad disciplinar**: Freire escribió poco sobre contenidos concretos (matemáticas, ciencias…); la transferencia a la didáctica de las matemáticas requiere mediaciones (Educación Matemática Crítica).
-- **Críticas feministas e interseccionales**: en sus primeras obras el análisis se centraba casi exclusivamente en la clase social, con poca atención al género, la raza o la sexualidad.
-- **Dificultad de implementación en sistemas escolares formales**: el modelo de círculos de cultura y problematización choca con currículos rígidos, evaluaciones estandarizadas y ratios elevadas.
-- **Posible reproducción del modelo bancario**: si el docente “problematiza” dirigiendo las conclusiones hacia su propia visión política, se puede caer en una forma sofisticada de depósito ideológico.
-- **Idealización del diálogo**: el diálogo real requiere condiciones de igualdad y seguridad que no siempre existen en el aula.
+| Dimensión | Enfoque Freire | Aplicación actual |
+|-----------|----------------|-------------------|
+| **Bancaria vs. dialógica** | Depósito vs. diálogo | Evitar solo «explicar y examinar» |
+| **Problematización** | Realidad como problema | Datos del entorno; modelización social |
+| **Temas generadores** | Vida del alumnado | Estadística del barrio, precios, desigualdad |
+| **EMC** | Matemáticas para leer el mundo | Educación Matemática Crítica |
+| **Límite** | Poco detalle disciplinar | Requiere mediación didáctica de mates |
+
+**Eco en el máster:** Freire ancla el **paradigma sociocrítico** y legitima preguntarse *para qué* sirven los números en el aula, no solo *cómo* calcularlos.
 
 ---
 
-## REFERENCIAS (APA 7):
+## MÉTODOS / PRINCIPIOS
 
-Freire, P. (1970/2005). *Pedagogy of the oppressed* (M. B. Ramos, Trans.). Continuum. (Obra original publicada en 1968).
+| Principio | Descripción breve |
+|----------|-------------------|
+| Diálogo | Construcción conjunta; horizontalidad |
+| Problematización | Realidad a indagar, no dato a memorizar |
+| Temas generadores | Partir de lo significativo para el grupo |
+| Círculos de cultura | Discusión colectiva de la realidad |
+| Lectura crítica del mundo | Saberes (y mates) para cuestionar |
+| Praxis | Acción–reflexión–acción |
 
-Freire, P. (1998). *Pedagogy of freedom: Ethics, democracy, and civic courage*. Rowman & Littlefield.
+---
 
-Freire, P. (1994). *Pedagogy of hope: Reliving Pedagogy of the oppressed*. Continuum.
+## ACTIVIDAD TIPO
 
-Gadotti, M. (1994). *Reading Paulo Freire: His life and work*. SUNY Press.
+### «Matemáticas para leer el barrio»
+
+**Nivel:** 3.º–4.º ESO / 1.º Bach. **Duración:** 5–7 sesiones.
+
+1. Tema generador (diálogo: problemas del entorno).  
+2. Datos reales (encuestas, datos abiertos) → tablas, %, gráficos.  
+3. Análisis dialógico: ¿qué revelan los números?  
+4. Propuestas fundamentadas matemáticamente + reflexión del proceso.
+
+---
+
+## MATERIALES DEL REPO RELACIONADOS
+
+| Material | Relación |
+|----------|----------|
+| [Dewey](dewey.md) | Democracia/experiencia vs. liberación |
+| [Freinet](freinet.md) | Escuela popular; cooperación |
+| [Durkheim](../03-sociologia/durkheim.md) | Contraste funcionalismo / sociocrítico |
+| [Bourdieu](../03-sociologia/bourdieu.md) | Reproducción; capital cultural |
+| [Mapa tecnocrático](../mapa-paradigma-tecnocratico-positivista.md) | Contraste polo objetivos/eficiencia |
+| [Comparativa paradigmas · tarea mates](../../../01-asignaturas/procesos-y-contextos-educativos/materiales/comparativa-paradigmas-tarea-matematicas.md) | Lectura sociocrítica de una tarea |
+| [Responsabilidad social / consenso](../../../03-materiales/responsabilidad-social-consenso-y-continuidad-educativa.md) | Límites de la disputa; Freire en el mapa |
+| [Rutas de lectura](../RUTAS-LECTURA.md) | Historia de la pedagogía |
+| [Historia (continuación)](../historia-del-pensamiento-educativo-continuacion.md) | Entrada 1921 |
+
+---
+
+## CRÍTICAS Y LIMITACIONES
+
+- Riesgo de adoctrinamiento si el marco opresor/oprimido simplifica o dirige las conclusiones.  
+- Poca especificidad disciplinar (mates requieren mediación tipo EMC).  
+- Primeras obras centradas en clase; menos género/raza/sexualidad (críticas interseccionales).  
+- Choque con currículos rígidos y evaluación estandarizada.  
+- El diálogo real exige condiciones de seguridad e igualdad no siempre presentes.
+
+---
+
+## REFERENCIAS (APA 7 orientativas)
+
+Freire, P. (1970/2005). *Pedagogy of the oppressed*. Continuum.
+
+Freire, P. (1998). *Pedagogy of freedom*. Rowman & Littlefield.
 
 Skovsmose, O. (1994). *Towards a philosophy of critical mathematics education*. Kluwer.
 
@@ -107,19 +135,18 @@ Skovsmose, O. (1994). *Towards a philosophy of critical mathematics education*. 
 
 ## Por qué conocerlo (orientación del Máster)
 
-Paulo Freire forma parte del mapa intelectual del Máster por su relación con **pedagogía crítica**. Esta ficha sirve como punto de entrada: conviene entender las ideas fundamentales y, después, localizar una obra primaria o una revisión académica adecuada al nivel del estudiante.
+Freire aporta al mapa del Máster la **crítica a la educación bancaria**, el **diálogo** y la **concientización**. Es el referente del paradigma sociocrítico y el puente hacia la Educación Matemática Crítica: las mates como herramienta para leer y transformar el mundo.
 
 ### Preguntas guía
-- ¿Qué problema educativo, psicológico, social, matemático o científico intentó abordar?
-- ¿Qué concepto suyo debería poder explicar un futuro profesor de Matemáticas?
-- ¿Cómo podría aparecer esa idea en una situación real de aula?
-- ¿Qué limitaciones o críticas tiene su enfoque?
-- ¿Qué conexiones tiene con otros autores del mapa?
+- ¿Qué problema aborda? Educación como depósito que adapta en lugar de liberar.
+- ¿Qué concepto debe poder explicar un futuro profesor? Educación bancaria; diálogo; concientización; temas generadores.
+- ¿Cómo aparece en el aula? Problemas con datos reales del entorno; debate sobre qué dicen los números; propuestas.
+- ¿Qué limitaciones tiene? Ideologización; poca didáctica disciplinar; condiciones del diálogo.
+- ¿Conexiones? [Dewey](dewey.md); [Durkheim](../03-sociologia/durkheim.md); [Bourdieu](../03-sociologia/bourdieu.md); paradigmas.
 
-### Enlaces de localización
-- [Google Scholar](https://scholar.google.com/scholar?q=Paulo+Freire+educaci%C3%B3n)
-- [Semantic Scholar](https://www.semanticscholar.org/search?q=Paulo+Freire+education)
-- [Dialnet](https://dialnet.unirioja.es/buscar/documentos?querysDismax.DOCUMENTAL_TODO=Freire)
+### Enlaces de investigación
+- [Google Scholar](https://scholar.google.com/scholar?q=Paulo+Freire+critical+mathematics+education)
+- [Historia del pensamiento educativo (continuación)](../historia-del-pensamiento-educativo-continuacion.md)
 
-### Advertencia
-Esta ficha no implica que el autor figure de forma explícita en todas las guías docentes. Distingue entre autores de núcleo del plan y autores de ampliación conceptual.
+### Relación con el Máster
+Los ámbitos indicados orientan la lectura; **no implican** presencia obligatoria en todas las guías docentes.
