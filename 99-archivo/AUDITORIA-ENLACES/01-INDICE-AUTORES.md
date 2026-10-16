@@ -24,8 +24,8 @@ Actualizado: 2026-10-16
 | Fröbel | SÍ | `01-filosofia-educacion/froebel.md` | 2+ | 3+ | **COMPLETADO** |
 | Comte | SÍ | `01-filosofia-educacion/comte.md` | 5+ | 5+ | **COMPLETADO** |
 | Dewey | SÍ | `01-filosofia-educacion/dewey.md` | 10+ | 8+ | **COMPLETADO** |
+| Montessori | SÍ | `01-filosofia-educacion/montessori.md` | 5+ | 5+ | **COMPLETADO** |
 | Weber | SÍ | `03-sociologia/weber.md` | — | — | pendiente |
-| Montessori | SÍ | `01-filosofia-educacion/montessori.md` | — | — | pendiente |
 | Decroly | SÍ | `01-filosofia-educacion/decroly.md` | — | — | pendiente |
 | Claparède | ? | — | — | — | pendiente |
 | Thorndike | SÍ | `02-psicologia-aprendizaje/thorndike.md` | — | — | pendiente |
