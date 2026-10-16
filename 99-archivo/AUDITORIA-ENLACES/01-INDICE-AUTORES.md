@@ -28,8 +28,8 @@ Actualizado: 2026-10-16
 | Weber | SÍ | `03-sociologia/weber.md` | 8+ | 6+ | **COMPLETADO** |
 | Durkheim | SÍ | `03-sociologia/durkheim.md` | 10+ | 8+ | **COMPLETADO** |
 | Decroly | SÍ | `01-filosofia-educacion/decroly.md` | 4+ | 4+ | **COMPLETADO** |
-| Claparède | SÍ | `01-filosofia-educacion/claparede.md` | 1+ | 2+ | **COMPLETADO** (nueva) |
-| Thorndike | SÍ | `02-psicologia-aprendizaje/thorndike.md` | — | — | pendiente |
+| Claparède | SÍ | `01-filosofia-educacion/claparede.md` | 1+ | 2+ | **COMPLETADO** (nueva + foto) |
+| Thorndike | SÍ | `02-psicologia-aprendizaje/thorndike.md` | 5+ | 5+ | **COMPLETADO** |
 | Bobbitt | ? | — | — | — | pendiente |
 | Wallon | ? | — | — | — | pendiente |
 | Freinet | SÍ | `01-filosofia-educacion/freinet.md` | — | — | pendiente |
