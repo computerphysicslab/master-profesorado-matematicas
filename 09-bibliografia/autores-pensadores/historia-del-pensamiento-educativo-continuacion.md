@@ -22,7 +22,7 @@ Continúa la [línea temporal principal](./historia-del-pensamiento-educativo.md
 
 <br clear="all"/>
 
-**1873 — Édouard Claparède.*** Pedagogía funcional; necesidades e intereses del niño.
+**1873 — [Édouard Claparède](./01-filosofia-educacion/claparede.md).** Pedagogía funcional; necesidades e intereses del niño; escuela activa.
 
 <br clear="all"/>
 
@@ -90,7 +90,7 @@ Continúa la [línea temporal principal](./historia-del-pensamiento-educativo.md
 Diálogo y razón ([Sócrates](./01-filosofia-educacion/socrates.md)–[Aristóteles](./01-filosofia-educacion/aristoteles.md))
   → humanismo y método (Vives–San José de Calasanz–Comenio–San Juan Bautista de La Salle–Locke)
   → naturaleza y autonomía (Rousseau–Kant–Pestalozzi)
-  → Escuela Nueva y experiencia (Dewey–Montessori–Decroly–Freinet)
+  → Escuela Nueva y experiencia (Dewey–Montessori–Decroly–Claparède–Freinet)
   → mente y mediación (Piaget–Vygotsky–Bruner)
   → sociedad y poder (Durkheim–Bourdieu–Foucault–Freire)
   → aula de mates que piensa (Pólya–Skemp–Brousseau–Schoenfeld–Liljedahl)
