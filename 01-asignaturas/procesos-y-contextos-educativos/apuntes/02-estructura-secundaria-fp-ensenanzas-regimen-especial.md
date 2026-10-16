@@ -11,17 +11,38 @@
 
 El sistema educativo español se organiza en etapas sucesivas que combinan enseñanza obligatoria y postobligatoria, con vías paralelas de régimen especial y educación de personas adultas.
 
-```text
-Educación básica (obligatoria hasta los 16 años)
-├─ Educación Infantil (0–6)
-├─ Educación Primaria (6–12)
-└─ Educación Secundaria Obligatoria — ESO (12–16)
-        ↓
-Postobligatoria y otras vías
-├─ Bachillerato (16–18)
-├─ Formación Profesional (Grado Básico, Medio, Superior)
-├─ Enseñanzas de Régimen Especial (Idiomas, Artísticas, Deportivas)
-└─ Educación de Personas Adultas (EPA) y enseñanzas superiores
+```mermaid
+flowchart TB
+    subgraph Obligatoria["Educación básica (obligatoria hasta 16)"]
+        INF[Educación Infantil 0-6]
+        PRI[Educación Primaria 6-12]
+        ESO[ESO 12-16]
+        INF --> PRI --> ESO
+    end
+
+    subgraph Post["Postobligatoria y otras vías"]
+        BACH[Bachillerato 16-18]
+        FPB[FP Grado Básico]
+        FPM[FP Grado Medio]
+        FPS[FP Grado Superior]
+        RE[Régimen Especial<br/>Idiomas / Artísticas / Deportivas]
+        EPA[Educación de Personas Adultas]
+        UNI[Universidad]
+    end
+
+    ESO -->|Título Graduado ESO| BACH
+    ESO -->|Título Graduado ESO| FPM
+    ESO -.->|vías alternativas| FPB
+    FPB --> FPM
+    BACH --> FPS
+    BACH --> UNI
+    FPM --> FPS
+    FPS --> UNI
+    ESO -.-> RE
+    BACH -.-> RE
+    EPA -.-> ESO
+    EPA -.-> BACH
+    EPA -.-> FPM
 ```
 
 **Clasificación clave:**
@@ -31,6 +52,17 @@ Postobligatoria y otras vías
 - **Educación de Personas Adultas:** vías de incorporación, preparación de pruebas de acceso y formación continua.
 
 La **LOGSE** (1990) generalizó la ESO hasta los 16 años. La **LOMLOE** (2020) mantiene esa obligatoriedad y refuerza los principios de equidad, inclusión, orientación y aprendizaje permanente.
+
+### Tabla comparativa sintética
+
+| Aspecto | ESO | Bachillerato | FP (Grado Medio / Superior) |
+|---------|-----|--------------|-----------------------------|
+| **Duración** | 4 cursos | 2 cursos | Variable (módulos; habitualmente 2 años) |
+| **Finalidad** | Formación básica común + ciudadanía | Madurez intelectual + acceso a superior | Cualificación profesional + empleo |
+| **Evaluación** | Continua, formativa e integradora | Continua + peso de EvAU | Continua + módulos + empresa (Dual) |
+| **Promoción** | Colegiada; criterios estatales + autonómicos | Según normativa de etapa | Por módulos superados |
+| **Titulación** | Graduado en ESO | Título de Bachiller | Técnico / Técnico Superior |
+| **Matemáticas** | Común + A/B en 4.º | I-II o Aplicadas a CCSS | Según ciclo (suelen ser aplicadas) |
 
 ---
 
@@ -56,7 +88,7 @@ Estos principios se concretan en los reales decretos de ordenación y en los dec
 La ESO tiene como finalidad proporcionar al alumnado una formación elemental, transmitir los elementos básicos de la cultura y preparar para el ejercicio de derechos y obligaciones de la vida ciudadana, así como para el acceso a la formación profesional o al Bachillerato.
 
 Principios pedagógicos destacados por la LOMLOE:
-- Atención a la diversidad como principio ordinariodel aula.
+- Atención a la diversidad como principio ordinario del aula.
 - Orientación educativa y profesional continua.
 - Trabajo por competencias y situaciones de aprendizaje.
 - Evaluación continua, formativa e integradora.
