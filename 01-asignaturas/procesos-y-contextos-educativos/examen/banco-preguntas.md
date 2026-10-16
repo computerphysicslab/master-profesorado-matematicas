@@ -3,8 +3,8 @@
 Preguntas orientativas a partir de los apuntes y materiales del repositorio.  
 **Especialidad:** Matemáticas · ESO y Bachillerato.
 
-**Exámenes por nivel:** [fácil](examen-facil.md) · [intermedio](examen-intermedio.md) · [difícil](examen-dificil.md)  
-**Respuestas:** [fácil](respuestas-facil.md) · [intermedio](respuestas-intermedio.md) · [difícil](respuestas-dificil.md)
+**Exámenes por nivel:** [fácil](examen-facil.md) · [intermedio](examen-intermedio.md) · [difícil](examen-dificil.md) · **[final](examen-final.md)**  
+**Respuestas:** [fácil](respuestas-facil.md) · [intermedio](respuestas-intermedio.md) · [difícil](respuestas-dificil.md) · **[final](respuestas-final.md)**
 
 ---
 
@@ -26,7 +26,7 @@ Preguntas orientativas a partir de los apuntes y materiales del repositorio.
 
 6. Explica el reparto actual de **enseñanzas mínimas** entre Estado y Comunidades Autónomas (porcentajes vigentes bajo LOMLOE) y por qué importa para la programación didáctica de Matemáticas.
 
-7. **Verdadero o falso (justifica):** “Los porcentajes de enseñanzas mínimas de la LOE (55 % / 65 %) siguen vigentes sin cambios tras la LOMLOE.”
+7. **Verdadero o falso (justifica):** «Los porcentajes de enseñanzas mínimas de la LOE (55 % / 65 %) siguen vigentes sin cambios tras la LOMLOE.»
 
 ---
 
@@ -42,11 +42,11 @@ Preguntas orientativas a partir de los apuntes y materiales del repositorio.
 
 10. Explica la **paradoja de la autonomía**: cómo más autonomía curricular puede generar más carga documental. Relaciónalo con el paso de la LGE a la LOGSE/LOPEG.
 
-11. Describe, de forma esquemática, la evolución de la “cadena documental” desde 1970 hasta la LOMLOE (programa → … → evaluación de la práctica docente).
+11. Describe, de forma esquemática, la evolución de la «cadena documental» desde 1970 hasta la LOMLOE (programa → … → evaluación de la práctica docente).
 
 12. Interpreta los **índices heurísticos** de complejidad curricular y exigencia burocrática (LGE = 100 → LOMLOE ≈ 270). ¿Qué no permiten afirmar estos índices?
 
-13. Según el material del repo, ¿en qué sentido la burocracia actual no es solo “más papeles administrativos” sino una transformación de la práctica docente en objeto de planificación, trazabilidad y rendición de cuentas? Conéctalo con el paradigma racional-tecnológico.
+13. Según el material del repo, ¿en qué sentido la burocracia actual no es solo «más papeles administrativos» sino una transformación de la práctica docente en objeto de planificación, trazabilidad y rendición de cuentas? Conéctalo con el paradigma racional-tecnológico.
 
 14. Caso: un departamento de Matemáticas dedica más tiempo a rellenar matrices de competencias-criterios-saberes-situaciones que a diseñar problemas. Argumenta esta tensión usando el análisis de burocratización del Tema 1.
 
@@ -54,7 +54,7 @@ Preguntas orientativas a partir de los apuntes y materiales del repositorio.
 
 ## Organización del centro y comunidad educativa
 
-15. ¿Qué es el **currículo oculto**? Pon un ejemplo en el aula de Matemáticas (expectativas, turnos de palabra, quién “parece” bueno en mates).
+15. ¿Qué es el **currículo oculto**? Pon un ejemplo en el aula de Matemáticas (expectativas, turnos de palabra, quién «parece» bueno en mates).
 
 16. Relaciona **igualdad** y **equidad** educativas con una medida concreta que podría adoptar un profesor de Matemáticas.
 
@@ -64,7 +64,7 @@ Preguntas orientativas a partir de los apuntes y materiales del repositorio.
 
 17. Explica el **Diseño Universal para el Aprendizaje (DUA)** en tres principios y propón una aplicación breve a una unidad de estadística de ESO.
 
-18. **Verdadero o falso (justifica):** “El DUA consiste en bajar el nivel de los contenidos para que todo el alumnado apruebe.”
+18. **Verdadero o falso (justifica):** «El DUA consiste en bajar el nivel de los contenidos para que todo el alumnado apruebe.»
 
 ---
 
@@ -74,7 +74,7 @@ Preguntas orientativas a partir de los apuntes y materiales del repositorio.
 
 22. Explica qué son las **enseñanzas de régimen especial** (idiomas, artísticas, deportivas) y por qué un tutor de 3.º ESO debe conocerlas al asesorar itinerarios.
 
-23. **Verdadero o falso (justifica):** “La FP de grado medio es una salida residual para quien no puede hacer Bachillerato.” Relaciónalo con el riesgo de estigmatizar itinerarios.
+23. **Verdadero o falso (justifica):** «La FP de grado medio es una salida residual para quien no puede hacer Bachillerato.» Relaciónalo con el riesgo de estigmatizar itinerarios.
 
 ---
 
@@ -92,7 +92,7 @@ Preguntas orientativas a partir de los apuntes y materiales del repositorio.
 
 27. Distingue **medidas ordinarias** y **medidas específicas** de atención a la diversidad y sitúa un ejemplo de cada una en el aula de Matemáticas de ESO.
 
-28. Propón, para un grupo de 1.º de ESO con gran heterogeneidad en cálculo y resolución de problemas, **tres decisiones DUA** (representación, acción/expresión, implicación) sin “bajar el nivel” del saber básico trabajado.
+28. Propón, para un grupo de 1.º de ESO con gran heterogeneidad en cálculo y resolución de problemas, **tres decisiones DUA** (representación, acción/expresión, implicación) sin «bajar el nivel» del saber básico trabajado.
 
 ---
 
@@ -100,7 +100,7 @@ Preguntas orientativas a partir de los apuntes y materiales del repositorio.
 
 29. Compara una sesión de Matemáticas centrada solo en **ejercicios de aplicación de fórmula** con otra basada en **aprendizaje cooperativo** o resolución de un problema abierto. Indica qué cambia en el rol del docente, en la evaluación del proceso y en la gestión del error.
 
-30. Señala dos criterios para elegir un **recurso digital** (p. ej. GeoGebra, hoja de cálculo, applet) en una unidad de funciones o estadística, más allá de “que motive”.
+30. Señala dos criterios para elegir un **recurso digital** (p. ej. GeoGebra, hoja de cálculo, applet) en una unidad de funciones o estadística, más allá de «que motive».
 
 ---
 
@@ -114,10 +114,10 @@ Preguntas orientativas a partir de los apuntes y materiales del repositorio.
 
 ## Síntesis
 
-19. “La LOMLOE reduce la burocracia docente al sustituir los estándares de la LOMCE por un enfoque competencial.” Argumenta a favor o en contra usando el material de burocratización y de elementos curriculares de la LOMLOE.
+19. «La LOMLOE reduce la burocracia docente al sustituir los estándares de la LOMCE por un enfoque competencial.» Argumenta a favor o en contra usando el material de burocratización y de elementos curriculares de la LOMLOE.
 
 20. Redacta un párrafo (10–15 líneas) que conecte: paradigmas educativos, una ley orgánica concreta y una decisión de aula en Matemáticas (evaluación, agrupamientos o diseño de tarea).
 
 ---
 
-*Patrón canónico: examen + respuestas por nivel (fácil / intermedio / difícil). Sin archivo único de autocorrección.*
+*Patrón canónico: examen + respuestas por nivel (fácil / intermedio / difícil / final). Sin archivo único de autocorrección.*
