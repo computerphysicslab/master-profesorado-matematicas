@@ -38,7 +38,9 @@ Continúa la [línea temporal principal](./historia-del-pensamiento-educativo.md
 
 <br clear="all"/>
 
-**1879 — Henri Wallon.*** Desarrollo cognitivo, afectivo, motor y social.
+<img src="https://commons.wikimedia.org/wiki/Special:FilePath/Wallon_henri.jpg?width=120" width="100" alt="Henri Wallon" align="left" style="margin:4px 12px 8px 0"/>
+
+**1879 — [Henri Wallon](./02-psicologia-aprendizaje/wallon.md).** Desarrollo integral: cognición, afecto, motor y social; unidad afectivo-cognitiva.
 
 <br clear="all"/>
 
@@ -64,19 +66,19 @@ Continúa la [línea temporal principal](./historia-del-pensamiento-educativo.md
 
 <br clear="all"/>
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Paulo_Freire_1977.jpg/120px-Paulo_Freire_1977.jpg" width="100" alt="Freire" align="left" style="margin:4px 12px 8px 0"/>
-
-**1921 — [Paulo Freire](./01-filosofia-educacion/freire.md).** Pedagogía del oprimido; crítica a la educación bancaria.
-
-<br clear="all"/>
-
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/B.F._Skinner_at_Harvard_circa_1950_%28cropped%29.jpg/120px-B.F._Skinner_at_Harvard_circa_1950_%28cropped%29.jpg" width="100" alt="Skinner" align="left" style="margin:4px 12px 8px 0"/>
 
 **1904 — [B. F. Skinner](./02-psicologia-aprendizaje/skinner.md).** Condicionamiento operante.
 
 <br clear="all"/>
 
-**1958 — Peter Liljedahl.*** *Building Thinking Classrooms*; pensamiento matemático en el aula.
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Paulo_Freire_1977.jpg/120px-Paulo_Freire_1977.jpg" width="100" alt="Freire" align="left" style="margin:4px 12px 8px 0"/>
+
+**1921 — [Paulo Freire](./01-filosofia-educacion/freire.md).** Pedagogía del oprimido; crítica a la educación bancaria.
+
+<br clear="all"/>
+
+**1958 — [Peter Liljedahl](./05-educacion-matematica/liljedahl.md).** *Building Thinking Classrooms*; 14 prácticas para el pensamiento matemático en el aula. *(Sin retrato de dominio público en Wikimedia Commons.)*
 
 <br clear="all"/>
 
@@ -89,7 +91,7 @@ Diálogo y razón ([Sócrates](./01-filosofia-educacion/socrates.md)–[Aristót
   → humanismo y método (Vives–San José de Calasanz–Comenio–San Juan Bautista de La Salle–Locke)
   → naturaleza y autonomía (Rousseau–Kant–Pestalozzi)
   → Escuela Nueva y experiencia (Dewey–Montessori–Decroly–Claparède–Freinet)
-  → mente y mediación (Piaget–Vygotsky–Bruner)
+  → mente y mediación (Wallon–Piaget–Vygotsky–Bruner)
   → sociedad y poder (Durkheim–Bourdieu–Foucault–Freire)
   → aula de mates que piensa (Pólya–Skemp–Brousseau–Schoenfeld–Liljedahl)
 ```
