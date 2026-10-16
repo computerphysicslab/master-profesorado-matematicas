@@ -68,6 +68,7 @@ Ya en el repo (columna vertebral pedagógica del mismo polo): [Durkheim](./03-so
 | [Skinner](./02-psicologia-aprendizaje/skinner.md) | Conductismo | refuerzo | Psicología |
 | [Bandura](./02-psicologia-aprendizaje/bandura.md) | Aprendizaje social | autoeficacia | Psicología |
 | [Dweck](./02-psicologia-aprendizaje/dweck.md) | Motivación | mentalidad de crecimiento | Psicología |
+| [Kurt Lewin](./04-psicologia-social/lewin.md) | Psicología social | dinámica de grupos; estilos de liderazgo; investigación-acción | Sociedad; Innovación; Procesos |
 | [Durkheim](./03-sociologia/durkheim.md) | Sociología | socialización | Sociedad; Procesos |
 | [Parsons](./03-sociologia/parsons.md) | Funcionalismo | sistema social; roles | Sociedad; Procesos |
 | [Max Weber](./03-sociologia/weber.md) | Sociología | burocracia; racionalización; autoridad racional-legal; *verstehen* | Procesos; Sociedad |
