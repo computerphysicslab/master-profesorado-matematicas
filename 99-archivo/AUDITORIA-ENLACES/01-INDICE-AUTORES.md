@@ -32,7 +32,7 @@ Actualizado: 2026-10-16
 | Thorndike | SÍ | `02-psicologia-aprendizaje/thorndike.md` | 5+ | 5+ | **COMPLETADO** |
 | Bobbitt | SÍ | `06-curriculo-evaluacion-investigacion/bobbitt.md` | 3+ | 4+ | **COMPLETADO** |
 | Wallon | ? | — | — | — | pendiente |
-| Freinet | SÍ | `01-filosofia-educacion/freinet.md` | — | — | pendiente |
+| Freinet | SÍ | `01-filosofia-educacion/freinet.md` | 10+ | 8+ | **COMPLETADO** |
 | Lewin | SÍ | `04-psicologia-social/lewin.md` | — | — | pendiente |
 | Piaget | SÍ | `02-psicologia-aprendizaje/piaget.md` | — | — | pendiente |
 | Vygotsky | SÍ | `02-psicologia-aprendizaje/vygotsky.md` | — | — | pendiente |
