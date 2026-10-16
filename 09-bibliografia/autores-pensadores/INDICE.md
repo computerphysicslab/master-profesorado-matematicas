@@ -69,6 +69,7 @@ Ya en el repo (columna vertebral pedagógica del mismo polo): [Durkheim](./03-so
 | [Dweck](./02-psicologia-aprendizaje/dweck.md) | Motivación | mentalidad de crecimiento | Psicología |
 | [Durkheim](./03-sociologia/durkheim.md) | Sociología | socialización | Sociedad; Procesos |
 | [Parsons](./03-sociologia/parsons.md) | Funcionalismo | sistema social; roles | Sociedad; Procesos |
+| [Max Weber](./03-sociologia/weber.md) | Sociología | burocracia; racionalización; autoridad racional-legal; *verstehen* | Procesos; Sociedad |
 | [Bourdieu](./03-sociologia/bourdieu.md) | Sociología | capital cultural; habitus | Sociedad |
 | [Pólya](./05-educacion-matematica/polya.md) | Resolución de problemas | heurísticas | Diseño de actividades |
 | [Brousseau](./05-educacion-matematica/brousseau.md) | TSD | contrato didáctico | Diseño curricular |
