@@ -16,6 +16,7 @@ Asignatura del Máster de Profesorado de Educación Secundaria (especialidad Mat
 | [Tema 4: Prejuicio y estereotipos ante la diversidad](apuntes/Tema4_Prejuicio_y_estereotipos_ante_la_diversidad.md) | Percepción, atribución, prejuicios, estereotipos; diversidad social, cultural y de género |
 | [Tema 5: Familia, escuela y acompañamiento del aprendizaje](apuntes/Tema5_Familia_escuela_acompanamiento_aprendizaje.md) | Relación escuela–familia; capital cultural; expectativas; límites de rol |
 | [Material — Comunicación con familias](materiales/comunicacion-con-familias-matematicas.md) | Tutoría, canales, entrevistas, evaluación de mates |
+| [Glosario](glosario.md) | Términos operativos (grupo, poder, comunicación, prejuicio, familia) |
 | [Examen](examen/) | Banco de preguntas |
 | [Bibliografía](bibliografia.md) | Referencias |
 
@@ -24,4 +25,5 @@ Asignatura del Máster de Profesorado de Educación Secundaria (especialidad Mat
 - `apuntes/` — apuntes y resúmenes  
 - `materiales/` — recursos docentes  
 - `examen/` — práctica de evaluación  
+- `glosario.md` — términos de la asignatura  
 - `bibliografia.md` — referencias  
