@@ -211,6 +211,7 @@ En Aragón el nivel 1 de concreción se fija con los reales decretos de enseñan
 - **Comprensividad vs. diversificación precoz:** ¿hasta qué punto debe mantenerse un tronco común hasta los 16 años?
 - **Inclusión real en el aula ordinaria:** distancia entre el discurso normativo y los recursos efectivos (ratios, formación, ratios).
 - **Brecha entre norma, financiación y currículo competencial:** la LOMLOE apuesta por un enfoque competencial exigente; su aplicación depende de condiciones materiales y de la formación del profesorado.
+- **Perfil de salida vs. realidad del alumnado a los 16 años:** el Perfil de salida plantea horizontes ambiciosos (conciencia ambiental, consumo responsable, espíritu crítico, etc.). La brecha con las condiciones reales de aula (ratios, ratios, heterogeneidad) es un debate legítimo que no se resuelve solo con más matrices documentales. Desarrollo ampliado: [Desafíos del contexto docente y aplicación LOMLOE (2025–2026)](../materiales/desafios-contexto-docente-lomloe-2026.md).
 
 Estos debates se conectan con la evolución histórica y los paradigmas analizados en el [Tema 1](01-evolucion-historica-sistema-educativo-paradigmas.md).
 
@@ -230,6 +231,7 @@ Estos debates se conectan con la evolución histórica y los paradigmas analizad
 ### Material relacionado del repositorio
 - [Programa de la asignatura](../programa.md)
 - [Tema 1 — Evolución histórica y paradigmas](01-evolucion-historica-sistema-educativo-paradigmas.md)
+- [**Desafíos del contexto docente y aplicación LOMLOE (2025–2026)**](../materiales/desafios-contexto-docente-lomloe-2026.md)
 - [Temarios Matemáticas Aragón](../../diseno-curricular-e-instruccional-de-matematicas/materiales/temarios-matematicas-aragon/)
 - [Asignaturas ESO/Bachillerato de Matemáticas](../../diseno-curricular-e-instruccional-de-matematicas/materiales/asignaturas-eso-bachillerato/)
 - [Elementos del currículo LOMLOE](../../diseno-curricular-e-instruccional-de-matematicas/apuntes/03-elementos-curriculo-lomloe.md)
