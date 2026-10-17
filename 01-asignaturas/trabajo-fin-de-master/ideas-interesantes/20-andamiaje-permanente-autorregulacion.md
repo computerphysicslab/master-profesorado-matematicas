@@ -4,7 +4,7 @@
 
 Estudiar si un **andamiaje educativo excesivo, permanente y poco retirado** puede limitar el desarrollo de la **autorregulación**, la autonomía, la planificación y la perseverancia ante tareas cognitivamente exigentes en Educación Secundaria (con foco en Matemáticas).
 
-**No** se trata de demostrar que «antes era mejor» ni que «los jóvenes no tienen disciplina». El núcleo investigable es:
+**No** se trata de demostrar que «antés era mejor» ni que «los jóvenes no tienen disciplina». El núcleo investigable es:
 
 > ¿Puede el andamiaje educativo **permanente** dificultar el desarrollo de la autonomía, la paciencia (como autorregulación temporal), la planificación y la perseverancia necesarias para el aprendizaje autorregulado?
 
@@ -134,8 +134,11 @@ Guía intensa cuando hace falta → práctica → reducción progresiva → auto
 | **Guía para novatos** (Kirschner et al., 2006) | Evita el extremo «mínima guía desde el día 1» |
 | **Autodeterminación** (Ryan & Deci, 2020) | Autonomía ≠ «hacer lo que me apetece»; agencia de la conducta |
 | **Helicopter parenting** (literatura reciente) | Analogía: ayudar ≠ sustituir la agencia (familia → aula) |
+| **Abstracción y self-distancing** (Trope & Liberman; Kross & Ayduk; Moran & Eyal, 2022) | Representaciones de alto nivel y distancia psicológica favorecen la regulación emocional y la anticipación de consecuencias; el fading puede incluir el paso de guías concretas a representaciones abstractas auto-dirigidas (véase [idea 21](21-elkonin-davydov-abstracto-concreto.md)) |
 
 La autorregulación **se puede entrenar** (metaanálisis de intervenciones en infancia/adolescencia): no es solo un «rasgo que traen de casa».
+
+**Puente con abstracción:** el fading no es solo retirar pistas paso a paso; puede ser el paso de representaciones concretas/guiadas a representaciones abstractas que el alumno sostiene con su propia habla interna (Vygotsky) y con auto-distanciamiento ante la dificultad. Meta-análisis de distancia psicológica: g = 0,52 sobre atenuación emocional (Moran & Eyal, 2022).
 
 ---
 
@@ -144,7 +147,7 @@ La autorregulación **se puede entrenar** (metaanálisis de intervenciones en in
 ```text
               DISEÑO EDUCATIVO
                      │
-        ┌────────────┴────────────┐
+        ┌────────────┬────────────┐
         ▼                         ▼
  Andamiaje adaptativo      Andamiaje permanente
    + fading                        │
@@ -154,7 +157,7 @@ La autorregulación **se puede entrenar** (metaanálisis de intervenciones en in
         ▼                          ▼
     AUTONOMÍA              Menos oportunidades
         │                  de autorregulación
-        └────────────┬─────────────┘
+        └───────────┬────────────┘
                      ▼
               AUTORREGULACIÓN
          (planificación · persistencia · autocontrol)
@@ -173,6 +176,7 @@ Segunda dimensión: **dificultad manejable** (*desirable difficulty*: esfuerzo +
 - Proyectos de modelización de varias semanas con hitos, no con microtareas diarias que eliminan la planificación.
 - Comparar «tarea fragmentada en 7 pasos» vs. «objetivo + recursos + fading».
 - Medir: tiempo de persistencia en el problema, número de peticiones de pista, calidad de la planificación previa, transferencia a problemas nuevos.
+- *(Opcional)* Incluir en el fading el paso a representaciones abstractas auto-dirigidas («¿qué dice el modelo?») como forma de self-distancing ante el bloqueo.
 
 Conecta con la línea del repo sobre **actividad cognitiva exigente**, rigor sin autoritarismo, y costes de la hiperregulación educativa (ideas 03, 04, 05).
 
@@ -193,6 +197,8 @@ Conecta con la línea del repo sobre **actividad cognitiva exigente**, rigor sin
 | Idea **04** (punto óptimo / intensificación) | Sobreandamiaje como forma de intensificación con rendimientos decrecientes |
 | Idea **05** (esfuerzo cognitivo) | Dificultad deseable y pensamiento profundo |
 | Idea **03** (burocratización) | Hiperregulación del sistema y del aula |
+| Idea **21** (Elkonin-Davydov abstracto→concreto) | Fading hacia representaciones abstractas; self-distancing y reevaluación |
+| Idea **17** (mates y salud mental) | Autorregulación emocional situacional ante el error |
 | Psicología (funciones ejecutivas, ZDP, feedback) | Marco de materiales del máster |
 | Atlas | Hueco: *fading* × autorregulación × mates ESO (no solo «andamiaje genérico») |
 
@@ -226,6 +232,8 @@ Kapur, M. (2008). Productive failure. *Cognition and Instruction, 26*(3), 379–
 Kirschner, P. A., Sweller, J., & Clark, R. E. (2006). Why minimal guidance during instruction does not work: An analysis of the failure of constructivist, discovery, problem-based, experiential, and inquiry-based teaching. *Educational Psychologist, 41*(2), 75–86. https://doi.org/10.1207/s15326985ep4102_1
 
 Mischel, W., Shoda, Y., & Rodriguez, M. I. (1989). Delay of gratification in children. *Science, 244*(4907), 933–938. https://doi.org/10.1126/science.244.4907.933
+
+Moran, T., & Eyal, T. (2022). Emotion regulation by psychological distance and level of abstraction: Two meta-analyses. *Personality and Social Psychology Review*.
 
 Robson, D. A., Allen, M. S., & Howard, S. J. (2020). Self-regulation in childhood as a predictor of future outcomes: A meta-analytic review. *Psychological Bulletin, 146*(4), 324–354. https://doi.org/10.1037/bul0000227
 
