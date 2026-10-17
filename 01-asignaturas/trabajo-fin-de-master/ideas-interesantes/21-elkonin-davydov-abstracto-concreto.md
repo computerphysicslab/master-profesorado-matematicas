@@ -51,17 +51,51 @@ Expresiones recomendadas (evitar el coloquialismo «infantilización»):
 - **primarización metodológica de la educación secundaria**  
 - reducción de la exigencia epistemológica del currículo  
 
-### 2.3. Matiz respecto a la LOMLOE y al enfoque competencial
+### 2.3. Lectura crítica de la LOMLOE: dos justificaciones de la abstracción
 
-Sería arriesgado afirmar que «la LOMLOE convierte la secundaria en una repetición de la primaria»: el currículo sigue incluyendo álgebra, funciones, probabilidad, demostraciones, física, química, filosofía, etc.
+Sería arriesgado afirmar que «la LOMLOE convierte la secundaria en una repetición de la primaria»: el currículo sigue incluyendo álgebra, funciones, probabilidad, demostraciones, física, química, filosofía, etc. La tensión teórica real no es *LOMLOE vs abstracción*, sino **dos justificaciones distintas del conocimiento abstracto**.
 
-La tesis defendible es más académica:
+#### 2.3.1. Lo que la normativa dice (textos explícitos)
 
-> Determinadas **interpretaciones pedagógicas** asociadas a la LOMLOE enfatizan de manera muy intensa la contextualización, la utilidad inmediata del conocimiento, las situaciones de aprendizaje y el trabajo competencial. Cuando estos elementos pasan de ser **medios didácticos** a convertirse en **fines en sí mismos**, existe el riesgo de relegar la enseñanza explícita de los marcos conceptuales abstractos que caracterizan el saber disciplinar.
+Existen pasajes de la LOMLOE y de su desarrollo (en particular el Real Decreto 217/2022 y los documentos oficiales sobre situaciones de aprendizaje y Perfil de salida) que privilegian un enfoque competencial, contextualizado y orientado a la aplicación práctica:
 
-La cuestión no es si el conocimiento debe ser útil, sino si la utilidad inmediata debe constituir el criterio principal para seleccionar y organizar los contenidos escolares. Desde la perspectiva del pensamiento teórico (Davydov), la escuela no debe limitarse a reproducir problemas de la vida cotidiana, sino proporcionar herramientas intelectuales que permitan comprender realidades que trascienden la experiencia cotidiana.
+| Énfasis normativo | Texto / idea clave | Fuente orientativa |
+|-------------------|--------------------|--------------------|
+| **Competencias por encima de saberes disciplinares** | «La ley, manteniendo el enfoque competencial … hace hincapié en el hecho de que esta formación integral necesariamente debe centrarse en el desarrollo de las competencias.» | Preámbulo RD 217/2022 |
+| **Alumnado como constructor desde sus experiencias** | Propuestas pedagógicas que, partiendo de los centros de interés del alumnado, «les permitan construir el conocimiento con autonomía, iniciativa y creatividad desde sus propios aprendizajes y experiencias». | Educagob / situaciones de aprendizaje |
+| **Contextualización como requisito** | «Para que la adquisición de las competencias sea efectiva, dichas situaciones deben estar bien contextualizadas y ser respetuosas con las experiencias del alumnado.» | Educagob |
+| **Conexión con la vida real** | «Con estas situaciones se busca ofrecer al alumnado la oportunidad de conectar y aplicar lo aprendido en contextos de la vida real.» | Educagob |
+| **Resolver problemas como finalidad** | Situaciones de aprendizaje como herramienta «mediante tareas y actividades significativas y relevantes para resolver problemas de manera creativa y cooperativa». | Educagob |
+| **Perfil de salida orientado a lo vital** | Adquisición «indispensable para su desarrollo personal, para resolver situaciones y problemas de los distintos ámbitos de su vida»; herramientas para «un proyecto de vida personal, social y profesional satisfactorio». | Perfil de salida |
 
-Esta crítica conecta con la formulada por **Michael Young** y **Johan Muller** respecto al énfasis contemporáneo en las competencias: la escuela corre el riesgo de sustituir el acceso al *powerful knowledge* (conocimiento poderoso) por actividades contextualizadas que son más accesibles, pero intelectualmente menos transformadoras.
+El lenguaje normativo está fuertemente orientado a la **funcionalidad**, la adaptación y la resolución de problemas prácticos.
+
+#### 2.3.2. La tensión teórica (no la acusación)
+
+| Justificación | Núcleo | Consecuencia para el diseño |
+|---------------|--------|-----------------------------|
+| **LOMLOE (lectura pragmática dominante)** | Abstracción **al servicio de la acción**: competencias útiles para afrontar situaciones de la vida real y resolver problemas contextualizados | La contextualización y la utilidad inmediata tienden a convertirse en criterios generales de diseño |
+| **Davydov / Vygotsky / neurocognición (lectura desarrollista)** | Abstracción como **instrumento de desarrollo psicológico superior**: amplía la capacidad de anticipar consecuencias, generar modelos mentales hipotéticos y construir habla interna y autorregulación | El valor de las matemáticas (y de la ciencia o la filosofía) no depende exclusivamente de su aplicación práctica inmediata |
+
+Formulación académica de la tensión:
+
+> Mientras que la LOMLOE justifica las competencias por su utilidad para afrontar situaciones de la vida real y resolver problemas contextualizados, la tradición de Davydov y Vygotsky permite defender una justificación distinta del conocimiento abstracto. La abstracción no constituye solamente una herramienta para actuar sobre la realidad inmediata, sino un mecanismo fundamental de desarrollo cognitivo que amplía la capacidad de anticipar consecuencias futuras, generar modelos mentales hipotéticos y construir formas avanzadas de habla interna y autorregulación. Desde esta perspectiva, el valor de las matemáticas, la ciencia o la filosofía no depende exclusivamente de su aplicación práctica, sino también de su contribución al desarrollo de funciones psicológicas superiores.
+
+Esta formulación es más sólida que acusar a la norma de «infantilizar» la secundaria: muestra que la norma adopta una **justificación pragmática** del conocimiento, mientras que Davydov, Vygotsky y el enfoque neurocognitivo defienden una **justificación desarrollista y emancipadora** de la abstracción. Ahí reside una tensión teórica real y defendible en un TFM.
+
+#### 2.3.3. Preguntas críticas derivadas de los textos
+
+1. ¿Puede la exigencia sistemática de contextualización limitar el acceso a formas de pensamiento que precisamente se caracterizan por **trascender el contexto inmediato**?
+2. Cuando los conceptos científicos se presentan como emergiendo de «los propios aprendizajes y experiencias» del alumnado, ¿se infraestima el papel de la **introducción explícita** de conceptos que no surgen espontáneamente de la experiencia cotidiana (Vygotsky, Davydov)?
+3. Si la resolución de problemas y la conexión con la vida real se convierten en la finalidad central, ¿qué lugar queda para la construcción de **sistemas conceptuales abstractos** cuyo valor principal es modelizar y anticipar estructuras no directamente observables?
+4. ¿La utilidad inmediata debe constituir el **criterio principal** para seleccionar y organizar los contenidos escolares, o un criterio entre otros?
+
+#### 2.3.4. Conexión con *powerful knowledge*
+
+Esta crítica conecta con la formulada por **Michael Young** y **Johan Muller**: la escuela corre el riesgo de sustituir el acceso al *powerful knowledge* (conocimiento poderoso, que permite pensar lo que no está en la experiencia inmediata) por actividades contextualizadas más accesibles, pero intelectualmente menos transformadoras.
+
+**Resumen del matiz metodológico para el TFM:**  
+Criticar **interpretaciones** que convierten la contextualización y la utilidad inmediata en fines en sí mismos; no el texto legal en bloque ni la utilidad del conocimiento. El diseño experimental (H1–H4) opera a escala de secuencia de aula; el marco H0 y esta sección orientan la discusión teórica.
 
 ### 2.4. Abstracción, auto-distanciamiento y regulación emocional (marco convergente)
 
@@ -108,7 +142,7 @@ Más que presentar la abstracción como una mera capacidad académica, se defien
 
 ## 4. Hipótesis
 
-**H0 (marco discursivo, no experimental):** Algunas interpretaciones pedagógicas que priorizan de forma predominante la contextualización permanente y la utilidad inmediata pueden infrautilizar la ventana evolutiva de la adolescencia para el desarrollo del pensamiento teórico, la anticipación de consecuencias y la autorregulación cognitiva (*primarización metodológica*).
+**H0 (marco discursivo, no experimental):** Algunas interpretaciones pedagógicas que priorizan de forma predominante la contextualización permanente y la utilidad inmediata pueden infrautilizar la ventana evolutiva de la adolescencia para el desarrollo del pensamiento teórico, la anticipación de consecuencias y la autorregulación cognitiva (*primarización metodológica*). La tensión de fondo es entre una justificación *pragmática* de la abstracción (al servicio de la acción en contextos de vida real) y una justificación *desarrollista-emancipadora* (instrumento de funciones psicológicas superiores).
 
 **H1.** Los alumnos de la condición abstracto-primero mostrarán mayor capacidad de generalización y de uso flexible de modelos que los de la condición concreto-primero.
 
@@ -185,7 +219,7 @@ La abstracción no es solamente una competencia académica. Permite:
 - Dificultad de aislar el «orden» de otros factores (calidad del docente, tiempo real de práctica).
 - En AICLE: no convertir el TFM en estudio solo de lengua.
 - Si se incluye H4: no medicalizar ni prometer efectos clínicos; mantener el foco en el aprendizaje matemático y en la regulación *situacional* de aula.
-- **No polarizar:** evitar afirmar que «la LOMLOE infantiliza»; criticar interpretaciones que convierten medios en fines, no el texto legal ni la utilidad del conocimiento.
+- **No polarizar:** evitar afirmar que «la LOMLOE infantiliza»; criticar la justificación *pragmática dominante* de la abstracción y las interpretaciones que convierten medios en fines, no el texto legal en bloque ni la utilidad del conocimiento.
 
 ---
 
@@ -197,6 +231,11 @@ La abstracción no es solamente una competencia académica. Permite:
 - Blanton, M. et al. (2019). Early algebra cluster RCT (referencia de diseño y de estructuras tempranas).
 - Willingham, D. T. *Why Don't Students Like School?* (conocimiento como condición del pensamiento).
 - Bruner, J. — representaciones enactiva → icónica → simbólica.
+
+### Normativa y documentos oficiales (para la lectura crítica)
+- Ley Orgánica 3/2020 (LOMLOE).
+- Real Decreto 217/2022, de 29 de marzo (ordenación y enseñanzas mínimas de la ESO), preámbulo y articulado competencial.
+- Documentos Educagob sobre situaciones de aprendizaje y Perfil de salida.
 
 ### Conocimiento poderoso y crítica al competencialismo
 - Young, M. & Muller, J. — *powerful knowledge*; knowledge and the future school.
@@ -221,13 +260,14 @@ La abstracción no es solamente una competencia académica. Permite:
 
 - Conecta teoría dialéctica (Davydov), psicología del desarrollo (Piaget, Vygotsky), ciencia cognitiva, regulación emocional y práctica de aula de Secundaria.
 - Desplaza el debate «contenidos vs competencias» hacia una cuestión más profunda: ¿la escuela debe adaptarse al pensamiento concreto del alumno o ayudarle deliberadamente a trascenderlo?
+- Explicitar la tensión **justificación pragmática** (LOMLOE: abstracción al servicio de la acción) vs **justificación desarrollista-emancipadora** (Davydov/Vygotsky/neurocognición: abstracción como instrumento de funciones psicológicas superiores).
 - Poco saturado frente a «secuencia con GeoGebra» o «ABP de funciones».
 - Aprovecha la doble especialidad Matemáticas e Inglés (opción AICLE realista).
-- Alcance acotado y viable en el Prácticum (H1–H4); el marco H0 orienta la discusión sin pretender medirse en 8–12 sesiones.
+- Alcance acotado y viable en el Prácticum (H1–H4); el marco H0 y la lectura crítica de la norma orientan la discusión sin pretender medirse en 8–12 sesiones.
 - Parte de un marco ya explorado y de una laguna empírica clara en contexto español.
 - Doble salida (cognitiva + socioemocional exploratoria) sin medicalizar ni polarizar sobre la LOMLOE.
 
-**Estado:** propuesta elaborada a partir de investigación acumulativa previa + marco de abstracción como emancipación intelectual y ventana evolutiva; lista para matizar con el director/a del TFM.
+**Estado:** propuesta elaborada a partir de investigación acumulativa previa + marco de abstracción como emancipación intelectual, ventana evolutiva y tensión pragmática/desarrollista respecto a la LOMLOE; lista para matizar con el director/a del TFM.
 
 ---
 
@@ -235,10 +275,10 @@ La abstracción no es solamente una competencia académica. Permite:
 
 | Dimensión | Puntuación (0–3) | Comentario |
 |-----------|:----------------:|------------|
-| E1. Evidencia previa | 3 | Davydov + CLT/expertise-reversal + Blanton et al. 2019 + meta-análisis Moran & Eyal (g=0,52) + Young/Muller + investigación acumulativa del repo |
-| E2. Calidad de fuentes | 3 | Pares, meta-análisis, RCT; límites explicitados (abstracción constructiva vs rumiativa; matiz LOMLOE) |
-| E3. Novedad / hueco | 3 | Orden abstracto→concreto en ESO/Bachillerato español poco explorado; primarización metodológica + puente socioemocional + *powerful knowledge* añaden hueco |
-| E4. Hipótesis contrastables | 3 | H1–H4 contrastables; H0 como marco discursivo; variables, diseño mínimo y riesgos definidos |
+| E1. Evidencia previa | 3 | Davydov + CLT/expertise-reversal + Blanton et al. 2019 + meta-análisis Moran & Eyal (g=0,52) + Young/Muller + textos LOMLOE/RD 217/2022 + investigación acumulativa del repo |
+| E2. Calidad de fuentes | 3 | Pares, meta-análisis, RCT, normativa primaria; límites explicitados (abstracción constructiva vs rumiativa; matiz LOMLOE) |
+| E3. Novedad / hueco | 3 | Orden abstracto→concreto en ESO/Bachillerato español poco explorado; primarización metodológica + tensión pragmática/desarrollista + puente socioemocional + *powerful knowledge* añaden hueco |
+| E4. Hipótesis contrastables | 3 | H1–H4 contrastables; H0 como marco discursivo con base textual en la norma; variables, diseño mínimo y riesgos definidos |
 | E5. Viabilidad TFM | 2 | Muy viable en Prácticum; −1 por la dificultad de aislar el factor «orden» de otros |
 | **Total** | **14 / 15** | **Banda: Prioritaria TFM** |
 
