@@ -90,7 +90,7 @@ Emoción o estado ante una meta bloqueada. En el aprendizaje es frecuente e inev
 Procesos de control cognitivo (inhibición, flexibilidad, memoria de trabajo, planificación) esenciales en la resolución de problemas multi-paso y en la autorregulación del estudio.
 
 ### Inteligencia emocional / competencia emocional
-Capacidad de percibir, comprender, usar y regular emociones (**modelo de habilidad** de Salovey y Mayer; prueba de referencia: **MSCEIT**). En educación se operativiza como **competencias emocionales** (p. ej. Bisquerra: conciencia, regulación, autonomía, social y para la vida). No convierte al docente en terapeuta. El incremento de varianza explicada suele ser modestо (aprox. 10–20 %) tras controlar inteligencia general y personalidad.
+Capacidad de percibir, comprender, usar y regular emociones (**modelo de habilidad** de Salovey y Mayer; prueba de referencia: **MSCEIT**). En educación se operativiza como **competencias emocionales** (p. ej. Bisquerra: conciencia, regulación, autonomía, social y para la vida). No convierte al docente en terapeuta. El incremento de varianza explicada suele ser modesto (aprox. 10–20 %) tras controlar inteligencia general y personalidad.
 
 ### Mediación
 Intervención del adulto o del par más experto que facilita el aprendizaje (explicación, pregunta, material, estructura cooperativa). Concepto afín al andamiaje y a la ZDP.
