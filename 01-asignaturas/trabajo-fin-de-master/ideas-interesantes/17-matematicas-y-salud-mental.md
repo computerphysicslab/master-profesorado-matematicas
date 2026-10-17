@@ -21,8 +21,8 @@ Esta idea es **más amplia** que la [idea 10](10-ansiedad-matematica-transmitida
 |-------|--------|-----------|
 | **Ansiedad matemática** | Respuesta emocional/cognitiva ante tareas o evaluación de mates | Diagnóstico clínico de trastorno de ansiedad |
 | **Estrés académico** | Presión por notas, tiempo, comparación | Cualquier malestar adolescente |
-| **Bienestar en el aula** | Seguridad psicológica para errar y preguntar | “Clase sin exigencia” |
-| **Salud mental (clínica)** | Competencia de servicios sanitarios / orientación | Algo que el profesor de mates “trata” en solitario |
+| **Bienestar en el aula** | Seguridad psicológica para errar y preguntar | «Clase sin exigencia» |
+| **Salud mental (clínica)** | Competencia de servicios sanitarios / orientación | Algo que el profesor de mates «trata» en solitario |
 | **Rol docente** | Observar, ajustar metodología, escuchar, **derivar** | Psicoterapia o intervención clínica |
 
 El TFM debe dejar explícito el **protocolo de derivación** del centro y, si se aborda riesgo grave, remitir a materiales y canales institucionales (nunca improvisar).
@@ -35,7 +35,7 @@ Material de apoyo en el repo: [suicidio juvenil, RRSS y rol docente](../../../03
 
 ### 3.1. Ansiedad matemática y rendimiento
 
-La literatura asocia ansiedad matemática con evitación, menor memoria de trabajo disponible en situación de evaluación y trayectorias de abandono de itinerarios STEM. No es “falta de carácter”: interactúa con experiencias previas, mensajes del entorno y diseño de las tareas.
+La literatura asocia ansiedad matemática con evitación, menor memoria de trabajo disponible en situación de evaluación y trayectorias de abandono de itinerarios STEM. No es «falta de carácter»: interactúa con experiencias previas, mensajes del entorno y diseño de las tareas.
 
 ### 3.2. Autoeficacia y mentalidad
 
@@ -53,15 +53,30 @@ Reducir la exigencia **no** es el único camino al bienestar. Un exceso de fluid
 
 Exámenes acumulativos sin feedback, ranking público o vergüenza en la pizarra elevan la amenaza social. Prácticas compatibles con LOMLOE: evaluación formativa, recuperaciones con sentido, variedad de evidencias, sin eliminar la responsabilidad de aprender.
 
-### 3.5. Cruce con el Atlas
+### 3.5. Abstracción como herramienta de regulación emocional (puente con idea 21)
+
+La capacidad de representar un evento de forma abstracta y distanciada se asocia, en la literatura de regulación emocional, con menor reactividad y mayor uso de reevaluación cognitiva:
+
+- **Moran y Eyal (2022)** — meta-análisis: adoptar una perspectiva psicológicamente distante atenúa la experiencia emocional (**g = 0,52**).
+- **Gross**: la reevaluación (cambiar el significado del estímulo *antes* de que la emoción se consolide) es una estrategia antecedente adaptativa; se asocia negativamente con síntomas de ansiedad y depresión (Aldao et al., 2010: r ≈ −0,17).
+- **Kross y Ayduk**: el *self-distancing* («dar un paso atrás») reduce afecto negativo y rumiación cuando se combina con pensamiento abstracto.
+
+**Implicación para el aula de Matemáticas:** entrenar al alumnado a pasar del «me he equivocado → soy malo en mates» (concreto, auto-inmerso) a «¿qué dice el modelo / la estructura? ¿qué estrategia probar a continuación?» (abstracto, auto-distanciado) es una práctica docente realista que no sustituye a la orientación ni a la terapia.
+
+**Matiz:** la abstracción puede ser maladaptativa (pensamiento sobregeneralizado en depresión). Debe ser *constructiva* (orientada a significado y a la siguiente acción), no rumiativa.
+
+Desarrollo completo del marco y de su conexión con el orden abstracto→concreto: [Idea 21 — Elkonin-Davydov](21-elkonin-davydov-abstracto-concreto.md).
+
+### 3.6. Cruce con el Atlas
 
 | Zona | Lectura |
 |------|--------|
 | Motivación genérica | Saturada |
 | Ansiedad como eje principal | Poco frecuente en TFMs de mates |
 | Socioafectivo × matemáticas medido con rigor | Hueco |
+| Abstracción × regulación emocional en aula de mates | Hueco emergente (puente 17–21) |
 
-**Nicho:** no otro taller de “mates divertidas”, sino **medición y prácticas** en la intersección aprendizaje matemático–bienestar, con límites éticos claros del rol docente.
+**Nicho:** no otro taller de «mates divertidas», sino **medición y prácticas** en la intersección aprendizaje matemático–bienestar, con límites éticos claros del rol docente.
 
 ---
 
@@ -87,6 +102,10 @@ Exámenes acumulativos sin feedback, ranking público o vergüenza en la pizarra
 
 > Incorporar un módulo familiar (ansiedad transmitida) si el centro y la ética lo permiten.
 
+### Variante F — Abstracción y auto-distanciamiento (puente con idea 21)
+
+> ¿Entrenar el paso a representaciones abstractas / auto-distanciadas en el momento del error reduce la reactividad emocional situacional sin bajar la exigencia de justificación matemática?
+
 ---
 
 ## 5. Hipótesis de trabajo
@@ -95,9 +114,11 @@ Exámenes acumulativos sin feedback, ranking público o vergüenza en la pizarra
 
 **H2.** Un clima de error no punitivo + feedback orientado al proceso se asocia con menor ansiedad situacional sin bajar la exigencia de justificación matemática.
 
-**H3.** La fragmentación de tareas (andamiaje) reduce bloqueos en alumnos ansiosos sin convertir el curso en “solo lo fácil”.
+**H3.** La fragmentación de tareas (andamiaje) reduce bloqueos en alumnos ansiosos sin convertir el curso en «solo lo fácil».
 
 **H4.** El profesorado se siente poco formado en detección y derivación; un protocolo claro del centro mejora la percepción de eficacia profesional (variable secundaria).
+
+**H5.** (Exploratoria, puente 21) Prácticas que promueven el auto-distanciamiento y la reevaluación abstracta ante el error se asocian con menor reactividad emocional situacional.
 
 ---
 
@@ -106,7 +127,7 @@ Exámenes acumulativos sin feedback, ranking público o vergüenza en la pizarra
 ### Opción 1 — Diagnóstico + mejora breve (Prácticum)
 
 1. Pre: escala breve de ansiedad matemática (AMAS o adaptación) + ítems de clima de aula + prueba corta de la unidad.
-2. Intervención 3–5 sesiones: normas explícitas sobre el error, evaluación formativa, tareas escalonadas, sin eliminar problemas de varios pasos.
+2. Intervención 3–5 sesiones: normas explícitas sobre el error, evaluación formativa, tareas escalonadas, sin eliminar problemas de varios pasos. *(Opcional: microprácticas de auto-distanciamiento / «¿qué dice el modelo?».)*
 3. Post: mismas medidas.
 4. Diario del docente-investigador (incidencias emocionales y respuestas).
 
@@ -123,7 +144,7 @@ Cuestionario/entrevistas a profesores de mates del centro sobre percepción de a
 - Consentimiento informado (menores + familias según protocolo del centro).
 - Anonimización; no usar datos para calificar.
 - Si aparece malestar grave o ideación: **derivación inmediata** a tutoría/orientación según protocolo; el TFM no investiga el caso clínico.
-- No administrar “terapia”; solo medidas educativas y de clima.
+- No administrar «terapia»; solo medidas educativas y de clima.
 
 ---
 
@@ -138,6 +159,7 @@ Cuestionario/entrevistas a profesores de mates del centro sobre percepción de a
 | Participación | Voluntarios, peticiones de ayuda |
 | Rendimiento | Prueba de unidad / rúbrica de justificación |
 | Prácticas docentes | Lista de cotejo (feedback, andamiaje, exposición pública) |
+| (Opcional) Auto-distanciamiento / reevaluación | Ítems situacionales adaptados al error en mates |
 | (Opcional) Sueño/RRSS | Solo si el centro ya trabaja el tema; no medicalizar |
 
 ---
@@ -145,7 +167,7 @@ Cuestionario/entrevistas a profesores de mates del centro sobre percepción de a
 ## 8. Posibles títulos
 
 - **Matemáticas y salud mental en ESO: ansiedad, clima de aula y prácticas docentes**
-- **Errar sin humillación: bienestar emocional y rigor matemático en Secundaria**
+- **Errar sin humiliación: bienestar emocional y rigor matemático en Secundaria**
 - **Ansiedad matemática y aprendizaje: del diagnóstico de aula a la intervención breve bajo LOMLOE**
 - **El rol del profesor de Matemáticas ante el malestar emocional: límites, prácticas y derivación**
 
@@ -153,11 +175,12 @@ Cuestionario/entrevistas a profesores de mates del centro sobre percepción de a
 
 ## 9. Riesgos y limitaciones
 
-- Medicalizar el bajo rendimiento o “diagnosticar” desde el TFM.
+- Medicalizar el bajo rendimiento o «diagnosticar» desde el TFM.
 - Prometer reducción clínica de ansiedad con pocas sesiones.
 - Estigmatizar a alumnos identificados como ansiosos.
 - Solapar en exceso con la idea 10 sin aportar el ángulo **aula/prácticas/rol docente**.
 - Tocar suicidio o autolesión sin protocolo: **prohibido improvisar**; solo derivación y material institucional.
+- Confundir abstracción constructiva (auto-distanciamiento útil) con abstracción rumiativa.
 - Muestra pequeña; resultados exploratorios.
 
 ---
@@ -169,9 +192,13 @@ Cuestionario/entrevistas a profesores de mates del centro sobre percepción de a
 - Bandura — autoeficacia.
 - Dweck — creencias sobre la capacidad (lectura crítica).
 - Lazarus — appraisal y emoción.
+- Gross, J. J. — regulación emocional; reevaluación (ERQ).
+- Moran, T. & Eyal, T. (2022). Emotion regulation by psychological distance and level of abstraction (meta-análisis, g = 0,52).
+- Kross, E. & Ayduk, O. — self-distancing.
+- Aldao et al. (2010) — estrategias de regulación y psicopatología.
 - Wiliam — evaluación formativa y feedback.
 - Documentación de convivencia / orientación del centro y protocolos autonómicos de salud mental en el ámbito educativo.
-- Material del repo: idea 10; [guía práctica de acción docente](../../../03-materiales/psicologia/guia-practica-accion-docente.md); suicidio juvenil y rol docente (solo derivación).
+- Material del repo: idea 10; [idea 21](21-elkonin-davydov-abstracto-concreto.md); [guía práctica de acción docente](../../../03-materiales/psicologia/guia-practica-accion-docente.md); suicidio juvenil y rol docente (solo derivación).
 
 ---
 
@@ -180,10 +207,12 @@ Cuestionario/entrevistas a profesores de mates del centro sobre percepción de a
 | Recurso | Relación |
 |---------|----------|
 | [Idea 10 — Ansiedad transmitida](10-ansiedad-matematica-transmitida.md) | Complementaria (familia/entorno); 17 = aula + rol docente + bienestar más amplio |
+| [Idea 21 — Elkonin-Davydov abstracto→concreto](21-elkonin-davydov-abstracto-concreto.md) | Mecanismo: abstracción constructiva → auto-distanciamiento → reevaluación |
+| [Idea 20 — Andamiaje y autorregulación](20-andamiaje-permanente-autorregulacion.md) | Autonomía cognitiva y fading |
 | [Idea 05 — Esfuerzo cognitivo](05-esfuerzo-cognitivo-y-pensamiento-critico.md) | Bienestar ≠ eliminar dificultad productiva |
 | [Idea 06 — Ilusión de competencia](06-ilusion-competencia-tutoriales-cortos.md) | Ansiedad diferida tras fluidez falsa |
 | [Idea 16 — Margen LOMLOE](16-margen-accion-docente-lomloe-libertad-catedra.md) | Prácticas posibles dentro de la norma; clima y evaluación |
-| Autores | Bandura, Dweck, Lazarus, Rogers, Frankl |
+| Autores | Bandura, Dweck, Lazarus, Gross, Kross, Rogers, Frankl |
 | Psicología (materiales) | Acción docente; protocolos de derivación |
 
 **Nicho en una frase:** investigar cómo el aula de Matemáticas puede ser **exigente y psicológicamente segura**, midiendo ansiedad/bienestar y prácticas docentes, con límites éticos claros.
@@ -192,11 +221,11 @@ Cuestionario/entrevistas a profesores de mates del centro sobre percepción de a
 
 ## 12. Estado y siguientes pasos
 
-**Estado:** idea expandida; viable en Prácticum con protocolo ético.
+**Estado:** idea expandida; viable en Prácticum con protocolo ético; puente teórico con abstracción/autorregulación (idea 21).
 
 1. Elegir escala breve de ansiedad matemática en español.
 2. Acordar con tutoría/orientación del centro el circuito de derivación.
-3. Diseñar intervención de 3–5 sesiones (o solo diagnóstico).
+3. Diseñar intervención de 3–5 sesiones (o solo diagnóstico); valorar microprácticas de auto-distanciamiento.
 4. Consentimientos y anonimización.
 5. Separar en la memoria: hallazgos educativos vs. lo que compete a salud.
 
