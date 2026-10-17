@@ -90,7 +90,7 @@ Emoción o estado ante una meta bloqueada. En el aprendizaje es frecuente e inev
 Procesos de control cognitivo (inhibición, flexibilidad, memoria de trabajo, planificación) esenciales en la resolución de problemas multi-paso y en la autorregulación del estudio.
 
 ### Inteligencia emocional / competencia emocional
-Capacidad de percibir, comprender, usar y regular emociones (**modelo de habilidad** de Salovey y Mayer; prueba de referencia: **MSCEIT**). En educación se operativiza como **competencias emocionales** (p. ej. Bisquerra: conciencia, regulación, autonomía, social y para la vida). No convierte al docente en terapeuta. El incremento de varianza explicada suele ser modesto (aprox. 10–20 %) tras controlar inteligencia general y personalidad.
+Capacidad de percibir, comprender, usar y regular emociones (**modelo de habilidad** de Salovey y Mayer; prueba de referencia: **MSCEIT**). En educación se operativiza como **competencias emocionales** (p. ej. Bisquerra: conciencia, regulación, autonomía, social y para la vida). No convierte al docente en terapeuta. El incremento de varianza explicada suele ser modestо (aprox. 10–20 %) tras controlar inteligencia general y personalidad.
 
 ### Mediación
 Intervención del adulto o del par más experto que facilita el aprendizaje (explicación, pregunta, material, estructura cooperativa). Concepto afín al andamiaje y a la ZDP.
@@ -190,6 +190,7 @@ Distancia entre lo que el alumno puede hacer **solo** y lo que puede hacer **con
 - [Glosario Psicología del desarrollo y de la educación](../01-asignaturas/psicologia-del-desarrollo-y-de-la-educacion/glosario.md)
 - [Glosario Educación emocional en el profesorado](../01-asignaturas/optativas/educacion-emocional-en-el-profesorado/glosario.md)
 - [Glosario Diseño curricular e instruccional de Matemáticas](../01-asignaturas/diseno-curricular-e-instruccional-de-matematicas/glosario.md)
+- [Glosario Sociedad, familia y procesos grupales](../01-asignaturas/sociedad-familia-y-procesos-grupales/glosario.md)
 
 Para profundizar un término, consultar el glosario de la asignatura correspondiente y los apuntes/materiales enlazados allí.
 
