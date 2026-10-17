@@ -1,7 +1,8 @@
+
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 1560" width="100%" height="100%" style="background-color: #fcfbf7; font-family: &#39;Cambria&#39;, &#39;Georgia&#39;, &#39;Times New Roman&#39;, serif;">
 
   <defs>
-    <!-- Card & Banner Gradients -->
+    <!-- Gradientes -->
     <linearGradient id="header-grad" x1="0%" y1="0%" x2="0%" y2="100%">
       <stop offset="0%" stop-color="#fff8dc" />
       <stop offset="100%" stop-color="#ffebad" />
@@ -37,7 +38,7 @@
       <stop offset="100%" stop-color="#ffffff" />
     </linearGradient>
 
-    <!-- Marker Arrowheads -->
+    <!-- Marcadores de Flechas -->
     <marker id="arrow" viewBox="0 0 10 10" refX="7" refY="5" markerWidth="6" markerHeight="6" orient="auto-start-reverse">
       <path d="M 0 1 L 10 5 L 0 9 z" fill="#111" />
     </marker>
@@ -45,18 +46,15 @@
       <path d="M 0 1 L 10 5 L 0 9 z" fill="#cc0000" />
     </marker>
 
-    <!-- Shared Styles -->
+    <!-- Estilos -->
     <style>
       .card { fill: #ffffff; stroke: #d0d0d0; stroke-width: 1.5; rx: 12; ry: 12; filter: drop-shadow(0px 2px 4px rgba(0,0,0,0.03)); }
       .formula-box { fill: url(#formula-box-grad); stroke: #eed382; stroke-width: 1.5; rx: 8; ry: 8; }
-      
       .title-text { font-family: 'Cambria', 'Georgia', serif; font-weight: bold; fill: #002288; }
       .badge-text { font-family: 'Arial', 'Helvetica', sans-serif; font-weight: bold; fill: #ffffff; font-size: 20px; text-anchor: middle; dominant-baseline: central; }
       .header-label { font-family: 'Arial', 'Helvetica', sans-serif; font-weight: bold; font-size: 21px; }
-      
       .body-text { font-family: 'Georgia', 'Times New Roman', serif; font-size: 15.5px; fill: #222222; }
       .math-formula { font-family: 'Cambria Math', 'Times New Roman', serif; font-style: italic; text-anchor: middle; dominant-baseline: middle; }
-      
       .axis { stroke: #222; stroke-width: 1.5; marker-end: url(#arrow); }
       .graph-curve { fill: none; stroke-width: 2.5; stroke-linecap: round; }
     </style>
@@ -175,7 +173,7 @@
       <tspan x="20" dy="22">de <tspan font-style="italic">x</tspan>.</tspan>
     </text>
 
-    <!-- Circulo Unitario -->
+    <!-- Círculo Unitario -->
     <g transform="translate(340, 60)">
       <line x1="10" y1="80" x2="170" y2="80" class="axis" />
       <line x1="90" y1="150" x2="90" y2="10" class="axis" />
@@ -402,7 +400,7 @@
 
     <rect class="formula-box" x="15" y="70" width="270" height="85" />
     <text x="150" y="115" class="math-formula" font-size="32" fill="#000">
-      ln(<tspan font-style="italic">e</tspan><tspan font-size="20" dy="-12">x</tspan><tspan font-size="32" dy="12">)<tspan font-style="italic">x</tspan>
+      ln(<tspan font-style="italic">e</tspan><tspan font-size="20" dy="-12">x</tspan><tspan font-size="32" dy="12">) = </tspan><tspan font-style="italic">x</tspan>
     </text>
 
     <text x="20" y="180" class="body-text">
@@ -545,3 +543,4 @@
   </g>
 
 </svg>
+
