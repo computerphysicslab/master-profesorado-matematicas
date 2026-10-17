@@ -20,7 +20,7 @@ nav_order: 32
 
 **Palabras clave:** número *e*, límite, serie, función exponencial, logaritmo natural, interés compuesto continuo, decaimiento, transferencia, Elkonin-Davydov
 
-![The 10 Faces of e — infografía de las representaciones de la constante e](https://raw.githubusercontent.com/computerphysicslab/master-profesorado-matematicas/main/04-pbl-abp/situaciones-aprendizaje/media/10-faces-of-e.svg)
+![The 10 Faces of e — infografía de las representaciones de la constante e](https://raw.githubusercontent.com/computerphysicslab/master-profesorado-matematicas/main/04-pbl-abp/situaciones-aprendizaje/media/10-caras-de-e.svg)
 
 ---
 
