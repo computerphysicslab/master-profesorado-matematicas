@@ -3,10 +3,13 @@
 **Asignatura:** Procesos y contextos educativos  
 **Programa:** [tema 6](../programa.md)
 
-> Pregunta guía: **¿qué, quién, cuándo y cómo evaluar?** La evaluación no es solo “poner nota”: orienta el aprendizaje, certifica logros y permite mejorar la enseñanza (Coll, 2010; marco LOMLOE criterial).
+> Pregunta guía: **¿qué, quién, cuándo y cómo evaluar?** La evaluación no es solo «poner nota»: orienta el aprendizaje, certifica logros y permite mejorar la enseñanza (Coll, 2010; marco LOMLOE criterial).
 
 **Ficha específica de Matemáticas (LOMLOE):**  
 → [Evaluación competencial en Matemáticas](../materiales/evaluacion-competencial-matematicas-lomloe.md) — cadena de alineación, qué es/no es, ejemplo, instrumentos y calificación.
+
+**Carga de trabajo y contexto docente:**  
+→ [Desafíos del contexto docente y aplicación LOMLOE (2025–2026)](../materiales/desafios-contexto-docente-lomloe-2026.md) — evaluación formativa, situaciones de aprendizaje y tensión con horas lectivas/ratios.
 
 ---
 
@@ -24,7 +27,7 @@ Evaluar **solo** el producto final del alumno deja ciega la mejora profesional.
 
 ## 2. ¿Qué evaluar?
 
-En LOMLOE el referente son los **criterios de evaluación** ligados a **competencias específicas**, no el “tema 5 del libro”.
+En LOMLOE el referente son los **criterios de evaluación** ligados a **competencias específicas**, no el «tema 5 del libro».
 
 | Enfoque | Qué mira |
 |---------|----------|
@@ -41,7 +44,7 @@ En LOMLOE el referente son los **criterios de evaluación** ligados a **competen
 | Agente | Papel |
 |--------|------|
 | **Docente** | Diseño de instrumentos, juicio profesional, calificación |
-| **Alumnado (autoevaluación)** | Metacognición; “qué estrategia usé / qué falló” |
+| **Alumnado (autoevaluación)** | Metacognición; «qué estrategia usé / qué falló» |
 | **Coevaluación** | Revisión entre iguales con pauta clara |
 | **Equipo docente / departamento** | Acuerdos de criterio, sesiones de evaluación |
 | **Familias** | Información y corresponsabilidad; no sustituyen el juicio técnico |
@@ -60,7 +63,9 @@ La coevaluación y la autoevaluación **forman parte del aprendizaje** si hay r�
 | **Sumativa / de cierre** | Certificar el grado de logro en un periodo |
 | **Final de etapa / externa** | Titulación, acceso, sistemas de indicadores |
 
-Error frecuente: acumular solo pruebas sumativas y llamar “continua” al promedio de exámenes.
+Error frecuente: acumular solo pruebas sumativas y llamar «continua» al promedio de exámenes.
+
+La evaluación formativa y el diseño de situaciones de aprendizaje exigen un volumen de preparación y seguimiento superior al modelo tradicional; esa carga solo es sostenible con ratios y horas lectivas realistas. Véase [Desafíos del contexto docente…](../materiales/desafios-contexto-docente-lomloe-2026.md).
 
 ---
 
@@ -86,7 +91,7 @@ Detalle: [instrumentos de evaluación](../materiales/instrumentos-evaluacion.md)
 
 - La calificación traduce juicios sobre criterios a una escala (según centro y normativa).  
 - Debe ser **trazable**: el alumnado ha de poder entender por qué esa nota.  
-- La promoción y titulación siguen reglas legales y de centro; el docente aporta información, no “favor”.  
+- La promoción y titulación siguen reglas legales y de centro; el docente aporta información, no «favor».  
 - Privacidad: no exponer notas ni comparaciones públicas humillantes.
 
 ### 6.1. Acuerdos de departamento (mínimo viable)
@@ -98,11 +103,11 @@ Detalle: [instrumentos de evaluación](../materiales/instrumentos-evaluacion.md)
 | Qué se considera evidencia de un criterio | Coherencia al corregir |
 | Comunicación a familias | Mensaje único y comprensible |
 
-Sin acuerdos, la “evaluación competencial” se fragmenta en prácticas incompatibles entre aulas.
+Sin acuerdos, la «evaluación competencial» se fragmenta en prácticas incompatibles entre aulas.
 
 ### 6.2. Evaluación externa y cultura de centro
 
-Las pruebas de diagnóstico, la EvAU/EBAU u otras externas **no sustituyen** la evaluación continua, pero condicionan qué se prioriza en 2.º de Bachillerato y, a veces, en 4.º de ESO. El reto es no reducir todo el curso a “entrenar el formato del examen” olvidando criterios de comunicación, modelización o socioafectivos del currículo.
+Las pruebas de diagnóstico, la EvAU/EBAU u otras externas **no sustituyen** la evaluación continua, pero condicionan qué se prioriza en 2.º de Bachillerato y, a veces, en 4.º de ESO. El reto es no reducir todo el curso a «entrenar el formato del examen» olvidando criterios de comunicación, modelización o socioafectivos del currículo.
 
 ---
 
@@ -124,7 +129,7 @@ Si solo se puntúa el número final, **no** se está evaluando ese criterio.
 
 1. Diferencia evaluación formativa y sumativa con un ejemplo.  
 2. ¿Quién debe participar en la evaluación además del profesor? ¿Para qué?  
-3. Diseña dos instrumentos distintos para el mismo criterio de “comunicar un razonamiento”.  
+3. Diseña dos instrumentos distintos para el mismo criterio de «comunicar un razonamiento».  
 4. ¿Por qué promediar exámenes no garantiza evaluación continua competencial?
 
 ---
@@ -132,6 +137,7 @@ Si solo se puntúa el número final, **no** se está evaluando ese criterio.
 ## Material relacionado
 
 - [**Evaluación competencial en Matemáticas (LOMLOE)**](../materiales/evaluacion-competencial-matematicas-lomloe.md)  
+- [**Desafíos del contexto docente y aplicación LOMLOE (2025–2026)**](../materiales/desafios-contexto-docente-lomloe-2026.md)  
 - [Tema 5 — Metodología](05-metodologia-recursos-educacion-secundaria.md)  
 - [DUA](../materiales/dua-diseno-universal-aprendizaje.md)  
 - [Instrumentos de evaluación](../materiales/instrumentos-evaluacion.md)  
