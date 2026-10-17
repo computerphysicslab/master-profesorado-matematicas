@@ -65,15 +65,19 @@ La **LODE** consagró la participación (consejos escolares, etc.). En la práct
 
 - la participación puede ser **formal** (votaciones, actas) o **real** (debate pedagógico, corresponsabilidad);
 - hay **tensión** habitual entre autonomía docente, acuerdos de departamento e instrucciones de dirección;
-- las familias y el alumnado no son “clientes”: son parte de la comunidad educativa (con límites legales claros sobre evaluación y privacidad).
+- las familias y el alumnado no son «clientes»: son parte de la comunidad educativa (con límites legales claros sobre evaluación y privacidad).
 
-**Imbernón (2010)** insiste en la profesionalidad docente **colegiada**: mejorar la enseñanza es también aprender a trabajar con otros, no solo “cerrar la puerta del aula”.
+**Imbernón (2010)** insiste en la profesionalidad docente **colegiada**: mejorar la enseñanza es también aprender a trabajar con otros, no solo «cerrar la puerta del aula».
 
 ### 4.1. Comunicación cotidiana con familias
 
 Además de la participación institucional (Consejo Escolar), el día a día del docente de Matemáticas incluye **tutoría de materia**, mensajes por el canal oficial y entrevistas. Criterios prácticos (canales, tono, evidencias, plantillas, límites de rol):
 
 **[Comunicación con familias (foco Matemáticas)](../../sociedad-familia-y-procesos-grupales/materiales/comunicacion-con-familias-matematicas.md)**
+
+### 4.2. Debates autonómicos que llegan al centro
+
+Algunas controversias autonómicas (oferta de Religión como opción voluntaria, información previa a familias sobre actividades con personal externo —el antiguo «pin parental» en Murcia y su evolución) afectan a la organización de actividades complementarias y a la relación con las familias. Marco y estado actual: [Desafíos del contexto docente y aplicación LOMLOE (2025–2026)](../materiales/desafios-contexto-docente-lomloe-2026.md) (sección 4).
 
 ---
 
@@ -123,7 +127,7 @@ La programación anual y de unidad se detalla en Diseño curricular: [programaci
 
 1. Diferencia Consejo Escolar y Claustro.  
 2. ¿Qué documentos mirarías en la primera semana de un practicum?  
-3. Pon un ejemplo de “participación formal” vs. “participación real” en un departamento de Matemáticas.  
+3. Pon un ejemplo de «participación formal» vs. «participación real» en un departamento de Matemáticas.  
 4. ¿Cómo puede el plan de convivencia influir en una sesión de resolución de problemas en grupo?  
 5. ¿Qué canal usarías para avisar de una falta de trabajo reiterada en Matemáticas y qué no incluirías en el mensaje?
 
@@ -133,6 +137,7 @@ La programación anual y de unidad se detalla en Diseño curricular: [programaci
 
 - [Programa](../programa.md)  
 - [**Comunicación con familias (Matemáticas)**](../../sociedad-familia-y-procesos-grupales/materiales/comunicacion-con-familias-matematicas.md)  
+- [**Desafíos del contexto docente y aplicación LOMLOE (2025–2026)**](../materiales/desafios-contexto-docente-lomloe-2026.md)  
 - [**Guía de observación de practicum por temas**](../materiales/guia-observacion-practicum-por-temas.md)  
 - [Tema 4 — Inclusión](04-atencion-diversidad-perspectiva-inclusiva.md)  
 - [Órganos y documentos de centro](../materiales/organos-y-documentos-de-centro.md)  
