@@ -169,6 +169,7 @@ Más que presentar la abstracción como una mera capacidad académica, se defien
   - Observaciones de aula (y de uso de L2 si procede).
   - **(Opcional H4)** Escala breve de ansiedad matemática situacional o ítems de reactividad ante el error; ítems de reevaluación / auto-distanciamiento adaptados al contexto de aula (no instrumentos clínicos).
 - **Opcional:** implementación parcial o total en sección bilingüe.
+- **Ejemplo de secuencia abstracto→concreto (Bachillerato):** situación de aprendizaje [Las diez caras de *e*](../../diseno-curricular-e-instruccional-de-matematicas/materiales/situacion-aprendizaje-diez-caras-de-e.md) con infografía [SVG](../../diseno-curricular-e-instruccional-de-matematicas/materiales/10-faces-of-e.svg) — modelo (límite/serie/derivada) primero; especialización en interés continuo y decaimiento; transferencia lejana.
 
 **Ética (si se miden variables socioemocionales):** consentimiento informado; anonimización; no usar datos para calificar; derivación inmediata a tutoría/orientación si aparece malestar grave; el TFM no investiga ni trata casos clínicos.
 
@@ -254,6 +255,8 @@ La abstracción no es solamente una competencia académica. Permite:
 
 **Puentes en el repo:** [Idea 17 — Matemáticas y salud mental](17-matematicas-y-salud-mental.md) · [Idea 20 — Andamiaje y autorregulación](20-andamiaje-permanente-autorregulacion.md).
 
+**Ejemplo de material de aula (abstracto→concreto):** [Situación de aprendizaje — Las diez caras de *e*](../../diseno-curricular-e-instruccional-de-matematicas/materiales/situacion-aprendizaje-diez-caras-de-e.md) · [Infografía SVG](../../diseno-curricular-e-instruccional-de-matematicas/materiales/10-faces-of-e.svg).
+
 ---
 
 ## 10. Encaje
@@ -266,6 +269,7 @@ La abstracción no es solamente una competencia académica. Permite:
 - Alcance acotado y viable en el Prácticum (H1–H4); el marco H0 y la lectura crítica de la norma orientan la discusión sin pretender medirse en 8–12 sesiones.
 - Parte de un marco ya explorado y de una laguna empírica clara en contexto español.
 - Doble salida (cognitiva + socioemocional exploratoria) sin medicalizar ni polarizar sobre la LOMLOE.
+- **Material de aula listo:** [SA Las diez caras de *e*](../../diseno-curricular-e-instruccional-de-matematicas/materiales/situacion-aprendizaje-diez-caras-de-e.md) como ejemplo de condición abstracto-primero en Bachillerato.
 
 **Estado:** propuesta elaborada a partir de investigación acumulativa previa + marco de abstracción como emancipación intelectual, ventana evolutiva y tensión pragmática/desarrollista respecto a la LOMLOE; lista para matizar con el director/a del TFM.
 
