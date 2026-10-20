@@ -89,3 +89,11 @@ Detalle TDAH: [neurodivergencia §3.1](neurodivergencia-aula-matematicas.md). An
 - [ ] ¿La ruta C exige pensamiento, no solo volumen?  
 - [ ] ¿La gestión de aula evita estigmatizar quién usa cada ruta?  
 - [ ] ¿La calificación refleja el aprendizaje matemático, no el formato de apoyo?
+
+---
+
+## 9. Puente a investigación (TFM)
+
+La metáfora del «suelo bajo y techo alto» (una sola tarea abierta para todo el grupo) **no sustituye** el diseño multinivel: puede dejar sin dominios creíbles a quien parte con barreras y sin reto real a quien avanza más rápido.
+
+→ Idea TFM **[25 · Suelo bajo / techo alto: límites de la tarea única](../../trabajo-fin-de-master/ideas-interesantes/25-suelo-bajo-techo-alto-limites-tarea-unica.md)** (Bandura–Schunk, Kalyuga, Gersten, Steenbergen-Hu; compatible con DUA/LOMLOE).
