@@ -47,31 +47,23 @@ El objetivo no es solo «conocer la normativa», sino **tomar decisiones didáct
 LGE → LOGSE → LOE → LOMCE → LOMLOE
 ```
 
-Cómo cambia la concepción de la enseñanza: de la matemática moderna y los algoritmos al enfoque **competencial** (sentidos, situaciones de aprendizaje, DUA).
+Cómo cambia la concepción de la enseñanza: de la matemática como conjunto de contenidos a la competencia matemática y a las situaciones de aprendizaje.
 
 **Material:** [02-evolucion-curricular-y-normativa.md](apuntes/02-evolucion-curricular-y-normativa.md)
 
 ---
 
-## Bloque 3 · Elementos del currículo oficial LOMLOE de Matemáticas
+## Bloque 3 · Currículo LOMLOE de Matemáticas
 
-- Perfil de salida, competencias específicas, criterios, saberes, sentidos.
-- Situaciones de aprendizaje; preceptivo vs margen docente.
-- Referentes: Piaget, Brousseau, Freudenthal, Niss, NCTM, CEMAT.
-- Cadena: competencia → criterio → saberes → tareas → evaluación.
-- Marco normativo de Aragón actualizado a septiembre de 2026.
+Competencias específicas, criterios de evaluación, saberes básicos, orientaciones metodológicas y socioafectivas. Concreción autonómica.
 
-**Material:** [03-elementos-curriculo-lomloe.md](apuntes/03-elementos-curriculo-lomloe.md) · [Mapa competencias–criterios](materiales/curriculo-lomloe/)
+**Material:** [03-elementos-curriculo-lomloe.md](apuntes/03-elementos-curriculo-lomloe.md)
 
 ---
 
 ## Bloque 4 · Del diseño curricular a la programación didáctica
 
-```text
-Currículo oficial → programación didáctica → unidades → actividades → evaluación
-```
-
-Secuenciación anual argumentada para ESO o Bachillerato. Análisis didáctico curricular (contenido → cognitivo → instrucción → actuación).
+Programación anual, unidades didácticas, evaluación criterial, situaciones de aprendizaje.
 
 **Material:** [04-programacion-didactica.md](apuntes/04-programacion-didactica.md)
 
@@ -79,7 +71,7 @@ Secuenciación anual argumentada para ESO o Bachillerato. Análisis didáctico c
 
 ## Bloque 5 · Fundamentos epistemológicos y fenomenológicos
 
-Naturaleza de los objetos matemáticos; fenómenos que dan sentido; enseñar un contenido concreto.
+Qué es un objeto matemático escolar; fenomenología didáctica; anclaje en situaciones.
 
 **Material:** [05-fundamentos-epistemologicos-fenomenologicos.md](apuntes/05-fundamentos-epistemologicos-fenomenologicos.md)
 
@@ -87,28 +79,23 @@ Naturaleza de los objetos matemáticos; fenómenos que dan sentido; enseñar un 
 
 ## Bloque 6 · Transposición didáctica
 
-```text
-Saber sabio → saber a enseñar → saber enseñado → saber aprendido
-```
-
-Conceptos clave: noosfera, vigilancia epistemológica, contrato didáctico.  
-Fuente principal: Chevallard (y desarrollos con Bosch & Gascón).
+Del saber sabio al saber a enseñar y al saber enseñado (Chevallard). Vigilancia epistemológica. Relación con el análisis didáctico (Bosch & Gascón).
 
 **Material:** [06-transposicion-didactica.md](apuntes/06-transposicion-didactica.md)
 
 ---
 
-## Bloque 7 · Dificultades y obstáculos
+## Bloque 7 · Dificultades y obstáculos de aprendizaje
 
-Errores, obstáculos epistemológicos, representaciones, efectos de ciertas formas de enseñar. Contrato didáctico y modelos intuitivos.
+Errores, obstáculos epistemológicos y didácticos, gestión del error.
 
 **Material:** [07-dificultades-y-obstaculos.md](apuntes/07-dificultades-y-obstaculos.md)
 
 ---
 
-## Bloque 8 · Resolución de problemas como punto de partida
+## Bloque 8 · Resolución de problemas y aceptación de la tarea
 
-ABP, tareas, investigación matemática, trabajo colaborativo. Contrato didáctico en la resolución de problemas.
+Problema vs ejercicio; demanda cognitiva (Smith y Stein); enfoques Gaulin (para / sobre / a través); modelos y heurísticas (Pólya); aceptación de la tarea; enseñanza a través de la RP y Thinking Classrooms (Liljedahl); planteamiento de problemas; modelización (PISA, Blum-Leiss); gestión de aula y evaluación del proceso.
 
 **Material:** [08-resolucion-de-problemas.md](apuntes/08-resolucion-de-problemas.md)
 
