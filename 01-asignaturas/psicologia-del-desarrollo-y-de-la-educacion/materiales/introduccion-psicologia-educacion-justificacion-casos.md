@@ -84,6 +84,10 @@ Dos dimensiones clásicas:
 1. **Control / exigencia** (normas, expectativas, límites).
 2. **Apoyo / afecto** (soporte, andamiaje, disponibilidad emocional).
 
+![Estilos educativos según control y apoyo](estilos-educativos-control-apoyo.svg)
+
+*Figura. Cuadrante de estilos educativos (Baumrind; Maccoby & Martin). Eje vertical: control/exigencia; eje horizontal: apoyo/afecto. El estilo **democrático / autoritativo** (alto control + alto apoyo) se asocia a mejores resultados de ajuste y aprendizaje.*
+
 | Estilo | Control | Apoyo | Rasgos |
 |--------|---------|-------|--------|
 | **Autoritario** | Alto | Bajo | Normas rígidas, obediencia, poco diálogo; poco calor emocional |
