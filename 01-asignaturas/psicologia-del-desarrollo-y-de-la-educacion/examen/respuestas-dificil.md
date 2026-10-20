@@ -1,6 +1,6 @@
 # Respuestas — Examen difícil · Psicología del desarrollo y de la educación
 
-**Esquemas de corrección** (no textos modelo únicos).
+Respuestas **orientativas**. No agotan el tema.
 
 **Examen:** [examen-dificil.md](examen-dificil.md)
 
@@ -32,7 +32,9 @@
 
 ## Bloque D (obligatorio)
 
-**D1.** Observar y **derivar** por protocolo de centro; no terapia ni secreto absoluto si hay riesgo; clima de mates (error no ridiculizado, pertenencia, feedback de proceso) como factor protector; recurso 024 / unidades según protocolo — sin detallar métodos.
+**D1.** Observar y **derivar** por protocolo de centro; no terapia ni secreto absoluto si hay riesgo; clima de mates (error no ridiculizado, pertenencia, feedback de proceso) como factor protector; recurso 024 / derivadas según protocolo — sin detallar métodos.
+
+**D2.** Análisis: EN = pizarra; EI = risas; RI = humillación; EC = pizarra / evaluación pública; RC = ansiedad/evitación; **generalización** a “cualquier exposición en mates”. Plan: (a) normas de respeto ante el error + no alargar el foco en la gracia; (b) moldeado (abrir cuaderno → datos → primer paso) con refuerzo del proceso; (c) práctica de baja presión y feedback de estrategia. Límite ético: no humillar, no usar la nota como castigo, no improvisar terapia; si el malestar es grave o persistente, coordinar con tutor/orientación.
 
 ---
 
