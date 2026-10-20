@@ -26,6 +26,8 @@ Respuestas **orientativas**. No agotan el tema.
 
 **10.** La ansiedad ocupa memoria de trabajo; hace falta clima de error, gradación de tarea y feedback de proceso, no solo más horas de estudio.
 
+**11.** EI: ridículo/risas; RI: vergüenza/humillación; EN inicial: salir a la pizarra → tras emparejamientos, EC: pizarra (o clase de mates); RC: ansiedad/evitación. Intervención: práctica de baja presión, no alimentar el ridículo, feedback de proceso, moldeado del inicio; **no** forzar exposición pública reiterada ni humillar.
+
 ---
 
-*Si no cuadra, vuelve a Temas 2–5 y materiales (ansiedad, ABC, carga, ZDP, mindset).*
+*Si no cuadra, vuelve a Temas 2–5 y materiales (ansiedad, ABC, condicionamiento clásico, carga, ZDP, mindset).*
