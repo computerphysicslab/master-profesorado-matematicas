@@ -50,7 +50,7 @@ Las ideas se incorporan cuando aparece una combinación interesante de:
 | [22](22-practica-recuperacion-espaciado-algebra.md) | Recuperación espaciada y álgebra | expandida | **12** | Sólida | Evidencia consolidada sobre recuperación y espaciado; existe una tesis directamente relacionada; el diferencial debe centrarse en feedback, transferencia o errores |
 | [23](23-paradoja-justicia-evaluativa-disrupcion.md) | Paradoja justicia evaluativa y disrupción | expandida | **11** | Sólida | Anclaje TALIS + referentes sociocríticos; rechaza hipótesis conspirativas y nota-como-castigo; pregunta clara de justicia distributiva |
 | [24](24-roles-funcionales-comparacion-social-complex-instruction.md) | Roles funcionales / Complex Instruction / comparación social | expandida | **12** | Sólida | Anclaje Festinger–Marsh–Bandura + Cohen/Lotan; intersección poco saturada (tarea abierta × estatus × autoconcepto); viabilidad de aula buena si se acota ética e instrumentos |
-| [25](25-suelo-bajo-techo-alto-limites-tarea-unica.md) | Suelo bajo / techo alto: límites de la tarea única | expandida | **12** | Sólida | Bandura–Schunk, Kalyuga, Gersten, Steenbergen-Hu; crítica al SBTA como dispositivo único; puente a multinivel y DUA |
+| [25](25-suelo-bajo-techo-alto-limites-tarea-unica.md) | Suelo bajo / techo alto: límites de la tarea única | expandida + [protocolo](25-protocolo-practicum.md) | **12** | Sólida | Bandura–Schunk, Kalyuga, Gersten, Steenbergen-Hu; crítica al SBTA como dispositivo único; puente a multinivel y DUA |
 
 ### Leyenda rápida de solidez
 
