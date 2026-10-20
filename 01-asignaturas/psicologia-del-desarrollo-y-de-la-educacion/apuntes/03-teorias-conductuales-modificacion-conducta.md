@@ -16,6 +16,7 @@
 
 | Paso | Recurso | Para qué |
 |------|---------|----------|
+| **0** | [Introducción a la Psicología de la Educación](../materiales/introduccion-psicologia-educacion-justificacion-casos.md) | Justificación, casos Genie/Víctor, antecedentes, estilos educativos |
 | **1** | Este apunte | Marco conductual, ABC, ética, usos en mates |
 | **2** | [Registro ABC](../materiales/registro-abc-conducta.md) | Plantilla y ejemplo de aula |
 | **3** | [Convivencia y mediación (Procesos)](../../procesos-y-contextos-educativos/materiales/guia-convivencia-mediacion.md) | Protocolos cuando desborda el aula |
@@ -53,25 +54,79 @@ El conductismo clásico y el análisis de la conducta se centran en **conductas 
 
 ### 2.1. Idea central
 
-Un **estímulo neutro**, emparejado repetidamente con un estímulo que ya provoca una respuesta, acaba provocando por sí solo una respuesta similar (respuesta condicionada).
+Un **estímulo inicialmente neutro**, emparejado de forma repetida con un estímulo que ya produce una respuesta de forma natural, acaba provocando por sí solo una respuesta similar (**respuesta condicionada**).
 
-### 2.2. Lectura escolar (Matemáticas)
+Es aprendizaje por **asociación entre estímulos** (no por consecuencias de la conducta). El organismo no «elige»; se forma un vínculo entre señales del entorno y respuestas (a menudo emocionales o fisiológicas).
 
-| Estímulo | Asociación frecuente | Respuesta condicionada posible |
-|----------|----------------------|--------------------------------|
-| “Examen de mates” / reloj del aula | Experiencias previas de amenaza, ridículo o fracaso | Ansiedad, bloqueo, evitación |
-| Ser llamado a la pizarra | Comentarios del grupo o del docente | Taquicardia, negativa a salir |
-| Ciertas palabras (“demuestra”, “sin calculadora”) | Historial de fallo público | Tensación anticipatoria |
+### 2.2. Experimento de Pavlov (esquema)
 
-No todo malestar ante un examen es “clásico condicionado”, pero el marco recuerda que **el clima y la historia de emparejamientos** importan. Bajar la amenaza (práctica de baja presión, feedback de proceso, no ridiculizar) es también intervenir sobre asociaciones aprendidas.
+| Fase | Elemento | Función |
+|------|----------|---------|
+| **Situación inicial** | Comida | Estímulo incondicionado (**EI**) |
+| | Salivación | Respuesta incondicionada (**RI**) |
+| | Campana | Estímulo neutro (**EN**) |
+| **Durante el aprendizaje** | Campana + comida → salivación | Asociación repetida |
+| **Después del aprendizaje** | Campana | Estímulo condicionado (**EC**) |
+| | Salivación ante la campana | Respuesta condicionada (**RC**) |
 
-→ [Ansiedad matemática](../materiales/ansiedad-matematica-aula.md)
+**Leyes clásicas:**
 
-### 2.3. Punto crítico de revisión
+| Ley | Qué ocurre | Ejemplo |
+|-----|------------|---------|
+| **Generalización** | La RC aparece también ante estímulos *parecidos* al EC | Miedo a un perro concreto se extiende a otros perros |
+| **Discriminación** (diferenciación) | Se aprende a responder solo al EC concreto y no a estímulos semejantes | Distinguir el perro que provocó el miedo de otros que no son amenaza |
+| **Extinción** | La RC disminuye o desaparece si el EC se presenta repetidamente *sin* el EI | Presentar el objeto temido sin consecuencias negativas (base de la exposición gradual) |
+
+La **extinción** no borra necesariamente la asociación de forma permanente: puede haber recuperación espontánea. En intervención clínica se usa exposición gradual y desensibilización sistemática; en el aula, la lógica análoga es reducir la amenaza real asociada al estímulo (práctica de baja presión, no ridiculizar, feedback de proceso).
+
+### 2.3. Watson y el Pequeño Albert (aprendizaje de fobias)
+
+John B. Watson demostró que **algunos miedos pueden adquirirse** por condicionamiento clásico:
+
+1. Se presenta un estímulo inicialmente neutro (p. ej. un animal).
+2. Se empareja con un estímulo aversivo intenso (ruido fuerte e inesperado).
+3. Tras varias asociaciones, el niño manifiesta miedo ante el estímulo antes neutro.
+
+**Conclusión para el aula:** las fobias y muchas respuestas emocionales intensas no son solo «temperamento»; pueden haberse aprendido por emparejamientos. La buena noticia es que, en principio, también pueden debilitarse (extinción / exposición controlada), aunque en contextos escolares el docente no hace terapia: actúa sobre el clima, la exposición pública y el diseño de la tarea.
+
+### 2.4. Ejemplos cotidianos de clase
+
+| Estímulo (potencial EC) | Asociación frecuente | RC posible |
+|-------------------------|----------------------|------------|
+| Perfume o tono de voz de un docente agradable | Experiencias de calma y apoyo | Relajación, disposición a participar |
+| Sonido de tacones / paso característico de un docente | Historial de broncas o evaluación pública | Tensión anticipatoria, silencio defensivo |
+| Levantamiento de la mano asociado a «salir a la pizarra y bronca» | Humillación o ridículo | Evitación de participar |
+| «Examen de mates» / reloj del aula | Fracaso, ridículo o amenaza | Ansiedad, bloqueo, evitación |
+| Ciertas palabras («demuestra», «sin calculadora») | Historial de fallo público | Tensión anticipatoria |
+
+### 2.5. Caso práctico de clase: Marta y la pizarra
+
+| Elemento | Contenido |
+|----------|-----------|
+| **EN** (inicialmente neutro) | Salir a la pizarra / clase de Matemáticas |
+| **EI** | Risas o comentarios del grupo (o respuesta dura del docente) |
+| **RI** | Vergüenza, humillación, reacción fisiológica |
+| **EC** (tras repeticiones) | Salir a la pizarra; incluso acudir al colegio o entrar en el aula de mates |
+| **RC** | Miedo, vergüenza, ansiedad, evitación |
+
+**Interpretación:** una experiencia negativa puede hacer que actividades académicas inicialmente neutras generen después emociones aversivas. La respuesta condicionada puede *generalizarse* (de «esta pizarra» a «cualquier exposición pública en mates»).
+
+**Implicación docente:** no se trata de eliminar toda dificultad, sino de **no alimentar** el emparejamiento amenaza–exposición. Práctica de baja presión, normas de respeto ante el error, feedback centrado en el proceso y moldeado del inicio de la tarea (ver §3 y §6) son intervenciones coherentes con este marco.
+
+→ [Ansiedad matemática](../materiales/ansiedad-matematica-aula.md) · [Gestión del error](../materiales/gestion-del-error-matematicas.md)
+
+### 2.6. Lectura escolar (síntesis Matemáticas)
+
+No todo malestar ante un examen o la pizarra es «clásico condicionado». Hay ansiedad de estado, carga cognitiva, historial de fracaso atribuido a capacidad fija, etc. El marco del condicionamiento clásico recuerda, sin embargo, que **el clima y la historia de emparejamientos** importan: bajar la amenaza real (práctica de baja presión, no ridiculizar, feedback de proceso) es también intervenir sobre asociaciones aprendidas.
+
+### 2.7. Puntos críticos de revisión
 
 | Error común | Corrección |
 |-------------|------------|
-| Pensar que solo el “castigo” explica el miedo al examen | La ansiedad puede ser respuesta condicionada a estímulos de evaluación, no solo a una sanción concreta |
+| Pensar que solo el «castigo» explica el miedo al examen | La ansiedad puede ser respuesta condicionada a *estímulos de evaluación*, no solo a una sanción concreta |
+| Creer que «ya se le pasará» sin cambiar el emparejamiento | Si el EC sigue asociado a amenaza, la RC tiende a mantenerse; la extinción requiere presentación del EC *sin* el EI aversivo |
+| Confundir condicionamiento clásico con operante | Clásico = asociación estímulo–estímulo / estímulo–respuesta emocional; operante = la *consecuencia* de la conducta modifica su probabilidad |
+| Usar la pizarra como amenaza reiterada | Refuerza el emparejamiento amenaza–exposición pública; preferir práctica privada o de baja presión al inicio |
 
 ---
 
@@ -322,8 +377,10 @@ Las diferencias individuales (Tema 2) advierten: la misma conducta visible puede
 
 ## Material relacionado
 
+- **[Introducción a la Psicología de la Educación](../materiales/introduccion-psicologia-educacion-justificacion-casos.md)** (justificación, casos Genie/Víctor, antecedentes, estilos educativos)  
 - **[Registro ABC de conducta](../materiales/registro-abc-conducta.md)**  
 - [Ansiedad matemática](../materiales/ansiedad-matematica-aula.md)  
+- [Gestión del error](../materiales/gestion-del-error-matematicas.md)  
 - [Funciones ejecutivas](../materiales/funciones-ejecutivas-matematicas.md)  
 - [ZDP y andamiaje](../materiales/zdp-andamiaje-matematicas.md)  
 - [Convivencia y mediación (Procesos)](../../procesos-y-contextos-educativos/materiales/guia-convivencia-mediacion.md)  
