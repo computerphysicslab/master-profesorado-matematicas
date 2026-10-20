@@ -46,6 +46,7 @@
 | 2 | Operante / refuerzo | b | Vygotsky |
 | 3 | Carga cognitiva | c | Dweck |
 | 4 | Mentalidad de crecimiento | d | Sweller (y tradición de PI) |
+| 5 | Condicionamiento clásico | e | Pávlov |
 
 ---
 
@@ -54,3 +55,7 @@
 **12.** Pon un ejemplo de **carga extrínseca** en un enunciado de problema.
 
 **13.** Reescribe en una frase de feedback de proceso: “Eres un crack en mates.”
+
+**14.** Define en una frase **respuesta condicionada** y pon un ejemplo escolar (pizarra o examen).
+
+**15.** **Verdadero o falso:** El estilo educativo *autoritario* es el mismo que el *autoritativo*. (Justifica en una línea.)
