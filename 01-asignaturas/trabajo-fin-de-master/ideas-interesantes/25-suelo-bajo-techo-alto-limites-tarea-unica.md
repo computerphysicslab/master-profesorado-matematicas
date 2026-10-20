@@ -10,6 +10,8 @@ La metáfora del **«suelo bajo y techo alto»** (SBTA / *Low Floor High Ceiling
 
 El problema no es la apertura de la tarea, sino confiar en **una sola actividad compartida** como dispositivo suficiente de inclusión y reto.
 
+**Protocolo de Prácticum:** [25-protocolo-practicum.md](25-protocolo-practicum.md)
+
 ---
 
 ## 2. Por qué importa en Matemáticas de Secundaria
@@ -88,6 +90,8 @@ Gersten et al. (2009): en matemáticas, los componentes más eficaces para alumn
 
 **Ética:** no etiquetar en público; rutas elegibles; evaluar el criterio, no el uso de la plantilla.
 
+Detalle operativo: [protocolo de Prácticum](25-protocolo-practicum.md).
+
 ---
 
 ## 8. Encaje con Atlas / otras ideas del repo
@@ -121,8 +125,8 @@ Gersten et al. (2009): en matemáticas, los componentes más eficaces para alumn
 - Evidencia *específica* sobre el constructo «LTHC» como paquete es escasa; el TFM se apoya en proxies sólidos (autoeficacia, CLT, DEA, altas capacidades).
 - Muestra de TFM limitada; preferible cuasi-experimental o estudio de diseño de tareas con datos de aula.
 
-**Estado:** idea expandida / candidata sólida–prioritaria.  
-**No es todavía:** título definitivo ni diseño cerrado.
+**Estado:** idea expandida + [protocolo de Prácticum](25-protocolo-practicum.md) / candidata sólida.  
+**No es todavía:** título definitivo ni diseño cerrado de TFM.
 
 ---
 
