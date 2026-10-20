@@ -65,3 +65,9 @@ Diferencia mentalidad fija y de crecimiento con un ejemplo de resolución de pro
 ## 10. Síntesis breve
 
 Explica en un párrafo por qué la ansiedad matemática no se resuelve solo “estudiando más” (memoria de trabajo + clima).
+
+---
+
+## 11. Condicionamiento clásico
+
+Aplica el esquema del **condicionamiento clásico** (EI, RI, EN → EC, RC) al caso de un alumno que, tras ser ridiculizado al salir a la pizarra, evita participar en clase de Matemáticas. Señala una intervención coherente con el marco (sin hacer terapia).
