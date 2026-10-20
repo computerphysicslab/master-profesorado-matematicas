@@ -1,112 +1,74 @@
 # Tema 9 — Emociones y salud del profesorado
 
-**Bloque C · Aplicación en secundaria y salud profesional**  
-Optativa: *Educación emocional en el profesorado*  
-Pregunta guía: *¿Cuándo dejo de «aguantar» y activo tutoría / orientación / jefatura?*
+**Bloque C · Aplicación y salud profesional**  
+Optativa: *Educación emocional en el profesorado*
 
 ---
 
-## 1. Por qué importa la salud del docente
+## 1. Por qué importa este tema
 
-El malestar crónico del profesor se traduce en menos paciencia, feedback más pobre, más control punitivo o más desconexión. Cuidar la salud profesional **no es egoísmo**: es condición de una enseñanza de calidad.
+La salud emocional del docente no es un asunto solo privado: condiciona el clima de aula, la calidad del feedback, la capacidad de sostener límites y la persistencia en la profesión. El burnout, el distrés crónico y el desequilibrio vida–trabajo son fenómenos documentados en la investigación educativa.
 
----
-
-## 2. Estrés, eustrés, distrés
-
-| Tipo | Descripción |
-|------|-------------|
-| **Eustrés** | Activación manejable ante un reto valorado |
-| **Distrés** | Demanda percibida como amenaza o sobrecarga dañina |
-| **Estrés laboral crónico** | Acumulación sin recuperación suficiente |
-
-Fuentes habituales en Secundaria: ratios, convivencia, burocracia, presión de resultados, conflictos con familias, aislamiento.
-
-> Marco completo (modelo transaccional, estresores del profesorado, afrontamiento, técnicas):  
-> **[Estrés: impacto y gestión emocional](estres-impacto-y-gestion-emocional.md)** · [ficha modelo transaccional](../materiales/01-modelo-transaccional-estres.md).
+Este tema conecta el modelo transaccional del estrés con indicadores de salud profesional y con recursos de regulación y de apoyo institucional.
 
 ---
 
-## 3. Burnout (síndrome de estar quemado)
+## 2. Burnout y componentes
 
-Tres componentes clásicos (Maslach):
+El burnout se describe clásicamente en tres dimensiones:
 
-1. **Agotamiento emocional** — “estoy vacío”.  
-2. **Despersonalización / cinismo** — distancia fría o irritada hacia el alumnado.  
-3. **Baja realización personal** — sensación de no servir o de no lograr nada.
+1. **Agotamiento emocional** — sensación de estar drenado.
+2. **Despersonalización / cinismo** — distanciamiento o actitud negativa hacia el alumnado o el trabajo.
+3. **Baja realización personal** — pérdida de sentido de eficacia y logro.
 
-No es “una semana mala”. Si se prolonga, hace falta **mirada organizacional** (apoyo de centro, carga, roles) y, si el malestar es intenso, **apoyo profesional sanitario** — no solo tips de resiliencia.
-
-**Fatiga por compasión / implicación excesiva:** desgaste por absorber el sufrimiento ajeno sin límites ni red.
+No es «cansancio de una semana»: implica un proceso prolongado ligado a estresores laborales crónicos (carga, falta de apoyo, baja autonomía, demandas emocionales).
 
 ---
 
-## 4. Factores de protección
+## 3. Estresores típicos del profesorado
 
-| Nivel | Ejemplos |
-|-------|----------|
-| **Individual** | Límites de horario de corrección; sueño; pedir ayuda; micro-pausas |
-| **Equipo** | Acuerdos de departamento; co-docencia; mentoría |
-| **Centro** | Plan de convivencia real; ratios y desdobles; reconocimiento |
-| **Institucional** | Formación útil; menos burocracia absurda |
+- Sobrecarga de trabajo y burocracia.
+- Gestión de la diversidad y de la conducta en el aula.
+- Relaciones con familias en contextos de conflicto.
+- Evaluación constante y baja valoración social percibida.
+- Desequilibrio entre vida profesional y personal.
+- Falta de recursos o de apoyo del equipo.
 
-La educación emocional del máster trabaja el nivel individual y de aula; **no sustituye** condiciones laborales dignas.
-
----
-
-## 5. Límites del rol docente
-
-| El docente puede | El docente no debe |
-|------------------|---------------------|
-| Observar, acompañar, aplicar protocolos | Diagnosticar trastornos |
-| Escuchar con respeto un malestar | Convertirse en terapeuta del alumno o de la familia |
-| Derivar a orientación / jefatura | Guardar en secreto un riesgo grave |
-| Cuidar su propio límite | “Aguantar todo” como prueba de vocación |
+El modelo transaccional recuerda que el impacto depende de la **evaluación** de demandas y recursos, no solo de la lista objetiva de estresores.
 
 ---
 
-## 6. ¿Cuándo activar tutoría, orientación o jefatura?
+## 4. Recursos de regulación y de apoyo
 
-**Activa el protocolo / deriva cuando:**
+### 4.1. Individuales (necesarios, no suficientes)
+- Conciencia de la propia activación (señales corporales y cognitivas).
+- Estrategias de afrontamiento centradas en el problema y en la emoción.
+- Diálogo interno flexible (modelo A-B-C).
+- Asertividad para proteger límites sin escalar.
+- Hábitos de recuperación (sueño, desconexión, apoyo social).
 
-- El conflicto o el malestar **desborda** el aula pese a normas y correcciones ordinarias.  
-- Hay indicios de **acoso**, violencia o riesgo para la integridad.  
-- Un alumno muestra sufrimiento intenso, aislamiento extremo o mensajes de desesperanza.  
-- La relación familia–docente se vuelve hostil y bloquea el trabajo.  
-- Tú mismo notas agotamiento que afecta al trato justo o a la seguridad del grupo.
+### 4.2. Organizativos e institucionales
+- Apoyo del equipo directivo y de los compañeros.
+- Claridad de roles y de protocolos.
+- Ratios y condiciones que permitan un trabajo sostenible.
+- Acceso a orientación y a servicios de salud laboral cuando proceda.
 
-**Primero (si no hay emergencia):** registrar hechos con neutralidad, aplicar el plan de centro, informar a tutor/jefatura según el organigrama. **En emergencia:** protección inmediata y aviso a quien corresponda en el centro.
-
----
-
-## 7. Micro-hábitos de autocuidado profesional
-
-1. Cerrar la corrección a una hora límite al menos 3 días/semana.  
-2. Una petición de ayuda concreta cada quincena (material, guardia, caso).  
-3. Separar “lo que controlé hoy” de “lo estructural”.  
-4. Tras una clase difícil: 5 minutos de hechos → emoción → próxima acción (no rumiar en bucle).
+La resiliencia individual **no sustituye** condiciones laborales dignas.
 
 ---
 
-## 8. Respuesta a la pregunta guía
+## 5. Señales de alarma y límites de rol
 
-> *¿Cuándo dejo de «aguantar» y activo tutoría / orientación / jefatura?*
+Ante agotamiento persistente, cinismo creciente o deterioro del trato al alumnado, el profesionalismo incluye pedir ayuda y activar recursos del centro. El docente no es su propio terapeuta.
 
-Cuando la situación supera las herramientas ordinarias de aula, cuando hay riesgo, o cuando tu propio estado impide un trato seguro y justo. Aguantar en silencio no es profesionalidad; **coordinar y derivar** sí lo es.
-
----
-
-## Referencias clave de este tema
-
-- **Hué García, C. (2008).** *Bienestar docente y pensamiento emocional*. Wolters Kluwer.
-- **Marchesi, A., & Díaz, T. (2007).** *Las emociones y los valores del profesorado*. Fundación Santa María.
-- **Extremera, N., & Fernández-Berrocal, P.** — línea de investigación IE percibida, burnout y clima emocional (ver *Inteligencia emocional y educación*, 2015).
-- **Darder Vidal, P. (coord.) et al.** *La formación emocional del profesorado* — [PDF abierto](../../../09-bibliografia/educacion-emocional/darder-formacion-emocional-profesorado.md).
-- **Izquierdo, A.** *Competencias socioemocionales para el bienestar del profesorado* — [ficha](../../../09-bibliografia/educacion-emocional/izquierdo-competencias-socioemocionales-profesorado.md).
-
-[Bibliografía completa](../bibliografia.md) · [Estrés y gestión emocional](estres-impacto-y-gestion-emocional.md).
+Con el alumnado, el mismo principio: observar, acompañar según protocolo y **derivar** cuando el malestar supere el ámbito educativo.
 
 ---
+
+## Materiales relacionados
+
+- [Asertividad y competencia social](../materiales/asertividad-y-competencia-social.md) — protege límites y reduce escaladas que alimentan el agotamiento emocional.
+- [Diálogo interno y modelo A-B-C](../materiales/dialogo-interno-modelo-abc.md) — herramienta de regulación del propio diálogo interno ante la sobrecarga y las demandas emocionales.
 
 ## Para seguir
 
@@ -114,3 +76,15 @@ Cuando la situación supera las herramientas ordinarias de aula, cuando hay ries
 - [Tema 10 — Casos aplicados](10-sintesis-casos-matematicas.md)  
 - [Tema 4 — Bienestar](04-psicologia-positiva-bienestar.md)  
 - [Glosario](../glosario.md): burnout, distrés, engagement  
+
+---
+
+## Referencias clave de este tema
+
+- Hué García, C. (2008). *Bienestar docente y pensamiento emocional*.
+- Marchesi, A., & Díaz, T. (2007). *Las emociones y los valores del profesorado*.
+- Extremera, N., & Fernández-Berrocal, P. — línea IE percibida, burnout y clima emocional.
+- Darder Vidal, P. (coord.) et al. *La formación emocional del profesorado*.
+- Izquierdo, A. *Competencias socioemocionales para el bienestar del profesorado*.
+
+[Bibliografía completa](../bibliografia.md) · [Estrés y gestión emocional](estres-impacto-y-gestion-emocional.md).
