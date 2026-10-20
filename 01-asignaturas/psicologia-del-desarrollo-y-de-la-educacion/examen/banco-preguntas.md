@@ -40,6 +40,14 @@ Preguntas orientativas a partir de los apuntes y materiales del repositorio.
 
 24. ¿Cuándo basta una intervención conductual de aula y cuándo hay que activar el **plan de convivencia** o derivar a tutoría/orientación?
 
+26. Explica el **condicionamiento clásico** con el esquema EI / RI / EN → EC / RC. Aplícalo al caso de un alumno que evita salir a la pizarra tras haber sido ridiculizado (caso tipo “Marta”).
+
+27. Diferencia **generalización**, **discriminación** y **extinción** en el condicionamiento clásico. Pon un ejemplo escolar de cada una (Matemáticas o clima de aula).
+
+28. **Verdadero o falso (justifica):** “Si un alumno tiene miedo a los exámenes de mates, basta con decirle que no se preocupe: el miedo no es una respuesta aprendida.”
+
+29. Relaciona el estilo educativo **autoritativo** (alto control + alto apoyo) con el clima de aula de Matemáticas. ¿Por qué no es lo mismo que el estilo autoritario?
+
 ---
 
 ## Tema 4 · Procesamiento de la información y teorías cognoscitivas
@@ -86,6 +94,8 @@ Preguntas orientativas a partir de los apuntes y materiales del repositorio.
 19. “La mayoría de los problemas de rendimiento en Matemáticas en la adolescencia se deben a falta de madurez cognitiva.” Argumenta a favor o en contra usando al menos tres conceptos del temario (p. ej. operaciones formales, atribuciones, carga cognitiva, ansiedad, ZDP).
 
 25. Explica el rol del docente ante señales de posible riesgo suicida: observación, derivación, límites (no terapia), y el valor del clima de aula de Matemáticas como factor protector.
+
+30. A partir de los casos de Genie y Víctor de Aveyron, argumenta por qué la educación y el contacto humano son esenciales para el desarrollo, y qué *no* permiten concluir esos casos individuales.
 
 ---
 
