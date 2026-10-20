@@ -10,7 +10,8 @@ Marco teórico y práctico sobre:
 - Inteligencia emocional y sus componentes.
 - Competencias socioemocionales del profesorado y del alumnado.
 - Estrategias de regulación emocional y afrontamiento aplicables al aula.
-- Autoconocimiento docente y motivación en Matemáticas.
+- Autoconocimiento docente, diálogo interno y motivación en Matemáticas.
+- Asertividad y competencia social en el ejercicio profesional.
 
 Especial atención a la prevención del burnout docente y al clima socioafectivo del aula de Matemáticas.
 
@@ -22,6 +23,8 @@ Especial atención a la prevención del burnout docente y al clima socioafectivo
 | [02-inteligencia-emocional.md](02-inteligencia-emocional.md) | Concepto de IE (Mayer y Salovey, Goleman y otros), componentes, relación con el éxito profesional y personal |
 | [03-competencias-socioemocionales.md](03-competencias-socioemocionales.md) | Competencias socioemocionales, escala e-COM, prueba TRUST y su relevancia para la docencia |
 | [04-tres-regiones-emocion-estres.md](04-tres-regiones-emocion-estres.md) | Amígdala, hipocampo y corteza prefrontal: alerta → contexto → regulación; bidireccionalidad emociones–estrés; actividad breve de aula |
+| [asertividad-y-competencia-social.md](asertividad-y-competencia-social.md) | Estilos pasivo / agresivo / asertivo; competencia social; situaciones de aula de Matemáticas y familias; role-playing estructurado |
+| [dialogo-interno-modelo-abc.md](dialogo-interno-modelo-abc.md) | Modelo A-B-C (acontecimiento → creencias → consecuencias); diálogo interno del docente y del alumnado; secuencia breve de aula; límites de rol |
 | [propuestas-actividades.md](propuestas-actividades.md) | Plantillas y orientaciones para diseñar actividades de educación emocional y situaciones de evaluación |
 | [recursos.md](recursos.md) | Referencias bibliográficas clave y recursos recomendados |
 | [Afectividad y motivación intrínseca](afectividad-y-motivacion-intrinseca.md) | Emociones, autodeterminación (Deci y Ryan), ansiedad matemática, prácticas de aula y sentido socioafectivo LOMLOE |
@@ -37,18 +40,21 @@ Especial atención a la prevención del burnout docente y al clima socioafectivo
 1. Leer primero el modelo transaccional del estrés (ficha + apunte) para comprender la base teórica.
 2. Continuar con inteligencia emocional y competencias socioemocionales.
 3. Usar el material de **tres regiones** junto al Tema 7 para el puente neuro ↔ aula (sin neuromitos).
-4. Utilizar las propuestas de actividades como punto de partida para el diseño propio (nunca copiar literalmente).
-5. Consultar afectividad/motivación, **Pekrun** y Ventana de Johari para el puente al aula de Matemáticas.
-6. Consultar las referencias para profundizar.
-7. Autoevaluarse con los [exámenes a tres niveles](../examen/).
+4. Trabajar **asertividad y competencia social** para el manejo de situaciones de aula y de familias.
+5. Usar el **modelo A-B-C / diálogo interno** como herramienta de regulación propia y de apoyo metacognitivo al alumnado.
+6. Utilizar las propuestas de actividades como punto de partida para el diseño propio (nunca copiar literalmente).
+7. Consultar afectividad/motivación, **Pekrun** y Ventana de Johari para el puente al aula de Matemáticas.
+8. Consultar las referencias para profundizar.
+9. Autoevaluarse con los [exámenes a tres niveles](../examen/).
 
 ## Enlaces relacionados en el máster
 
 - [Apuntes de la optativa](../apuntes/) · [Programa](../programa.md) · [Glosario](../glosario.md) · [Bibliografía](../bibliografia.md)
 - [Bibliografía educación emocional](../../../../09-bibliografia/educacion-emocional/)
 - [Materiales de Psicología](../../psicologia-del-desarrollo-y-de-la-educacion/materiales/) (mindset, autoeficacia, gestión del error, suicidio juvenil y protocolos de derivación)
-- [03-materiales/psicologia](../../../../03-materiales/psicologia/) (ficha suicidio + protocolos Aragón)
+- [03-materiales/psicologia](../../../../03-materiales/psicologia/) (ficha suicidio + protocolos de derivación)
 - [DUA](../../procesos-y-contextos-educativos/materiales/dua-diseno-universal-aprendizaje.md)
+- Optativa de Habilidades comunicativas (empatía, escucha, asertividad)
 
 ## Notas
 
