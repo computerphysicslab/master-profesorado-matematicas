@@ -28,11 +28,17 @@ Esfuerzo útil dedicado a construir o automatizar esquemas. Es deseable; no se e
 ### Carga intrínseca
 Complejidad inherente al contenido y a la interacción entre elementos que el alumno debe procesar a la vez. Se gestiona graduando y secuenciando, no eliminando el reto necesario.
 
+### Condicionamiento clásico (Pávlov)
+Aprendizaje por **asociación entre estímulos**: un estímulo inicialmente neutro, emparejado de forma repetida con un estímulo que ya provoca una respuesta, acaba provocando por sí solo una respuesta similar (respuesta condicionada). En el aula explica, en parte, ansiedad ante la pizarra o el examen. Ver [Tema 3](apuntes/03-teorias-conductuales-modificacion-conducta.md) y [introducción a la Psicología de la Educación](materiales/introduccion-psicologia-educacion-justificacion-casos.md).
+
 ### Discalculia
 Dificultad específica del aprendizaje que afecta de forma primaria al **sentido numérico** (subitización, comparación de cantidades, línea numérica mental, hechos numéricos básicos), de manera relativamente independiente del CI global. No equivale a “bajo rendimiento en mates” ni a TDAH. Ver [material discalculia](materiales/discalculia-y-dea-matematicas.md).
 
 ### DEA (dificultades específicas de aprendizaje)
 Categoría que agrupa dificultades significativas y persistentes en lectura, escritura o cálculo (entre otras), no explicables solo por discapacidad intelectual, escolarización inadecuada o factores sensoriales. La discalculia es la DEA del ámbito matemático.
+
+### Discriminación (condicionamiento)
+Aprendizaje de responder **solo** al estímulo condicionado concreto y no a estímulos semejantes. Contraste con la generalización.
 
 ### Doble excepcionalidad (2e)
 Coexistencia de altas capacidades con una dificultad específica o condición neurodivergente (p. ej. TDAH, TEA, dislexia, discalculia). Requiere atender ambos perfiles: ni solo enriquecer ni solo “remediar”.
@@ -44,11 +50,38 @@ Seis emociones con expresiones faciales relativamente universales: **alegría, s
 
 Desarrollo y ejemplos en Matemáticas: optativa [Educación emocional · Tema 1](../optativas/educacion-emocional-en-el-profesorado/apuntes/01-inteligencia-emocional-contexto.md) y [Tema 2](../optativas/educacion-emocional-en-el-profesorado/apuntes/02-naturaleza-de-la-emocion.md).
 
+### Estilo autoritario
+Alto control/exigencia y **bajo** apoyo afectivo: normas rígidas, obediencia, poco diálogo. No confundir con el estilo *autoritativo*.
+
+### Estilo autoritativo (democrático)
+Alto control (límites claros) y **alto** apoyo: normas consistentes + escucha, explicación y autonomía progresiva. Asociado a mejores resultados educativos y de ajuste (Baumrind; Maccoby & Martin). En el aula: expectativas claras + trato respetuoso.
+
+### Estilo negligente
+Bajo control y bajo apoyo: poca supervisión, orientación y disponibilidad emocional.
+
+### Estilo permisivo
+Bajo control y alto apoyo: afecto y libertad; límites escasos o inconsistentes.
+
+### Estímulo condicionado (EC)
+Estímulo que, tras emparejamientos repetidos con un estímulo incondicionado, provoca por sí solo la respuesta condicionada (p. ej. “salir a la pizarra” tras experiencias de ridículo).
+
+### Estímulo incondicionado (EI)
+Estímulo que provoca de forma natural (sin aprendizaje previo) una respuesta incondicionada (p. ej. risas del grupo → vergüenza).
+
+### Estímulo neutro (EN)
+Estímulo que inicialmente no provoca la respuesta de interés; puede convertirse en EC tras emparejamientos.
+
+### Extinción (condicionamiento)
+Disminución o desaparición de la respuesta condicionada cuando el estímulo condicionado se presenta repetidamente **sin** el estímulo incondicionado. Base de la exposición gradual; no siempre borra de forma permanente la asociación.
+
 ### Feedback
 Información que el alumno recibe sobre su desempeño y que puede usar para ajustar el siguiente intento. Puede ser de resultado, correctivo, de proceso/estrategia o de autorregulación. Material: [feedback efectivo](materiales/feedback-efectivo-matematicas.md).
 
 ### Funciones ejecutivas (FE)
 Procesos de control cognitivo (inhibición, flexibilidad, memoria de trabajo, planificación) que permiten mantener metas, descartar impulsos y cambiar de estrategia. Esenciales en la resolución de problemas multi-paso. Material: [funciones ejecutivas](materiales/funciones-ejecutivas-matematicas.md).
+
+### Generalización (condicionamiento)
+La respuesta condicionada aparece también ante estímulos **parecidos** al estímulo condicionado original (p. ej. miedo a un examen concreto se extiende a “cualquier evaluación de mates”).
 
 ### Logros de dominio
 Éxitos reales en tareas similares a las que se pretende afrontar. Principal fuente de autoeficacia (Bandura). Deben ser retadores pero alcanzables con esfuerzo y estrategia.
@@ -70,6 +103,15 @@ Perspectiva que considera esas variaciones como parte de la diversidad humana: n
 
 ### Operaciones formales (Piaget)
 Estadio del desarrollo cognitivo caracterizado por el razonamiento hipotético-deductivo y abstracto. **No** se alcanza de forma automática ni uniforme en toda la ESO; depende del dominio y de la instrucción.
+
+### Periodo crítico / sensible
+Ventana temporal del desarrollo en la que la plasticidad cerebral facilita (o es casi necesaria) la adquisición de ciertas capacidades (p. ej. lenguaje). Pasada esa ventana, la adquisición completa se dificulta mucho. Ilustrado por casos como Genie. Ver [introducción](materiales/introduccion-psicologia-educacion-justificacion-casos.md).
+
+### Respuesta condicionada (RC)
+Respuesta aprendida que aparece ante el estímulo condicionado (p. ej. ansiedad ante “salir a la pizarra”).
+
+### Respuesta incondicionada (RI)
+Respuesta natural ante el estímulo incondicionado (p. ej. vergüenza o reacción fisiológica ante el ridículo).
 
 ### Subitización
 Reconocimiento inmediato (sin contar) de cantidades pequeñas. Dificultades persistentes en subitización pueden ser un indicador de alerta en el sentido numérico (no un diagnóstico por sí solas).
@@ -96,3 +138,6 @@ Distancia entre lo que el alumno puede hacer **solo** y lo que puede hacer **con
 | **Autoeficacia** | “Motivarle” solo con frases de ánimo | Construir evidencias de dominio + feedback de estrategia |
 | **Feedback** | Solo la nota o “muy bien / mal” | Información usable sobre proceso y siguiente acción |
 | **Neurodivergencia / TDAH / TEA** | Etiqueta de pasillo o excusa de baja expectativa | Observar, diseñar, coordinar; diagnostica orientación |
+| **Autoritario / autoritativo** | Usarlos como sinónimos | Autoritario = alto control + bajo apoyo; autoritativo = alto control + alto apoyo |
+| **Refuerzo negativo** | Sinónimo de castigo | Refuerzo negativo *aumenta* una conducta al quitar algo aversivo |
+| **Condicionamiento clásico** | Lo mismo que “castigar o premiar” | Asociación estímulo–estímulo / respuesta emocional; el operante actúa sobre *consecuencias* de la conducta |
