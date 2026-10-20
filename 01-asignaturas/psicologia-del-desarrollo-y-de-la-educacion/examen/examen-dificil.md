@@ -43,6 +43,8 @@ Basado en el [banco de preguntas](banco-preguntas.md).
 
 **D1.** Explica el **rol del docente** ante señales de posible riesgo suicida o malestar grave: qué observar, qué no hacer, y por qué el clima de aula de Matemáticas (error, pertenencia, feedback) es factor protector sin convertir la clase en terapia. Cita el principio derivar / protocolo / recursos de ayuda (p. ej. 024) sin detallar métodos.
 
+**D2.** Caso: tras varios episodios de risa del grupo al salir a la pizarra, Marta evita participar y muestra ansiedad ante cualquier evaluación pública de Matemáticas. Analiza la situación con el **condicionamiento clásico** (generalización incluida) y propón un plan de aula que combine: (a) no alimentar el emparejamiento amenaza–exposición, (b) moldeado del inicio de la tarea y (c) clima de error. Señala un límite ético (qué no hacer).
+
 ---
 
 *Criterio orientativo: rigor conceptual, aplicación a Matemáticas, ética profesional (no diagnosticar, no humillar).*
