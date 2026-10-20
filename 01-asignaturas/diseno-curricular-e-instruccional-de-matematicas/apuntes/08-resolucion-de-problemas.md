@@ -5,25 +5,11 @@
 
 > En el enfoque de esta asignatura, la resolución de problemas no es solo la fase final de «aplicar lo explicado». Puede ser el **punto de partida** del aprendizaje: el alumno se enfrenta a una situación, moviliza lo que sabe, formula ideas y *después* se formaliza el objeto matemático.
 
-**Materiales operativos:** [Thinking Classrooms](../materiales/thinking-classrooms-liljedahl.md) · [Heurísticas y mediación](../materiales/banco-problemas/heuristicas-y-mediacion.md) · [Problemas ricos](../materiales/banco-problemas/problemas-ricos.md) · [Generatrices](../materiales/banco-problemas/generatrices.md) · [Mapa CE–criterios](../materiales/curriculo-lomloe/mapa-competencias-criterios.md)
-
 ---
 
-## 1. Tres orientaciones didácticas (PARA / SOBRE / A TRAVÉS DE)
+## 1. Problema frente a ejercicio
 
-La resolución de problemas no es un bloque único: cambia según el **papel** que se le da en el diseño instruccional (tradición tipo Schroeder y Lester):
-
-| Orientación | Qué se hace | Riesgo si se abusa |
-|-------------|-------------|---------------------|
-| **Enseñanza PARA la resolución de problemas** | Primero definiciones, propiedades, fórmulas y algoritmos; después problemas de aplicación | El problema queda como *apéndice* de comprobación; poco conflicto cognitivo |
-| **Aprender SOBRE la resolución de problemas** | Heurísticas y metacognición (Pólya, patrones, simplificar, planificar) | Se ritualiza el método sin contenido matemático fuerte |
-| **Aprendizaje A TRAVÉS DE la resolución de problemas** | El problema es el punto de partida; los saberes emergen al investigar, conjeturar y construir | Sin institucionalización posterior, el saber no se fija |
-
-Un curso equilibrado **combina** las tres: introduce a veces a través de problemas, enseña heurísticas de forma explícita y usa ejercicios/problemas de aplicación para consolidar.
-
----
-
-## 2. Problema frente a ejercicio
+No toda tarea matemática es un problema. La distinción depende de la relación entre la tarea y quien la resuelve: lo que para un alumno es un problema, para otro puede ser un ejercicio si ya conoce el procedimiento.
 
 | | **Ejercicio** | **Problema** |
 |---|---------------|--------------|
@@ -32,33 +18,75 @@ Un curso equilibrado **combina** las tres: introduce a veces a través de proble
 | **Bloqueo** | Si aparece, suele ser de ejecución | Forma parte esperable del proceso |
 | **Respuesta** | A menudo única y numérica | Puede admitir varias estrategias o representaciones |
 | **Aprendizaje** | Consolida procedimientos | Puede **introducir** ideas nuevas |
+| **Demanda cognitiva** | Baja (niveles 1–2) | Alta (niveles 3–4) |
 
 Ambos tienen lugar en el aula. El desequilibrio típico es **solo ejercicios** tras una exposición: se entrena la reproducción, no la construcción ni la transferencia.
 
 **Regla práctica:** si el alumno sabe *desde el enunciado* qué fórmula aplicar sin pensar, es un ejercicio (útil, pero no basta).
 
-### 2.1. Ejemplo crítico: geometría en 1.º ESO (perímetro y área)
+### Definiciones de referencia
 
-A partir de secuencias habituales sobre figuras y cálculo de perímetros/áreas:
+- **Pólya (1945/1969):** Tener un problema significa buscar de forma consciente una acción apropiada para lograr un objetivo claramente concebido pero no alcanzable de forma inmediata.
+- **Puig (1996):** Una tarea de contenido matemático, cuyo enunciado es significativo para el alumno al que se ha planteado, que este desea abordar, y para la cual no ha producido sentido.
+- **Ortega, Pecharromán y Sosa (2011):** Planteamiento de una situación de respuesta desconocida que no es inmediata, que el alumno tiene que resolver mediante métodos matemáticos y que, además, el alumno debe tener la voluntad de hacerlo.
 
-| Tipo de tarea | Qué ocurre | Límite competencial |
-|---------------|------------|---------------------|
-| **Ejercicios** (aplicar $P = 2a+2b$, áreas de paralelogramo en posición estándar) | Aplicación directa de definiciones o fórmulas; poco conflicto cognitivo | Nivel reproductor de saberes básicos |
-| **Problema / desafío** (cercar una parcela con $32\,\mathrm{m}$ de valla; formas no rectangulares) | Hay que decidir forma, interpretar altura vs lado inclinado, a veces Pitágoras | Moviliza resolver, conjeturar, representar, comunicar |
-
-**Obstáculos y estereotipos frecuentes:**
-
-- Confusión **perímetro ↔ área** (creer que a perímetro constante el área no cambia, o al revés).
-- **Orientación visual:** dificultad para identificar catetos/hipotenusa o la altura de un paralelogramo fuera de la posición «apoyada» en el libro.
-- Al pasar a un paralelogramo no rectangular, la distancia perpendicular entre lados opuestos **no** coincide con la longitud del lado inclinado.
-
-Puente con [bloque 7 · Dificultades y obstáculos](07-dificultades-y-obstaculos.md).
+**Características operativas de un problema:**
+1. Bloqueo inicial (no se vislumbra un camino inmediato).
+2. Voluntad y compromiso del alumno (asume la tarea como reto propio).
+3. Uso de métodos o modelos matemáticos.
 
 ---
 
-## 3. Resolución de problemas como punto de partida
+## 2. Tareas matemáticas y demanda cognitiva
 
-### 3.1. Dos secuencias posibles
+Una **tarea** es cualquier propuesta de acción que un docente formula a sus estudiantes con intencionalidad educativa. Las tareas determinan el tipo de actividad matemática que se promueve.
+
+### 2.1. Niveles de demanda cognitiva (Smith y Stein, 1998)
+
+Referencia al nivel y tipo de pensamiento que una tarea puede provocar. Cuatro niveles:
+
+| Nivel | Tipo de tarea | Características | Demanda |
+|-------|---------------|-----------------|--------|
+| **1** | Memorización | Reproducción de definiciones, hechos, fórmulas o reglas. Sin conexión con conceptos o significados. | Baja |
+| **2** | Procedimientos sin conexiones | Algorítmicas. Se aplica un procedimiento de forma evidente. Fin: producir respuestas correctas, no desarrollar comprensión. | Baja |
+| **3** | Procedimientos con conexiones | Centradas en el significado de un concepto o procedimiento. Buscan desarrollar comprensión. Requieren relaciones entre ideas. | Alta |
+| **4** | Hacer matemáticas | Pensamiento complejo y no algorítmico. Explorar naturaleza de conceptos y relaciones. Exigen autorregulación del proceso cognitivo. | Alta |
+
+Un problema genuino se sitúa habitualmente en el nivel 4. Los niveles 1–2 son necesarios para consolidar, pero un curso equilibrado necesita una proporción significativa de 3–4.
+
+### 2.2. Otras clasificaciones de tareas
+
+- **Contexto:** real (referido a la realidad del que resuelve), realista (situación verosímil), fantasista, matemático (solo objetos matemáticos).
+- **Formato:** verbal/textual, simbólico, tabular, visual.
+- **Datos:** estrictamente necesarios, superfluos o insuficientes.
+- **Número de soluciones:** cerrado (única) o abierto (múltiples válidas).
+
+Un contexto realista **no garantiza** un buen problema: si no cambia la demanda matemática, puede ser un ejercicio disfrazado.
+
+---
+
+## 3. Enfoques para la enseñanza de la resolución de problemas (Gaulin, 2001)
+
+No hay consenso único sobre qué significa «enfatizar la resolución de problemas». Gaulin distingue tres interpretaciones complementarias:
+
+1. **Enseñar *PARA* la resolución de problemas**  
+   La RP es el **objetivo**. Se enseña teoría/algoritmos y al final se aplican. Riesgo: añadir al final del tema «problemas» que en realidad son ejercicios de aplicación.
+
+2. **Enseñar *SOBRE* la resolución de problemas**  
+   La RP es un **contenido** que hay que enseñar (métodos, heurísticas, modelos). Se centra en el proceso. Riesgo: convertir las estrategias en un contenido algorítmico más (ej. el modelo de Pólya como receta).
+
+3. **Enseñar *A TRAVÉS* de la resolución de problemas**  
+   La RP es una **metodología**. El contenido matemático **emerge** de la actividad de resolución. Se parte de un problema y, a través de su exploración, se construyen conceptos y teoría. Es el enfoque más ambicioso y potente para un aprendizaje significativo, pero el más difícil de implementar.
+
+**Visión sistémica:** el error es insistir en un solo aspecto. Una enseñanza completa integra los tres: enseñar estrategias (sobre), aplicarlas (para) y utilizarlas como vehículo para aprender matemáticas (a través).
+
+Este bloque prioriza el enfoque **a través**, sin renunciar a los otros dos cuando son útiles.
+
+---
+
+## 4. Resolución de problemas como punto de partida
+
+### 4.1. Dos secuencias posibles
 
 | Secuencia tradicional | Secuencia con problema inicial |
 |----------------------|--------------------------------|
@@ -67,14 +95,14 @@ Puente con [bloque 7 · Dificultades y obstáculos](07-dificultades-y-obstaculos
 
 La segunda secuencia enlaza con la [génesis escolar del objeto](09-genesis-escolar-objetos-matematicos.md) y con el anclaje fenomenológico del [bloque 5](05-fundamentos-epistemologicos-fenomenologicos.md).
 
-### 3.2. Qué gana el aprendizaje
+### 4.2. Qué gana el aprendizaje
 
 - Motivación de **necesidad** («necesitamos una herramienta para…»).
-- Activación de conocimientos previos (y de errores útiles).
+- Activación de conocimientos previos (y de errores útiles, [bloque 7](07-dificultades-y-obstaculos.md)).
 - Variedad de estrategias visibles en la puesta en común.
 - Mejor encaje con competencias LOMLOE: resolver, modelizar, conjeturar, comunicar, analizar soluciones.
 
-### 3.3. Qué no significa
+### 4.3. Qué no significa
 
 - No significa abandonar la explicación del profesor.
 - No significa que *todo* el curso sea un ABP sin estructura.
@@ -84,25 +112,35 @@ Significa **equilibrar**: hay momentos de exploración y momentos de sistematiza
 
 ---
 
-## 4. Conexión curricular LOMLOE (orientación Aragón / RD 217)
+## 5. Modelos de resolución y heurísticas
 
-Resumen alineado con el [mapa CE–criterios](../materiales/curriculo-lomloe/mapa-competencias-criterios.md). **Contrasta siempre** el decreto autonómico vigente.
+### 5.1. El modelo de Pólya (1945)
 
-| CE (foco) | Qué aporta la resolución de problemas |
-|-----------|----------------------------------------|
-| **1** Resolver / modelizar | Interpretar, elegir estrategias, obtener soluciones viables |
-| **2** Analizar soluciones | Comprobar, validar en contexto, detectar errores |
-| **3** Conjeturar | Formular y probar conjeturas; variantes del problema |
-| **7–8** Representar / comunicar | Esquemas, tablas, argumentación oral y escrita |
-| **9–10** Personal / social | Gestión del bloqueo y del error; trabajo en equipo |
+1. **Comprender el problema** — Leer, identificar incógnita, datos, condición e hipótesis. Fase crítica; sin ella el resto falla.
+2. **Trazar un plan** — Buscar estrategia. ¿Es similar a otro? ¿Puedo enunciarlo de otra forma? ¿Puedo resolver uno más sencillo? Aquí entran las heurísticas.
+3. **Ejecutar el plan** — Paciencia y tenacidad, pero también flexibilidad para replantear si se llega a un callejón sin salida.
+4. **Revisar (visión retrospectiva)** — Verificar, reflexionar, extender. Consolida el conocimiento; a menudo ignorada por el alumnado.
 
-**Situación de aprendizaje (SDA)** en sentido normativo: reto contextualizado + movilización combinada de saberes y competencias + trabajo activo y comunicación argumentada — no mera repetición algorítmica con nombres propios.
+**Otros modelos cercanos:** Mason, Burton y Stacey (*Abordaje, Ataque y Revisión*); de Guzmán (*Familiarízate, Busca estrategias, Lleva adelante, Revisa*).
+
+### 5.2. Heurísticas (herramientas, no recetas)
+
+Técnicas que ayudan a trazar un plan. No garantizan la solución:
+
+- Ensayo y error (sistemático o dirigido).
+- Dibujar un esquema o figura.
+- Organización y codificación (notación adecuada).
+- Semejanza y analogía.
+- Suponer el problema resuelto (marcha atrás).
+- Resolver un problema más sencillo o un caso particular.
+
+En el aula conviene usarlas como **preguntas de mediación** («¿qué sabes?, ¿qué buscas?, ¿puedes dibujarlo?»), no como un formulario burocrático. Schoenfeld añade la importancia del **control metacognitivo** (decidir cuándo continuar o cambiar de estrategia) y de las **creencias** («si no se resuelve en dos minutos, es que no sé mates» es una creencia tóxica).
 
 ---
 
-## 5. Aceptación de la tarea
+## 6. Aceptación de la tarea
 
-De poco sirve un «buen problema» en el papel si el alumnado **no entra** en él.
+De poco sirve un «buen problema» en el papel si el alumnado **no entra** en él. La aceptación es condición de posibilidad del aprendizaje a través de la resolución de problemas.
 
 ### Condiciones que favorecen la aceptación
 
@@ -122,214 +160,265 @@ De poco sirve un «buen problema» en el papel si el alumnado **no entra** en é
 - Abandono inmediato o copia del compañero sin diálogo.
 - Ansiedad que paraliza (coordinar con clima de aula y, si persiste, con tutoría).
 
-Puente con Psicología: [ansiedad matemática](../../psicologia-del-desarrollo-y-de-la-educacion/materiales/ansiedad-matematica-aula.md) · [funciones ejecutivas](../../psicologia-del-desarrollo-y-de-la-educacion/materiales/funciones-ejecutivas-matematicas.md).
+---
+
+## 7. Enseñanza a través de la resolución de problemas y Thinking Classrooms
+
+### 7.1. Principios (síntesis de prácticas de aula)
+
+- **El contenido emerge del problema:** los alumnos se enfrentan a situaciones problemáticas antes de recibir instrucción formal sobre el objeto que se quiere enseñar.
+- **Problemas ricos (suelo bajo, techo alto):** accesibles para todos, con potencial de profundización. Facilitan la atención a la diversidad.
+- **Rol del profesor:** moderador, facilitador, provocador (nunca juez o «libro de soluciones»). Responde con preguntas, da pistas y extensiones; no anticipa el conocimiento.
+- **Organización del aula:** trabajo en grupos (idealmente de 3, formados de forma aleatoria y visible), pizarras verticales borrables, puestas en común para la **construcción social del conocimiento**.
+- **Evaluación formativa:** se evalúan procesos (comunicación, perseverancia, colaboración) y no solo el producto final. Portafolios, rúbricas, feedback continuo.
+
+### 7.2. Claves de las Thinking Classrooms (Liljedahl, 2021)
+
+Se alinean con el enfoque «a través»:
+
+- Empezar con **problemas**, no con ejercicios. Contar el problema de forma oral antes de organizar los grupos.
+- **Grupos aleatorios** y visibles (p. ej. con cartas), de tres alumnos.
+- Trabajo de pie en **pizarras verticales** (minimiza el miedo al error y aumenta la visibilidad del pensamiento).
+- Rol docente centrado en preguntas y pistas; buscar que la clase «fluya» (equilibrio entre reto y habilidad).
+- Evaluación de procesos de forma formativa.
+
+### 7.3. Ejemplos de secuencias (introducir objetos)
+
+- **Estadística:** a partir de un partido de baloncesto, explorar dispersión (rango, desviación media, varianza…) para tomar una decisión.
+- **Fracciones:** medir objetos reales con unidades no estándar («codo sagrado») para dar significado de medida antes de formalizar algoritmos.
+- **Proporcionalidad:** una pregunta aparentemente simple («30 cosas cuestan 15 €, ¿cuánto cuesta cada una?») fuerza a reflexionar sobre las condiciones de la proporcionalidad.
+- **Geometría:** construir figuras con GeoGebra y refinar definiciones de cuadriláteros.
 
 ---
 
-## 6. Pólya, Schoenfeld y el control del proceso
+## 8. Planteamiento de problemas (problem posing)
 
-### 6.1. Las cuatro fases de Pólya (orientativas)
+Además de resolver, es fundamental que el alumnado aprenda a **plantear** problemas (Cai et al., 2015):
 
-George Pólya (*How to Solve It*, 1945). **No es un ritual burocrático**: son preguntas de mediación.
+- Prepara para la vida real (formular problemas).
+- Desarrolla creatividad y comprensión lectora.
+- Mejora la motivación y puede reducir la ansiedad.
+- Ofrece al docente información sobre los procesos de aprendizaje.
 
-| Fase | Preguntas útiles en el aula | Si se omite… |
-|------|----------------------------|--------------|
-| **1. Entender** | ¿Qué me piden? ¿Qué datos tengo? ¿Puedo decirlo con mis palabras? | Se opera con el primer número que aparece |
-| **2. Diseñar un plan** | ¿He visto algo parecido? ¿Dibujo, tabla, ensayo…? | Se lanza a calcular sin estrategia |
-| **3. Ejecutar** | ¿Sigo el plan? ¿Este resultado intermedio tiene sentido? | Errores de ejecución sin detección |
-| **4. Revisar (*looking back*)** | ¿La respuesta responde a la pregunta? ¿Otra vía? ¿Qué generalizo? | Se entrega el número y se cierra el aprendizaje |
-
-La fase 4 es la más abandonada en la práctica escolar y es donde se consolida la transferencia.
-
-### 6.2. Catálogo breve de heurísticas
-
-| Heurística | Cuándo sugerirla (sin regalar el método) |
-|------------|------------------------------------------|
-| **Particularizar** | Problema general; probar con números sencillos |
-| **Representar** | Enunciado denso; relaciones entre magnitudes |
-| **Descomponer** | Multi-paso; saturación de memoria de trabajo |
-| **Trabajar hacia atrás** | Se conoce el final |
-| **Ensayo-error controlado** | Espacio de búsqueda acotable |
-| **Analogía** | «¿En qué se parece a un problema que ya resolviste?» |
-| **Reformular** | Cambio de registro (verbal ↔ simbólico ↔ gráfico) |
-| **Estimar antes de calcular** | Detectar resultados absurdos |
-
-Detalle: **[Heurísticas y mediación](../materiales/banco-problemas/heuristicas-y-mediacion.md)**.
-
-### 6.3. Marco de Schoenfeld
-
-| Dimensión | Qué es | Eco en Secundaria |
-|-----------|--------|-------------------|
-| **Recursos** | Conocimientos matemáticos disponibles | Sin el objeto mínimo, no hay resolución |
-| **Heurísticas** | Estrategias generales de búsqueda | Se pueden modelar y nombrar |
-| **Control (metacognición)** | Qué hacer, cuándo cambiar de vía, cuándo comprobar | Insistir 20 min en una vía muerta es fallo de *control* |
-| **Creencias** | Qué es un problema, cuánto debe durar, qué cuenta como «saber mates» | Creencias tóxicas bloquean la aceptación |
-
-| Creencia | Efecto | Contrapeso docente |
-|----------|--------|-------------------|
-| «Los problemas se resuelven en dos minutos» | Abandono precoz | Normas de tiempo; modelar búsqueda larga |
-| «Solo hay una forma correcta» | Ansiedad al divergir | Varias estrategias válidas en puesta en común |
-| «Si no veo la fórmula, no sé mates» | Búsqueda de etiqueta | Problemas sin anuncio de tema |
-| «Errar es fracasar» | Evitación | Error productivo; revisión valorada |
+Tareas de invención posibles:
+- **Antes** de la resolución: a partir de una información, dibujo o gráfico.
+- **Durante:** modificar variables o reformular.
+- **Después:** generalizar o explorar nuevas condiciones.
 
 ---
 
-## 7. Problemas de aula trabajados (ejemplos de sesión)
+## 9. Modelización matemática
 
-Útiles en pizarra vertical / grupos heterogéneos (Thinking Classroom).
+La modelización convierte un problema del mundo real en un problema matemático, lo resuelve e interpreta la solución en el contexto original. Es actividad central en la resolución de problemas contextualizados y en las competencias LOMLOE.
 
-### 7.1. El puente nocturno (optimización combinatoria)
+### 9.1. Ciclo PISA (tres procesos)
 
-**Enunciado (versión tipo):** Cuatro personas deben cruzar un puente de noche con una sola linterna. El puente soporta como máximo a dos a la vez. Tiempos de cruce: $1$, $3$, $6$ y $8$ min (o $1, 2, 5, 10$). Al cruzar dos juntas, van a la velocidad de la más lenta. La linterna debe volver a pie.
+1. **Formular** matemáticamente la situación (traducir el problema real a un modelo).
+2. **Emplear** conceptos, datos, procedimientos y razonamientos (resolver el modelo).
+3. **Interpretar, aplicar y valorar** los resultados (reinterpretar en el contexto real y evaluar razonabilidad).
 
-| Estrategia | Idea | Resultado típico |
-|------------|------|------------------|
-| **Codiciosa (*greedy*)** | El más rápido acompaña siempre y vuelve | Subóptima |
-| **Óptima («sándwich» de los lentos)** | Empaquetar el cruce de los dos más lentos en un solo trayecto; gestionar devoluciones de linterna con los rápidos | $18$ min (con $1,3,6,8$) |
+### 9.2. Ciclo de Blum y Leiss (2007)
 
-**Esquema óptimo orientativo** ($1,3,6,8$):
+Distingue mundo real y mundo matemático en siete etapas (no lineales; los alumnos van y vienen):
 
-1. Cruzan $1$ y $3$ → $3$ min.  
-2. Vuelve $1$ → acum. $4$.  
-3. Cruzan $6$ y $8$ → acum. $12$.  
-4. Vuelve $3$ → acum. $15$.  
-5. Cruzan $1$ y $3$ → total **$18$ min**.
-
-**Reflexión didáctica:** romper la heurística codiciosa; comparar planes; *looking back* (¿hay otra vía con el mismo total?).
-
-### 7.2. Cambio en la máquina expendedora (recuento sistemático)
-
-**Enunciado (versión tipo):** Un refresco cuesta $1{,}30\,\mathrm{€}$. Se pagan $5\,\mathrm{€}$. ¿De cuántas formas puede devolverse el cambio con monedas de $1\,\mathrm{€}$, $50$, $20$ y $10$ céntimos?
-
-- Cambio: $3{,}70\,\mathrm{€}$ = $370$ céntimos.  
-- Modelo: $100x + 50y + 20z + 10w = 370$ con enteros $\ge 0$  
-  (equivalentemente $10x + 5y + 2z + w = 37$).
-
-**Estrategia en ESO:** tablas fijando primero las monedas de mayor valor; evitar omisiones y duplicados; puente aritmética → álgebra y pensamiento exhaustivo.
+1. Comprensión de la situación real.
+2. Simplificación y construcción de un modelo de la realidad.
+3. Matematización (conversión al modelo matemático).
+4. Aplicación de procedimientos matemáticos.
+5. Interpretación del resultado matemático.
+6. Validación en la situación real.
+7. Comunicación del proceso completo.
 
 ---
 
-## 8. Criterios para diseñar (o elegir) un buen problema
+## 10. Dificultades de implementación (visión de Gaulin y otros)
 
-| Criterio | Pregunta |
-|----------|----------|
-| **Objetivo de aprendizaje** | ¿Introduce, profundiza o consolida un objeto? |
-| **Múltiples entradas** | ¿Dibujo, tabla, ensayo-error, ecuación…? |
-| **Demanda cognitiva** | ¿Más que recordar un algoritmo? |
-| **Argumentación** | ¿Obliga a justificar? |
-| **Accesibilidad** | ¿Hay un primer paso posible para la mayoría? |
-| **Extensión** | ¿Se puede variar un dato? |
-| **Evaluabilidad** | ¿Qué criterio LOMLOE evidencia? |
+A pesar de décadas de investigación, la RP sigue poco implantada. Factores frecuentes:
 
-| Rico | Disfrazado |
-|------|------------|
-| Varias estrategias legítimas | Una sola receta obvia tras el relato |
-| El contexto *cambia* la demanda | El contexto sobra |
-| Genera debate | Solo «¿cuál es la respuesta?» |
-
-Banco: [problemas ricos](../materiales/banco-problemas/problemas-ricos.md).
+1. **Falta de coherencia conceptual** entre «para», «sobre» y «a través».
+2. **Visión no sistémica:** se insiste en un solo aspecto. Hace falta integrar:
+   - cognitivos (estrategias, modelos);
+   - metacognitivos (Schoenfeld: control, supervisión, creencias);
+   - afectivos (Gómez-Chacón: motivación, frustración, satisfacción);
+   - comprensión textual (modelo mental del enunciado).
+3. Tratar la RP como **contenido aislado** («taller de problemas») o solo al final de la teoría.
+4. Enseñar estrategias como **contenidos algorítmicos**.
+5. **Dificultades de evaluación** del proceso (comunicación, perseverancia, colaboración).
+6. Falta de formación y de **recursos** (libros de texto con pocos problemas genuinos).
 
 ---
 
-## 9. Gestión de la clase
+## 11. Gestión de la clase: del enunciado a la puesta en común
 
-1. Presentación y comprensión (aceptación).  
-2. Trabajo autónomo o en parejas (el profesor observa).  
-3. Mediación selectiva.  
-4. Puesta en común de **estrategias**.  
-5. Institucionalización.  
-6. Cierre (*looking back* / variante breve).
+### Fases sugeridas de una sesión centrada en un problema
 
-Variante Thinking Classroom: grupos de tres, **superficies verticales**, consolidación *después* de la exploración. Registro fotográfico de producciones (Padlet u otro repositorio del centro) para análisis de errores y estrategias alternativas.
+1. Presentación (oral preferible) y comprensión compartida.
+2. Trabajo autónomo o en grupos pequeños (tiempo real).
+3. Mediación gradual ante bloqueos.
+4. Puesta en común selectiva (2–3 estrategias, incluida una incorrecta productiva).
+5. Institucionalización: formalizar el saber que se quiere retener.
+6. Consolidación o extensión breve.
 
-| Tipo de bloqueo | Mediación |
-|-----------------|-----------|
-| No entiende el enunciado | Reformular; ejemplo más simple |
-| No se le ocurre nada | «¿Qué es lo más sencillo que podrías calcular?» |
-| Estrategia incorrecta sistemática | Hacer visible la contradicción |
-| Ansiedad / abandono | Meta inmediata menor; pareja; normalizar el tiempo |
-| Vía muerta (fallo de control) | «¿Qué has intentado que *no* funciona?» |
+### Qué hacer cuando hay bloqueo
 
----
+- No dictar la solución completa de inmediato.
+- Ofrecer mediación gradual según el tipo de dificultad (comprensión, representación, estrategia, cálculo, revisión).
+- Mantener la responsabilidad del alumno sobre la búsqueda (devolución).
 
-## 10. Metodologías afines
-
-| Enfoque | En Matemáticas |
-|---------|----------------|
-| **ABP** | Secuencias largas a partir de un problema-marco |
-| **Tareas ricas** | Varias estrategias y niveles |
-| **Investigación guiada** | Conjeturar, probar, generalizar |
-| **SDA (LOMLOE)** | Escenarios que movilizan competencias y saberes |
-| **Thinking Classrooms (Liljedahl)** | Tareas que hacen pensar, grupos de 3, pizarras verticales |
-
-Material: **[Thinking Classrooms · Liljedahl](../materiales/thinking-classrooms-liljedahl.md)**.
+Espacio para comparar estrategias y argumentos; no solo para anunciar la respuesta correcta.
 
 ---
 
-## 11. Evaluación de la resolución de problemas
+## 12. Evaluación de la resolución de problemas
 
-| Si solo puntúas… | Dejas fuera… |
-|------------------|--------------|
-| El número final | Estrategia, modelización, comunicación |
-| La velocidad | La revisión y el análisis |
-| La copia del método de la pizarra | La transferencia |
+Evaluar solo el resultado numérico deja fuera comunicación, estrategia, análisis de la solución y perseverancia. Instrumentos útiles:
 
-**Evidencias útiles:** protocolo de resolución, explicación oral, comparación de dos métodos, detección de error en resolución ajena, variante inventada, *looking back* en tres líneas.
+- Rúbricas de proceso (comunicación, estrategias, revisión).
+- Portafolio de resoluciones comentadas.
+- Observación de la puesta en común y del trabajo en grupo.
+- Autoevaluación y coevaluación guiadas.
 
----
-
-## 12. Diversidad: mismo problema, distinto andamiaje
-
-| Ruta | Apoyo | Retirada |
-|------|-------|----------|
-| A | Checklist de fases Pólya; datos organizados | Quitar fases cuando ya planifica |
-| B | Enunciado estándar | — |
-| C | Segunda estrategia obligatoria; variante | Profundidad, no solo volumen |
-
-Ver [tareas multinivel](../../psicologia-del-desarrollo-y-de-la-educacion/materiales/diseno-tareas-multinivel-matematicas.md).
+Alinear con los criterios de evaluación LOMLOE de las competencias específicas de resolución, modelización y socioafectiva.
 
 ---
 
-## Glosario (bloque)
+## Glosario (términos del bloque)
 
-**Problema matemático (didáctico)** — Situación en la que el camino no es inmediato y exige decisión estratégica.  
-**Ejercicio** — Práctica de una técnica ya conocida.  
-**Aceptación de la tarea** — Comprensión + disposición a buscar.  
-**Heurística** — Estrategia general de búsqueda (no algoritmo garantizado).  
-**Control (Schoenfeld)** — Metacognición: qué hacer, cuándo cambiar, cuándo comprobar.  
-**Institucionalización** — Momento en que se fija el saber que se retiene.  
-**Looking back** — Fase de revisión y transferencia (Pólya).  
-**Mediación** — Intervención que sostiene la búsqueda sin anularla.
+**Problema**  
+Situación de respuesta desconocida no inmediata, que el alumno desea abordar y resuelve con métodos matemáticos (depende de la relación tarea–persona).
+
+**Ejercicio**  
+Tarea rutinaria de práctica de un procedimiento ya conocido; demanda cognitiva baja.
+
+**Demanda cognitiva (Smith y Stein)**  
+Nivel de pensamiento que una tarea puede provocar (memorización → procedimientos sin/con conexiones → hacer matemáticas).
+
+**Heurística**  
+Técnica orientativa que ayuda a trazar un plan de resolución; no garantiza la solución.
+
+**Aceptación de la tarea**  
+Condición de que el alumnado entre en el problema (comprensión, desafío alcanzable, permiso para ensayar, mediación).
+
+**Problema rico / abierto**  
+Admite varios caminos, representaciones o niveles de profundidad (suelo bajo, techo alto).
+
+**Mediación**  
+Intervención del docente que sostiene la búsqueda sin anularla.
+
+**Creencias sobre los problemas**  
+Ideas del alumno del tipo «si no se resuelve en dos minutos, es que no sé mates».
+
+**Modelización**  
+Ciclo de traducción entre mundo real y mundo matemático (formular–emplear–interpretar; o las siete etapas de Blum y Leiss).
+
+**Thinking Classroom**  
+Conjunto de prácticas (problemas orales, grupos aleatorios, pizarras verticales, evaluación de procesos) orientadas a maximizar el pensamiento matemático en el aula.
 
 ---
 
 ## Dudas frecuentes
 
-**1. ¿Si empiezo por un problema, no terminaré el temario?**  
-Puedes perder tiempo de exposición rutinaria y ganar comprensión. Elige **pocos problemas ricos** y formaliza después.
+**1. ¿Si empiezo por un problema, perderé tiempo y no terminaré el temario?**  
+Puedes perder tiempo de exposición rutinaria y ganar comprensión. La clave es elegir **pocos problemas ricos** y formalizar después, no improvisar problemas difusos cada día.
 
-**2. ¿Qué hago con quien termina en cinco minutos?**  
-Extensiones: cambia un dato, otra estrategia, inventa un problema similar.
+**2. ¿Qué hago con los alumnos que terminan en cinco minutos?**  
+Extensiones preparadas: cambia un dato, pide otra estrategia, inventa un problema similar, formaliza con más rigor.
 
-**3. ¿Y con quien no empieza?**  
-Andamiaje de entrada, pareja mixta, meta mínima («propón una representación»).
+**3. ¿Y con los que no empiezan?**  
+Andamiaje de entrada, pareja mixta, meta mínima («propón una representación»), sin sustituir el pensamiento por la solución dictada.
 
 **4. ¿El ABP es obligatorio en LOMLOE?**  
-No con ese nombre. Sí trabajar competencias de resolución, modelización y situaciones de aprendizaje.
+No con ese nombre. Sí lo es trabajar competencias de resolución, modelización y situaciones de aprendizaje; el ABP es *una* forma de hacerlo.
 
 **5. ¿Puedo usar problemas del libro?**  
-Sí, si son ricos. Muchos ítems son ejercicios: úsalos para consolidar.
+Sí, si cumplen criterios de riqueza. Muchos ítems del libro son ejercicios: úsalos para consolidar, no como único recurso.
 
-**6. ¿Pólya en una ficha de cuatro casillas en cada problema?**  
-No. Usa las fases como **preguntas**; reserva el protocolo escrito para momentos formativos puntuales.
+**6. ¿Cómo evito el caos en la puesta en común?**  
+Selecciona 2–3 estrategias representativas (incluida una incorrecta productiva), ordena la discusión, cierra con institucionalización clara.
+
+**7. ¿La respuesta correcta ya no importa?**  
+Importa. Pero no es lo *único* que importa: también el proceso, la interpretación y la capacidad de revisar.
+
+**8. ¿Las fases de Pólya deben rellenarse en una ficha cada vez?**  
+No. Sirven para orientar preguntas de mediación y la revisión final, no como ritual burocrático.
 
 ---
 
-## Para seguir
+## Test A/B
 
-- [07 · Dificultades y obstáculos](07-dificultades-y-obstaculos.md)  
-- [09 · Génesis escolar de los objetos](09-genesis-escolar-objetos-matematicos.md)  
-- [Thinking Classrooms](../materiales/thinking-classrooms-liljedahl.md)  
-- [Banco de problemas](../materiales/banco-problemas/)  
-- [Pólya (autores)](../../../09-bibliografia/autores-pensadores/05-educacion-matematica/polya.md)  
-- [Schoenfeld (autores)](../../../09-bibliografia/autores-pensadores/05-educacion-matematica/schoenfeld.md)
+**1.** Un problema, frente a un ejercicio:  
+- **A)** Siempre tiene enunciado largo con nombres propios.  
+- **B)** Exige una búsqueda estratégica porque el camino no es inmediato.
+
+**2.** Usar la resolución de problemas solo al final del tema:  
+- **A)** Es la única forma correcta.  
+- **B)** Es útil para consolidar, pero empobrece el curso si nunca introduce ideas.
+
+**3.** La aceptación de la tarea depende sobre todo de:  
+- **A)** Que el alumno sea «bueno en mates».  
+- **B)** Comprensión, nivel de desafío, normas de ensayo y mediación docente.
+
+**4.** En la puesta en común lo prioritario es:  
+- **A)** Que alguien diga el número final lo antes posible.  
+- **B)** Comparar estrategias y fijar después el saber (institucionalización).
+
+**5.** Ante el bloqueo, el profesor debería:  
+- **A)** Dictar la solución completa de inmediato.  
+- **B)** Ofrecer mediación gradual según el tipo de dificultad.
+
+**6.** Un contexto realista garantiza un buen problema:  
+- **A)** Sí, siempre.  
+- **B)** No: si no cambia la demanda matemática, puede ser un ejercicio disfrazado.
+
+**7.** Evaluar problemas solo por el resultado numérico:  
+- **A)** Alinea con LOMLOE.  
+- **B)** Deja fuera comunicación, estrategia y análisis de la solución.
+
+**8.** Las fases de Pólya en clase sirven para:  
+- **A)** Rellenar una ficha burocrática en cada ejercicio.  
+- **B)** Orientar preguntas de mediación y la revisión final.
+
+**9.** Según Gaulin, enseñar «a través» de la resolución de problemas significa:  
+- **A)** Explicar la teoría y luego poner problemas de aplicación.  
+- **B)** Que el contenido matemático emerja de la propia actividad de resolución.
+
+**10.** Un problema de nivel 4 de demanda cognitiva (Smith y Stein) requiere:  
+- **A)** Aplicar un algoritmo ya conocido de forma evidente.  
+- **B)** Pensamiento complejo no algorítmico y autorregulación del proceso.
+
+### Soluciones
+
+1. **B** · 2. **B** · 3. **B** · 4. **B** · 5. **B** · 6. **B** · 7. **B** · 8. **B** · 9. **B** · 10. **B**
+
+---
+
+## Tarea orientativa del bloque
+
+Diseña **una sesión** (50–55 min) centrada en un problema:
+
+1. Enunciado del problema (indicar curso).  
+2. ¿Introduce o consolida? ¿Qué objeto/sentido?  
+3. Nivel de demanda cognitiva (Smith y Stein) previsto y por qué.  
+4. Criterios LOMLOE que evidencias.  
+5. Previsión de **tres estrategias** posibles (incluida una errónea productiva).  
+6. Plan de mediación ante bloqueos.  
+7. Cómo harás la puesta en común y qué institucionalizarás.  
+8. Evidencia de evaluación (más allá del número final).
+
+---
+
+## Material relacionado
+
+- [Programa de la asignatura](../programa.md)
+- [Bloque 5 — Epistemología y fenomenología](05-fundamentos-epistemologicos-fenomenologicos.md)
+- [Bloque 7 — Dificultades y obstáculos](07-dificultades-y-obstaculos.md)
+- [Bloque 9 — Génesis escolar de los objetos](09-genesis-escolar-objetos-matematicos.md)
+- [Bloque 3 — Currículo LOMLOE](03-elementos-curriculo-lomloe.md)
+- [Bloque 4 — Programación didáctica](04-programacion-didactica.md)
+- Situaciones de aprendizaje y PBL (carpeta 04-pbl-abp del repositorio)
+- Materiales de Psicología del desarrollo (metacognición, afecto, autoeficacia, funciones ejecutivas)
+- Autores-pensadores: [Pólya](../../../09-bibliografia/autores-pensadores/05-educacion-matematica/polya.md), [Schoenfeld](../../../09-bibliografia/autores-pensadores/05-educacion-matematica/schoenfeld.md) y [Liljedahl](../../../09-bibliografia/autores-pensadores/05-educacion-matematica/liljedahl.md)
+
+---
+
+*Última ampliación: integración de demanda cognitiva (Smith y Stein), enfoques de Gaulin, modelos y heurísticas, Thinking Classrooms, problem posing y ciclos de modelización (PISA / Blum-Leiss). Estilo alineado con el resto de bloques de la asignatura.*
