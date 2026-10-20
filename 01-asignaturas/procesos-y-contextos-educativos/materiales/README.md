@@ -16,7 +16,8 @@ Recursos prácticos y transversales (citables desde otras asignaturas y el pract
 | [**Termómetro de opinión — LOMLOE e itinerarios**](termometro-opinion-lomloe-itinerarios.md) | 1–2 · encuestas, límites de evidencia |
 | [**Carga burocrática LOMCE–LOMLOE (SCM)**](carga-burocratica-lomce-lomloe-scm.md) | 1–2 · TALIS, escenarios, hipótesis 3× |
 | [**Desafíos del contexto docente y aplicación LOMLOE (2025–2026)**](desafios-contexto-docente-lomloe-2026.md) | 1–3, 6 · carga lectiva, perfil de salida, debates autonómicos |
-| [Órganos y documentos de centro](organos-y-documentos-de-centro.md) | 3 |
+| [**Críticas y debate sobre la LOMLOE (sesión 19-oct-2026)**](criticas-debate-lomloe-sesion-2026-10-19.md) | 1–3 · Coll-Martín, Rupérez, Serrano, Vara |
+| [**Órganos y documentos de centro**](organos-y-documentos-de-centro.md) | 3 · ficha práctica actualizada |
 | [Mapa de medidas de atención a la diversidad](mapa-medidas-atencion-diversidad.md) | 4 |
 | [Estructuras de aprendizaje cooperativo](estructuras-aprendizaje-cooperativo.md) | 4–5 |
 | [**Evaluación competencial en Matemáticas (LOMLOE)**](evaluacion-competencial-matematicas-lomloe.md) | 6 |
@@ -36,6 +37,7 @@ Recursos prácticos y transversales (citables desde otras asignaturas y el pract
 | [**Carga burocrática LOMCE–LOMLOE (SCM)**](carga-burocratica-lomce-lomloe-scm.md) | Tema 1 — estimación cuantitativa |
 | [TALIS — ficha sintética](talis-ficha-sintetica.md) | Tema 1 |
 | [**Desafíos del contexto docente y aplicación LOMLOE (2025–2026)**](desafios-contexto-docente-lomloe-2026.md) | Tema 1 — condiciones docentes, huelgas, debates |
+| [**Críticas y debate LOMLOE (sesión 19-oct-2026)**](criticas-debate-lomloe-sesion-2026-10-19.md) | Tema 1 — textos Coll, Rupérez, Serrano, Vara |
 | [Comparativa de paradigmas en una tarea de mates](comparativa-paradigmas-tarea-matematicas.md) | Tema 1 |
 | [**Referentes progresista / crítica / libertaria**](referentes-progresista-critica-libertaria.md) | Tema 1 |
 | [**Corrientes pedagógicas e historia (síntesis)**](corrientes-pedagogicas-historia-sintesis.md) | Tema 1 |
