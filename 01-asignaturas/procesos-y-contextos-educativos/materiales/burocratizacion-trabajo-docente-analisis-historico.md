@@ -310,6 +310,8 @@ Esta pregunta conecta directamente con el análisis del posible desplazamiento h
 - [**Carga burocrática LOMCE–LOMLOE (SCM, TALIS, CCAA)**](carga-burocratica-lomce-lomloe-scm.md)
 - [Tema 1 — Evolución histórica y paradigmas](../apuntes/01-evolucion-historica-sistema-educativo-paradigmas.md)
 - [TALIS — ficha sintética](talis-ficha-sintetica.md)
+- [**Desafíos del contexto docente y aplicación LOMLOE (2025–2026)**](desafios-contexto-docente-lomloe-2026.md)
+- [**Críticas y debate sobre la LOMLOE (sesión 19-oct-2026)**](criticas-debate-lomloe-sesion-2026-10-19.md) — percepción del profesorado (Serrano), tensiones competencias/saberes
 - [Idea TFM 03 — Burocratización docente](../../trabajo-fin-de-master/ideas-interesantes/03-burocratizacion-docente-y-carga-administrativa.md)
 - [Termómetro de opinión — LOMLOE e itinerarios](termometro-opinion-lomloe-itinerarios.md)
 - 🎧 [Podcast: De la tiza al colapso burocrático](../../../08-podcasts/episodios/De_la_tiza_al_colapso_burocrático.m4a) · [guion](../../../08-podcasts/guiones/Evoluci%C3%B3n%20hist%C3%B3rica%20del%20sistema%20educativo%20espa%C3%B1ol%20y%20paradigmas%20educativos.md)
