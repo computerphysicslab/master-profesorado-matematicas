@@ -2,6 +2,12 @@
 
 Recursos prácticos orientados al aula de Matemáticas.
 
+## Marco de la disciplina (Bloque B)
+
+| Material | Uso |
+|----------|-----|
+| [**Introducción a la Psicología de la Educación**](introduccion-psicologia-educacion-justificacion-casos.md) | Justificación, casos Genie/Víctor, antecedentes históricos, estilos educativos; puente a Tema 3 |
+
 ## Practicum
 
 | Material | Uso |
