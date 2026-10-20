@@ -1,7 +1,7 @@
 # Ansiedad matemática en el aula
 
 **Asignatura:** Psicología del desarrollo y de la educación  
-**Temas relacionados:** [5 — Motivación](../apuntes/05-motivacion-ensenanza-aprendizaje.md) · [2 — Diferencias individuales](../apuntes/02-diferencias-individuales-problemas-adolescencia.md) · [4 — Cognición](../apuntes/04-procesamiento-informacion-teorias-cognitivas.md)  
+**Temas relacionados:** [5 — Motivación](../apuntes/05-motivacion-ensenanza-aprendizaje.md) · [2 — Diferencias individuales](../apuntes/02-diferencias-individuales-problemas-adolescencia.md) · [3 — Teorías conductuales](../apuntes/03-teorias-conductuales-modificacion-conducta.md) · [4 — Cognición](../apuntes/04-procesamiento-informacion-teorias-cognitivas.md)  
 **Materiales vinculados:** [Autoeficacia](autoeficacia-matematica.md) · [Mindset y atribuciones](mindset-atribuciones-matematicas.md) · [Gestión del error](gestion-del-error-matematicas.md) · [Funciones ejecutivas](funciones-ejecutivas-matematicas.md) · [Carga cognitiva](carga-cognitiva-matematicas.md) · [Neurodivergencia](neurodivergencia-aula-matematicas.md)
 
 ---
@@ -57,9 +57,24 @@ Por eso ayudan: **pasos visibles**, **éxitos tempranos**, **menos amenaza públ
 
 ---
 
-## 5. Qué puede hacer el docente de Matemáticas
+## 5. Cómo se aprende y se mantiene la ansiedad (clásico + operante)
 
-### 5.1. Diseño de tarea
+La ansiedad matemática no es solo “temperamento”. Puede haberse **aprendido** y **mantenerse** por dos vías que a menudo coexisten (detalle en [Tema 3](../apuntes/03-teorias-conductuales-modificacion-conducta.md)):
+
+| Mecanismo | Qué ocurre | Ejemplo en mates |
+|-----------|------------|------------------|
+| **Condicionamiento clásico** | Un estímulo inicialmente neutro (examen, pizarra, enunciado de fracciones) se asocia a experiencias aversivas y acaba provocando por sí solo tensión o miedo | Tras varios fracasos públicos, solo ver la hoja de examen genera ansiedad *antes* de empezar |
+| **Condicionamiento operante** | La **evitación** se refuerza porque alivia de inmediato lo aversivo (refuerzo negativo) | Si el alumno evita salir a la pizarra y la actividad se cancela o se hace por él, el alivio refuerza seguir evitando |
+
+**Implicación:** bajar la amenaza real (clima, exposición gradual, no ridiculizar) actúa sobre la asociación aprendida; no reforzar la evitación (moldear el inicio, no resolver todo por el alumno) actúa sobre el mantenimiento. Ninguno de los dos sustituye la **enseñanza** ni los logros de dominio reales ([autoeficacia](autoeficacia-matematica.md)).
+
+La extinción de una respuesta condicionada no equivale a “volver a cero”: el miedo puede reaparecer en un examen importante o con otro docente. Por eso conviene consolidar en contextos distintos y ofrecer herramientas de afrontamiento.
+
+---
+
+## 6. Qué puede hacer el docente de Matemáticas
+
+### 6.1. Diseño de tarea
 
 | Práctica | Para qué |
 |----------|----------|
@@ -69,14 +84,14 @@ Por eso ayudan: **pasos visibles**, **éxitos tempranos**, **menos amenaza públ
 | Varias representaciones | Más de una vía de entrada al contenido |
 | Normas de error explícitas | El fallo informa; no humilla |
 
-### 5.2. Clima y exposición
+### 6.2. Clima y exposición
 
 - No usar la pizarra como prueba pública de valía.  
 - Permitir “paso en el cuaderno primero” antes del oral.  
 - Modelar el propio error y la corrección en voz alta.  
 - Feedback de **estrategia**, no de talento (“eres / no eres de mates”).
 
-### 5.3. Evaluación
+### 6.3. Evaluación
 
 Pregunta central: **¿qué estoy midiendo realmente?**
 
@@ -88,13 +103,40 @@ Pregunta central: **¿qué estoy midiendo realmente?**
 
 Opciones coherentes con DUA: tiempo razonable, fragmentación, evidencias formativas, defensa breve, posibilidad de mejora. No “regalar la nota”: alinear instrumento y criterio.
 
-### 5.4. Autoeficacia y atribuciones
+### 6.4. Autoeficacia y atribuciones
 
 Ver fichas [autoeficacia](autoeficacia-matematica.md) y [mindset](mindset-atribuciones-matematicas.md): logros de dominio, modelado creíble, persuasión verbal ligada a lo controlable.
 
 ---
 
-## 6. Ansiedad del docente hacia las matemáticas
+## 7. Secuencia orientativa de intervención (alumno con historial de fracaso)
+
+Cuando un alumno llega con miedo a las Matemáticas por bloqueos y malas notas previas, conviene combinar clima seguro, práctica graduada y reconstrucción de autoeficacia:
+
+1. **Identificar** las situaciones concretas que desencadenan la ansiedad y escuchar la experiencia del alumno sin juzgarla.  
+2. **Comprobar** conocimientos previos y detectar lagunas que hagan realmente difícil la tarea.  
+3. **Diseñar** problemas accesibles pero significativos, que exijan un esfuerzo razonable.  
+4. **Crear** un clima seguro: evitar humillaciones, comparaciones innecesarias y exposición pública desproporcionada.  
+5. **Dar** retroalimentación específica sobre estrategias, razonamientos, revisión y perseverancia (no solo el resultado final).  
+6. **Aumentar** progresivamente la dificultad y reducir la ayuda conforme crece la autonomía.  
+7. **Practicar** en diferentes contextos, incluyendo gradualmente actividades evaluativas; no asumir que el éxito en una situación se generaliza solo.  
+8. **Revisar** el progreso tanto en aprendizaje matemático como en ansiedad, evitación y confianza percibida.
+
+### 7.1. Ejemplo guiado: fracciones (reconstruir dominio)
+
+Operación de partida: **2/3 + 1/6**.
+
+1. Sin presión de tiempo: identificar qué hay que averiguar.  
+2. Guiar hacia denominador común. Si el alumno identifica que 2/3 = 4/6, reconocer **ese** avance de forma específica.  
+3. Completar la suma (5/6) y comprobar.  
+4. Resolver un ejercicio parecido con menos ayuda.  
+5. Abordar, progresivamente, problemas más complejos o en contextos distintos (enunciado verbal, comparación de fracciones, etc.).
+
+El objetivo no es regalar éxitos artificiales, sino construir una **secuencia de experiencias de dominio auténticas**. Resolver una fracción en ambiente tranquilo no garantiza que desaparezca la ansiedad ante un examen; hace falta generalizar a distintas tareas y contextos. Ver [autoeficacia](autoeficacia-matematica.md) y [gestión del error](gestion-del-error-matematicas.md).
+
+---
+
+## 8. Ansiedad del docente hacia las matemáticas
 
 Algunos docentes (sobre todo si su trayectoria con la materia fue conflictiva) transmiten tensión, prisa o mensajes de “esto es difícil / esto es de listos”. Conviene:
 
@@ -104,7 +146,7 @@ Algunos docentes (sobre todo si su trayectoria con la materia fue conflictiva) t
 
 ---
 
-## 7. Límites del rol
+## 9. Límites del rol
 
 | Sí | No |
 |----|----|
@@ -117,7 +159,7 @@ Si hay crisis, evitación extrema o malestar generalizado: **tutoría / orientac
 
 ---
 
-## 8. Mini-secuencia de 15 minutos (inicio de unidad)
+## 10. Mini-secuencia de 15 minutos (inicio de unidad)
 
 1. Problema accesible del núcleo (éxito temprano).  
 2. “Qué estrategia usaste” (no solo el número).  
@@ -127,20 +169,22 @@ Si hay crisis, evitación extrema o malestar generalizado: **tutoría / orientac
 
 ---
 
-## 9. Checklist docente
+## 11. Checklist docente
 
 - [ ] ¿Hay éxitos de dominio reales cerca en el tiempo?  
 - [ ] ¿La evaluación mide el criterio o también pánico y velocidad?  
 - [ ] ¿La exposición pública es opcional o dosificada?  
 - [ ] ¿El error se analiza sin humillar?  
 - [ ] ¿Mi lenguaje evita “esto es fácil” y “no eres de mates”?  
-- [ ] ¿Sé cuándo derivar fuera del aula?
+- [ ] ¿Sé cuándo derivar fuera del aula?  
+- [ ] ¿Estoy reforzando sin querer la evitación (hacer el problema por el alumno, cancelar la exposición)?
 
 ---
 
-## 10. Enlaces en el repo
+## 12. Enlaces en el repo
 
-- [Gestión del error](gestion-del-error-matematicas.md) · [Feedback efectivo](feedback-efectivo-matematicas.md)  
+- [Tema 3 — Teorías conductuales](../apuntes/03-teorias-conductuales-modificacion-conducta.md) (clásico, operante, caso Marta/pizarra)  
+- [Gestión del error](gestion-del-error-matematicas.md) · [Feedback efectivo](feedback-efectivo-matematicas.md) · [Autoeficacia](autoeficacia-matematica.md)  
 - [DUA transversal](../../../02-apuntes/didactica/dua-diseno-universal-aprendizaje.md)  
 - Ideas TFM: [ansiedad matemática transmitida](../../trabajo-fin-de-master/ideas-interesantes/10-ansiedad-matematica-transmitida.md) · [matemáticas y salud mental](../../trabajo-fin-de-master/ideas-interesantes/17-matematicas-y-salud-mental.md)  
 - Glosario: entrada *Ansiedad matemática* en [glosario de la asignatura](../glosario.md) y [glosario central](../../../02-apuntes/glosario-central-master.md)
