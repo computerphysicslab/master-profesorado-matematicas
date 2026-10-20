@@ -149,6 +149,11 @@ Solo puede responderse con **evidencia de la propia práctica** (ensayos de aula
 
 ---
 
+## 7bis. Materiales relacionados
+
+- [Asertividad y competencia social](../materiales/asertividad-y-competencia-social.md) — desarrolla la dimensión interpersonal de las competencias (estilos de respuesta, role-playing, situaciones de aula y familias).
+- [Diálogo interno y modelo A-B-C](../materiales/dialogo-interno-modelo-abc.md) — conecta la autorregulación con las creencias que median la emoción y la conducta.
+
 ## 8. Para seguir
 
 - Glosario: *competencia emocional*, *CASEL*, *modelo pentagonal*, *autorregulación*, *burnout*, *TMMS-24*.  
