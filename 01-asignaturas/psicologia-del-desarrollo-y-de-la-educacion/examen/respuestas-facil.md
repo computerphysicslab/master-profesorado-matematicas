@@ -26,12 +26,16 @@ Respuestas **breves y orientativas**. No agotan el tema ni sustituyen los apunte
 
 **10.** Ej.: aislamiento brusco, comentarios de desesperanza, caída de rendimiento/asistencia, alusiones a hacerse daño — activar **protocolo del centro**, no improvisar terapia.
 
-**11.** 1-b (Vygotsky), 2-a (Skinner), 3-d (Sweller / PI), 4-c (Dweck).
+**11.** 1-b (Vygotsky), 2-a (Skinner), 3-d (Sweller / PI), 4-c (Dweck), 5-e (Pávlov).
 
 **12.** Ej.: datos irrelevantes, figura confusa, consignas largas o ambiguas.
 
 **13.** Ej.: “Se nota la mejora en cómo organizas los datos del problema.” / “Has usado bien la representación antes de calcular.”
 
+**14.** Respuesta aprendida ante un estímulo antes neutro (p. ej. ansiedad o evitación al oír “salid a la pizarra” tras ridículo previo).
+
+**15.** **Falso.** Autoritario = alto control + bajo apoyo; autoritativo (democrático) = alto control + alto apoyo. No son sinónimos.
+
 ---
 
-*Revisa apuntes Temas 1–5 y materiales (ABC, carga, mindset, neurodivergencia, suicidio/rol docente) si no cuadra.*
+*Revisa apuntes Temas 1–5 y materiales (ABC, condicionamiento clásico, carga, mindset, neurodivergencia, suicidio/rol docente) si no cuadra.*
