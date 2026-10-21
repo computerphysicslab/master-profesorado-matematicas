@@ -122,5 +122,9 @@ La IE del docente ayuda a **leer la situación** y a responder con criterio; no 
 - **Salovey, P., & Mayer, J. D. (1990).** Emotional intelligence. *Imagination, Cognition and Personality, 9*(3), 185–211.
 - **Goleman, D. (1996).** *Inteligencia emocional*. Kairós. — Impacto cultural; en este tema se usa como **contraste** (modelo mixto), no como medida de IE.
 - **Bisquerra, R., & Pérez, N. (2007).** Las competencias emocionales. *Educación XX1, 10*, 61–82.
+- **Extremera, N., & Fernández-Berrocal, P. (2015).** *Inteligencia emocional y educación*. Grupo 5.
+- **Bisquerra Alzina, R.** *Educación emocional y bienestar* / *Psicopedagogía de las emociones*. — Tradición hispánica de educación emocional.
+
+Catálogo completo: [bibliografía de la asignatura](../bibliografia.md).
 
 **Material relacionado:** [Goleman: cinco competencias y aplicación al aula](../materiales/goleman-cinco-competencias-aplicacion-aula.md).
