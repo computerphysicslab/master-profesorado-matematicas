@@ -189,6 +189,8 @@ Es **información pública**: debe estar visible en la web del centro.
 - Plan de mejora  
 - Proyectos curriculares de etapa / área  
 
+> **Acción tutorial y orientación.** El POAT concreta los criterios y las líneas de actuación de las tutorías (ejes: aprender a ser y convivir, aprender a aprender, aprender a decidir). La acción tutorial es derecho del alumnado y función compartida del profesorado: continua, coordinada, personalizada y orientada a la autonomía. Desarrollo completo (definición, recorrido legislativo, tiempos, funciones del tutor, técnicas e instrumentos, obstáculos percibidos e implicaciones para Matemáticas): [**Acción tutorial y orientación en Secundaria**](../materiales/accion-tutorial-orientacion-secundaria.md).
+
 ### 6.2. Características deseables del PEC
 
 Objetivo, realista, participativo, integrador, coherente, flexible, claro y preciso.  
@@ -291,6 +293,7 @@ La programación anual y de unidad se detalla en Diseño curricular: [programaci
 
 - [Programa](../programa.md)  
 - [**Órganos y documentos de centro** (ficha práctica)](../materiales/organos-y-documentos-de-centro.md)  
+- [**Acción tutorial y orientación en Secundaria**](../materiales/accion-tutorial-orientacion-secundaria.md)  
 - [**Comunicación con familias (Matemáticas)**](../../sociedad-familia-y-procesos-grupales/materiales/comunicacion-con-familias-matematicas.md)  
 - [**Desafíos del contexto docente y aplicación LOMLOE (2025–2026)**](../materiales/desafios-contexto-docente-lomloe-2026.md)  
 - [**Críticas y debate sobre la LOMLOE (sesión 19-oct-2026)**](../materiales/criticas-debate-lomloe-sesion-2026-10-19.md)  
