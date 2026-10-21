@@ -19,6 +19,7 @@ Recursos prácticos y transversales (citables desde otras asignaturas y el pract
 | [**Críticas y debate sobre la LOMLOE (sesión 19-oct-2026)**](criticas-debate-lomloe-sesion-2026-10-19.md) | 1–3 · Coll-Martín, Rupérez, Serrano, Vara |
 | [**Siete competencias que el currículo español no entrena**](siete-competencias-que-el-curriculo-espanol-no-entrena.md) | 1 · marco competencial, saberes, evaluación, atención |
 | [**Órganos y documentos de centro**](organos-y-documentos-de-centro.md) | 3 · ficha práctica actualizada |
+| [**Acción tutorial y orientación en Secundaria**](accion-tutorial-orientacion-secundaria.md) | 3 · definición, recorrido, POAT, técnicas, practicum |
 | [Mapa de medidas de atención a la diversidad](mapa-medidas-atencion-diversidad.md) | 4 |
 | [Estructuras de aprendizaje cooperativo](estructuras-aprendizaje-cooperativo.md) | 4–5 |
 | [**Evaluación competencial en Matemáticas (LOMLOE)**](evaluacion-competencial-matematicas-lomloe.md) | 6 |
