@@ -2,7 +2,7 @@
 
 **Asignatura:** Procesos y contextos educativos  
 **Parte 1 de la sesión:** lectura y debate de cuatro textos (tres de reflexión + uno de investigación empírica)  
-**Conexión:** [Tema 1](../apuntes/01-evolucion-historica-sistema-educativo-paradigmas.md) · [Desafíos del contexto docente](desafios-contexto-docente-lomloe-2026.md) · [Burocratización](burocratizacion-trabajo-docente-analisis-historico.md) · [Carga burocrática LOMCE–LOMLOE](carga-burocratica-lomce-lomloe-scm.md)
+**Conexión:** [Tema 1](../apuntes/01-evolucion-historica-sistema-educativo-paradigmas.md) · [Desafíos del contexto docente](desafios-contexto-docente-lomloe-2026.md) · [Burocratización](burocratizacion-trabajo-docente-analisis-historico.md) · [Carga burocrática LOMCE–LOMLOE](carga-burocratica-lomce-lomloe-scm.md) · [Siete competencias no entrenadas](siete-competencias-que-el-curriculo-espanol-no-entrena.md)
 
 > Objetivo de la actividad: exponer primero los argumentos de los autores (sin posicionamiento personal inmediato) y después debatir desde la perspectiva de futuros docentes de Matemáticas. La LOMLOE es una ley relativamente joven (~5–6 años de implantación desde 2020); ya permite estudios de percepción y de resultados prácticos.
 
@@ -94,6 +94,7 @@ La profesora subrayó: la crítica no es sinónimo de rechazo total; se trata de
 
 ## Material relacionado
 
+- [**Siete competencias que el currículo español no entrena**](siete-competencias-que-el-curriculo-espanol-no-entrena.md) — análisis propositivo del marco competencial (conocimiento, abstracción, esfuerzo, atención, evaluación, probabilidad, argumentación)  
 - [Desafíos del contexto docente y aplicación LOMLOE (2025–2026)](desafios-contexto-docente-lomloe-2026.md)  
 - [Burocratización del trabajo docente (análisis histórico)](burocratizacion-trabajo-docente-analisis-historico.md)  
 - [Carga burocrática LOMCE–LOMLOE (SCM)](carga-burocratica-lomce-lomloe-scm.md)  
