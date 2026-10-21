@@ -119,6 +119,8 @@ Daniel **Goleman** (1995) popularizó la IE. A diferencia del modelo de *habilid
 
 **Idea clave:** Goleman = **competencias** personales y sociales para actuar con eficacia (modelo mixto, no psicometría estrecha de IE).
 
+**Material relacionado:** desarrollo completo de las cinco competencias, distinción entre empatía cognitiva / afectiva / compasión y caso detallado de bloqueo en resolución de problemas matemáticos → [Goleman: cinco competencias y aplicación al aula](../materiales/goleman-cinco-competencias-aplicacion-aula.md).
+
 ### 5.3. Bar-On: inteligencia emocional-social
 
 Reuven **Bar-On** entiende la IE como un conjunto amplio de **competencias emocionales y sociales** que permiten afrontar con eficacia las demandas del entorno. También es un **modelo mixto** (más amplio que una capacidad cognitiva pura). Organiza la IE en cinco dimensiones:
@@ -208,7 +210,7 @@ En el aula: un alumno dice que no entiende; otro resuelve al momento; un tercero
 | **Bar-On** | Autoestima («fallar este ítem ≠ no valgo para mates»); **adaptabilidad** (releer datos, probar otra representación); responsabilidad social del equipo |
 | **Steiner** *(si hubo daño)* | Reparar el vínculo tras la burla antes de seguir solo con la tarea |
 
-**Conclusión didáctica:** los modelos ofrecen *lentes* complementarias. El objetivo académico sigue siendo comprender la relación entre costes y resolver la desigualdad. La educación emocional **no sustituye** el aprendizaje matemático; puede mejorar las condiciones para que ocurra. (Unidad hermanada en DCI: [ejemplo tarifas / exigencia cognitiva](../../../diseno-curricular-e-instruccional-de-matematicas/materiales/ejemplo-unidad-tarifas-exigencia-cognitiva.md).)
+**Conclusión didáctica:** los modelos ofrecen *lentes* complementarias. El objetivo académico sigue siendo comprender la relación entre costes y resolver la desigualdad. La educación emocional **no sustituye** el aprendizaje matemático; puede mejorar las condiciones para que ocurra.
 
 ### 5.8. Esquema rápido para el examen
 
@@ -240,77 +242,23 @@ La ansiedad intensa puede consumir recursos de la memoria de trabajo y empeorar 
 
 Relación tipo Yerkes–Dodson: demasiada poca activación (aburrimiento) o demasiada (pánico) perjudican; un nivel intermedio puede facilitar el rendimiento. No hay un punto mágico universal: depende de la tarea y de la persona.
 
-### 6.4. Esfuerzo, frustración y aprendizaje matemático
+---
 
-Una frustración **productiva** (obstáculo superable con estrategia) no es lo mismo que una frustración **paralizante** (amenaza al yo, ausencia de recursos). El diseño de tareas y el clima de error marcan la diferencia. Ampliar en §9 y en el material transversal de estrés.
+## 7. Autoevaluación
+
+1. Distingue emoción, sentimiento y estado de ánimo con un ejemplo de aula de Matemáticas.  
+2. ¿Por qué Goleman y Bar-On se llaman modelos *mixtos*?  
+3. Sitúa en una frase cada enfoque: Salovey–Mayer (4 ramas), Goleman, Bar-On, Steiner y Bisquerra.  
+4. En el problema de tarifas (§5.7), indica *una* actuación alineada con Mayer–Salovey y *una* con Goleman que no sustituyan el objetivo matemático.
 
 ---
 
-## 7. Regulación emocional
+## Referencias orientativas
 
-Regular no es reprimir. Incluye seleccionar situaciones, modificarlas, desplegar atención, cambiar la cognición y modular la respuesta. En el aula: pausas breves, reevaluación («este fallo informa del paso 3»), plan de acción, normas de debate.
-
----
-
-## 8. Eustrés y distrés
-
-El **eustrés** puede acompañar un reto manejable; el **distrés**, una demanda que desborda recursos. El mismo examen puede ser eustrés para un alumno y distrés para otro según preparación, sueño, creencias y clima.
-
----
-
-## 9. Frustración y ansiedad en la clase de Matemáticas
-
-Secuencia útil de análisis:
-
-> **situación → valoración → emoción → conducta**
-
-Ejemplos de conducta: perseverar, pedir ayuda, abandonar, evitar participar, ridiculizar a otro. La intervención docente trabaja la valoración y los recursos, no solo «que no sienta».
-
----
-
-## 10. Qué puede hacer el profesor (sin ser clínico)
-
-1. Diseñar tareas con demanda cognitiva real y andamiaje retirable.  
-2. Nombrar el proceso en la norma de aula.  
-3. Modelar regulación propia (sin sobreexponerse).  
-4. Separar empatía de bajar el listón académico.  
-5. Cuidar el clima: norma explícita contra la ridiculización del error.  
-6. Derivar a tutoría / orientación / salud cuando el malestar desborda el rol docente.
-
----
-
-## 11. Respuesta a la pregunta guía
-
-Las emociones intervienen en las condiciones del aprendizaje. Desarrollar competencias emocionales **no** sustituye la enseñanza exigente de Matemáticas: puede ayudar a sostenerla.
-
----
-
-## 12. Para seguir
-
-- [Tema 1 — IE en contexto](01-inteligencia-emocional-contexto.md)  
-- [Tema 3 — Competencias e instrumentos](03-competencias-emocionales-instrumentos.md)  
-- [Estrés: impacto y gestión](estres-impacto-y-gestion-emocional.md)  
-- DCI: [unidad tarifas](../../../diseno-curricular-e-instruccional-de-matematicas/materiales/ejemplo-unidad-tarifas-exigencia-cognitiva.md)
-
----
-
-## Preguntas de autoevaluación
-
-1. Distingue emoción, sentimiento y estado de ánimo con un ejemplo de aula.  
-2. Nombra las cuatro ramas de Mayer–Salovey y un ejemplo matemático de cada una.  
-3. ¿Por qué Goleman y Bar-On se llaman modelos *mixtos*?  
-4. ¿Qué aporta Steiner que no cubre por sí solo el modelo de habilidad?  
-5. Sitúa en una frase cada enfoque: Salovey–Mayer (4 ramas), Goleman, Bar-On, Steiner y Bisquerra.  
-6. **(Nueva)** En el problema de tarifas (§5.7), indica *una* actuación alineada con Mayer–Salovey y *una* con Goleman que no rebaje el objetivo matemático.  
-7. ¿Por qué un autoinforme de IE no debe usarse para etiquetar el rendimiento en Matemáticas?
-
----
-
-## Referencias clave de este tema
-
-- **Mayer, J. D., & Salovey, P. (1997).** What is emotional intelligence? — Modelo de habilidad (enlace con §5.1 y Tema 1).  
 - **Goleman, D. (1995).** *Emotional Intelligence*.  
-- **Bar-On, R.** modelo de inteligencia emocional-social / EQ-i.  
-- **Steiner, C.** *Emotional Literacy* / alfabetización emocional (Análisis Transaccional): conocer sentimientos, empatía, gestión, reparación, interactividad.  
-- **Bisquerra Alzina, R.** *Educación emocional y bienestar* / *Psicopedagogía de las emociones*. — Giro educativo desde la IE popular hacia competencias y programas.  
-- Instrumentos y límites de medida: [Tema 3](03-competencias-emocionales-instrumentos.md).
+- **Salovey, P., & Mayer, J. D.** trabajos sobre el modelo de habilidad.  
+- **Bar-On, R.** EQ-i y modelo socioemocional.  
+- **Steiner, C.** alfabetización emocional.  
+- **Bisquerra, R.** educación emocional y modelo pentagonal.
+
+**Material relacionado:** [Goleman: cinco competencias y aplicación al aula](../materiales/goleman-cinco-competencias-aplicacion-aula.md).
