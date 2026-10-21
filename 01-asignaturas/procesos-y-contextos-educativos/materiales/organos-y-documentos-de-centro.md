@@ -29,7 +29,7 @@
 | **Programaciones didácticas** | Materia / departamento (Matemáticas) | Departamento |
 | **Plan de convivencia** | Prevención, normas, mediación | Web / Dirección |
 | **Plan de atención a la diversidad** | Medidas ordinarias y específicas | Orientación / Dirección |
-| **POAT** (Plan de orientación y acción tutorial) | Tutoría y orientación | Orientación |
+| **POAT** (Plan de orientación y acción tutorial) | Tutoría y orientación (ejes, tiempos, técnicas) | Orientación · [Material completo](accion-tutorial-orientacion-secundaria.md) |
 | **Plan digital / igualdad / mejora** | Según centro | Lectura selectiva |
 | **Memoria final de curso** | Balance de la PGA | Dirección (cierre de curso) |
 
@@ -48,4 +48,4 @@ Objetivo, realista, participativo, integrador, coherente, flexible, claro y prec
 
 > No copies datos personales de alumnado ni actas sensibles al repositorio público.
 
-**Ver:** [Apunte tema 3 (ampliado)](../apuntes/03-centros-organizacion-participacion-gestion.md) · [Críticas y debate LOMLOE (sesión 19-oct)](criticas-debate-lomloe-sesion-2026-10-19.md)
+**Ver:** [Apunte tema 3 (ampliado)](../apuntes/03-centros-organizacion-participacion-gestion.md) · [**Acción tutorial y orientación (material completo)**](accion-tutorial-orientacion-secundaria.md) · [Críticas y debate LOMLOE (sesión 19-oct)](criticas-debate-lomloe-sesion-2026-10-19.md)

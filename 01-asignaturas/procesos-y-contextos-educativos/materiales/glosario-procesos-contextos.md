@@ -17,7 +17,10 @@
 | **Departamento didáctico** | Órgano de coordinación por área; reuniones semanales obligatorias; programación y criterios comunes |
 | **PEC / PE** | Proyecto educativo de centro: identidad, valores, objetivos y contexto («ADN del centro») |
 | **PGA** | Programación general anual: plan concreto del curso |
-| **POAT** | Plan de orientación y acción tutorial |
+| **POAT** | Plan de orientación y acción tutorial: criterios y líneas de actuación de las tutorías (ejes aprender a ser/convivir, aprender a aprender, aprender a decidir) |
+| **Acción tutorial** | Actividad orientadora intencional del profesorado (especialmente el tutor) de acompañamiento continuo y personalizado al alumnado en los ámbitos académico, social, personal y profesional |
+| **RIOE** | Red Integrada de Orientación Educativa (Aragón): coordinación entre equipos de orientación de distintas etapas y especializados |
+| **Consejo orientador** | Documento de orientación al finalizar 2.º de ESO (LOMLOE) que orienta decisiones de itinerario con tiempo de apoyo antes del final de etapa |
 | **NOF / RRI** | Normas de organización y funcionamiento / reglamento de régimen interior |
 | **Proyecto de dirección** | Documento que presenta el candidato a director (objetivos, líneas de actuación, evaluación); requisito del concurso de méritos |
 | **Órganos de coordinación docente** | Departamentos, Orientación, CCP, juntas de evaluación, tutorías: organizan e implementan las enseñanzas |
@@ -33,4 +36,4 @@
 | **Situación de aprendizaje** | Escenario contextualizado que moviliza competencias y saberes |
 | **Perfil de salida** | Conjunto de competencias clave que el alumnado debe haber desarrollado al finalizar la educación básica (LOMLOE) |
 
-**Ver apuntes:** [índice](../apuntes/README.md) · [Tema 3 — Organización de centros](../apuntes/03-centros-organizacion-participacion-gestion.md) · [Órganos y documentos](organos-y-documentos-de-centro.md)
+**Ver apuntes:** [índice](../apuntes/README.md) · [Tema 3 — Organización de centros](../apuntes/03-centros-organizacion-participacion-gestion.md) · [Órganos y documentos](organos-y-documentos-de-centro.md) · [Acción tutorial y orientación](accion-tutorial-orientacion-secundaria.md)
