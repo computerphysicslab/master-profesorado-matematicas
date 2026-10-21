@@ -22,6 +22,7 @@ Este apunte es la **puerta de entrada**. El detalle está en los materiales. Ord
 | **7** | [TALIS — ficha sintética](../materiales/talis-ficha-sintetica.md) | Condiciones del profesorado (España–OCDE) |
 | **8** | [**Desafíos del contexto docente y aplicación LOMLOE (2025–2026)**](../materiales/desafios-contexto-docente-lomloe-2026.md) | Carga lectiva, huelgas, perfil de salida, debates autonómicos |
 | **9** | [**Críticas y debate sobre la LOMLOE (sesión 19-oct-2026)**](../materiales/criticas-debate-lomloe-sesion-2026-10-19.md) | Coll-Martín, Rupérez, Serrano, Vara; tensiones competencias/saberes e inclusión |
+| **9b** | [**Siete competencias que el currículo español no entrena**](../materiales/siete-competencias-que-el-curriculo-espanol-no-entrena.md) | Análisis del marco competencial; conocimiento, abstracción, esfuerzo, atención, evaluación |
 | **10** | Comparaciones de rendimiento | [PISA 2025](../materiales/leyes-educativas/comparativa-pisa-2025-y-sistemas-internacionales.md) · [PISA 2022](../materiales/pisa-2022-fracaso-escolar-matematicas.md) · [PISA 2018](../materiales/pisa-2018-aragon-china/) |
 | **11** | [Comparativa de paradigmas en una tarea de mates](../materiales/comparativa-paradigmas-tarea-matematicas.md) | Aplicación al aula |
 | **12** | [Referentes progresista / crítica / libertaria](../materiales/referentes-progresista-critica-libertaria.md) | Dewey–Freire–Neill y ecos en mates |
@@ -96,7 +97,8 @@ El paradigma sociocrítico —de raíz frankfurtiana, freireana y de la pedagog�
 
 Fichas de las leyes democráticas: [leyes-educativas/](../materiales/leyes-educativas/).  
 Cronología ampliada: [línea temporal](../materiales/linea-temporal-leyes-educativas.md).  
-Debate de aula sobre críticas a la LOMLOE: [sesión 19-oct-2026](../materiales/criticas-debate-lomloe-sesion-2026-10-19.md).
+Debate de aula sobre críticas a la LOMLOE: [sesión 19-oct-2026](../materiales/criticas-debate-lomloe-sesion-2026-10-19.md).  
+Análisis propositivo del marco competencial: [siete competencias que el currículo no entrena](../materiales/siete-competencias-que-el-curriculo-espanol-no-entrena.md).
 
 ---
 
