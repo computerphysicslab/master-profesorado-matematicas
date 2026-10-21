@@ -7,20 +7,24 @@
 **Viene de:** [Tema 1](Tema1_El_aula_como_grupo.md) · [Tema 2](Tema2_Relaciones_de_poder_en_el_aula.md) · [Tema 3](Tema3_Interaccion_y_comunicacion_en_el_aula.md)  
 **Complementa (sin sustituir):** [Procesos — atención a la diversidad e inclusión](../../procesos-y-contextos-educativos/apuntes/04-atencion-diversidad-perspectiva-inclusiva.md) · [DUA](../../../02-apuntes/didactica/dua-diseno-universal-aprendizaje.md) · [neurodivergencia en mates](../../psicologia-del-desarrollo-y-de-la-educacion/materiales/neurodivergencia-aula-matematicas.md)
 
+> **Nota de numeración.** En la programación oficial del grupo de Psicología Social este bloque figura como «Tema 3. Prejuicio y estereotipos ante la diversidad». En el índice del repositorio se mantiene como Tema 4 para preservar la secuencia del resto de apuntes (T1 grupo · T2 poder · T3 interacción · T4 prejuicio · T5 familia).
+
 ---
 
-## 1. Introducción
+## 1. Introducción y punto de partida
 
 El aula de Matemáticas no es un espacio “neutro”. Las personas categorizan, atribuyen causas, activan expectativas y, a veces, **prejuzgan**. Esas operaciones mentales y sociales condicionan quién participa, a quién se ofrece un reto, a quién se rebaja la exigencia y quién interioriza “las mates no son para mí”.
 
+**Ejemplo inicial (didáctico propio).** Una alumna recién incorporada participa poco en los debates. Algunos compañeros concluyen que “no tiene interés”. Todavía no sabemos si comprende las consignas, si teme equivocarse o si necesita más tiempo para intervenir. La conducta observada es una participación escasa. Atribuirle desinterés añade una explicación que necesita pruebas. Si además se generaliza esa interpretación a un grupo social (por procedencia, lengua, género…), aparece un problema distinto: el uso de un **estereotipo**.
+
 Este tema aborda la **gestión de la diversidad social, cultural y de género** desde la Psicología Social aplicada al aula:
 
-- percepción social;
-- atribución social;
-- prejuicios;
-- estereotipos;
-- diversidad (social, cultural, de género);
-- relaciones interculturales.
+- percepción social y formación de impresiones;
+- atribución causal (Kelley, Weiner) y sesgos;
+- estereotipos, prejuicio y discriminación;
+- mecanismos de activación y expresión (sutil / manifiesta; sexismo ambivalente);
+- amenazas del estereotipo y expectativas docentes;
+- fundamentos teóricos de la reducción del prejuicio (contacto intergrupal).
 
 **Distinción de roles entre asignaturas:**
 
@@ -36,27 +40,35 @@ Aquí el foco es el **proceso psicosocial**; allí, el **marco organizativo e in
 
 ### 2.1. Qué es
 
-La **percepción social** es el proceso por el que formamos impresiones sobre otras personas y grupos: seleccionamos información, la organizamos en categorías y le damos sentido.
+La **percepción social** es el proceso mediante el que seleccionamos e interpretamos información para comprender a otras personas. Utilizamos su conducta, el lenguaje y el contexto, junto con nuestros conocimientos y expectativas previas (Asch, 1946; Morales et al., 2007).
 
-No es una fotografía objetiva. Está mediada por:
+La información suele ser incompleta. Una impresión inicial puede orientarnos y también requerir revisión. En educación, observar a una persona en situaciones variadas ofrece una base más amplia que una conducta aislada.
 
-- expectativas previas;
-- estereotipos disponibles en la cultura;
-- el rol (docente / alumno);
-- el contexto de la tarea (examen, pizarra, grupo).
+### 2.2. De dónde procede una impresión
 
-### 2.2. Categorización
+Una impresión depende de tres polos:
 
-Para reducir complejidad, agrupamos a las personas (“los de refuerzo”, “las de altas”, “los de fuera”, “las que no se esfuerzan”). La categorización es **inevitable**; el problema aparece cuando se vuelve **rígida**, **evaluativa** y **resistente a la evidencia**.
+| Polo | Contenido |
+|------|-----------|
+| **Persona observada** | Conducta y expresiones que podemos percibir |
+| **Quien percibe** | Expectativas, experiencias y objetivos propios |
+| **Contexto** | Tarea, relación previa y condiciones de la interacción |
 
-**En mates:** categorizar por “nivel” puede organizar apoyos; categorizar como “no matemático/a” puede cerrar oportunidades de participación y de feedback de calidad ([Tema 3](Tema3_Interaccion_y_comunicacion_en_el_aula.md)).
+La interpretación puede cambiar cuando aparece información nueva.
 
-### 2.3. Efecto de primacía y confirmación
+### 2.3. Formación de impresiones (Asch)
 
-- **Primacía:** la primera impresión (primer examen, primer error en voz alta) pesa más de lo debido.  
-- **Confirmación:** tendemos a buscar datos que confirman lo que ya creemos (“siempre se despista”) e ignorar los que no.
+Asch (1946) mostró que una impresión **integra** los rasgos en una configuración: el significado de una característica depende de las otras con las que aparece. Algunos rasgos **centrales** modifican la impresión global con más fuerza que otros. Conocer que alguien es “cercano” o “distante” puede cambiar la lectura de otras características.
 
-Implicación docente: revisar periodicamente las expectativas sobre cada alumno con **evidencias recientes**, no solo con la etiqueta del primer trimestre.
+Los resultados proceden de tareas experimentales con descripciones de personas. Su aplicación al aula exige considerar la información y las relaciones reales.
+
+### 2.4. Primacía, efecto halo y sesgo de confirmación
+
+- **Efecto de primacía:** la información inicial tiene mayor peso en la impresión posterior y puede favorecer una lectura de los datos nuevos compatible con la primera interpretación (aunque la impresión también puede cambiar).
+- **Efecto halo:** extender una valoración global (o de una característica) a otras dimensiones. Hablar con soltura puede llevar a atribuir conocimientos que todavía no se han comprobado. La competencia oral y el dominio del contenido requieren evidencias propias (APA, «Halo effect», 2023).
+- **Sesgo de confirmación** (Nickerson, 1998): tendencia a buscar o interpretar información de manera favorable a las creencias y expectativas previas. Puede influir en lo que recordamos y en el valor que damos a una observación. Si se espera que alguien participe poco, se pueden recordar sus silencios y pasar por alto sus aportaciones. Registrar intervenciones y revisar ejemplos que contradicen la expectativa permite fundamentar mejor la interpretación.
+
+**Implicación docente:** revisar periódicamente las expectativas sobre cada alumno con **evidencias recientes**, no solo con la etiqueta del primer trimestre.
 
 ---
 
@@ -64,41 +76,144 @@ Implicación docente: revisar periodicamente las expectativas sobre cada alumno 
 
 ### 3.1. Qué es
 
-La **atribución** es el proceso de explicar las causas de una conducta o un resultado (“¿por qué ha suspendido?”, “¿por qué ha acertado?”).
+La **atribución causal** consiste en proponer por qué ha ocurrido una conducta o un resultado. Una explicación **personal** (disposicional) destaca características de quien actúa. Una explicación **situacional** destaca condiciones de la tarea o del entorno.
 
-| Tipo de atribución | Ejemplo | Efecto probable |
-|--------------------|---------|-----------------|
-| **Interna estable** (“es así”) | “No vale para las mates” | Baja expectativa; menos reto |
-| **Interna inestable** | “Esta vez no estudió el tema” | Posibilidad de cambio |
-| **Externa** | “El examen era confuso”; “había ruido” | Puede eximir o proteger; también puede evitar responsabilidad |
-| **Esfuerzo / estrategia** | “Usó un procedimiento inadecuado” | Abre intervención didáctica |
+Decir «ha llegado tarde porque es irresponsable» atribuye el episodio a una disposición personal. Considerar una incidencia en el transporte introduce una explicación situacional. Ambas son hipótesis que requieren información; en muchos episodios intervienen varios factores (Kelley, 1973; Gilbert y Malone, 1995).
 
-### 3.2. Sesgos frecuentes
+### 3.2. Modelo de covariación de Kelley
 
-| Sesgo | Descripción | En el aula |
-|-------|-------------|------------|
-| **Error fundamental de atribución** | Explicar la conducta ajena por rasgos y la propia por la situación | “No se esfuerza” vs “hoy el grupo no me dejó explicar” |
-| **Sesgo actor–observador** | Quien actúa ve el contexto; quien observa ve el carácter | El docente ve “pasividad”; el alumno vive miedo al ridículo |
-| **Sesgo de egocentrismo / autoservicio** | Atribuir éxitos a uno y fracasos al exterior | También en el alumnado y en el propio docente |
+El modelo analiza cómo cambia una conducta entre personas, situaciones y momentos. Tres tipos de información:
 
-### 3.3. Atribuciones y motivación en Matemáticas
+| Tipo | Pregunta |
+|------|----------|
+| **Consenso** | ¿Otras personas reaccionan de forma parecida ante la misma situación? |
+| **Distinctividad** | ¿Esta persona actúa así solo ante esa situación o también ante otras? |
+| **Consistencia** | ¿Se repite esa conducta ante la misma situación a lo largo del tiempo? |
 
-Las atribuciones del alumnado sobre el éxito/fracaso en mates (habilidad fija vs esfuerzo y estrategias) conectan con **mentalidad**, autoeficacia y ansiedad matemática (materiales de Psicología). El docente, al comentar resultados, **modela atribuciones**:
+Una sola observación aporta poca información para comparar estos tres aspectos.
 
-- poco útil: “Es que eres de letras”;  
-- más útil: “Este tipo de problema pide representar antes de calcular; vamos a practicar esa estrategia”.
+**Ejemplo didáctico.** Si varios estudiantes tienen dificultades con una misma consigna, existe un **consenso alto**. Si una alumna solo presenta dificultades en ese tipo de tarea, su conducta muestra **distinctividad alta**. Si ocurre repetidamente ante ella, la **consistencia es alta**. En el modelo, esta combinación favorece atribuir la respuesta a características de la **tarea o del estímulo** (una consigna confusa sería una posibilidad a contrastar). La covariación orienta la atribución; por sí sola no demuestra cuál es la causa real.
+
+### 3.3. Dimensiones de Weiner
+
+Weiner (1985) analizó cómo las causas que atribuimos a los resultados se relacionan con las expectativas y las emociones. Tres dimensiones:
+
+| Dimensión | Pregunta |
+|-----------|----------|
+| **Localización** | ¿La causa se sitúa en la persona o fuera de ella? |
+| **Estabilidad** | ¿Se espera que la causa persista o que varíe con el tiempo? |
+| **Controlabilidad** | ¿Se considera que la causa puede modificarse voluntariamente? |
+
+Entender una dificultad como consecuencia de una **estrategia que puede modificarse** ofrece una expectativa distinta de atribuirla a una **incapacidad permanente**. Son interpretaciones causales: no permiten concluir que todo resultado dependa del esfuerzo o esté bajo control individual.
+
+### 3.4. Sesgo de correspondencia (error fundamental de atribución)
+
+Consiste en inferir disposiciones personales estables a partir de una conducta que puede explicarse por la situación. Se relaciona con la tendencia a dar poco peso a las restricciones del entorno (Gilbert y Malone, 1995).
+
+**Ejemplo.** Interpretar el silencio de una estudiante como falta de interés puede omitir que acaba de recibir una burla. Su aparición depende de la información y del procesamiento de quien observa.
+
+### 3.5. Expectativas docentes y profecía autocumplida
+
+Una **profecía autocumplida** ocurre cuando una expectativa inicialmente equivocada contribuye, mediante el trato y las oportunidades que genera, a producir el resultado esperado. Las expectativas pueden influir en las interacciones educativas.
+
+Jussim y Harber (2005) concluyeron que estos efectos **existen**, aunque suelen ser **pequeños y variables**. Muchas expectativas también predicen resultados porque recogen información válida. Por tanto, una predicción acertada **no demuestra por sí sola** una profecía autocumplida.
+
+### 3.6. Observar, interpretar y contrastar
+
+Separar estos planos permite revisar una explicación sin confundirla con el hecho:
+
+| Plano | Ejemplo |
+|-------|---------|
+| **Observación** | «Ha intervenido una vez en tres debates». Describe una conducta situada. |
+| **Interpretación** | «No le interesa la asignatura». Propone una explicación que puede ser errónea. |
+| **Contraste** | Revisar otras tareas y condiciones. Buscar información que apoye o cuestione la explicación. |
+
+La revisión de una hipótesis necesita evidencias y alternativas plausibles (síntesis de Kelley, 1973, y Nickerson, 1998).
 
 ---
 
-## 4. Estereotipos
+## 4. Estereotipo, prejuicio y discriminación
 
-### 4.1. Definición
+### 4.1. Tres conceptos que conviene distinguir
 
-Un **estereotipo** es un conjunto de creencias **generalizadas** sobre las características de los miembros de un grupo (pueden ser positivas, negativas o mixtas). Simplifica la realidad social; a menudo **resiste** la información contradictoria.
+| Concepto | Qué es | Ejemplo orientativo |
+|----------|--------|---------------------|
+| **Estereotipo** | Creencia generalizada sobre las características de un grupo | Atribuir a un grupo una capacidad o un comportamiento general |
+| **Prejuicio** | Evaluación o actitud hacia las personas basada en su pertenencia grupal (habitualmente estudiada por su orientación negativa) | Sentir rechazo o desconfianza por la pertenencia grupal |
+| **Discriminación** | Trato desigual o desfavorable asociado a esa pertenencia | Excluir a una persona de una oportunidad por esa pertenencia |
 
-No es lo mismo que una descripción estadística matizada: el estereotipo se aplica de forma automática al individuo (“es X, luego será Y”).
+Los tres conceptos están relacionados, pero **no son equivalentes** ni forman una secuencia inevitable. Una conducta discriminatoria también puede sostenerse mediante normas o procedimientos institucionales (Allport, 1954; Morales et al., 2007).
 
-### 4.2. Estereotipos frecuentes en torno a las Matemáticas
+Los ejemplos describen mecanismos. **No justifican** las creencias ni las conductas que ilustran.
+
+### 4.2. Categorización social, endogrupo y exogrupo
+
+La **categorización social** organiza a las personas mediante pertenencias relevantes en una situación. Permite simplificar información, pero también puede hacer más visibles unas diferencias y dejar otras en segundo plano (Tajfel et al., 1971; Tajfel y Turner, 1979).
+
+En un centro educativo pueden destacar la clase, la especialidad o la pertenencia a un equipo. Una misma persona participa en categorías diferentes. La importancia de cada pertenencia depende de la comparación y de las relaciones que se activan en ese momento.
+
+- **Endogrupo:** el grupo con el que nos identificamos en una situación.
+- **Exogrupo:** el grupo respecto al que establecemos una diferencia.
+
+Estas posiciones son **relacionales** y pueden cambiar según el contexto. Los estudios de **grupos mínimos** (Tajfel et al., 1971) mostraron favoritismo hacia el propio grupo bajo categorizaciones experimentales muy simples. El resultado **no implica** que toda categorización produzca hostilidad. El favoritismo, el rechazo y la discriminación requieren distinguir las conductas y las condiciones en que aparecen.
+
+### 4.3. Identidad social y comparación
+
+La **identidad social** es la parte del autoconcepto vinculada a las pertenencias grupales y a su significado. Tajfel y Turner (1979) relacionaron las comparaciones entre grupos con la búsqueda de una identidad social positiva. La comparación puede destacar logros del propio grupo y producir favoritismo en determinados contextos. La teoría ayuda a explicar la importancia de la pertenencia y del estatus relativo; **no permite deducir** que todas las personas reaccionen igual ante una misma posición grupal.
+
+### 4.4. Contenido de los estereotipos: calidez y competencia
+
+Fiske y colaboradores (2002) propusieron dos dimensiones del contenido estereotípico:
+
+- **Calidez:** intenciones atribuidas (cercanía, confianza…).
+- **Competencia:** capacidad atribuida para actuar eficazmente.
+
+Un grupo puede recibir valoraciones favorables en una dimensión y desfavorables en la otra. Son **percepciones sociales**, no descripciones objetivas de sus integrantes. El modelo ayuda a comprender por qué una valoración aparentemente positiva puede coexistir con expectativas limitantes. Percibir a alguien como cercano **no permite inferir** su capacidad, ni a la inversa.
+
+### 4.5. Correlación ilusoria
+
+La **correlación ilusoria** consiste en percibir una asociación entre acontecimientos que los datos no sostienen, o en exagerar su relación. Hamilton y Gifford (1976) estudiaron cómo la combinación de sucesos poco frecuentes puede distorsionar los juicios sobre grupos.
+
+Recordar especialmente un incidente llamativo protagonizado por un miembro de un grupo poco representado puede favorecer una generalización. Para valorar si existe una relación, necesitamos comparar frecuencias y situaciones, **incluyendo los casos que no encajan** en esa impresión.
+
+### 4.6. Aprendizaje y activación de estereotipos
+
+Los estereotipos pueden aprenderse mediante el lenguaje, las representaciones culturales y las respuestas del entorno. Conocer que un estereotipo existe en una sociedad es diferente de aceptarlo como una creencia propia.
+
+Devine (1989) distinguió procesos **automáticos** y **controlados** en el prejuicio. Una asociación activada **no determina por sí sola** el juicio final ni la conducta. Su trabajo ofrece un marco para comprender la revisión consciente de las respuestas, sin asumir que todos los estereotipos se activan siempre.
+
+### 4.7. Expresión abierta y expresión sutil
+
+Pettigrew y Meertens (1995) distinguieron prejuicio **manifiesto** y **sutil** en su estudio de actitudes hacia la inmigración en Europa occidental. El manifiesto incluye formas directas de rechazo. El sutil puede expresarse de manera indirecta y socialmente más aceptable (defensa rígida de valores tradicionales, exageración de diferencias culturales, negación de emociones positivas hacia el exogrupo). La distinción es un modelo de investigación situado: una frase aislada exige analizar su significado y su contexto.
+
+### 4.8. Sexismo hostil y benevolente
+
+Glick y Fiske (1996) diferenciaron dos componentes del **sexismo ambivalente**:
+
+- **Hostil:** antagonismo hacia las mujeres.
+- **Benevolente:** tono subjetivamente positivo, pero visión paternalista y restrictiva de sus capacidades o funciones.
+
+En un aula, apartar a una alumna de una tarea técnica para «protegerla», sin atender a su competencia ni a su elección, ilustra ese paternalismo. El tono amable puede coexistir con la limitación de oportunidades. Se trata de un ejemplo conceptual, no de una evaluación de una persona.
+
+---
+
+## 5. Consecuencias en el aula
+
+### 5.1. Oportunidades de participación y evaluación
+
+Los estereotipos pueden influir en qué tareas se ofrecen, quién recibe una explicación detallada o a quién se considera capaz de representar al equipo. Estas decisiones modifican las oportunidades de mostrar y desarrollar capacidades.
+
+Para estudiar un posible trato desigual conviene comparar criterios, oportunidades y respuestas ante conductas similares. Una diferencia observada requiere explicación contextual. También puede señalar una barrera que necesita atención aunque nadie declare una intención de excluir (síntesis a partir de Jussim y Harber, 2005).
+
+### 5.2. Amenaza del estereotipo
+
+La **amenaza del estereotipo** describe el riesgo de sentirse juzgado mediante un estereotipo negativo del propio grupo en una situación evaluativa. Steele y Aronson (1995) estudiaron cómo esa situación podía afectar al rendimiento en tareas concretas.
+
+La magnitud y la generalización del efecto requieren **cautela**. Flore y Wicherts (2015) encontraron indicios de sesgo de publicación en estudios con niñas y adolescentes. El concepto **no explica por sí solo** las diferencias educativas ni permite atribuirle automáticamente una calificación individual.
+
+**Implicación:** el clima del aula (quién es llamado a la pizarra, qué ejemplos se usan, qué se dice en broma) puede activar o desactivar amenaza.
+
+### 5.3. Estereotipos frecuentes en torno a las Matemáticas
 
 | Estereotipo | Manifestación típica | Riesgo |
 |-------------|----------------------|--------|
@@ -108,89 +223,60 @@ No es lo mismo que una descripción estadística matizada: el estereotipo se apl
 | Neurodivergencia | “El de TDAH no puede trabajar en grupo” | Exclusión preventiva |
 | Edad / curso | “En 2.º ya deberían saberlo; si no, es que no vale” | Ignorar trayectorias y enseñanza previa |
 
-### 4.3. Amenaza de estereotipo
+### 5.4. Diversidad e información individual
 
-Cuando una persona teme confirmar un estereotipo negativo sobre su grupo, el rendimiento puede **bajar** (ansiedad, reducción de memoria de trabajo). En mates está documentado el efecto en contextos de estereotipo de género o de minoría.
+La diversidad del aula incluye diferencias de experiencias, conocimientos, condiciones materiales, identidades y necesidades de acceso. Cada estudiante combina pertenencias y trayectorias que una sola etiqueta no resume.
 
-**Implicación:** el clima del aula (quién es llamado a la pizarra, qué ejemplos se usan, qué se dice en broma) puede activar o desactivar amenaza.
-
----
-
-## 5. Prejuicios
-
-### 5.1. Definición
-
-El **prejuicio** es una **actitud** (evaluación, a menudo negativa) hacia una persona por su pertenencia a un grupo, **antes** o **al margen** de conocerla en profundidad. Tiene componente cognitivo (creencias/estereotipos), afectivo (emoción) y conductual (tendencia a discriminar).
-
-| | Estereotipo | Prejuicio | Discriminación |
-|--|-------------|-----------|----------------|
-| Qué es | Creencia generalizada | Actitud evaluativa | Conducta de trato desigual |
-| Ejemplo | “Las chicas son peores en geometría” | Malestar o desvalorización ante una alumna que destaca | No proponerla para el taller de problemas; cortarle la palabra |
-
-Se puede tener estereotipo sin prejuicio intenso, o prejuicio sin discriminación abierta; en el aula lo más dañino suele ser la **discriminación sutil** (menos tiempo de espera, menos feedback de calidad, menos retos).
-
-### 5.2. Prejuicio sutil y expectativas docentes
-
-El efecto **Pygmalion** (expectativas que se autorrealizan): si el docente espera poco, ofrece menos oportunidades de respuesta elaborada, menos andamiaje de alto nivel y interpreta los fallos como confirmación.
-
-Conecta con el **currículo oculto** ([Tema 2](Tema2_Relaciones_de_poder_en_el_aula.md)): a quién se mira, a quién se pregunta, qué problemas se consideran “para todos”.
-
-### 5.3. Endogrupo y exogrupo (Tajfel)
-
-Favoritismo hacia el **endogrupo** (“los nuestros”) y desvalorización del **exogrupo**. En el centro: “nuestra clase” vs “la de B”; “los de mates” vs “los de letras”; alumnado autóctono vs de origen extranjero. La identidad social explica rivalidades y también la cohesión (Tema 1 y 2).
+Una categoría social puede ser relevante para comprender una experiencia de desigualdad. A la vez, conocer la situación concreta de una persona permite evitar atribuciones automáticas sobre sus preferencias o capacidades. Analizar la pertenencia y atender a la variación individual son tareas **complementarias**.
 
 ---
 
-## 6. Diversidad: marco para el aula
+## 6. Reducción del prejuicio
 
-### 6.1. Diversidad no es solo “el diferente”
+### 6.1. Del prejuicio a las condiciones de inclusión
 
-La diversidad es la **norma** del grupo-clase: trayectorias, lenguas, géneros, capacidades, religiones, orientaciones, situaciones socioeconómicas, neurodivergencias. El problema no es que exista diversidad; es organizarla con **equidad** (dar a cada quien lo que necesita para aprender) sin rebajar la dignidad ni, sistemáticamente, el nivel de exigencia cognitiva.
+La reducción del prejuicio puede implicar cambios en las valoraciones y también en las relaciones y en las oportunidades de participación. Los efectos de una propuesta dependen de su duración, del contexto y de lo que se evalúa.
 
-### 6.2. Diversidad social
+Paluck y colaboradores (2021) revisaron investigaciones sobre reducción del prejuicio y señalaron limitaciones metodológicas y dudas sobre la **persistencia** de muchos efectos. Una mejora inmediata en un cuestionario no demuestra por sí sola un cambio duradero en la convivencia.
 
-Origen socioeconómico, capital cultural (Bourdieu), hábitat, redes de apoyo. En mates se traduce en:
+### 6.2. Hipótesis del contacto intergrupal (Allport)
 
-- acceso a clases particulares o materiales;
-- tiempo y espacio en casa para estudiar;
-- familiaridad con el lenguaje escolar (“justifica”, “demuestra”);
-- expectativas familiares sobre la utilidad de las mates.
+Allport (1954) propuso que determinadas condiciones del contacto entre grupos pueden favorecer relaciones menos prejuiciosas:
 
-Evitar el prejuicio de déficit: “no tienen cultura” suele ocultar **otra** cultura y un desajuste escuela–medio, no ausencia de inteligencia.
+| Condición | Contenido orientativo |
+|-----------|------------------------|
+| **Igualdad de estatus** | Oportunidades de intervenir y de aportar con reconocimiento |
+| **Metas comunes** | Un resultado compartido que importe a los participantes |
+| **Cooperación** | Aportaciones que se coordinan para alcanzar la meta |
+| **Apoyo institucional** | Normas y figuras responsables que respaldan la igualdad |
 
-### 6.3. Diversidad cultural y relaciones interculturales
+En el aula, compartir espacio permite coincidir, pero la calidad de la relación depende de cómo se organiza la interacción. La competencia intensa, la desigualdad o la exclusión pueden dificultar el contacto (Allport, 1954; Pettigrew y Tropp, 2006).
 
-| Enfoque | Idea | Riesgo |
-|---------|------|--------|
-| Asimilacionista | Que el otro se parezca al “nosotros” escolar | Negación de identidades |
-| Multicultural (yuxtaposición) | Respeto folclórico sin tocar el currículo | Diversidad como adorno |
-| **Intercultural** | Interacción, diálogo, revisión de la norma escolar | Exige tiempo y formación |
+Pettigrew y Tropp (2006) integraron 713 muestras de 515 estudios: el contacto intergrupal suele relacionarse con una reducción del prejuicio y las condiciones favorables refuerzan ese resultado. La reducción también apareció en estudios que no cumplían todas esas condiciones; conviene entenderlas como **facilitadoras**.
 
-En el aula de mates, interculturalidad no es solo un cartel de banderas: es:
+### 6.3. Cooperación y pertenencia compartida
 
-- legitimar distintas **estrategias** y contextos de los problemas (sin caer en estereotipos exóticos);
-- no confundir nivel de lengua vehicular con competencia matemática;
-- vigilar microexclusiones (bromas, apodos, no elegir para el grupo).
+La cooperación relaciona este tema con el funcionamiento de los grupos del Tema 1. Cuando las aportaciones tienen valor para una meta común, la interacción puede ofrecer información personal que cuestione expectativas previas. El contacto de calidad requiere posibilidades reales de contribuir. Si una persona queda siempre en una función periférica, el trabajo compartido puede mantener una jerarquía.
 
-**Contacto intergrupal** (Allport, condiciones): igualdad de estatus en la situación, metas comunes, cooperación, apoyo normativo (el docente marca la norma). El trabajo cooperativo bien estructurado puede ser un dispositivo intercultural; el grupo forzado sin normas puede reforzar prejuicio.
+### 6.4. Normas, referentes y clima del centro
 
-### 6.4. Diversidad de género
+Las respuestas del entorno comunican qué conductas reciben aprobación o rechazo. Esto conecta el prejuicio con las normas grupales y con la influencia social (Temas 1–2). Paluck, Shepherd y Aronow (2016) estudiaron una propuesta contra el conflicto en 56 centros escolares y mostraron la relevancia de estudiantes socialmente influyentes para modificar percepciones normativas. Analizaba conflicto escolar; no debe presentarse como prueba de reducción de todo tipo de prejuicio.
 
-Incluye desigualdades y estereotipos ligados al sexo/género en la socialización matemática:
+### 6.5. Evaluar cambios en varios planos
 
-- participación oral desigual;
-- atribuciones distintas al éxito (chicos: “es listo”; chicas: “se ha esforzado” — patrón clásico de investigación);
-- orientación académica y elección de optativas/bachillerato;
-- tolerancia distinta al error público.
+Una evaluación del prejuicio puede estudiar creencias, valoraciones o conductas. Estos indicadores aportan información diferente. Que una persona aprenda a identificar un estereotipo no garantiza que cambie su comportamiento en todas las situaciones. En un centro resulta relevante examinar también las oportunidades de participación, la distribución de funciones y la experiencia de pertenencia.
 
-**Prácticas de aula:**
+### 6.6. Un episodio del aula, varios niveles
 
-- repartir turnos y tipos de pregunta (no solo cálculo rápido a unos y “ayudar” a otras);
-- modelos y referentes diversos en historias de las matemáticas (repo: historias matemáticas);
-- evitar bromas de género sobre “ser de letras”;
-- feedback orientado a estrategias en todo el alumnado.
+La exclusión de una oportunidad puede analizarse desde:
 
-La diversidad de género no se agota en chicas/chicos: incluye respeto a identidades y orientaciones, sin convertir al docente en terapeuta (límites de rol: Tema 1).
+| Nivel | Pregunta |
+|-------|----------|
+| **Personal** | Qué información y atribuciones utiliza quien decide |
+| **Grupal** | Qué categorías y expectativas comparten los compañeros |
+| **Institucional** | Qué reglas y procedimientos distribuyen las oportunidades |
+
+Los niveles se relacionan. La explicación no tiene por qué limitarse a una sola causa.
 
 ---
 
@@ -211,17 +297,19 @@ La diversidad de género no se agota en chicas/chicos: incluye respeto a identid
 1. **Norma explícita** anti-burla y de respeto al error (consistencia: Tema 2).  
 2. **Estructuras cooperativas** con roles rotativos e interdependencia (no solo “juntar distintos”).  
 3. **Preguntas y retos distribuidos** (observar a quién se ofrece el problema difícil).  
-4. **Atribuciones de proceso** en el feedback verbal y escrito.  
+4. **Atribuciones de proceso** en el feedback verbal y escrito (Weiner).  
 5. **Representaciones múltiples** (DUA): reduce confusión lengua/capacidad.  
 6. **Revisión de materiales:** ¿quién aparece en los enunciados? ¿qué oficios, qué barrios?  
-7. **Autovigilancia docente:** listado semanal de a quién se ha preguntado y con qué tipo de pregunta.
+7. **Autovigilancia docente:** listado semanal de a quién se ha preguntado y con qué tipo de pregunta.  
+8. **Contraste de hipótesis** (observar → interpretar → contrastar) antes de fijar una etiqueta.
 
 ### 7.3. Lo que no funciona (o es insuficiente)
 
 - Solo celebrar “días de…” sin tocar la interacción cotidiana.  
-- Rebajar sistemáticamente el nivel “por empatía” (confunde equidad con paternalismo).  
+- Rebajar sistemáticamente el nivel “por empatía” (confunde equidad con paternalismo; véase sexismo benevolente).  
 - Ignorar el conflicto intergrupal (“en mi clase no hay prejuicio”).  
-- Etiquetar en voz alta al alumnado por categoría (“como eres disléxico…” en público).
+- Etiquetar en voz alta al alumnado por categoría (“como eres disléxico…” en público).  
+- Asumir que un cambio de actitud medido en cuestionario implica cambio duradero de conducta (Paluck et al., 2021).
 
 ---
 
@@ -236,8 +324,11 @@ La diversidad de género no se agota en chicas/chicos: incluye respeto a identid
 | Atribución / amenaza | Mensaje que liga facilidad a un tipo de persona |
 | Percepción docente | Primacía de las manos rápidas; invisibleiza a la alumna |
 | Intercultural / género | Falta meta común y norma de inclusión; participación sesgada |
+| Sexismo benevolente (posible) | Si se “protege” a la alumna de la pizarra en nombre de no ponerla en apuros |
 
-**Ajustes:** grupos con criterio pedagógico (no solo afinidad); rol de portavoz rotativo; tiempo de pensamiento; reformular “esto se puede abordar con la estrategia X”; intervenir en la exclusión del compañero como norma de convivencia, no como detalle lateral.
+**Ajustes:** grupos con criterio pedagógico (no solo afinidad); rol de portavoz rotativo; tiempo de pensamiento; reformular “esto se puede abordar con la estrategia X”; intervenir en la exclusión del compañero como norma de convivencia, no como detalle lateral; distribuir retos cognitivos de forma deliberada.
+
+**Volvemos al ejemplo inicial.** Sabemos que la alumna recién incorporada interviene poco. La percepción social explica cómo construimos una impresión de esa conducta. La atribución analiza si la explicamos por características personales, por la situación o por su interacción. Si su pertenencia grupal sustituye a la información individual, reconocemos el uso de un estereotipo. Si esa generalización acompaña rechazo o limita oportunidades, necesitamos analizar también prejuicio y discriminación. El caso admite hipótesis que deben contrastarse.
 
 ---
 
@@ -251,6 +342,8 @@ La diversidad de género no se agota en chicas/chicos: incluye respeto a identid
 - [ ] ¿Se confunde nivel de lengua con nivel matemático?  
 - [ ] ¿Hay norma clara frente a la exclusión?  
 - [ ] ¿Se ofrece reto cognitivo a todo el mundo o solo al “grupo bueno”?  
+- [ ] ¿Se separan observación, interpretación y contraste antes de fijar una etiqueta?  
+- [ ] ¿Las estructuras cooperativas cumplen (o se acercan a) las condiciones de Allport?
 
 ---
 
@@ -258,10 +351,11 @@ La diversidad de género no se agota en chicas/chicos: incluye respeto a identid
 
 1. Diario de expectativas: durante una semana, anotar a quién se da feedback elaborado y a quién solo “bien/mal”.  
 2. Análisis de un tema del libro: estereotipos de género u origen en los enunciados.  
-3. Caso: amenaza de estereotipo en un examen de mates — qué condiciones de aula la agravan o reducen.  
-4. Rediseño de agrupamientos para un problema cooperativo con meta común (Allport).  
-5. Contraste conceptual: estereotipo / prejuicio / discriminación con ejemplos de la propia observación.  
-6. Puente con Procesos: una medida inclusiva (DUA) que además reduce activación de estereotipo.
+3. Caso: amenaza de estereotipo en un examen de mates — qué condiciones de aula la agravan o reducen (y qué dice la evidencia sobre la magnitud del efecto).  
+4. Rediseño de agrupamientos para un problema cooperativo con meta común (condiciones de Allport).  
+5. Contraste conceptual: estereotipo / prejuicio / discriminación con ejemplos de la propia observación; añadir la distinción manifiesto / sutil.  
+6. Aplicar el modelo de covariación de Kelley a una conducta concreta del aula (consenso, distinctividad, consistencia).  
+7. Puente con Procesos: una medida inclusiva (DUA) que además reduce activación de estereotipo.
 
 ---
 
@@ -269,13 +363,23 @@ La diversidad de género no se agota en chicas/chicos: incluye respeto a identid
 
 | Concepto | Idea clave |
 |----------|------------|
-| Percepción social | Impresiones y categorías sobre personas/grupos |
-| Atribución | Explicación causal de conductas y resultados |
+| Percepción social | Impresiones y categorías sobre personas/grupos (Asch) |
+| Primacía / halo / confirmación | Peso de la primera información; extensión de valoraciones; búsqueda selectiva |
+| Atribución (Kelley) | Consenso, distinctividad, consistencia |
+| Dimensiones de Weiner | Localización, estabilidad, controlabilidad |
+| Sesgo de correspondencia | Inferir disposición estable desde conducta situacional |
+| Profecía autocumplida | Expectativa → trato → resultado (efectos pequeños y variables) |
 | Estereotipo | Creencia generalizada sobre un grupo |
 | Prejuicio | Actitud (a menudo negativa) por pertenencia grupal |
 | Discriminación | Trato desigual efectivo |
-| Amenaza de estereotipo | Miedo a confirmar el estereotipo → peor rendimiento |
+| Calidez / competencia (Fiske) | Dos dimensiones del contenido estereotípico |
+| Correlación ilusoria | Asociación percibida no sostenida por los datos |
+| Automático / controlado (Devine) | Activación ≠ aceptación ni conducta |
+| Prejuicio sutil / manifiesto | Expresión indirecta vs. directa |
+| Sexismo hostil / benevolente | Antagonismo vs. paternalismo restrictivo |
+| Amenaza de estereotipo | Miedo a confirmar el estereotipo → posible peor rendimiento (con cautelas) |
 | Endogrupo / exogrupo | Favoritismo y frontera del “nosotros” |
+| Contacto intergrupal (Allport) | Igualdad de estatus, metas comunes, cooperación, apoyo normativo |
 | Interculturalidad | Interacción y diálogo, no solo yuxtaposición |
 | Equidad | Ajustar oportunidades sin paternalismo ni techo de exigencia |
 
@@ -285,25 +389,68 @@ La diversidad de género no se agota en chicas/chicos: incluye respeto a identid
 
 | Tema / material | Relación |
 |-----------------|----------|
-| Tema 1 | Cultura grupal, cohesión, exclusión, roles |
-| Tema 2 | Poder, currículo oculto, identidad social |
-| Tema 3 | Quién habla; comunicación del error; ruido social |
-| Procesos · Tema 4 | Medidas, inclusión, DUA (el *qué organizar*) |
-| Psicología | Autoeficacia, ansiedad, neurodivergencia |
-| Familias | Expectativas y mensajes sobre mates y esfuerzo |
+| Tema 1 | Cultura grupal, cohesión, exclusión, roles; cooperación y metas comunes |
+| Tema 2 | Poder, currículo oculto, identidad social, normas |
+| Tema 3 | Quién habla; comunicación del error; ruido social; participación |
+| Procesos · atención a la diversidad | Medidas, inclusión, DUA (el *qué organizar*) |
+| Psicología | Autoeficacia, ansiedad matemática, neurodivergencia, atribuciones de logro |
+| Familias (Tema 5) | Expectativas y mensajes sobre mates y esfuerzo; capital cultural |
+| Habilidades comunicativas | Feedback, consignas, asertividad frente a microexclusiones |
 
 ---
 
 ## 13. Referencias orientativas
 
-- Tajfel & Turner — identidad social, endogrupo/exogrupo.  
-- Allport — contacto intergrupal (condiciones).  
-- Heider / Kelley — líneas clásicas de atribución; sesgos posteriores en psicología social.  
-- Steele — amenaza de estereotipo (línea de trabajo).  
-- Bourdieu — capital cultural y escuela.  
-- Investigación sobre estereotipo de género y Matemáticas (expectativas, autoeficacia, elección de itinerarios).  
-- Repo: [inclusión en Procesos](../../procesos-y-contextos-educativos/apuntes/04-atencion-diversidad-perspectiva-inclusiva.md), [DUA](../../../02-apuntes/didactica/dua-diseno-universal-aprendizaje.md).
+**Programáticas y de manual**
+
+- Navas, M. S., y Cuadrado, I. (Coords.). (2013). *El estudio del prejuicio en Psicología Social*. Sanz y Torres.  
+- Morales, J. F., Moya, M., Gaviria, E., y Cuadrado, I. (Coords.). (2007). *Psicología social* (3.ª ed.). McGraw-Hill.
+
+**Percepción social**
+
+- Asch, S. E. (1946). Forming impressions of personality. *The Journal of Abnormal and Social Psychology, 41*(3), 258–290.  
+- Nickerson, R. S. (1998). Confirmation bias: A ubiquitous phenomenon in many guises. *Review of General Psychology, 2*(2), 175–220.  
+- American Psychological Association. (2023). Halo effect. *APA Dictionary of Psychology*.
+
+**Atribución y expectativas**
+
+- Kelley, H. H. (1973). The processes of causal attribution. *American Psychologist, 28*(2), 107–128.  
+- Weiner, B. (1985). An attributional theory of achievement motivation and emotion. *Psychological Review, 92*(4), 548–573.  
+- Gilbert, D. T., y Malone, P. S. (1995). The correspondence bias. *Psychological Bulletin, 117*(1), 21–38.  
+- Jussim, L., y Harber, K. D. (2005). Teacher expectations and self-fulfilling prophecies. *Personality and Social Psychology Review, 9*(2), 131–155.
+
+**Identidad y categorización**
+
+- Tajfel, H., Billig, M. G., Bundy, R. P., y Flament, C. (1971). Social categorization and intergroup behaviour. *European Journal of Social Psychology, 1*(2), 149–178.  
+- Tajfel, H., y Turner, J. C. (1979). An integrative theory of intergroup conflict. En W. G. Austin y S. Worchel (Eds.), *The social psychology of intergroup relations* (pp. 33–47). Brooks/Cole.
+
+**Procesos del estereotipo**
+
+- Fiske, S. T., Cuddy, A. J. C., Glick, P., y Xu, J. (2002). A model of (often mixed) stereotype content. *Journal of Personality and Social Psychology, 82*(6), 878–902.  
+- Hamilton, D. L., y Gifford, R. K. (1976). Illusory correlation in interpersonal perception. *Journal of Experimental Social Psychology, 12*(4), 392–407.  
+- Devine, P. G. (1989). Stereotypes and prejudice: Their automatic and controlled components. *Journal of Personality and Social Psychology, 56*(1), 5–18.
+
+**Expresiones del prejuicio**
+
+- Pettigrew, T. F., y Meertens, R. W. (1995). Subtle and blatant prejudice in western Europe. *European Journal of Social Psychology, 25*(1), 57–75.  
+- Glick, P., y Fiske, S. T. (1996). The Ambivalent Sexism Inventory. *Journal of Personality and Social Psychology, 70*(3), 491–512.  
+- Allport, G. W. (1954). *The nature of prejudice*. Addison-Wesley.
+
+**Amenaza del estereotipo**
+
+- Steele, C. M., y Aronson, J. (1995). Stereotype threat and the intellectual test performance of African Americans. *Journal of Personality and Social Psychology, 69*(5), 797–811.  
+- Flore, P. C., y Wicherts, J. M. (2015). Does stereotype threat influence performance of girls in stereotyped domains? A meta-analysis. *Journal of School Psychology, 53*(1), 25–44.
+
+**Contacto y cambio**
+
+- Pettigrew, T. F., y Tropp, L. R. (2006). A meta-analytic test of intergroup contact theory. *Journal of Personality and Social Psychology, 90*(5), 751–783.  
+- Paluck, E. L., Shepherd, H., y Aronow, P. M. (2016). Changing climates of conflict: A social network experiment in 56 schools. *Proceedings of the National Academy of Sciences, 113*(3), 566–571.  
+- Paluck, E. L., Porat, R., Clark, C. S., y Green, D. P. (2021). Prejudice reduction: Progress and challenges. *Annual Review of Psychology, 72*, 533–560.
+
+**Repo**
+
+- [Inclusión en Procesos](../../procesos-y-contextos-educativos/apuntes/04-atencion-diversidad-perspectiva-inclusiva.md) · [DUA](../../../02-apuntes/didactica/dua-diseno-universal-aprendizaje.md).
 
 ---
 
-*Apunte orientativo para el Máster de Profesorado · especialidad Matemáticas. Complementa la guía docente; no la sustituye.*
+*Apunte orientativo para el Máster de Profesorado · especialidad Matemáticas. Integra el marco teórico de Psicología Social (percepción, atribución, estereotipos, prejuicio, contacto) con implicaciones para el aula de Matemáticas. Complementa la guía docente; no la sustituye.*
