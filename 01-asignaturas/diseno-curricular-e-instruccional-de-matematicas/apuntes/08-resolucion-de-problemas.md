@@ -181,12 +181,16 @@ Se alinean con el enfoque «a través»:
 - Trabajo de pie en **pizarras verticales** (minimiza el miedo al error y aumenta la visibilidad del pensamiento).
 - Rol docente centrado en preguntas y pistas; buscar que la clase «fluya» (equilibrio entre reto y habilidad).
 - Evaluación de procesos de forma formativa.
+- Tras el trabajo colectivo en las pizarras verticales es indispensable la fase de **reflexión individual en el cuaderno** (*post-thinking*): consolida lo aprendido y evita que el aprendizaje se quede solo en el grupo.
+- Al inicio de curso, para vencer la resistencia a las rutinas pasivas, conviene empezar con problemas atractivos que «no huelan a contenido obligatorio estricto».
 
 ### 7.3. Ejemplos de secuencias (introducir objetos)
 
 - **Estadística:** a partir de un partido de baloncesto, explorar dispersión (rango, desviación media, varianza…) para tomar una decisión.
 - **Fracciones:** medir objetos reales con unidades no estándar («codo sagrado») para dar significado de medida antes de formalizar algoritmos.
-- **Proporcionalidad:** una pregunta aparentemente simple («30 cosas cuestan 15 €, ¿cuánto cuesta cada una?») fuerza a reflexionar sobre las condiciones de la proporcionalidad.
+- **Proporcionalidad** (secuencia inspirada en el trabajo de S. Martínez Juste sobre pensamiento proporcional):
+  - «30 productos cuestan 15 €. ¿Cuánto cuesta un producto?» → fuerza a explicitar la **condición de regularidad** (todos valen lo mismo) y a construir la razón unitaria.
+  - Contraste: «Unos amigos fueron el día 30 y pagaron 15 €. ¿Cuánto habrían pagado el día 1?» → rompe la aplicación mecánica de la proporcionalidad: esta solo es válida entre **magnitudes**, no entre códigos numéricos (la fecha de un calendario).
 - **Geometría:** construir figuras con GeoGebra y refinar definiciones de cuadriláteros.
 
 ---
@@ -245,6 +249,17 @@ A pesar de décadas de investigación, la RP sigue poco implantada. Factores fre
 4. Enseñar estrategias como **contenidos algorítmicos**.
 5. **Dificultades de evaluación** del proceso (comunicación, perseverancia, colaboración).
 6. Falta de formación y de **recursos** (libros de texto con pocos problemas genuinos).
+
+### 10.1. Debate: instrucción directa frente a indagación andamiada
+
+La psicología cognitiva (Kirschner, Sweller y Clark) defiende la **instrucción directa** y el uso de *worked examples*, argumentando el fallo de la guía mínima. La réplica desde la Educación Matemática (Hmelo-Silver et al.) insiste en que enseñar *a través* de la resolución de problemas **no** equivale a descubrimiento ciego: incorpora **andamiaje estructurado** (preguntas orientadoras, gestión instruccional, puesta en común). El punto de equilibrio es el andamiaje, no la ausencia de guía.
+
+### 10.2. Gamificación frente a aprendizaje basado en problemas o juegos
+
+- **Gamificación:** aplicar mecánicas de juego (puntos, ranking, recompensas) sobre contenidos, a menudo rutinarios.
+- **Aprendizaje basado en problemas / juegos matemáticos:** explotar la naturaleza lúdica y razonada de las matemáticas mismas.
+
+Confundir ambos diluye el potencial de las tareas ricas. Una adaptación de un juego comercial (p. ej. Decrypto con vocabulario aritmético o Dixit sobre creencias hacia las Matemáticas) solo aporta valor si está didácticamente fundamentada y se observa qué competencia se moviliza.
 
 ---
 
@@ -347,78 +362,38 @@ No. Sirven para orientar preguntas de mediación y la revisión final, no como r
 ## Test A/B
 
 **1.** Un problema, frente a un ejercicio:  
-- **A)** Siempre tiene enunciado largo con nombres propios.  
-- **B)** Exige una búsqueda estratégica porque el camino no es inmediato.
+- **A)** Siempre tiene enunciado largo con contexto real.  
+- **B)** No se ve de inmediato el camino; requiere estrategia y puede introducir ideas nuevas.
 
-**2.** Usar la resolución de problemas solo al final del tema:  
-- **A)** Es la única forma correcta.  
-- **B)** Es útil para consolidar, pero empobrece el curso si nunca introduce ideas.
+**2.** Según Gaulin, enseñar «a través» de la resolución de problemas significa:  
+- **A)** Entrenar heurísticas al final de cada tema.  
+- **B)** Que el contenido matemático emerja de la actividad de resolución.
 
-**3.** La aceptación de la tarea depende sobre todo de:  
-- **A)** Que el alumno sea «bueno en mates».  
-- **B)** Comprensión, nivel de desafío, normas de ensayo y mediación docente.
+**3.** Un problema de nivel 4 de demanda cognitiva (Smith y Stein) requiere:  
+- **A)** Aplicar un algoritmo conocido de forma rutinaria.  
+- **B)** Pensamiento complejo, no algorítmico, y autorregulación del proceso.
 
-**4.** En la puesta en común lo prioritario es:  
-- **A)** Que alguien diga el número final lo antes posible.  
-- **B)** Comparar estrategias y fijar después el saber (institucionalización).
+**4.** En Thinking Classrooms, tras el trabajo en pizarras verticales conviene:  
+- **A)** Pasar directamente al siguiente ejercicio del libro.  
+- **B)** Una fase de reflexión individual en el cuaderno (*post-thinking*).
 
-**5.** Ante el bloqueo, el profesor debería:  
-- **A)** Dictar la solución completa de inmediato.  
-- **B)** Ofrecer mediación gradual según el tipo de dificultad.
+**5.** La proporcionalidad se aplica correctamente entre:  
+- **A)** Cualesquiera números que aparezcan en el enunciado (fechas, códigos…).  
+- **B)** Magnitudes, no entre códigos numéricos arbitrarios.
 
-**6.** Un contexto realista garantiza un buen problema:  
-- **A)** Sí, siempre.  
-- **B)** No: si no cambia la demanda matemática, puede ser un ejercicio disfrazado.
-
-**7.** Evaluar problemas solo por el resultado numérico:  
-- **A)** Alinea con LOMLOE.  
-- **B)** Deja fuera comunicación, estrategia y análisis de la solución.
-
-**8.** Las fases de Pólya en clase sirven para:  
-- **A)** Rellenar una ficha burocrática en cada ejercicio.  
-- **B)** Orientar preguntas de mediación y la revisión final.
-
-**9.** Según Gaulin, enseñar «a través» de la resolución de problemas significa:  
-- **A)** Explicar la teoría y luego poner problemas de aplicación.  
-- **B)** Que el contenido matemático emerja de la propia actividad de resolución.
-
-**10.** Un problema de nivel 4 de demanda cognitiva (Smith y Stein) requiere:  
-- **A)** Aplicar un algoritmo ya conocido de forma evidente.  
-- **B)** Pensamiento complejo no algorítmico y autorregulación del proceso.
-
-### Soluciones
-
-1. **B** · 2. **B** · 3. **B** · 4. **B** · 5. **B** · 6. **B** · 7. **B** · 8. **B** · 9. **B** · 10. **B**
-
----
-
-## Tarea orientativa del bloque
-
-Diseña **una sesión** (50–55 min) centrada en un problema:
-
-1. Enunciado del problema (indicar curso).  
-2. ¿Introduce o consolida? ¿Qué objeto/sentido?  
-3. Nivel de demanda cognitiva (Smith y Stein) previsto y por qué.  
-4. Criterios LOMLOE que evidencias.  
-5. Previsión de **tres estrategias** posibles (incluida una errónea productiva).  
-6. Plan de mediación ante bloqueos.  
-7. Cómo harás la puesta en común y qué institucionalizarás.  
-8. Evidencia de evaluación (más allá del número final).
+**Soluciones orientativas:** 1-B · 2-B · 3-B · 4-B · 5-B
 
 ---
 
 ## Material relacionado
 
-- [Programa de la asignatura](../programa.md)
+- [Tarea: Cambiando áreas, cambiando perímetros](../materiales/banco-problemas/tarea-cambiando-areas-cambiando-perimetros.md)
+- [Recursos NRICH / visualpatterns / MAP](../materiales/banco-problemas/recursos-resolucion-problemas-nrich-visualpatterns-map.md)
 - [Bloque 5 — Epistemología y fenomenología](05-fundamentos-epistemologicos-fenomenologicos.md)
 - [Bloque 7 — Dificultades y obstáculos](07-dificultades-y-obstaculos.md)
-- [Bloque 9 — Génesis escolar de los objetos](09-genesis-escolar-objetos-matematicos.md)
-- [Bloque 3 — Currículo LOMLOE](03-elementos-curriculo-lomloe.md)
-- [Bloque 4 — Programación didáctica](04-programacion-didactica.md)
-- Situaciones de aprendizaje y PBL (carpeta 04-pbl-abp del repositorio)
-- Materiales de Psicología del desarrollo (metacognición, afecto, autoeficacia, funciones ejecutivas)
-- Autores-pensadores: [Pólya](../../../09-bibliografia/autores-pensadores/05-educacion-matematica/polya.md), [Schoenfeld](../../../09-bibliografia/autores-pensadores/05-educacion-matematica/schoenfeld.md) y [Liljedahl](../../../09-bibliografia/autores-pensadores/05-educacion-matematica/liljedahl.md)
+- [Bloque 9 — Génesis escolar de objetos](09-genesis-escolar-objetos-matematicos.md)
+- Ideas TFM 26–28 (STEM, origami, juegos) en `10-proyectos/tfm/ideas-interesantes/`
 
 ---
 
-*Última ampliación: integración de demanda cognitiva (Smith y Stein), enfoques de Gaulin, modelos y heurísticas, Thinking Classrooms, problem posing y ciclos de modelización (PISA / Blum-Leiss). Estilo alineado con el resto de bloques de la asignatura.*
+*Última ampliación: integración de demanda cognitiva (Smith y Stein), enfoques de Gaulin, modelos y heurísticas, Thinking Classrooms, problem posing y ciclos de modelización (PISA / Blum-Leiss); ampliación proporcionalidad (Martínez Juste), matices post-thinking, debate Kirschner/Hmelo-Silver y distinción gamificación; enlace a tarea área-perímetro y recursos NRICH/visualpatterns/MAP. Estilo alineado con el resto de bloques de la asignatura.*
