@@ -1,32 +1,32 @@
-# Tema 10 — Síntesis aplicada: casos en Matemáticas (y materias de exposición)
+# Tema 10 — Síntesis: casos en el aula de Matemáticas
 
-**Bloque C · Aplicación en secundaria y salud profesional**  
+**Bloque C · Aplicación y salud profesional**  
 Optativa: *Educación emocional en el profesorado*  
-Pregunta guía: *¿Qué secuencia situación → emoción → respuesta → consecuencia observo y cómo intervengo?*
+Pregunta guía: *¿Cómo integro lo aprendido en situaciones reales de aula sin improvisar terapia?*
 
 ---
 
-## 1. Esquema de análisis (para todos los casos)
+## 1. Criterio general
 
-```text
-Situación  →  Emoción probable (alumno / docente)
-     →  Respuesta habitual (riesgo)
-     →  Respuesta preferible (principio)
-     →  Consecuencia buscada
-     →  ¿Derivar?
-```
+En todos los casos se aplica la misma lógica:
 
-No son guiones rígidos: son **entrenamientos de juicio** profesional.
+1. **Observar** antes de interpretar.
+2. **Separar** la persona del error o de la conducta.
+3. **Regular** la propia respuesta (tono, tiempo, privacidad).
+4. **Graduar** la exigencia y la exposición.
+5. **Derivar** cuando el malestar o el conflicto supera el rol docente.
+
+El objetivo no es que el alumno «se sienta bien» a cualquier precio, sino que pueda **aprender** en condiciones emocionalmente viables.
 
 ---
 
-## 2. Caso A — Anuncio de examen
+## 2. Caso A — Ansiedad ante el examen
 
 | Elemento | Ejemplo |
 |----------|--------|
-| **Situación** | “El viernes hay prueba de sistemas; entra todo el tema.” |
-| **Emoción alumnado** | Ansiedad, queja, minimización (“paso”) |
-| **Riesgo docente** | Amenazar con dificultad; ironía; subir la carga sin plan de estudio |
+| **Situación** | Alumno con nervios fuertes el día de la prueba; pide no hacerlo |
+| **Emoción** | Ansiedad, miedo al fracaso |
+| **Riesgo** | Eximir sin criterio; o forzar la exposición sin preparación |
 | **Respuesta preferible** | Criterios claros; qué se evalúa; ensayo formativo; plan de estudio realista |
 | **Consecuencia** | Ansiedad manejable + preparación dirigida |
 | **Derivar** | No, salvo malestar extremo individual ya conocido por tutoría |
@@ -44,6 +44,8 @@ No son guiones rígidos: son **entrenamientos de juicio** profesional.
 | **Consecuencia** | Reducir amenaza; recoger evidencia parcial si el criterio lo permite |
 | **Derivar** | Si el bloqueo es recurrente y grave → tutor/orientación |
 
+**Material relacionado:** análisis detallado del bloqueo en la resolución de un problema matemático a través de las cinco competencias de Goleman (autoconciencia y autorregulación del docente, motivación, empatía y habilidades sociales) → [Goleman: cinco competencias y aplicación al aula](../materiales/goleman-cinco-competencias-aplicacion-aula.md).
+
 ---
 
 ## 4. Caso C — Rechazo a la pizarra
@@ -59,69 +61,46 @@ No son guiones rígidos: son **entrenamientos de juicio** profesional.
 
 ---
 
-## 5. Caso D — Corrección que escala
+## 5. Caso D — Conflicto entre iguales en grupo de trabajo
 
 | Elemento | Ejemplo |
 |----------|--------|
-| **Situación** | Corriges un error; el alumno responde con tono desafiante; el grupo se tensiona |
-| **Emoción docente** | Enfado, sensación de pérdida de autoridad |
-| **Riesgo** | Sarcasmo, castigo colectivo, lucha de egos |
-| **Preferible** | Bajar volumen; separar conducta y contenido matemático; aplazar el debate de respeto a un momento privado; volver al problema con el grupo |
-| **Consecuencia** | Límite claro sin espectáculo |
-| **Derivar** | Si se repite o hay insulto grave → jefatura / convivencia |
+| **Situación** | Insulto o exclusión en un equipo de resolución de problemas |
+| **Emoción** | Ira, vergüenza, resentimiento |
+| **Riesgo** | Ignorar; o sancionar solo al «culpable» sin reparar |
+| **Preferible** | Detener; separar si hace falta; escuchar a ambas partes; reparación concreta; normas de grupo claras |
+| **Consecuencia** | Clima de trabajo recuperable; aprendizaje de convivencia |
+| **Derivar** | Si hay violencia o acoso reiterado → protocolo de centro |
 
 ---
 
-## 6. Caso E — Insultos o exclusión en el grupo
+## 6. Caso E — Impaciencia del docente
 
 | Elemento | Ejemplo |
 |----------|--------|
-| **Situación** | Burlas por fallar un cálculo; apodos |
-| **Emoción víctima** | Vergüenza, rabia, retraimiento |
-| **Riesgo** | Minimizar (“es broma”); sermón largo sin consecuencia |
-| **Preferible** | Parar en seco; norma de respeto; consecuencia según plan de convivencia; reparar el clima; trabajo posterior en roles cooperativos |
-| **Consecuencia** | Seguridad del grupo |
-| **Derivar** | Sí si hay acoso o reiteración → protocolo de centro |
+| **Situación** | El profesor nota que pierde la paciencia al repetir una explicación |
+| **Emoción** | Frustración, presión por el temario |
+| **Riesgo** | Tono brusco; comentario que humilla |
+| **Preferible** | Autoconciencia → pausa breve → reformular o cambiar de estrategia; si hace falta, aplazar la discusión |
+| **Consecuencia** | Modelo de regulación; relación preservada |
+| **Derivar** | Si el malestar docente es crónico → apoyo entre iguales / orientación del centro |
 
 ---
 
-## 7. Caso F — Docente al límite
+## 7. Síntesis operativa
 
-| Elemento | Ejemplo |
-|----------|--------|
-| **Situación** | Tras varias clases difíciles, notas que gritas más y corriges con dureza injusta |
-| **Emoción** | Agotamiento, culpa, cinismo |
-| **Riesgo** | Seguir igual; autocrítica destructiva sin cambio |
-| **Preferible** | Pausar exigencias autoimpuestas; pedir apoyo a un compañero o jefatura; revisar una sola práctica (p. ej. no corregir en público con fatiga) |
-| **Derivar** | Si el malestar es persistente e intenso → recursos de salud laboral / profesionales de la salud |
-
----
-
-## 8. Síntesis del bloque C
-
-| Tema | Idea fuerza |
-|------|-------------|
-| **8** | Integrar emoción en materia y tutoría; diseñar frustración productiva |
-| **9** | Salud docente = límite de rol + apoyo; saber derivar |
-| **10** | Analizar casos con secuencia; priorizar seguridad y criterio |
+| Competencia / recurso | Uso en los casos |
+|-----------------------|------------------|
+| Autoconciencia y autorregulación del docente | Casos B, E |
+| Graduación de la dificultad y de la exposición | Casos A, B, C |
+| Separar persona / error | Todos |
+| Empatía + habilidades sociales | Casos B, C, D |
+| Criterios de derivación | Todos (cuando supera el rol) |
 
 ---
 
-## 9. Actividad de cierre de la optativa
+## 8. Materiales y puentes
 
-Elige **un** caso real o simulado (anonimizado) y escribe una página:
-
-1. Situación (hechos).  
-2. Emociones probables.  
-3. Tu respuesta habitual vs. respuesta preferible.  
-4. Qué criterio matemático o de convivencia sostienes.  
-5. Si derivarías, a quién y por qué.
-
----
-
-## Para seguir
-
-- [Programa completo](../programa.md)  
-- [Temas 8 y 9](08-emociones-pat-aula.md) · [09](09-emociones-salud-profesorado.md)  
 - [Material afectividad–motivación](../materiales/afectividad-y-motivacion-intrinseca.md)  
 - [Checklist observación](../../procesos-y-contextos-educativos/materiales/checklist-observacion-centro-aula.md)  
+- [Goleman: cinco competencias y aplicación al aula](../materiales/goleman-cinco-competencias-aplicacion-aula.md)

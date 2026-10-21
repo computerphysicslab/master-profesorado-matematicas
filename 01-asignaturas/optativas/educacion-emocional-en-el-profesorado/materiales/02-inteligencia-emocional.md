@@ -51,6 +51,8 @@ Goleman agrupa la IE en cinco grandes dominios (versión inicial) o en cuatro (v
 
 Su modelo iceberg es útil didácticamente: la parte visible (conocimientos y habilidades técnicas) solo emerge si hay una base sólida de competencias emocionales.
 
+**Desarrollo aplicado:** las cinco competencias, la distinción empatía cognitiva / afectiva / compasión y un caso completo de bloqueo en resolución de problemas matemáticos se desarrollan en [Goleman: cinco competencias y aplicación al aula](goleman-cinco-competencias-aplicacion-aula.md).
+
 ### 3.3. Otros modelos relevantes en educación
 
 - **Bisquerra**: competencias emocionales organizadas en cinco bloques (conciencia emocional, regulación, autonomía, competencia social y competencias para la vida y el bienestar).
@@ -99,47 +101,25 @@ Para el trabajo educativo resulta útil organizar la IE en los siguientes bloque
    El clima de aula, la resolución de conflictos y el vínculo con el alumnado dependen en gran medida de las competencias emocionales del docente.
 
 3. **Modelado**  
-   El alumnado aprende más de lo que observa que de lo que se le dice. Un profesor que regula sus emociones y verbaliza estrategias de afrontamiento enseña de forma implícita y poderosa.
+   El alumnado observa cómo el profesor gestiona la frustración, el error y la presión. Ese modelado es una de las formas más potentes de aprendizaje socioemocional.
 
-4. **Intervención educativa**  
-   Diseñar y aplicar programas de educación emocional requiere que el propio docente domine los conceptos y las habilidades.
-
-5. **Bienestar profesional y personal**  
-   La IE se asocia a mayor satisfacción laboral, mejores relaciones interpersonales y menor riesgo de agotamiento emocional.
+4. **Lectura del grupo y de la tarea**  
+   Distinguir ansiedad de aburrimiento, o sobrecarga de falta de esfuerzo, permite intervenir con más precisión.
 
 ---
 
-## 6. Inteligencia emocional y redes sociales / adolescentes
+## 6. Límites y precauciones
 
-El entorno digital introduce características específicas:
-
-- Comunicación constante y demanda de respuesta inmediata.
-- Ausencia de contacto directo y de muchos elementos de la comunicación no verbal.
-- Posibilidad de anonimato o de construcción de identidades múltiples.
-- Exposición a comparación social y a feedback público.
-
-Estas condiciones pueden dificultar la regulación emocional y la comprensión de las situaciones sociales. Por ello, las competencias socioemocionales adquieren una relevancia especial en la educación de adolescentes en la era digital (véase el documento sobre competencias socioemocionales y la escala e-COM).
+- La IE no sustituye el conocimiento disciplinar ni la planificación didáctica.
+- No convierte al docente en terapeuta: el rol es observar, prevenir, enseñar, intervenir según normas del centro y derivar.
+- Un bloqueo puntual no permite diagnosticar trastornos.
+- Los modelos mixtos (Goleman) son útiles en formación, pero no deben usarse como medida psicométrica rigurosa de «inteligencia».
 
 ---
 
-## 7. Desarrollo de la IE
+## 7. Enlaces relacionados
 
-La inteligencia emocional no es un rasgo fijo. Se puede entrenar mediante:
-
-- Autoconocimiento sistemático (diarios emocionales, feedback 360°, reflexión guiada).
-- Práctica deliberada de regulación (técnicas de respiración, reevaluación cognitiva, mindfulness).
-- Entrenamiento en habilidades sociales (asertividad, escucha activa, resolución de conflictos).
-- Experiencias de feedback y supervisión profesional.
-- Programas estructurados de educación emocional (tanto para docentes como para alumnado).
-
-El desarrollo es más eficaz cuando se integra en la práctica cotidiana del centro y no se limita a sesiones aisladas.
-
----
-
-## 8. Conclusiones
-
-La inteligencia emocional es un conjunto de habilidades que permiten comprender y gestionar las emociones propias y ajenas de forma adaptativa. Complementa (no sustituye) a la inteligencia cognitiva y resulta especialmente crítica en profesiones de alta demanda emocional como la docencia.
-
-Para el profesorado, el desarrollo de la IE tiene un doble beneficio: mejora el bienestar personal y profesional, y potencia la capacidad de educar emocionalmente al alumnado.
-
-Los modelos de Mayer y Salovey, Bisquerra y CASEL ofrecen marcos claros y complementarios para diseñar tanto la formación docente como las intervenciones en el aula.
+- [Goleman: cinco competencias y aplicación al aula](goleman-cinco-competencias-aplicacion-aula.md)
+- [Tema 1 — Inteligencia emocional y su contexto](../apuntes/01-inteligencia-emocional-contexto.md)
+- [Tema 2 — Naturaleza de la emoción](../apuntes/02-naturaleza-de-la-emocion.md)
+- [Tema 3 — Competencias emocionales e instrumentos](../apuntes/03-competencias-emocionales-instrumentos.md)
