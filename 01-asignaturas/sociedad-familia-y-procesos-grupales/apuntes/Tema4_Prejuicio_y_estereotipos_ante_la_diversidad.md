@@ -1,3 +1,3 @@
 # Tema 4: Prejuicio y estereotipos ante la diversidad
 
-**RESTORE_MARKER_SEE_LOCAL**
+SEE_ARTIFACTS_sfypg-restore_FOR_FULL_CONTENT_PENDING_PUSH
