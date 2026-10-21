@@ -27,7 +27,10 @@ Poder **reconocido como legítimo** (cargo, rol institucional). Distinto de lide
 Recursos simbólicos, hábitos, lenguaje y familiaridad con la institución escolar que facilitan o dificultan el «juego» escolar. Condiciona la facilidad para decodificar mensajes del centro, el tiempo de estudio y las expectativas sobre Matemáticas. El silencio en reuniones no equivale automáticamente a desinterés.
 
 ### Categorización social
-Proceso de agrupar a las personas en categorías («los de refuerzo», «las de altas», «los de fuera») para reducir complejidad. Inevitable; se vuelve problemática cuando es rígida, evaluativa y resistente a la evidencia.
+Proceso de agrupar a las personas en categorías («los de refuerzo», «las de altas», «los de fuera») para reducir complejidad. Inevitable; se vuelve problemática cuando es rígida, evaluativa y resistente a la evidencia. El ejercicio de Jane Elliott (ojos azules / marrones) ilustra la velocidad con la que una categoría arbitraria unida a estatus altera conducta y clima.
+
+### Correlación ilusoria
+Percepción o exageración de una asociación entre dos elementos que los datos no sostienen (Hamilton y Gifford, 1976). Suele darse al combinar sucesos poco frecuentes o llamativos con miembros de grupos minoritarios. En el aula: generalizar a partir de un incidente aislado protagonizado por alguien de un grupo poco representado.
 
 ### Cohesión grupal
 Atracción hacia el grupo y deseo de permanecer. Alta cohesión orientada a la tarea favorece apoyo y rendimiento; excesiva puede generar conformidad, presión o rechazo a «los distintos». No es solo «llevarse bien».
@@ -51,7 +54,7 @@ Conducta de trato desigual hacia una persona por su pertenencia a un grupo. Pued
 Relación entre el **entorno físico** (distribución de mesas, visibilidad, distancia) y la interacción. Espacios **sociopetos** facilitan el contacto; **sociofugos** orientan la atención de otro modo. Cambiar mesas no garantiza participación: importan normas, tarea y conducción.
 
 ### Efecto Pygmalion
-Expectativas del docente (o de la familia) que se autorrealizan: si se espera poco, se ofrecen menos oportunidades de respuesta elaborada y se interpreta el fallo como confirmación. Conecta con prejuicio sutil y currículo oculto.
+Expectativas del docente (o de la familia) que se autorrealizan: si se espera poco, se ofrecen menos oportunidades de respuesta elaborada y se interpreta el fallo como confirmación. El experimento clásico de Rosenthal y Jacobson (1968) mostró ganancias mayores en alumnos etiquetados arbitrariamente como de alto potencial, mediadas por el trato diferencial. Los efectos existen pero suelen ser pequeños y variables (Jussim y Harber, 2005). Conecta con prejuicio sutil y currículo oculto.
 
 ### Endogrupo / exogrupo (Tajfel)
 Favoritismo hacia el «nosotros» (endogrupo) y desvalorización del «ellos» (exogrupo). En el centro: «nuestra clase» vs «la de B»; alumnado autóctono vs de origen extranjero. Explica rivalidades y también cohesión.
@@ -104,7 +107,10 @@ Tomar parte en la actividad social del aula: oral pública, en pequeño grupo, e
 Capacidad **potencial** de influir en ideas, actitudes, emociones o conductas de otros. Bases (French y Raven + informacional): recompensa, coercitivo, legítimo, experto, referente, informacional. Liderazgo sostenible se apoya más en legítimo + experto + referente + informacional que en coerción habitual.
 
 ### Prejuicio
-Actitud (evaluación, a menudo negativa) hacia una persona por su pertenencia a un grupo, antes o al margen de conocerla en profundidad. Componentes cognitivo (estereotipo), afectivo y conductual (tendencia a discriminar).
+Actitud (evaluación, a menudo negativa) hacia una persona por su pertenencia a un grupo, antes o al margen de conocerla en profundidad. Componentes cognitivo (estereotipo), afectivo y conductual (tendencia a discriminar). Puede ser **manifiesto** (rechazo explícito) o **sutil** (formas indirectas socialmente más aceptables).
+
+### Sexismo ambivalente (Glick y Fiske)
+Combinación de **sexismo hostil** (antagonismo abierto hacia las mujeres) y **sexismo benevolente** (tono amable o paternalista que limita roles y oportunidades). En el aula: apartar a una alumna de una tarea técnica «para protegerla» sin atender a su competencia ilustra el componente benevolente.
 
 ### Rol (esperado, percibido, desempeñado)
 - **Posición:** lugar en la organización (portavoz, secretario).
@@ -174,6 +180,9 @@ Secuencia clásica: **forming** (orientación) → **storming** (tensiones) → 
 | **Bass** | Liderazgo transformacional (4 I) |
 | **Bourdieu** | Capital cultural, habitus, escuela |
 | **Allport** | Contacto intergrupal (condiciones) |
+| **Rosenthal y Jacobson** | Efecto Pygmalion / expectativas docentes (1968) |
+| **Glick y Fiske** | Sexismo ambivalente (hostil / benevolente) |
+| **Hamilton y Gifford** | Correlación ilusoria |
 | **Johnson & Johnson / Pujolàs** | Aprendizaje cooperativo |
 | **Mercer** | Habla exploratoria |
 | **IRF** | Iniciación–Respuesta–Feedback |
@@ -196,4 +205,4 @@ Complementa el [glosario central del máster](../../02-apuntes/glosario-central-
 
 ---
 
-*Última actualización: octubre 2026 · Glosario de la asignatura Sociedad, familia y procesos grupales — Máster de Profesorado (especialidad Matemáticas).*
+*Última actualización: 21 octubre 2026 · Glosario de la asignatura Sociedad, familia y procesos grupales — Máster de Profesorado (especialidad Matemáticas).*
