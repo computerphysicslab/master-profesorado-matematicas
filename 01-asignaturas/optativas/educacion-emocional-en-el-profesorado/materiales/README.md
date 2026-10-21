@@ -21,6 +21,7 @@ Especial atención a la prevención del burnout docente y al clima socioafectivo
 |-----------|-----------|
 | [01-modelo-transaccional-estres.md](01-modelo-transaccional-estres.md) | Modelo de Lazarus y Folkman, mitos, tipos de estresores, afrontamiento (problema/emoción; aproximación/evitación), Tipo A, técnicas (D’Zurilla), aplicaciones al profesorado y al aula |
 | [02-inteligencia-emocional.md](02-inteligencia-emocional.md) | Concepto de IE (Mayer y Salovey, Goleman y otros), componentes, relación con el éxito profesional y personal |
+| [**Goleman: cinco competencias y aplicación al aula**](goleman-cinco-competencias-aplicacion-aula.md) | Modelo clásico de cinco competencias; distinción empatía cognitiva / afectiva / compasión; caso de bloqueo en resolución de problemas matemáticos; pautas prácticas |
 | [03-competencias-socioemocionales.md](03-competencias-socioemocionales.md) | Competencias socioemocionales, escala e-COM, prueba TRUST y su relevancia para la docencia |
 | [04-tres-regiones-emocion-estres.md](04-tres-regiones-emocion-estres.md) | Amígdala, hipocampo y corteza prefrontal: alerta → contexto → regulación; bidireccionalidad emociones–estrés; actividad breve de aula |
 | [asertividad-y-competencia-social.md](asertividad-y-competencia-social.md) | Estilos pasivo / agresivo / asertivo; competencia social; situaciones de aula de Matemáticas y familias; role-playing estructurado |
@@ -38,7 +39,7 @@ Especial atención a la prevención del burnout docente y al clima socioafectivo
 ## Uso recomendado
 
 1. Leer primero el modelo transaccional del estrés (ficha + apunte) para comprender la base teórica.
-2. Continuar con inteligencia emocional y competencias socioemocionales.
+2. Continuar con inteligencia emocional y competencias socioemocionales. El material de **Goleman (cinco competencias + aplicación al aula)** desarrolla el modelo mixto con un caso detallado de bloqueo en Matemáticas y la distinción empatía cognitiva / afectiva / compasión.
 3. Usar el material de **tres regiones** junto al Tema 7 para el puente neuro ↔ aula (sin neuromitos).
 4. Trabajar **asertividad y competencia social** para el manejo de situaciones de aula y de familias.
 5. Usar el **modelo A-B-C / diálogo interno** como herramienta de regulación propia y de apoyo metacognitivo al alumnado.
