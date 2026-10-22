@@ -7,6 +7,64 @@
 
 La optativa no forma terapeutas: el rol del profesor es **observar, prevenir, enseñar, intervenir según normas del centro y derivar** cuando proceda.
 
+## Exigencia e inteligencia emocional: no son incompatibles
+
+No solo son compatibles: un profesor con inteligencia emocional y una disciplina y exigencia muy altas puede ser un excelente docente. La clave está en distinguir entre exigir mucho y maltratar, entre mantener la disciplina y humillar, y entre cuidar el bienestar emocional y evitar cualquier dificultad.
+
+Un profesor emocionalmente inteligente no es necesariamente un profesor blando. Es un profesor que sabe regular sus propias emociones, comprender las de sus alumnos y mantener sus criterios educativos incluso bajo presión.
+
+### Cómo sería ese profesor
+
+1. **Exige mucho, pero explica qué exige y por qué.**  
+   Establece objetivos claros, pide razonamientos rigurosos y no acepta que el alumnado sustituya el aprendizaje por excusas. Pero sus exigencias son proporcionadas, comprensibles y coherentes con lo que ha enseñado.
+
+2. **Es firme sin ser arbitrario.**  
+   Las normas son conocidas y se aplican con consistencia. No necesita gritar, amenazar ni demostrar quién manda. Si un alumno interrumpe reiteradamente, interviene y aplica las consecuencias previstas sin convertir el conflicto en una lucha personal.
+
+3. **Tolera la frustración del alumno sin eliminarla automáticamente.**  
+   Si un estudiante se bloquea con una ecuación, no le da inmediatamente la solución para evitarle malestar. Le ayuda a identificar el error, ofrece una pista si es necesario y le permite seguir pensando. Distingue entre una dificultad productiva y una situación de angustia que requiere intervención.
+
+4. **Corrige sin atacar la identidad.**  
+   Puede decir: «Este ejercicio no está bien resuelto; necesito que justifiques cada paso». No dice: «Eres un desastre para las matemáticas». Separa el resultado del momento de la capacidad de aprender y de la dignidad de la persona.
+
+5. **Protege el derecho de todos a aprender.**  
+   La empatía no consiste únicamente en comprender al alumno que interrumpe o está frustrado. También implica reconocer a quienes quieren trabajar y necesitan un entorno ordenado. La inteligencia emocional no obliga a tolerar conductas que perjudican reiteradamente al grupo.
+
+### La diferencia fundamental: exigencia frente a autoritarismo
+
+| Profesor exigente e inteligente emocionalmente | Profesor autoritario o emocionalmente desregulado |
+|------------------------------------------------|---------------------------------------------------|
+| Mantiene estándares académicos altos. | Puede exigir mucho para imponer su autoridad. |
+| Aplica normas previsibles y proporcionadas. | Reacciona según su enfado o su estado de ánimo. |
+| Corrige errores con precisión y respeto. | Ridiculiza, etiqueta o avergüenza. |
+| Ayuda sin hacer el trabajo por el alumno. | O abandona al alumno, o resuelve todo por él. |
+| Tolera el malestar que acompaña al aprendizaje. | Interpreta cualquier dificultad como debilidad o falta de voluntad. |
+| Reconoce sus errores y mantiene la autoridad. | Confunde reconocer un error con perder autoridad. |
+
+### ¿Y qué ocurre con el bienestar emocional?
+
+El bienestar emocional no exige eliminar el esfuerzo, la frustración o el fracaso; exige que esas experiencias no destruyan la percepción de que uno puede aprender.
+
+En Matemáticas, por ejemplo, un profesor puede plantear un problema difícil, dar tiempo para intentarlo, permitir errores, pedir que se justifiquen los pasos y no aceptar una respuesta sin razonamiento. Todo ello puede generar incomodidad. Sin embargo, si el alumno recibe orientación adecuada, progresa y descubre que puede resolver algo que antes le parecía imposible, esa experiencia puede fortalecer su autoeficacia y su identidad académica.
+
+Por el contrario, si el profesor reduce sistemáticamente la dificultad para que nadie se sienta mal, puede privar a los alumnos de oportunidades para desarrollar autonomía. Y si exige sin ofrecer medios, orientación ni oportunidades reales de progreso, puede convertir la dificultad en una experiencia repetida de impotencia.
+
+La diferencia no está en si hay frustración, sino en qué tipo de frustración se produce, cómo se acompaña y qué aprende el alumno de ella.
+
+### Un matiz importante
+
+La inteligencia emocional no garantiza por sí sola que un profesor enseñe bien, ni la disciplina y la exigencia garantizan que sus alumnos aprendan. También importan el conocimiento de la materia, la didáctica, la justicia en la evaluación, la gestión del aula y las condiciones de trabajo.
+
+Y conviene no confundir una alta exigencia con una exigencia idéntica para todos: mantener objetivos académicos ambiciosos puede requerir distintos apoyos, tiempos o vías para alcanzarlos.
+
+### En síntesis
+
+El profesor ideal no es el que evita que sus alumnos sufran cualquier frustración, ni el que cree que sufrir es necesario para aprender. Es el que les plantea desafíos reales, les proporciona los medios para afrontarlos y no renuncia ni al rigor académico ni al respeto por las personas.
+
+Su mensaje sería: «No voy a hacer el trabajo por ti, ni voy a permitir que te rindas antes de intentarlo; pero tampoco voy a dejarte solo ante una dificultad que todavía no sabes resolver».
+
+---
+
 ## Documentos
 
 | Documento | Contenido |
