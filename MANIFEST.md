@@ -39,7 +39,6 @@ Inventario de la estructura y **criterios de organización**. Actualizar al camb
 | `07-evaluacion/` | Instrumentos, rúbricas CE, ejemplo de alineación | **Operativo (mínimo viable)** |
 | `08-podcasts/` | Guiones e índices | Operativo |
 | `09-bibliografia/` | Autores-pensadores, índices | Operativo |
-| `10-proyectos/` | Proyectos integradores | Reserva / poco contenido |
 | `99-archivo/` | Histórico / scripts one-shot / memoria de mejoras | Activo para archivo |
 
 Madurez detallada y pendientes a medio plazo: **[ESTADO.md](ESTADO.md)**.
