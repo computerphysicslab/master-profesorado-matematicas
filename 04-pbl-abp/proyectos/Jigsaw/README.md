@@ -9,4 +9,4 @@ Aprendizaje cooperativo estructurado en tres fases: fragmentación del contenido
 
 **Origen de la técnica:** Elliot Aronson (1971). Principio clave: **interdependencia positiva**.
 
-**Relacionado en el máster:** [aula como grupo](../../../01-asignaturas/sociedad-familia-y-procesos-grupales/apuntes/Tema1_El_aula_como_grupo.md) · [paradigmas](../../../01-asignaturas/procesos-y-contextos-educativos/apuntes/01-evolucion-historica-sistema-educativo-paradigmas.md) · [DUA](../../../01-asignaturas/procesos-y-contextos-educativos/materiales/dua-diseno-universal-aprendizaje.md) · [situaciones de aprendizaje](../../situaciones-aprendizaje/)
+**Relacionado en el máster:** [aula como grupo](../../../01-asignaturas/sociedad-familia-y-procesos-grupales/apuntes/02-psicologia-social/05-el-aula-como-grupo/Tema1_El_aula_como_grupo.md) · [paradigmas](../../../01-asignaturas/procesos-y-contextos-educativos/apuntes/01-evolucion-historica-sistema-educativo-paradigmas.md) · [DUA](../../../01-asignaturas/procesos-y-contextos-educativos/materiales/dua-diseno-universal-aprendizaje.md) · [situaciones de aprendizaje](../../situaciones-aprendizaje/)

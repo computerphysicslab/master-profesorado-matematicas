@@ -45,7 +45,7 @@ Flujo: [checklist](practicum/observacion/checklist-sesion-mates.md) → [diario]
 | --- | --- | --- |
 | [Psicología del desarrollo y de la educación](psicologia-del-desarrollo-y-de-la-educacion/) | Obligatoria | Temas 1–5 · examen 3+3 |
 | [Procesos y contextos educativos](procesos-y-contextos-educativos/) | Obligatoria | examen 3+3 |
-| [Sociedad, familia y procesos grupales](sociedad-familia-y-procesos-grupales/) | Obligatoria | [T1](sociedad-familia-y-procesos-grupales/apuntes/Tema1_El_aula_como_grupo.md)–[T5](sociedad-familia-y-procesos-grupales/apuntes/Tema5_Familia_escuela_acompanamiento_aprendizaje.md) · examen 3+3 |
+| [Sociedad, familia y procesos grupales](sociedad-familia-y-procesos-grupales/) | Obligatoria | [índice apuntes](sociedad-familia-y-procesos-grupales/apuntes/README.md) · [aula como grupo](sociedad-familia-y-procesos-grupales/apuntes/02-psicologia-social/05-el-aula-como-grupo/Tema1_El_aula_como_grupo.md) · [familia y escuela](sociedad-familia-y-procesos-grupales/apuntes/01-sociologia/02-familia-y-educacion/Tema5_Familia_escuela_acompanamiento_aprendizaje.md) · examen 3+3 |
 | [Practicum I](practicum-i/) | Obligatoria | Trabajo en [practicum/](practicum/) |
 
 ---
