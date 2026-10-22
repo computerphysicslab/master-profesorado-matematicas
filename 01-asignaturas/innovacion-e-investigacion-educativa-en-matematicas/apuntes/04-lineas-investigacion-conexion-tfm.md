@@ -123,7 +123,7 @@ Otras sólidas: ansiedad matemática (10), margen de acción LOMLOE (16), codoce
 
 La línea **Elkonin-Davydov / crítica a pedagogías del descubrimiento mínimamente guiado** tiene una investigación acumulativa en:
 
-[`10-proyectos/investigaciones/elkonin-davydov-critica-pedagogias-modernas/`](../../../10-proyectos/investigaciones/elkonin-davydov-critica-pedagogias-modernas/)
+[`ideas-interesantes/21-elkonin-davydov-materiales/`](../../trabajo-fin-de-master/ideas-interesantes/21-elkonin-davydov-materiales/)
 
 Es un ejemplo de cómo una hipótesis teórica (orden abstracto→concreto) se articula con ciencia cognitiva, evidencia experimental (early algebra) y extensión ética. Sirve de modelo de **profundidad**, no de plantilla obligatoria.
 
