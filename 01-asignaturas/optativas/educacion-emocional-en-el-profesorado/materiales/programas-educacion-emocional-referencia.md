@@ -36,6 +36,10 @@ Programas que parten de un modelo teórico explícito de aprendizaje socioemocio
 
 ---
 
+### Aulas Felices
+
+Programa de psicología positiva (Equipo SATI) estructurado en dos ejes: atención plena (mindfulness) y educación en fortalezas personales (clasificación VIA de Peterson y Seligman). Orientado a promover bienestar y resiliencia, no solo a prevenir el malestar. Incluye aplicación específica a la ansiedad matemática y a la resolución de problemas. Ver ficha completa: [Aulas Felices](aulas-felices-psicologia-positiva.md).
+
 ## Qué extraer para el aula de Matemáticas
 
 No es necesario implantar un programa completo. De estos ejemplos se puede tomar:
