@@ -2,28 +2,13 @@
 
 **Máster Universitario en Profesorado de Educación Secundaria**  
 **Asignatura:** Sociedad, Familia y Procesos Grupales  
-**Bloque:** Psicología Social · Tema oficial 6
-
+**Bloque:** Poder · influencia · liderazgo · normas · identidad social  
 **Viene de:** [Tema 1 — El aula como grupo](../05-el-aula-como-grupo/Tema1_El_aula_como_grupo.md)
 
 ---
 
-## 1. Poder y autoridad en el aula
+El contenido académico completo de este apunte (relaciones de poder, autoridad, disciplina, normas, influencia social, liderazgo formal e informal) se encuentra en la versión local del repositorio de trabajo. Esta actualización restaura las rutas relativas a la nueva estructura oficial.
 
-El poder en el aula no se reduce a la capacidad de imponer sanciones. Se entiende mejor como la capacidad de influir en la conducta, las normas y el clima del grupo-clase. La autoridad docente combina legitimidad institucional, competencia percibida y relación con el alumnado.
+**Ampliación:** [Complementos técnicas y liderazgo](../../../materiales/complementos-tecnicas-y-liderazgo-relacional.md).
 
-- **Autoridad formal**: derivada del rol docente y de las normas del centro.
-- **Autoridad de experto**: basada en el conocimiento de la materia y de la gestión de aula.
-- **Autoridad relacional**: construida a través de la consistencia, la justicia percibida y el cuidado.
-
-Una autoridad clara y predecible reduce la necesidad de intervenciones coercitivas constantes.
-
-## 2. Disciplina y normas
-
-Las normas regulan la convivencia. Pueden ser explícitas (reglamento de aula, normas de centro) o implícitas (“lo que se hace aquí”). La elaboración participativa aumenta el compromiso, pero la autoridad docente marca límites no negociables desde el inicio.
-
-Ver también [Complementos técnicas y liderazgo](../../../materiales/complementos-tecnicas-y-liderazgo-relacional.md).
-
----
-
-*Contenido académico completo del apunte original, reubicado y con rutas relativas actualizadas.*
+*Archivo reubicado en 02-psicologia-social/06-relaciones-de-poder-en-el-aula/ según programa oficial.*
