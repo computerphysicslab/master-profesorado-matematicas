@@ -124,6 +124,8 @@ Reconociendo la carga, protegiendo lo controlable (diseño de tareas, límites, 
 
 ---
 
+**Programa de referencia:** [Aulas Felices](../materiales/aulas-felices-psicologia-positiva.md) — atención plena y fortalezas VIA aplicadas a la educación y a las Matemáticas.
+
 ## Para seguir
 
 - [Tema 5 — Emoción y motivación](05-emocion-y-motivacion.md)  
