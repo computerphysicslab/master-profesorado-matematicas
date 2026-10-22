@@ -37,6 +37,25 @@ El foco de la optativa es el *profesorado*: si el docente está en distrés cró
 
 ---
 
+## 2.1. Estilos atributivos y optimismo
+
+No todo el «optimismo» es igual. Conviene distinguir dos constructos:
+
+- **Optimismo disposicional** (Scheier y Carver): expectativa general de que en el futuro ocurrirán cosas buenas. Es una tendencia relativamente estable («en general, espero que me vaya bien»).
+- **Estilo atributivo** (Seligman; también relacionado con Weiner): cómo se explican los sucesos del pasado. Un estilo optimista tiende a atribuir los éxitos a causas internas, estables y globales, y los fracasos a causas externas, inestables y específicas. Un estilo pesimista hace lo contrario.
+
+| Dimensión | Éxito (estilo optimista) | Fracaso (estilo optimista) |
+|-----------|--------------------------|----------------------------|
+| Locus | Interno («lo he conseguido yo») | Externo o temporal («hoy no estaba en condiciones») |
+| Estabilidad | Estable («puedo volver a hacerlo») | Inestable («la próxima será distinto») |
+| Globalidad | Global («se me da bien este tipo de problemas») | Específico («este ejercicio concreto») |
+
+**En el aula de Matemáticas:** un alumno que tras un error en la pizarra piensa «soy un desastre para las mates» (interno, estable, global) tiene más probabilidad de evitar el siguiente intento. El docente puede ayudar a reatribuir: «este paso concreto no ha salido; el procedimiento general lo tienes; vamos a ver dónde se ha desviado». Eso no elimina la responsabilidad, pero evita que un fallo puntual se convierta en una identidad de incompetencia.
+
+La **autoeficacia** (Bandura) se relaciona con ambos: una expectativa de eficacia alta facilita un estilo atributivo más adaptativo ante la dificultad y regula mejor la emoción durante la tarea.
+
+---
+
 ## 3. Bienestar docente: factores de riesgo y de protección
 
 | Favorece el malestar | Protege |
