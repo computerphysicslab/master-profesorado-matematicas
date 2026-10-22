@@ -62,7 +62,6 @@ flowchart TB
 | `07-evaluacion/` | Instrumentos y rúbricas |
 | `08-podcasts/` | Guiones e índices |
 | `09-bibliografia/` | Autores-pensadores |
-| `10-proyectos/` | Proyectos integradores |
 | `99-archivo/` | Histórico / scripts one-shot |
 
 **Criterio:** apuntes de asignatura → `01-asignaturas/…/apuntes/`. No hay carpetas vacías de “psicología/matemáticas/sociología” bajo `02-apuntes/`.
