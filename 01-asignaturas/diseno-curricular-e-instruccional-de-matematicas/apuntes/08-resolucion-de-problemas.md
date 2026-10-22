@@ -392,7 +392,7 @@ No. Sirven para orientar preguntas de mediación y la revisión final, no como r
 - [Bloque 5 — Epistemología y fenomenología](05-fundamentos-epistemologicos-fenomenologicos.md)
 - [Bloque 7 — Dificultades y obstáculos](07-dificultades-y-obstaculos.md)
 - [Bloque 9 — Génesis escolar de objetos](09-genesis-escolar-objetos-matematicos.md)
-- Ideas TFM 26–28 (STEM, origami, juegos) en `10-proyectos/tfm/ideas-interesantes/`
+- Ideas TFM 26–28 (STEM, origami, juegos) en [ideas-interesantes](../../trabajo-fin-de-master/ideas-interesantes/)
 
 ---
 
