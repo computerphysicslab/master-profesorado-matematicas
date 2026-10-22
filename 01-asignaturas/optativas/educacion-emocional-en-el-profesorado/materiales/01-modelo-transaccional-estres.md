@@ -151,13 +151,17 @@ El apoyo entre compañeros docentes y las redes de colaboración son protectores
 
 ## 7. Evidencia empírica con adolescentes
 
-Estudios que aplican el modelo de Lazarus y Folkman en población adolescente (p. ej. Berra Ruiz et al., 2014, cuestionario CEEA) encuentran de forma consistente:
+### Estudio de Berra Ruiz et al. (2014)
 
-- Las situaciones escolares y familiares son las más reportadas como estresantes.
-- Predominan las estrategias centradas en la emoción.
-- Existe correlación entre nivel de estrés, tipo de afrontamiento y tono emocional (ansiedad y miedo asociados a afrontamiento emocional; menor estrés asociado a afrontamiento más activo).
+Berra Ruiz y colaboradores aplicaron el modelo de Lazarus y Folkman a una muestra de 81 adolescentes (11–15 años) mediante el Cuestionario de Estrés, Emociones y Afrontamiento (CEEA). El estudio identifica las emociones, el nivel de estrés y las estrategias de afrontamiento en eventos estresantes y placenteros.
 
-Esto refuerza la necesidad de entrenar de forma explícita la evaluación realista y el afrontamiento centrado en el problema desde la ESO.
+Hallazgos principales:
+
+- Las situaciones **escolares y familiares** son las más reportadas como estresantes.
+- Predominan las estrategias de afrontamiento **centradas en la emoción** (frente a las centradas en el problema).
+- Existe correlación entre el nivel de estrés, el tipo de afrontamiento y el tono emocional: la ansiedad y el miedo se asocian a afrontamiento emocional; un menor estrés se asocia a un afrontamiento más activo.
+
+**Implicación para el aula:** estos resultados refuerzan la necesidad de entrenar de forma explícita la evaluación realista de las demandas y el afrontamiento centrado en el problema desde la ESO, en lugar de dejar que el alumnado se quede solo con estrategias de regulación emocional cuando el problema es modificable.
 
 ---
 
