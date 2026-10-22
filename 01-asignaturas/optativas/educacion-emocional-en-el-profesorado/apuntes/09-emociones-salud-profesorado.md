@@ -65,6 +65,8 @@ Con el alumnado, el mismo principio: observar, acompañar según protocolo y **d
 
 ---
 
+**Ficha de síntesis:** [Identidad docente, emociones y contexto](../materiales/identidad-docente-emociones-y-contexto.md) — emoción antes que razón, pregunta de identidad cuando las cosas fallan, organizaciones emocionalmente inteligentes.
+
 ## Materiales relacionados
 
 - [Asertividad y competencia social](../materiales/asertividad-y-competencia-social.md) — protege límites y reduce escaladas que alimentan el agotamiento emocional.
