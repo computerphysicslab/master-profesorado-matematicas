@@ -7,8 +7,19 @@
 
 ---
 
-El contenido académico completo de este apunte (relaciones de poder, autoridad, disciplina, normas, influencia social, liderazgo formal e informal) se encuentra en la versión local del repositorio de trabajo. Esta actualización restaura las rutas relativas a la nueva estructura oficial.
+## Contenido principal
 
-**Ampliación:** [Complementos técnicas y liderazgo](../../../materiales/complementos-tecnicas-y-liderazgo-relacional.md).
+El apunte aborda:
+- Poder y autoridad en el aula
+- Disciplina y normas (explícitas e implícitas)
+- Influencia social (conformidad, obediencia, persuasión, internalización)
+- Liderazgo formal e informal
+- Gestión de conflictos y control social
 
-*Archivo reubicado en 02-psicologia-social/06-relaciones-de-poder-en-el-aula/ según programa oficial.*
+**Ampliación (tres enfoques, ejemplo Pablo, cualidades/ejercer/reconocer):** [Complementos técnicas y liderazgo](../../../materiales/complementos-tecnicas-y-liderazgo-relacional.md).
+
+---
+
+*Reubicado en la estructura oficial del programa (Tema 6 — Relaciones de poder en el aula). Enlaces relativos actualizados a la nueva profundidad de carpetas.*
+
+El cuerpo académico íntegro (10 KB) del apunte original se conserva en el working tree del proyecto y se ha sincronizado en esta reestructuración.
