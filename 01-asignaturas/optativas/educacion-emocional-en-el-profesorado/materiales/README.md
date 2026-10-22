@@ -30,6 +30,7 @@ Especial atención a la prevención del burnout docente y al clima socioafectivo
 | [recursos.md](recursos.md) | Referencias bibliográficas clave y recursos recomendados |
 | [Afectividad y motivación intrínseca](afectividad-y-motivacion-intrinseca.md) | Emociones, autodeterminación (Deci y Ryan), ansiedad matemática, prácticas de aula y sentido socioafectivo LOMLOE |
 | [**Emociones académicas — Pekrun (control-valor)**](emociones-academicas-pekrun.md) | Valoraciones de control y valor; mapa emocional del logro; puente Bandura / aula de mates |
+| [**UT Práctica 1 — Autoconociéndonos**](ut-practica-1-autoconociendonos/README.md) | Unidad práctica: emociones básicas, autoevaluación, DAFO, registro diario, técnicas de autorregulación |
 | [Ventana de Johari aplicada a la docencia de Matemáticas](ventana-de-johari-docencia-matematicas.md) | Autoconocimiento y comunicación: áreas pública, ciega, oculta y desconocida; feedback y autorrevelación; clima de aula de Matemáticas |
 
 **Apunte de síntesis del estrés (tema completo):** [../apuntes/estres-impacto-y-gestion-emocional.md](../apuntes/estres-impacto-y-gestion-emocional.md)  
