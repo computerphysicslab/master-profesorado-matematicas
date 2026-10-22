@@ -16,6 +16,16 @@ En Matemáticas, además, la exposición pública (salir a la pizarra, corregir 
 
 ## 2. Origen del concepto
 
+### 2.0. Precursores (antes de Salovey y Mayer)
+
+La idea de que las habilidades sociales y emocionales forman parte de la inteligencia no es nueva. Tres referencias clásicas ayudan a situar el concepto:
+
+- **Thorndike (1920)** introdujo el término *inteligencia social* para describir la capacidad de comprender y motivar a otras personas. Distinguía esta forma de inteligencia de la abstracta (ideas) y de la mecánica (objetos).
+- **Wechsler (1940)** señaló la influencia de factores *no intelectivos* (temperamento, personalidad, factores sociales) sobre el comportamiento inteligente. Es decir, el rendimiento intelectual no depende solo de la capacidad cognitiva medida de forma aislada.
+- **Gardner (1983)**, en su teoría de las inteligencias múltiples, incluyó las inteligencias *interpersonal* (comprender a los demás) e *intrapersonal* (comprenderse a uno mismo). Aunque su marco es más amplio que el de la inteligencia emocional, abrió el camino a considerar estas habilidades como formas legítimas de inteligencia.
+
+Estos antecedentes preparan el terreno para la formulación de Salovey y Mayer, que a finales de los años 80 y principios de los 90 proponen la inteligencia emocional como un conjunto de *habilidades mentales* específicas y medibles.
+
 ### 2.1. Salovey y Mayer (años 90)
 
 Peter Salovey y John D. Mayer propusieron la IE como **capacidad mental**: un conjunto de habilidades para procesar información emocional. En su formulación clásica, la IE implica:
