@@ -105,6 +105,29 @@ El contenido es el mismo; cambia el **control** de la resolución.
 
 ---
 
+## 9. Tres ejemplos de inhibición en el aula
+
+1. **Evitar aplicar una operación automáticamente**  
+   Problema: «Un artículo cuesta 50 € y tiene un descuento del 20 %. ¿Cuánto cuesta después del descuento?».  
+   El alumno puede multiplicar 50 por 0,2 y responder 10 €, confundiendo el descuento con el precio final. La inhibición le ayuda a frenar esa primera respuesta y preguntarse qué le están pidiendo.
+
+2. **No dejarse llevar por una intuición engañosa**  
+   Problema: «¿Qué es mayor, \(1/4\) o \(1/6\)?».  
+   El alumno puede pensar que 6 es mayor que 4 y, por tanto, \(1/6\) es mayor. Necesita inhibir esa intuición basada en los números enteros y razonar sobre el tamaño de las partes.
+
+3. **No perseverar en una estrategia equivocada**  
+   Al resolver una ecuación, el alumno repite varias veces un procedimiento que no funciona. La inhibición le permite detener esa conducta, revisar los pasos y probar otra estrategia.
+
+---
+
+## 10. Idea clave
+
+La inhibición no consiste simplemente en controlar la conducta; también significa **controlar el pensamiento** para evitar que la primera respuesta sustituya al razonamiento.
+
+Como futuro profesor de Matemáticas, puedes entrenarla pidiendo al alumnado que, antes de calcular, lea el problema, identifique qué le preguntan y justifique qué operación o estrategia va a utilizar. Esa pausa entre el estímulo y la respuesta automática favorece la reflexión, reduce los errores impulsivos y contribuye a desarrollar la autorregulación.
+
+---
+
 ## Lecturas y enlaces en el repo
 
 - [Carga cognitiva en Matemáticas](carga-cognitiva-matematicas.md)  
