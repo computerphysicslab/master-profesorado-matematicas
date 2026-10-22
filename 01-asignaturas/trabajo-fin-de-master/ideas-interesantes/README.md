@@ -67,7 +67,7 @@ Criterios detallados: [`00-criterios-evaluacion-solidez.md`](00-criterios-evalua
 
 ## Prioridad sugerida (por solidez + viabilidad de aula)
 
-1. **21** — Elkonin-Davydov abstracto→concreto (solidez 14; investigación de origen en [10-proyectos/investigaciones/...](../../../10-proyectos/investigaciones/elkonin-davydov-critica-pedagogias-modernas/)).
+1. **21** — Elkonin-Davydov abstracto→concreto (solidez 14; investigación de origen en [materiales de apoyo](21-elkonin-davydov-materiales/)).
 2. **20** — Andamiaje permanente / fading / autorregulación (13).
 3. **06** — Ilusión de competencia + [protocolo](06-protocolo-practicum.md) (13).
 4. **05 / 11 / 22 / 24 / 25** — Bloque sólido alto (12).
@@ -113,6 +113,6 @@ Fuente: [Atlas de nichos](../atlas-nichos/) · [mapa de saturación](../atlas-ni
 | [Análisis de temáticas](../ANALISIS-TEMATICAS.md) | Visión general de saturación |
 | [Leyes educativas / PISA 2025](../../procesos-y-contextos-educativos/materiales/leyes-educativas/) | Marco de la idea 16 |
 | [Materiales de psicología](../../../03-materiales/psicologia/) | Ideas 10, 17, **20**, **24** y **25** (autoeficacia, ansiedad, multinivel/SBTA) |
-| [Investigación Elkonin-Davydov](../../../10-proyectos/investigaciones/elkonin-davydov-critica-pedagogias-modernas/) | Origen empírico-teórico de la idea **21** |
+| [Investigación Elkonin-Davydov](21-elkonin-davydov-materiales/) | Origen empírico-teórico de la idea **21** |
 
 La carpeta `ideas-interesantes/` funciona como puente entre la **detección de un nicho**, la **lectura de impacto** y la **formulación de una propuesta concreta de TFM**.
