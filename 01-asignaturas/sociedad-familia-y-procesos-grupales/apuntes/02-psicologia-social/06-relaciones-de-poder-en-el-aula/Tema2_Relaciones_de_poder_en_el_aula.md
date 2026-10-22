@@ -84,26 +84,139 @@ Rasgos → Conductas → Situación → Relación líder–seguidores
 
 ## 8. Enfoque conductual
 
-### 8.1. Lewin, Lippitt y White (1939)
+Los estudios conductuales sobre liderazgo intentaron identificar qué comportamientos concretos de los líderes favorecen el funcionamiento de los grupos. En educación, estos trabajos ayudaron a comprender cómo el estilo de dirección del docente influye en el aprendizaje, la motivación y el clima del aula.
 
-| Estilo | En el aula | Riesgo si es el único |
-|--------|------------|----------------------|
-| **Autocrático** | Emergencia, consignas muy claras | Dependencia; hostilidad |
-| **Democrático** | Estrategias compartidas; **no** es ausencia de autoridad | Más tiempo |
-| **Laissez-faire** | Solo con grupos muy maduros | Desorganización = falta de marco |
+### 8.1. Lewin, Lippitt y White (1939): estilos de liderazgo
 
-### 8.2. Ohio: estructura de iniciación y consideración
+Kurt Lewin y sus colaboradores fueron pioneros en el estudio experimental de los estilos de liderazgo. Identificaron tres formas básicas de dirigir un grupo: autocrática, democrática y laissez-faire.
 
-| Dimensión | Ejemplo en mates |
-|-----------|------------------|
-| **Estructura de iniciación** | Objetivos claros, secuencia, criterios |
-| **Consideración** | Escucha, apoyo, respeto al error |
+#### Liderazgo autocrático
 
-Alta estructura + alta consideración ≈ alta exigencia + alto apoyo.
+**Qué es.** El profesor toma las decisiones principales y comunica instrucciones precisas sobre lo que debe hacerse y cómo hacerlo.
+
+**Qué implica en el aula.** Durante una evacuación de emergencia o cuando se necesita controlar rápidamente una situación conflictiva, el profesor da órdenes claras y espera un cumplimiento inmediato.
+
+**Ventajas**
+- Rapidez en la toma de decisiones.
+- Claridad de expectativas.
+- Útil en situaciones críticas o cuando el alumnado carece de experiencia.
+
+**Limitaciones / riesgos si se utiliza de forma habitual**
+- Dependencia excesiva del docente.
+- Escasa autonomía del alumnado.
+- Posible aparición de hostilidad, pasividad o resistencia cuando desaparece la autoridad.
+
+En educación, este estilo puede ser necesario en determinados momentos, pero difícilmente favorece por sí solo el desarrollo de competencias de autonomía y autorregulación.
+
+#### Liderazgo democrático
+
+**Qué es.** El docente mantiene la autoridad, pero implica al alumnado en ciertas decisiones, fomenta la participación y explica las razones de las normas o actividades.
+
+**Qué implica en el aula.** Decidir conjuntamente los criterios de presentación de un proyecto o debatir estrategias para resolver un problema matemático.
+
+Es importante comprender que liderazgo democrático no significa ausencia de autoridad. El profesor sigue siendo responsable de establecer límites, objetivos y normas.
+
+**Ventajas**
+- Mayor implicación del alumnado.
+- Desarrollo de la responsabilidad y la autonomía.
+- Mejor clima social.
+
+**Limitaciones**
+- Requiere más tiempo.
+- Puede resultar menos eficaz cuando es necesario actuar con rapidez.
+
+Por ello suele considerarse el estilo más adecuado para contextos educativos ordinarios, aunque necesita adaptarse a las circunstancias.
+
+#### Liderazgo laissez-faire
+
+**Qué es.** El profesor interviene mínimamente y deja un amplio margen de decisión al grupo.
+
+**Qué implica en el aula.** Un grupo muy autónomo realiza una investigación prolongada y solo solicita ayuda puntual al docente.
+
+**Ventajas**
+- Fomenta la iniciativa y la autodirección.
+- Puede resultar adecuado para grupos muy maduros y altamente motivados.
+
+**Riesgos / limitaciones**
+- Desorganización.
+- Ambigüedad respecto a los objetivos.
+- Sensación de abandono por parte del alumnado.
+
+La principal enseñanza de estos estudios es que la libertad educativa no consiste en la desaparición del marco pedagógico. Sin una estructura mínima, la autonomía puede transformarse en confusión.
+
+### 8.2. Los estudios de Ohio: estructura de iniciación y consideración
+
+Investigadores de la Universidad Estatal de Ohio propusieron que el liderazgo puede analizarse según dos dimensiones relativamente independientes.
+
+#### Estructura de iniciación
+
+**Qué es.** Hace referencia al grado en que el profesor organiza, planifica y estructura la actividad.
+
+Incluye aspectos como:
+- Definición clara de objetivos.
+- Explicación de procedimientos.
+- Secuenciación de tareas.
+- Establecimiento de criterios de evaluación.
+
+**Qué implica en el aula de Matemáticas.** El profesor explica los objetivos de una unidad sobre funciones, presenta una secuencia progresiva de ejercicios y proporciona rúbricas para evaluar el trabajo.
+
+Un nivel adecuado de estructura reduce la incertidumbre y ayuda al alumnado a comprender qué se espera de él.
+
+#### Consideración
+
+**Qué es.** Se refiere a la atención que el docente presta a las necesidades personales y emocionales de los estudiantes.
+
+Incluye:
+- Escucha activa.
+- Respeto.
+- Apoyo emocional.
+- Reconocimiento del esfuerzo.
+- Tratamiento constructivo del error.
+
+**Qué implica en el aula de Matemáticas.** Cuando un alumno comete un error, el profesor lo utiliza como oportunidad de aprendizaje en lugar de ridiculizarlo o sancionarlo.
+
+La consideración favorece la confianza, la motivación y la percepción de apoyo.
+
+#### La combinación óptima
+
+Los estudios posteriores sugirieron que ambas dimensiones no son excluyentes. Un profesor puede mostrar:
+
+- Alta estructura y baja consideración.
+- Baja estructura y alta consideración.
+- Baja estructura y baja consideración.
+- Alta estructura y alta consideración.
+
+La combinación que suele asociarse a mejores resultados educativos es:
+
+**Alta estructura + alta consideración**
+
+Es decir: exigencia elevada sin perder la cercanía humana. O, expresado de forma más pedagógica:
+
+> «Mucho apoyo para que todos puedan afrontar retos exigentes.»
+
+Esta idea conecta con conceptos actuales como el andamiaje, las altas expectativas o la enseñanza eficaz.
 
 ### 8.3. El contexto importa
 
-Grupo autónomo / tarea nueva / disrupción grave → estilos distintos. Adaptar a madurez, dificultad, tiempo, clima.
+Una de las críticas a los enfoques conductuales fue que buscaban «el mejor estilo» de liderazgo de forma universal. Investigaciones posteriores mostraron que la eficacia de un estilo depende del contexto.
+
+Algunos factores relevantes son:
+
+- **Madurez y autonomía del grupo.** Un grupo autónomo puede beneficiarse de una mayor participación y libertad. Un grupo con escasas habilidades de autorregulación puede necesitar más estructura y supervisión.
+- **Complejidad de la tarea.** Una tarea nueva requiere más guía. Una tarea conocida permite una dirección menos intensa.
+- **Gravedad de la situación.** En casos de disrupción grave o emergencia se justifica un liderazgo más directivo. En contextos normales puede ser preferible una gestión más participativa.
+- **Tiempo disponible.** Cuando hay poco tiempo, las decisiones centralizadas pueden resultar más eficaces. Con más tiempo se pueden incorporar procesos deliberativos.
+- **Clima del aula.** Un grupo desmotivado puede necesitar apoyo emocional adicional. Un grupo inseguro puede necesitar más estructura. Un grupo excesivamente dependiente puede beneficiarse de una cesión gradual de responsabilidad.
+
+**Idea central.** La principal conclusión es que no existe un estilo universalmente válido. Un buen docente adapta su comportamiento a las características del alumnado, las tareas y las circunstancias.
+
+En términos actuales, podríamos resumir todo el tema con una fórmula sencilla:
+
+> La enseñanza eficaz combina estructura, apoyo y capacidad de adaptación.
+
+O dicho para recordar en un examen:
+
+> Ni autoridad sin participación, ni participación sin dirección: el reto del docente consiste en ajustar el grado de control y apoyo que exige cada situación educativa.
 
 ---
 
