@@ -17,7 +17,6 @@ Leyenda: **Operativo** · **Parcial** · **Reserva** · **Vacío**
 | `07-evaluacion/` | **Operativo** (mínimo viable) | 4 rúbricas CE, 6 instrumentos, ejemplo de alineación, README/INDICE |
 | `08-podcasts/` | **Operativo** | Guiones e índices |
 | `09-bibliografia/` | **Operativo** | Autores-pensadores amplio |
-| `10-proyectos/` | **Reserva / parcial** | Investigación Elkonin-Davydov; propuestas poco desarrolladas |
 | `99-archivo/` | **Activo** | Histórico + memoria del proceso de mejoras |
 | Raíz (`README`, `MANIFEST`, `sintesis-…`, `ESTADO`) | **Operativo** | Síntesis con enlaces a evaluación, SA, practicum |
 
@@ -37,7 +36,6 @@ Leyenda: **Operativo** · **Parcial** · **Reserva** · **Vacío**
 - Ampliar `normativa/` y carcasas formativa/sumativa dentro de `07-evaluacion/`.
 - Más SA o revisión sesión a sesión de las existentes.
 - Profundizar orquestación de IA en el aula y notebooks Python adicionales.
-- Desarrollar `10-proyectos/` si deja de ser reserva.
 
 ## Rama de trabajo
 
