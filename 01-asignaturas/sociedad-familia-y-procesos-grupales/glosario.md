@@ -193,11 +193,12 @@ Secuencia clásica: **forming** (orientación) → **storming** (tensiones) → 
 
 ## Enlaces a apuntes y materiales de la asignatura
 
-- [Tema 1: El aula como grupo](apuntes/Tema1_El_aula_como_grupo.md)
-- [Tema 2: Relaciones de poder en el aula](apuntes/Tema2_Relaciones_de_poder_en_el_aula.md)
-- [Tema 3: Interacción y comunicación en el aula](apuntes/Tema3_Interaccion_y_comunicacion_en_el_aula.md)
-- [Tema 4: Prejuicio y estereotipos ante la diversidad](apuntes/Tema4_Prejuicio_y_estereotipos_ante_la_diversidad.md)
-- [Tema 5: Familia, escuela y acompañamiento del aprendizaje](apuntes/Tema5_Familia_escuela_acompanamiento_aprendizaje.md)
+- [Tema 5: El aula como grupo](apuntes/02-psicologia-social/05-el-aula-como-grupo/Tema1_El_aula_como_grupo.md)
+- [Tema 6: Relaciones de poder en el aula](apuntes/02-psicologia-social/06-relaciones-de-poder-en-el-aula/Tema2_Relaciones_de_poder_en_el_aula.md)
+- [Tema 4: Interacción y comunicación en el aula](apuntes/02-psicologia-social/04-interaccion-y-comunicacion-en-el-aula/Tema3_Interaccion_y_comunicacion_en_el_aula.md)
+- [Tema 7: Prejuicio y estereotipos ante la diversidad](apuntes/02-psicologia-social/07-prejuicio-y-estereotipos-ante-la-diversidad/Tema4_Prejuicio_y_estereotipos_ante_la_diversidad.md)
+- [Tema 2: Familia, escuela y acompañamiento del aprendizaje](apuntes/01-sociologia/02-familia-y-educacion/Tema5_Familia_escuela_acompanamiento_aprendizaje.md)
+- [Índice de apuntes (estructura oficial)](apuntes/README.md)
 - [Material: Comunicación con familias (Matemáticas)](materiales/comunicacion-con-familias-matematicas.md)
 - [Bibliografía](bibliografia.md)
 
@@ -205,4 +206,4 @@ Complementa el [glosario central del máster](../../02-apuntes/glosario-central-
 
 ---
 
-*Última actualización: 21 octubre 2026 · Glosario de la asignatura Sociedad, familia y procesos grupales — Máster de Profesorado (especialidad Matemáticas).*
+*Última actualización: 22 octubre 2026 · Glosario de la asignatura Sociedad, familia y procesos grupales — Máster de Profesorado (especialidad Matemáticas).*

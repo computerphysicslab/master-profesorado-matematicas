@@ -86,7 +86,7 @@ En un grupo de Educación Secundaria Obligatoria, la dimensión socioafectiva es
 4. Prever la gestión de conflictos y de la motivación adolescente, con un sistema de reconocimiento que valore tanto el esfuerzo individual como el logro colectivo.
 5. En Matemáticas: dividir un tema en subtemas con **sentido** (p. ej. distintos métodos de resolución, distintas representaciones, distintos contextos de un mismo modelo), no en trozos arbitrarios; cerrar con una tarea individual o de equipo que exija **integrar** las piezas (para detectar lagunas).
 
-**En el repositorio:** [aula como grupo / cooperativo](../../01-asignaturas/sociedad-familia-y-procesos-grupales/apuntes/Tema1_El_aula_como_grupo.md) · [glosario central](../../02-apuntes/glosario-central-master.md) (andamiaje, autoeficacia, DUA) · [situaciones de aprendizaje](../situaciones-aprendizaje/).
+**En el repositorio:** [aula como grupo / cooperativo](../../01-asignaturas/sociedad-familia-y-procesos-grupales/apuntes/02-psicologia-social/05-el-aula-como-grupo/Tema1_El_aula_como_grupo.md) · [glosario central](../../02-apuntes/glosario-central-master.md) (andamiaje, autoeficacia, DUA) · [situaciones de aprendizaje](../situaciones-aprendizaje/).
 
 ---
 
@@ -121,7 +121,7 @@ En conjunto, la técnica demuestra que la motivación no es un requisito previo,
 | Recurso | Enlace |
 |---------|--------|
 | Infografía (esta carpeta) | [Técnica_Jigsaw_de_aprendizaje_cooperativo.png](T%C3%A9cnica_Jigsaw_de_aprendizaje_cooperativo.png) |
-| Aula como grupo y técnicas cooperativas | [Tema 1 — Sociedad, familia…](../../01-asignaturas/sociedad-familia-y-procesos-grupales/apuntes/Tema1_El_aula_como_grupo.md) |
+| Aula como grupo y técnicas cooperativas | [Tema 5 — Sociedad, familia…](../../01-asignaturas/sociedad-familia-y-procesos-grupales/apuntes/02-psicologia-social/05-el-aula-como-grupo/Tema1_El_aula_como_grupo.md) |
 | Paradigmas y leyes | [Tema 1 Procesos](../../01-asignaturas/procesos-y-contextos-educativos/apuntes/01-evolucion-historica-sistema-educativo-paradigmas.md) |
 | DUA | [ficha DUA](../../01-asignaturas/procesos-y-contextos-educativos/materiales/dua-diseno-universal-aprendizaje.md) |
 | Situaciones de aprendizaje (catálogo) | [situaciones-aprendizaje/](../situaciones-aprendizaje/) |
