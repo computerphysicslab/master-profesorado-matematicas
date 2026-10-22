@@ -100,6 +100,7 @@ Su mensaje sería: «No voy a hacer el trabajo por ti, ni voy a permitir que te 
 | **[Afectividad y motivación intrínseca](materiales/afectividad-y-motivacion-intrinseca.md)** | Deci y Ryan; ansiedad matemática; sentido socioafectivo LOMLOE |
 | **[Ventana de Johari en docencia de Matemáticas](materiales/ventana-de-johari-docencia-matematicas.md)** | Autoconocimiento, feedback y clima de aula |
 | Índice completo | [materiales/README.md](materiales/README.md) |
+| **[UT Práctica 1 — Autoconociéndonos](materiales/ut-practica-1-autoconociendonos/README.md)** | Unidad práctica de autoconocimiento (DAFO, registro, técnicas) |
 
 ## Examen (autoevaluación)
 
