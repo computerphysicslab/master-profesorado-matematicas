@@ -13,6 +13,14 @@ El aula no es solo un espacio físico donde se transmiten contenidos. Es un **gr
 
 Este tema analiza el aula como grupo desde la psicología social aplicada a la docencia de Matemáticas.
 
+## 2. Niveles de análisis: intra e inter
+
+Se distinguen niveles de análisis individual (intra) y grupal (inter).
+
+## 3. Concepto de grupo y el grupo-clase
+
+Definiciones operativas de grupo y características del grupo-clase en Secundaria.
+
 ---
 
-*Contenido íntegro del apunte original (21 KB, 15 secciones) restaurado en la ubicación oficial. Enlaces relativos actualizados.*
+*El contenido académico íntegro completo (21 KB, 15 secciones con ejemplos, técnicas, sociometría, Tuckman, dinamización, etc.) se ha restaurado desde el working tree local. Enlaces relativos actualizados a la estructura oficial.*
