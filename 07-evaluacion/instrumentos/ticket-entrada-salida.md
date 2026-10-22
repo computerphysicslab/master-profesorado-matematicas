@@ -44,6 +44,32 @@ La utilidad está en **leer una muestra** (no siempre el 100 %) y **actuar**: mi
 
 ---
 
+## Ejemplo concreto — ecuaciones de primer grado (3.º ESO)
+
+**Contexto:** se ha explicado la resolución de ecuaciones de primer grado. Últimos 3 minutos de clase.
+
+**Ticket de salida**
+
+1. Resuelve: \(3x+2=14\).
+2. ¿Cómo te has sentido al resolverlo?
+   - Lo entiendo y podría resolver otro.
+   - Lo entiendo parcialmente.
+   - Todavía estoy perdido.
+3. ¿Qué te ha resultado más difícil?
+
+**Qué hace el profesor con las respuestas**
+
+- Si la mayoría falla en el mismo paso, vuelve a explicarlo de otra manera.
+- Si unos alumnos lo dominan y otros no, organiza actividades de refuerzo y ampliación.
+- Si un alumno expresa que está perdido, puede ofrecerle apoyo específico.
+- Si la mayoría lo ha comprendido, avanza hacia contenidos nuevos.
+
+La clave es que la información recogida sirva para tomar decisiones pedagógicas. Si el profesor recoge los tickets y nunca utiliza sus resultados, se pierde gran parte de su valor formativo.
+
+**En resumen:** la evaluación sumativa pregunta «¿qué nota merece el alumno por lo aprendido?»; el ticket de salida ayuda a responder «¿qué ha comprendido hoy y qué debemos hacer después para que siga aprendiendo?».
+
+---
+
 ## Variantes matemáticas
 
 | Objetivo | Ejemplo de ítem de entrada |
