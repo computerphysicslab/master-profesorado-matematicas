@@ -69,6 +69,15 @@ Lo ordinario bien hecho (clima + DUA + feedback) reduce la necesidad de lo extra
 
 ---
 
+## 5.1. Programas de referencia y criterios SAFE
+
+Para diseñar secuencias breves en el aula conviene conocer ejemplos de programas con tradición o evidencia, así como los criterios que los metaanálisis asocian con mayores efectos. Ver la ficha:
+
+**[Programas de educación emocional: ejemplos de referencia](../materiales/programas-educacion-emocional-referencia.md)**  
+(GROP, INTEMO, SEA y criterios SAFE de Durlak).
+
+---
+
 ## 6. Sentido socioafectivo LOMLOE y Matemáticas
 
 La LOMLOE incorpora el sentido socioafectivo como parte del aprendizaje de las Matemáticas: actitud positiva, perseverancia, respeto, confianza. El profesor de la materia es el agente natural de este sentido; no es un “extra” de tutoría.
