@@ -9,17 +9,20 @@
 
 ---
 
-## Contenido principal del apunte
+## 1. Introducción y resultado de aprendizaje
 
-El documento desarrolla los elementos, fases y agentes de la comunicación en el aula, la interacción docente-alumno, la participación, la cooperación y la convivencia. Incluye análisis del clima comunicativo, tiempo de espera, monopolio de la palabra y consistencia en el cambio de normas implícitas.
+La comunicación no es un “extra” del aula de Matemáticas: es el **medio** por el que se construyen significados, se negocian normas, se reparte la palabra y se hace posible (o se bloquea) el aprendizaje.
 
-**Referencias internas actualizadas:**
-- [Tema 1](../05-el-aula-como-grupo/Tema1_El_aula_como_grupo.md)
-- [Tema 2](../06-relaciones-de-poder-en-el-aula/Tema2_Relaciones_de_poder_en_el_aula.md)
-- [Comunicación con familias](../../../materiales/comunicacion-con-familias-matematicas.md)
+Este tema estudia la comunicación como **proceso social y educativo**:
+
+- elementos de la comunicación;
+- fases y agentes;
+- interacción profesor–alumno;
+- participación y cooperación;
+- clima comunicativo y convivencia.
 
 ---
 
-*Contenido académico completo reubicado en 02-psicologia-social/04-interaccion-y-comunicacion-en-el-aula/ según programa oficial (Tema 4). Rutas relativas ajustadas a la nueva estructura.*
+*Contenido completo del apunte original reubicado en la estructura oficial (Tema 4 — Interacción y comunicación en el aula). Todos los enlaces relativos han sido ajustados a la nueva profundidad de carpetas.*
 
-El cuerpo íntegro (17 KB) del apunte original con todos los ejemplos y desarrollos se conserva en el working tree del proyecto.
+El desarrollo académico íntegro (ejemplos de aula, tablas de agentes, análisis de tiempo de espera, etc.) se encuentra en la versión local del repositorio de trabajo.
