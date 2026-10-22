@@ -52,6 +52,10 @@ Las ideas se incorporan cuando aparece una combinación interesante de:
 | [24](24-roles-funcionales-comparacion-social-complex-instruction.md) | Roles funcionales / Complex Instruction / comparación social | expandida | **12** | Sólida | Anclaje Festinger–Marsh–Bandura + Cohen/Lotan; intersección poco saturada (tarea abierta × estatus × autoconcepto); viabilidad de aula buena si se acota ética e instrumentos |
 | [25](25-suelo-bajo-techo-alto-limites-tarea-unica.md) | Suelo bajo / techo alto: límites de la tarea única | expandida + [protocolo](25-protocolo-practicum.md) | **12** | Sólida | Bandura–Schunk, Kalyuga, Gersten, Steenbergen-Hu; crítica al SBTA como dispositivo único; puente a multinivel y DUA |
 
+| [26](26-stem-enfasis-matematicas-aviones-dados.md) | STEM con énfasis real en Matemáticas (aviones / dados) | semilla | **8–9** | Prometedora | Integridad de la M dentro de STEM; detección de sesgos; diseño experimental acotado |
+| [27](27-origami-sentido-espacial-argumentacion.md) | Origami, sentido espacial y argumentación | semilla | **7–8** | Prometedora | Razonar a partir de la secuencia de pliegues; poco saturado si se centra en argumentación |
+| [28](28-juegos-adaptados-decrypto-dixit.md) | Juegos adaptados (Decrypto / Dixit) | semilla | **7** | Prometedora | Comunicación matemática y sentido afectivo; requiere fundamentación didáctica clara |
+
 ### Leyenda rápida de solidez
 
 | Banda | Rango | Significado |
