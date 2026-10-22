@@ -207,7 +207,7 @@ Abstracción desarrollada (operaciones formales + habla interna + construal de a
 - Piaget (estadio formal operacional); Vygotsky (habla privada / habla interna).
 
 **Investigación de origen (marco completo):**  
-[Carpeta de investigación Elkonin-Davydov](../../../10-proyectos/investigaciones/elkonin-davydov-critica-pedagogias-modernas/) — en particular [`conclusiones.md`](../../../10-proyectos/investigaciones/elkonin-davydov-critica-pedagogias-modernas/conclusiones.md), [`estado.md`](../../../10-proyectos/investigaciones/elkonin-davydov-critica-pedagogias-modernas/estado.md), [`bibliografia.md`](../../../10-proyectos/investigaciones/elkonin-davydov-critica-pedagogias-modernas/bibliografia.md), [`graficas.md`](../../../10-proyectos/investigaciones/elkonin-davydov-critica-pedagogias-modernas/graficas.md).
+[Materiales de apoyo (idea 21)](21-elkonin-davydov-materiales/) — en particular [`conclusiones.md`](21-elkonin-davydov-materiales/conclusiones.md), [`estado.md`](21-elkonin-davydov-materiales/estado.md), [`bibliografia.md`](21-elkonin-davydov-materiales/bibliografia.md), [`graficas.md`](21-elkonin-davydov-materiales/graficas.md).
 
 **Puentes en el repo:** [Idea 17 — Matemáticas y salud mental](17-matematicas-y-salud-mental.md) · [Idea 20 — Andamiaje y autorregulación](20-andamiaje-permanente-autorregulacion.md).
 
