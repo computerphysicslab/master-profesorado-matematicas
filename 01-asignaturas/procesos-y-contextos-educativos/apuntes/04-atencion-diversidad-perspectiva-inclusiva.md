@@ -1,1 +1,205 @@
-AMPLIADO_TEMA4
+# Tema 4 · La atención a la diversidad desde una perspectiva inclusiva
+
+**Asignatura:** Procesos y contextos educativos  
+**Programa:** [tema 4](../programa.md)
+
+> De “integrar al que es distinto” a **diseñar el aula para todos**. Marco práctico: [DUA](../materiales/dua-diseno-universal-aprendizaje.md) · Tomlinson (aula diversificada) · Torrego (cooperativo e inclusión).
+
+**Complementa (sin sustituir):** perspectiva psicosocial del prejuicio, estereotipos y expectativas en [Sociedad, familia y procesos grupales — Tema 7 / Prejuicio y estereotipos ante la diversidad](../../sociedad-familia-y-procesos-grupales/apuntes/02-psicologia-social/07-prejuicio-y-estereotipos-ante-la-diversidad/Tema4_Prejuicio_y_estereotipos_ante_la_diversidad.md). Aquí el foco es el **marco organizativo, normativo y de diseño** (medidas, DUA, centro); allí, el **proceso de percepción, atribución y etiquetado** en el aula.
+
+---
+
+## 1. Integración vs. inclusión
+
+| Enfoque | Idea central | Riesgo |
+|---------|--------------|--------|
+| **Integración** | El alumnado “diferente” se incorpora al aula ordinaria; a veces con apoyos paralelos | El currículo sigue rígido; el alumno debe adaptarse al molde |
+| **Inclusión** | El sistema y el diseño didáctico se transforman para acoger la diversidad como norma | Requiere formación, tiempo y coordinación real |
+
+La **LOMLOE** sitúa la inclusión y el **DUA** como referentes de las programaciones y de la atención a la diversidad.
+
+---
+
+## 2. Diversidad en el aula de Secundaria (qué hay “de serie”)
+
+- Ritmos y estilos de aprendizaje distintos.  
+- Competencia lingüística desigual (incluido alumnado de incorporación tardía).  
+- Motivación y trayectoria escolar muy variables.  
+- NEAE (necesidades específicas de apoyo educativo): dificultades de aprendizaje, altas capacidades, discapacidad, trastornos, situaciones de vulnerabilidad, etc.  
+- Factores socioafectivos: ansiedad matemática, miedo al error, estereotipos de género en STEM.
+
+**Tomlinson (2001):** el aula **diversificada** responde a esa realidad variando **contenido, proceso y producto** (y, en la práctica, también el entorno de aprendizaje), sin renunciar a objetivos ambiciosos para todos.
+
+---
+
+## 3. Medidas: ordinarias y específicas (mapa mental)
+
+| Tipo | Ejemplos |
+|------|----------|
+| **Ordinarias** | Metodología flexible, refuerzo en el grupo, desdobles, optativas, tutoría, DUA en el diseño común |
+| **Específicas** | Adaptaciones curriculares significativas cuando procedan, apoyo de PT/AL u otros especialistas, planes individualizados según normativa y evaluación psicopedagógica |
+
+**Regla de oro:** agotar el diseño universal y las medidas ordinarias antes de etiquetar; cuando haga falta lo específico, **coordinar** (no improvisar en solitario).
+
+---
+
+## 3.1. Ejemplo de aplicación: TDAH y medidas ordinarias en el aula de Matemáticas
+
+El TDAH (cuando hay dictamen o cuando el patrón de aula sugiere interferencia atencional/ejecutiva) **no obliga** a inventar un currículo paralelo. Muchas respuestas son **medidas ordinarias** de diseño:
+
+| Medida ordinaria | Qué aporta |
+|------------------|------------|
+| Instrucciones breves y una cada vez | Reduce pérdida del hilo |
+| Tarea fragmentada + checklist visual | Apoya planificación y memoria de trabajo |
+| Ubicación con menos distractores | Reduce carga atencional extrínseca |
+| Feedback frecuente y concreto | Autorregulación sin esperar al final |
+| Formato de evaluación que no mida solo resistencia atencional | Separa acceso/atención de competencia matemática |
+| Enseñar estrategias ejecutivas (plan, revisión) | Andamiaje que se puede retirar |
+
+**Principio:** adaptar no es “hacerlo más fácil”; es quitar barreras innecesarias para que pueda demostrar lo que sabe. Detalle operativo y cadena barreras → diseño: [Neurodivergencia en el aula de Matemáticas](../../psicologia-del-desarrollo-y-de-la-educacion/materiales/neurodivergencia-aula-matematicas.md) (§3.1).
+
+Si hacen falta medidas específicas (tiempo en pruebas oficiales, materiales, etc.), se aplican según **dictamen y plan de centro**, en coordinación con orientación — no por decisión aislada del docente de la materia.
+
+---
+
+## 4. DUA como columna vertebral del diseño
+
+Tres principios (detalle en el [material DUA](../materiales/dua-diseno-universal-aprendizaje.md)):
+
+1. **Compromiso** (*por qué*) — interés, persistencia, clima seguro.  
+2. **Representación** (*qué*) — varios formatos de la misma idea matemática.  
+3. **Acción y expresión** (*cómo*) — varias formas de evidenciar el criterio.
+
+El DUA **no baja el nivel**: multiplica caminos hacia los mismos criterios de evaluación.
+
+Una misma decisión DUA puede reducir barreras para **varios** perfiles a la vez (TDAH, dislexia, ansiedad, incorporación lingüística…). Ver tabla multiperfil en el [apunte transversal DUA](../../../02-apuntes/didactica/dua-diseno-universal-aprendizaje.md).
+
+---
+
+## 5. Aprendizaje cooperativo e inclusión
+
+**Torrego y Negro (2012)** plantean el aprendizaje cooperativo como recurso de **implantación real** en centros: no solo “hacer grupos”, sino estructuras, roles e interdependencia positiva.
+
+En Matemáticas:
+
+- roles (representa / calcula / explica / revisa);
+- problemas ricos con varias entradas;
+- evaluación que valora la explicación y la ayuda entre iguales (sin convertir al alumnado en sustituto del docente).
+
+---
+
+## 6. Ejemplo rápido (3.º ESO — proporcionalidad)
+
+| Principio | Ajuste |
+|-----------|--------|
+| Compromiso | Elegir contexto: recetas, descuentos o escalas de mapas |
+| Representación | Tabla, gráfica, regla de tres, lenguaje verbal |
+| Expresión | Informe breve, audio de 1 min o póster |
+| Cooperativo | Parejas con roles; puesta en común de estrategias |
+
+Misma competencia; distinta vía de acceso y de evidencia.
+
+---
+
+## Caso Aragón — diversidad, DUA y coordinación
+
+En centros de Aragón, las medidas de atención a la diversidad se enmarcan en la **LOMLOE**, en el **plan de atención a la diversidad del centro** y en la normativa autonómica de organización e inclusión. La terminología de adaptaciones (p. ej. ACI/ACS o equivalentes) y los protocolos de derivación a orientación deben consultarse en el centro y en las instrucciones vigentes.
+
+**Implicaciones para Matemáticas en el practicum:**
+
+| Prioridad | Acción |
+|-----------|--------|
+| 1 | Diseñar con **DUA** la unidad (no improvisar solo “fichas de refuerzo”) |
+| 2 | Conocer el [mapa de medidas](../materiales/mapa-medidas-atencion-diversidad.md) y el plan del centro |
+| 3 | Coordinar con tutoría y orientación antes de medidas específicas |
+| 4 | Alinear evidencias de evaluación con criterios (ver [evaluación competencial](../materiales/evaluacion-competencial-matematicas-lomloe.md)) |
+| 5 | Profundizar inclusión y excelencia en el currículo de la materia: [inclusión y diversidad matemática LOMLOE](../../diseno-curricular-e-instruccional-de-matematicas/materiales/curriculo-lomloe/inclusion-excelencia-diversidad-matematica-lomloe.md) |
+
+> Ante riesgo emocional o de salud mental del alumnado, el rol docente es **detectar y derivar** según protocolo de centro — no diagnosticar. Material relacionado en Psicología del desarrollo (si se cursa en paralelo).
+
+---
+
+## 7. Límites éticos y profesionales
+
+- No difundir información sensible del alumnado.  
+- No diagnosticar: observar, registrar, derivar a orientación.  
+- Evitar “rebajar” solo a quien tiene informe y “exigir todo” al resto sin andamiaje.  
+- Coordinarse con el plan de atención a la diversidad del centro.
+
+---
+
+## 8. Preguntas de repaso
+
+1. Diferencia integración e inclusión con un ejemplo de aula de Matemáticas.  
+2. ¿Qué es una medida ordinaria y qué una específica? Pon un ejemplo de medida ordinaria útil ante dificultades atencionales/ejecutivas.  
+3. Diseña una tarea de ecuaciones con los tres principios DUA.  
+4. ¿Por qué el cooperativo mal planteado puede aumentar la exclusión?
+
+---
+
+## 9. Casos prácticos en el aula de Matemáticas
+
+### Caso A — 2.º ESO, ecuaciones lineales (alumno con dificultades de acceso lingüístico y ejecutivo)
+
+**Situación:** Alumno de incorporación reciente; entiende el procedimiento cuando se modeliza con balanza o con material, pero se bloquea ante el enunciado verbal largo y ante la exigencia de “pasar al otro lado”.
+
+**Medidas ordinarias aplicadas (DUA):**
+- Representación: balanza dibujada + secuencia visual de pasos.
+- Acción/expresión: puede explicar el proceso oralmente o con esquema antes de escribir la ecuación formal.
+- Compromiso: problema contextualizado en una situación cercana (reparto de dinero del recreo).
+
+**Resultado:** Logra el criterio de “resolver e interpretar ecuaciones lineales sencillas” por vía semiabstracta. No se rebajó el criterio; se diversificó la vía de evidencia.
+
+### Caso B — 4.º ESO, geometría (altas capacidades + ansiedad ante el error público)
+
+**Situación:** Alumna que resuelve rápidamente pero se niega a salir a la pizarra y abandona si el primer intento no es perfecto.
+
+**Ajustes:**
+- Extensión: problemas abiertos de demostración o de optimización.
+- Clima: feedback de proceso (“el paso de despejar fue correcto; revisemos la interpretación”).
+- Vía de expresión: puede grabar un audio corto o entregar un informe escrito en lugar de exposición oral inmediata.
+
+### Caso C — Coordinación para medida específica (orientativo)
+
+Cuando las medidas ordinarias no bastan (p. ej., tiempo extra en pruebas oficiales, materiales adaptados significativos), el proceso típico es:
+1. Observación y registro del docente de Matemáticas.
+2. Coordinación con tutoría y orientación.
+3. Evaluación psicopedagógica (si procede).
+4. Incorporación al plan de atención a la diversidad del centro.
+5. Seguimiento compartido.
+
+El docente de la materia **no decide solo** una adaptación curricular significativa.
+
+---
+
+## 10. Plantilla rápida de diseño DUA para una sesión de Matemáticas
+
+| Principio | Pregunta de diseño | Ejemplo (proporcionalidad 3.º ESO) |
+|-----------|--------------------|------------------------------------|
+| Compromiso | ¿Cómo genero interés y persistencia? | Elección de contexto (recetas, mapas, descuentos) |
+| Representación | ¿Qué formatos ofrezco de la misma idea? | Tabla, gráfica, regla de tres, lenguaje verbal |
+| Acción y expresión | ¿Cómo puede evidenciar el criterio? | Informe breve, audio de 1 min, póster, cálculo escrito |
+| Andamiaje | ¿Qué apoyo temporal ofrezco? | Checklist de pasos que se retira progresivamente |
+
+---
+
+## 11. Checklist de observación (practicum) — diversidad e inclusión
+
+- [ ] ¿Se observan medidas ordinarias de diseño o solo “fichas de refuerzo” paralelas?
+- [ ] ¿El error se gestiona como información o solo como penalización?
+- [ ] ¿Hay vías alternativas de evidencia para el mismo criterio?
+- [ ] ¿Se coordina con orientación antes de medidas específicas?
+- [ ] ¿Las agrupaciones cooperativas tienen roles claros y responsabilidad individual?
+
+---
+
+## Material relacionado
+
+- **[DUA](../materiales/dua-diseno-universal-aprendizaje.md)** · [DUA transversal](../../../02-apuntes/didactica/dua-diseno-universal-aprendizaje.md)  
+- [Mapa de medidas de atención a la diversidad](../materiales/mapa-medidas-atencion-diversidad.md)  
+- [Evaluación competencial en Matemáticas](../materiales/evaluacion-competencial-matematicas-lomloe.md)  
+- [Neurodivergencia en el aula de Matemáticas](../../psicologia-del-desarrollo-y-de-la-educacion/materiales/neurodivergencia-aula-matematicas.md)  
+- [Inclusión y diversidad matemática (Diseño curricular)](../../diseno-curricular-e-instruccional-de-matematicas/materiales/curriculo-lomloe/inclusion-excelencia-diversidad-matematica-lomloe.md)  
+- **[Sociedad, familia… — Prejuicio y estereotipos ante la diversidad](../../sociedad-familia-y-procesos-grupales/apuntes/02-psicologia-social/07-prejuicio-y-estereotipos-ante-la-diversidad/Tema4_Prejuicio_y_estereotipos_ante_la_diversidad.md)** — perspectiva psicosocial (percepción, atribución, expectativas, contacto) que complementa el marco organizativo de este tema  
+- [Tema 5 — Metodología](05-metodologia-recursos-educacion-secundaria.md)  
+- Tomlinson (2001); Torrego y Negro (2012) — [bibliografía](../bibliografia.md)
