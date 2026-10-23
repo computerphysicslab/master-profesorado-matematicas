@@ -2,7 +2,6 @@
 
 **Asignatura:** Procesos y contextos educativos  
 **Programa:** [tema 3](../programa.md)  
-**Sesión de clase:** 19-oct-2026 (parte 2 — órganos de gobierno, coordinación y documentos de centro) + ampliación con apuntes de clase sobre discurso educativo, órganos, documentos estratégicos y acción tutorial
 
 > El aula no flota en el vacío: depende del **proyecto de centro**, de los órganos de gobierno y de la cultura profesional del claustro (Cano y Cebollero, 2023; Imbernón, 2010).
 
@@ -200,7 +199,7 @@ Los documentos se dividen entre la planificación institucional a largo plazo y 
 ```
                     ┌─────────────────────────────────────────┐
                     │     PROYECTO EDUCATIVO DE CENTRO (PEC)  │
-                    │      (Señas de identidad / ADN del centro) │
+                    │   (Señas de identidad / ADN del centro) │
                     └────────────────────┬────────────────────┘
                                          │
        ┌─────────────────────────────────┼─────────────────────────────────┐
@@ -222,13 +221,19 @@ Los documentos se dividen entre la planificación institucional a largo plazo y 
                                         ▼
                      ┌───────────────────────────────────────┐
                      │            MEMORIA ANUAL              │
-                     │  (Evaluación final y propuestas mejora)│
+                     │ (Evaluación final y propuestas mejora)│
                      └───────────────────────────────────────┘
 ```
 
 ### 6.1. Proyecto Educativo de Centro (PEC)
 
 Es la columna vertebral o “ADN” de la institución. Define la declaración de intenciones, señas de identidad, valores institucionales, análisis del entorno sociocultural y la concreción general del currículo.
+
+- **Quiénes somos**: situación del centro, descripción contextual, infraestructura, profesorado, alumnado, procedencia de las familias, composición de la comunidad educativa.
+- **Principios y valores** que guían la función docente (identidad del centro).
+- **Hacia dónde vamos**: misión, objetivos, con autonomía pero respetando la ley.
+- **Cómo nos organizamos**: estructura, ámbitos de desarrollo, reglamento, etc.
+- Análisis de la situación socioeconómica y de los recursos.
 
 Es **información pública**: debe estar visible en la web del centro.
 
@@ -277,7 +282,17 @@ El docente novel debe **leer** al menos el PEC (o su resumen), el plan de conviv
 
 El PAT establece los criterios organizativos, líneas de actuación y diseño de sesiones que desarrollarán los tutores a lo largo del curso.
 
+- la participación puede ser **formal** (votaciones, actas) o **real** (debate pedagógico, corresponsabilidad);
+- hay **tensión** habitual entre autonomía docente, acuerdos de departamento e instrucciones de dirección;
+- las familias y el alumnado no son «clientes»: son parte de la comunidad educativa (con límites legales claros sobre evaluación y privacidad).
+
 La acción tutorial es **derecho del alumnado** y función compartida del profesorado: continua, coordinada, personalizada y orientada a la autonomía.
+
+**Imbernón (2010)** insiste en la profesionalidad docente **colegiada**: mejorar la enseñanza es también aprender a trabajar con otros, no solo «cerrar la puerta del aula».
+
+Además de la participación institucional (Consejo Escolar), el día a día del docente de Matemáticas incluye **tutoría de materia**, mensajes por el canal oficial y entrevistas.
+
+**[Comunicación con familias (foco Matemáticas)](../../sociedad-familia-y-procesos-grupales/materiales/comunicacion-con-familias-matematicas.md)**
 
 ### 7.1. Tres ejes / dimensiones fundamentales
 
@@ -347,6 +362,35 @@ La **LODE** (1985) consagró la participación (consejos escolares, etc.). En la
 - **Uso de fuentes diversas:** Complementar los materiales en PDF/PowerPoint de la asignatura consultando fuentes primarias, legislación vigente, bibliografía de la guía docente y contenidos audiovisuales especializados (ej. canalizaciones docentes sobre legislación LOMLOE u oposiciones).
 - **Mesa Redonda sobre Acción Tutorial:** Actividad práctica con profesorado en activo programada como insumo directo para la reflexión del trabajo evaluable.
 - Revisar el material complementario del repositorio: [Acción tutorial y orientación en Secundaria](../materiales/accion-tutorial-orientacion-secundaria.md), [Guía de convivencia y mediación](../materiales/guia-convivencia-mediacion.md) y [DUA](../materiales/dua-diseno-universal-aprendizaje.md).
+
+---
+
+## 11. Preguntas de repaso
+
+1. Diferencia Consejo Escolar y Claustro (composición y funciones).  
+2. ¿Qué documentos mirarías en la primera semana de un practicum y por qué?  
+3. Pon un ejemplo de «participación formal» vs. «participación real» en un departamento de Matemáticas.  
+4. ¿Cómo puede el plan de convivencia influir en una sesión de resolución de problemas en grupo?  
+5. ¿Qué canal usarías para avisar de una falta de trabajo reiterada en Matemáticas y qué no incluirías en el mensaje?  
+6. Resume los requisitos para acceder a la dirección de un centro público y la duración del mandato.  
+7. ¿Qué es el PEC y qué planes suelen integrarse o vincularse a él?
+
+---
+
+## Material relacionado
+
+- [Programa](../programa.md)  
+- [**Órganos y documentos de centro** (ficha práctica)](../materiales/organos-y-documentos-de-centro.md)  
+- [**Acción tutorial y orientación en Secundaria**](../materiales/accion-tutorial-orientacion-secundaria.md)  
+- [**Comunicación con familias (Matemáticas)**](../../sociedad-familia-y-procesos-grupales/materiales/comunicacion-con-familias-matematicas.md)  
+- [**Desafíos del contexto docente y aplicación LOMLOE (2025–2026)**](../materiales/desafios-contexto-docente-lomloe-2026.md)  
+- [**Críticas y debate sobre la LOMLOE (sesión 19-oct-2026)**](../materiales/criticas-debate-lomloe-sesion-2026-10-19.md)  
+- [**Guía de observación de practicum por temas**](../materiales/guia-observacion-practicum-por-temas.md)  
+- [Tema 4 — Inclusión](04-atencion-diversidad-perspectiva-inclusiva.md)  
+- [Checklist de observación centro/aula](../materiales/checklist-observacion-centro-aula.md)  
+- [Guía de convivencia y mediación](../materiales/guia-convivencia-mediacion.md)  
+- [Burocratización del trabajo docente](../materiales/burocratizacion-trabajo-docente-analisis-historico.md)  
+- Cano y Cebollero (2023); Imbernón (2010) — [bibliografía](../bibliografia.md)
 
 ---
 
