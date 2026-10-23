@@ -6,9 +6,9 @@ Estructura alineada con el **programa oficial** de la asignatura (bloque Sociolo
 
 | Tema | Carpeta | Documento principal |
 |------|---------|---------------------|
-| **1. Sociedad y Educación** | [01-sociologia/01-sociedad-y-educacion](01-sociologia/01-sociedad-y-educacion/) | (pendiente de desarrollo; ver README del tema) |
+| **1. Sociedad y Educación** | [01-sociologia/01-sociedad-y-educacion](01-sociologia/01-sociedad-y-educacion/) | [01-sociedad-y-educacion.md](01-sociologia/01-sociedad-y-educacion/01-sociedad-y-educacion.md) |
 | **2. Familia y educación** | [01-sociologia/02-familia-y-educacion](01-sociologia/02-familia-y-educacion/) | [Tema5_Familia_escuela_acompanamiento_aprendizaje.md](01-sociologia/02-familia-y-educacion/Tema5_Familia_escuela_acompanamiento_aprendizaje.md) |
-| **3. Familia, género y cultura** | [01-sociologia/03-familia-genero-y-cultura](01-sociologia/03-familia-genero-y-cultura/) | (enlace cruzado a Tema 7; ver README del tema) |
+| **3. Familia, género y cultura** | [01-sociologia/03-familia-genero-y-cultura](01-sociologia/03-familia-genero-y-cultura/) | [03-familia-genero-y-cultura.md](01-sociologia/03-familia-genero-y-cultura/03-familia-genero-y-cultura.md) |
 
 ## Bloque 2. Psicología Social
 
