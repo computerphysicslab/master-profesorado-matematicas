@@ -15,7 +15,8 @@ Asignatura del Máster de Profesorado de Educación Secundaria (especialidad Mat
 | [Tema 4: Interacción y comunicación en el aula](apuntes/02-psicologia-social/04-interaccion-y-comunicacion-en-el-aula/Tema3_Interaccion_y_comunicacion_en_el_aula.md) | Elementos, fases, agentes; participación; cooperación; convivencia |
 | [Tema 7: Prejuicio y estereotipos ante la diversidad](apuntes/02-psicologia-social/07-prejuicio-y-estereotipos-ante-la-diversidad/Tema4_Prejuicio_y_estereotipos_ante_la_diversidad.md) | Percepción, atribución, prejuicios, estereotipos; diversidad social, cultural y de género |
 | [Tema 2: Familia, escuela y acompañamiento del aprendizaje](apuntes/01-sociologia/02-familia-y-educacion/Tema5_Familia_escuela_acompanamiento_aprendizaje.md) | Relación escuela–familia; capital cultural; expectativas; límites de rol |
-| [Tema 1: Sociedad y Educación](apuntes/01-sociologia/01-sociedad-y-educacion/) | (en desarrollo) |
+| [Tema 1: Sociedad y Educación](apuntes/01-sociologia/01-sociedad-y-educacion/01-sociedad-y-educacion.md) | Socialización, funciones sociales de la escuela, reproducción/transformación |
+| [Tema 3: Familia, género y cultura](apuntes/01-sociologia/03-familia-genero-y-cultura/03-familia-genero-y-cultura.md) | Perspectiva sociológica: género, diversidad familiar, interculturalidad |
 | [Material — Comunicación con familias](materiales/comunicacion-con-familias-matematicas.md) | Tutoría, canales, entrevistas, evaluación de mates |
 | [Glosario](glosario.md) | Términos operativos (grupo, poder, comunicación, prejuicio, familia) |
 | [Examen](examen/) | Banco de preguntas |
