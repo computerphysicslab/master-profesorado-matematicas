@@ -2,9 +2,21 @@
 
 **Asignatura:** Procesos y contextos educativos  
 **Programa:** [tema 3](../programa.md)  
-**Sesión de clase:** 19-oct-2026 (parte 2 — órganos de gobierno, coordinación y documentos de centro)
+**Sesión de clase:** 19-oct-2026 (parte 2 — órganos de gobierno, coordinación y documentos de centro) + ampliación con apuntes de clase sobre discurso educativo, órganos, documentos estratégicos y acción tutorial
 
 > El aula no flota en el vacío: depende del **proyecto de centro**, de los órganos de gobierno y de la cultura profesional del claustro (Cano y Cebollero, 2023; Imbernón, 2010).
+
+---
+
+## 0. Reflexión inicial sobre el discurso educativo
+
+La educación es abordada desde múltiples áreas disciplinarias (Psicología, Filosofía, Pedagogía, Sociología). Los psicólogos la analizan desde el desarrollo evolutivo y la inteligencia emocional (ej. investigaciones de Berrocal), mientras que pedagogos y filósofos se centran en la identidad docente, la filosofía de la educación y el contexto social.
+
+Es necesario aproximarse a la literatura especializada con actitud analítica y académica, distinguiendo entre artículos de opinión y aportes científicos o teóricos fundamentados por doctores en la materia (ej. Esteban Bara y Gil).
+
+Tras eventos o evaluaciones de impacto (resultados PISA, etc.), la educación se convierte en blanco de análisis heterogéneos por parte de agentes externos (políticos, periodistas, economistas). Los profesionales de la educación deben construir y dominar su propio **discurso técnico-pedagógico**.
+
+Finalmente, es imprescindible que los docentes formen y dominen primero su propia inteligencia y competencias emocionales para posteriormente orientar y transmitir estas habilidades al alumnado dentro del aula.
 
 ---
 
@@ -57,6 +69,8 @@ Tres grandes bloques:
 
 ## 3. Órganos unipersonales: el equipo directivo
 
+Constituyen la estructura ejecutiva y de liderazgo del centro escolar. Sus competencias varían según la titularidad del centro (pública, concertada o privada).
+
 ### 3.1. Componentes
 
 - **Director/a**
@@ -64,6 +78,8 @@ Tres grandes bloques:
 - **Secretario/a**
 
 ### 3.2. Funciones principales del Director/a
+
+Máxima autoridad en la gestión administrativa y pedagógica del centro.
 
 - **Representación institucional** ante la Administración y la comunidad.
 - Dirigir la elaboración y garantizar la ejecución del **Proyecto Educativo de Centro (PEC)** y de la **Programación General Anual (PGA)**.
@@ -77,7 +93,18 @@ Tres grandes bloques:
 - Impulsar la evaluación interna y colaborar con las evaluaciones externas y la evaluación del profesorado.
 - Diseñar la planificación y la organización docente del centro.
 
-### 3.3. Acceso a la dirección (centros públicos)
+### 3.3. Jefe/a de Estudios
+
+Encargado/a de coordinar las actividades de carácter académico, el régimen disciplinario y la organización pedagógica.
+
+- Coordina las reuniones periódicas (ej. coordinaciones semanales por etapas) para tratar casos especiales de alumnado, aspectos organizativos o logística general (excursiones, eventos).
+- Supervisa los planes de acogida para nuevos docentes y la observación docente en el aula para ofrecer retroalimentación (*feedback*).
+
+### 3.4. Secretario/a
+
+Responsable de la gestión económica, administrativa, documental y de los recursos materiales del centro.
+
+### 3.5. Acceso a la dirección (centros públicos)
 
 Requisitos generales (LOE arts. 133-139, modificada por LOMLOE; desarrollo reglamentario):
 
@@ -100,7 +127,7 @@ Las candidaturas del profesorado del propio centro tienen preferencia. En ausenc
 
 ### 4.1. Consejo Escolar
 
-Órgano de **participación de toda la comunidad educativa**.
+Órgano colegiado de representación de toda la comunidad educativa (similar al órgano legislativo o parlamento del centro).
 
 **Composición** (centros públicos, art. 126 LOE/LOMLOE):
 
@@ -116,10 +143,11 @@ Una vez constituido, el Consejo designa a una persona que impulse medidas de igu
 
 **Competencias / funciones principales:**
 
-- Aprobar y evaluar el **PEC** y la **PGA**.
+- Aprobación y evaluación de proyectos institucionales (PEC, PGA).
+- Toma de decisiones estratégicas a nivel directivo y supervisión de la gestión general del centro.
 - Conocer las candidaturas a la dirección y participar en el proceso de selección.
 - Decidir sobre la **admisión** del alumnado.
-- Promover los derechos de la infancia, la convivencia escolar, la resolución pacífica de conflictos y estilos de vida saludables (alineado con los fines de la ley de educación).
+- Promover los derechos de la infancia, la convivencia escolar, la resolución pacífica de conflictos y estilos de vida saludables.
 - Analizar y valorar el funcionamiento general del centro y el rendimiento escolar (evaluaciones internas y externas).
 - Promover la conservación y renovación de las instalaciones y del material.
 - Conocer las conductas contrarias a la convivencia y las medidas adoptadas.
@@ -128,10 +156,12 @@ Una vez constituido, el Consejo designa a una persona que impulse medidas de igu
 
 ### 4.2. Claustro de Profesores
 
-Órgano propio de **participación del profesorado** en el gobierno del centro. Integrado por la **totalidad** del profesorado que presta servicios en el centro.
+Órgano propio de participación de los docentes en el gobierno del centro (órgano técnico-pedagógico). Integrado por la **totalidad** del profesorado que presta servicios en el centro.
 
 **Funciones principales:**
 
+- Decisiones pedagógicas, planificación del currículo, criterios de evaluación y promoción de los estudiantes.
+- Informe de las normas de convivencia.
 - Planificación curricular y formulación de propuestas al equipo directivo y al Consejo Escolar sobre el PEC y la PGA.
 - Aprobar y evaluar la **concreción curricular** (competencias específicas de las áreas).
 - Determinar los criterios de orientación, tutoría, evaluación y recuperación del alumnado.
@@ -152,8 +182,8 @@ Responsables de la organización e implementación de las enseñanzas y de orden
 
 | Órgano | Función nuclear |
 |--------|-----------------|
-| **Departamentos didácticos** | Coordinar la programación y el desarrollo de las materias de cada área. Reuniones semanales de asistencia obligatoria: evaluar el desarrollo de la programación y establecer medidas correctoras. |
-| **Departamento de Orientación** | Coordinar la orientación académica, profesional y personal; apoyar la acción tutorial y la atención a la diversidad. |
+| **Departamentos didácticos / Equipos de ciclo** | Coordinar la programación y el desarrollo de las materias de cada área. En centros grandes se dividen por áreas específicas (Tecnología, Matemáticas, Ciencias…). En centros pequeños, las áreas afines se agrupan. Canalizan las directrices institucionales de Dirección hacia la práctica de aula, articulando la concreción curricular y la elaboración de documentos burocrático-pedagógicos. Reuniones semanales de asistencia obligatoria. |
+| **Departamento de Orientación** | Apoya la atención a la diversidad, el diseño del Plan de Acción Tutorial (PAT) y el seguimiento psicoeducativo. Coordina la orientación académica, profesional y personal. |
 | **Comisión de Coordinación Pedagógica (CCP)** | Coordinar la elaboración de los proyectos curriculares de etapa; asegurar la coherencia entre departamentos y con el PEC; establecer directrices generales para las programaciones didácticas. |
 | **Juntas de evaluación / de profesores de grupo** | Evaluar el progreso del alumnado y tratar casos específicos. |
 | **Tutorías** | Acción tutorial individual y de grupo (vinculada al Plan de Orientación y Acción Tutorial). |
@@ -163,40 +193,71 @@ El futuro docente de Matemáticas se insertará en un **departamento didáctico*
 
 ---
 
-## 6. El Proyecto Educativo de Centro (PEC)
+## 6. Documentos estratégicos del centro educativo
 
-> «El ADN del centro» / «la columna vertebral del centro» (mientras que a nivel de país lo son la Constitución y la ley de educación).
+Los documentos se dividen entre la planificación institucional a largo plazo y la gestión organizativa del día a día.
 
-### 6.1. Qué es y qué contiene
+```
+                    ┌─────────────────────────────────────────┐
+                    │     PROYECTO EDUCATIVO DE CENTRO (PEC)  │
+                    │      (Señas de identidad / ADN del centro) │
+                    └────────────────────┬────────────────────┘
+                                         │
+       ┌─────────────────────────────────┼─────────────────────────────────┐
+       ▼                                 ▼                                 ▼
+┌──────────────┐                 ┌──────────────┐                 ┌──────────────────┐
+│ Plan de      │                 │ Plan de      │                 │ Plan de Atención │
+│ Convivencia  │                 │ Orientación  │                 │ a la Diversidad  │
+│ e Igualdad   │                 │ y Acción     │                 │ (PAD)            │
+└──────────────┘                 │ Tutorial     │                 └──────────────────┘
+                                 │ (PAT)        │
+                                 └──────────────┘
+                                         │
+                                         ▼
+                     ┌───────────────────────────────────────┐
+                     │  PROGRAMACIÓN GENERAL ANUAL (PGA)     │
+                     │  (Planificación operativa del curso)  │
+                     └──────────────────┬────────────────────┘
+                                        │
+                                        ▼
+                     ┌───────────────────────────────────────┐
+                     │            MEMORIA ANUAL              │
+                     │  (Evaluación final y propuestas mejora)│
+                     └───────────────────────────────────────┘
+```
 
-Documento que define:
+### 6.1. Proyecto Educativo de Centro (PEC)
 
-- **Quiénes somos**: situación del centro, descripción contextual, infraestructura, profesorado, alumnado, procedencia de las familias, composición de la comunidad educativa.
-- **Principios y valores** que guían la función docente (identidad del centro).
-- **Hacia dónde vamos**: misión, objetivos, con autonomía pero respetando la ley.
-- **Cómo nos organizamos**: estructura, ámbitos de desarrollo, reglamento, etc.
-- Análisis de la situación socioeconómica y de los recursos.
+Es la columna vertebral o “ADN” de la institución. Define la declaración de intenciones, señas de identidad, valores institucionales, análisis del entorno sociocultural y la concreción general del currículo.
 
 Es **información pública**: debe estar visible en la web del centro.
 
-**Documentos y planes que habitualmente se integran o se vinculan al PEC:**
+**Documentos derivados o integrados en el PEC:**
 
-- Proyecto digital  
-- Plan de atención a la diversidad  
-- **Plan de orientación y acción tutorial** (POAT) — fundamental para el trabajo de la asignatura y del practicum  
-- Plan de convivencia  
-- Plan de igualdad  
-- Plan de mejora  
-- Proyectos curriculares de etapa / área  
-
-> **Acción tutorial y orientación.** El POAT concreta los criterios y las líneas de actuación de las tutorías (ejes: aprender a ser y convivir, aprender a aprender, aprender a decidir). La acción tutorial es derecho del alumnado y función compartida del profesorado: continua, coordinada, personalizada y orientada a la autonomía. Desarrollo completo (definición, recorrido legislativo, tiempos, funciones del tutor, técnicas e instrumentos, obstáculos percibidos e implicaciones para Matemáticas): [**Acción tutorial y orientación en Secundaria**](../materiales/accion-tutorial-orientacion-secundaria.md).
+- **Plan de Convivencia y Plan de Igualdad**: Normas, prevención del acoso escolar y protocolos de actuación frente a conflictos.
+- **Reglamento de Régimen Interno (RRI) / NOF**: Establece los derechos y deberes de todos los estamentos de la comunidad educativa.
+- **Plan Digital de Centro**: Hoja de ruta para el uso pedagógico de las TIC, diagnóstico digital, metas de transformación e integración de la competencia digital docente.
+- **Plan de Atención a la Diversidad (PAD)**: Estrategias de inclusión educativa sustentadas en marcos como el Diseño Universal para el Aprendizaje (DUA).
+- **Plan de Orientación y Acción Tutorial (PAT / POAT)**: Marco general para la labor tutorial del centro.
 
 ### 6.2. Características deseables del PEC
 
 Objetivo, realista, participativo, integrador, coherente, flexible, claro y preciso.  
 **No es un documento muerto**: se renueva a partir de las evaluaciones internas y externas y de los análisis de la comunidad educativa.
 
-### 6.3. Otros documentos de centro (mapa mental)
+### 6.3. Documentos de gestión anual
+
+1. **Programación General Anual (PGA)**  
+   Recoge el conjunto de objetivos, decisiones, actividades y proyectos programados para un curso académico concreto.  
+   **Proceso de elaboración**: se redacta de forma participativa entre el profesorado y el equipo directivo → se aprueba en Claustro → se evalúa/aprueba en Consejo Escolar → se envía a la Inspección Educativa.
+
+2. **Memoria Anual**  
+   Documento final de evaluación donde se analiza el grado de cumplimiento de los objetivos planteados en la PGA y se identifican propuestas de mejora para el curso posterior.
+
+3. **Presupuesto Económico**  
+   Gestión y ejecución de los recursos económicos asignados o propios del centro.
+
+### 6.4. Mapa mental de documentos
 
 | Documento | Idea |
 |-----------|------|
@@ -212,7 +273,66 @@ El docente novel debe **leer** al menos el PEC (o su resumen), el plan de conviv
 
 ---
 
-## 7. Participación y negociación
+## 7. El Plan de Orientación y Acción Tutorial (PAT / POAT)
+
+El PAT establece los criterios organizativos, líneas de actuación y diseño de sesiones que desarrollarán los tutores a lo largo del curso.
+
+La acción tutorial es **derecho del alumnado** y función compartida del profesorado: continua, coordinada, personalizada y orientada a la autonomía.
+
+### 7.1. Tres ejes / dimensiones fundamentales
+
+1. **Aprender a ser persona y a convivir** (Desarrollo personal y social)  
+   Fomento de la cohesión grupal, gestión del clima de aula, habilidades sociales, educación emocional, resolución de conflictos y educación en valores democráticos.
+
+2. **Aprender a aprender** (Desarrollo académico)  
+   Técnicas de estudio y trabajo intelectual, gestión del tiempo, organización de tareas, estrategias de aprendizaje autónomo y seguimiento individualizado del rendimiento.
+
+3. **Aprender a decidir** (Orientación académica y vocacional)  
+   Proceso de toma de decisiones educativas e itinerarios formativos (especialmente relevante en 3.º/4.º de ESO, Bachillerato y Formación Profesional). Información sobre la oferta del mercado laboral y continuidad de estudios (Grados Formativos, Universidad).
+
+Desarrollo completo (definición, recorrido legislativo, tiempos, funciones del tutor, técnicas e instrumentos, obstáculos percibidos e implicaciones para Matemáticas): [**Acción tutorial y orientación en Secundaria**](../materiales/accion-tutorial-orientacion-secundaria.md).
+
+---
+
+## 8. Directrices para el trabajo grupal de Acción Tutorial
+
+El trabajo grupal exige la elaboración de una propuesta fundamentada en la normativa y la teoría pedagógica, contextualizada en un grupo-aula específico (recomendado 1.º-2.º de ESO o FP Básica).
+
+### 8.1. Estructura y contenidos del trabajo
+
+1. **Introducción y Justificación**  
+   Contextualización teórica, legislativa y de buenas prácticas. Formulación de objetivos generales.
+
+2. **Análisis Crítico del PAT**  
+   Revisión documental del PAT de un centro educativo real o de referencia, proponiendo líneas concretas de mejora.
+
+3. **Planificación Trimestral de la Tutoría**  
+   Diseño del calendario/temporalización de un trimestre combinando de forma equilibrada los 3 ejes (*Aprender a ser/convivir*, *Aprender a aprender*, *Aprender a decidir*).
+
+4. **Desarrollo en Profundidad de 3 Sesiones**  
+   Elementos mínimos por sesión:
+   - Objetivos específicos.
+   - Competencias clave y descriptores operativos.
+   - Metodología utilizada (ej. metodologías activas).
+   - Secuenciación de actividades (tiempos, agrupamientos, espacios).
+   - Medidas de atención a la diversidad (DUA).
+   - Materiales y recursos.
+   - Sistema de evaluación de la sesión (evaluación del aprendizaje y de la propia práctica).
+
+5. **Conclusiones y Reflexión Final**  
+   Análisis crítico elaborado tras la ejecución de la puesta en escena.
+
+6. **Referencias (APA), Declaración de uso de IA y Anexos.**
+
+### 8.2. Puesta en escena y presentación
+
+- **Formato:** Presentación grupal en aula (20 minutos totales por grupo).
+  - *Parte 1:* Exposición oral del marco contextual, objetivos e integración del proyecto (teórico/metodológico).
+  - *Parte 2:* Puesta en escena/dramatización (*role-playing*) en la que el grupo representa el desarrollo práctico de una de las sesiones de tutoría propuestas.
+
+---
+
+## 9. Participación y negociación
 
 La **LODE** (1985) consagró la participación (consejos escolares, etc.). En la práctica:
 
@@ -220,90 +340,15 @@ La **LODE** (1985) consagró la participación (consejos escolares, etc.). En la
 - hay **tensión** habitual entre autonomía docente, acuerdos de departamento e instrucciones de dirección;
 - las familias y el alumnado no son «clientes»: son parte de la comunidad educativa (con límites legales claros sobre evaluación y privacidad).
 
-**Imbernón (2010)** insiste en la profesionalidad docente **colegiada**: mejorar la enseñanza es también aprender a trabajar con otros, no solo «cerrar la puerta del aula».
+---
 
-### 7.1. Comunicación cotidiana con familias
+## 10. Sugerencias de estudio e indicaciones
 
-Además de la participación institucional (Consejo Escolar), el día a día del docente de Matemáticas incluye **tutoría de materia**, mensajes por el canal oficial y entrevistas. Criterios prácticos:
-
-**[Comunicación con familias (foco Matemáticas)](../../sociedad-familia-y-procesos-grupales/materiales/comunicacion-con-familias-matematicas.md)**
-
-### 7.2. Debates autonómicos que llegan al centro
-
-Algunas controversias autonómicas (oferta de Religión como opción voluntaria, información previa a familias sobre actividades con personal externo) afectan a la organización de actividades complementarias y a la relación con las familias. Marco y estado actual: [Desafíos del contexto docente y aplicación LOMLOE (2025–2026)](../materiales/desafios-contexto-docente-lomloe-2026.md) (sección 4).
+- **Uso de fuentes diversas:** Complementar los materiales en PDF/PowerPoint de la asignatura consultando fuentes primarias, legislación vigente, bibliografía de la guía docente y contenidos audiovisuales especializados (ej. canalizaciones docentes sobre legislación LOMLOE u oposiciones).
+- **Mesa Redonda sobre Acción Tutorial:** Actividad práctica con profesorado en activo programada como insumo directo para la reflexión del trabajo evaluable.
+- Revisar el material complementario del repositorio: [Acción tutorial y orientación en Secundaria](../materiales/accion-tutorial-orientacion-secundaria.md), [Guía de convivencia y mediación](../materiales/guia-convivencia-mediacion.md) y [DUA](../materiales/dua-diseno-universal-aprendizaje.md).
 
 ---
 
-## 8. Gestión cotidiana que afecta a Matemáticas
+*Ampliado con la sesión de clase del 19-oct-2026 (órganos de gobierno, coordinación docente y PEC) + apuntes de clase sobre discurso educativo, documentos estratégicos, ejes del PAT y directrices del trabajo grupal. Verificación normativa (LOE/LOMLOE arts. 126, 133-139; RD formación directiva).*
 
-| Decisión de centro | Efecto en el aula |
-|-------------------|-------------------|
-| Ratio y desdobles | Tiempo de atención individual; viabilidad de cooperativo |
-| Horario (mañana completa vs. partidos) | Fatiga; bloques para proyectos |
-| Criterios de calificación comunes | Coherencia entre grupos del mismo curso |
-| Uso de aulas de informática / laboratorios | Acceso real a GeoGebra, datos, simulación |
-| Plan de convivencia | Tiempo lectivo perdido o ganado en conflictos |
-| Reuniones de departamento / CCP | Criterios de evaluación, recuperación, materiales compartidos |
-
----
-
-## Caso Aragón — centro, documentos y practicum
-
-En un IES o centro concertado de Aragón, el marco estatal (LOMLOE, LODE en lo que sigue vigente sobre participación) se concreta con **normativa autonómica** de organización de centros, convivencia e instrucciones de inicio de curso. El margen real del departamento de Matemáticas está en:
-
-1. **Documentos de centro** (PEC, PGA, plan de convivencia, plan de atención a la diversidad, NOF).  
-2. **Programación didáctica** alineada con el decreto de currículo de Aragón.  
-3. **Acuerdos de departamento** (criterios de calificación, recuperación, materiales).
-
-**Primera semana de practicum (checklist mínimo):**
-
-| Mirar | Para qué |
-|-------|----------|
-| PEC / plan de convivencia | Clima, normas, mediación |
-| Programación del departamento de Matemáticas | Qué se evalúa y cómo en *este* centro |
-| Horarios y desdobles | Qué metodología es realista |
-| Canal oficial con familias | Cómo se informa y se cita (ver material de comunicación) |
-| [Órganos y documentos de centro](../materiales/organos-y-documentos-de-centro.md) | Mapa mental antes de las reuniones |
-| [**Guía de observación por temas**](../materiales/guia-observacion-practicum-por-temas.md) | Qué mirar según el bloque del programa |
-| [Checklist de observación](../materiales/checklist-observacion-centro-aula.md) | Registro diario centro/aula |
-
-La programación anual y de unidad se detalla en Diseño curricular: [programación didáctica](../../diseno-curricular-e-instruccional-de-matematicas/apuntes/04-programacion-didactica.md) y [plantillas](../../diseno-curricular-e-instruccional-de-matematicas/materiales/plantillas/).
-
----
-
-## 9. Glosario
-
-**Equipo directivo** · **Consejo Escolar** · **Claustro** · **Departamento didáctico** · **CCP** · **PEC / PE** · **PGA** · **NOF / RRI** · **Plan de convivencia** · **POAT** · **Autonomía de centro** · **Proyecto de dirección** · **Comunicación familia–escuela**
-
----
-
-## 10. Preguntas de repaso
-
-1. Diferencia Consejo Escolar y Claustro (composición y funciones).  
-2. ¿Qué documentos mirarías en la primera semana de un practicum y por qué?  
-3. Pon un ejemplo de «participación formal» vs. «participación real» en un departamento de Matemáticas.  
-4. ¿Cómo puede el plan de convivencia influir en una sesión de resolución de problemas en grupo?  
-5. ¿Qué canal usarías para avisar de una falta de trabajo reiterada en Matemáticas y qué no incluirías en el mensaje?  
-6. Resume los requisitos para acceder a la dirección de un centro público y la duración del mandato.  
-7. ¿Qué es el PEC y qué planes suelen integrarse o vincularse a él?
-
----
-
-## Material relacionado
-
-- [Programa](../programa.md)  
-- [**Órganos y documentos de centro** (ficha práctica)](../materiales/organos-y-documentos-de-centro.md)  
-- [**Acción tutorial y orientación en Secundaria**](../materiales/accion-tutorial-orientacion-secundaria.md)  
-- [**Comunicación con familias (Matemáticas)**](../../sociedad-familia-y-procesos-grupales/materiales/comunicacion-con-familias-matematicas.md)  
-- [**Desafíos del contexto docente y aplicación LOMLOE (2025–2026)**](../materiales/desafios-contexto-docente-lomloe-2026.md)  
-- [**Críticas y debate sobre la LOMLOE (sesión 19-oct-2026)**](../materiales/criticas-debate-lomloe-sesion-2026-10-19.md)  
-- [**Guía de observación de practicum por temas**](../materiales/guia-observacion-practicum-por-temas.md)  
-- [Tema 4 — Inclusión](04-atencion-diversidad-perspectiva-inclusiva.md)  
-- [Checklist de observación centro/aula](../materiales/checklist-observacion-centro-aula.md)  
-- [Guía de convivencia y mediación](../materiales/guia-convivencia-mediacion.md)  
-- [Burocratización del trabajo docente](../materiales/burocratizacion-trabajo-docente-analisis-historico.md)  
-- Cano y Cebollero (2023); Imbernón (2010) — [bibliografía](../bibliografia.md)
-
----
-
-*Ampliado con la sesión de clase del 19-oct-2026 (órganos de gobierno, coordinación docente y PEC) y verificación normativa (LOE/LOMLOE arts. 126, 133-139; RD formación directiva).*
