@@ -21,7 +21,7 @@ B. Psicología de la educación (enseñanza-aprendizaje)
 | **2** | Diferencias individuales y problemas frecuentes en la adolescencia | [02](apuntes/02-diferencias-individuales-problemas-adolescencia.md) |
 | **3** | Teorías conductuales y modificación de conducta en el aula | [03](apuntes/03-teorias-conductuales-modificacion-conducta.md) |
 | **4** | Procesamiento de la información y teorías cognoscitivas | [04](apuntes/04-procesamiento-informacion-teorias-cognitivas.md) |
-| **5** | Motivación en el proceso de enseñanza-aprendizaje | [05](apuntes/05-motivacion-ensenanza-aprendizaje.md) |
+| **6** | Motivación en el proceso de enseñanza-aprendizaje | [06](apuntes/06-motivacion-ensenanza-aprendizaje.md) |
 
 ## Hilo para el futuro profesor de Matemáticas
 
