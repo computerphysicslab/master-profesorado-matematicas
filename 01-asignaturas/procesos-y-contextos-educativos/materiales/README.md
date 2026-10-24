@@ -25,6 +25,7 @@ Recursos prácticos y transversales (citables desde otras asignaturas y el pract
 | [**Evaluación competencial en Matemáticas (LOMLOE)**](evaluacion-competencial-matematicas-lomloe.md) | 6 |
 | [Banco de instrumentos de evaluación](instrumentos-evaluacion.md) | 6 |
 | [Plantilla de alineación criterio → evidencia](plantilla-alineacion-criterio-evidencia.md) | 5–6 |
+| [**Acción tutorial — segunda parte](accion-tutorial-orientacion-secundaria-2.md) | 3 · ejes, mirada sociológica, debates, Matriz de Eisenhower |
 
 ## Tema 1 — Historia, paradigmas y sistema
 

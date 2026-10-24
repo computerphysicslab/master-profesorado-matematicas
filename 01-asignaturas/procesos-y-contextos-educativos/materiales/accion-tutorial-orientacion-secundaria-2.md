@@ -3,6 +3,8 @@
 **Asignatura:** Contextos de la Educación / Orientación Educativa  
 **Fecha de la sesión:** 23 de octubre de 2026  
 **Tema principal:** La Acción Tutorial: Concepto, Ejes, Contextualización y Retos Docentes  
+**Material base (marco teórico y legislativo):** [Acción tutorial y orientación en Secundaria](accion-tutorial-orientacion-secundaria.md)  
+**Relacionado:** [Comunicación con familias (Matemáticas)](../../sociedad-familia-y-procesos-grupales/materiales/comunicacion-con-familias-matematicas.md) · [Guía de convivencia y mediación](guia-convivencia-mediacion.md) · [Tema 3 — Centros](../apuntes/03-centros-organizacion-participacion-gestion.md)
 
 ---
 
@@ -207,6 +209,13 @@ Actividades que no aportan valor ni contribuyen al bienestar o avance hacia meta
    * Delegar o automatizar el **Q3**.
    * Eliminar las actividades del **Q4**.
 
-```
+---
 
-eof
+## Material relacionado
+
+- [Acción tutorial y orientación en Secundaria](accion-tutorial-orientacion-secundaria.md) (marco completo)
+- [Tema 3 — Centros: organización, participación y gestión](../apuntes/03-centros-organizacion-participacion-gestion.md)
+- [Comunicación con familias (Matemáticas)](../../sociedad-familia-y-procesos-grupales/materiales/comunicacion-con-familias-matematicas.md)
+- [Guía de convivencia y mediación](guia-convivencia-mediacion.md)
+- [Gestión de aula y disrupción (Matemáticas)](gestion-aula-disrupcion-matematicas.md)
+

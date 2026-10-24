@@ -292,6 +292,9 @@ La acción tutorial es **derecho del alumnado** y función compartida del profes
 
 Además de la participación institucional (Consejo Escolar), el día a día del docente de Matemáticas incluye **tutoría de materia**, mensajes por el canal oficial y entrevistas.
 
+[**Acción tutorial y orientación en Secundaria**](../materiales/accion-tutorial-orientacion-secundaria.md).  
+**Concepto, tres ejes, mirada sociológica, debates y Matriz de Eisenhower**): [apuntes de sesión](../materiales/accion-tutorial-orientacion-secundaria-2.md).
+
 **[Comunicación con familias (foco Matemáticas)](../../sociedad-familia-y-procesos-grupales/materiales/comunicacion-con-familias-matematicas.md)**
 
 ### 7.1. Tres ejes / dimensiones fundamentales
@@ -382,6 +385,7 @@ La **LODE** (1985) consagró la participación (consejos escolares, etc.). En la
 - [Programa](../programa.md)  
 - [**Órganos y documentos de centro** (ficha práctica)](../materiales/organos-y-documentos-de-centro.md)  
 - [**Acción tutorial y orientación en Secundaria**](../materiales/accion-tutorial-orientacion-secundaria.md)  
+- [**Acción tutorial — segunda parte**](../materiales/accion-tutorial-orientacion-secundaria-2.md)
 - [**Comunicación con familias (Matemáticas)**](../../sociedad-familia-y-procesos-grupales/materiales/comunicacion-con-familias-matematicas.md)  
 - [**Desafíos del contexto docente y aplicación LOMLOE (2025–2026)**](../materiales/desafios-contexto-docente-lomloe-2026.md)  
 - [**Críticas y debate sobre la LOMLOE (sesión 19-oct-2026)**](../materiales/criticas-debate-lomloe-sesion-2026-10-19.md)  
