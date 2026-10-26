@@ -21,6 +21,41 @@
 | **6** | [Ansiedad matemática](../materiales/ansiedad-matematica-aula.md) | Evitación y memoria de trabajo |
 | **7** | [Tema 4](04-procesamiento-informacion-teorias-cognitivas.md) | Tarea mal dimensionada → “desmotivación” aparente |
 | **8** | Optativa Educación emocional | Clima y regulación (sin duplicar aquí su temario) |
+| **0** | [Introducción a la Psicología de la Educación](../materiales/introduccion-psicologia-educacion-justificacion-casos.md) | Fuentes, bloques de contenido, justificación de la disciplina |
+
+---
+
+## 0. Psicología de la Educación: fuentes y bloques de contenido
+
+Antes de centrarnos en la motivación, conviene situar este tema dentro del marco más amplio de la **Psicología de la Educación**. Esta disciplina no es un catálogo de “trucos motivacionales”, sino el estudio científico de los procesos de aprendizaje y enseñanza, de las variables del alumnado y del diseño de condiciones que facilitan el desarrollo y el logro.
+
+### 0.1. Las cuatro fuentes de la Psicología de la Educación
+
+La Psicología de la Educación se nutre de (y dialoga con) cuatro grandes áreas de la psicología:
+
+| Fuente | Aporta al docente de Matemáticas | Enlaces en el repositorio |
+|--------|----------------------------------|---------------------------|
+| **Psicología del aprendizaje** | Cómo se adquieren, retienen, recuperan y transfieren conocimientos y hábitos; papel de la práctica, la memoria y el feedback | [Tema 3 · Conductuales](03-teorias-conductuales-modificacion-conducta.md) · [Tema 4 · Cognición](04-procesamiento-informacion-teorias-cognitivas.md) · [Carga cognitiva](../materiales/carga-cognitiva-matematicas.md) · [Memoria, práctica y transferencia](../materiales/memoria-practica-transferencia-matematicas.md) · [Técnicas de estudio basadas en evidencia](../materiales/tecnicas-estudio-basadas-en-evidencia.md) |
+| **Psicología del desarrollo** | Capacidades, necesidades y ritmos de la adolescencia; cambios cognitivos, emocionales y sociales | [Tema 1 · Adolescencia](01-desarrollo-adolescencia.md) · [Tema 2 · Diferencias](02-diferencias-individuales-problemas-adolescencia.md) · [Desarrollo moral (Kohlberg)](../materiales/desarrollo-moral-kohlberg-aula.md) |
+| **Psicología de la personalidad** | Diferencias individuales, autoconcepto, autoestima, autoeficacia, estilos y rasgos que modulan el aprendizaje | [Autoeficacia matemática](../materiales/autoeficacia-matematica.md) · [Mindset y atribuciones](../materiales/mindset-atribuciones-matematicas.md) · [Ansiedad matemática](../materiales/ansiedad-matematica-aula.md) · [Neurodivergencia](../materiales/neurodivergencia-aula-matematicas.md) · [Discalculia y DEA](../materiales/discalculia-y-dea-matematicas.md) |
+| **Psicología social** | Grupo, normas, status, influencia de los iguales, clima de aula y procesos de influencia social | [Tema 1 · Pares y autonomía](01-desarrollo-adolescencia.md) · [Haidt / RRSS y atención](../materiales/haidt-redes-atencion-adolescencia.md) · [Registro ABC](../materiales/registro-abc-conducta.md) (contexto social de la conducta) |
+
+**Lectura docente:** la motivación (este tema) es el punto de encuentro de las cuatro fuentes. Un alumno “desmotivado” puede estarlo por una tarea mal dimensionada (aprendizaje/cognición), por una fase evolutiva de alta sensibilidad al ridículo (desarrollo), por una autoeficacia baja o atribuciones fijas (personalidad), o por presión del grupo y clima de evitación (social). Diagnosticar con una sola lente suele empujar a intervenciones incompletas.
+
+### 0.2. Los cuatro bloques de contenido de la Psicología de la Educación
+
+Los contenidos nucleares de la disciplina se organizan, de forma sintética, en cuatro bloques que el docente de Matemáticas recorre continuamente:
+
+| Bloque | Pregunta central | Traducción al aula de Matemáticas | Materiales relacionados |
+|--------|------------------|-----------------------------------|-------------------------|
+| **1. Naturaleza del aprendizaje** | ¿En qué consiste aprender y cómo se produce? | Adquisición, retención, recuperación y transferencia de procedimientos, conceptos y estrategias | [Tema 3](03-teorias-conductuales-modificacion-conducta.md) · [Tema 4](04-procesamiento-informacion-teorias-cognitivas.md) · [Memoria y práctica](../materiales/memoria-practica-transferencia-matematicas.md) · [Técnicas de estudio](../materiales/tecnicas-estudio-basadas-en-evidencia.md) |
+| **2. Variables del alumnado** | ¿Qué características del estudiante influyen en el aprendizaje? | Conocimientos previos, capacidad, etapa evolutiva, motivación, autoconcepto/autoeficacia, ansiedad, diferencias individuales | [Tema 1](01-desarrollo-adolescencia.md) · [Tema 2](02-diferencias-individuales-problemas-adolescencia.md) · [Autoeficacia](../materiales/autoeficacia-matematica.md) · [Mindset](../materiales/mindset-atribuciones-matematicas.md) · [Ansiedad matemática](../materiales/ansiedad-matematica-aula.md) · [Neurodivergencia](../materiales/neurodivergencia-aula-matematicas.md) · [Discalculia](../materiales/discalculia-y-dea-matematicas.md) |
+| **3. Resultados de aprendizaje** | ¿Qué se pretende que el alumnado sepa, sepa hacer y valore? | Objetivos, competencias, criterios de evaluación; distinguir rendimiento inmediato de aprendizaje duradero y transferencia | [Tema 4](04-procesamiento-informacion-teorias-cognitivas.md) · [Diseño de tareas multinivel](../materiales/diseno-tareas-multinivel-matematicas.md) · [Evidencia en psicología educativa](../materiales/evidencia-psicologia-educativa.md) |
+| **4. Planificación de la enseñanza y diseño de tareas** | ¿Cómo se diseña la instrucción para maximizar el aprendizaje? | Secuenciación, andamiaje, carga cognitiva, feedback, evaluación formativa, clima y estructura motivacional del aula | [ZDP y andamiaje](../materiales/zdp-andamiaje-matematicas.md) · [Carga cognitiva](../materiales/carga-cognitiva-matematicas.md) · [Funciones ejecutivas](../materiales/funciones-ejecutivas-matematicas.md) · [Feedback efectivo](../materiales/feedback-efectivo-matematicas.md) · [Gestión del error](../materiales/gestion-del-error-matematicas.md) · [Diseño multinivel](../materiales/diseno-tareas-multinivel-matematicas.md) |
+
+**Puente con este tema:** la motivación no es un “añadido” al final de la planificación. Forma parte del **bloque 2** (variables del alumnado) y del **bloque 4** (diseño de condiciones que sostienen el esfuerzo). Un diseño de tareas que ignore la autoeficacia, las metas o el coste social produce “desmotivación” aparente aunque el contenido sea correcto.
+
+→ Marco completo y justificación histórica: **[Introducción a la Psicología de la Educación](../materiales/introduccion-psicologia-educacion-justificacion-casos.md)**
 
 ---
 
@@ -304,6 +339,8 @@ El docente modela también **cómo se habla del error y del esfuerzo** (Bandura,
 4. Reescribe cinco frases de elogio “fijo” en versión “crecimiento / estrategia”.  
 5. Propón tres preguntas de autoevaluación tras un problema multi-paso (ciclo de autorregulación).  
 6. Diseña el primer tramo de una unidad con un **éxito de dominio** temprano y retirada de andamiaje.
+7. Sitúa un caso de “alumno desmotivado” en las cuatro fuentes de la Psicología de la Educación (aprendizaje, desarrollo, personalidad, social) y propone una intervención para cada una.
+8. Relaciona cada uno de los cuatro bloques de contenido de la Psicología de la Educación con una decisión concreta de diseño de una unidad de Matemáticas.
 
 ---
 
@@ -321,6 +358,8 @@ El docente modela también **cómo se habla del error y del esfuerzo** (Bandura,
 | Mindset (Dweck) | Capacidad fija vs. desarrollable |
 | Feedback de proceso | Centrado en la estrategia, no en la persona |
 | Autorregulación | Planificar, supervisar, evaluar el propio aprendizaje |
+| Fuentes de la Psicología de la Educación | Aprendizaje, desarrollo, personalidad, social |
+| Bloques de contenido | Naturaleza del aprendizaje; variables del alumnado; resultados; planificación y diseño |
 
 ---
 
@@ -334,19 +373,38 @@ El docente modela también **cómo se habla del error y del esfuerzo** (Bandura,
 | Tema 4 | Tarea bien dimensionada = base de la competencia percibida |
 | Educación emocional | Clima, regulación emocional (optativa) |
 | SFYPG | Expectativas familiares sobre mates y esfuerzo |
+| [Introducción Psicología Educación](../materiales/introduccion-psicologia-educacion-justificacion-casos.md) | Fuentes, bloques, justificación de la disciplina |
 
 ---
 
 ## Material relacionado
 
+### Motivación, identidad y feedback (núcleo del tema)
 - [Autoeficacia matemática](../materiales/autoeficacia-matematica.md)  
 - [Mindset y atribuciones](../materiales/mindset-atribuciones-matematicas.md)  
 - [Feedback efectivo](../materiales/feedback-efectivo-matematicas.md)  
 - [Gestión del error](../materiales/gestion-del-error-matematicas.md)  
 - [Ansiedad matemática](../materiales/ansiedad-matematica-aula.md)  
-- [Evidencia en psicología educativa](../materiales/evidencia-psicologia-educativa.md)  
+
+### Cognición y diseño (base de la competencia percibida)
+- [Carga cognitiva en Matemáticas](../materiales/carga-cognitiva-matematicas.md)  
+- [ZDP y andamiaje](../materiales/zdp-andamiaje-matematicas.md)  
+- [Funciones ejecutivas](../materiales/funciones-ejecutivas-matematicas.md)  
 - [Memoria, práctica y transferencia](../materiales/memoria-practica-transferencia-matematicas.md)  
-- [Tema 4 — Cognición](04-procesamiento-informacion-teorias-cognitivas.md)
+- [Técnicas de estudio basadas en evidencia](../materiales/tecnicas-estudio-basadas-en-evidencia.md)  
+- [Diseño de tareas multinivel](../materiales/diseno-tareas-multinivel-matematicas.md)  
+
+### Marco de la disciplina y evidencia
+- [Introducción a la Psicología de la Educación](../materiales/introduccion-psicologia-educacion-justificacion-casos.md)  
+- [Evidencia en psicología educativa](../materiales/evidencia-psicologia-educativa.md)  
+
+### Desarrollo, diversidad y contexto
+- [Tema 1 — Desarrollo](01-desarrollo-adolescencia.md)  
+- [Tema 2 — Diferencias](02-diferencias-individuales-problemas-adolescencia.md)  
+- [Tema 4 — Cognición](04-procesamiento-informacion-teorias-cognitivas.md)  
+- [Neurodivergencia](../materiales/neurodivergencia-aula-matematicas.md) · [Discalculia](../materiales/discalculia-y-dea-matematicas.md)  
+- [Haidt — redes y atención](../materiales/haidt-redes-atencion-adolescencia.md)  
+- [Guía de observación de practicum](../materiales/guia-observacion-practicum-psicologia.md)  
 
 ---
 
