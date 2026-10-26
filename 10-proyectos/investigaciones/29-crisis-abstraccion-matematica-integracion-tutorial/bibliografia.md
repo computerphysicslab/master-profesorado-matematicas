@@ -22,6 +22,14 @@ Corpus de fuentes verificadas. Se añaden referencias en cada ciclo. No se elimi
   *Afirmación respaldada:* Transición entre mundos embodied, symbolic y formal; riesgos de anclaje excesivo en lo concreto.  
   *Limitaciones:* Marco conceptual amplio; menos evidencia empírica directa sobre intervenciones tutoriales.
 
+- Sfard, A. (1991). On the dual nature of mathematical conceptions: Reflections on processes and objects as different sides of the same coin. *Educational Studies in Mathematics, 22*(1), 1–36. https://doi.org/10.1007/BF00302715  
+  *Afirmación respaldada:* Dualidad proceso-objeto; transición mediante interiorización, condensación y reificación.  
+  *Limitaciones:* Marco teórico; requiere operacionalización en tareas concretas de ESO.
+
+- Godino, J. D., Batanero, C., & Font, V. (2007). The onto-semiotic approach to research in mathematics education. *ZDM Mathematics Education, 39*(1-2), 127–135. https://doi.org/10.1007/s11858-006-0004-1  
+  *Afirmación respaldada:* Necesidad de configuraciones epistémicas y cognitivas que permitan generalización más allá de prácticas instrumentales.  
+  *Limitaciones:* Enfoque amplio; su aplicación al diseño tutorial requiere concreción.
+
 ### Ansiedad matemática y regulación emocional
 - Ashcraft, M. H., & Moore, A. M. (2009). Mathematics anxiety and the affective drop in performance. *Journal of Psychoeducational Assessment, 27*(3), 197–205. https://doi.org/10.1177/0734282908330580  
   *Afirmación respaldada:* La ansiedad matemática reduce el rendimiento bajo presión (caída afectiva) y afecta la memoria de trabajo.  
@@ -36,7 +44,15 @@ Corpus de fuentes verificadas. Se añaden referencias en cada ciclo. No se elimi
   *Afirmación respaldada:* La instrucción con guía mínima es menos efectiva para novatos que la instrucción explícita.  
   *Limitaciones:* Debate abierto con enfoques constructivistas; no aborda directamente el modelo SBTA de NRICH.
 
+- Tomlinson, C. A. (2014). *The differentiated classroom: Responding to the needs of all learners* (2nd ed.). ASCD.  
+  *Afirmación respaldada:* Instrucción diferenciada mediante rutas de acceso según disposición del alumnado, manteniendo objetivos comunes.  
+  *Limitaciones:* Libro de síntesis profesional; menos evidencia experimental controlada que los artículos de carga cognitiva.
+
+### Contexto organizativo
+- OECD. (2025). *Results from TALIS 2024: The state of teaching*. OECD Publishing. https://doi.org/10.1787/90df6235-en  
+  *Afirmación respaldada:* Datos internacionales sobre percepción de carga administrativa, autonomía y condiciones de trabajo docente.  
+  *Limitaciones:* Datos agregados; no específicos de departamentos de matemáticas ni de intervenciones tutoriales.
+
 ## Notas
-- Todas las referencias incluyen DOI activo y verificable en el momento de la inclusión.  
-- Se priorizan fuentes indexadas (Scopus/WoS) o equivalentes de alta calidad.  
-- Próximos ciclos añadirán literatura sobre Enfoque Ontosemiótico, TALIS 2024, Tomlinson, Sfard, etc., siempre con verificación.
+- Todas las referencias con DOI han sido verificadas. Tomlinson (2014) es un libro de ASCD (referencia estándar en el campo).  
+- Próximos ciclos pueden añadir Bakker & Demerouti (2017) y literatura específica de SEIEM/PNA si se requiere mayor densidad.
