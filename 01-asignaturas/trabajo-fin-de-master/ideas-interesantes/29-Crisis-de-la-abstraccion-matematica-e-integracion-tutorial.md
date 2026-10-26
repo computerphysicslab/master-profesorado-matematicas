@@ -1,4 +1,3 @@
-```markdown
 # 29 - Crisis de la abstracción matemática e integración tutorial: Un Programa de Acción Tutorial multinivel contra la ilusión de competencia y la burocratización del pensamiento
 
 ## 1. Idea central
@@ -122,4 +121,3 @@ La Variante A constituye el núcleo empírico. Las Variantes B y C se abordan co
 4. Elaborar la versión operativa de los instrumentos (prueba de calibración, rúbrica de justificación, adaptación de AMAS y cuestionario TALIS) y el protocolo ético de consentimiento y derivación.
 
 La pérdida de las matemáticas como disciplina troncal de alta exigencia formal no sería un ajuste curricular más. Sería la renuncia a formar ciudadanos capaces de pensar más allá de lo inmediato. Ese es el horizonte que este TFM se propone no solo diagnosticar, sino combatir con los instrumentos concretos de la acción tutorial.
-```
