@@ -1,39 +1,27 @@
-# siguiente_ciclo.md — Ciclo 2 → Ciclo 3
+# siguiente_ciclo.md — Ciclo 3 → Ciclo 4
 
-## Acciones prioritarias inmediatas
+## Acciones prioritarias
 
-1. **Completar instrumentos operativos (FASE 4 detalle)**  
-   - Redactar íntegramente la prueba de calibración (ítems + rúbrica de justificación + instrucciones de administración inmediato / 48-72 h).  
-   - Adaptar AMAS a versión situacional breve.  
-   - Finalizar rúbrica de unidad multinivel (andamiaje, fading, techo).  
-   - Redactar cuestionario breve de carga administrativa (5-8 ítems tipo TALIS) y guion de grupo focal docente.  
-   - Elaborar matriz de operacionalización completa.
+1. **Redacción íntegra del Capítulo 2 (marco teórico)** en prosa académica formal (28-32 páginas objetivo).
+2. **Ajuste de instrumentos** cuando se confirme el centro y el curso concreto del grupo.
+3. **Borrador del Capítulo 3 – Metodología** completo.
+4. **Anexos prioritarios**:
+   - Modelo de consentimiento informado.
+   - Protocolo de derivación por ansiedad.
+   - Plantilla de Informe ejecutivo de racionalización administrativa.
+5. **Matriz de operacionalización** en formato tabla final.
 
-2. **Ampliar y redactar el Capítulo 2 (marco teórico)**  
-   - Desarrollar las secciones 2.1 a 2.7 del índice.  
-   - Incorporar las nuevas referencias de Piaget, externalización cognitiva e IA.  
-   - Mantener el hilo conductor: protección de la carga germana frente a la ilusión de competencia.
+## Lagunas pendientes
 
-3. **Ajuste fino del Capítulo 1**  
-   - Revisar transiciones y precisión.
-
-4. **Preparación de anexos**  
-   - Consentimiento informado modelo.  
-   - Protocolo de derivación por ansiedad.  
-   - Plantilla de informe ejecutivo de racionalización administrativa.
-
-## Lagunas que deben cerrarse en Ciclo 3
-
-- Contenido matemático concreto de la prueba de calibración (depende del curso del grupo real).  
-- Tamaño muestral y criterios de inclusión definitivos.  
-- Posible necesidad de adaptación cultural/lingüística fina de AMAS.  
-- Referencias adicionales sobre LOMLOE (texto legal) y desarrollos autonómicos de Aragón.
+- Confirmación del centro de prácticas y tamaño muestral real.
+- Ajuste fino del contenido de la prueba de calibración al currículum del grupo.
+- Posible necesidad de pilotaje breve de la AMAS situacional.
+- Textos legales de referencia LOMLOE / currículo de Aragón.
 
 ## Criterio de calidad
 
-- Instrumentos listos para ser fotocopiados y aplicados.  
-- Cero referencias no verificables.  
-- Texto del Capítulo 1 y borrador avanzado del Capítulo 2 a nivel de publicación internacional.  
-- Actualización obligatoria de los tres documentos de persistencia al cierre del ciclo.
+- Instrumentos fotocopiables y aplicables.
+- Capítulo 2 con cero relleno y solo fuentes verificables.
+- Actualización obligatoria de los tres documentos de persistencia al cierre.
 
-**Fecha interna recomendada para cierre de Ciclo 3**: 7-10 días.
+**Fecha interna recomendada**: 7-10 días.

@@ -1,8 +1,7 @@
-# bibliografia.md — Corpus acumulativo (Ciclo 2)
+# bibliografia.md — Corpus acumulativo (Ciclo 3)
 
-Todas las referencias listadas han sido verificadas con DOI activo o identificador oficial.  
-Formato APA-7.  
-Se añaden en cada ciclo; nunca se eliminan en silencio.
+Todas las referencias han sido verificadas con DOI activo o identificador oficial.  
+Formato APA-7. Se añaden; nunca se eliminan en silencio.
 
 ---
 
@@ -42,18 +41,17 @@ Hopko, D. R., Mahadevan, R., Bare, R. L., & Hunt, M. K. (2003). The Abbreviated 
 
 Bobis, J., Russo, J., Downton, A., Feng, M., Livy, S., McCormick, M., & Sullivan, P. (2021). Instructional moves that increase chances of engaging all students in learning mathematics. *Mathematics, 9*(6), Article 582. https://doi.org/10.3390/math9060582  
 
-## Carga administrativa docente (contexto español)
+## Carga administrativa docente
 
 OECD. (2024). *TALIS 2024 results (Volume I): Teachers and teaching conditions*. OECD Publishing / Ministerio de Educación (informe español).  
-*(Dato clave: 64 % del profesorado de secundaria en España identifica el exceso de trabajo administrativo como principal fuente de estrés.)*
 
-## Piaget y pensamiento formal en matemáticas (Ciclo 2)
+## Piaget y pensamiento formal en matemáticas
 
 Dawkins, P. C., Hackenberg, A. J., & Norton, A. (Eds.). (2024). *Piaget’s genetic epistemology for mathematics education research*. Springer. https://doi.org/10.1007/978-3-031-47386-9  
 
 Ojose, B. (2008/2015). Applying Piaget’s theory of cognitive development to mathematics instruction. *The Mathematics Educator, 18*(1). https://doi.org/10.63301/tme.v18i1.1923  
 
-## Externalización cognitiva / offloading e IA (Ciclo 2)
+## Externalización cognitiva / offloading e IA
 
 Skulmowski, A. (2023). The cognitive architecture of digital externalization. *Educational Psychology Review, 35*, Article 101. https://doi.org/10.1007/s10648-023-09818-1  
 
@@ -61,7 +59,5 @@ Medrano, J., & Miller-Cotto, D. (2025). Understanding working memory as a facili
 
 ---
 
-**Notas de ciclo**  
-- Entradas nuevas de Ciclo 2 añadidas.  
-- Se mantienen todas las del Ciclo 1.  
-- Próximas adiciones previstas: límites del DUA en matemáticas y textos oficiales LOMLOE.
+**Notas**  
+Corpus completo hasta Ciclo 3. No se han descartado referencias.
