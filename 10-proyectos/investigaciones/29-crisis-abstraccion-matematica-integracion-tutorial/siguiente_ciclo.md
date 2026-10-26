@@ -1,21 +1,48 @@
-# Siguiente ciclo — TFM 29
+# siguiente_ciclo.md — Ciclo 1 → Ciclo 2
 
-**Objetivo del próximo ciclo:** Diseñar los instrumentos operativos listos para aplicar y redactar el borrador del Capítulo 1 (Introducción), manteniendo el enfoque de TFM de alto nivel.
+## Próximas acciones concretas (orden prioritario)
 
-## Preguntas pendientes
-1. ¿Qué adaptación concreta del AMAS o escala de ansiedad matemática es más adecuada y validada en español para ESO?
-2. ¿Cómo operacionalizar de forma precisa la “calidad de la justificación matemática abstracta” (rúbrica o criterios alineados con Sfard/Tall)?
-3. ¿Cómo integrar de forma realista el componente de racionalización administrativa sin sobrecargar el TFM?
+1. **Validación de viabilidad en el centro de prácticas** (urgente, esta semana)  
+   - Contactar al tutor del centro y al orientador.  
+   - Confirmar acceso a un grupo de ESO, posibilidad de 3-4 sesiones tutoriales, co-diseño de una unidad y cuestionario anónimo de carga administrativa.  
+   - Obtener indicaciones sobre consentimiento informado y protocolo de derivación por ansiedad.
 
-## Lagunas identificadas
-- Instrumentos aún no redactados.
-- Capítulo 1 (Introducción) pendiente de redacción formal.
-- Protocolos éticos y de consentimiento aún no adaptados al centro concreto.
+2. **FASE 3 – Marco teórico (próximo entregable del comité)**  
+   - Desarrollar la estructura completa del Capítulo 2 con solo fuentes verificables.  
+   - Añadir referencias reales sobre:  
+     - Piaget / estadio formal-operatorio y matemáticas (con DOI).  
+     - Externalización cognitiva e IA en aprendizaje matemático.  
+     - Críticas y evidencias sobre la aplicación del DUA / SBTA en matemáticas.  
+   - Actualizar `bibliografia.md` con las nuevas entradas.
 
-## Acciones concretas para el próximo ciclo
-1. Diseñar la prueba de calibración concreta (contenido de álgebra de 3.º/4.º ESO + ítems inmediato/diferido a 48 h).
-2. Elaborar el guion completo de grupo focal para profesorado y la matriz de operacionalización de variables.
-3. Redactar el borrador del Capítulo 1 (Introducción, problema, justificación, objetivos y delimitación).
-4. Actualizar `estado.md` y añadir cualquier referencia adicional a `bibliografia.md`.
+3. **FASE 4 – Instrumentos operativos listos para aplicar**  
+   - Prueba de calibración (inmediato vs. 48-72 h) con rúbrica de justificación.  
+   - Adaptación de AMAS (versión situacional).  
+   - Escala de confianza subjetiva 1-5.  
+   - Rúbrica de análisis de unidad multinivel (andamiaje + fading + techo).  
+   - Cuestionario breve tipo TALIS sobre carga administrativa (anónimo).  
+   - Guion de grupo focal docente (3-4 preguntas).  
+   - Matriz de operacionalización de variables completa.
 
-**Prioridad:** Instrumentos + Capítulo 1. El marco teórico ya tiene estructura sólida.
+4. **FASE 5 – Redacción del Capítulo 1**  
+   - Texto listo para entregar: Introducción, problema, justificación, objetivos y delimitación.  
+   - Lenguaje formal, preciso, sin ambigüedades, con transiciones fluidas.
+
+5. **Actualización de documentos de persistencia**  
+   - Tras completar Fases 3-5, actualizar `estado.md`, añadir entradas a `bibliografia.md` y generar nuevo `siguiente_ciclo.md`.
+
+## Lagunas pendientes identificadas
+
+- Definición operativa más fina de “calidad de la justificación matemática”.  
+- Protocolo exacto de la prueba de calibración (contenido matemático concreto del curso del grupo).  
+- Cálculo o justificación de tamaño muestral mínimo viable en Prácticum.  
+- Texto legal de referencia de la LOMLOE y desarrollos autonómicos de matemáticas (Aragón).
+
+## Criterio de calidad para el próximo ciclo
+
+- Cero relleno.  
+- Cero referencias no verificables.  
+- Instrumentos listos para ser aplicados por el estudiante en el centro real.  
+- Capítulo 1 redactado a nivel de publicación académica internacional.
+
+**Fecha límite interna recomendada para Ciclo 2**: 7-10 días.

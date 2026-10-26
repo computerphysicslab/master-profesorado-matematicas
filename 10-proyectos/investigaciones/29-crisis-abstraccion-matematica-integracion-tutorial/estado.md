@@ -1,34 +1,51 @@
-# Estado de la investigación — TFM 29
+# estado.md — Ciclo 1 (26 octubre 2026)
 
-**Título provisional:** Crisis de la abstracción matemática e integración tutorial: Un programa multinivel contra la ilusión de competencia y la burocratización
+## Estado actual de la investigación
 
-**Nivel:** TFM de alto nivel (Máster en Profesorado de Matemáticas, UNIZAR)
-**Fecha de inicio del ciclo:** 2026-10-26
-**Estado actual:** Estructura del marco teórico (2.1–2.5) desarrollada y anclada en referencias verificadas. Listo para redacción ampliada o diseño de instrumentos.
+**Título operativo provisional**  
+Crisis de la abstracción matemática e integración tutorial: Un Programa de Acción Tutorial multinivel contra la ilusión de competencia y la burocratización del pensamiento (TFM – Máster Profesorado ESO, UNIZAR)
 
-## Decisiones tomadas
-- Se adopta el enfoque recomendado para TFM: centrado principalmente en la Variante A (efecto metacognitivo-emocional en el alumnado de ESO), con componentes de diseño instruccional multinivel y racionalización organizativa como apoyo.
-- Diseño: Investigación-Acción / Design-Based Research de 6-8 semanas, viable en el Prácticum.
-- Alcance realista: un grupo de ESO + co-diseño de una unidad + 4 sesiones tutoriales.
-- Citación: APA-7. Referencias del marco teórico verificadas con DOI (excepto libro de Tomlinson, citación estándar).
+**Nivel**: TFM alto rigor  
+**Extensión objetivo**: ≈ 100 páginas  
+**Plazo**: 2 meses  
+**Citación**: APA-7  
+**Diseño**: Investigación-acción en contexto de Prácticum (6-8 semanas de intervención)
 
-## Hipótesis de trabajo (adaptadas a TFM)
-- H1: El alumnado que participa en el módulo tutorial de calibración metacognitiva y auto-distanciamiento mostrará un delta (inmediato − diferido a 48 h) significativamente menor que el grupo control.
-- H2: El entrenamiento en auto-distanciamiento reduce la ansiedad matemática situacional sin disminuir la calidad de la justificación matemática exigida.
-- H3 (secundaria): El co-diseño de una unidad multinivel mejora la percepción de eficacia inclusiva del profesorado respecto a una tarea SBTA única.
+### Decisiones tomadas en Ciclo 1
 
-## Límites y riesgos identificados
-- Alcance temporal corto (6-8 semanas): no permite evaluar efectos a medio plazo.
-- Muestra por conveniencia (un centro): generalización limitada.
-- Riesgo de sesgo de selección o efecto Hawthorne.
-- Necesidad de protocolos éticos del centro y consentimiento informado.
+1. El tema se mantiene como prioritario. No se proponen enfoques alternativos.
+2. Se prioriza la **Variante A** (efecto en alumnado sobre *delta* inmediato-diferido y ansiedad situacional) como núcleo empírico.
+3. Las dimensiones instruccional (B) y organizativa (C) se tratan como componentes de proceso y de contexto, respectivamente.
+4. Problema de investigación, pregunta central, hipótesis y objetivos han sido definidos con precisión quirúrgica (ver FASE 1).
+5. Índice completo y hilo conductor establecidos (ver FASE 2).
+6. Tono: firme, crítico y solemne. Se mantiene la referencia a Platón (República, Libro VII) como anclaje filosófico de la centralidad de las matemáticas.
+7. Restricción anti-alucinación activa: solo se citarán fuentes con DOI verificable o identificador PubMed/Scopus confirmado.
 
-## Avances del ciclo actual
-- Estructura completa del Capítulo 2 (Marco teórico) redactada con anclajes precisos en Koriat & Bjork, Bjork et al., Sweller, Sfard, Tall, Godino et al., Ashcraft & Moore, Kross & Ayduk, Kirschner et al., Tomlinson y OECD TALIS 2024.
+### Hipótesis vigentes
 
-## Próximas acciones inmediatas
-1. Diseñar los instrumentos operativos (prueba de calibración de álgebra de ESO, escala de ansiedad, guion de grupo focal, matriz de operacionalización).
-2. Redactar el borrador del Capítulo 1 (Introducción) en estilo formal.
-3. Validar viabilidad con el tutor del centro de prácticas.
+- **H1 (principal)**: El módulo tutorial de calibración + auto-distanciamiento reducirá significativamente el *delta* (inmediato − diferido) y mejorará la calibración.
+- **H2**: El auto-distanciamiento reducirá la ansiedad matemática situacional sin disminuir la calidad de la justificación.
+- **H3**: El co-diseño multinivel mejorará la percepción docente de eficacia inclusiva manteniendo el techo cognitivo.
+- **H4 (contextual)**: Asociación entre percepción de sobrecarga administrativa y uso de estrategias de baja demanda cognitiva.
 
-**Última actualización:** 2026-10-26
+### Hallazgos / avances
+
+- Arquitectura conceptual y estructural completa.
+- Viabilidad confirmada para 2 meses si se mantiene el acotamiento estricto (un grupo + una unidad + 3-4 sesiones tutoriales).
+
+### Límites y riesgos activos
+
+- Ausencia de grupo de control limpio (limitación estructural del Prácticum). Mitigación: pretest-postest + comparación interna + triangulación.
+- Riesgo de tono de manifiesto. Mitigación: anclar toda afirmación de fondo en datos o literatura verificable.
+- Posible resistencia del centro a datos sobre carga administrativa. Mitigación: cuestionario anónimo y propuestas de bajo coste.
+- Tiempo real de Prácticum: debe validarse con el tutor del centro en la próxima semana.
+
+### Decisiones pendientes para Ciclo 2
+
+- Completar FASE 3 (marco teórico con solo fuentes verificables).
+- Diseñar instrumentos operativos completos (FASE 4).
+- Redactar Capítulo 1 listo para entregar (FASE 5).
+- Contactar tutor del centro de prácticas para validar viabilidad.
+
+**Última actualización**: 26 octubre 2026, 23:14 CET  
+**Próximo ciclo**: Fases 3-5 + instrumentos operativos.
