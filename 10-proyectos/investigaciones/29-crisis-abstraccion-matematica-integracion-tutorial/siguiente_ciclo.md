@@ -1,48 +1,39 @@
-# siguiente_ciclo.md — Ciclo 1 → Ciclo 2
+# siguiente_ciclo.md — Ciclo 2 → Ciclo 3
 
-## Próximas acciones concretas (orden prioritario)
+## Acciones prioritarias inmediatas
 
-1. **Validación de viabilidad en el centro de prácticas** (urgente, esta semana)  
-   - Contactar al tutor del centro y al orientador.  
-   - Confirmar acceso a un grupo de ESO, posibilidad de 3-4 sesiones tutoriales, co-diseño de una unidad y cuestionario anónimo de carga administrativa.  
-   - Obtener indicaciones sobre consentimiento informado y protocolo de derivación por ansiedad.
+1. **Completar instrumentos operativos (FASE 4 detalle)**  
+   - Redactar íntegramente la prueba de calibración (ítems + rúbrica de justificación + instrucciones de administración inmediato / 48-72 h).  
+   - Adaptar AMAS a versión situacional breve.  
+   - Finalizar rúbrica de unidad multinivel (andamiaje, fading, techo).  
+   - Redactar cuestionario breve de carga administrativa (5-8 ítems tipo TALIS) y guion de grupo focal docente.  
+   - Elaborar matriz de operacionalización completa.
 
-2. **FASE 3 – Marco teórico (próximo entregable del comité)**  
-   - Desarrollar la estructura completa del Capítulo 2 con solo fuentes verificables.  
-   - Añadir referencias reales sobre:  
-     - Piaget / estadio formal-operatorio y matemáticas (con DOI).  
-     - Externalización cognitiva e IA en aprendizaje matemático.  
-     - Críticas y evidencias sobre la aplicación del DUA / SBTA en matemáticas.  
-   - Actualizar `bibliografia.md` con las nuevas entradas.
+2. **Ampliar y redactar el Capítulo 2 (marco teórico)**  
+   - Desarrollar las secciones 2.1 a 2.7 del índice.  
+   - Incorporar las nuevas referencias de Piaget, externalización cognitiva e IA.  
+   - Mantener el hilo conductor: protección de la carga germana frente a la ilusión de competencia.
 
-3. **FASE 4 – Instrumentos operativos listos para aplicar**  
-   - Prueba de calibración (inmediato vs. 48-72 h) con rúbrica de justificación.  
-   - Adaptación de AMAS (versión situacional).  
-   - Escala de confianza subjetiva 1-5.  
-   - Rúbrica de análisis de unidad multinivel (andamiaje + fading + techo).  
-   - Cuestionario breve tipo TALIS sobre carga administrativa (anónimo).  
-   - Guion de grupo focal docente (3-4 preguntas).  
-   - Matriz de operacionalización de variables completa.
+3. **Ajuste fino del Capítulo 1**  
+   - Revisar transiciones y precisión.
 
-4. **FASE 5 – Redacción del Capítulo 1**  
-   - Texto listo para entregar: Introducción, problema, justificación, objetivos y delimitación.  
-   - Lenguaje formal, preciso, sin ambigüedades, con transiciones fluidas.
+4. **Preparación de anexos**  
+   - Consentimiento informado modelo.  
+   - Protocolo de derivación por ansiedad.  
+   - Plantilla de informe ejecutivo de racionalización administrativa.
 
-5. **Actualización de documentos de persistencia**  
-   - Tras completar Fases 3-5, actualizar `estado.md`, añadir entradas a `bibliografia.md` y generar nuevo `siguiente_ciclo.md`.
+## Lagunas que deben cerrarse en Ciclo 3
 
-## Lagunas pendientes identificadas
+- Contenido matemático concreto de la prueba de calibración (depende del curso del grupo real).  
+- Tamaño muestral y criterios de inclusión definitivos.  
+- Posible necesidad de adaptación cultural/lingüística fina de AMAS.  
+- Referencias adicionales sobre LOMLOE (texto legal) y desarrollos autonómicos de Aragón.
 
-- Definición operativa más fina de “calidad de la justificación matemática”.  
-- Protocolo exacto de la prueba de calibración (contenido matemático concreto del curso del grupo).  
-- Cálculo o justificación de tamaño muestral mínimo viable en Prácticum.  
-- Texto legal de referencia de la LOMLOE y desarrollos autonómicos de matemáticas (Aragón).
+## Criterio de calidad
 
-## Criterio de calidad para el próximo ciclo
-
-- Cero relleno.  
+- Instrumentos listos para ser fotocopiados y aplicados.  
 - Cero referencias no verificables.  
-- Instrumentos listos para ser aplicados por el estudiante en el centro real.  
-- Capítulo 1 redactado a nivel de publicación académica internacional.
+- Texto del Capítulo 1 y borrador avanzado del Capítulo 2 a nivel de publicación internacional.  
+- Actualización obligatoria de los tres documentos de persistencia al cierre del ciclo.
 
-**Fecha límite interna recomendada para Ciclo 2**: 7-10 días.
+**Fecha interna recomendada para cierre de Ciclo 3**: 7-10 días.
