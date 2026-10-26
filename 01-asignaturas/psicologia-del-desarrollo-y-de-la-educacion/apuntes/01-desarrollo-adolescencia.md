@@ -128,6 +128,56 @@ Cambios en el sistema reproductor, caracteres sexuales secundarios, fuerza, musc
 
 Familia, amigos, **entorno escolar** y medios de comunicación / TIC presentan modelos e ideales (aprendizaje social). La escuela puede ser **factor protector** (participación guiada, oportunidades de actuar “como adulto”, pensamiento crítico) o **factor de riesgo** (acoso, exclusión, identidad académica negativa).
 
+#### 5.2.1. Evolución de las amistades: de la pandilla unisexual a las parejas
+
+Según descripciones clásicas (Dunphy, 1963; recogidas y sintetizadas por autores como Oliva), el grupo de iguales evoluciona a lo largo de la adolescencia en etapas aproximadas:
+
+1. **Pandilla unisexual** (adolescencia temprana): pequeños grupos de 5–9 miembros del mismo sexo, del mismo entorno escolar o vecinal. Continuación de las amistades de la infancia. Alta cohesión e intimidad dentro del grupo.
+2. **Interacción entre pandillas unisexuales**: los grupos de chicos y de chicas empiezan a relacionarse entre sí con mayor frecuencia, aunque todavía de forma separada.
+3. **Pandilla mixta** (adolescencia media): se forma un grupo más amplio (15–25 miembros) de ambos sexos. Menor cohesión que en la pandilla unisexual; las primeras citas y acercamientos románticos suelen producirse bajo el amparo del grupo.
+4. **Parejas relacionadas entre sí** (adolescencia tardía): la gran pandilla se disuelve progresivamente. Aumenta el interés por las relaciones de pareja y la intimidad diádica; el grupo de amigos sigue presente pero pasa a un plano secundario.
+
+Esta evolución explica buena parte del peso del grupo en la adolescencia media (presión de conformidad, miedo a “quedar mal”) y la mayor capacidad de intimidad y autonomía relacional en la tardía.
+
+**Implicación docente:** en ESO el grupo de pares tiene un peso enorme en la disposición a participar, a mostrar el error o a cooperar; en Bachillerato las dinámicas de pareja y de amistad más selectiva pueden influir en la asistencia, el trabajo colaborativo y la identidad académica.
+
+#### 5.2.2. Ventajas e inconvenientes de las TIC
+
+Las tecnologías de la información y la comunicación (redes sociales, mensajería, plataformas de vídeo, juegos en línea, etc.) son agentes socializadores de primer orden en la adolescencia actual.
+
+**Ventajas potenciales:**
+- Acceso rápido a información, recursos de aprendizaje y comunidades de interés (incluyendo apoyo académico o de aficiones).
+- Mantenimiento de lazos sociales a distancia y ampliación de redes de apoyo.
+- Espacios de exploración de identidad y de expresión creativa.
+- Herramientas de organización, comunicación con el centro y trabajo colaborativo.
+
+**Inconvenientes y riesgos:**
+- Diseño adictivo de las plataformas (notificaciones, recompensas variables) que compite con la atención sostenida necesaria para el aprendizaje.
+- Comparación social constante y presión por la imagen (vinculada a la audiencia imaginaria y a la autoestima).
+- Ciberacoso, exclusión y exposición a contenidos inadecuados.
+- Reducción del sueño y del tiempo de descanso (impacto en atención y regulación emocional).
+- Posible desplazamiento de interacciones cara a cara y de actividades offline.
+
+**Implicación docente:** no se trata de demonizar las TIC, sino de reconocer su peso real en la vida del alumnado, de modelar un uso crítico y de diseñar aulas donde la atención profunda sea posible (véase también el material sobre Haidt y redes).
+
+### 5.3. Cerebro adolescente: sistema límbico frente a corteza prefrontal
+
+Uno de los hallazgos más robustos de la neurociencia del desarrollo es el **desfase madurativo** entre dos sistemas cerebrales clave:
+
+| Sistema | Funciones principales | Ritmo de maduración en adolescencia |
+|---------|-----------------------|-------------------------------------|
+| **Sistema límbico** (amígdala, núcleo accumbens, etc.) | Procesamiento emocional, búsqueda de recompensa, motivación, sensibilidad social | Madura relativamente temprano (activado con fuerza desde la pubertad) |
+| **Corteza prefrontal** | Control de impulsos, planificación, evaluación de consecuencias a largo plazo, toma de decisiones racionales, funciones ejecutivas | Madura más tarde (proceso que se prolonga hasta bien entrada la tercera década de la vida) |
+
+Esta asimetría se ha descrito a menudo con la metáfora de “un motor potente sin frenos completamente desarrollados” (Steinberg y otros). Explica, en parte:
+
+- la **intensidad emocional** y la reactividad ante estímulos sociales o de recompensa;
+- la mayor propensión a la **toma de riesgos**, especialmente en presencia de pares;
+- las dificultades relativas de **autorregulación** y de aplazamiento de la gratificación;
+- la sensibilidad a la aprobación del grupo.
+
+**Importante para el docente:** este desfase es evolutivo y temporal, no una “falta de carácter”. No excusa conductas disruptivas, pero sí orienta hacia intervenciones que combinen límites claros, andamiaje de la autorregulación y reducción de la exposición punitiva al error (especialmente en público). La neurociencia educativa debe usarse con cautela: explica tendencias poblacionales, no predice el comportamiento de un alumno concreto.
+
 ---
 
 ## 6. Identidad, autoconcepto y autoestima
@@ -179,7 +229,18 @@ La ESO y el Bachillerato exigen proporcionalidad, variables, demostración, mode
 - el error no implica “no haber llegado al estadio”, sino falta de esquema, de práctica o de andamiaje;
 - el **DUA** y el andamiaje son coherentes con la diversidad evolutiva del grupo.
 
-### 7.2. Puntos críticos de revisión (errores comunes)
+### 7.2. Egocentrismo adolescente (Elkind)
+
+David Elkind (1967) describió un **egocentrismo cognitivo** propio de la adolescencia temprana y media, distinto del egocentrismo infantil de Piaget. Surge cuando el adolescente adquiere la capacidad de pensar sobre el pensamiento de los demás, pero aún no diferencia con precisión entre su propia preocupación por sí mismo y la atención real que los otros le prestan. Se manifiesta en dos construcciones principales:
+
+- **Audiencia imaginaria:** creencia de que los demás están constantemente observando, evaluando y criticando su apariencia y comportamiento (“todo el mundo me mira”). Genera gran sensibilidad a la imagen pública, vergüenza ante el error expuesto y conductas orientadas a atraer o a evitar la atención.
+- **Fábula personal:** sensación de ser único, especial e invulnerable (“a mí no me va a pasar”, “nadie entiende lo que siento”). Se asocia a conductas de riesgo y a la dificultad para aceptar consejos basados en la experiencia de otros.
+
+Estas construcciones tienden a atenuarse con la edad y con la experiencia social real, aunque pueden reaparecer o mantenerse en contextos de alta comparación social (incluido el uso intensivo de redes).
+
+**Implicación en el aula de Matemáticas:** la negativa a salir a la pizarra, el miedo extremo al ridículo o la minimización de las consecuencias de no estudiar pueden tener, entre otras, esta base cognitiva. Reducir la exposición pública del error, normalizar el proceso de ensayo-error y trabajar en pequeños grupos antes de la puesta en común son estrategias coherentes con esta realidad evolutiva.
+
+### 7.3. Puntos críticos de revisión (errores comunes)
 
 | Error común | Corrección |
 |-------------|------------|
@@ -195,6 +256,7 @@ Referentes clásicos (lectura docente):
 | **Vygotsky** | ZDP, mediación social, lenguaje | El andamiaje del adulto/pares es clave |
 | **Erikson / Marcia** | Identidad vs. confusión; estatus de identidad | La escuela configura identidad académica |
 | **Neurociencia educativa (cautela)** | Control inhibitorio más lento que el sistema de recompensa | Explica impulsividad relativa; no excusa ni etiqueta |
+| **Elkind** | Audiencia imaginaria y fábula personal | Explica sensibilidad a la imagen pública y sensación de invulnerabilidad |
 
 ---
 
@@ -225,6 +287,20 @@ La adolescencia tiende a cerrarse (de forma gradual) con la conquista de **auton
 
 La búsqueda de autonomía **no tiene por qué** derivar en conflicto permanente con la familia ni con el profesorado. Límites claros + reconocimiento de agencia suelen funcionar mejor que el control rígido o la permisividad total.
 
+### 9.1. Causas de conflicto familiar (Oliva y otros)
+
+El aumento de los conflictos padres-hijos en la adolescencia temprana y media es un fenómeno documentado, aunque no universal ni necesariamente patológico. Según síntesis de la literatura (Oliva y colaboradores, entre otros), las principales fuentes de tensión son:
+
+- **Discrepancia de objetivos y necesidades:** el adolescente demanda mayor autonomía, privacidad y control sobre su tiempo; los padres tienden a mantener o aumentar el control ante los nuevos riesgos percibidos (salidas, pares, redes, rendimiento académico).
+- **Cambios en el adolescente:** mayor capacidad de argumentación, cuestionamiento de normas, intensidad emocional y sensibilidad a la privacidad.
+- **Cambios en los padres:** reajuste del estilo educativo (de más directivo a más negociador); posibles dificultades para aceptar la pérdida de influencia y el nuevo rol.
+- **Estilos educativos poco flexibles:** cuando los padres no adaptan las normas y la disciplina a las nuevas capacidades del hijo, aumenta la probabilidad de conflicto y de problemas de adaptación.
+- **Temas típicos de discusión:** horarios, uso del móvil y redes, estudios, amistades, contribuciones domésticas, apariencia.
+
+En la mayoría de las familias el conflicto es de intensidad moderada y tiende a disminuir en la adolescencia tardía cuando se alcanza un nuevo equilibrio de autonomía y cercanía. Cuando el conflicto es muy intenso, frecuente o se acompaña de hostilidad, suele requerir atención específica.
+
+**Implicación docente:** el centro y el aula no son la familia, pero el docente puede observar signos de malestar familiar, mantener canales de comunicación respetuosos con las familias y evitar polarizar (“los padres no se enteran”). Límites claros y predecibles en el aula modelan una forma de autoridad que no se basa en el autoritarismo ni en la ausencia de normas.
+
 **Implicación en Matemáticas:** ofrecer elección (estrategia, representación, problema dentro de un abanico), responsabilizar del proceso y reducir la exposición punitiva del error apoyan una autonomía real, no solo declarada.
 
 ---
@@ -238,7 +314,9 @@ La búsqueda de autonomía **no tiene por qué** derivar en conflicto permanente
 - **Fase media:** peso del grupo y miedo a la imagen pública del error.  
 - **Identidad / autoestima:** posible identidad académica frágil o hipotecada (“malo en mates”).  
 - **Cognición:** el enunciado verbal puede saturar la memoria de trabajo si aún no hay esquema; no implica ausencia total de pensamiento formal.  
+- **Egocentrismo (Elkind):** audiencia imaginaria amplifica la vergüenza ante el error público.  
 - **Autonomía:** negarse puede ser afirmación de control ante una situación percibida como amenaza.
+- **Cerebro:** mayor sensibilidad a la evaluación social (sistema límbico) con control prefrontal aún en desarrollo.
 
 **Respuesta docente orientativa:** andamiaje (representación concreta → semiabstracta), trabajo en pareja antes de la puesta en común, feedback de estrategia (“aquí el paso clave fue…”), logros de dominio cercanos, evitar etiquetas globales.
 
@@ -252,6 +330,10 @@ La búsqueda de autonomía **no tiene por qué** derivar en conflicto permanente
 4. Relaciona ZDP y una tarea de ecuaciones con andamiaje.  
 5. ¿Qué cambio social de la adolescencia media más afecta a salir a la pizarra?  
 6. Señala dos formas en que el docente de Matemáticas puede proteger la autoestima académica sin “bajar el nivel”.
+7. Explica la audiencia imaginaria y la fábula personal de Elkind y pon un ejemplo de cada una en el aula de Matemáticas.
+8. Resume el desfase entre sistema límbico y corteza prefrontal y su relevancia para la gestión del error en público.
+9. Describe la evolución de las amistades según las etapas de Dunphy/Oliva y cómo influye en el trabajo cooperativo.
+10. Señala dos ventajas y dos riesgos de las TIC en la adolescencia que el docente debería tener en cuenta.
 
 ---
 
@@ -276,9 +358,13 @@ La búsqueda de autonomía **no tiene por qué** derivar en conflicto permanente
 ## Referencias orientativas (selección)
 
 - Castillo, G. (1999/2003). Trabajos sobre adolescencia y fases del desarrollo.  
+- Dunphy, D. (1963). The social structure of urban adolescent peer groups.  
+- Elkind, D. (1967). Egocentrism in adolescence. *Child Development*.  
 - Harter, S. (1996, 1998). Autoconcepto, “falso yo” y yo ideal en la adolescencia.  
 - Larson, R., y Wilson, S. (2004). Adolescencia en perspectiva cultural.  
 - Marcia, J. (1966). Development and validation of ego-identity status. *Journal of Personality and Social Psychology*.  
+- Oliva, A. (y colaboradores). Trabajos sobre relaciones familiares, conflicto y evolución de los grupos de iguales en la adolescencia.  
 - Palacios, J. (1999). Autoconcepto y desarrollo.  
 - Piaget, J. — operaciones formales (lectura crítica en contexto escolar).  
-- García-Milá, M., y Martí, E. (1997). Desarrollo del razonamiento en la adolescencia.
+- García-Milá, M., y Martí, E. (1997). Desarrollo del razonamiento en la adolescencia.  
+- Steinberg, L. (y otros). Trabajos sobre el desfase madurativo entre sistema socioemocional y control cognitivo en la adolescencia.  
