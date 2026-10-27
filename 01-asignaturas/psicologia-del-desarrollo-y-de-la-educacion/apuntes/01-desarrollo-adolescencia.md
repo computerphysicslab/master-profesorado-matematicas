@@ -1,7 +1,8 @@
 # Tema 1 · Desarrollo evolutivo en la adolescencia
 
 **Asignatura:** Psicología del desarrollo y de la educación  
-**Programa:** [tema 1](../programa.md)
+**Programa:** [tema 1](../programa.md)  
+**Correspondencia con los apuntes oficiales:** *Bloque I · Tema 1 — Psicología del desarrollo en la etapa adolescente*.
 
 ## Por dónde leer (mapa de la asignatura)
 
@@ -18,8 +19,25 @@ Este apunte abre el bloque de **desarrollo**. El resto del programa y los materi
 | **7** | [Examen](../examen/) · [Glosario](../glosario.md) | Autoevaluación |
 | **8** | [Guía de observación de practicum](../materiales/guia-observacion-practicum-psicologia.md) | Qué mirar en el centro/aula |
 
----
+> **Cómo está organizado.** El apunte integra (a) los contenidos de la presentación oficial del Bloque I · Tema 1 —marcados con **📘 Oficial**— y (b) el desarrollo propio del repositorio (implicaciones para Matemáticas, Elkind, cerebro adolescente, ampliación teórica y metodológica). Cuando ambos coinciden se han fusionado.
 
+### Mapa: presentación oficial → apartados de este apunte
+
+| Contenido oficial (Bloque I · Tema 1) | Apartado |
+|---------------------------------------|----------|
+| Psicología del desarrollo · el periodo adolescente · «adolescencias» · cultura y ritos de transición · construcción social | [§0](#0-psicología-del-desarrollo-marco) · [§1](#1-adolescencia-como-etapa) |
+| Pubertad ≠ adolescencia · fases (Castillo) · crisis adolescente y «parto» adolescente | [§2](#2-pubertad--adolescencia) · [§3](#3-fases-de-la-adolescencia) · [§4](#4-crisis-adolescente) |
+| Los cinco grandes cambios (Izco; Strasburger y Wilson) | [§5](#5-dimensiones-del-desarrollo) |
+| 1. Desarrollo físico y caracteres sexuales secundarios | [§5.1](#51-desarrollo-físico-síntesis-para-el-docente) |
+| Agentes socializadores: familia, amigos, escuela, medios y TIC | [§5.2](#52-agentes-socializadores) |
+| 2. Identidad personal, autoconcepto y autoestima (Marcia, Palacios, Harter) | [§6](#6-identidad-autoconcepto-y-autoestima) |
+| 3. Desarrollo intelectual (García-Milá y Martí, Piaget) | [§7](#7-desarrollo-intelectual-y-pensamiento-formal) |
+| 4. Desarrollo moral (Escuela de Ginebra, Kohlberg) | [§8](#8-desarrollo-moral-síntesis) |
+| 5. Conquista de la autonomía personal | [§9](#9-conquista-de-la-autonomía) |
+| Diseño Universal para el Aprendizaje (DUA) | [§10](#10-diseño-universal-para-el-aprendizaje-dua) |
+| Vídeos de apoyo de la presentación | [Material relacionado](#material-relacionado) |
+
+---
 ## 0. Psicología del desarrollo: marco
 
 La **psicología del desarrollo** estudia los **cambios conductuales y psicológicos** de las personas desde la concepción hasta la muerte, con el fin de **describirlos**, **explicarlos**, **predecir** comportamientos y **optimizar el desarrollo**.
@@ -80,7 +98,7 @@ Síntesis orientativa (Castillo, 1999/2003 y tablas de independencia–identidad
 
 | Fase | Edades orientativas | Rasgos centrales | Eco en el aula de Matemáticas |
 |------|---------------------|------------------|-------------------------------|
-| **Temprana** | ≈ 10–13 (♀) / 13–15 (♂) | Cambios físicos intensos; inicio de cambios psicológicos; menos interés en padres; amistad mismo sexo; preocupación por la apariencia | Fatiga, atención irregular, vergüenza al salir a la pizarra, sensibilidad a la imagen pública del error |
+| **Temprana** | ≈ 11–13 (♀) / 13–15 (♂) | Cambios físicos intensos; inicio de cambios psicológicos; menos interés en padres; amistad mismo sexo; preocupación por la apariencia | Fatiga, atención irregular, vergüenza al salir a la pizarra, sensibilidad a la imagen pública del error |
 | **Media** | ≈ 13–16 (♀) / 15–18 (♂) | Conductas contradictorias; búsqueda de identidad; máximo peso del grupo de pares; conflicto con adultos; pensamiento reflexivo en auge | Presión del grupo, “no quedar mal”, riesgo de evitación de tareas expuestas; debate sobre justicia de notas y normas |
 | **Tardía / juvenil** | ≈ 16–19 (♀) / 18–21 (♂) | Consolidación de la personalidad; metas más realistas; mayor armonía familiar; aceptación progresiva de la imagen corporal | Más capacidad de planificar el estudio; identidad académica más estable (“se me dan / no se me dan las mates”) |
 
@@ -91,6 +109,16 @@ Síntesis orientativa (Castillo, 1999/2003 y tablas de independencia–identidad
 | Temprana | Menos interés en padres; prueba de autoridad; necesidad de intimidad | Fantasía, impulsividad, metas vocacionales irreales | Preocupación por cambios puberales |
 | Media | Máxima interrelación con pares; conflicto con padres | Conformidad con valores del grupo; sensación de invulnerabilidad; conductas de riesgo | Fuerte preocupación por apariencia y moda |
 | Tardía | Proximidad emocional renovada a los padres; relaciones íntimas prioritarias | Sistema de valores; metas más realistas; capacidad de intimar | Aceptación progresiva de la imagen corporal |
+
+> 📘 **Oficial** (Castillo, 1999; 2003). La presentación denomina las fases **adolescencia temprana o primera pubertad** (♀ 11–13 / ♂ 13–15), **adolescencia intermedia** (♀ 13–16 / ♂ 15–18) y **adolescencia superior o edad juvenil** (♀ 16–19 / ♂ 18–21). Describe así su rasgo central:
+>
+> | Fase | Rasgo central (oficial) |
+> |------|--------------------------|
+> | Temprana | Cambios físicos de la **pubertad** (maduración sexual) e **inicio de cambios psicológicos** como consecuencia de ellos |
+> | Intermedia | Aparición de **conductas contradictorias**; descubrimiento de la propia **identidad**, del sí mismo más íntimo y del **pensamiento reflexivo**; distanciamiento respecto a la niñez |
+> | Superior / juvenil | **Maduración y consolidación de la personalidad**; fin de las contradicciones; periodo más **armónico** con el entorno (sobre todo familiar); se afianzan los cambios; **inicio de la edad adulta** |
+>
+> *Nota de edición:* una versión previa de este apunte indicaba 10–13 años para la fase temprana en chicas; se ha ajustado a 11–13 para coincidir con la presentación oficial.
 
 ---
 
@@ -106,9 +134,29 @@ El adolescente oscila entre comportamientos de niño y de adulto mientras afront
 
 **Implicación docente:** ni dramatizar (“todos están en crisis”) ni negar el malestar real. Observar, sostener límites claros y ofrecer retos alcanzables suele ser más útil que etiquetar.
 
+### 4.1. El «parto» adolescente (metáfora de Guembe y Goñi, 2004)
+
+> 📘 **Oficial.** La presentación cita a Guembe y Goñi (2004, *No se lo digas a mis padres*): el adolescente se parece a quien está «encinta» de un ser que ha de nacer a la vida adulta. Debe producirse un parto **largo y doloroso** del hombre o la mujer que lleva dentro: nace por segunda vez, pero a una nueva etapa. De ahí que se sienta raro, no sepa qué le pasa, tenga cambios de humor y sufra; de ahí también el **desconcierto, la inseguridad y la incertidumbre**.
+
+La metáfora ayuda a **comprender** conductas que desconciertan al docente («¿por qué se comporta así?», «¿por qué no me entienden?»), pero conviene usarla con la cautela del propio apartado 4: es una **crisis evolutiva necesaria, no necesariamente dramática**, y no todos los adolescentes la viven con la misma intensidad (Izco, 2007).
+
+**Para reflexionar:** el adolescente oscila entre el comportamiento del niño y el del adulto. ¿Qué señales del aula de Matemáticas (pedir ayuda como un niño, discutir una nota como un adulto) reflejan esa oscilación?
+
 ---
 
 ## 5. Dimensiones del desarrollo
+
+> 📘 **Oficial** (Izco, 2007; Strasburger y Wilson, 2002). La presentación organiza los principales cambios de la adolescencia en **cinco grandes bloques**, que estructuran este apunte:
+>
+> | # | Cambio principal | Dónde se trata |
+> |:-:|------------------|----------------|
+> | 1 | **Desarrollo físico** | §5.1 |
+> | 2 | Descubrimiento de la **identidad personal** | §6 |
+> | 3 | **Desarrollo intelectual** | §7 |
+> | 4 | Desarrollo de la **conciencia moral** | §8 |
+> | 5 | **Conquista de la autonomía personal** | §9 |
+>
+> Los agentes socializadores (familia, amigos, escuela, medios) atraviesan los cinco y se tratan en §5.2.
 
 | Dimensión | Cambios relevantes | Eco en el aula de Matemáticas |
 |-----------|--------------------|-------------------------------|
@@ -122,13 +170,50 @@ El adolescente oscila entre comportamientos de niño y de adulto mientras afront
 
 Cambios en el sistema reproductor, caracteres sexuales secundarios, fuerza, musculatura, voz, estatura (“estirón”), acné, olor corporal, menarquia, etc. Introducen al adolescente en el conocimiento de su cuerpo, la sexualidad y la búsqueda de mayor intimidad.
 
+> 📘 **Oficial.** El cambio físico abarca el sistema reproductor, los caracteres sexuales secundarios, el sistema cardiovascular y respiratorio, la fuerza y la musculatura.
+
+#### Caracteres sexuales secundarios (presentación oficial)
+
+| | **En el varón** | **En la mujer** |
+|--|-----------------|-----------------|
+| Órganos y cuerpo | Aumento del tamaño de los órganos sexuales · tórax y hombros más anchos · índice cintura/cadera menor que el de la mujer | Senos más desarrollados · acumulación de grasa en caderas y muslos (más anchos) |
+| Vello | Más grueso y largo (axilas, pecho, brazos, piernas, facial) | Menor que en el varón |
+| Crecimiento y peso | «Estirón» muy rápido · incremento de peso, masa muscular y fuerza | Pico de máxima velocidad de crecimiento **menor** que en los varones y **más temprano** (al inicio de la pubertad) · incremento de peso |
+| Piel | Acné y olor corporal | Acné y olor corporal |
+| Voz | Crecimiento de la laringe: al principio «gallos y pitos», luego voz grave; nuez más desarrollada | Voz aguda |
+| Hito | — | Primera menstruación (**menarquia**) |
+
 **Para Matemáticas:** lo relevante no es el detalle biológico, sino el impacto en **atención, energía, imagen de sí y disposición a exponerse** ante el grupo.
 
 ### 5.2. Agentes socializadores
 
 Familia, amigos, **entorno escolar** y medios de comunicación / TIC presentan modelos e ideales (aprendizaje social). La escuela puede ser **factor protector** (participación guiada, oportunidades de actuar “como adulto”, pensamiento crítico) o **factor de riesgo** (acoso, exclusión, identidad académica negativa).
 
-#### 5.2.1. Evolución de las amistades: de la pandilla unisexual a las parejas
+> 📘 **Oficial.** Los agentes socializadores presentan **modelos** (aprendizaje social o vicario) e **ideales** que motivan el proceso de socialización (Blasco, 1999). Se distinguen por el tipo de relación que establecen:
+>
+> | Agente | Tipo de relación |
+> |--------|------------------|
+> | **Familia** | Verticales y horizontales |
+> | **Amigos** | Horizontales |
+> | **Entorno escolar** | Verticales y horizontales |
+> | **Medios de comunicación** | Verticales |
+
+#### 5.2.1. La familia
+
+> 📘 **Oficial.** El adolescente siente la necesidad de lograr su **autonomía**, lo que puede llevarle a una cierta **desvinculación** de los padres; aun así, la familia sigue siendo una fuente fundamental de **seguridad y respaldo emocional**. La búsqueda de autonomía **no tiene por qué** derivar en conflicto con los padres.
+
+Las causas de conflicto familiar se desarrollan en [§9.1](#91-causas-de-conflicto-familiar-oliva-y-otros) y [§9.2](#92-causas-de-conflicto-según-la-presentación-oficial-oliva-1999).
+
+#### 5.2.2. Los amigos
+
+> 📘 **Oficial.** El **grupo** es la referencia central del adolescente, su punto de apoyo y una posible **figura de apego**. Sus funciones principales:
+>
+> - Contribuye al **refuerzo de la identidad personal**.
+> - Marca el **inicio de relaciones de intimidad** y de **reciprocidad**.
+> - Es **fuente de información**.
+> - La **elección de amistades evoluciona**: se da menos importancia al aspecto o a la posición social y más a las **características internas** de la persona.
+
+**Evolución de las amistades: de la pandilla unisexual a las parejas** (la presentación oficial cita a Oliva, 1999):
 
 Según descripciones clásicas (Dunphy, 1963; recogidas y sintetizadas por autores como Oliva), el grupo de iguales evoluciona a lo largo de la adolescencia en etapas aproximadas:
 
@@ -141,7 +226,21 @@ Esta evolución explica buena parte del peso del grupo en la adolescencia media 
 
 **Implicación docente:** en ESO el grupo de pares tiene un peso enorme en la disposición a participar, a mostrar el error o a cooperar; en Bachillerato las dinámicas de pareja y de amistad más selectiva pueden influir en la asistencia, el trabajo colaborativo y la identidad académica.
 
-#### 5.2.2. Ventajas e inconvenientes de las TIC
+#### 5.2.3. La escuela
+
+> 📘 **Oficial.** La escuela puede ser un **factor protector** —como la familia— o convertirse en un **factor de riesgo** (acoso escolar, exclusión…). Es un contexto específico de **participación guiada** (De Gispert, 1997) y un instrumento de transformación social. Influye en el desarrollo de las capacidades del adolescente, le da la posibilidad de **actuar como adulto** (p. ej. elegir los estudios que cursará) e infunde un componente **crítico** a través del conocimiento (Onrubia, 1997).
+
+**Implicación docente:** el aula de Matemáticas es un espacio de participación guiada: tareas con apoyo que se retira (véase [ZDP y andamiaje](../materiales/zdp-andamiaje-matematicas.md)) y decisiones reales del alumnado (elegir estrategia, representación o reto) refuerzan el papel protector.
+
+#### 5.2.4. Medios de comunicación y TIC
+
+> 📘 **Oficial.** Los medios de comunicación son **fuente de información y conocimiento**; permiten el **aprendizaje social** de las conductas observadas y son capaces de **modelar juicios y opiniones**. Las TIC abren nuevas formas de interacción social. La presentación plantea la pregunta de sus ventajas e inconvenientes y propone, entre otros:
+>
+> | Ventajas | Inconvenientes |
+> |----------|----------------|
+> | Establecer **redes más amplias** · buscar relaciones **más afines** (grupos de intereses) · interactuar de manera **anónima** | Posibilidad de **aislamiento** |
+
+**Desarrollo ampliado (repositorio).**
 
 Las tecnologías de la información y la comunicación (redes sociales, mensajería, plataformas de vídeo, juegos en línea, etc.) son agentes socializadores de primer orden en la adolescencia actual.
 
@@ -180,9 +279,22 @@ Esta asimetría se ha descrito a menudo con la metáfora de “un motor potente 
 
 **Importante para el docente:** este desfase es evolutivo y temporal, no una “falta de carácter”. No excusa conductas disruptivas, pero sí orienta hacia intervenciones que combinen límites claros, andamiaje de la autorregulación y reducción de la exposición punitiva al error (especialmente en público). La neurociencia educativa debe usarse con cautela: explica tendencias poblacionales, no predice el comportamiento de un alumno concreto.
 
+> 📘 **Recurso oficial.** La presentación propone el vídeo *¿Cómo funciona el cerebro de un adolescente?* (David Bueno, biólogo y genetista): <https://www.youtube.com/watch?v=v4KplEgXI9c>
+
 ---
 
 ## 6. Identidad, autoconcepto y autoestima
+
+### 6.0. La «crisis de identidad» adolescente
+
+> 📘 **Oficial.** Los adolescentes pasan, de forma casi inevitable, por una verdadera **«crisis de identidad»**: se cuestionan continuamente, incluso la **opinión que de sí mismos habían adquirido** en el pasado. Pueden **rebelarse** y rechazar cualquier valoración ajena, o estar tan **confusos e inseguros** que pidan sin parar aprobación y consejo.
+>
+> - La **identidad** es cómo se ve uno mismo **diferenciado de los demás**.
+> - Está influida por el desarrollo previo del **autoconcepto** y ligada a la **autoestima**.
+> - Se vincula a su vez con el desarrollo de la **personalidad**.
+> - Se articula en dos preguntas: **¿qué pienso de mí?** (creencias y juicios sobre uno mismo) y **¿qué siento de mí?** (componente afectivo).
+
+Para el docente, las dos respuestas extremas (rebelión frente a la valoración del adulto / búsqueda constante de aprobación) son lecturas posibles de conductas muy distintas en clase: discutir cada nota frente a preguntar «¿así está bien?» tras cada paso.
 
 ### 6.1. Erikson y Marcia
 
@@ -201,6 +313,8 @@ También existen trayectorias **regresivas** (se abandona un logro o una hipotec
 
 **Implicación docente:** un alumno que “ya ha decidido que no es de mates” puede estar en una identidad **hipotecada** o en **difusión** académica; el feedback de proceso y los logros de dominio pueden reabrir la exploración.
 
+**Para reflexionar (oficial):** ¿cuál es el **recorrido más frecuente** entre estos estatus durante la adolescencia? La presentación distingue un modelo **progresivo** (de la difusión hacia el logro), un modelo **regresivo** (se abandona una identidad lograda o hipotecada sin otro camino que explorar y se cae en difusión) y un modelo de **estancamiento** (permanencia indefinida en difusión). No todos los adolescentes recorren el camino «ideal».
+
 ### 6.2. Autoconcepto y autoestima
 
 - **Autoconcepto:** creencias sobre uno mismo (“yo real”) (Palacios, 1999).
@@ -214,6 +328,40 @@ La adolescencia es un periodo **crítico** para la autoestima. Una baja autoesti
 
 El feedback del docente —y lo que el docente no ve de su propio impacto (**área ciega**)— contribuye a consolidar o a reabrir identidades académicas frágiles (véase [Ventana de Johari](../../optativas/habilidades-comunicativas-para-docentes/materiales/ventana-de-johari-docencia-matematicas.md)).
 
+### 6.3. Autoconcepto por fases (Palacios, 1999; Harter, 1996, 1998)
+
+> 📘 **Oficial.** El autoconcepto es el conjunto de **creencias sobre uno mismo** («yo real»), afectado por los cambios del periodo (por ejemplo, los físicos).
+
+| Fase (edades orientativas) | Qué ocurre con el autoconcepto |
+|----------------------------|--------------------------------|
+| **Temprana** (≈ 11–14) | El adolescente integra características (sobre todo físicas) y **habilidades sociales** que repercuten en su relación con los demás y determinan la imagen que estos tienen de él o ella |
+| **Media** (≈ 15–17) | Aparece el **conflicto** ante características contradictorias y comportamientos incoherentes. **Influencia del contexto**: las expectativas de distintos ámbitos (familia, amigos) provocan intentos de ajuste y **confusión** sobre el «yo real». Surgen las conductas de **«falso yo»** (Harter, 1996): representaciones ante los demás para agradar, ser aceptado o explorar roles. Ejemplo de la presentación: «no entiendo cómo me llevo tan bien con mis compañeros y tan mal con mis hermanos» |
+| **Tardía** (≈ 18–21) | El **pensamiento formal** y la mayor abstracción permiten integrar un autoconcepto **coherente** con rasgos y roles, aunque sean contradictorios. Se hace consciente la diferencia entre el **«yo real»** (cómo se percibe) y el **«yo ideal»** (cómo le gustaría verse) (Harter, 1998), con posible influencia sobre la autoestima. Ejemplo: «soy flexible; seria y formal para trabajar, pero también me gusta divertirme» |
+
+**Eco en Matemáticas:** el «falso yo» explica que un alumno participe con ganas en un grupo y se calle en otro, o que finja desinterés para proteger la imagen ante los iguales.
+
+### 6.4. La autoestima: de la infancia a la adolescencia
+
+> 📘 **Oficial.** La adolescencia es uno de los periodos **más críticos** para el desarrollo de la autoestima.
+
+| | Variables a las que se liga la autoestima |
+|--|-------------------------------------------|
+| **En la infancia** | Apariencia física · rendimiento académico · relaciones con los padres |
+| **En la adolescencia** (entran nuevas variables) | **Relaciones afectivo-sexuales** · **aceptación social del grupo** · **atractivo físico** · presencia de algún tipo de **discapacidad o enfermedad** (además de las anteriores) |
+
+**Consecuencias de una baja autoestima** y su eco en el aula de Matemáticas:
+
+| Consecuencia (oficial) | Cómo puede verse en clase |
+|------------------------|---------------------------|
+| **Problemas de aprendizaje**: inseguridad, «no soy capaz», «es demasiado difícil» | Abandono del problema antes de intentarlo |
+| **Muy sensibles a la crítica** (se sienten atacados) | Reacción defensiva ante la corrección |
+| **Indecisión o pasividad** por miedo al fracaso | No empezar el ejercicio; esperar a que alguien lo resuelva |
+| **Deseo excesivo de complacer** (miedo al rechazo) | Preguntar constantemente «¿está bien?» o buscar la respuesta que el profesor quiere oír |
+| **Exageración de la magnitud de los errores** | Borrar el cuaderno entero por un fallo de signo |
+| **Tendencias depresivas** | Cambios sostenidos de ánimo o de rendimiento → observar y derivar (Tema 2 §8) |
+
+> 📘 **Recurso oficial.** Vídeo *La adolescencia y tú: ¿cómo me ven los demás?*: <https://www.youtube.com/watch?v=ZVMePQzmynY>
+
 ---
 
 ## 7. Desarrollo intelectual y pensamiento formal
@@ -224,6 +372,8 @@ Nuevas posibilidades de razonamiento en la adolescencia (García-Milá y Martí,
 2. **Mejora del procesamiento de la información:** organizar y manipular datos de forma más planificada (Flavell).
 3. **Acumulación de experiencias** que permiten nuevos conocimientos.
 4. **Metaconocimiento:** mayor conciencia de los propios pensamientos, sentimientos y valores.
+
+> 📘 **Oficial.** Jean Piaget (1896–1980), psicólogo «constructivista» suizo, es uno de los más influyentes en la psicología del desarrollo y de la educación modernas. Sus estudios se dirigían a entender el **desarrollo intelectual y cognitivo** del niño: las personas atravesamos una serie de **etapas** en el desarrollo del conocimiento (véase [§15.2 Piaget](#piaget-desarrollo-cognitivo) y el [Tema 7](07-teorias-generales-desarrollo-humano.md)). Sobre la mejora del procesamiento, Flavell (1984) destaca que el adolescente organiza y manipula la información de modo más **planificado, estratégico y eficaz**; esa mejora, junto con la acumulación de experiencias, le permite seguir **adquiriendo nuevos conocimientos**; y el metaconocimiento le hace cada vez más **consciente** de sus pensamientos, sentimientos y valores.
 
 ### 7.1. Piaget y el aula de Matemáticas
 
@@ -278,6 +428,43 @@ Críticas habituales (Gilligan y otras): peso excesivo en justicia abstracta fre
 
 → Detalle de estadios, ejemplo del móvil y puente con autorregulación: **[Desarrollo moral y aula (Kohlberg)](../materiales/desarrollo-moral-kohlberg-aula.md)**
 
+### 8.1. La Escuela de Ginebra: tres tesis (presentación oficial)
+
+> 📘 **Oficial.** La presentación sitúa a Kohlberg en la *Escuela de Ginebra* (continuadora de Piaget) y resume su propuesta en tres ideas:
+>
+> 1. **El juicio moral se articula en niveles y estadios:** razonamos de forma cualitativamente distinta en cada etapa del desarrollo; hay **3 niveles con 2 estadios** cada uno.
+> 2. **El pensamiento organiza el desarrollo moral** y, en consecuencia, la conducta: nunca se alcanzan niveles de desarrollo moral más altos que los de desarrollo intelectual.
+> 3. **El juicio moral puede mejorarse con la educación** (por ejemplo, mediante *role-taking* o asunción de roles): podemos ayudar a avanzar en el desarrollo intelectual y, por el poder organizador de la inteligencia, contribuir así al desarrollo moral.
+
+Sobre el desarrollo intelectual y moral en la adolescencia, Craig (1997) señala que a partir de la adolescencia intermedia crece la preocupación por asuntos sociales, políticos y morales, y Abadía (1998) subraya que el paso a las operaciones formales permite ser más lógico, hacer juicios morales, manejar el concepto de verdadero y falso, distinguir lo bueno de lo malo y discernir el peligro.
+
+### 8.2. Niveles y estadios con la denominación oficial
+
+| Nivel | Estadio (denominación oficial) | Idea | Denominación habitual (repo) |
+|-------|-------------------------------|------|-------------------------------|
+| **Preconvencional** (hasta ≈ 9 años) · moral **heterónoma**, relación de obediencia con la autoridad, consecuencias objetivas | **1. Obediencia** | Se obedece por **miedo al castigo** o deseo de premio | Castigo y obediencia |
+| | **2. Contraprestación** | Prima la **reciprocidad** y el interés: «ojo por ojo» (la diapositiva lo ilustra con el debate sobre la pena de muerte) | Individualismo e intercambio |
+| **Convencional** (desde ≈ 9 años; algunos adolescentes y adultos) · las normas proceden del exterior pero **se han interiorizado** | **3. Aprobación social** | Se cree en las normas del grupo al que se pertenece y del que se quiere obtener aprobación | «Buen chico / buena chica» |
+| | **4. Legalista** | El grupo se regula por leyes que han de cumplir todos; la ley es **no discutible** y está por encima de intereses individuales o de grupo | Ley y orden social |
+| **Postconvencional** · el individuo considera que las leyes son **mejorables** (se relativizan) | **5. Soberanía social** | **Relativismo** de las normas; mayor valor al **consenso del pueblo** | Contrato social y derechos |
+| | **6. Autonomía** | **Derechos humanos universales** por encima de las normas sociales | Principios éticos universales |
+
+### 8.3. Otra propuesta: valores y dos factores de progreso moral
+
+> 📘 **Oficial.** La adolescencia es la edad del **descubrimiento de valores**: aparece la preocupación por temas políticos y sociales y las normas dejan de vivirse como mandatos externos. El progreso moral lo impulsan **dos factores**:
+>
+> - el **desarrollo intelectual**: se alcanza la capacidad de formar juicios y discernir lo correcto de lo incorrecto;
+> - la **influencia del entorno familiar y cultural**: la conciencia moral (que guiará la conducta posterior) se interioriza por **reflexión**, por **imitación inconsciente** de los modelos observados y por los **sistemas de recompensa y castigo**.
+
+### 8.4. Críticas a la propuesta de Ginebra
+
+| Crítica oficial | Lectura |
+|-----------------|---------|
+| **Poco peso** a la familia, la escuela y la sociedad; escasa importancia del aprendizaje social | Complementa con §8.3 y con Bandura ([Tema 3](03-teorias-conductuales-modificacion-conducta.md)) |
+| **No tiene en cuenta los afectos** (empatía, inteligencia emocional): uno no obra solo por razones morales | Enlaza con Gilligan (ética del cuidado), ya citada arriba |
+| **¿Existe el estadio 6?** (p. ej. sociedades no democráticas) | Debate abierto sobre su universalidad |
+| *No obstante*: es la **teoría evolutiva más completa y con mayor apoyo empírico** | Úsese como marco histórico e influyente, con cautela |
+
 ---
 
 ## 9. Conquista de la autonomía
@@ -290,6 +477,10 @@ La adolescencia tiende a cerrarse (de forma gradual) con la conquista de **auton
 - mayor seguridad en uno mismo y relaciones más horizontales con adultos.
 
 La búsqueda de autonomía **no tiene por qué** derivar en conflicto permanente con la familia ni con el profesorado. Límites claros + reconocimiento de agencia suelen funcionar mejor que el control rígido o la permisividad total.
+
+> 📘 **Oficial.** El adolescente busca su **autonomía e independencia** por cuatro vías: a) la progresiva **desvinculación** de todo lo que le une a su niñez (incluida la familia), con deseos de emancipación; b) la búsqueda de **sus propios amigos**, como modo de reafirmarse y de lograr pertenencia más allá de la familia (base de exploración extrafamiliar y posibles figuras de apego); c) el descubrimiento de su **mundo interior y su intimidad** (mayor reflexión sobre sí mismo gracias al metaconocimiento); d) la ganancia de **seguridad en sí mismo** (más consciente de sus capacidades; inicio de relaciones **horizontales** con los adultos). Aumenta también su **independencia emocional** de los padres por dos motivos: el cambio en los vínculos afectivos (**apego**) y que los padres están más ocupados para atender las demandas emocionales de los hijos.
+>
+> *¿Cuándo finaliza el periodo adolescente?* La presentación lo vincula a la **conquista de la autonomía**, no a una edad concreta.
 
 ### 9.1. Causas de conflicto familiar (Oliva y otros)
 
@@ -307,9 +498,63 @@ En la mayoría de las familias el conflicto es de intensidad moderada y tiende a
 
 **Implicación en Matemáticas:** ofrecer elección (estrategia, representación, problema dentro de un abanico), responsabilizar del proceso y reducir la exposición punitiva del error apoyan una autonomía real, no solo declarada.
 
+### 9.2. Causas de conflicto según la presentación oficial (Oliva, 1999)
+
+> 📘 **Oficial.** Algunas causas de conflicto familiar que destaca la presentación y su relación con la síntesis de §9.1:
+
+| Causa (presentación oficial) | Relación con §9.1 |
+|------------------------------|-------------------|
+| **Obligaciones y asuntos cotidianos**: restricciones de horarios, ropa, etc. | Temas típicos de discusión |
+| **Desarrollo intelectual** del adolescente, que le da seguridad para **discutir con los adultos** | Mayor capacidad de argumentación |
+| **Visión más crítica de los padres**: ya no son tan perfectos como en la niñez | *(Aporte oficial no recogido antes)* |
+| **Nuevas relaciones con los iguales**, con quienes se mantienen relaciones **horizontales** | Discrepancia de objetivos y necesidades |
+| **Coincidencia temporal** de los cambios adolescentes con momentos de cambio en la vida de los padres (menopausia, «crisis de los 40»…) | Cambios en los padres *(ejemplos oficiales)* |
+| **Cambios en la institución familiar**: familias monoparentales, divorcios y separaciones, etc. | *(Aporte oficial no recogido antes)* |
+
+**Implicación docente:** al observar malestar familiar, conviene recordar que la estructura familiar (monoparental, reconstituida, etc.) **no explica por sí sola** el conflicto ni el rendimiento; es un factor de contexto entre varios. Evitar juicios y derivar al tutor/orientación cuando proceda.
+
 ---
 
-## 10. Ejemplo de aula (síntesis del tema)
+## 10. Diseño Universal para el Aprendizaje (DUA)
+
+> 📘 **Oficial** · Bloque I · Tema 1 (último apartado). Desarrollo ampliado y aplicaciones en [DUA (Procesos y contextos)](../../procesos-y-contextos-educativos/materiales/dua-diseno-universal-aprendizaje.md), [Tema 2 §10](02-diferencias-individuales-problemas-adolescencia.md) y [Diseño de tareas multinivel](../materiales/diseno-tareas-multinivel-matematicas.md).
+
+### 10.1. Qué es y de dónde viene
+
+El **Diseño Universal para el Aprendizaje (DUA)** es un enfoque de enseñanza, aprendizaje y evaluación basado en los avances sobre el aprendizaje y en las nuevas tecnologías, que busca **responder a las diferencias individuales de *todos* los estudiantes**.
+
+- Procede del **diseño universal**, un paradigma que nació en la **arquitectura** a finales de los años 70.
+- Su **objetivo** era simple: **tener en cuenta a todos los usuarios en el diseño inicial**, para que no sean necesarias adaptaciones posteriores.
+- Los **entornos accesibles** hicieron ver que la discapacidad está **en el contexto, no en el individuo**: se empezó a hablar de **«contextos discapacitantes»**, no de personas discapacitadas.
+
+### 10.2. Del «alumnado medio» al diseño para todos
+
+Habitualmente el docente programa su asignatura pensando en un **alumnado medio**: con sus prácticas tiende a **homogeneizar la heterogeneidad** del aula y acepta como natural hacer **adaptaciones curriculares** al alumnado que las necesite. La pregunta de la presentación es: ¿sería posible tener en cuenta **ya en el diseño** a todo el alumnado de modo que **no sean necesarias** adaptaciones? ¿Cómo **eliminar las barreras** al aprendizaje?
+
+*Matiz del repositorio:* el DUA **reduce** la necesidad de adaptaciones, pero no elimina siempre la de apoyos individualizados ni las medidas específicas cuando procede (véase [Tema 2 §10](02-diferencias-individuales-problemas-adolescencia.md) y [Tema 5](05-dificultades-de-aprendizaje.md)).
+
+### 10.3. Los tres principios
+
+| Principio | Pregunta | Qué propone | Ejemplo en Matemáticas |
+|-----------|:--------:|-------------|------------------------|
+| **I. Múltiples formas de REPRESENTACIÓN** | **QUÉ** del aprendizaje | Presentar contenidos e información **en distintos formatos** y con distintos apoyos: gráficos y animaciones, destacar ideas principales, activar el conocimiento previo, vocabulario de ayuda. Los estudiantes difieren en cómo perciben y comprenden la información (visual, auditiva, kinestésica, texto impreso…) | Una función presentada con **tabla, gráfica, fórmula y enunciado verbal**; glosario visual de términos |
+| **II. Múltiples medios de ACCIÓN y EXPRESIÓN** | **CÓMO** del aprendizaje | Dar **varias opciones para expresar lo que se sabe**: unos se expresan mejor por escrito y otros oralmente; otros prefieren medios visuales (p. ej. un *storytelling*) | Demostrar un procedimiento por escrito, con una explicación oral breve, con un esquema o con un vídeo corto |
+| **III. Múltiples formas de PARTICIPACIÓN / motivación** | **POR QUÉ** del aprendizaje | Ofrecer **varias formas de implicarse** y opciones que favorezcan **intereses y autonomía** (p. ej. elegir entre comentar un vídeo o un artículo sobre un tema; los alumnos eligen cosas distintas según sus intereses) | Elegir entre tres problemas equivalentes de distinto contexto; trabajar en pareja o en solitario |
+
+```mermaid
+flowchart LR
+  R[I. Representación<br/>el QUÉ] --- E[II. Acción y expresión<br/>el CÓMO] --- P[III. Participación<br/>el POR QUÉ]
+```
+
+*Figura. Los tres principios del DUA: presentar la información de diferentes modos (QUÉ), diferenciar los modos en que el alumnado puede expresar lo que sabe (CÓMO) y estimular el interés y la motivación por aprender (POR QUÉ).*
+
+El principio III enlaza directamente con la **autonomía y la competencia** del [Tema 6](06-motivacion-ensenanza-aprendizaje.md) (§6), y los principios I y II con el [andamiaje](../materiales/zdp-andamiaje-matematicas.md) y las múltiples representaciones en Matemáticas.
+
+> 📘 **Recurso oficial.** Vídeo *UDL de un vistazo*: <https://youtu.be/KNbHew448yE>
+
+---
+
+## 11. Ejemplo de aula (síntesis del tema)
 
 **Situación:** 2.º de ESO; tarea de ecuaciones con enunciado verbal; varios alumnos se niegan a salir a la pizarra; uno dice “es que soy malo en mates”.
 
@@ -324,9 +569,11 @@ En la mayoría de las familias el conflicto es de intensidad moderada y tiende a
 
 **Respuesta docente orientativa:** andamiaje (representación concreta → semiabstracta), trabajo en pareja antes de la puesta en común, feedback de estrategia (“aquí el paso clave fue…”), logros de dominio cercanos, evitar etiquetas globales.
 
+**Lectura DUA (añadida):** ante este mismo caso, un diseño universal ofrecería desde el principio **representaciones múltiples** del enunciado (esquema, tabla, enunciado oral), **varias vías de expresión** de la solución (en el cuaderno, en pareja, en una mini-pizarra) y **elección** entre problemas equivalentes, de modo que salir a la pizarra sea una opción entre varias y no la única forma de mostrar lo que se sabe.
+
 ---
 
-## 11. Actividades orientativas
+## 12. Actividades orientativas
 
 1. Describe las fases temprana, media y tardía de la adolescencia con un ejemplo de aula de Matemáticas para cada una.
 2. Explica la diferencia entre pubertad y adolescencia y por qué importa al docente.
@@ -338,6 +585,13 @@ En la mayoría de las familias el conflicto es de intensidad moderada y tiende a
 8. Resume el desfase entre sistema límbico y corteza prefrontal y su relevancia para la gestión del error en público.
 9. Describe la evolución de las amistades según las etapas de Dunphy/Oliva y cómo influye en el trabajo cooperativo.
 10. Señala dos ventajas y dos riesgos de las TIC en la adolescencia que el docente debería tener en cuenta.
+11. Los ritos de transición de otras culturas marcan un momento preciso del paso a la adultez. Compáralos con la adolescencia como «largo periodo» de las sociedades modernas y explica qué implica para un aula plural.
+12. Interpreta la metáfora del «parto» adolescente (Guembe y Goñi) y úsala para formular tres expectativas realistas sobre la conducta de un grupo de 2.º de ESO.
+13. Sitúa a un alumno ficticio en uno de los cuatro estatus de Marcia y describe qué recorrido (progresivo, regresivo o de estancamiento) sería más preocupante y por qué.
+14. Para cada consecuencia de una baja autoestima del §6.4, propón una respuesta docente concreta en clase de Matemáticas.
+15. Elige un agente socializador (familia, amigos, escuela, medios) y analiza su relación (vertical u horizontal) con el alumnado y cómo podría ser factor protector o de riesgo.
+16. Clasifica en los estadios de Kohlberg (denominación oficial) las razones que daría un grupo para «no copiar en un examen» y propón cómo trabajarías la honestidad académica.
+17. Rediseña una tarea de ecuaciones aplicando los tres principios del DUA (QUÉ, CÓMO, POR QUÉ) y explica cómo reduces la necesidad de adaptaciones posteriores.
 
 ---
 
@@ -355,6 +609,17 @@ En la mayoría de las familias el conflicto es de intensidad moderada y tiende a
 - [Guía de observación de practicum](../materiales/guia-observacion-practicum-psicologia.md)
 - [Ventana de Johari](../../optativas/habilidades-comunicativas-para-docentes/materiales/ventana-de-johari-docencia-matematicas.md)
 - [Educación emocional](../../optativas/educacion-emocional-en-el-profesorado/)
+- [DUA (Procesos y contextos)](../../procesos-y-contextos-educativos/materiales/dua-diseno-universal-aprendizaje.md) · [Diseño de tareas multinivel](../materiales/diseno-tareas-multinivel-matematicas.md)
+- [Tema 5 — Dificultades de aprendizaje](05-dificultades-de-aprendizaje.md) · [Tema 7 — Teorías generales del desarrollo](07-teorias-generales-desarrollo-humano.md) · [Tema 8 — Métodos de investigación](08-metodos-investigacion-psicologia-desarrollo.md)
+
+### Recursos audiovisuales de la presentación oficial
+
+| Recurso | Dónde encaja |
+|---------|--------------|
+| [La adolescencia y tú: ¿cómo me ven los demás?](https://www.youtube.com/watch?v=ZVMePQzmynY) | §6 Identidad y autoestima |
+| [Los adolescentes y las redes sociales](https://www.youtube.com/watch?v=Sx9kCwlq1tA) | §5.2.4 Medios y TIC |
+| [¿Cómo funciona el cerebro de un adolescente? — David Bueno](https://www.youtube.com/watch?v=v4KplEgXI9c) | §5.3 Cerebro adolescente |
+| [UDL de un vistazo](https://youtu.be/KNbHew448yE) | §10 DUA |
 
 ---
 
@@ -372,17 +637,37 @@ En la mayoría de las familias el conflicto es de intensidad moderada y tiende a
 - García-Milá, M., y Martí, E. (1997). Desarrollo del razonamiento en la adolescencia.
 - Steinberg, L. (y otros). Trabajos sobre el desfase madurativo entre sistema socioemocional y control cognitivo en la adolescencia.
 
+### Referencias de la presentación oficial (Bloque I · Tema 1)
+
+- Castillo, G. (1999). *El adolescente y sus retos. La aventura de hacerse mayor*. Madrid: Pirámide.
+- Castillo, G. (2003). *Claves para entender a mi hijo adolescente*. Madrid: Pirámide.
+- Coleman, J. C. y Hendry, L. B. (2003). *Psicología de la adolescencia*. Madrid: Morata.
+- Fierro, A. (1990). La construcción de la identidad personal. En E. Martí y J. Onrubia (Coords.), *Psicología del desarrollo: el mundo del adolescente*. Barcelona: ICE Horsori.
+- Flavell, J. H. (1984). *El desarrollo cognitivo*. Madrid: Visor.
+- García-Milà, M. y Martí, E. (1997). El pensamiento del adolescente. En E. Martí y J. Onrubia (Coords.), *Psicología del desarrollo: el mundo del adolescente*. Barcelona: ICE Horsori.
+- Guembe, P. y Goñi, C. (2004). *No se lo digas a mis padres*. Barcelona: Ariel.
+- Harter, S. (1999). *The construction of the self: a developmental perspective*. Guilford Press.
+- Izco, E. (2007). *Los adolescentes en la planificación de medios. Segmentación y conocimiento del target* (Tesis doctoral). Universidad de Navarra.
+- López, F., Etxebarria, I., Fuentes, M. J. y Ortiz, M. J. (Eds.) (2001). *Desarrollo afectivo y social*. Madrid: Pirámide.
+- Oliva, A. (1999). Desarrollo de la personalidad durante la adolescencia. En J. Palacios, A. Marchesi y C. Coll (Comps.), *Desarrollo psicológico y educación. 1. Psicología evolutiva*. Madrid: Alianza.
+- Oliva, A. y Parra, A. (2004). Contexto familiar y desarrollo psicológico durante la adolescencia. En E. Arranz (Ed.), *Familia y desarrollo psicológico* (pp. 96-123). Madrid: Pearson Educación.
+- Palacios, J. y Oliva, A. (1999). Desarrollo psicológico durante la adolescencia. En J. Palacios, A. Marchesi y C. Coll (1999), *Desarrollo psicológico y educación. 1. Psicología evolutiva*. Madrid: Alianza.
+- Secadas, F. y Serrano, G. (1981). *Psicología evolutiva*. Barcelona: CEAC.
+- Strasburger, V. C. y Wilson, B. J. (2002). *Children, Adolescents & the Media*. Sage Publications.
+
+*Otras fuentes citadas en el texto de la presentación:* Abadía (1998), Blasco (1999), Craig (1997), De Gispert (1997), Larson y Wilson (2004), Marcia (1966), Onrubia (1997).
+
 ---
 
 # AMPLIACIÓN DEL TEMA: FUNDAMENTOS DE LA PSICOLOGÍA DEL DESARROLLO
 
 > **Nota editorial:** los apartados anteriores se conservan. Los contenidos siguientes se añaden como ampliación para cubrir fundamentos generales de la psicología evolutiva que ayudan a contextualizar la adolescencia y a interpretar el desarrollo del alumnado de ESO. Las síntesis teóricas se presentan como marcos explicativos, no como descripciones universales de cada estudiante.
 
-## 12. Qué estudia la psicología del desarrollo
+## 13. Qué estudia la psicología del desarrollo
 
 La psicología del desarrollo analiza los cambios y las continuidades de las personas a lo largo del ciclo vital. Su objeto no se limita a la infancia: incluye la adolescencia, la adultez y la vejez. Busca **describir** qué cambia, **explicar** por qué cambia, **predecir** en qué condiciones pueden aparecer determinados cambios y **promover** contextos que favorezcan el desarrollo.
 
-### 12.1. Principales áreas de desarrollo
+### 13.1. Principales áreas de desarrollo
 
 | Área | Qué estudia | Ejemplo relevante para la ESO |
 |---|---|---|
@@ -395,7 +680,7 @@ La psicología del desarrollo analiza los cambios y las continuidades de las per
 
 Estas áreas están relacionadas. Una dificultad que parece exclusivamente cognitiva puede estar influida por la ansiedad, la falta de sueño, el dominio lingüístico, la experiencia previa o el contexto social. Por ello, no conviene atribuir una conducta a una sola causa sin recoger más información.
 
-### 12.2. Desarrollo, maduración, aprendizaje y socialización
+### 13.2. Desarrollo, maduración, aprendizaje y socialización
 
 - **Desarrollo:** conjunto de cambios y continuidades a lo largo del tiempo, resultado de la interacción de múltiples procesos.
 - **Maduración:** cambios vinculados a procesos biológicos que siguen patrones relativamente regulares, aunque con variabilidad individual.
@@ -404,9 +689,9 @@ Estas áreas están relacionadas. Una dificultad que parece exclusivamente cogni
 
 No son sinónimos ni procesos aislados. La maduración puede abrir posibilidades, pero el aprendizaje, la práctica, la enseñanza y el entorno influyen en cómo se desarrollan. La edad por sí sola no garantiza que una competencia esté adquirida.
 
-## 13. Principios y debates fundamentales
+## 14. Principios y debates fundamentales
 
-### 13.1. Herencia y ambiente: una interacción, no una disyuntiva simple
+### 14.1. Herencia y ambiente: una interacción, no una disyuntiva simple
 
 El desarrollo surge de la interacción entre factores biológicos y ambientales. La herencia influye en disposiciones y ritmos, mientras que las experiencias, la cultura, las relaciones y las oportunidades contribuyen a configurar las trayectorias individuales.
 
@@ -414,20 +699,20 @@ Evítese presentar el debate como una elección absoluta entre “todo es innato
 
 **Aplicación docente:** el rendimiento actual no debe interpretarse como un límite fijo de capacidad. Las oportunidades de aprendizaje, la calidad de la instrucción, la práctica y el apoyo pueden modificar las competencias.
 
-### 13.2. Continuidad y discontinuidad
+### 14.2. Continuidad y discontinuidad
 
 - **Continuidad:** el desarrollo se entiende como un proceso gradual y acumulativo, en el que los cambios cuantitativos se construyen a lo largo del tiempo.
 - **Discontinuidad:** el desarrollo incluye reorganizaciones cualitativas, transiciones o etapas en las que aparecen formas de pensar y actuar diferentes.
 
 Son perspectivas que pueden iluminar aspectos distintos. Algunos cambios son graduales; otros parecen concentrarse en transiciones. No debe suponerse que todos los dominios cambian al mismo ritmo ni que todo el alumnado atraviesa etapas de forma idéntica.
 
-### 13.3. Estabilidad y cambio
+### 14.3. Estabilidad y cambio
 
 Algunas características muestran continuidad, mientras que otras cambian según la edad y las experiencias. La identidad personal puede mantener cierta coherencia y, a la vez, revisarse a partir de nuevas relaciones, responsabilidades y aprendizajes.
 
 En el aula, una dificultad presente en un momento determinado no equivale a un rasgo inmutable. Conviene observar la evolución y las condiciones en las que el estudiante trabaja mejor o peor.
 
-### 13.4. Periodos críticos, periodos sensibles y plasticidad
+### 14.4. Periodos críticos, periodos sensibles y plasticidad
 
 - **Periodo crítico:** intervalo delimitado en el que cierta experiencia resulta necesaria para que se produzca un desarrollo específico. El concepto debe utilizarse con precisión y no extenderse automáticamente a cualquier aprendizaje escolar.
 - **Periodo sensible:** etapa en la que determinadas experiencias pueden tener una influencia especialmente intensa, sin que ello implique que después resulte imposible aprender.
@@ -435,7 +720,7 @@ En el aula, una dificultad presente en un momento determinado no equivale a un r
 
 La plasticidad no significa que todo sea fácil ni que cualquier intervención produzca los mismos resultados. Significa que el desarrollo admite cambios y que las oportunidades educativas importan.
 
-### 13.5. Desarrollo normativo y no normativo
+### 14.5. Desarrollo normativo y no normativo
 
 - **Influencias normativas relacionadas con la edad:** acontecimientos o cambios frecuentes en un tramo evolutivo, como la pubertad.
 - **Influencias normativas históricas o generacionales:** experiencias compartidas por personas que crecen en un mismo contexto histórico, como la expansión de las redes sociales.
@@ -443,17 +728,17 @@ La plasticidad no significa que todo sea fácil ni que cualquier intervención p
 
 Estas categorías ayudan a comprender que el alumnado comparte algunas transiciones, pero también puede vivir circunstancias particulares que afectan a su aprendizaje y bienestar. No autorizan al docente a diagnosticar ni a inferir una historia personal a partir de una conducta aislada.
 
-### 13.6. Diferencias individuales y trayectorias múltiples
+### 14.6. Diferencias individuales y trayectorias múltiples
 
 El desarrollo presenta variabilidad en el ritmo, el orden y la expresión de los cambios. Dos adolescentes de la misma edad pueden diferir en maduración física, vocabulario, autorregulación, razonamiento, experiencia cultural y oportunidades educativas.
 
 **Consecuencia para la enseñanza:** la edad y el curso escolar son referencias útiles para planificar, no instrumentos suficientes para conocer el nivel de cada alumno. La evaluación inicial, la observación y el diseño de apoyos deben completar esas referencias.
 
-## 14. Principales modelos teóricos del desarrollo
+## 15. Principales modelos teóricos del desarrollo
 
 Las teorías no son descripciones completas de la realidad, sino marcos que destacan mecanismos diferentes. Algunas ponen el acento en el aprendizaje observable; otras, en los cambios cognitivos, los conflictos psicosociales o la influencia de los sistemas sociales.
 
-### 14.1. Modelos mecanicistas y conductuales
+### 15.1. Modelos mecanicistas y conductuales
 
 Conciben el cambio principalmente como resultado de la experiencia, el aprendizaje y las contingencias ambientales. Suelen estudiar conductas observables y las condiciones que las aumentan o reducen.
 
@@ -466,7 +751,7 @@ Conciben el cambio principalmente como resultado de la experiencia, el aprendiza
 
 **Límite del modelo:** las explicaciones basadas solo en estímulos y respuestas pueden dejar en segundo plano la interpretación subjetiva, los procesos cognitivos y el contexto cultural. Las versiones contemporáneas del aprendizaje social incorporan procesos cognitivos.
 
-### 14.2. Modelos organicistas y teorías de etapas
+### 15.2. Modelos organicistas y teorías de etapas
 
 Consideran que el desarrollo implica reorganizaciones internas y cambios cualitativos. Las teorías de etapas describen secuencias relativamente ordenadas, aunque la edad de aparición y la expresión de cada cambio pueden variar.
 
@@ -515,7 +800,7 @@ El **equilibrio** entre ambos procesos ayuda a explicar cómo se reorganiza el c
 
 **Lectura crítica:** las edades y etapas de Piaget son aproximaciones teóricas, no etiquetas diagnósticas. El desempeño depende del contenido, la familiaridad, el lenguaje, la instrucción y los apoyos disponibles. El pensamiento formal no aparece automáticamente en todas las tareas al cumplir cierta edad.
 
-### 14.3. Modelos socioculturales y contextuales
+### 15.3. Modelos socioculturales y contextuales
 
 Estos enfoques subrayan que el desarrollo se produce en interacción con otras personas, herramientas culturales, instituciones y condiciones históricas.
 
@@ -547,7 +832,7 @@ Urie Bronfenbrenner planteó que el desarrollo se entiende atendiendo a sistemas
 
 El alumnado no se desarrolla aislado: una dificultad puede estar relacionada con la interacción entre distintos contextos. El modelo no implica que el docente conozca automáticamente esos factores, sino que debe evitar explicar todo por la voluntad o la personalidad del estudiante.
 
-### 14.4. Comparación sintética de los modelos
+### 15.4. Comparación sintética de los modelos
 
 | Modelo | Qué destaca | Pregunta típica | Precaución |
 |---|---|---|---|
@@ -560,11 +845,11 @@ El alumnado no se desarrolla aislado: una dificultad puede estar relacionada con
 
 Ningún modelo, por sí solo, explica todo el desarrollo. Para analizar una situación educativa conviene combinar perspectivas de manera razonada, distinguiendo observaciones de hipótesis.
 
-## 15. Métodos de investigación en psicología del desarrollo
+## 16. Métodos de investigación en psicología del desarrollo
 
 El conocimiento del desarrollo se construye mediante métodos sistemáticos. Es importante distinguir los diseños que estudian cambios en el tiempo de los métodos que recogen información.
 
-### 15.1. Diseño longitudinal
+### 16.1. Diseño longitudinal
 
 Se estudia a las mismas personas en distintos momentos.
 
@@ -579,7 +864,7 @@ Se estudia a las mismas personas en distintos momentos.
 - Las personas pueden cambiar por la experiencia de participar en el estudio.
 - Es difícil separar los efectos de la edad de los cambios históricos si el diseño no los controla.
 
-### 15.2. Diseño transversal
+### 16.2. Diseño transversal
 
 Se comparan grupos de edades distintas en un mismo momento.
 
@@ -591,11 +876,11 @@ Se comparan grupos de edades distintas en un mismo momento.
 - No muestra directamente el cambio individual.
 - Las diferencias entre grupos pueden deberse a experiencias generacionales, culturales o educativas, y no solo a la edad.
 
-### 15.3. Diseño secuencial
+### 16.3. Diseño secuencial
 
 Combina componentes longitudinales y transversales: estudia varios grupos de edad y realiza mediciones repetidas en el tiempo. Puede ayudar a distinguir los efectos de la edad, la generación y el momento histórico, aunque requiere diseños y análisis más complejos.
 
-### 15.4. Efectos de edad, cohorte y momento histórico
+### 16.4. Efectos de edad, cohorte y momento histórico
 
 - **Efecto de edad:** cambio asociado al proceso de desarrollo.
 - **Efecto de cohorte:** diferencia relacionada con haber nacido o crecido en una generación concreta.
@@ -603,7 +888,7 @@ Combina componentes longitudinales y transversales: estudia varios grupos de eda
 
 **Ejemplo:** una diferencia entre adolescentes de dos edades en el uso de redes puede reflejar edad, pero también el acceso a dispositivos, cambios en las plataformas o normas familiares distintas. No debe atribuirse automáticamente al desarrollo evolutivo.
 
-### 15.5. Otros métodos de recogida de información
+### 16.5. Otros métodos de recogida de información
 
 | Método | Qué aporta | Precaución |
 |---|---|---|
@@ -616,11 +901,11 @@ Combina componentes longitudinales y transversales: estudia varios grupos de eda
 
 El profesorado puede observar y registrar información educativa, pero no debe convertir observaciones informales en diagnósticos clínicos. Si existe preocupación relevante por el bienestar o el desarrollo, se siguen los procedimientos del centro y se consulta a los profesionales competentes.
 
-## 16. Psicología de la educación: relación con la psicología del desarrollo
+## 17. Psicología de la educación: relación con la psicología del desarrollo
 
 La psicología del desarrollo estudia cómo cambian las personas; la **psicología de la educación** estudia los procesos psicológicos que intervienen en situaciones educativas y cómo utilizar ese conocimiento para comprender y mejorar la enseñanza y el aprendizaje. Ambas disciplinas se complementan.
 
-### 16.1. El triángulo educativo
+### 17.1. El triángulo educativo
 
 Una forma de representar la situación educativa es el triángulo formado por **docente, estudiante y contenido**:
 
@@ -632,7 +917,7 @@ La relación no es lineal. El docente interpreta el contenido y diseña situacio
 
 **Aplicación a Matemáticas:** una respuesta incorrecta puede deberse a una concepción previa, a un enunciado lingüísticamente complejo, a una representación poco clara, a una estrategia inadecuada o a ansiedad. La intervención debería partir del análisis de la tarea y de la respuesta, no de la etiqueta “no se esfuerza”.
 
-### 16.2. Antecedentes históricos de la psicología de la educación
+### 17.2. Antecedentes históricos de la psicología de la educación
 
 La psicología de la educación se ha configurado mediante aportaciones de la pedagogía, la filosofía y la investigación psicológica. Algunas referencias históricas útiles son:
 
@@ -645,7 +930,7 @@ La psicología de la educación se ha configurado mediante aportaciones de la pe
 
 A lo largo del tiempo, la disciplina ha pasado de enfoques centrados principalmente en la conducta observable a perspectivas que también estudian la cognición, la construcción de significados, la interacción social, la motivación y el contexto.
 
-### 16.3. Variables del estudiante
+### 17.3. Variables del estudiante
 
 Entre las variables que influyen en el aprendizaje se encuentran:
 
@@ -660,7 +945,7 @@ Entre las variables que influyen en el aprendizaje se encuentran:
 
 Estas variables interactúan entre sí. Por ejemplo, la ansiedad puede reducir los recursos disponibles para resolver un problema; un fracaso repetido puede alterar las expectativas; y una experiencia de éxito con apoyo puede modificar las creencias sobre la propia capacidad.
 
-### 16.4. Variables de la enseñanza y del contexto
+### 17.4. Variables de la enseñanza y del contexto
 
 La actividad del profesor y las condiciones de aula también influyen en el aprendizaje:
 
@@ -676,13 +961,13 @@ La actividad del profesor y las condiciones de aula también influyen en el apre
 
 No existe una estrategia universalmente eficaz con independencia del objetivo, el contenido y el alumnado. La decisión didáctica debe responder a una necesidad identificada y revisarse a partir de evidencias del aprendizaje.
 
-### 16.5. Expectativas docentes y efecto Pigmalión
+### 17.5. Expectativas docentes y efecto Pigmalión
 
 Las expectativas del profesorado pueden influir en las oportunidades, el tipo de interacción y el feedback que recibe cada estudiante. Si se espera más de alguien, puede recibir más tiempo de espera, preguntas más ricas o más oportunidades de revisión; si se le considera incapaz, puede recibir menos oportunidades para demostrar progreso.
 
 El llamado **efecto Pigmalión** alude a la influencia potencial de las expectativas sobre el rendimiento. No significa que las expectativas por sí solas determinen los resultados ni que todo fracaso se deba al docente. La aplicación responsable consiste en revisar las prácticas para que las expectativas sean altas, realistas y acompañadas de apoyos efectivos.
 
-### 16.6. Constructivismo y aprendizaje significativo
+### 17.6. Constructivismo y aprendizaje significativo
 
 Las perspectivas constructivistas entienden que aprender no consiste simplemente en copiar información, sino en relacionar lo nuevo con conocimientos previos y reorganizar las propias ideas.
 
@@ -695,13 +980,13 @@ El aprendizaje por descubrimiento no significa dejar al alumnado sin guía. La e
 
 **Ejemplo matemático:** antes de introducir una regla formal sobre proporcionalidad, el docente puede explorar las intuiciones del alumnado con tablas, diagramas y casos contrastados; después explicita relaciones, vocabulario y procedimientos, y finalmente propone práctica guiada e independiente.
 
-### 16.7. Clima de aula y aprendizaje entre iguales
+### 17.7. Clima de aula y aprendizaje entre iguales
 
 La interacción entre estudiantes puede favorecer explicaciones, comparación de estrategias, argumentación y sentido de pertenencia. Para que el trabajo cooperativo funcione, la tarea debe requerir contribuciones significativas, los roles han de ser claros y debe comprobarse el aprendizaje individual.
 
 El clima de aula no equivale a ausencia de exigencia. Un entorno seguro permite equivocarse, recibir correcciones y asumir retos, manteniendo criterios académicos claros y normas consistentes.
 
-## 17. Guía práctica para interpretar una conducta sin etiquetar
+## 18. Guía práctica para interpretar una conducta sin etiquetar
 
 Ante una conducta preocupante o una dificultad de aprendizaje, conviene seguir un proceso de análisis antes de sacar conclusiones.
 
@@ -715,7 +1000,7 @@ Ante una conducta preocupante o una dificultad de aprendizaje, conviene seguir u
 
 Este procedimiento no sustituye una evaluación especializada. Ayuda a que las decisiones docentes sean más descriptivas, ajustadas y revisables.
 
-## 18. Síntesis para el examen
+## 19. Síntesis para el examen
 
 - La psicología del desarrollo estudia cambios y continuidades durante todo el ciclo vital.
 - El desarrollo integra dimensiones biológicas, cognitivas, lingüísticas, emocionales, sociales y morales.
@@ -728,7 +1013,7 @@ Este procedimiento no sustituye una evaluación especializada. Ayuda a que las d
 - Las teorías sirven para formular hipótesis educativas, no para etiquetar a una persona ni para predecir de forma infalible su comportamiento.
 - En la ESO, el conocimiento del desarrollo debe traducirse en expectativas realistas, apoyos ajustados, oportunidades de autonomía, evaluación continua y respeto por la diversidad.
 
-## 19. Actividades de ampliación
+## 20. Actividades de ampliación
 
 1. Explica con un ejemplo la diferencia entre maduración, desarrollo, aprendizaje y socialización.
 2. Describe un caso escolar en el que interactúen factores biológicos, cognitivos, emocionales y sociales.
@@ -743,7 +1028,7 @@ Este procedimiento no sustituye una evaluación especializada. Ayuda a que las d
 11. Identifica dos formas en que las expectativas docentes pueden modificar las oportunidades de aprendizaje y cómo revisarlas de forma justa.
 12. Ante un alumno que evita resolver problemas en público, formula tres hipótesis distintas y señala qué información necesitarías para evaluarlas sin diagnosticar.
 
-## 20. Referencias complementarias para la ampliación
+## 21. Referencias complementarias para la ampliación
 
 Las referencias de este apartado se ofrecen como orientación para profundizar en las teorías y métodos añadidos. Conviene verificar la edición y los datos bibliográficos exactos antes de incorporarlos a una bibliografía académica definitiva.
 
