@@ -1,6 +1,6 @@
 # 29 - Crisis de la abstracción matemática e integración tutorial: Un Programa de Acción Tutorial multinivel contra la ilusión de competencia y la burocratización del pensamiento
 
-**Versión actualizada – Ciclo 2 (26 octubre 2026)**  
+**Versión actualizada – Ciclo 5 (27 octubre 2026)**  
 TFM – Máster de Profesorado de Educación Secundaria (especialidad Matemáticas)  
 Universidad de Zaragoza (UNIZAR)  
 Extensión objetivo: ≈ 100 páginas | Plazo: 2 meses | Citación: APA-7
@@ -139,17 +139,26 @@ Referencias + Anexos
 
 ---
 
-## 12. Estado actual (Ciclo 2)
+## 12. Estado actual (Ciclo 5 – 27 octubre 2026)
 
-- Arquitectura conceptual y estructural completa.  
-- Capítulo 1 en versión lista para entregar.  
-- Instrumentos principales especificados (redacción íntegra en Ciclo 3).  
-- Bibliografía solo con DOI verificables.  
-- Confirmación del centro de prácticas: aplazada (no bloqueante).
+- Arquitectura conceptual y estructural completa.
+- Capítulo 1 (problema, preguntas, hipótesis, objetivos) cerrado.
+- Borrador sustancial del Capítulo 2 (marco teórico) y borrador completo del Capítulo 3 (metodología).
+- Matriz de operacionalización finalizada.
+- **Instrumentos operativos íntegros** redactados y listos para adaptar:
+  - Prueba de calibración (ítems + rúbrica de justificación 0-3).
+  - AMAS situacional adaptada (12 ítems).
+  - Rúbrica de unidad multinivel (5 criterios).
+  - Cuestionario breve de carga administrativa.
+  - Guion de grupo focal docente.
+- **Anexos operativos** disponibles: consentimiento informado, protocolo de derivación por ansiedad y plantilla de Informe ejecutivo de racionalización administrativa.
+- PDF consolidado del estado actual del TFM generado.
+- Confirmación del centro de prácticas: pendiente (no bloqueante para el desarrollo documental).
 
 **Hilo conductor único**  
 Proteger deliberadamente la carga cognitiva germana necesaria para el pensamiento abstracto formal frente a la ilusión de competencia generada por la hiper-concreción, la externalización cognitiva y la burocratización docente.
 
 ---
 
-*Documento vivo. Se actualiza en cada ciclo de la investigación.*
+*Documento vivo. Se actualiza en cada ciclo de la investigación. Material completo de desarrollo en la carpeta de investigación del proyecto.*
+
