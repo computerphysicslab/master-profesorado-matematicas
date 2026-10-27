@@ -1,8 +1,6 @@
 # Tema 4 — Psicología positiva, bienestar y desarrollo positivo adolescente
 
 > **Asignatura:** Educación emocional del profesorado  
-> **Material base:** apuntes previos del tema + `Sesión 4.pdf` + transcripción `2026-10-27-Emocional.txt`.  
-> **Nota de integración:** se conservan los contenidos previos del tema (introducción, tabla de ideas útiles, optimismo y estilos atributivos) y se amplían con los constructos, modelos y aplicaciones prácticas trabajados en la Sesión 4 y en la transcripción. Se evita duplicar definiciones: cuando un concepto ya estaba introducido, se completa con matices, ejemplos y conexiones.
 
 ---
 
