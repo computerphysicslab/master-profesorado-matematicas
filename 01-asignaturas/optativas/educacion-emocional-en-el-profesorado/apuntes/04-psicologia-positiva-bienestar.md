@@ -482,8 +482,6 @@ Compartir materiales entre profesorado no es regalar trabajo: es evitar que 500 
 
 ## 8. Referencias y materiales
 
-- `Sesión 4.pdf`: “Gestión Emocional: Pensamientos, Modelos Psicología Positiva. Automotivación”.
-- Transcripción de clase `2026-10-27-Emocional.txt`.
 - Lazarus, R. S. y Folkman, S.: *Estrés y procesos cognitivos*.
 - Sandín, B. (1999): modelo procesual del estrés.
 - Bandura, A. (1986): teoría de la autoeficacia.
