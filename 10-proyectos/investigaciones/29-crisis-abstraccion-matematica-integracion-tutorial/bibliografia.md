@@ -1,4 +1,4 @@
-# bibliografia.md — Corpus acumulativo (Ciclo 3)
+# bibliografia.md — Corpus acumulativo (Ciclo 4)
 
 Todas las referencias han sido verificadas con DOI activo o identificador oficial.  
 Formato APA-7. Se añaden; nunca se eliminan en silencio.
@@ -60,4 +60,4 @@ Medrano, J., & Miller-Cotto, D. (2025). Understanding working memory as a facili
 ---
 
 **Notas**  
-Corpus completo hasta Ciclo 3. No se han descartado referencias.
+Corpus completo hasta Ciclo 4. No se han descartado referencias.

@@ -1,27 +1,31 @@
-# siguiente_ciclo.md — Ciclo 3 → Ciclo 4
+# siguiente_ciclo.md — Ciclo 5 → Ciclo 6 / Cierre documental
 
 ## Acciones prioritarias
 
-1. **Redacción íntegra del Capítulo 2 (marco teórico)** en prosa académica formal (28-32 páginas objetivo).
-2. **Ajuste de instrumentos** cuando se confirme el centro y el curso concreto del grupo.
-3. **Borrador del Capítulo 3 – Metodología** completo.
-4. **Anexos prioritarios**:
-   - Modelo de consentimiento informado.
-   - Protocolo de derivación por ansiedad.
-   - Plantilla de Informe ejecutivo de racionalización administrativa.
-5. **Matriz de operacionalización** en formato tabla final.
+1. **Cuando se confirme el centro**:
+   - Ajustar los ítems de la prueba de calibración al contenido exacto del curso/grupo.
+   - Fijar tamaño muestral y calendario real de las 6-8 semanas.
+   - Validar con el tutor del centro y el orientador el consentimiento y el protocolo de derivación.
 
-## Lagunas pendientes
+2. **Cierre documental previo al trabajo de campo** (recomendado):
+   - Actualizar el PDF consolidado del TFM incorporando Instrumentos + Anexos.
+   - Redactar versión final del Capítulo 1 (Introducción) si se desea mayor extensión.
+   - Preparar plantillas vacías de Capítulos 4 (Resultados) y 5 (Discusión) con la estructura ya definida.
 
-- Confirmación del centro de prácticas y tamaño muestral real.
-- Ajuste fino del contenido de la prueba de calibración al currículum del grupo.
-- Posible necesidad de pilotaje breve de la AMAS situacional.
-- Textos legales de referencia LOMLOE / currículo de Aragón.
+3. **Opcional**:
+   - Expansión del Capítulo 2 (marco teórico) añadiendo más desarrollo y citas de apoyo.
+   - Revisión de coherencia global y estilo APA-7 en todo el documento.
+
+## Lagunas que solo se cierran con el centro
+
+- Contenido curricular concreto.
+- Número real de alumnos y docentes participantes.
+- Fechas exactas de pretest, sesiones tutoriales y postest.
 
 ## Criterio de calidad
 
-- Instrumentos fotocopiables y aplicables.
-- Capítulo 2 con cero relleno y solo fuentes verificables.
-- Actualización obligatoria de los tres documentos de persistencia al cierre.
+- Instrumentos y anexos listos para uso inmediato.
+- Cero referencias no verificables.
+- Documentación completa y coherente para iniciar el Prácticum en cuanto se abra la puerta del centro.
 
-**Fecha interna recomendada**: 7-10 días.
+**Estado**: El trabajo documental preparatorio está prácticamente cerrado. El siguiente salto cualitativo depende de la entrada al centro de prácticas.
