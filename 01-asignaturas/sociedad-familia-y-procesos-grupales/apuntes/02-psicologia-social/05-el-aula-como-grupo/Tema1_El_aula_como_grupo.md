@@ -1,12 +1,11 @@
 # Tema 1: El aula como grupo
 
-**Máster Universitario en Profesorado de Educación Secundaria**
-
-**Asignatura:** Sociedad, Familia y Procesos Grupales
-
-**Bloque:** El aula como grupo · dinamización de procesos grupales participativos
-
+**Máster Universitario en Profesorado de Educación Secundaria**  
+**Asignatura:** Sociedad, Familia y Procesos Grupales  
+**Bloque:** El aula como grupo · dinamización de procesos grupales participativos  
 **Continúa en:** [Tema 2 — Relaciones de poder, influencia y liderazgo](../06-relaciones-de-poder-en-el-aula/Tema2_Relaciones_de_poder_en_el_aula.md)
+
+---
 
 ## 1. Introducción
 
@@ -14,25 +13,28 @@ El aula no es solo un espacio físico donde se transmiten contenidos. Es un **gr
 
 Este tema se enmarca en el bloque de **Psicología Social**. El análisis del grupo-clase se sitúa entre el individuo y la sociedad más amplia: conecta socializaciones primarias (familia) y secundarias (escuela, iguales) con dinámicas institucionales.
 
-La guía de la asignatura pide **técnicas grupales cognitivas, conativas y emocionales** para dinamizar el grupo-clase. Este apunte desarrolla esa distinción, los criterios de uso y los **límites del rol docente**.
+La guía de la asignatura pide **técnicas grupales cognitivas, conativas y emocionales** para dinamizar el grupo-clase. Este apunte desarrolla esa distinción, los criterios de uso, los **límites del rol docente**, así como la prevención de riesgos relacionales graves como el acoso y los marcos institucionales de convivencia.
 
-**Pregunta que une el tema:** cómo las **condiciones del grupo** (estructura, espacio, normas, roles, tarea) influyen en lo que cada persona puede hacer y en lo que sucede entre ellas —notablemente más allá de clasificar quién es "activo" o "pasivo".
+**Pregunta que une el tema:** cómo las **condiciones del grupo** (estructura, espacio, normas, roles, tarea) influyen en lo que cada persona puede hacer y en lo que sucede entre ellas —no solo “quién es activo o pasivo”.
+
+---
 
 ## 2. Niveles de análisis: intra e inter
 
-Los prefijos **intra** (dentro de una unidad) e **inter** (entre unidades) cambian de sentido según se analicen **personas** o **grupos**. Conviene indicar siempre el nivel de observación para evitar sesgos individualizadores.
+Los prefijos **intra** (dentro de una unidad) e **inter** (entre unidades) cambian de sentido según se analicen **personas** o **grupos**. Conviene indicar siempre el nivel.
 
-| 
+| Nivel | Unidad de análisis | Qué observa | Ejemplo en mates |
+|-------|--------------------|-------------|------------------|
+| **Intrapersonal** | Una persona | Interpretaciones, emociones, anticipaciones | Temor a equivocarse al salir a la pizarra |
+| **Interpersonal** | Relación entre personas | Ayuda, corrección, burla, escucha | Una compañera se ríe del error |
+| **Intragrupal** | Dentro de *un* grupo | Normas, roles, cohesión, participación del grupo-clase | Norma implícita de “no levantar la mano” |
+| **Intergrupal** | Entre grupos | Competencia, estereotipos, alianzas | “Los de B son los listos”; rivalidad entre clases |
 
-| **Nivel** | **Unidad de análisis** | **Qué observa** | **Ejemplo en mates / aula** | 
-| **Intrapersonal** | Una persona | Interpretaciones, emociones, anticipaciones | Temor individual a equivocarse al salir a la pizarra | 
-| **Interpersonal** | Relación entre personas | Ayuda, corrección, burla, escucha directa | Una compañera se ríe del error de otra | 
-| **Intragrupal** | Dentro de *un* grupo | Normas, roles, cohesión, participación del grupo-clase | Norma implícita del grupo: “no levantar la mano si no estás seguro” | 
-| **Intergrupal** | Entre grupos | Competencia, estereotipos, alianzas | “Los de la clase B son los listos”; rivalidad entre secciones | 
+**Ejemplo integrado:** una alumna teme equivocarse (**intrapersonal**). Si alguien se burla, hay una relación **interpersonal**. Si la clase consolida “mejor no participar”, hay un proceso **intragrupal**. Si dos clases se atribuyen rasgos opuestos, el análisis es **intergrupal**.
 
-**Ejemplo integrado:** una alumna teme equivocarse (**intrapersonal**). Si alguien se burla, hay una relación **interpersonal**. Si la clase consolida la cultura de “mejor no participar para no destacar”, hay un proceso **intragrupal**. Si dos clases se atribuyen rasgos opuestos, el análisis es **intergrupal**.
+Los niveles se relacionan, pero **no se confunden**: una experiencia individual puede estar mediada por normas del grupo; las actuaciones individuales alimentan el funcionamiento colectivo.
 
-Los niveles se relacionan, pero **no se confunden**: una experiencia individual está mediada por normas del grupo; las actuaciones individuales alimentan el funcionamiento colectivo.
+---
 
 ## 3. Concepto de grupo y el grupo-clase
 
@@ -40,17 +42,13 @@ Los niveles se relacionan, pero **no se confunden**: una experiencia individual 
 
 Conjunto de personas que:
 
-* interaccionan de forma relativamente estable;
+- interaccionan de forma relativamente estable;
+- comparten objetivos, normas o intereses (a menudo implícitos);
+- desarrollan sentido de pertenencia (*nosotros*);
+- **se influyen mutuamente** (interdependencia);
+- generan estructura (roles, estatus, liderazgo, redes).
 
-* comparten objetivos, normas o intereses (a menudo implícitos);
-
-* desarrollan sentido de pertenencia (*nosotros*);
-
-* **se influyen mutuamente** (interdependencia);
-
-* generan estructura (roles, estatus, liderazgo, redes de comunicación).
-
-**Lewin:** el grupo es más que la suma de sus miembros (totalidad dinámica). **Moreno:** la sociometría permite representar elecciones y rechazos afectivos.
+**Lewin:** el grupo es más que la suma de sus miembros. **Moreno:** la sociometría permite representar elecciones y rechazos.
 
 Lo decisivo no es contar cabezas, sino observar **quién participa**, **cómo se reparten responsabilidades**, **qué expectativas existen** y **qué condiciones facilitan o dificultan** la interacción.
 
@@ -58,293 +56,363 @@ Lo decisivo no es contar cabezas, sino observar **quién participa**, **cómo se
 
 ### 3.2. El grupo-clase
 
-| **Característica** | **Descripción** | 
-| Obligatorio | Pertenencia no voluntaria (especialmente en la etapa de ESO) | 
-| Heterogéneo | Edad, género, origen, capacidades, motivaciones, estilos de aprendizaje… | 
-| Permanente | Suele durar un curso académico completo o más | 
-| Objetivo institucional | Aprendizaje formal + socialización secundaria + adquisición de competencias | 
-| Asimetría de poder | Autoridad formal e institucional del profesorado | 
-| Espacio compartido | La disposición física del aula condiciona profundamente la interacción | 
+| Característica | Descripción |
+|----------------|-------------|
+| Obligatorio | Pertenencia no voluntaria (sobre todo en ESO) |
+| Heterogéneo | Edad, género, origen, capacidades, estilos… |
+| Permanente | Suele durar un curso o más |
+| Objetivo institucional | Aprendizaje + socialización + competencias |
+| Asimetría de poder | Autoridad formal del profesorado |
+| Espacio compartido | La disposición del aula condiciona la interacción |
 
-Sistema **socioafectivo** (Ortega, 1990). En términos de identidad relacional (Cooley), el aula es un **grupo secundario**: relaciones orientadas primordialmente a una tarea institucional, no a la intimidad familiar. Eso limita la profundidad emocional exigible en las técnicas grupales aplicadas.
+Sistema **socioafectivo** (Ortega, 1990). En términos de identidad relacional (Cooley), el aula es un **grupo secundario**: relaciones orientadas a tarea institucional, no intimidad familiar. Eso limita la profundidad emocional exigible en las técnicas.
+
+---
 
 ## 4. Estructura y procesos (distinción clave)
 
-|  | **Estructura** | **Procesos** | 
-| Qué es | Organización **relativamente estable** del grupo | Dinámicas en curso **mientras el grupo funciona** | 
-| Elementos | Tamaño, organización, **espacio físico**, posiciones/roles, estatus, normas implícitas/explícitas | Comunicación, participación, influencia, colaboración, vínculos, resolución de conflictos | 
-| Ejemplo | Cuatro mesas juntas en cuadrado; rol asignado de portavoz | Que se escuchen activamente, repartan el trabajo y comparen estrategias | 
+| | **Estructura** | **Procesos** |
+|--|----------------|--------------|
+| Qué es | Organización **relativamente estable** | Dinámicas **mientras el grupo funciona** |
+| Elementos | Tamaño, organización, **espacio**, posiciones/roles, estatus, normas | Comunicación, participación, influencia, colaboración, vínculos |
+| Ejemplo | Cuatro mesas juntas; rol de portavoz | Que se escuchen, repartan trabajo y comparen estrategias |
 
-La estructura ofrece **oportunidades y límites**; los procesos muestran qué hacen los miembros dentro de ese marco. Cambiar las mesas de sitio (modificar la estructura) **no garantiza** por sí solo la cooperación (proceso).
+La estructura ofrece **oportunidades y límites**; los procesos muestran qué hacen los miembros dentro de ese marco. Cambiar mesas (estructura) **no garantiza** cooperación (proceso).
 
-**Tamaño:** en grupos pequeños suele ser más fácil intervenir y coordinarse; en grupos grandes hacen falta turnos pautados y roles específicos. No hay tamaño ideal universal: depende de los objetivos, el tiempo, el espacio disponible y los participantes.
+**Tamaño:** en grupo pequeño suele ser más fácil intervenir y coordinarse; en uno grande hacen falta turnos y roles. No hay tamaño ideal universal: depende de objetivos, tiempo, espacio y participantes.
 
 ### 4.1. Roles y posición
 
-* **Posición:** lugar formal o informal que ocupa una persona en la estructura del grupo (p. ej., delegado/a, secretario/a, alumno aislado).
+- **Posición:** lugar en la organización del grupo (p. ej. portavoz, secretario).  
+- **Rol:** comportamientos y responsabilidades **esperados** de quien ocupa esa posición.
 
-* **Rol:** conjunto de comportamientos y responsabilidades **esperados** de quien ocupa esa posición.
+**Roles formales** (institución): alumno/a, delegado/a, profesor/a.  
+**Roles informales** (emergentes): líder positivo/negativo, chivo expiatorio, bufón, aislado, conciliador, experto en la tarea, observador.
 
-**Roles formales** (definidos por la institución): alumno/a, delegado/a, profesor/a.
-
-**Roles informales** (emergentes en la dinámica): líder positivo o negativo, chivo expiatorio, bufón, alumno aislado, conciliador, experto en la tarea, observador pasivo.
-
-Una misma persona puede ocupar una **posición formal** (p. ej., secretario de equipo) y ejercer simultáneamente un **rol informal** de líder (o viceversa). No hay contradicción: «ocupa la posición formal de secretario y desempeña también el rol informal de motor de la tarea».
+Una misma persona puede ocupar una **posición formal** (p. ej. secretario) y ejercer un **rol informal** de líder. No hay contradicción: «ocupa la posición formal de secretario y desempeña también el rol informal de líder».
 
 #### Rol esperado, percibido y desempeñado
 
-| **Dimensión** | **Significado** | 
-| **Esperado** | Lo que el grupo u organización considera que la persona *debería* hacer | 
-| **Percibido** | Cómo la persona *interpreta* subjetivamente esas expectativas | 
-| **Desempeñado** | Lo que la persona *realmente* hace en la práctica | 
+| Dimensión | Significado |
+|-----------|-------------|
+| **Esperado** | Lo que el grupo u organización considera que *debería* hacer |
+| **Percibido** | Cómo la persona *interpreta* esas expectativas |
+| **Desempeñado** | Lo que *realmente* hace |
 
-**Ejemplo:** el equipo espera que la portavoz comunique **acuerdos comunes**; ella interpreta que su función es dar **su opinión personal** y omite las propuestas de sus compañeros → discrepancia entre lo esperado y lo percibido → desempeño distinto del esperado.
+**Ejemplo:** el equipo espera que la portavoz comunique **acuerdos comunes**; ella interpreta que debe dar **su opinión personal** y omite propuestas ajenas → discrepancia esperado/percibido → desempeño distinto del esperado.
 
-Antes de concluir que un alumno “no colabora”, conviene revisar: ¿eran claras las instrucciones? ¿entendió la responsabilidad asignada? ¿hay una dificultad puntual que limita su desempeño?
+Antes de concluir que “no colabora”, revisar: ¿eran claras las instrucciones? ¿entendió la responsabilidad? ¿hay una dificultad puntual que limita el desempeño?
 
-Asignar un rol puede dar función a quien participa de forma dispersa, pero **nombrarlo no asegura el desempeño**: hace falta comprensión, recursos y oportunidad real. Conviene **rotar** las funciones cuando la tarea lo permita, evitando convertir los roles en etiquetas fijas o estigmas de la persona.
+Asignar un rol puede dar función a quien participa de forma dispersa, pero **nombrarlo no asegura** el desempeño: hace falta comprensión, recursos y oportunidad real. Conviene **rotar** funciones cuando la tarea lo permita, sin convertir roles en etiquetas fijas de la persona.
 
 ### 4.2. Estatus
 
-Prestigio e influencia diferencial dentro del grupo (basado en rendimiento, popularidad, habilidades sociales o deportivas). Un estatus muy polarizado dificulta la participación equitativa y daña la cohesión inclusiva.
+Prestigio e influencia (rendimiento, popularidad, habilidades…). Un estatus muy polarizado dificulta la participación equitativa.
 
 ### 4.3. Normas
 
-Explícitas (normas de centro, de aula) e implícitas (“lo que se hace y no se hace aquí”). Regulan la conducta aceptable, los turnos de palabra, el trato y la gestión de conflictos. La elaboración **participativa** de normas aumenta el compromiso; la autoridad docente marca los **límites no negociables** desde el inicio (ver [Tema 2](../06-relaciones-de-poder-en-el-aula/Tema2_Relaciones_de_poder_en_el_aula.md)).
+Explícitas (centro, clase) e implícitas (“lo que se hace aquí”). Regulan conducta aceptable, turnos de palabra, tareas y conflictos. La elaboración **participativa** aumenta compromiso; la autoridad docente marca **límites no negociables** desde el inicio (ver [Tema 2](../06-relaciones-de-poder-en-el-aula/Tema2_Relaciones_de_poder_en_el_aula.md)).
 
 ### 4.4. Cohesión y pertenencia
 
-Grado de atracción mutua hacia el grupo y deseo de permanecer en él. Una alta cohesión orientada a la tarea favorece el apoyo y el rendimiento; una cohesión excesiva y cerrada puede generar conformidad acrítica, presión grupal o rechazo a “los distintos”. Cohesión **no** es sinónimo exclusivo de “llevarse bien”: son los vínculos funcionales que permiten al grupo **seguir trabajando**. Quien pertenece al grupo sin contribuir de forma reiterada genera tensiones internas.
+Atracción hacia el grupo y deseo de permanecer. Alta cohesión orientada a la tarea favorece apoyo y rendimiento; excesiva puede generar conformidad, presión o rechazo a “los distintos”. Cohesión **no** es solo “llevarse bien”: son vínculos que permiten al grupo **seguir funcionando**. Quien pertenece sin contribuir de forma reiterada genera tensiones.
 
 ### 4.5. Cultura grupal
 
-Valores, hábitos y formas de relación que se estabilizan con el tiempo. Si en un aula **siempre hablan las mismas tres personas**, ese hábito nocivo pasa a ser parte de la cultura de la clase. El docente observa no solo el producto final, sino **cómo se reparte la participación** durante todo el proceso.
+Valores, hábitos y formas de relación que se estabilizan con el tiempo. Si **siempre hablan las mismas personas**, ese hábito pasa a ser parte de la cultura del aula. El docente observa no solo el producto final, sino **cómo se reparte la participación** durante el proceso.
+
+---
 
 ## 5. Ecología grupal y entorno físico
 
-La **ecología grupal** estudia la relación directa entre el **entorno físico** y la interacción social. La distribución del mobiliario, la visibilidad, la distancia proxémica, la temperatura y la comodidad modifican drásticamente las oportunidades de contacto, atención y participación.
+La **ecología grupal** estudia la relación entre el **entorno físico** y la interacción. Distribución de mesas, visibilidad, distancia, temperatura y comodidad modifican oportunidades de contacto, atención y participación.
 
-Mirar la espalda de un compañero no ofrece las mismas posibilidades relacionales que verle de frente. Una disposición adecuada para **escuchar una exposición magistral** suele ser inadecuada para **discutir y colaborar entre iguales**.
+Mirar la espalda de alguien no ofrece las mismas posibilidades que verle de frente. Una disposición adecuada para **escuchar una exposición** puede ser mala para **discutir entre iguales**.
 
 ### 5.1. Espacios sociopetos y sociofugos
 
-| **Tipo** | **Tendencia relacional** | **Ejemplos típicos en el aula** | 
-| **Sociopeto** | Facilita el contacto visual, la proximidad y la interacción horizontal | Disposición en círculo; mesas agrupadas en equipos de 4 con contacto visual directo | 
-| **Sociofugo** | Dificulta el contacto lateral y orienta la atención hacia un punto focal externo | Filas tradicionales orientadas rígidamente hacia la pizarra | 
+| Tipo | Tendencia | Ejemplos típicos |
+|------|-----------|------------------|
+| **Sociopeto** | Facilita contacto e interacción | Círculo; mesas en grupos con contacto visual |
+| **Sociofugo** | Dificulta el contacto lateral; orienta la atención de otro modo | Filas hacia la pizarra |
 
-Estas disposiciones no son “buenas” o “malas” en abstracto: su idoneidad depende estrictamente de la **tarea** pedagógica. Un debate o coevaluación exige un entorno más sociopeto; una explicación frontal inicial puede requerir un enfoque sociofugo.
+No son “bueno/malo” en abstracto: dependen de la **tarea**. Un debate pide más sociopeto; una explicación frontal puede pedir más sociofugo; el trabalho individual otra cosa.
 
-**Cambiar las mesas de sitio no garantiza por sí solo la participación.** También importan las normas previas, las relaciones interpersonales, el propósito de la tarea y la conducción docente. Una organización sociopeta puede ofrecer oportunidades que el grupo no sepa usar; una organización frontal puede admitir interacción intensa si se estructura de forma explícita (p. ej., trabajo por parejas breves).
+**Cambiar mesas no garantiza participación.** También importan normas, relaciones previas, propósito y conducción de la actividad. Una organización sociopeta puede ofrecer oportunidades que el grupo no usa; una frontal puede admitir interacción si se organiza de forma explícita (parejas, cuchicheo).
 
 ### 5.2. Ajustar el espacio al propósito
 
-Antes de elegir una distribución espacial, cabe preguntarse: ¿quién necesita ver y escuchar a quién? ¿qué materiales se van a utilizar? ¿cómo se desplazarán los alumnos? Después, conviene observar si todos tienen acceso real a la información.
+Antes de elegir distribución: ¿quién necesita ver y escuchar a quién? ¿qué materiales? ¿cómo se moverán? Después observar si todos tienen acceso real.
 
-**Ejemplo:** resolver un problema complejo en grupos de cuatro → mesas juntas que permitan ver el papel y las caras de todos. Puesta en común posterior → reorientación donde las propuestas de los grupos se vean y oigan colectivamente. La estructura física **puede cambiar a mitad de una secuencia didáctica**.
+**Ejemplo:** resolver un problema en grupos de cuatro → mesas que permitan ver material y caras. Puesta en común → orientación donde las propuestas se vean y oigan. La estructura puede **cambiar a mitad de secuencia**.
+
+---
 
 ## 6. Procesos grupales en el aula
 
 ### 6.1. Comunicación
 
-Proceso central de intercambio: transmitir información, aclarar instrucciones, coordinar acciones. Se contraponen las redes centralizadas (donde toda la información pasa obligatoriamente por el docente) y las redes descentralizadas (circulación fluida entre iguales). Las barreras comunicativas incluyen el ruido ambiental, los prejuicios, las interrupciones y el lenguaje excluyente. No basta con que “exista información disponible”: esta debe estar **estructurada con claridad** (qué hacer, para qué, cuándo y con quién).
+Proceso central: transmitir información, aclarar instrucciones, coordinar. Redes centralizadas (todo pasa por el docente) vs descentralizadas. Barreras: ruido, prejuicios, interrupciones, lenguaje excluyente. No basta con “haber información”: debe estar **estructurada** (qué hacer, cuándo, con quién).
 
-### 6.2. La participación como problema de análisis
+### 6.2. Participación como problema de análisis
 
-En el aula tienden a intervenir de forma recurrente **las mismas personas**. No basta con etiquetar simplistamente al alumnado como “activo” o “pasivo”: es necesario examinar las **condiciones del entorno** que facilitan o dificultan la intervención.
+A menudo intervienen **las mismas personas**. No basta con etiquetar “activos/pasivos”: hay que examinar **condiciones** que favorecen o dificultan intervenir.
 
-| **Factores que facilitan (orientación sociópeta / estructurada)** | **Factores que dificultan la participación** | 
-| Tiempo previo de pensamiento individual antes de hablar | Dinámica de “el primero que levanta la mano responde” | 
-| Trabajo previo por parejas o técnicas 1-2-4 antes del gran grupo | Burla, juicio negativo o sanción implícita ante el error | 
-| Norma explícita de respeto al turno de palabra | Tarea sin un propósito comprensible para el alumnado | 
-| Claridad sobre qué cuenta como participar | Valorar únicamente a quien habla con voz alta y rápida | 
+| Facilita (orientación sociópeta de la actividad) | Dificulta |
+|--------------------------------------------------|-----------|
+| Tiempo de pensamiento antes de hablar | Solo el que levanta la mano primero |
+| Parejas / 1-2-4 antes de gran grupo | Burla o sanción del error |
+| Norma de respeto al turno | Tarea sin razón comprensible para participar |
+| Claridad de qué cuenta como participar | Solo se valora “hablar mucho” |
 
-Participar **no** se reduce a hablar en voz alta: escuchar activamente, preparar materiales, plantear preguntas o coordinar un producto son formas de participación igual de relevantes. Hay que clarificar **qué tipo de participación requiere cada actividad** y cómo se reconocerá y valorará.
+Participar **no** es solo hablar: escuchar, preparar, preguntar o contribuir a un producto también pueden ser relevantes. Hay que aclarar **qué participación necesita la actividad** y cómo se reconocerá.
 
-**Ejemplo:** si el profesor acepta siempre la respuesta del alumno más rápido, consolida la desigualdad de estatus. Ofrecer 30 segundos de reflexión individual y empezar compartiendo por parejas **cambia las oportunidades de intervención**; posteriormente se observa si se modifica quién toma la palabra en la puesta en común general.
+**Ejemplo:** si el profesor acepta siempre al más rápido, se consolida desigualdad. Dar 30 s de reflexión y empezar por parejas **cambia oportunidades**; luego se observa si cambia quién interviene en la puesta en común.
 
 ### 6.3. Influencia y liderazgo (puente)
 
-Fenómenos de conformidad social, obediencia, persuasión e internalización de normas; liderazgo formal e informal. Este proceso se profundiza en el [Tema 2](../06-relaciones-de-poder-en-el-aula/Tema2_Relaciones_de_poder_en_el_aula.md).
+Conformidad, obediencia, persuasión, internalización; liderazgo formal e informal. Desarrollo amplio en el [Tema 2](../06-relaciones-de-poder-en-el-aula/Tema2_Relaciones_de_poder_en_el_aula.md).
 
-### 6.4. El conflicto en el grupo
+### 6.4. Conflicto
 
-El conflicto puede ser **productivo** (motor de aprendizaje, contraste de perspectivas y mejora de normas) o **destructivo** (fuente de exclusión, bloqueo o violencia). Su gestión requiere herramientas como la negociación, la mediación entre iguales y la asamblea participativa.
+Productivo (aprendizaje, mejora de normas) o destructivo (exclusión, violencia). Gestión: negociación, mediación, asamblea.
 
-### 6.5. La tarea como organizador del grupo
+### 6.5. Tarea como organizador del grupo
 
-La **tarea** es el objetivo instrumental que organiza la actividad grupal. Cuando la meta está definida con claridad (tiempos pautados, productos esperados, criterios de calidad), resulta mucho más sencillo repartir responsabilidades, comprobar el nivel de participación y comprobar si la dinámica favorece el aprendizaje. A mayor claridad organizativa, menores interpretaciones ambiguas sobre “qué había que hacer”.
+La **tarea** es el objetivo que organiza la actividad grupal. Cuando la meta está clara (tiempos, productos, criterios), es más fácil repartir responsabilidades, comprobar participación y ver si la dinámica favorece el aprendizaje. Cuanta más claridad organizativa, menos interpretaciones contradictorias sobre “qué había que hacer”.
 
 ### 6.6. Trabajo cooperativo y trabajo individual
 
-**No** toda actividad escolar debe ser cooperativa. La modalidad metodológica depende de la naturaleza de la tarea, las características del grupo, el momento del curso y el objetivo de aprendizaje previsto.
+**No** toda actividad debe ser cooperativa. La modalidad depende de la actividad, el grupo, el momento y el aprendizaje previsto.
 
-| **Actividades más orientadas a la cooperación** | **Actividades más orientadas al trabajo individual** | 
-| Intercambio de perspectivas, ayuda mutua, discusión de casos, resolución coordinada de retos complejos | Producción personal rigurosa que debe evaluarse de forma individualizada (p. ej., redacción de un texto autónomo o prueba específica) | 
+| Más cooperativo | Más individual |
+|-----------------|----------------|
+| Intercambio, ayuda mutua, discusión, reparto coordinado | Producción personal que debe evaluarse por sí misma (p. ej. cierta redacción o prueba) |
 
-Cooperar **no** es simplemente trocear un trabajo en partes inconexas: requiere un objetivo genuinamente común, responsabilidades individuales exigibles y una relación de interdependencia positiva entre las aportaciones. Condiciones básicas (Johnson & Johnson; Pujolàs CA/AC): **interdependencia positiva, responsabilidad individual y grupal, interacción promotora y habilidades sociales**.
+Cooperar **no** es solo trocear la tarea: hace falta objetivo común, responsabilidades claras y relación entre aportaciones. Condiciones básicas: **roles, normas y meta común**. Responsabilidad **individual y grupal** (Johnson & Johnson; Pujolàs CA/AC).
 
-**Evaluación del trabajo grupal:** el riesgo principal es no saber con certeza qué ha aportado cada miembro. Estrategias de control: asegurar que todos los miembros dominen el producto conjunto; que cada cual presente una parte aleatoria; combinar productos individuales con entregas grupales. *Trabajo grupal nunca debe equivaler a la desaparición de la responsabilidad personal.*
+**Evaluación del trabajo grupal:** el riesgo es no saber qué aportó cada uno. Estrategias: que todos conozcan el conjunto; que cada miembro presente una parte; productos individuales + grupales. Trabajo grupal ≠ desaparición de la responsabilidad individual.
 
 ### 6.7. Necesidades individuales y funcionamiento del grupo
 
-El cansancio sobrevenido, el malestar emocional o una situación personal crítica pueden reducir temporalmente la disponibilidad de un estudiante. Esto **no** autoriza a etiquetar permanentemente a la persona como “pasiva” o “conflictiva”. Analizar el grupo exige articular **necesidades individuales y responsabilidades colectivas**: adaptar el nivel de exigencia puntual sin trasladar indefinidamente toda la carga a los compañeros. Comprender una necesidad personal no significa inventar su causa; implica preguntar de manera respetuosa qué apoyo se requiere y hablar siempre en términos de **actuaciones concretas**.
+Cansancio, malestar o una preocupación pueden reducir temporalmente la disponibilidad. Eso **no** autoriza a etiquetar a la persona como “siempre pasiva”. Analizar el grupo exige **necesidades individuales y responsabilidades colectivas**: adaptar sin trasladar indefinidamente toda la carga a otros. Comprender una necesidad ≠ inventar su causa; preguntar qué apoyo hace falta y hablar de **actuaciones concretas**.
 
-## 7. Etapas de desarrollo del grupo (Modelo de Tuckman ampliado)
+---
 
-El desarrollo de un grupo-clase atraviesa de forma general cinco fases reconocibles (B. W. Tuckman):
+## 7. Etapas de desarrollo del grupo (Tuckman)
 
-1. **Forming (Formación / Interconfianza):** Orientación inicial, tanteo, alta dependencia del líder formal (docente) y necesidad de seguridad psicológica.
+1. **Forming** — orientación, dependencia del líder formal.  
+2. **Storming** — tensiones, cuestionamiento de roles y normas.  
+3. **Norming** — normas compartidas, cohesión.  
+4. **Performing** — cooperación eficaz.  
+5. **Adjourning** — cierre (final de curso).
 
-2. **Storming (Conflicto / Tormenta):** Fricción inevitable, choque de expectativas, aparición de subgrupos y prueba de límites relacionales y de autoridad.
+La elección de técnicas debe tener en cuenta la fase (una técnica emocional intensa no es lo mismo al inicio que en un grupo ya cohesionado).
 
-3. **Norming (Normalización / Cohesión):** Consolidación de normas implícitas y explícitas, disminución de la tensión y emergencia del sentimiento de pertenencia e identidad grupal.
-
-4. **Performing (Ejecución / Cooperación):** Fase de madurez caracterizada por una coordinación eficaz de los recursos individuales orientada a metas comunes.
-
-5. **Adjourning (Despedida / Clausura):** Cierre del ciclo vital del grupo, evaluación de lo vivido y elaboración de la separación al finalizar el curso.
-
-La elección de cualquier técnica grupal debe tener estrictamente en cuenta la **fase en la que se encuentra el grupo** (por ejemplo, una técnica de fuerte carga emocional no genera el mismo efecto al inicio del curso en fase de *forming* que en un grupo ya cohesionado).
+---
 
 ## 8. Socialización grupal e incorporación de miembros
 
-La **socialización grupal** es el proceso bidireccional mediante el cual una persona aprende cómo funciona un grupo al incorporarse a él (asimilando expectativas, normas y códigos de participación), mientras que el grupo, simultáneamente, puede modificar parte de su dinámica interna para integrar al nuevo miembro.
+**Socialización grupal:** proceso por el que una persona aprende cómo funciona un grupo al incorporarse (expectativas, normas, formas de participar). El grupo, a la vez, puede modificar parte de su funcionamiento para integrar.
 
-| **Polo de ajuste** | **Qué ocurre en el proceso** | 
-| Ajuste de la **persona** | Aprende y asimila las normas, rutinas y maneras de actuar en el nuevo contexto | 
-| Ajuste del **grupo** | Modifica dinámicas y rutinas para facilitar la acogida y la integración | 
+| Polo | Qué ocurre |
+|------|------------|
+| Ajuste de la **persona** | Aprende normas y maneras de actuar en el nuevo contexto |
+| Ajuste del **grupo** | Cambia rutinas para facilitar la incorporación |
 
-Esta adaptación es **recíproca**. Un alumno que se incorpora a mitad de curso necesita conocer los códigos de funcionamiento; tanto sus compañeros como el docente deben ajustar la organización del aula. La llegada de un nuevo integrante puede reordenar alianzas, afinidades y turnos de palabra: el grupo **no es un sistema estático**.
+La adaptación es **recíproca**. Un alumno nuevo necesita saber cómo se trabaja; compañeros y docente pueden ajustar organización. La llegada de alguien nuevo puede reordenar alianzas y turnos de palabra: el grupo **no es estático**.
 
-## 9. Sociometría
+---
 
-Herramienta cuantitativa y cualitativa desarrollada por **J. L. Moreno** (sociograma) para representar las redes de atracciones, rechazos y relaciones de indiferencia en el aula.
+## 9. Prevención, Detección e Intervención ante el Acoso Escolar (Bullying) y Ciberacoso
 
-* **Utilidad práctica:** detectar alumnos aislados, líderes informales, rechazos explícitos o cliques cerradas; planificar agrupamientos heterogéneos; realizar un seguimiento longitudinal de la cohesión grupal.
+El análisis del aula como grupo requiere prestar especial atención a los fenómenos de asimetría destructiva de poder, entre los cuales el acoso escolar (*bullying*) y el ciberacoso representan las formas más graves de quiebra de la convivencia.
 
-* **Criterio ético fundamental:** uso rigurosamente **confidencial, constructivo y nunca punitivo** (jamás exponer públicamente los rechazos sociométricos).
+### 9.1. Conceptualización y Dinámica Grupal del Acoso
+El acoso no es un simple conflicto interpersonal entre dos iguales, sino una **dinámica grupal perversa** caracterizada por:
+- **Intencionalidad y reiteración** en el tiempo de conductas de agresión (física, verbal, psicológica o social).
+- **Abuso de poder** y desequilibrio de fuerzas entre el agresor (o grupo agresor) y la víctima.
+- **Implicación de espectadores silenciosos:** El grupo-clase ejerce un papel clave. Con frecuencia, el refuerzo, la pasividad o el miedo del resto de compañeros (espectadores) actúa como elemento de sostenimiento de la agresión.
 
-## 10. Dinamización de procesos grupales participativos
+### 9.2. Ciberacoso y su Extensión Fuera del Aula
+El ciberacoso (*cyberbullying*) traslada las dinámicas de exclusión y hostigamiento a los entornos digitales (redes sociales, mensajería instantánea). 
+- **Características específicas:** anonimato potencial, viralidad masiva, permanencia temporal del contenido humillante y ausencia de límites espacio-temporales (la víctima sufre el acoso incluso en su propio hogar).
+- **Implicación docente:** Aunque ocurra fuera del recinto escolar, el impacto directo sobre el clima del aula, la autoestima y el rendimiento académico obliga a los centros a intervenir preventivamente y activar los protocolos institucionales.
 
-Intervenir de manera intencionada sobre la estructura y los procesos del aula. Los contenidos clave de la guía abarcan: estructura, procesos, relaciones intra/inter/intergrupales, participación, cooperación, cohesión, técnicas de grupo e intervención docente.
+### 9.3. Indicadores de Alerta Temprana
+El profesorado de Secundaria debe vigilar indicadores sutiles en la dinámica del aula:
+- Cambios bruscos de comportamiento, aislamiento repentino en los trabajos grupales o rechazo a participar en dinámicas sociopetas.
+- Deterioro del rendimiento académico sin causa aparente.
+- Presencia de roles informales de exclusión (chivo expiatorio) o ausencia de apoyos en las redes sociométricas (Moreno).
 
-### 10.1. Dinámica de grupos ≠ técnicas de grupo
+### 9.4. Protocolos Institucionales de Actuación
+Ante indicios fundados de acoso o ciberacoso, el marco normativo exige activar de manera inmediata el **Protocolo de Acoso Escolar** del centro:
+1. **Comunicación formal** urgente al Departamento de Orientación y a la Dirección.
+2. **Medidas cautelares de protección** inmediata a la víctima y separación de los implicados.
+3. **Investigación rigurosa** y recogida de testimonios con participación del tutor o tutora.
+4. **Aplicación de medidas correctoras** y educativas para el agresor, así como planes de intervención restaurativa y apoyo socioemocional a la víctima.
 
-| **Concepto** | **Definición precisa** | 
-| **Dinámica de grupos** | El conjunto de fuerzas, interacciones y procesos psicosociales que ocurren de manera natural en el funcionamiento de un grupo (quién habla, quién calla, quién lidera, cómo se decide). | 
-| **Técnicas de grupo** | Actividades **estructuradas y planificadas** que se introducen metodológicamente para influir en esa dinámica (son un medio pedagógico, nunca un fin en sí mismo). | 
+---
 
-**Ejemplo:** observar que siempre trabajan los mismos dos alumnos es analizar la *dinámica*; aplicar una técnica de Phillips 6/6 o un turno rotativo estructurado es emplear una *técnica*.
+## 10. La Acción Tutorial y las Funciones del Tutor/a en ESO y Bachillerato
 
-### 10.2. Técnicas cognitivas, conativas y emocionales
+La **acción tutorial** constituye el eje vertebrador de la atención a la diversidad, la orientación personal y académica, y la cohesión del grupo-clase.
 
-| **Tipo de técnica** | **Nivel psicológico en el que incide** | **Ejemplos prácticos** | 
-| **Cognitivas** | Qué se piensa, se analiza y se decide | Phillips 6/6, método del caso, tormenta de ideas (*brainstorming*) | 
-| **Conativas** | Voluntad, motivación hacia la acción, autorregulación y persistencia | Establecimiento de metas compartidas, planificación de tareas, autoinstrucciones | 
-| **Emocionales** | Clima afectivo, seguridad psicológica y sentimiento de pertenencia | Dinámicas de conocimiento mutuo, feedback positivo estructurado | 
+### 10.1. El Rol Específico del Profesor Tutor
+El tutor no es meramente un docente que imparte una materia, sino el referente institucional encargado de:
+- **Coordinación docente:** Articular al equipo educativo que imparte clase al grupo para unificar criterios de evaluación, exigencia y manejo de la convivencia.
+- **Plan de Acción Tutorial (PAT):** Diseñar, implementar y evaluar las actividades destinadas al desarrollo personal, la integración grupal, la orientación académica y profesional y la prevención de conflictos.
+- **Relación con las Familias:** Canalizar la comunicación bidireccional familia-escuela, presidiendo reuniones informativas y tutorías individualizadas orientadas a la alianza educativa.
 
-Las técnicas emocionales exigen una gran prudencia y un clima previo de seguridad; aplicarlas de forma invasiva el primer día de clase sin cohesión previa puede resultar contraproducente.
+---
 
-### 10.3. Criterios para seleccionar una técnica
+## 11. Mediación Escolar y Técnicas de Justicia Restaurativa
 
-Para elegir una técnica adecuada se deben ponderar: los objetivos didácticos; la fase evolutiva del grupo (Tuckman); el tamaño del grupo; el **ambiente físico y disposición espacial**; el tiempo disponible; los materiales necesarios; las características sociodemográficas y de diversidad del alumnado; la identidad de grupo secundario; la capacitación y seguridad del propio docente; y la adaptación contextual a *este* grupo concreto.
+Para transformar los conflictos destructivos en oportunidades de crecimiento relacional, los centros educativos integran la **mediación escolar** y los enfoques restaurativos.
 
-### 10.4. Fases de aplicación de una técnica
+### 11.1. Principios de la Mediación Escolar
+- **Confidencialidad y voluntariedad:** Las partes acuden de manera libre para buscar acuerdos mediante un tercero neutral (el mediador, que puede ser un profesor formado o un alumno mediador).
+- **Enfoque colaborativo (Win-Win):** Supera la justicia punitiva tradicional centrada exclusivamente en el castigo, orientándose a la **reparación del daño causado** y a la asunción de responsabilidades.
+- **Círculos restaurativos:** Técnicas de diálogo estructurado donde el grupo-clase aborda colectivamente la ruptura de la convivencia, permitiendo expresar el impacto emocional de las conductas y restablecer los vínculos dañados.
 
-1. **Explicación y encuadre:** clarificar el objetivo, las normas de funcionamiento y crear un clima de seguridad.
+---
 
-2. **Desarrollo:** ejecución de la actividad por parte del alumnado (el docente observa, acompaña, pero **no monopoliza** ni interrumpe constantemente).
+## 12. Marco Normativo de Convivencia y Participación Escolar
 
-3. **Reflexión (Metacognición):** analizar qué ha ocurrido, qué dificultades han surgido y qué se ha aprendido. *Sin reflexión orientada, la técnica se reduce a un simple "juego sin recorrido formativo".*
+Toda intervención psicosocial en el aula se sustenta y debe alinearse con el **marco legislativo vigente**:
+- **Marco Estatal (LOMLOE y normativa de desarrollo):** Establece los principios de equidad, inclusión educativa, prevención de la violencia y fomento de la convivencia pacífica.
+- **Derechos y Deberes del Alumnado:** Regulación de la participación democrática (delegados, juntas de delegados, consejo escolar) y los cauces reglados de resolución de conflictos.
+- **Plan de Convivencia del Centro:** Documento institucional obligatorio que concreta las normas de organización y convivencia, los protocolos de actuación ante conductas disruptivas y las medidas correctoras de carácter educativo.
 
-4. **Evaluación y cierre:** síntesis colectiva de conclusiones.
+---
 
-### 10.5. Catálogo orientativo de técnicas
+## 13. Sociometría
 
-Phillips 6/6, cuchicheo en parejas, método del caso, tormenta de ideas, *role-playing*, técnica del **Jigsaw (Puzzle de Aronson)**, estructura cooperativa 1-2-4, asamblea de aula, dinámicas de conocimiento y acogida, bombardeo positivo, simposio, intercambio de experiencias y simulaciones gamificadas.
+**Moreno:** sociograma de atracciones, rechazos e indiferencias. Utilidad: detectar aislados, líderes, cliques; planificar agrupamientos; seguir la cohesión. Uso **ético y confidencial**, nunca punitivo.
 
-Ficha específica asociada: [Técnica Jigsaw](../../../../04-pbl-abp/proyectos/Jigsaw/Tecnica-Jigsaw.md).
+---
 
-Ampliación avanzada (catálogo comentado con ejemplos de Phillips 6/6, conativas y posicionamiento de roles): [Complementos técnicas y liderazgo relacional](../../../materiales/complementos-tecnicas-y-liderazgo-relacional.md).
+## 14. Dinamización de procesos grupales participativos
 
-### 10.6. Criterios de agrupamiento
+Intervenir intencionadamente sobre estructura y procesos. Cobertura de guía: estructura · procesos · relaciones inter/intra/intergrupales · participación · cooperación · cohesión · técnicas · intervención docente.
 
-Formación de grupos homogéneos o heterogéneos; agrupamientos fijos o flexibles. La evidencia científica acumulada en psicología de la educación favorece el uso de **agrupamientos heterogéneos flexibles** para promover la inclusión, el apoyo mutuo y el progreso académico general (Slavin, 1995; Allport, 1954 sobre la hipótesis del contacto intergrupal en condiciones de igualdad de estatus).
+### 14.1. Dinámica de grupos ≠ técnicas de grupo
 
-### 10.7. Límites del rol docente en la dinamización
+| Concepto | Definición |
+|----------|------------|
+| **Dinámica de grupos** | Cómo *funciona* el grupo (quién habla, quién calla, quién lidera, cómo se decide…) |
+| **Técnicas de grupo** | Actividades **estructuradas** para influir en esa dinámica (medio, no fin) |
 
-| **Lo que SÍ corresponde al docente** | **Lo que NO corresponde al docente** | 
-| Aplicar técnicas orientadas al aprendizaje y la convivencia escolar | Asumir roles de intervención de carácter estrictamente terapéutico o clínico | 
-| Respetar los espacios de silencio o la no participación voluntaria puntual | Indagar o forzar la exposición de intimidades personales del alumnado | 
-| Utilizar exclusivamente aquellas técnicas con las que uno se siente capacitado | Improvisar dinámicas de alta carga emocional sin un clima de seguridad previo | 
+**Ejemplo:** siempre trabajan los mismos dos → dinámica. Phillips 6/6 o turnos → técnica.
 
-## 11. Límites, autoridad y asertividad (puente al Tema 2)
+### 14.2. Técnicas cognitivas, conativas y emocionales
 
-Ante una conducta inadecuada o disruptiva en el aula, el objetivo docente fundamental es hacer visible **qué** conducta no es correcta y **por qué** motivo, evitando recurrir a la bronca personalista o punitiva. La **asertividad docente** implica reconocer constructivamente las circunstancias de la otra persona **y**, al mismo tiempo, expresar con total claridad lo que el grupo y las normas de convivencia necesitan. Una dificultad personal puntual puede justificar una adaptación metodológica, pero no debe convertirse en una coartada permanente para justificar conductas disruptivas continuadas.
+| Tipo | Nivel | Ejemplos |
+|------|-------|----------|
+| Cognitivas | Qué se piensa y decide | Phillips 6/6, caso, lluvia de ideas |
+| Conativas | Voluntad, motivación a la acción, autorregulación | Metas, planificación, autoinstrucciones, persistencia |
+| Emocionales | Clima, pertenencia | Conocimiento, feedback positivo |
 
-Establecer límites claros, firmes y respetuosos desde el primer día reduce la probabilidad de vivir cada incidente diario como un enfrentamiento personal (**autocuidado docente**). La profundización en el poder, la influencia y el liderazgo se aborda en el [Tema 2](../06-relaciones-de-poder-en-el-aula/Tema2_Relaciones_de_poder_en_el_aula.md).
+Las emocionales exigen más cohesión y prudencia; no el primer día sin seguridad.
 
-## 12. Ejemplo integrado de análisis de aula
+### 14.3. Criterios para seleccionar una técnica
 
-Una clase de Educación Secundaria trabaja en equipos reducidos. Se observa que un alumno acapara la palabra e interviene casi siempre; otra compañera permanece en completo silencio; y dos alumnos esperan pasivamente instrucciones externas. Las mesas están juntas en bloque, pero un estudiante de espaldas **no ve** el material gráfico común. Se ha designado un rol formal de “portavoz” al azar, pero sin precisar con claridad qué debe comunicar exactamente a la clase.
+Objetivos; etapa del grupo; tamaño; **ambiente físico**; tiempo; materiales; características del alumnado; identidad de grupo secundario; capacitación docente; tipo de técnica; adaptación a *este* grupo.
 
-| **Plano analítico** | **Qué se observa empíricamente en la escena** | 
-| Estructura | Distribución espacial deficiente, tamaño de grupo inadecuado, roles formales mal definidos | 
-| Procesos grupales | Desequilibrio radical en la participación, ausencia de escucha activa | 
-| Roles | Discrepancia entre el rol esperado y el rol desempeñado por el portavoz | 
-| Ecología del aula | Falta de accesibilidad visual equitativa al material común de trabajo | 
+### 14.4. Fases de aplicación
 
-**Intervención docente correctora:** reorganizar el espacio físico para que todos los miembros tengan acceso visual al material; exigir una aportación individual escrita breve antes de abrir el debate en equipo; concretar explícitamente que la función del portavoz es comunicar tanto los **acuerdos** como las **dudas o desacuerdos** del equipo.
+Explicación y clima → desarrollo (observar, no monopolizar) → **reflexión** → evaluación y cierre. Sin reflexión, la técnica queda en “juego”.
 
-Posteriormente, se evalúa mediante observación sistemática: ¿se han incrementado las contribuciones de los alumnos silenciados? ¿se escuchan activamente? ¿la puesta en común refleja el esfuerzo colectivo y no la voz de uno solo?
+### 14.5. Catálogo orientativo
 
-*Nota metodológica:* El silencio prolongado de un alumno no se explica de forma simplista por un “rasgo fijo de personalidad”; en él influyen decisivamente factores como la visibilidad ecológica, el grado de seguridad psicológica o la falta de claridad en las instrucciones de la tarea.
+Phillips 6/6, cuchicheo, método del caso, lluvia de ideas, role-playing, **Jigsaw**, 1-2-4, asamblea, dinámicas de conocimiento, bombardeo positivo, simposio, intercambio de experiencias, juegos/simulaciones.
 
-## 13. Conceptos clave para repasar
+Ficha: [Técnica Jigsaw](../../../../04-pbl-abp/proyectos/Jigsaw/Tecnica-Jigsaw.md).
 
-| **Concepto** | **Qué analizar fundamentalmente** | 
-| Intrapersonal | Procesos cognitivos y emocionales de una persona individual | 
-| Interpersonal | Relaciones directas entre dos o más personas | 
-| Intragrupal | Dinámicas, normas y roles dentro de un mismo grupo-clase | 
-| Intergrupal | Relaciones, prejuicios y rivalidades entre distintos grupos | 
-| Estructura grupal | Organización relativamente estable (espacio, tamaño, posiciones) | 
-| Procesos grupales | Dinámicas en marcha mientras el grupo opera (comunicación, influencia) | 
-| Ecología grupal | Interrelación directa entre el entorno físico y los patrones de interacción | 
-| Sociopeto / sociofugo | Espacios que facilitan o dificultan el contacto visual y la relación | 
-| Posición / rol | Lugar estático en la estructura vs. pautas de comportamiento esperadas | 
-| Esperado / percibido / desempeñado | Expectativa institucional, interpretación subjetiva y actuación real | 
-| Cohesión grupal | Vínculos afectivos y funcionales que permiten al grupo seguir operando | 
-| Cultura grupal | Hábitos estables institucionalizados (p. ej., quién habla o cómo se trata el error) | 
-| Tuckman (Fases) | Forming → Storming → Norming → Performing → Adjourning | 
-| Técnicas cognitivas / conativas / emocionales | Enfoques en el pensamiento, en la voluntad/acción o en el clima afectivo | 
+**Ampliación (catálogo con ejemplos, Phillips 6/6, conativas, posición/rol):** [Complementos técnicas y liderazgo relacional](../../../materiales/complementos-tecnicas-y-liderazgo-relacional.md).
 
-## 14. Actividades orientativas de consolidación
+### 14.6. Agrupamientos
 
-1. Observar una sesión real de aula y mapear los cuatro niveles de análisis (intrapersonal, interpersonal, intragrupal, intergrupal).
+Homogéneos/heterogéneos; fijos/flexibles. La evidencia favorece **heterogéneos** flexibles para inclusión y apoyo.
 
-2. Dibujar la disposición física de un aula y clasificar sus espacios en sociopetos o sociofugos en función de la tarea propuesta.
+### 14.7. Límites del rol docente
 
-3. Analizar un episodio real de participación marcadamente desigual e identificar qué condiciones del entorno la facilitan o la dificultan.
+| Sí | No |
+|----|----|
+| Técnicas orientadas a aprendizaje y convivencia | Fines terapéuticos |
+| Respetar no participar | Entrar en lo excesivamente personal |
+| Solo técnicas con las que uno se siente capacitado | Improvisar alta carga emocional sin clima |
 
-4. Diseñar una secuencia didáctica corta que incorpore roles rotativos y criterios explícitos de evaluación individual y grupal.
+---
 
-5. Elegir una técnica concreta del catálogo, justificar su elección según la fase evolutiva del grupo y prever de manera detallada la fase de reflexión metacognitiva.
+## 15. Límites, autoridad y asertividad (puente al Tema 2)
 
-6. Resolver un estudio de caso sobre la incorporación de un alumno nuevo a mitad de curso, planificando ajustes tanto en la persona como en el grupo.
+Ante conducta inadecuada, el objetivo es hacer visible **qué** no es correcto y **por qué**, no necesariamente “una bronca”. **Asertividad:** reconocer circunstancias de la otra persona **y** expresar con claridad lo que el grupo necesita. Una dificultad puntual puede justificar adaptación; no debe convertirse en explicación permanente de la conducta.
 
-## 15. Referencias bibliográficas y normativas orientativas
+Límites claros desde el principio reducen vivir cada incidente como enfrentamiento (**autocuidado docente**). Desarrollo de poder, liderazgo e influencia: [Tema 2](../06-relaciones-de-poder-en-el-aula/Tema2_Relaciones_de_poder_en_el_aula.md).
 
-* Lewin, K. — Teoría de campo y dinámica de grupos.
+---
 
-* Moreno, J. L. — Fundamentos de sociometría y sociogramas.
+## 16. Ejemplo integrado de análisis de aula
 
-* Tuckman, B. W. — Modelo secuencial de desarrollo grupal.
+Una clase trabaja en grupos. Una persona habla casi siempre; otra calla; dos esperan instrucciones. Las mesas están juntas, pero alguien **no ve** el material. Hay “portavoz” sin precisar qué debe comunicar.
 
-* Ortega, R. (1990) — El aula como sistema socioafectivo y de convivencia.
+| Plano | Qué se observa |
+|-------|----------------|
+| Estructura | Espacio, tamaño, posiciones |
+| Procesos | Quién participa, cómo se responde, cómo se decide |
+| Roles | Esperado ≠ percibido (portavoz) |
+| Ecología | Acceso visual al material común |
 
-* Johnson, D. W., & Johnson, R. T. — Aprendizaje cooperativo y interdependencia positiva.
+**Intervención:** ajustar material para que todos vean; pedir una propuesta inicial a cada miembro; concretar que la portavoz comunicará **acuerdos y desacuerdos**. Luego observar: ¿más contribuciones? ¿se escuchan? ¿la presentación refleja el trabajo compartido?
 
-* Pujolàs, P. — El Programa CA/AC (Cooperar para Aprender / Aprender a Cooperar).
+El silencio no se explica solo por un “rasgo”: pueden influir visibilidad, confianza o falta de claridad.
 
-* [Complementos técnicas y liderazgo relacional](../../../materiales/complementos-tecnicas-y-liderazgo-relacional.md).
+---
 
-*Apunte orientativo y ampliado para el Máster de Profesorado · especialidad de Educación Secundaria. Complementa y enriquece la guía docente de la asignatura sin sustituirla.*
+## 17. Conceptos para repasar
+
+| Concepto | Qué analizar |
+|----------|--------------|
+| Intrapersonal | Procesos de una persona |
+| Interpersonal | Relaciones entre personas |
+| Intragrupal | Dinámicas dentro de un grupo |
+| Intergrupal | Relaciones entre grupos |
+| Estructura | Organización relativamente estable |
+| Procesos | Dinámicas mientras el grupo funciona |
+| Ecología grupal | Entorno físico e interacción |
+| Sociopeto / sociofugo | Facilita o dificulta el contacto |
+| Posición / rol | Lugar vs actuaciones esperadas |
+| Esperado / percibido / desempeñado | Expectativa, interpretación, actuación |
+| Cohesión | Vínculos que permiten seguir funcionando |
+| Cultura grupal | Hábitos estabilizados (quién habla, cómo se responde al error) |
+| Tuckman | Forming → storming → norming → performing → adjourning |
+| Acoso / Ciberacoso | Desequilibrio de poder, reiteración y espectadores |
+| Tutoría / Mediación | PAT, tutor, justicia restaurativa y protocolos |
+
+---
+
+## 18. Actividades orientativas
+
+1. Observar una sesión y mapear niveles intrapersonal / interpersonal / intragrupal / intergrupal.  
+2. Dibujar la disposición del aula y clasificar espacios sociopetos/sociofugos según la tarea.  
+3. Analizar un episodio de participación desigual: condiciones que facilitan/dificultan.  
+4. Diseñar una secuencia con roles rotativos y criterios de evaluación individual + grupal.  
+5. Analizar un caso práctico de ciberacoso identificando el papel de los espectadores y la activación del protocolo.  
+6. Diseñar una sesión de tutoría basada en mediación escolar para resolver un conflicto de convivencia.
+
+---
+
+## 19. Referencias orientativas
+
+- Lewin, K. — dinámica de grupos.  
+- Moreno, J. L. — sociometría.  
+- Tuckman, B. W. — etapas del grupo.  
+- Ortega, R. (1990) — aula como sistema socioafectivo.  
+- Johnson & Johnson; Pujolàs — aprendizaje cooperativo.  
+- Normativa LOMLOE y Planes de Convivencia.  
+- [Complementos técnicas y liderazgo relacional](../../../materiales/complementos-tecnicas-y-liderazgo-relacional.md).
+
+---
+
+*Apunte orientativo para el Máster de Profesorado · especialidad Matemáticas. Complementa la guía docente; no la sustituye.*
