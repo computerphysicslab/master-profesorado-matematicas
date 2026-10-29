@@ -4,8 +4,8 @@
 **Asignatura:** Sociedad, Familia y Procesos Grupales  
 **Bloque:** Psicología Social — Poder, autoridad y liderazgo  
 **Especialidad:** Matemáticas  
-**Viene de:** [Tema 1 — El aula como grupo](../01-el-aula-como-grupo/Tema1_El_aula_como_grupo.md)  
-**Continúa en:** [Tema 3 — Prejuicio y estereotipos ante la diversidad](../03-prejuicio-y-estereotipos-ante-la-diversidad/Tema3_Prejuicio_y_estereotipos_ante_la_diversidad.md)
+**Viene de:** [Tema 1 — El aula como grupo](Tema1_El_aula_como_grupo.md)  
+**Continúa en:** [Tema 3 — Prejuicio y estereotipos ante la diversidad](Tema3_Prejuicio_y_estereotipos_ante_la_diversidad.md)
 
 ---
 
@@ -199,8 +199,6 @@ Progresión histórica: Rasgos → Conductas → Situación → Relación líder
 - Cameron (2013) — liderazgo positivo.
 - Asch, Moscovici, Milgram, Kelman — influencia social.
 - Tajfel y Turner — identidad social.
-- Guías docentes y materiales de la asignatura (Universidad de Zaragoza, Anamaria Ursu).
 
 ---
 
-*Apunte orientativo para el Máster de Profesorado · especialidad Matemáticas. Integra contenidos de la Guía Unificada, diapositivas oficiales y materiales de apoyo. Complementa la guía docente; no la sustituye.*

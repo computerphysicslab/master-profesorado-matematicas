@@ -207,3 +207,23 @@ Complementa el [glosario central del máster](../../02-apuntes/glosario-central-
 ---
 
 *Última actualización: 22 octubre 2026 · Glosario de la asignatura Sociedad, familia y procesos grupales — Máster de Profesorado (especialidad Matemáticas).*
+
+---
+
+### Palacín y Aiger (modelo)
+Marco de desarrollo grupal de especial relevancia práctica: Confianza → Conflicto → Cohesión → Cooperación. Describe el tránsito relacional necesario para pasar de la seguridad psicológica inicial a la cooperación madura en tareas complejas.
+
+### Pensamiento grupal (*groupthink*, Janis)
+Deterioro de la eficiencia mental y del análisis crítico de alternativas debido a la búsqueda compulsiva de unanimidad. Mecanismos típicos: ilusión de invulnerabilidad, autocensura, presión sobre disidentes e ilusión de unanimidad.
+
+### Holgazanería social (*social loafing*)
+Reducción del esfuerzo personal cuando la contribución individual queda diluida o no se evalúa de forma identificable. Relacionado con el efecto Ringelmann. Se reduce haciendo identificable la aportación de cada miembro y combinando evaluación individual y grupal.
+
+### Modelo de covariación de Kelley
+Explicación causal de una conducta a partir de tres informaciones: consenso (¿otros actúan igual?), distintividad (¿ocurre solo en esta situación?) y consistencia (¿se repite en el tiempo?). Permite distinguir atribuciones internas de externas.
+
+### Dimensiones atribucionales de Weiner
+Locus (interno/externo), estabilidad (estable/inestable) y controlabilidad (controlable/incontrolable). Afectan a la autoestima, las expectativas futuras y las emociones sociales. En Matemáticas, atribuir el éxito al esfuerzo (interno, inestable, controlable) favorece la autoeficacia.
+
+### Efecto Pigmalión / profecía autocumplida
+Las expectativas previas del docente (sobre capacidad, interés, etc.) condicionan su conducta (tiempo de espera, feedback, oportunidades) y terminan influyendo en el rendimiento real del estudiante.

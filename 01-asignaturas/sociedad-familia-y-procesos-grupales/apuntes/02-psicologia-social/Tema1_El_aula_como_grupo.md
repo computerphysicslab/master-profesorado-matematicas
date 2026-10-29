@@ -4,7 +4,7 @@
 **Asignatura:** Sociedad, Familia y Procesos Grupales  
 **Bloque:** Psicología Social — El aula como grupo  
 **Especialidad:** Matemáticas  
-**Continúa en:** [Tema 2 — Relaciones de poder en el aula](../02-relaciones-de-poder-en-el-aula/Tema2_Relaciones_de_poder_en_el_aula.md) · [Tema 3 — Prejuicio y estereotipos ante la diversidad](../03-prejuicio-y-estereotipos-ante-la-diversidad/Tema3_Prejuicio_y_estereotipos_ante_la_diversidad.md)
+**Continúa en:** [Tema 2 — Relaciones de poder en el aula](Tema2_Relaciones_de_poder_en_el_aula.md) · [Tema 3 — Prejuicio y estereotipos ante la diversidad](Tema3_Prejuicio_y_estereotipos_ante_la_diversidad.md)
 
 ---
 
@@ -307,8 +307,6 @@ Prevención de riesgos: atención al acoso (desequilibrio de poder, reiteración
 - Janis — groupthink.
 - Johnson & Johnson; Pujolàs — aprendizaje cooperativo.
 - Hall / Osmond — proxémica y ecología grupal.
-- Guías docentes y materiales de la asignatura (Universidad de Zaragoza, Anamaria Ursu).
 
 ---
 
-*Apunte orientativo para el Máster de Profesorado · especialidad Matemáticas. Integra contenidos de la Guía Unificada, diapositivas oficiales y materiales de apoyo. Complementa la guía docente; no la sustituye.*

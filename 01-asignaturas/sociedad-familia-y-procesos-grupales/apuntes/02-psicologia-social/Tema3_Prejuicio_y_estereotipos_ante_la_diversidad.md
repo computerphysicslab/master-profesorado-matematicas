@@ -4,7 +4,7 @@
 **Asignatura:** Sociedad, Familia y Procesos Grupales  
 **Bloque:** Psicología Social — Cognición social, atribución, relaciones intergrupales y diversidad  
 **Especialidad:** Matemáticas  
-**Viene de:** [Tema 1 — El aula como grupo](../01-el-aula-como-grupo/Tema1_El_aula_como_grupo.md) · [Tema 2 — Relaciones de poder en el aula](../02-relaciones-de-poder-en-el-aula/Tema2_Relaciones_de_poder_en_el_aula.md)
+**Viene de:** [Tema 1 — El aula como grupo](Tema1_El_aula_como_grupo.md) · [Tema 2 — Relaciones de poder en el aula](Tema2_Relaciones_de_poder_en_el_aula.md)
 
 ---
 
@@ -169,8 +169,6 @@ Oportunidades:
 - Pettigrew y Tropp (2006) — meta-análisis del contacto.
 - Aronson — Jigsaw.
 - Johnson & Johnson — aprendizaje cooperativo.
-- Guías docentes y materiales de la asignatura (Universidad de Zaragoza, Anamaria Ursu).
 
 ---
 
-*Apunte orientativo para el Máster de Profesorado · especialidad Matemáticas. Integra contenidos de la Guía Unificada, diapositivas oficiales y materiales de apoyo. Complementa la guía docente; no la sustituye.*
