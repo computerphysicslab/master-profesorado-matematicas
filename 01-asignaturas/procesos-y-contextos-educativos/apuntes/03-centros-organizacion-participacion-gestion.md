@@ -31,6 +31,18 @@ La calidad de la enseñanza de Matemáticas depende también de decisiones que *
 
 **Función general de los órganos de gobierno** (centros públicos): velar para que las actividades del centro se desarrollen de acuerdo con los principios y valores de la Constitución y de la ley de educación, y garantizar la calidad de la enseñanza.
 
+### 1.1. Normativa de referencia
+
+La estructura y el funcionamiento de los centros se regulan principalmente por:
+
+- **Ley Orgánica 3/2020, de 29 de diciembre** (LOMLOE), por la que se modifica la Ley Orgánica 2/2006, de 3 de mayo, de Educación (LOE).
+- **Real Decreto 83/1996, de 26 de enero**, por el que se aprueba el Reglamento orgánico de los institutos de educación secundaria.
+- **Orden de 18 de mayo de 2015**. Instrucciones de organización y funcionamiento de los Institutos de Educación Secundaria (Aragón).
+- **ORDEN ECD/779/2016, de 11 de julio**, por la que se modifica el anexo de la Orden de 18 de mayo de 2015.
+- Texto refundido de las Instrucciones que regulan la organización y funcionamiento de los Institutos de Educación Secundaria de la Comunidad Autónoma de Aragón (documento de consulta, sin valor jurídico).
+
+Estas normas concretan los órganos de gobierno, de coordinación docente y los documentos institucionales que se detallan a continuación.
+
 ---
 
 ## 2. Estructura organizativa (modelo habitual de centros públicos)
@@ -64,9 +76,33 @@ Tres grandes bloques:
 
 *(En centros concertados o privados la estructura tiene analogías, pero con modificaciones en composición y nombramientos.)*
 
+### 2.1. Otros cauces de participación para alumnado y familias
+
+Además de los órganos de gobierno, existen cauces específicos de participación:
+
+- **Delegados y Junta de Delegados** del alumnado.
+- **Asociación de Alumnos**.
+- **AMPA** (Asociación de Madres y Padres de Alumnos).
+
+Estos cauces refuerzan la participación real de la comunidad educativa más allá de la representación formal en el Consejo Escolar.
+
+### 2.2. Roles de reciente creación
+
+En los últimos años se han consolidado roles específicos (según normativa autonómica y necesidades del centro):
+
+- **Coordinador/a de Bienestar y Protección**.
+- **Coordinador/a de Formación del profesorado (COFO)**.
+- **Coordinador/a de Formación en Nuevas Tecnologías para el Aprendizaje (COFOTAP)**.
+- **Coordinador/a de Biblioteca y Recursos Documentales**.
+- **Coordinador/a de Programa de Bilingüismo** (según centros).
+
+Estos roles suelen recaer en profesorado del centro y se coordinan con el equipo directivo y los departamentos.
+
 ---
 
 ## 3. Órganos unipersonales: el equipo directivo
+
+El **Equipo Directivo** es el órgano ejecutivo de los centros públicos. Está compuesto por el Director/a, el Jefe/a de Estudios y el Secretario/a, pudiendo incorporar otros miembros según el tamaño y características del centro. Trabaja desde un enfoque colaborativo, equilibrando la dimensión pedagógica y la administrativa.
 
 Constituyen la estructura ejecutiva y de liderazgo del centro escolar. Sus competencias varían según la titularidad del centro (pública, concertada o privada).
 
@@ -76,21 +112,42 @@ Constituyen la estructura ejecutiva y de liderazgo del centro escolar. Sus compe
 - **Jefe/a de Estudios**
 - **Secretario/a**
 
-### 3.2. Funciones principales del Director/a
+### 3.2. Funciones principales del Director/a (art. 132 LOMLOE)
 
 Máxima autoridad en la gestión administrativa y pedagógica del centro.
 
-- **Representación institucional** ante la Administración y la comunidad.
-- Dirigir la elaboración y garantizar la ejecución del **Proyecto Educativo de Centro (PEC)** y de la **Programación General Anual (PGA)**.
-- Gestión del personal del centro y garantía del cumplimiento de las leyes.
-- Velar por la disciplina, la convivencia y los acuerdos del proyecto de convivencia.
-- Convocar y presidir el Consejo Escolar, el Claustro y los actos académicos.
-- Procesos de gestión administrativa.
-- Proponer el nombramiento del equipo directivo.
-- Impulsar la colaboración de las familias y de la comunidad.
-- Fomentar la cualificación del profesorado, la investigación, la experimentación y la innovación educativa.
-- Impulsar la evaluación interna y colaborar con las evaluaciones externas y la evaluación del profesorado.
-- Diseñar la planificación y la organización docente del centro.
+1. **Representación institucional**  
+   Ostentar la representación del centro, representar a la Administración educativa en el mismo y hacerle llegar a ésta los planteamientos, aspiraciones y necesidades de la comunidad educativa.
+
+2. **Gestión pedagógica**  
+   Dirigir la elaboración del PEC y la PGA, así como garantizar su ejecución. Ejercer la dirección pedagógica, promover la innovación pedagógica e impulsar planes para la consecución de los objetivos del PEC.
+
+3. **Gestión de personal**  
+   Ejercer la jefatura de todo el personal adscrito al centro. Garantizar el cumplimiento de las leyes.
+
+4. **Disciplina y convivencia**  
+   Garantizar el cumplimiento de las leyes y disposiciones vigentes. Favorecer la convivencia escolar, garantizar la mediación en la resolución de los conflictos e imponer al alumnado las medidas disciplinarias que correspondan.
+
+5. **Presidencia de órganos**  
+   Convocar y presidir el Consejo Escolar, el Claustro y los actos académicos.
+
+6. **Gestión administrativa**  
+   Realizar las contrataciones de obras, servicios y suministros, así como autorizar los gastos de acuerdo con el presupuesto del centro, ordenar los pagos y visar las certificaciones y documentos oficiales del centro.
+
+7. **Equipo directivo**  
+   Proponer a la Administración educativa el nombramiento y cese de los miembros del Equipo Directivo, previa información al Claustro del profesorado y al Consejo Escolar del centro.
+
+8. **Colaboración**  
+   Impulsar la colaboración con familias, instituciones y organismos.
+
+9. **Formación e investigación**  
+   Fomentar la cualificación y formación del equipo docente, así como la investigación, la experimentación y la innovación educativa en el centro.
+
+10. **Evaluación**  
+    Impulsar las evaluaciones internas del centro y colaborar en las evaluaciones externas y en la evaluación del profesorado.
+
+11. **PGA**  
+    Diseñar la planificación y organización docente del centro, recogida en la programación general anual.
 
 ### 3.3. Jefe/a de Estudios
 
@@ -110,11 +167,12 @@ Requisitos generales (LOE arts. 133-139, modificada por LOMLOE; desarrollo regla
 | Requisito | Detalle |
 |-----------|---------|
 | **Antigüedad** | Mínimo **5 años** como funcionario/a de carrera en la función pública docente |
-| **Experiencia docente** | Mínimo **5 años** ejerciendo funciones docentes |
+| **Experiencia docente** | Mínimo **5 años** ejerciendo funciones docentes en alguna de las enseñanzas que ofrece el centro |
 | **Formación** | Superar el **programa de formación** sobre el desempeño de la función directiva (mín. 120 h; validez nacional; actualización cada 8 años) |
 | **Proyecto** | Presentar un **Proyecto de Dirección** (objetivos, líneas de actuación, evaluación; análisis del centro) |
-| **Procedimiento** | Concurso de méritos (participación de la comunidad educativa y de la Administración) |
-| **Nombramiento** | Administración educativa (en Aragón: Departamento de Educación, Ciencia y Universidades) por **4 años**, renovable previa evaluación positiva |
+| **Procedimiento** | Concurso de méritos. Selección por comisión constituida por representantes de la Administración y del Consejo Escolar. Se valora el proyecto de dirección y el historial profesional |
+| **Nombramiento** | Administración educativa por **4 años**, renovable previa evaluación positiva |
+| **Reconocimiento** | La Administración fomenta y reconoce la función directiva mediante incentivos económicos y de carrera profesional. El complemento retributivo se mantiene, en caso de evaluación positiva, mientras se siga en activo |
 
 Las candidaturas del profesorado del propio centro tienen preferencia. En ausencia de candidaturas, la Administración puede nombrar de forma excepcional.
 
@@ -126,50 +184,48 @@ Las candidaturas del profesorado del propio centro tienen preferencia. En ausenc
 
 ### 4.1. Consejo Escolar
 
-Órgano colegiado de representación de toda la comunidad educativa (similar al órgano legislativo o parlamento del centro).
+Máximo órgano de participación de la comunidad educativa (similar al órgano legislativo o parlamento del centro).
 
 **Composición** (centros públicos, art. 126 LOE/LOMLOE):
 
-- Director/a (preside).
-- Jefe/a de Estudios.
-- Representantes del **profesorado** (elegidos por el Claustro; **no inferior a 1/3** del total del Consejo).
-- Representantes de **familias y alumnado** (elegidos por y entre ellos; **no inferior a 1/3** del total).
+- **Director/a** (preside).
+- **Jefe/a de Estudios**.
+- Representantes del **profesorado** (elegidos por el Claustro; **mínimo 1/3** del total del Consejo).
+- Representantes de **familias y alumnado** (elegidos respectivamente por y entre ellos; **mínimo 1/3** del total). Los representantes del alumnado pueden ser elegidos desde 1.º de ESO, pero hasta 3.º no participan en la elección de la Dirección.
 - Representante del **Personal de Administración y Servicios (PAS)**.
 - Representante del **Ayuntamiento** (concejal o designado).
-- Secretario/a del centro (con voz y **sin voto**).
+- **Secretario/a** del centro (con voz y **sin voto**).
 
 Una vez constituido, el Consejo designa a una persona que impulse medidas de igualdad real y efectiva entre mujeres y hombres. Uno de los representantes de familias es designado por la asociación de madres y padres más representativa.
 
-**Competencias / funciones principales:**
+**Competencias / funciones principales** (art. 127 LOMLOE):
 
-- Aprobación y evaluación de proyectos institucionales (PEC, PGA).
-- Toma de decisiones estratégicas a nivel directivo y supervisión de la gestión general del centro.
-- Conocer las candidaturas a la dirección y participar en el proceso de selección.
-- Decidir sobre la **admisión** del alumnado.
-- Promover los derechos de la infancia, la convivencia escolar, la resolución pacífica de conflictos y estilos de vida saludables.
-- Analizar y valorar el funcionamiento general del centro y el rendimiento escolar (evaluaciones internas y externas).
-- Promover la conservación y renovación de las instalaciones y del material.
-- Conocer las conductas contrarias a la convivencia y las medidas adoptadas.
-- Colaboración con la comunidad externa.
-- Otras funciones que le atribuya la Administración educativa.
+- **Aprobación y evaluación de proyectos**: Proyecto Educativo de Centro y Programación General Anual (sin perjuicio de las competencias del Claustro). Proyecto de presupuesto del centro.
+- **Selección de Director/a**: Conoce las candidaturas y proyectos y participa en la elección.
+- **Admisión**: Decide sobre la admisión del alumnado de acuerdo a la Ley.
+- **Medidas educativas**: Impulsa y supervisa iniciativas para promover los derechos de la infancia, la convivencia escolar, estilos de vida saludable, igualdad y no discriminación, etc.
+- **Infraestructuras y material**: Promueve la conservación y renovación de instalaciones y materiales.
+- **Convivencia**: Conoce las conductas contrarias a la convivencia y las medidas adoptadas, velando por su ajuste a la normativa.
+- **Colaboración con la comunidad**: Fija directrices para colaborar con administraciones locales, otros centros y entidades.
+- **Análisis y valoración**: Del funcionamiento general del centro, rendimiento escolar y de los resultados de evaluaciones internas o externas. Elaboración de informes y propuestas de mejora.
+- Otras funciones atribuidas por la Administración educativa.
 
 ### 4.2. Claustro de Profesores
 
-Órgano propio de participación de los docentes en el gobierno del centro (órgano técnico-pedagógico). Integrado por la **totalidad** del profesorado que presta servicios en el centro.
+Órgano propio de participación del profesorado en la gestión y gobierno del centro (órgano técnico-pedagógico). Está presidido por el Director/a e integrado por la **totalidad** del profesorado que presta servicios en el centro.
 
-**Funciones principales:**
+**Responsabilidad general**: El Claustro tiene la responsabilidad de planificar, coordinar, informar y, en su caso, decidir sobre todos los aspectos educativos del centro.
 
-- Decisiones pedagógicas, planificación del currículo, criterios de evaluación y promoción de los estudiantes.
-- Informe de las normas de convivencia.
-- Planificación curricular y formulación de propuestas al equipo directivo y al Consejo Escolar sobre el PEC y la PGA.
-- Aprobar y evaluar la **concreción curricular** (competencias específicas de las áreas).
-- Determinar los criterios de orientación, tutoría, evaluación y recuperación del alumnado.
-- Promover iniciativas de **formación del profesorado**, experimentación e innovación metodológica e investigación.
-- Elegir a los representantes del profesorado en el Consejo Escolar.
-- Conocer las candidaturas a director/a y participar en la elección.
-- Analizar el funcionamiento general del centro y la evolución del rendimiento escolar.
-- Atender temas de disciplina y convivencia.
-- Informar sobre las normas de organización y funcionamiento del centro.
+**Competencias principales** (art. 129 LOMLOE):
+
+1. **Planificación curricular**: Formular propuestas al Equipo Directivo y al Consejo Escolar relativas a la elaboración de los Proyectos y de la PGA.
+2. **Aprobación y evaluación**: Aprobar y evaluar la concreción curricular, así como todos los aspectos educativos de los proyectos y de la PGA.
+3. **Determinación de criterios**: referentes a la orientación, tutoría, evaluación y recuperación del alumnado.
+4. **Innovación y formación del profesorado**: Promover iniciativas en el ámbito de la experimentación y de la investigación pedagógica y en la formación del profesorado del centro.
+5. **Participación en elecciones**: Elegir sus representantes en el Consejo Escolar. Conocer las candidaturas a Director/a y participación en la selección del Director/a.
+6. **Evaluación general**: Analizar y valorar el funcionamiento general del centro, la evolución del rendimiento escolar y los resultados de las evaluaciones internas y externas en las que participe el centro.
+7. **Disciplina y convivencia**: Conocer la resolución de conflictos disciplinares y las sanciones, velando por su ajuste a la normativa. Proponer iniciativas que favorezcan la convivencia escolar.
+8. **Normas**: Informar las normas de funcionamiento y organización del centro.
 
 > El Claustro es el espacio donde el docente de Matemáticas influye de forma más directa en los criterios pedagógicos comunes (evaluación, recuperación, atención a la diversidad, formación).
 
@@ -181,11 +237,13 @@ Responsables de la organización e implementación de las enseñanzas y de orden
 
 | Órgano | Función nuclear |
 |--------|-----------------|
-| **Departamentos didácticos / Equipos de ciclo** | Coordinar la programación y el desarrollo de las materias de cada área. En centros grandes se dividen por áreas específicas (Tecnología, Matemáticas, Ciencias…). En centros pequeños, las áreas afines se agrupan. Canalizan las directrices institucionales de Dirección hacia la práctica de aula, articulando la concreción curricular y la elaboración de documentos burocrático-pedagógicos. Reuniones semanales de asistencia obligatoria. |
-| **Departamento de Orientación** | Apoya la atención a la diversidad, el diseño del Plan de Acción Tutorial (PAT) y el seguimiento psicoeducativo. Coordina la orientación académica, profesional y personal. |
-| **Comisión de Coordinación Pedagógica (CCP)** | Coordinar la elaboración de los proyectos curriculares de etapa; asegurar la coherencia entre departamentos y con el PEC; establecer directrices generales para las programaciones didácticas. |
-| **Juntas de evaluación / de profesores de grupo** | Evaluar el progreso del alumnado y tratar casos específicos. |
+| **Departamentos didácticos / Equipos de ciclo** | Coordinar la programación y el desarrollo de las materias de cada área de conocimiento. En centros grandes se dividen por áreas específicas (Tecnología, Matemáticas, Ciencias…). En centros pequeños, las áreas afines se agrupan. Canalizan las directrices institucionales de Dirección hacia la práctica de aula, articulando la concreción curricular y la elaboración de documentos burocrático-pedagógicos. **Reuniones semanales de asistencia obligatoria**. Al menos una vez al mes, las reuniones tendrán por objeto evaluar el desarrollo de la Programación didáctica y establecer las medidas correctoras que esa evaluación aconseje. |
+| **Departamento de Orientación** | Coordina la orientación académica, profesional y personal del alumnado, y apoya la acción tutorial. Apoya la atención a la diversidad, el diseño del Plan de Acción Tutorial (PAT) y el seguimiento psicoeducativo. |
+| **Comisión de Coordinación Pedagógica (CCP)** | Coordina la elaboración de los proyectos curriculares de etapa y asegura la coherencia entre ellos. Establece las directrices generales para la elaboración y revisión de los PCE y de las Programaciones didácticas. En septiembre y, antes del inicio de las actividades lectivas, propondrá un calendario de actuaciones para el seguimiento y evaluación de los PCE y de las posibles modificaciones de los mismos. |
+| **Juntas de evaluación / de profesores de grupo** | Órgano de coordinación donde el equipo docente de cada grupo valora el progreso del alumnado y trata casos específicos. |
 | **Tutorías** | Acción tutorial individual y de grupo (vinculada al Plan de Orientación y Acción Tutorial). |
+| **Departamento de Actividades Complementarias y Extraescolares** | Coordina las actividades complementarias y extraescolares del centro. |
+| **Departamento de Innovación y Formación Educativa** | Impulsa la innovación y la formación del profesorado (según centros). |
 | **Otros** (según centro) | Actividades complementarias, innovación, etc. |
 
 El futuro docente de Matemáticas se insertará en un **departamento didáctico**. Las reuniones semanales no son solo administrativas: son el lugar donde se decide qué se evalúa, cómo se recupera y qué materiales se comparten.
@@ -209,7 +267,7 @@ Los documentos se dividen entre la planificación institucional a largo plazo y 
 │ Convivencia  │                 │ Orientación  │                 │ a la Diversidad  │
 │ e Igualdad   │                 │ y Acción     │                 │ (PAD)            │
 └──────────────┘                 │ Tutorial     │                 └──────────────────┘
-                                 │ (PAT)        │
+                                 │ (PAT / POAT) │
                                  └──────────────┘
                                          │
                                          ▼
@@ -229,21 +287,27 @@ Los documentos se dividen entre la planificación institucional a largo plazo y 
 
 Es la columna vertebral o “ADN” de la institución. Define la declaración de intenciones, señas de identidad, valores institucionales, análisis del entorno sociocultural y la concreción general del currículo.
 
-- **Quiénes somos**: situación del centro, descripción contextual, infraestructura, profesorado, alumnado, procedencia de las familias, composición de la comunidad educativa.
-- **Principios y valores** que guían la función docente (identidad del centro).
-- **Hacia dónde vamos**: misión, objetivos, con autonomía pero respetando la ley.
-- **Cómo nos organizamos**: estructura, ámbitos de desarrollo, reglamento, etc.
-- Análisis de la situación socioeconómica y de los recursos.
+**Elaboración y aprobación**: Lo elabora el Equipo Directivo de acuerdo con los criterios del Consejo Escolar y las propuestas del Claustro. Lo aprueba el Consejo Escolar.
+
+**Contenido esencial**:
+- Recoge los valores, fines y prioridades de actuación asumidos por toda la comunidad escolar, expresando la identidad propia del centro.
+- **01 Análisis de la situación**: Marco legislativo, contexto social/económico y recursos.
+- **02 Señas de identidad**: Valores, principios, líneas pedagógicas y prioridades.
+- **03 Organización**: Criterios de organización y distribución de tiempos, espacios y recursos.
+- **04 Concreción del currículo**: Enfoque competencial y transversal, orientado al ejercicio de ciudadanía activa.
 
 Es **información pública**: debe estar visible en la web del centro.
 
 **Documentos derivados o integrados en el PEC:**
 
-- **Plan de Convivencia y Plan de Igualdad**: Normas, prevención del acoso escolar y protocolos de actuación frente a conflictos.
-- **Reglamento de Régimen Interno (RRI) / NOF**: Establece los derechos y deberes de todos los estamentos de la comunidad educativa.
-- **Plan Digital de Centro**: Hoja de ruta para el uso pedagógico de las TIC, diagnóstico digital, metas de transformación e integración de la competencia digital docente.
-- **Plan de Atención a la Diversidad (PAD)**: Estrategias de inclusión educativa sustentadas en marcos como el Diseño Universal para el Aprendizaje (DUA).
-- **Plan de Orientación y Acción Tutorial (PAT / POAT)**: Marco general para la labor tutorial del centro.
+- **Plan de Convivencia** (Orden ECD/1003/2018, art. 10): Establece los objetivos, criterios y procedimientos para la prevención, mejora y evaluación de la convivencia en el centro. Fomenta un clima de respeto y colaboración.
+- **Plan de Igualdad** (Orden ECD/1003/2018, art. 11): Recoge el diagnóstico, los objetivos y las actuaciones para fomentar la educación en igualdad de mujeres y hombres. Incluye herramientas de evaluación del impacto.
+- **Reglamento de Régimen Interior (RRI) / Normas de Organización y Funcionamiento (NOF)** (Decreto 73/2011, de 22 de marzo; art. 124 LOMLOE): Regula los derechos y deberes de los miembros de la comunidad educativa, la convivencia escolar y los procedimientos de corrección de conductas contrarias a la convivencia.
+- **Plan Digital de Centro**: Documento estratégico que recoge la hoja de ruta para la integración y el uso pedagógico de las tecnologías digitales. Responde a las exigencias de la transformación digital del sistema educativo y al desarrollo de la competencia digital del alumnado y el profesorado. Incluye el diagnóstico digital del centro, las metas de transformación digital, los recursos tecnológicos disponibles y la planificación formativa del profesorado.
+- **Plan de Atención a la Diversidad (PAD)** (Art. 13 de la Orden ECD/1005/2018): Documento institucional que recaba e integra las actuaciones organizativas, metodológicas y de agrupamiento destinadas a dar respuesta a las necesidades del alumnado del centro. Se integra en el Proyecto Curricular de Etapa. Concreta las actuaciones generales y específicas, articula la colaboración con la comunidad educativa, servicios sociales y sanitarios, y establece los procedimientos de valoración y seguimiento.
+- **Plan de Orientación y Acción Tutorial (PAT / POAT)**: Marco general para la labor tutorial del centro (véase sección 7).
+- **Proyecto Curricular de Etapa (PCE)**: Desarrollado por los departamentos y aprobado en Claustro (Instrucciones 23 a 35 de las I.O.F.). Define la oferta formativa y académica del centro, con especial atención a las Programaciones Didácticas y la Programación de Aula.
+- **Plan de Mejoras** y otros planes específicos según el centro.
 
 ### 6.2. Características deseables del PEC
 
@@ -253,14 +317,14 @@ Objetivo, realista, participativo, integrador, coherente, flexible, claro y prec
 ### 6.3. Documentos de gestión anual
 
 1. **Programación General Anual (PGA)**  
-   Recoge el conjunto de objetivos, decisiones, actividades y proyectos programados para un curso académico concreto.  
+   Recoge el conjunto de objetivos, tareas y actividades para el curso académico, así como las personas de la Comunidad Educativa responsables de hacerlo, los recursos y el tiempo necesario para realizarlas y mecanismos de seguimiento.  
    **Proceso de elaboración**: se redacta de forma participativa entre el profesorado y el equipo directivo → se aprueba en Claustro → se evalúa/aprueba en Consejo Escolar → se envía a la Inspección Educativa.
 
 2. **Memoria Anual**  
-   Documento final de evaluación donde se analiza el grado de cumplimiento de los objetivos planteados en la PGA y se identifican propuestas de mejora para el curso posterior.
+   Constituye el documento de evaluación de todas las actuaciones desarrolladas en el curso, tomando como referencia el plan anual. Plantea propuestas de mejora para el siguiente curso.
 
-3. **Presupuesto Económico**  
-   Gestión y ejecución de los recursos económicos asignados o propios del centro.
+3. **Proyecto de Gestión / Presupuesto**  
+   Es un plan contable para la gestión de los recursos económicos. Expresa la ordenación y la utilización de los recursos propios del centro, tanto materiales como humanos, en los términos que establezca la Administración educativa.
 
 ### 6.4. Mapa mental de documentos
 
@@ -270,9 +334,14 @@ Objetivo, realista, participativo, integrador, coherente, flexible, claro y prec
 | **PGA** | Plan concreto del curso académico (organización, proyectos, currículo, normas, planes) |
 | **Programaciones didácticas** | Materias / departamentos |
 | **Plan de convivencia** | Normas, prevención, mediación |
+| **Plan de igualdad** | Educación en igualdad de mujeres y hombres |
 | **Plan de atención a la diversidad** | Medidas ordinarias y específicas |
+| **Plan Digital de Centro** | Transformación digital y competencia digital |
+| **POAT / PAT** | Orientación y acción tutorial |
+| **PCE** | Concreción curricular de etapa |
 | **NOF / RRI** | Normas de organización y funcionamiento / régimen interior |
 | **Memoria final de curso** | Evaluación y balance del cumplimiento de la PGA |
+| **Proyecto de Gestión / Presupuesto** | Gestión de recursos económicos |
 
 El docente novel debe **leer** al menos el PEC (o su resumen), el plan de convivencia y la programación del departamento de Matemáticas: ahí se concreta el margen real de acción.
 
@@ -282,9 +351,9 @@ El docente novel debe **leer** al menos el PEC (o su resumen), el plan de conviv
 
 El PAT establece los criterios organizativos, líneas de actuación y diseño de sesiones que desarrollarán los tutores a lo largo del curso.
 
-- la participación puede ser **formal** (votaciones, actas) o **real** (debate pedagógico, corresponsabilidad);
-- hay **tensión** habitual entre autonomía docente, acuerdos de departamento e instrucciones de dirección;
-- las familias y el alumnado no son «clientes»: son parte de la comunidad educativa (con límites legales claros sobre evaluación y privacidad).
+**Elaboración**: Desarrollado por el Departamento de Orientación de acuerdo con los criterios del Claustro, aportaciones de los tutores y directrices de la CCP. Se presenta en la CCP antes del inicio de curso para su discusión e inclusión en el PEC.
+
+**Contenido**: Establece los criterios para organizar la orientación y planifica las actividades que corresponden a los tutores a lo largo del curso escolar.
 
 La acción tutorial es **derecho del alumnado** y función compartida del profesorado: continua, coordinada, personalizada y orientada a la autonomía.
 
@@ -293,7 +362,7 @@ La acción tutorial es **derecho del alumnado** y función compartida del profes
 Además de la participación institucional (Consejo Escolar), el día a día del docente de Matemáticas incluye **tutoría de materia**, mensajes por el canal oficial y entrevistas.
 
 [**Acción tutorial y orientación en Secundaria**](../materiales/accion-tutorial-orientacion-secundaria.md).  
-**Concepto, tres ejes, mirada sociológica, debates y Matriz de Eisenhower**): [apuntes de sesión](../materiales/accion-tutorial-orientacion-secundaria-2.md).
+**Concepto, tres ejes, mirada sociológica, debates y Matriz de Eisenhower**: [apuntes de sesión](../materiales/accion-tutorial-orientacion-secundaria-2.md).
 
 **[Comunicación con familias (foco Matemáticas)](../../sociedad-familia-y-procesos-grupales/materiales/comunicacion-con-familias-matematicas.md)**
 
@@ -398,5 +467,4 @@ La **LODE** (1985) consagró la participación (consejos escolares, etc.). En la
 
 ---
 
-*Ampliado con la sesión de clase del 19-oct-2026 (órganos de gobierno, coordinación docente y PEC) + apuntes de clase sobre discurso educativo, documentos estratégicos, ejes del PAT y directrices del trabajo grupal. Verificación normativa (LOE/LOMLOE arts. 126, 133-139; RD formación directiva).*
-
+*Ampliado con la sesión de clase del 19-oct-2026 (órganos de gobierno, coordinación docente y PEC) + apuntes de clase sobre discurso educativo, documentos estratégicos, ejes del PAT y directrices del trabajo grupal. Verificación normativa (LOE/LOMLOE arts. 126, 133-139; RD formación directiva). Incorporados contenidos de normativa de referencia, roles de reciente creación, competencias detalladas de órganos y documentos institucionales (PEC, Plan Digital, POAT, PCE, PAD, RRI, Plan de Convivencia, Plan de Igualdad, PGA, Memoria y Proyecto de Gestión).*
