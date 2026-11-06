@@ -1,8 +1,8 @@
 # Acción tutorial y orientación en Educación Secundaria
 
 **Tema 3** · Material complementario  
-**Uso:** apunte de centros, practicum, comunicación con familias, coordinación con orientación  
-**Actualizado:** 2026-10-30 (fusión de material de referencia + apuntes de sesión 23-oct-2026)
+**Uso:** apunte de centros, practicum, comunicación con familias, coordinación con orientación, justificación de actividades extensibles y portafolio  
+**Actualizado:** 2026-11-06 (fusión de material de referencia + sesiones 23-oct y 06-nov-2026)
 
 > La acción tutorial es «actividad orientadora intencional llevada a cabo por el profesorado en el ejercicio de su función docente, muy especialmente por el tutor, realizando una labor de acompañamiento continuo y personalizado a cada alumno y grupo de alumnos que garantice su desarrollo integral en todos los ámbitos: académico, social, personal y profesional» (González-Benito y Vélaz-de-Medrano, 2014, p. 107).
 
@@ -14,7 +14,7 @@
 
 La **acción tutorial** es una función inherente a la actividad docente que acompaña de forma continua al proceso formal de enseñanza-aprendizaje.
 
-* **Naturaleza jurídica e institucional:** No es una opción voluntaria o personal del docente; está **institucionalizada e integrada en la legislación educativa** como un indicador clave de calidad (articulada en centros a través del **POAT** - Plan de Orientación y Acción Tutorial).
+* **Naturaleza jurídica e institucional:** No es una opción voluntaria o personal del docente; está **institucionalizada e integrada en la legislación educativa** como un indicador clave de calidad (articulada en centros a través del **POAT** — Plan de Orientación y Acción Tutorial).
 * **Definición:** Proceso de ayuda y orientación continuo, preventivo y contextualizado, dirigido tanto al alumnado individualmente como al grupo clase.
 * **Integración:** Aglutina la dimensión **instructiva/académica** con la **no académica** (desarrollo personal, social y emocional).
 
@@ -41,7 +41,7 @@ Cada estudiante debe ser acompañado en los procesos de desarrollo y toma de dec
 
 - Ayuda y orientación al alumno o al grupo que el profesor-tutor realiza **además de, y en paralelo a**, su acción docente (Sánchez Cerezo et al., 1988).
 - Actividad inherente a la función del profesor, individual y colectiva, para facilitar la integración personal de los procesos de aprendizaje (Lázaro y Asensi, 1989).
-- Acción orientadora del tutor y del resto del profesorado, individual y grupal, que aglutina lo instructivo-académico y lo no académico, y que contribuye al desarrollo integral del alumnado en la medida en que contribuye a su desarrollo integral; su planificación y desarrollo es compartido e implica a toda la comunidad educativa.
+- Acción orientadora del tutor y del resto del profesorado, individual y grupal, que aglutina lo instructivo-académico y lo no académico, y que contribuye al desarrollo integral del alumnado; su planificación y desarrollo es compartido e implica a toda la comunidad educativa.
 
 ---
 
@@ -88,29 +88,37 @@ El tutor asegura la **atención personalizada**, el **seguimiento individualizad
 1. Asegura la coherencia y unidad de las programaciones de los distintos docentes del grupo y atiende los temas transversales.
 2. Adecua la oferta educativa (objetivos, contenidos, orientaciones didácticas y proceso evaluador) a las necesidades del alumnado.
 
-Funciones transversales: prevención, intervención, coordinación, evaluación, asesoramiento, mediación.
+Funciones transversales: **prevención**, **intervención** (si es necesario), **coordinación**, **evaluación permanente** del alumnado, **asesoramiento** y **mediación** (especialmente con las familias).
 
 ### 3.3. Tres niveles interconectados
 
 | Nivel | Responsabilidad principal |
 |-------|---------------------------|
-| **Aula** | Equipo docente y, especialmente, quien asume la tutoría del grupo-clase. |
-| **Centro** | Departamento de Orientación (o estructura equivalente): planifica y coordina la orientación general. |
-| **Sector** | Recursos de orientación del sector (equipos especializados): asesoramiento y apoyo a los centros. |
+| **Aula** | Equipo docente y, especialmente, quien asume la tutoría del grupo-clase. Primer nivel de detección (no solo de dificultades, también de potencialidades). |
+| **Centro** | Departamento de Orientación (o estructura equivalente): planifica y coordina la orientación general y los planes de tutoría. |
+| **Sector** | Recursos de orientación del sector (equipos especializados): asesoramiento y apoyo a los centros cuando se requieren situaciones que lo precisan (especialmente alumnado con necesidades específicas). |
 
 ### 3.4. Funciones del tutor según interlocutor
 
 | Interlocutor | Acciones clave |
 |--------------|----------------|
-| **Centro** | Conocer el contexto externo e interno; coordinación y comunicación con el equipo directivo. |
-| **Profesorado** | Implicar al equipo en los objetivos de la tutoría; comunicación fluida; dirigir las sesiones de evaluación. |
-| **Grupo / aula** | Conocer el funcionamiento del aula y del grupo; crear y gestionar grupos; diagnosticar y resolver conflictos (incluyendo el subsuelo del grupo). |
-| **Familias** | Conocer a la familia; apoyar, acoger e integrar; establecer comunicación individual y grupal. |
+| **Centro** | Conocer el contexto externo e interno; coordinación y comunicación con el equipo directivo; conocer el entorno próximo del centro (biblioteca, centro cívico, museo, residencia, recursos del barrio…). |
+| **Profesorado** | Implicar al equipo en los objetivos de la tutoría; comunicación fluida; dirigir las sesiones de evaluación; nutrirse de las visiones complementarias del resto del claustro. |
+| **Grupo / aula** | Conocer el funcionamiento del aula y del grupo; crear y gestionar grupos; diagnosticar y resolver conflictos (incluyendo el “subsuelo” del grupo). |
+| **Familias** | Conocer a la familia (origen, nivel socioeconómico y formativo, diversidad cultural/religiosa/lingüística, conformación familiar…); apoyar, acoger e integrar; establecer comunicación individual y grupal. |
 | **Alumnado** | Escucha activa; conocer necesidades, intereses y capacidades; apoyar fomentando motivaciones; gestionar en contextos desfavorecidos. |
 
-*(Síntesis basada en Vidal et al., 2023.)*
+*(Síntesis basada en Vidal et al., 2023 y ampliación de sesión de clase.)*
 
-### 3.5. Decálogo del tutor (síntesis Cano González, 2013)
+### 3.5. Colaboración docente como eje del modelo inclusivo
+
+La transformación organizativa de los centros hacia modelos inclusivos y la propia acción tutorial se sustentan en la **colaboración y la cooperación del profesorado**. Difícilmente se pueden sacar adelante estas funciones de forma meramente individual.
+
+Aunque a nivel individual se trabaja con el grupo de referencia, el tutor se nutre de la labor del resto del profesorado: otras visiones complementan la propia. Implicar al claustro en los objetivos de la tutoría es esencial.
+
+Esto obliga a preguntarse no solo por las habilidades sociales (“ser buena gente”, cumplir tareas), sino también por el **conocimiento compartido**: del alumnado, del centro y del tema. La capacidad de trabajo en equipo es, por tanto, una competencia profesional central del docente-tutor.
+
+### 3.6. Decálogo del tutor (síntesis Cano González, 2013)
 
 - Completa en la tutoría lo que a la instrucción le falta.
 - Con el adolescente, ni delante ni detrás: **a su lado**.
@@ -128,14 +136,14 @@ Funciones transversales: prevención, intervención, coordinación, evaluación,
 
 Toda acción y planificación tutorial gira en torno a tres grandes dimensiones (también denominadas ejes del POAT):
 
-1. **Aprender a ser persona y a convivir** (Desarrollo personal y social / Desarrollo pleno de la personalidad e integración comunitaria)  
+1. **Aprender a ser persona y a convivir** (desarrollo personal y social / desarrollo afectivo, convivencia)  
    Fomento de la cohesión grupal, gestión del clima de aula, habilidades sociales, educación emocional, resolución de conflictos, educación en valores democráticos, promoción de hábitos de vida saludables, autoconocimiento, prevención del *bullying* o acoso escolar, inclusión y sentido de pertenencia a la comunidad.
 
-2. **Aprender a aprender** (Desarrollo académico)  
-   Técnicas de estudio y trabajo intelectual, gestión del tiempo, organización de tareas, estrategias de aprendizaje autónomo y seguimiento individualizado del rendimiento.
+2. **Aprender a aprender** (desarrollo académico / orientación del aprendizaje)  
+   Técnicas de estudio y trabajo intelectual, gestión del tiempo, organización de tareas, estrategias de aprendizaje autónomo, seguimiento individualizado del rendimiento y de los mecanismos de autorregulación del alumnado.
 
-3. **Aprender a decidir** (Orientación académica, vocacional y profesional)  
-   Proceso de toma de decisiones educativas e itinerarios formativos (especialmente relevante en 3.º/4.º de ESO, Bachillerato y Formación Profesional). Acompañamiento en la elección de estudios, transiciones entre etapas (ESO a Bachillerato/FP, Selectividad/EvAU). Información sobre la oferta del mercado laboral y continuidad de estudios (Grados Formativos, Universidad).
+3. **Aprender a decidir** (orientación académica, vocacional y profesional)  
+   Proceso de toma de decisiones educativas e itinerarios formativos (especialmente relevante en 3.º/4.º de ESO, Bachillerato y Formación Profesional). Acompañamiento en la elección de estudios, transiciones entre etapas, conocimiento de aptitudes, actitudes y resultados académicos. Orientación también hacia la oferta de Formación Profesional (valiosa y diversa). Requiere conocimiento del sistema educativo, de las características del estudiante, de su etapa evolutiva y de su contexto social.
 
 Las actividades se adaptan a cada grupo (individual, grupal o intergrupal) y se refuerzan con el Plan de Convivencia y el Plan de Igualdad.
 
@@ -149,21 +157,42 @@ Las actividades se adaptan a cada grupo (individual, grupal o intergrupal) y se 
 - Búsqueda y análisis de información.
 - Combatir estereotipos, respeto mutuo, cooperación y resolución de conflictos.
 
+### 4.1. Orientación al trabajo final y role-playing
+
+El plan de acción tutorial que se elabora (trimestral, con tres sesiones desarrolladas en profundidad) se sitúa en estas tres dimensiones. En la puesta en escena final (role-playing de la última semana de clase) conviene elegir conscientemente sobre cuál de los ejes se va a trabajar: aprender a ser persona / convivencia, aprender a aprender, o aprender a decidir.
+
 ---
 
 ## 5. La importancia de la mirada sociológica y la lectura del contexto
 
 Para que la tutoría sea pertinente y efectiva, el docente debe ejercer un **rol investigativo y reflexivo**:
 
-* **Comprensión del Contexto Socioeconómico y Cultural:**
-   * Analizar el barrio/comunidad donde se inserta el centro (recursos, nivel socioeconómico, dinámicas socioculturales).
-   * Identificar la red comunitaria para establecer alianzas o puentes institucionales.
-* **Atención a la Diversidad del Aula:**
-   * Reconocer los cambios demográficos y migratorios en las aulas (alumnado de diversas nacionalidades, orígenes y realidades familiares).
-   * **Superación de sesgos propios:** El profesorado debe cuestionar sus propios prejuicios e incomodidades frente a realidades desconocidas o emergentes (estéticas, diversidad afectivo-sexual, ideologías) para no distorsionar el proceso de orientación.
-* **Comprensión de los Referentes e Insumos del Alumnado:**
-   * Entender qué consumen los jóvenes fuera del aula (redes sociales, TikTok, influencers, series de televisión).
-   * Adaptar el discurso adulto/académico para conectar con las expectativas y discursos que influyen en sus decisiones (ej. búsqueda de dinero rápido vs. formación académica).
+* **Comprensión del contexto socioeconómico y cultural:**
+  * Analizar el barrio/comunidad donde se inserta el centro (recursos, nivel socioeconómico, dinámicas socioculturales).
+  * Identificar la red comunitaria para establecer alianzas o puentes institucionales (biblioteca, centro cívico, museo, residencia, servicios del barrio…).
+* **Atención a la diversidad del aula y de las familias:**
+  * Reconocer cambios demográficos y migratorios, diversidad religiosa, cultural, lingüística, de conformación familiar, nivel formativo de las familias, capital cultural (qué se lee en casa, qué se regala…).
+  * **Superación de sesgos propios:** El profesorado debe cuestionar sus propios prejuicios e incomodidades frente a realidades desconocidas o emergentes (estéticas, diversidad afectivo-sexual, ideologías) para no distorsionar el proceso de orientación. Se trabaja con “gente de todos los tipos, de todos los colores y de todas las ideologías”.
+* **Comprensión de los referentes e insumos del alumnado:**
+  * Entender qué consumen los jóvenes fuera del aula (redes sociales, TikTok, influencers, series, música…).
+  * Adaptar el discurso adulto/académico para conectar con las expectativas y discursos que influyen en sus decisiones.
+
+### 5.1. Cultura popular como puente pedagógico
+
+Utilizar elementos de la cultura popular (música, cine, televisión, series, referencias del día a día) permite transitar de conceptos abstractos a la realidad del aula. Facilita que el alumnado traslade el concepto a la práctica a través de algo propio de su mundo.
+
+Ejemplos de uso en clase de formación del profesorado:
+- Referencias a canciones (p. ej. Shakira: “se me acaba el argumento y la metodología”) para hablar de fundamentos y metodología.
+- Series o programas de televisión (First Dates, etc.) como anclaje de ideas.
+- Conocer los gustos musicales, de ocio o de consumo cultural del grupo (futbolín, montaña, escalada, yoga, series…) para generar asociaciones y favorecer la retención de contenidos.
+
+Como docentes, la tarea incluye **conocer el mundo de las personas a las que se da clase**. Cuando los nervios de los primeros años llevan a aferrarse solo al dominio del tema, el alumnado puede desconectar; conectar con su vida e intereses es una vía para engancharlos.
+
+### 5.2. Autocuidado del tutor y gestión de la energía emocional
+
+La acción tutorial implica absorber mucha energía emocional del grupo (comentarios cargados, rabia, desmotivación, tensión). Un ejemplo de clase: la actividad de post-its sobre “lo que molesta del máster / del proceso de formación” generó una carga emocional alta que obligó a pausar el análisis para no contaminar la motivación docente.
+
+Lección para el futuro tutor: **cuidarse** es condición de posibilidad. Si uno no está bien, es muy difícil desarrollar los procesos de enseñanza-aprendizaje de forma adecuada. No hay nada peor que llegar a clase desmotivado o sentir que no se conecta con el grupo. La gestión emocional propia forma parte de la profesionalidad tutorial.
 
 ---
 
@@ -182,39 +211,48 @@ El POAT se elabora habitualmente desde el Departamento de Orientación con crite
 | Tipo | Individuales | Colectivas / de grupo |
 |------|--------------|-----------------------|
 | **Estandarizadas** | Tests psicopedagógicos | Sociométricas (sociograma) |
-| **No estandarizadas** | Entrevista, observación, cuestionario | Técnicas de intervención activa (torbellino de ideas, role-playing, Phillips 6×6, debate dirigido…) y de intervención de expertos (simposio, mesa redonda…) |
+| **No estandarizadas** | Entrevista, observación, cuestionario, conversaciones informales | Técnicas de intervención activa (torbellino de ideas, role-playing, Phillips 6×6, debate dirigido…) y de intervención de expertos (simposio, mesa redonda, grupos focales…) |
 
 La **observación sistemática** atraviesa ambos bloques y se documenta con instrumentos.
 
-### 7.2. Observación
+Estas técnicas se pueden leer desde dos paradigmas de investigación:
+- **Técnico-racional / positivista:** tests, mediciones, perfiles. Miden algo concreto.
+- **Interpretativo / cualitativo / hermenéutico:** observación etnográfica, conversaciones, grupos focales. Buscan comprender significados y contextos.
+
+Ambas son útiles; el docente-tutor necesita sentirse cómodo con las perspectivas interpretativas y estar en disposición de escuchar.
+
+### 7.2. Observación (educar la mirada)
 
 Condiciones: intencionalidad, planificación, continuidad, objetividad y sistematización.
 
 **Instrumentos de observación directa**
-
 - Registros anecdóticos (hechos significativos).
 - Listas de control (presencia/ausencia de rasgos o conductas).
 - Escalas de estimación (grado o intensidad cuantitativa/cualitativa).
 
 **Instrumentos de observación indirecta**
-
 - Registros acumulativos / portafolios.
 - Diario docente (evolución, dificultades, logros, incidencias de cada estudiante).
 
-### 7.3. La entrevista (fases)
+**Actitud etnográfica:** la capacidad de observar con sentido, con una intención (“¿qué le pasa a este grupo?”, “¿por qué este estudiante se aísla?”). No se observa con la mirada desprevenida. La etnografía (propia de la sociología y la antropología) forma parte de la caja de herramientas del docente investigador de sus prácticas.
+
+### 7.3. Conversaciones informales y “ser entrometido”
+
+Más allá de la entrevista formal, las **conversaciones informales** son una fuente privilegiada de información. Ejemplo real de clase: un saludo de cinco minutos en el bar de la facultad (“¿cómo va el máster?”) permitió detectar desmotivación y carga de trabajo y originó una actividad de recogida de datos sobre el clima del grupo.
+
+Actitud constante del docente-tutor: estar atento a los discursos que circulan (en el recreo, en el transporte, en los pasillos). “Ser entrometido” —escuchar trozos de conversación, anotar cuando es relevante— permite conocer los discursos reales del alumnado y ajustar la acción tutorial. Una cosa es lo que dice el POAT; otra es el material del día a día que solo se obtiene escuchando.
+
+### 7.4. La entrevista (fases)
 
 1. **Preparación:** estudiar el expediente; preparar temas y preguntas; disponer lugar sin interrupciones.
-2. **Desarrollo:**
-   - *Apertura:* acogida afectuosa, preguntas motivadoras, cercanía.
-   - *Comienzo:* informar fines, invitar a hablar con libertad, facilitar el relato (resúmenes parciales, preguntas oportunas, respeto a silencios).
-   - *Cierre:* resumen, plan de actuación acordado, compromiso de revisión.
-3. **Registro:** valoración serena (hechos vs. impresiones); diseño del plan definitivo para entrevista posterior.
+2. **Desarrollo:** clima de confianza, escucha activa, reformulación, no juzgar.
+3. **Cierre y seguimiento:** acuerdos claros, registro y derivación si procede.
 
-### 7.4. Sociograma
+### 7.5. Sociometría y técnicas de grupo
 
-Radiografía de las relaciones de influencia y preferencia del grupo. Se recomienda con grupos que se conocen; ítems referidos a deseos personales. Sirve para identificar líderes, integrados, rechazados o marginados, analizar causas y contrastar con la observación cotidiana. Los resultados orientan la intervención.
+El **sociograma** permite identificar líderes, integrados, rechazados o marginados, analizar causas y contrastar con la observación cotidiana. Los resultados orientan la intervención.
 
-### 7.5. Técnicas de dinámica de grupo (ejemplos)
+**Técnicas de dinámica de grupo (ejemplos)**
 
 | Técnica | Descripción breve |
 |---------|-------------------|
@@ -222,41 +260,38 @@ Radiografía de las relaciones de influencia y preferencia del grupo. Se recomie
 | **Juego de roles** | Representación de una situación real asumiendo roles distintos para comprender el hecho. |
 | **Torbellino de ideas** | Generar el mayor número posible de ideas sobre un problema; útil para soluciones a conflictos. |
 | **Phillips 6×6** | Grupos de 6 estudiantes, 6 minutos para proponer solución; luego puesta en común y conclusión de clase. |
+| **Mesa redonda / grupo focal** | Técnica de intervención de expertos o de recogida de información colectiva (ver § 7.6 y § 9). |
 
 ### 7.6. Matriz orientativa de herramientas según interlocutor
 
-|  | Entrevistas | Observación participante | Encuestas | Especialistas | Análisis e informes | Planes de mejora |
-|--|-------------|--------------------------|-----------|---------------|---------------------|------------------|
-| **Centro / profesorado** |  |  |  |  | ● | ● |
-| **Grupo / aula** |  | ● | ● |  |  |  |
+|  | Entrevistas / conversaciones | Observación | Encuestas / cuestionarios | Especialistas | Análisis e informes | Técnicas grupales |
+|--|------------------------------|-------------|---------------------------|---------------|---------------------|-------------------|
+| **Centro / profesorado** | ● |  |  |  | ● |  |
+| **Grupo / aula** | ● | ● | ● |  |  | ● |
 | **Familias** | ● |  |  |  |  |  |
-| **Alumnado** | ● |  |  | ● |  |  |
+| **Alumnado** | ● | ● | ● | ● |  | ● |
 
-*(Basado en Vidal et al., 2023; adaptar al contexto del centro.)*
+*(Basado en Vidal et al., 2023; ampliar según contexto. Todas las técnicas pueden servir para todos los agentes si se elige el momento adecuado.)*
 
 ### 7.7. Recursos y herramientas prácticas adicionales
 
-* **Técnicas de Organización y Gestión del Tiempo:** Uso de herramientas de priorización de tareas (como la *Matriz de Eisenhower*: urgente vs. importante) e incentivo del uso de agendas o planificadores.
-* **Estrategias Metodológicas e Interdisciplinares:** Aprovechar asignaturas como Historia, Filosofía, Lenguas o Ciencias para introducir transversalmente temas de sostenibilidad, diversidad, pensamiento crítico y análisis de la actualidad (prensa, contraste de programas políticos).
+* **Técnicas de organización y gestión del tiempo:** Matriz de Eisenhower (urgente vs. importante), agendas, planificadores.
+* **Estrategias metodológicas e interdisciplinares:** Aprovechar asignaturas para introducir transversalmente temas de sostenibilidad, diversidad, pensamiento crítico y análisis de la actualidad.
 
 ---
 
 ## 8. La Matriz de Eisenhower: Urgente vs. Importante
 
-La **Matriz de Eisenhower** (también conocida como la *Matriz de Priorización* o *Caja de Eisenhower*) es un marco de trabajo de gestión del tiempo diseñado para ayudar a priorizar tareas según sus niveles de **urgencia** e **importancia**.
-
-Esta herramienta fue popularizada por Stephen Covey en su libro *Los 7 hábitos de la gente altamente efectiva*, basándose en una cita atribuida al expresidente de los Estados Unidos, Dwight D. Eisenhower:
+La **Matriz de Eisenhower** (o *Matriz de Priorización*) ayuda a priorizar tareas según **urgencia** e **importancia**. Popularizada por Stephen Covey a partir de una cita atribuida a Dwight D. Eisenhower:
 
 > *"Tengo dos clases de problemas: los urgentes y los importantes. Los urgentes no son importantes, y los importantes nunca son urgentes."*
 
 ### 8.1. Definiciones clave
 
-* **Urgente:** Tareas que requieren atención inmediata. Suelen estar asociadas con el cumplimiento de plazos límites, presiones externas y la resolución de problemas imprevistos. Generan un estado de reactividad y estrés.
-* **Importante:** Tareas que contribuyen a nuestras metas, valores y objetivos a largo plazo. Requieren planificación, iniciativa y proactividad.
+* **Urgente:** Tareas que requieren atención inmediata. Asociadas a plazos, presiones externas y problemas imprevistos. Generan reactividad y estrés.
+* **Importante:** Tareas que contribuyen a metas, valores y objetivos a largo plazo. Requieren planificación e iniciativa.
 
 ### 8.2. Estructura de los cuatro cuadrantes
-
-La matriz se organiza en una cuadrícula de 2 × 2 según dos ejes: el eje horizontal representa la **urgencia** y el eje vertical representa la **importancia**.
 
 ```
               URGENTE                NO URGENTE
@@ -278,136 +313,81 @@ La matriz se organiza en una cuadrícula de 2 × 2 según dos ejes: el eje horiz
 ```
 
 #### Cuadrante 1: Hacer (Urgente e Importante)
-
-**Acción:** Realizar inmediatamente.
-
-Son las crisis, problemas apremiantes o proyectos con plazos de entrega inminentes. Requieren atención directa y prioritaria.
-
-* **Ejemplos en el ámbito tutorial:**
-  * Situación de acoso o conflicto grave que requiere mediación inmediata.
-  * Entrevista urgente con familia por riesgo de abandono escolar.
-  * Coordinación de emergencia con orientación o servicios sociales.
+**Acción:** Realizar inmediatamente.  
+Ejemplos tutoriales: acoso o conflicto grave, entrevista urgente por riesgo de abandono, coordinación de emergencia con orientación o servicios sociales.
 
 #### Cuadrante 2: Planificar (Importante pero No Urgente)
-
-**Acción:** Agendar y proteger tiempo.
-
-Son las actividades que construyen el futuro y previenen crisis. El tutor eficaz dedica la mayor parte de su tiempo aquí.
-
-* **Ejemplos:**
-  * Diseño y secuencia de las sesiones de tutoría del trimestre.
-  * Seguimiento preventivo del alumnado en riesgo.
-  * Formación propia y preparación de materiales de orientación.
-  * Construcción de vínculo y clima de grupo.
+**Acción:** Agendar y proteger tiempo.  
+Es el cuadrante del tutor eficaz: diseño de las sesiones de tutoría del trimestre, seguimiento preventivo del alumnado en riesgo, formación permanente, construcción de relaciones de confianza con el grupo y las familias.
 
 #### Cuadrante 3: Delegar (Urgente pero No Importante)
-
-**Acción:** Reasignar, automatizar o reducir.
-
-Tareas que demandan atención inmediata pero no contribuyen significativamente a los objetivos prioritarios de la tutoría.
-
-* **Ejemplos:**
-  * Trámites administrativos rutinarios que pueden derivarse.
-  * Responder de inmediato a correos de baja prioridad.
-  * Reuniones improductivas o sin propósito claro.
-
-**Consecuencia de un exceso de tiempo aquí:** Sensación de estar siempre ocupado sin lograr resultados significativos a largo plazo.
+**Acción:** Delegar o reducir.  
+Muchas interrupciones, algunos correos o gestiones burocráticas que otros pueden asumir.
 
 #### Cuadrante 4: Eliminar (Ni Urgente ni Importante)
+**Acción:** Eliminar o minimizar.  
+Distracciones, tareas que no aportan a los objetivos de la tutoría ni del centro.
 
-**Acción:** Descartar o reducir al mínimo.
-
-Actividades que no aportan valor ni contribuyen al bienestar o avance hacia metas personales o profesionales. Suelen actuar como formas de procrastinación o evasión.
-
-* **Ejemplos:**
-  * Navegación en redes sociales sin un objetivo definido.
-  * Tareas triviales que sirven como excusa para evitar el trabajo complejo.
-* **Nota:** El descanso consciente y planificado pertenece al **Cuadrante 2**, no al Cuadrante 4.
-
-### 8.3. Resumen operativo para la toma de decisiones
-
-| Cuadrante | Urgente | Importante | Estrategia | Acción sugerida |
-| :--- | :---: | :---: | :--- | :--- |
-| **Q1** | Sí | Sí | **Hacer** | Resolver de inmediato |
-| **Q2** | No | Sí | **Planificar** | Agendar en el calendario |
-| **Q3** | Sí | No | **Delegar** | Reasignar o automatizar |
-| **Q4** | No | No | **Eliminar** | Cancelar o reducir |
-
-### 8.4. Pasos para implementar la matriz
-
-1. **Listar las tareas:** Escribir todas las actividades o compromisos pendientes del día o la semana.
-2. **Evaluar la importancia:** Clasificar cada tarea analizando si contribuye directamente a las metas u objetivos prioritarios.
-3. **Evaluar la urgencia:** Determinar qué tareas tienen un límite temporal estricto e inminente.
-4. **Ubicar en los cuadrantes:** Clasificar cada elemento en su respectiva casilla.
-5. **Ejecutar en orden de prioridad:**
-   * Completar lo que está en el **Q1**.
-   * Bloquear tiempo en la agenda para avanzar en el **Q2**.
-   * Delegar o automatizar el **Q3**.
-   * Eliminar las actividades del **Q4**.
+El riesgo del tutor es vivir permanentemente en el Cuadrante 1 (apagafuegos) y no proteger el Cuadrante 2 (prevención y desarrollo).
 
 ---
 
-## 9. Debates de clase y reflexiones sobre la práctica docente
+## 9. Justificación teórica de la mesa redonda (actividad extensible)
 
-### 9.1. Ideologías, radicalización y valores democráticos
+La mesa redonda es una de las actividades extensibles del curso. Metodológicamente debe conceptualizarse:
 
-* **El reto de la diversidad ideológica:** El aula refleja fenómenos globales y posicionamientos políticos polarizados (p. ej., discursos de ultra-ideología o conductas disruptivas asociadas a simbología/comportamientos antidemocráticos).
-* **El límite entre orientar y adoctrinar:** La responsabilidad del tutor es promover valores democráticos, tolerancia y convivencia respetando la ley educativa, evitando imponer visiones sesgadas pero interviniendo activamente ante conductas discriminatorias o de acoso (*bullying*).
+* **Qué es** una mesa redonda como técnica: encuentro estructurado en el que varias personas (en este caso, docentes en activo) exponen y dialogan sobre un tema ante un auditorio, con moderación.
+* **Qué tipo de aprendizaje genera:** aprendizaje experiencial, vicario, de modelado; contacto con la práctica real; contraste de discursos.
+* **Qué aporta a la formación del profesorado:** acceso a la experiencia profesional, a la construcción de la identidad docente y a la acción tutorial cotidiana.
 
-### 9.2. El impacto docente ("Salario Emocional")
+### 9.1. Contenidos temáticos abordados
 
-* **Cine vs. Optimismo:** Frente a la postura de que el sistema educativo o la tutoría tienen un impacto limitado ante dinámicas sociales complejas, se defiende el enfoque del **impacto individual**. Cambiar o guiar positivamente la trayectoria de aunque sea un solo alumno justifica la labor docente.
-* **Construcción de vínculos:** El establecimiento de referentes y la memoria afectiva (vínculo personal, acompañamiento en momentos difíciles) constituyen el "salario emocional" de la función tutorial.
+1. Construcción de la identidad docente y mantenimiento de la motivación.
+2. Acción tutorial (cómo se vive en el día a día del centro).
 
-### 9.3. Trabajo con las familias
+### 9.2. Meta-reflexión necesaria (evitar reduccionismos)
 
-* La relación con las familias representa uno de los mayores retos para el profesorado principiante.
-* Es clave mantener el rigor profesional, la empatía y conocer los cauces institucionales (Servicios Sociales, mediación) ante situaciones complejas detectadas en el ámbito familiar.
+La mesa redonda suele estar cargada de **anécdotas**. Es legítimo y valioso, pero no debe quedarse ahí. La formación del profesorado **no** se reduce a:
 
----
+- Una cuestión meramente **vocacional**.
+- La transmisión de anécdotas.
+- La idea de que “los problemas del aula se resuelven con la sabiduría que da la práctica” (“ya irás, ya lo resolverás”).
 
-## 10. Obstáculos percibidos por los tutores de ESO
+La profesionalización exige **formación permanente**, lectura, preparación y **comunidades de aprendizaje**. La práctica hace más ágiles ciertas respuestas, pero no sustituye el conocimiento teórico, metodológico y deontológico.
 
-Datos de referencia (González-Benito y Vélaz-de-Medrano, 2018):
+Por tanto, en la justificación teórica de la actividad extensible conviene:
+- Conceptualizar la mesa redonda como técnica.
+- Analizar los contenidos temáticos (identidad docente + acción tutorial) desde los paradigmas y la literatura.
+- Elevar el nivel de la reflexión: no solo “estoy de acuerdo / no estoy de acuerdo”, sino argumentar por qué y cuál sería el escalón siguiente si uno estuviera en la posición de esos docentes.
+- Conectar con la crítica a una formación que se queda en la anécdota o en la transmisión acrítica.
 
-| Obstáculo | Nada / casi nada | Poco / algo | Bastante / mucho |
-|-----------|------------------|-------------|------------------|
-| Falta de tiempo específico | 37,2 % | 24,9 % | **37,9 %** |
-| Falta de materiales | 25 % | 31,1 % | **43,9 %** |
-| Escasa colaboración del equipo directivo | **50,9 %** | 21,1 % | 28 % |
-| Escasa colaboración del profesorado | **43,1 %** | 27,8 % | 29,2 % |
-| Formación insuficiente | 23,8 % | 34,5 % | **41,7 %** |
-| Escasa colaboración del orientador | **50,9 %** | 15,8 % | 33,3 % |
-
-Implicación práctica: la tutoría no se sostiene solo con la buena voluntad del tutor; requiere tiempo, materiales, formación y una cultura de centro que la respalde (equipo directivo, claustro y orientación).
+La mesa redonda (y los grupos focales en investigación cualitativa) también pueden utilizarse como **instrumento de recogida de información** sobre los participantes, no solo como actividad de formación.
 
 ---
 
-## 11. Implicaciones para el docente de Matemáticas
+## 10. Feedback formativo y concepción de la evaluación
 
-- La **hora de tutoría** y las entrevistas con familias son espacios privilegiados para detectar ansiedad matemática, desmotivación, dificultades de autorregulación o conflictos que afectan al rendimiento en la materia.
-- Coordinarse con el **Departamento de Orientación** y con el resto del equipo docente evita solapamientos y garantiza coherencia (criterios de evaluación, recuperación, medidas de atención a la diversidad).
-- El POAT y el Plan de Convivencia dan marco a intervenciones que no se improvisan: mediación, hábitos de estudio, orientación académico-profesional (itinerarios de Bachillerato/FP relacionados con matemáticas, ciencia, tecnología…).
-- En el practicum: observar cómo se concreta la tutoría (qué se hace realmente en la hora, cómo se comunican las familias, qué papel juega el departamento de Matemáticas en las juntas de evaluación).
+El feedback no es “algo malo” ni un mecanismo para “machacar”. Un feedback de calidad:
 
-**Errores comunes a evitar**
+- Ayuda a pasar de un nivel borrador a un trabajo que se ajusta a los criterios de calidad (rúbrica).
+- Hace pensar no solo en el contenido de la tarea, sino en **cómo se está aprendiendo**: mecanismos de autorregulación, planificación de tiempos, transferencia de procedimientos a tareas futuras.
+- Forma parte del campo de investigación sobre feedback y de la identidad profesional del docente en formación.
 
-- Reducir la tutoría a trámites administrativos o a “hablar de notas”.
-- Actuar solo cuando hay conflicto grave (en lugar de prevención y seguimiento continuo).
-- No coordinar con el equipo docente ni con orientación.
-- Exigir madurez adulta a adolescentes o aplicar “recetas” genéricas sin conocer el grupo.
+La rúbrica es un instrumento de **autoevaluación**. Los comentarios orientan (ampliar, repensar el enfoque teórico desde otro paradigma, etc.), no sancionan.
+
+Esta concepción conecta directamente con la acción tutorial: el tutor también da feedback continuo al alumnado sobre su proceso de aprendizaje, su desarrollo personal y sus decisiones. Desechar la idea de que la evaluación solo sirve para señalar lo malo es parte de la formación profesional.
 
 ---
 
-## 12. Para el practicum y la práctica docente
+## 11. Orientaciones para el practicum y el portafolio
 
-Checklist mínimo:
-
-1. Localizar el **POAT** del centro y los tiempos reales de tutoría.
-2. Identificar al orientador/a de referencia y el canal de derivación.
+1. Localizar el POAT del centro y el plan de acción tutorial del grupo de referencia.
+2. Identificar al tutor/a del grupo y el canal de derivación al Departamento de Orientación.
 3. Observar al menos una sesión de tutoría de grupo y una junta de evaluación.
 4. Anotar cómo se comunica con familias (canales, frecuencia, tono).
-5. Relacionar con lo visto en Psicología (adolescencia, motivación, diferencias individuales) y en SFYPG (participación de las familias).
+5. Aplicar (con criterio ético) técnicas de observación y, si procede, conversaciones informales para conocer al grupo.
+6. Relacionar con lo visto en Psicología (adolescencia, motivación, diferencias individuales) y en SFYPG (participación de las familias y capital cultural).
+7. En el portafolio: justificar teóricamente las actividades (incluida la mesa redonda) más allá de la descripción anecdótica; explicitar el sentido pedagógico y las estructuras de pensamiento que se desean movilizar.
 
 ---
 
