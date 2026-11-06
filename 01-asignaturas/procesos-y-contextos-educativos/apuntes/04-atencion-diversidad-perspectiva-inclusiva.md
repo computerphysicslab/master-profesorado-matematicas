@@ -460,3 +460,22 @@ El docente de la materia **no decide solo** una adaptación curricular significa
 - **[Sociedad, familia… — Prejuicio y estereotipos ante la diversidad](../../sociedad-familia-y-procesos-grupales/apuntes/02-psicologia-social/07-prejuicio-y-estereotipos-ante-la-diversidad/Tema4_Prejuicio_y_estereotipos_ante_la_diversidad.md)** — perspectiva psicosocial (percepción, atribución, expectativas, contacto) que complementa el marco organizativo de este tema  
 - [Tema 5 — Metodología](05-metodologia-recursos-educacion-secundaria.md)  
 - Tomlinson (2001); Torrego y Negro (2012) — [bibliografía](../bibliografia.md)
+
+
+---
+
+## Notas finales / Reflexión
+
+- La inclusión no es solo colocar al alumnado en el aula ordinaria, sino transformar la cultura, las políticas y las prácticas del centro.
+- El lenguaje importa: evitar términos que estigmaticen (p. ej. “discapacitado” vs. “persona con discapacidad”).
+- **DIVERSIDAD = TODOS/AS** (incluye al alumnado ACNEAE).
+
+---
+
+## Referencias bibliográficas
+
+- Alba Pastor, C. (2019). Diseño Universal para el Aprendizaje: un modelo teórico-práctico para una educación inclusiva de calidad. *Participación educativa*.
+- López Melero, M. (1997). Escuela pública y atención a la diversidad. La educación intercultural: la diferencia como valor. En AA.VV., *Escuela pública y sociedad neoliberal* (pp. 115-150). Málaga: AulaLibre.
+- Sandoval Mena, M., Simón Rueda, C., & Márquez Vázquez, M. C. (2019). ¿Aulas inclusivas o excluyentes?: barreras para el aprendizaje y la participación en contextos universitarios. *Revista complutense de educación*.
+- ¿Por qué Jorge no puede ir al mismo colegio que su hermano? Un análisis de algunas barreras que dificultan el avance hacia una escuela para todos y con todos. *REICE*, vol. 2, n. 2, 2004. [http://www.ice.deusto.es/RINACE/reice/vol2n2/Echeita.pdf](http://www.ice.deusto.es/RINACE/reice/vol2n2/Echeita.pdf)
+- Tarabini, A. (2018). *La escuela no es para ti. El rol de los centros educativos en el abandono escolar* (pp. 47-59). Barcelona: Octaedro.
