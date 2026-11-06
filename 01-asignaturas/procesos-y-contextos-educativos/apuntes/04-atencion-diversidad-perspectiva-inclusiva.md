@@ -62,7 +62,84 @@ Pensar en experiencias de inclusión y/o exclusión vividas o presenciadas:
 
 ---
 
-## 3. Integración vs. inclusión
+## 3. Marco legal de la Atención a la diversidad en España
+
+> “Cualquier actuación para afrontar la atención a la diversidad debería tener un abordaje institucional” (Bernal et al., 2013, p. 326)
+
+### Evolución de la Legislación Estatal
+
+| Periodo              | Leyes/Normas clave | Características principales |
+|----------------------|--------------------|-----------------------------|
+| **1857–1975** Antecedentes | Ley Moyano (1857), LGE (1970), Inst. Educación Especial (1975) | Educación especial separada. Clasificación de “deficientes”. Centros específicos. |
+| **1978–1985** Bases Constitucionales | Constitución (1978) Art. 27, LISMI (1982), RD 334/1985 | Derecho a la educación. Normalización, Integración, Individualización. |
+| **1990–2002** Normalización y NEE | LOGSE (1990), RD 696/1995 | Concepto de NEE. Inclusión de altas capacidades. |
+| **2006–Presente** Hacia la Inclusión Plena | LOE (2006)/LOMCE (2013), LOMLOE (2020) | ACNEAE, equidad, DUA, inclusión efectiva, derechos de la infancia. |
+
+**Evolución conceptual**: De “Deficiente” (LGE 1970) → “NEE” (LOGSE 1990) → “ACNEAE” (LOE 2006 y LOMLOE 2020).  
+**Cambio organizativo**: De centros/aulas segregadas a escolarización preferente en centros ordinarios.  
+**Enfoque educativo**: Adaptación del currículo y entorno (DUA) para equidad e inclusión real.
+
+### Nivel Estatal vs. Autonómico (Aragón)
+- **Estatal**: Marco general (RD Enseñanzas Mínimas). Ley Orgánica 8/1985 (LODE), Ley Orgánica 3/2020 (LOMLOE/LOE).
+- **Aragón**: Decreto 164/2022 (modifica Decreto 188/2017). Orden ECD/913/2023 (modifica Órdenes ECD/1004/2018 y ECD/1005/2018).
+
+**DIVERSIDAD = TODOS/AS** → Incluye el **ALUMNADO ACNEAE**.
+
+### Definición de Alumnado con Necesidades Específicas de Apoyo Educativo (ACNEAE)
+Alumnado que requiera atención educativa diferente a la ordinaria por:
+
+- Necesidades educativas especiales (NEE)
+- Retraso madurativo
+- Trastornos del desarrollo del lenguaje y la comunicación
+- Trastornos de atención o de aprendizaje
+- Desconocimiento grave de la lengua de aprendizaje
+- Situación de vulnerabilidad socioeducativa
+- Altas capacidades intelectuales
+- Incorporación tardía al sistema educativo
+- Condiciones personales o de historia escolar
+
+**Objetivo**: Alcanzar el máximo desarrollo de sus capacidades y los objetivos generales.
+
+#### Detalle de categorías ACNEAE
+
+**Necesidades Educativas Especiales (NEE)**:
+- Discapacidad auditiva, visual, física (motora y orgánica), intelectual, pluridiscapacidad
+- Trastorno grave de conducta, TEA, trastorno mental, trastorno del lenguaje, retraso global del desarrollo
+
+**Retraso madurativo**: Durante educación infantil, requiere apoyos por un periodo o toda la etapa.
+
+**Trastornos del desarrollo del lenguaje y la comunicación**:
+- Trastorno fonológico
+- Trastornos de la fluidez de inicio de la infancia (tartamudeo)
+- Trastorno de la comunicación social (pragmático)
+
+**Trastornos de atención o de aprendizaje**:
+- TDAH
+- Trastornos específicos del aprendizaje (matemático, lectura, expresión escrita)
+- Capacidad intelectual límite
+
+**Altas capacidades**:
+- Superdotación
+- Talentos simples o complejos
+- Precocidad
+
+**Incorporación tardía**:
+- Sin desconocimiento de la lengua (con desfase curricular)
+- Con desconocimiento grave de la lengua (inferior a B1 MCER)
+
+**Condiciones personales o de historia escolar**:
+- Salud física/emocional
+- Adopción, acogimiento, protección, tutela o internamiento judicial
+- Alumnado deportista (tecnificación o alto rendimiento)
+- Altas capacidades artísticas
+
+**Situación de vulnerabilidad socioeducativa**:
+- Desventaja por circunstancias sociales, familiares, económicas, culturales, geográficas, étnicas...
+- Escolarización irregular o absentismo
+
+---
+
+## 4. Integración vs. inclusión
 
 | Enfoque | Idea central | Riesgo |
 |---------|--------------|--------|
@@ -73,7 +150,7 @@ La **LOMLOE** sitúa la inclusión y el **DUA** como referentes de las programac
 
 ---
 
-## 4. Diversidad en el aula de Secundaria (qué hay “de serie”)
+## 5. Diversidad en el aula de Secundaria (qué hay “de serie”)
 
 - Ritmos y estilos de aprendizaje distintos.  
 - Competencia lingüística desigual (incluido alumnado de incorporación tardía).  
@@ -85,7 +162,7 @@ La **LOMLOE** sitúa la inclusión y el **DUA** como referentes de las programac
 
 ---
 
-## 5. Medidas: ordinarias y específicas (mapa mental)
+## 6. Medidas: ordinarias y específicas (mapa mental)
 
 | Tipo | Ejemplos |
 |------|----------|
@@ -96,7 +173,7 @@ La **LOMLOE** sitúa la inclusión y el **DUA** como referentes de las programac
 
 ---
 
-## 5.1. Ejemplo de aplicación: TDAH y medidas ordinarias en el aula de Matemáticas
+## 6.1. Ejemplo de aplicación: TDAH y medidas ordinarias en el aula de Matemáticas
 
 El TDAH (cuando hay dictamen o cuando el patrón de aula sugiere interferencia atencional/ejecutiva) **no obliga** a inventar un currículo paralelo. Muchas respuestas son **medidas ordinarias** de diseño:
 
@@ -115,7 +192,7 @@ Si hacen falta medidas específicas (tiempo en pruebas oficiales, materiales, et
 
 ---
 
-## 6. DUA como columna vertebral del diseño
+## 7. DUA como columna vertebral del diseño
 
 Tres principios (detalle en el [material DUA](../materiales/dua-diseno-universal-aprendizaje.md)):
 
@@ -129,7 +206,7 @@ Una misma decisión DUA puede reducir barreras para **varios** perfiles a la vez
 
 ---
 
-## 7. Aprendizaje cooperativo e inclusión
+## 8. Aprendizaje cooperativo e inclusión
 
 **Torrego y Negro (2012)** plantean el aprendizaje cooperativo como recurso de **implantación real** en centros: no solo “hacer grupos”, sino estructuras, roles e interdependencia positiva.
 
@@ -141,7 +218,7 @@ En Matemáticas:
 
 ---
 
-## 8. Ejemplo rápido (3.º ESO — proporcionalidad)
+## 9. Ejemplo rápido (3.º ESO — proporcionalidad)
 
 | Principio | Ajuste |
 |-----------|--------|
@@ -172,7 +249,7 @@ En centros de Aragón, las medidas de atención a la diversidad se enmarcan en l
 
 ---
 
-## 9. Límites éticos y profesionales
+## 10. Límites éticos y profesionales
 
 - No difundir información sensible del alumnado.  
 - No diagnosticar: observar, registrar, derivar a orientación.  
@@ -181,7 +258,7 @@ En centros de Aragón, las medidas de atención a la diversidad se enmarcan en l
 
 ---
 
-## 10. Preguntas de repaso
+## 11. Preguntas de repaso
 
 1. Diferencia integración e inclusión con un ejemplo de aula de Matemáticas.  
 2. ¿Qué es una medida ordinaria y qué una específica? Pon un ejemplo de medida ordinaria útil ante dificultades atencionales/ejecutivas.  
@@ -190,7 +267,7 @@ En centros de Aragón, las medidas de atención a la diversidad se enmarcan en l
 
 ---
 
-## 11. Casos prácticos en el aula de Matemáticas
+## 12. Casos prácticos en el aula de Matemáticas
 
 ### Caso A — 2.º ESO, ecuaciones lineales (alumno con dificultades de acceso lingüístico y ejecutivo)
 
@@ -225,7 +302,7 @@ El docente de la materia **no decide solo** una adaptación curricular significa
 
 ---
 
-## 12. Plantilla rápida de diseño DUA para una sesión de Matemáticas
+## 13. Plantilla rápida de diseño DUA para una sesión de Matemáticas
 
 | Principio | Pregunta de diseño | Ejemplo (proporcionalidad 3.º ESO) |
 |-----------|--------------------|------------------------------------|
@@ -236,7 +313,7 @@ El docente de la materia **no decide solo** una adaptación curricular significa
 
 ---
 
-## 13. Checklist de observación (practicum) — diversidad e inclusión
+## 14. Checklist de observación (practicum) — diversidad e inclusión
 
 - [ ] ¿Se observan medidas ordinarias de diseño o solo “fichas de refuerzo” paralelas?
 - [ ] ¿El error se gestiona como información o solo como penalización?
