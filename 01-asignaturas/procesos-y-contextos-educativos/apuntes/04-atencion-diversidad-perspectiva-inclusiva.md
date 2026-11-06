@@ -139,7 +139,134 @@ Alumnado que requiera atención educativa diferente a la ordinaria por:
 
 ---
 
-## 4. Integración vs. inclusión
+## 4. Respuesta educativa inclusiva
+
+**Decreto 164/2022** (modifica Decreto 188/2017): Regula la respuesta educativa para garantizar la educación inclusiva y la convivencia en Aragón.
+
+**Definición (Art. 10)**: Toda actuación que personalice la atención a todo el alumnado, fomentando la participación en el aprendizaje y reduciendo la exclusión dentro y fuera del sistema educativo.
+
+### El centro docente como garante de la inclusión (Art. 11)
+- Autonomía pedagógica para organizar recursos y contextualizar el currículo.
+- Responsabilidad de todo el personal: respuesta inclusiva y clima favorable.
+- Colaboración, trabajo en equipo, formación e innovación.
+- Liderazgo positivo y compartido del equipo directivo.
+- Coordinación a través de la función tutorial.
+- Participación de la comunidad educativa.
+- **Tres tipos de centro**: Ordinario, de atención educativa preferente y de educación especial.
+- Centros/unidades de EE: Infantil, Primaria y ESO adaptadas + programas de transición a la vida adulta (desde 16 años).
+
+### Modalidades de escolarización en Aragón
+- **General**: Centros ordinarios.
+- Excepcional (según evaluación psicopedagógica): Centros de atención preferente, EE o combinada.
+
+**Centros de atención preferente**:
+1. **TEA**: Recursos especializados, desde 2006/2007 en Aragón. Objetivo: desarrollo y participación en entorno lo más normalizado posible.
+2. **Discapacidad auditiva**: Recursos de audición y lenguaje, material técnico, personal especializado.
+3. **Discapacidad motora**: Eliminación de barreras, mobiliario adaptado, fisioterapeutas y auxiliares.
+
+**Educación Especial**: Para NEE graves y permanentes. Potenciar capacidades afectivas, físicas, cognitivas y sociales. Estructura: Infantil, Básica Obligatoria y Transición a la vida adulta.
+
+### Planificación educativa (Art. 12)
+- Proyecto Educativo: Incluye equidad e inclusión.
+- **Plan de Atención a la Diversidad (PAD)**: Conjunto de actuaciones.
+- Documentos de centro, PGA, criterios de evaluación.
+
+**Directrices del PAD**:
+- Normativa de referencia
+- Análisis de la respuesta inclusiva
+- Objetivos
+- Actuaciones generales
+- Actuaciones específicas
+- Coordinación con comunidad y recursos externos
+- Evaluación, seguimiento y mejora
+- Anexos
+
+### Innovación y formación (Art. 13)
+- Formación inclusiva a toda la comunidad.
+- Experiencias de innovación.
+- Creación de materiales específicos.
+- Difusión de buenas prácticas.
+
+---
+
+## 5. Actuaciones de intervención educativa
+
+### Actuaciones Generales (para todo el alumnado – carácter ordinario)
+Orientadas a facilitar acceso universal. Prevención, detección e intervención inmediata. No implican cambios significativos.
+
+**Lista**:
+a) Prevención de necesidades y respuesta anticipada  
+b) Promoción de asistencia y permanencia  
+c) Función tutorial y convivencia  
+d) Propuestas metodológicas y organizativas  
+e) Materias de refuerzo de competencias clave  
+f) Accesibilidad universal al aprendizaje  
+g) Adaptaciones no significativas y enriquecimiento  
+h) Conciliación con práctica deportiva  
+i) Programas de colaboración centros-familias-comunidad  
+j) Programas específicos (permanencia, Cualificación Inicial FP)  
+k) Otros programas de la Administración  
+
+**Art. 16 – Propuestas metodológicas y organizativas**:
+- Decisiones colegiadas según PAD y PGA.
+- Flexibilidad de tiempos y espacios. Metodologías activas (ABP, cooperativo, ApS...).
+- Apoyos dentro del aula (codocencia, desdobles, tutorización entre iguales, etc.).
+- Atención a diversidad familiar y cultural. Formación intercultural.
+
+**Art. 18 – Accesibilidad Universal del Aprendizaje (DUA)**:
+- Múltiples medios de representación.
+- Múltiples medios de acción y expresión.
+- Múltiples medios de motivación e implicación.
+- Recursos como ARASAAC.
+- Eliminación de barreras arquitectónicas y adaptación de mobiliario.
+
+**Art. 19 – Adaptaciones no significativas**:
+- Priorización y temporalización de contenidos/competencias.
+- Ajuste a contenidos mínimos.
+- Enriquecimiento y profundización.
+- Adecuación de criterios de calificación, pruebas, espacios y tiempos.
+
+### Evaluación psicopedagógica
+Cuando las actuaciones generales no son suficientes → Solicitud de evaluación psicopedagógica (realizada por la **RIOE** – Red Integrada de Orientación Educativa).
+
+**Proceso**: Detección → Indicios NEAE → Aplicar generales → Insuficientes → Evaluación psicopedagógica.
+
+**Características**: Proceso interactivo, participativo, global y contextualizado (enfoque integral, no clínico). Participación de equipo docente, apoyo, familias y agentes externos. Se documenta en **informe psicopedagógico**.
+
+**Críticas**: Complejidad teórica, práctica, administrativa, ética. Puede legitimar desigualdades. Propuesta de **evaluación sociopsicopedagógica** centrada en barreras de participación, presencia y aprendizaje.
+
+### Actuaciones Específicas (para ACNEAE – medidas específicas)
+Implican cambios significativos en aspectos curriculares u organizativos.
+
+**Lista**:
+a) Adaptaciones de acceso al currículo  
+b) Adaptación curricular significativa  
+c) Adaptación curricular de ampliación  
+d) Flexibilización a nivel inferior  
+e) Permanencia extraordinaria  
+f) Aceleración parcial del currículo  
+g) Flexibilización a nivel superior  
+h) Fragmentación de materias en Bachillerato  
+i) Bachillerato en tres cursos  
+j) Exención parcial extraordinaria  
+k) Asistencia parcial  
+l) Cambio de tipo de centro  
+m) Escolarización combinada  
+n) Programas específicos (salud mental, sanitarios/domiciliarios, menores judiciales, ambulatoria en EE...)  
+
+**Detalles destacados**:
+
+- **Adaptaciones de acceso**: Ayudas técnicas, sistemas de comunicación, modificación de elementos físicos, personal complementario.
+- **Adaptaciones curriculares significativas**: Tras evaluación psicopedagógica y resolución. Eliminación de objetivos/saberes/competencias. Grandes desfases. Registro en expediente. Realizada por profesorado con asesoramiento RIOE.
+- **Flexibilización a nivel inferior**: Incorporación tardía, desfase de un curso o B1. Desde 2º EP.
+- **Permanencia extraordinaria en ESO**: NEE + nivel < 2º ESO en instrumentales + beneficio personal/emocional/social.
+- **Cambio de tipo de centro** y **Escolarización combinada**: Cuando no se puede dar respuesta en el centro actual. Combinada entre ordinario y EE (2º ciclo EI, EP, ESO).
+- **Altas capacidades**: Comparativa entre Adaptación Curricular de Ampliación (en su aula), Aceleración parcial (materias concretas en nivel superior) e Incorporación a nivel superior (salto de curso completo).
+- **Bachillerato**: Fragmentación en bloques o realización en tres cursos (para ACNEAE, salud, música/danza, deportistas, etc.).
+
+---
+
+## 6. Integración vs. inclusión
 
 | Enfoque | Idea central | Riesgo |
 |---------|--------------|--------|
@@ -150,7 +277,7 @@ La **LOMLOE** sitúa la inclusión y el **DUA** como referentes de las programac
 
 ---
 
-## 5. Diversidad en el aula de Secundaria (qué hay “de serie”)
+## 7. Diversidad en el aula de Secundaria (qué hay “de serie”)
 
 - Ritmos y estilos de aprendizaje distintos.  
 - Competencia lingüística desigual (incluido alumnado de incorporación tardía).  
@@ -162,7 +289,7 @@ La **LOMLOE** sitúa la inclusión y el **DUA** como referentes de las programac
 
 ---
 
-## 6. Medidas: ordinarias y específicas (mapa mental)
+## 8. Medidas: ordinarias y específicas (mapa mental)
 
 | Tipo | Ejemplos |
 |------|----------|
@@ -173,7 +300,7 @@ La **LOMLOE** sitúa la inclusión y el **DUA** como referentes de las programac
 
 ---
 
-## 6.1. Ejemplo de aplicación: TDAH y medidas ordinarias en el aula de Matemáticas
+## 8.1. Ejemplo de aplicación: TDAH y medidas ordinarias en el aula de Matemáticas
 
 El TDAH (cuando hay dictamen o cuando el patrón de aula sugiere interferencia atencional/ejecutiva) **no obliga** a inventar un currículo paralelo. Muchas respuestas son **medidas ordinarias** de diseño:
 
@@ -192,7 +319,7 @@ Si hacen falta medidas específicas (tiempo en pruebas oficiales, materiales, et
 
 ---
 
-## 7. DUA como columna vertebral del diseño
+## 9. DUA como columna vertebral del diseño
 
 Tres principios (detalle en el [material DUA](../materiales/dua-diseno-universal-aprendizaje.md)):
 
@@ -206,7 +333,7 @@ Una misma decisión DUA puede reducir barreras para **varios** perfiles a la vez
 
 ---
 
-## 8. Aprendizaje cooperativo e inclusión
+## 10. Aprendizaje cooperativo e inclusión
 
 **Torrego y Negro (2012)** plantean el aprendizaje cooperativo como recurso de **implantación real** en centros: no solo “hacer grupos”, sino estructuras, roles e interdependencia positiva.
 
@@ -218,7 +345,7 @@ En Matemáticas:
 
 ---
 
-## 9. Ejemplo rápido (3.º ESO — proporcionalidad)
+## 11. Ejemplo rápido (3.º ESO — proporcionalidad)
 
 | Principio | Ajuste |
 |-----------|--------|
@@ -249,7 +376,7 @@ En centros de Aragón, las medidas de atención a la diversidad se enmarcan en l
 
 ---
 
-## 10. Límites éticos y profesionales
+## 12. Límites éticos y profesionales
 
 - No difundir información sensible del alumnado.  
 - No diagnosticar: observar, registrar, derivar a orientación.  
@@ -258,7 +385,7 @@ En centros de Aragón, las medidas de atención a la diversidad se enmarcan en l
 
 ---
 
-## 11. Preguntas de repaso
+## 13. Preguntas de repaso
 
 1. Diferencia integración e inclusión con un ejemplo de aula de Matemáticas.  
 2. ¿Qué es una medida ordinaria y qué una específica? Pon un ejemplo de medida ordinaria útil ante dificultades atencionales/ejecutivas.  
@@ -267,7 +394,7 @@ En centros de Aragón, las medidas de atención a la diversidad se enmarcan en l
 
 ---
 
-## 12. Casos prácticos en el aula de Matemáticas
+## 14. Casos prácticos en el aula de Matemáticas
 
 ### Caso A — 2.º ESO, ecuaciones lineales (alumno con dificultades de acceso lingüístico y ejecutivo)
 
@@ -302,7 +429,7 @@ El docente de la materia **no decide solo** una adaptación curricular significa
 
 ---
 
-## 13. Plantilla rápida de diseño DUA para una sesión de Matemáticas
+## 15. Plantilla rápida de diseño DUA para una sesión de Matemáticas
 
 | Principio | Pregunta de diseño | Ejemplo (proporcionalidad 3.º ESO) |
 |-----------|--------------------|------------------------------------|
@@ -313,7 +440,7 @@ El docente de la materia **no decide solo** una adaptación curricular significa
 
 ---
 
-## 14. Checklist de observación (practicum) — diversidad e inclusión
+## 16. Checklist de observación (practicum) — diversidad e inclusión
 
 - [ ] ¿Se observan medidas ordinarias de diseño o solo “fichas de refuerzo” paralelas?
 - [ ] ¿El error se gestiona como información o solo como penalización?
