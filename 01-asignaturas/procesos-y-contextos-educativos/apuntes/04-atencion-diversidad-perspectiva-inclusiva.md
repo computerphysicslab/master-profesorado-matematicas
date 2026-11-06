@@ -9,7 +9,60 @@
 
 ---
 
-## 1. Integración vs. inclusión
+## Una pregunta antes de comenzar...
+
+**¿Qué prácticas habituales de la escuela pueden generar exclusión, aunque no sea esa su intención?**
+
+### Actividad de reflexión
+Pensar en experiencias de inclusión y/o exclusión vividas o presenciadas:
+
+1. Escribir individualmente la situación/experiencia que más impactó.
+2. Compartir con el grupo de trabajo.
+3. Formular preguntas en grupo y analizar qué prácticas fueron adecuadas (inclusión) o qué se podría haber hecho de otra forma (evitar exclusión).
+
+---
+
+## 1. Sentido y significado de diversidad
+
+### Usos eufemísticos de la diversidad (Tarabini, 2018)
+- **Alumnado diverso**: Alumnado extranjero, de bajo estatus socioeconómico, pobre y/o de etnia gitana. Alumnado con dificultades de aprendizaje o problemas de comportamiento.
+- **Grupos de diversidad**: Grupos de alumnado con menor nivel académico y problemas conductuales.
+- **Centros de diversidad**: Centros con concentración de alumnado desaventajado a consecuencia de la segregación escolar.
+
+### Conceptos clave (López Melero, 1997)
+| Concepto       | Definición |
+|----------------|------------|
+| **Diversidad** | Hace referencia a la persona tal y como es, y no como gustaría (o pudiera gustar) que fuera. |
+| **Diferencia** | Apreciación subjetiva de la diversidad, una valoración de la diversidad. Puede generar actitudes de rechazo (discriminación, antipatía, racismo, intolerancia...) o de aceptación (solidaridad, simpatía, respeto...). |
+| **Desigualdad**| Noción contraria a la igualdad. Establecimiento de jerarquías entre las personas en función de criterios (poder social, económico o político; género; grupo étnico...). |
+
+---
+
+## 2. Evolución del término atención a la diversidad
+
+| Periodo                  | Modelo          | Descripción |
+|--------------------------|-----------------|-------------|
+| Años 70-80 · Educación especial | **Segregación** | Homogeneidad del alumnado. El sistema no está estructurado para las necesidades de todos. |
+| Años 80-90 · NEE         | **Integración** | Alguien no encaja y hay que integrarlo. Recursos y apoyos, pero estructura prácticamente igual. |
+| A partir de los 90       | **Inclusión**   | Acomodar la institución a la realidad: todos los alumnos son diferentes y tienen los mismos derechos. |
+
+### Evolución de modelos
+- **Primeros momentos**: Deficiencia → Intervención terapéutica → **Modelo Clínico**
+- **Intermedio**: Integración → **Modelo de Necesidades**
+- **Actualmente**: Persona → Inclusión → **Modelo Inclusivo**
+
+### Educación inclusiva: “Escuela para todos”
+**Definición UNESCO** (Orden 7 de julio de 2018):  
+“Un proceso que permite abordar y responder a la diversidad de las necesidades de todos los educandos a través de una mayor participación en el aprendizaje, las actividades culturales y comunitarias y reducir la exclusión dentro y fuera del sistema educativo.”
+
+### Valores del modelo inclusivo
+- **Presencia**: Acoger a todo el alumnado independientemente de sus necesidades educativas. Igual dignidad y derecho a estar y compartir espacios de ciudadanía.
+- **Participación**: Que todo el alumnado se sienta reconocido, partícipe activo y querido/estimado por iguales y profesorado. Oportunidades equiparables.
+- **Aprendizaje**: Garantizar el aprendizaje al más alto nivel posible, de todo el alumnado y de forma personalizada.
+
+---
+
+## 3. Integración vs. inclusión
 
 | Enfoque | Idea central | Riesgo |
 |---------|--------------|--------|
@@ -20,7 +73,7 @@ La **LOMLOE** sitúa la inclusión y el **DUA** como referentes de las programac
 
 ---
 
-## 2. Diversidad en el aula de Secundaria (qué hay “de serie”)
+## 4. Diversidad en el aula de Secundaria (qué hay “de serie”)
 
 - Ritmos y estilos de aprendizaje distintos.  
 - Competencia lingüística desigual (incluido alumnado de incorporación tardía).  
@@ -32,7 +85,7 @@ La **LOMLOE** sitúa la inclusión y el **DUA** como referentes de las programac
 
 ---
 
-## 3. Medidas: ordinarias y específicas (mapa mental)
+## 5. Medidas: ordinarias y específicas (mapa mental)
 
 | Tipo | Ejemplos |
 |------|----------|
@@ -43,7 +96,7 @@ La **LOMLOE** sitúa la inclusión y el **DUA** como referentes de las programac
 
 ---
 
-## 3.1. Ejemplo de aplicación: TDAH y medidas ordinarias en el aula de Matemáticas
+## 5.1. Ejemplo de aplicación: TDAH y medidas ordinarias en el aula de Matemáticas
 
 El TDAH (cuando hay dictamen o cuando el patrón de aula sugiere interferencia atencional/ejecutiva) **no obliga** a inventar un currículo paralelo. Muchas respuestas son **medidas ordinarias** de diseño:
 
@@ -62,7 +115,7 @@ Si hacen falta medidas específicas (tiempo en pruebas oficiales, materiales, et
 
 ---
 
-## 4. DUA como columna vertebral del diseño
+## 6. DUA como columna vertebral del diseño
 
 Tres principios (detalle en el [material DUA](../materiales/dua-diseno-universal-aprendizaje.md)):
 
@@ -76,7 +129,7 @@ Una misma decisión DUA puede reducir barreras para **varios** perfiles a la vez
 
 ---
 
-## 5. Aprendizaje cooperativo e inclusión
+## 7. Aprendizaje cooperativo e inclusión
 
 **Torrego y Negro (2012)** plantean el aprendizaje cooperativo como recurso de **implantación real** en centros: no solo “hacer grupos”, sino estructuras, roles e interdependencia positiva.
 
@@ -88,7 +141,7 @@ En Matemáticas:
 
 ---
 
-## 6. Ejemplo rápido (3.º ESO — proporcionalidad)
+## 8. Ejemplo rápido (3.º ESO — proporcionalidad)
 
 | Principio | Ajuste |
 |-----------|--------|
@@ -119,7 +172,7 @@ En centros de Aragón, las medidas de atención a la diversidad se enmarcan en l
 
 ---
 
-## 7. Límites éticos y profesionales
+## 9. Límites éticos y profesionales
 
 - No difundir información sensible del alumnado.  
 - No diagnosticar: observar, registrar, derivar a orientación.  
@@ -128,7 +181,7 @@ En centros de Aragón, las medidas de atención a la diversidad se enmarcan en l
 
 ---
 
-## 8. Preguntas de repaso
+## 10. Preguntas de repaso
 
 1. Diferencia integración e inclusión con un ejemplo de aula de Matemáticas.  
 2. ¿Qué es una medida ordinaria y qué una específica? Pon un ejemplo de medida ordinaria útil ante dificultades atencionales/ejecutivas.  
@@ -137,7 +190,7 @@ En centros de Aragón, las medidas de atención a la diversidad se enmarcan en l
 
 ---
 
-## 9. Casos prácticos en el aula de Matemáticas
+## 11. Casos prácticos en el aula de Matemáticas
 
 ### Caso A — 2.º ESO, ecuaciones lineales (alumno con dificultades de acceso lingüístico y ejecutivo)
 
@@ -172,7 +225,7 @@ El docente de la materia **no decide solo** una adaptación curricular significa
 
 ---
 
-## 10. Plantilla rápida de diseño DUA para una sesión de Matemáticas
+## 12. Plantilla rápida de diseño DUA para una sesión de Matemáticas
 
 | Principio | Pregunta de diseño | Ejemplo (proporcionalidad 3.º ESO) |
 |-----------|--------------------|------------------------------------|
@@ -183,7 +236,7 @@ El docente de la materia **no decide solo** una adaptación curricular significa
 
 ---
 
-## 11. Checklist de observación (practicum) — diversidad e inclusión
+## 13. Checklist de observación (practicum) — diversidad e inclusión
 
 - [ ] ¿Se observan medidas ordinarias de diseño o solo “fichas de refuerzo” paralelas?
 - [ ] ¿El error se gestiona como información o solo como penalización?
