@@ -20,6 +20,8 @@ Pensar en experiencias de inclusión y/o exclusión vividas o presenciadas:
 2. Compartir con el grupo de trabajo.
 3. Formular preguntas en grupo y analizar qué prácticas fueron adecuadas (inclusión) o qué se podría haber hecho de otra forma (evitar exclusión).
 
+La reflexión sobre experiencias personales de exclusión —como una sesión de educación afectivo-sexual centrada exclusivamente en la heteronormatividad que invisibiliza otras orientaciones, o el mobiliario estándar (mesas con brazo solo a la derecha) que dificulta el trabajo de las personas zurdas— permite aterrizar el concepto de barrera. Estas situaciones ilustran cómo prácticas aparentemente neutras pueden generar exclusión sin intención explícita. La escuela refleja la sociedad: el capacitismo, las dinámicas de aislamiento social o los discursos hegemónicos se reproducen en el aula si no se cuestionan.
+
 ---
 
 ## 1. Sentido y significado de diversidad
@@ -29,12 +31,19 @@ Pensar en experiencias de inclusión y/o exclusión vividas o presenciadas:
 - **Grupos de diversidad**: Grupos de alumnado con menor nivel académico y problemas conductuales.
 - **Centros de diversidad**: Centros con concentración de alumnado desaventajado a consecuencia de la segregación escolar.
 
+Estas etiquetas generales, lejos de promover una mirada inclusiva, reducen la diversidad a determinados colectivos y ocultan la heterogeneidad real de necesidades, experiencias y circunstancias dentro de cada grupo. Hablar de «alumnado diverso» como si se tratara de un bloque homogéneo dificulta identificar las barreras concretas que cada estudiante enfrenta y favorece una visión reduccionista de la inclusión. Tarabini (2018) señala cómo estos usos eufemísticos enmascaran realidades de desventaja y contribuyen a estigmatizar centros y grupos.
+
 ### Conceptos clave (López Melero, 1997)
 | Concepto       | Definición |
 |----------------|------------|
-| **Diversidad** | Hace referencia a la persona tal y como es, y no como gustaría (o pudiera gustar) que fuera. |
-| **Diferencia** | Apreciación subjetiva de la diversidad, una valoración de la diversidad. Puede generar actitudes de rechazo (discriminación, antipatía, racismo, intolerancia...) o de aceptación (solidaridad, simpatía, respeto...). |
-| **Desigualdad**| Noción contraria a la igualdad. Establecimiento de jerarquías entre las personas en función de criterios (poder social, económico o político; género; grupo étnico...). |
+| **Diversidad** | Hace referencia a la persona tal y como es, y no como gustaría (o pudiera gustar) que fuera. Variedad de características, capacidades, circunstancias, experiencias y formas de aprender inherente a cualquier grupo humano. |
+| **Diferencia** | Apreciación subjetiva de la diversidad, una valoración de la diversidad. Rasgos o circunstancias que distinguen a unas personas de otras. Puede generar actitudes de rechazo (discriminación, antipatía, racismo, intolerancia...) o de aceptación (solidaridad, simpatía, respeto...). |
+| **Desigualdad**| Noción contraria a la igualdad. Situaciones en las que las diferencias se traducen en oportunidades, condiciones o resultados injustamente desiguales. Establecimiento de jerarquías entre las personas en función de criterios (poder social, económico o político; género; grupo étnico...). |
+
+### La diversidad como condición universal
+La diversidad no es una característica excepcional de determinados alumnos, sino una condición inherente a cualquier grupo humano y, por tanto, a cualquier aula. Todos los estudiantes difieren en ritmos, estilos de aprendizaje, motivaciones, trayectorias, capacidades, orígenes culturales, lingüísticos, socioeconómicos, de género, de pensamiento, corporales, etc. Identificar la diversidad exclusivamente con colectivos «no normativos» (extranjeros, con NEE, de bajo nivel socioeconómico, etc.) conduce a una visión reduccionista: se asume que existe un alumnado «normal» y otro «diverso», cuando en realidad la normalidad es una construcción social y, como se señaló en clase, «lo normal es no ser normal».
+
+Distinguir claramente diversidad (variedad intrínseca), diferencia (valoración subjetiva) y desigualdad (jerarquías injustas) ayuda a evitar que las diferencias se conviertan automáticamente en desventajas. La inclusión parte de reconocer que todos somos diferentes y de diseñar el entorno educativo para que esa variedad no se traduzca en exclusión.
 
 ---
 
@@ -187,6 +196,9 @@ Alumnado que requiera atención educativa diferente a la ordinaria por:
 - Creación de materiales específicos.
 - Difusión de buenas prácticas.
 
+### Transformación de la organización escolar y reorganización de recursos
+La inclusión exige transformar la cultura, las políticas y las prácticas del centro. La colaboración entre profesionales, la codocencia, el trabajo compartido dentro del aula y la coordinación entre docentes y especialistas son ejes fundamentales. Reorganizar los recursos existentes —por ejemplo, trasladar la experiencia y el personal de centros de educación especial hacia el apoyo en centros ordinarios— puede mejorar la respuesta educativa y favorecer la transferencia de conocimientos. Sin embargo, esta reorganización no debe utilizarse como justificación para sustituir una dotación suficiente de profesionales, medios y apoyos. El modelo inclusivo es ambicioso y requiere recursos, formación, tiempo y un cambio de paradigma organizativo; sin ellos, el peso recae desproporcionadamente en el docente de aula.
+
 ---
 
 ## 5. Actuaciones de intervención educativa
@@ -266,14 +278,39 @@ n) Programas específicos (salud mental, sanitarios/domiciliarios, menores judic
 
 ---
 
+## 5.1. Identificación de barreras como proceso de investigación y tipología
+
+Identificar barreras no consiste simplemente en detectar dificultades individuales del alumnado, sino en analizar el contexto educativo: cómo se organiza la enseñanza, los materiales, las relaciones y los discursos. Se trata de un proceso de investigación en el aula que incluye:
+
+1. **Observación** de las situaciones de enseñanza y aprendizaje (registro anecdótico, observación sistemática).
+2. **Identificación** de barreras para el aprendizaje y la participación.
+3. **Análisis** de las causas y condiciones que las generan (metodología, organización, expectativas, materiales, relaciones).
+4. **Introducción de cambios** en la organización, metodología o recursos.
+5. **Evaluación** de los resultados y revisión de las medidas adoptadas.
+
+Instrumentos y fuentes: observación del aula, entrevistas o conversaciones informales, análisis de tareas y materiales, evaluación de la participación, revisión de las prácticas docentes y de los agrupamientos.
+
+### Tipología de barreras (ejemplos de aula y centro)
+- **Barreras físicas y materiales**: Mobiliario inadecuado (mesas con brazo solo a la derecha que dificultan a personas zurdas), barreras arquitectónicas, espacios poco accesibles, falta de adaptación de mobiliario.
+- **Barreras metodológicas**: Actividades, ritmos, agrupamientos o procedimientos que dificultan la participación de parte del alumnado; fichas paralelas desconectadas del trabajo del grupo; ritmos únicos.
+- **Barreras comunicativas**: Formas de transmitir información no accesibles para todos (solo oral, solo escrito, lenguaje excesivamente abstracto sin apoyos visuales o de otro tipo).
+- **Barreras sociales y relacionales**: Aislamiento, rechazo, prejuicios, discriminación o dinámicas de exclusión entre compañeros; dejar que los estudiantes elijan libremente sus grupos sin intervención docente, lo que puede dejar a algunos sistemáticamente marginados.
+- **Barreras curriculares y discursivas**: Contenidos o enfoques que invisibilizan determinadas realidades (por ejemplo, abordar la educación afectivo-sexual desde una perspectiva exclusivamente heterosexual e ignorar las preguntas o experiencias de alumnado LGTBIQ+).
+
+Una barrera no reside necesariamente en el estudiante, sino que puede encontrarse en la manera en que el centro organiza la enseñanza y la convivencia. Eliminarlas exige conocimiento del alumnado, investigación de las prácticas y disposición a transformar el entorno.
+
+---
+
 ## 6. Integración vs. inclusión
 
 | Enfoque | Idea central | Riesgo |
 |---------|--------------|--------|
-| **Integración** | El alumnado “diferente” se incorpora al aula ordinaria; a veces con apoyos paralelos | El currículo sigue rígido; el alumno debe adaptarse al molde |
+| **Integración** | El alumnado “diferente” se incorpora al aula ordinaria; a veces con apoyos paralelos | El currículo sigue rígido; el alumno debe adaptarse al molde; presencia física sin participación real |
 | **Inclusión** | El sistema y el diseño didáctico se transforman para acoger la diversidad como norma | Requiere formación, tiempo y coordinación real |
 
 La **LOMLOE** sitúa la inclusión y el **DUA** como referentes de las programaciones y de la atención a la diversidad.
+
+Estar físicamente presente en un aula ordinaria no equivale a participar realmente en el proceso de aprendizaje común. Un ejemplo frecuente es el de un estudiante que permanece en el aula, pero realiza sistemáticamente una ficha o actividad paralela, desconectada de las tareas y aprendizajes que desarrolla el resto del grupo. Esta situación representa una integración física sin inclusión educativa efectiva: el alumno está «dentro», pero no comparte el currículo, las interacciones ni las oportunidades de aprendizaje. La expresión popular «juntos, pero no revueltos» ilustra bien este riesgo. La inclusión exige que el diseño (contenido, proceso, producto, entorno) se transforme para que todos puedan acceder, participar y aprender juntos.
 
 ---
 
@@ -343,6 +380,18 @@ En Matemáticas:
 - problemas ricos con varias entradas;
 - evaluación que valora la explicación y la ayuda entre iguales (sin convertir al alumnado en sustituto del docente).
 
+### Agrupamientos cooperativos y participación real
+Dejar que los estudiantes elijan libremente sus grupos no garantiza la inclusión: algunos alumnos pueden quedar sistemáticamente aislados o ser elegidos en último lugar. El docente tiene un papel activo:
+
+- Observar las relaciones sociales del grupo.
+- Detectar situaciones de aislamiento o rechazo.
+- Diseñar agrupamientos intencionales y flexibles que favorezcan la interacción positiva.
+- Distribuir roles y responsabilidades de forma equilibrada.
+- Favorecer que todos los estudiantes tengan una contribución significativa.
+- Evitar que el trabajo cooperativo se convierta en una simple división mecánica de tareas.
+
+La intencionalidad pedagógica en los agrupamientos es una clave de los procesos inclusivos. La libertad de elección es valiosa, pero debe combinarse con la intervención docente para garantizar que nadie quede marginado.
+
 ---
 
 ## 11. Ejemplo rápido (3.º ESO — proporcionalidad)
@@ -355,6 +404,26 @@ En Matemáticas:
 | Cooperativo | Parejas con roles; puesta en común de estrategias |
 
 Misma competencia; distinta vía de acceso y de evidencia.
+
+---
+
+## 11.1. Los dilemas reales de la inclusión educativa
+
+La inclusión no es una solución sencilla ni idealizada. En la práctica aparecen dilemas que exigen recursos, preparación profesional, coordinación, flexibilidad y capacidad de decisión contextualizada. Dos casos tratados en clase ilustran esta complejidad sin generalizar comportamientos ni atribuir automáticamente determinadas conductas a un diagnóstico:
+
+**Caso 1.** Un estudiante con TEA experimenta un episodio de desregulación (gritos, demanda constante de atención) que afecta al funcionamiento del aula y a la convivencia. El docente intenta impartir la clase (en este ejemplo, de inglés) mientras el apoyo no resulta eficaz en ese momento. La situación genera frustración y la sensación de que ni el alumno ni el resto del grupo están recibiendo una respuesta adecuada.
+
+**Caso 2.** Otro estudiante con TEA identifica que necesita salir del aula para autorregularse y solicita hacerlo de forma explícita. En este caso, el alumno dispone de estrategias de autorregulación y el entorno permite responder a esa necesidad.
+
+Estos ejemplos muestran la **heterogeneidad** de las necesidades y respuestas individuales, incluso dentro de un mismo diagnóstico. No se puede generalizar: lo que funciona para un estudiante puede no funcionar para otro. Destacan la importancia de:
+
+- Conocer a cada estudiante de forma individual.
+- Favorecer la autorregulación y el acompañamiento educativo.
+- Prevenir e intervenir ante situaciones de desregulación con protocolos y recursos adecuados.
+- Proteger el bienestar y los derechos de **todos** los estudiantes: el derecho del alumno que necesita apoyo a participar y aprender, y el derecho del resto del grupo a disponer de un entorno adecuado para aprender.
+- Adoptar decisiones contextualizadas, no basadas exclusivamente en etiquetas diagnósticas.
+
+La inclusión exige recursos y transformación organizativa, pero las dificultades prácticas no justifican automáticamente volver a modelos segregadores. Se trata de buscar respuestas flexibles, coordinadas y centradas en las barreras del contexto más que en el déficit del estudiante.
 
 ---
 
@@ -383,6 +452,9 @@ En centros de Aragón, las medidas de atención a la diversidad se enmarcan en l
 - Evitar “rebajar” solo a quien tiene informe y “exigir todo” al resto sin andamiaje.  
 - Coordinarse con el plan de atención a la diversidad del centro.
 
+### Revisión de las concepciones del profesorado
+El docente tiene la responsabilidad de identificar y revisar sus propias concepciones sobre la normalidad y la diferencia, las capacidades y limitaciones del alumnado, los prejuicios y estereotipos, las expectativas académicas y de comportamiento, y las ideas preconcebidas sobre lo que un estudiante puede o no puede conseguir. Las expectativas docentes condicionan las oportunidades de aprendizaje y participación: si se asume de partida que ciertos estudiantes «no pueden», se reducen las demandas, los apoyos y las oportunidades. Cuestionar la propia mirada (¿qué considero normal? ¿desde dónde valoro la diferencia?) es el primer paso para diseñar respuestas inclusivas.
+
 ---
 
 ## 13. Preguntas de repaso
@@ -390,7 +462,9 @@ En centros de Aragón, las medidas de atención a la diversidad se enmarcan en l
 1. Diferencia integración e inclusión con un ejemplo de aula de Matemáticas.  
 2. ¿Qué es una medida ordinaria y qué una específica? Pon un ejemplo de medida ordinaria útil ante dificultades atencionales/ejecutivas.  
 3. Diseña una tarea de ecuaciones con los tres principios DUA.  
-4. ¿Por qué el cooperativo mal planteado puede aumentar la exclusión?
+4. ¿Por qué el cooperativo mal planteado puede aumentar la exclusión?  
+5. ¿Cómo distinguirías una barrera situada en el contexto de una dificultad individual del alumnado? Pon un ejemplo.  
+6. ¿Qué dilemas prácticos plantea la inclusión cuando las necesidades de un estudiante entran en tensión con el derecho del grupo a un entorno de aprendizaje adecuado?
 
 ---
 
@@ -442,6 +516,19 @@ El docente de la materia **no decide solo** una adaptación curricular significa
 
 ## 16. Checklist de observación (practicum) — diversidad e inclusión
 
+Esta lista de comprobación sirve como herramienta de reflexión y mejora de la práctica docente, no como formulario burocrático. Permite analizar si el contexto está generando o reduciendo barreras.
+
+- [ ] ¿Puede todo el alumnado acceder físicamente a los espacios y materiales?
+- [ ] ¿Las actividades ofrecen distintas formas de participación?
+- [ ] ¿Los materiales y las explicaciones son comprensibles y accesibles para todos?
+- [ ] ¿Se contemplan distintos ritmos y formas de aprender?
+- [ ] ¿Las expectativas del docente son altas y realistas para todos?
+- [ ] ¿Existen estudiantes que quedan habitualmente aislados en los agrupamientos?
+- [ ] ¿Se distribuyen de forma equilibrada los roles y responsabilidades?
+- [ ] ¿Hay estudiantes presentes en el aula, pero desconectados de las actividades comunes (p. ej., fichas paralelas)?
+- [ ] ¿Las medidas de apoyo favorecen la autonomía y la participación?
+- [ ] ¿Se dispone de mecanismos de coordinación entre profesionales?
+- [ ] ¿Se evalúa si las medidas adoptadas están reduciendo realmente las barreras?
 - [ ] ¿Se observan medidas ordinarias de diseño o solo “fichas de refuerzo” paralelas?
 - [ ] ¿El error se gestiona como información o solo como penalización?
 - [ ] ¿Hay vías alternativas de evidencia para el mismo criterio?
@@ -461,7 +548,6 @@ El docente de la materia **no decide solo** una adaptación curricular significa
 - [Tema 5 — Metodología](05-metodologia-recursos-educacion-secundaria.md)  
 - Tomlinson (2001); Torrego y Negro (2012) — [bibliografía](../bibliografia.md)
 
-
 ---
 
 ## Notas finales / Reflexión
@@ -469,6 +555,7 @@ El docente de la materia **no decide solo** una adaptación curricular significa
 - La inclusión no es solo colocar al alumnado en el aula ordinaria, sino transformar la cultura, las políticas y las prácticas del centro.
 - El lenguaje importa: evitar términos que estigmaticen (p. ej. “discapacitado” vs. “persona con discapacidad”).
 - **DIVERSIDAD = TODOS/AS** (incluye al alumnado ACNEAE).
+- La revisión de las propias concepciones sobre la normalidad, el análisis de las barreras del contexto y la disposición a resolver dilemas reales son condiciones necesarias para una práctica inclusiva profesional.
 
 ---
 
