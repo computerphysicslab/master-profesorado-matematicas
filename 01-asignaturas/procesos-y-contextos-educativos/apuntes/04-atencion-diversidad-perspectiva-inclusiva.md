@@ -566,3 +566,121 @@ Esta lista de comprobación sirve como herramienta de reflexión y mejora de la 
 - Sandoval Mena, M., Simón Rueda, C., & Márquez Vázquez, M. C. (2019). ¿Aulas inclusivas o excluyentes?: barreras para el aprendizaje y la participación en contextos universitarios. *Revista complutense de educación*.
 - ¿Por qué Jorge no puede ir al mismo colegio que su hermano? Un análisis de algunas barreras que dificultan el avance hacia una escuela para todos y con todos. *REICE*, vol. 2, n. 2, 2004. [http://www.ice.deusto.es/RINACE/reice/vol2n2/Echeita.pdf](http://www.ice.deusto.es/RINACE/reice/vol2n2/Echeita.pdf)
 - Tarabini, A. (2018). *La escuela no es para ti. El rol de los centros educativos en el abandono escolar* (pp. 47-59). Barcelona: Octaedro.
+---
+
+## 17. Reflexiones de aula: debates y dilemas de la práctica inclusiva
+
+Las ideas de este apartado recogen debates, aclaraciones y ejemplos prácticos trabajados en clase. Complementan el marco normativo y conceptual desarrollado en los apartados anteriores; no lo sustituyen.
+
+### 17.1. Conexión interdisciplinar: educación emocional e investigación educativa
+
+La atención inclusiva no depende únicamente del conocimiento de las categorías diagnósticas o de las medidas normativas. También requiere competencias emocionales, capacidad de observación y herramientas para investigar las situaciones reales del aula.
+
+La asignatura optativa de **Educación Emocional del Profesorado** aporta marcos teóricos y herramientas para analizar aspectos psicológicos y socioafectivos, así como documentación y recursos prácticos relacionados con los Planes de Acción Tutorial (PAT). La autorregulación emocional del docente está directamente relacionada con la gestión inclusiva del aula: reconocer las propias reacciones, regularlas y responder de manera reflexiva ayuda a evitar intervenciones impulsivas o exclusivamente punitivas.
+
+Por su parte, las **Técnicas de Investigación aplicadas a la Docencia** ofrecen instrumentos cualitativos —observación etnográfica, entrevistas y cuestionarios— útiles para detectar barreras e identificar necesidades. Estas herramientas permiten conocer mejor al alumnado y su contexto sin depender exclusivamente de la existencia de un diagnóstico clínico formal. La observación sistemática y la recogida de información deben servir para orientar decisiones educativas, no para que el profesorado emita diagnósticos.
+
+### 17.2. Inclusión y rendimiento académico: un dilema que exige contextualización
+
+Una cuestión debatida es si debe priorizarse la permanencia y participación del alumnado en el grupo ordinario o la maximización de su rendimiento académico individual, incluso cuando esta última parezca requerir apoyos fuera del aula.
+
+El dilema no puede resolverse aplicando un estándar único de rendimiento. La pregunta relevante es qué progreso puede alcanzar cada estudiante y qué condiciones educativas necesita para desarrollarlo. El éxito no consiste en que todos obtengan los mismos resultados, sino en garantizar oportunidades reales de aprendizaje y el máximo desarrollo posible de cada persona.
+
+La inclusión exige adaptar el entorno, las metodologías, los apoyos y las formas de participación. No implica aplicar automáticamente adaptaciones curriculares significativas ni mantener al alumnado en actividades paralelas descontextualizadas. Cuando una medida específica sea necesaria, deberá estar justificada y coordinada, procurando que no reduzca las expectativas de aprendizaje más de lo imprescindible ni rompa innecesariamente la participación en el currículo común.
+
+### 17.3. La perspectiva de las familias y el debate sobre las adaptaciones curriculares significativas
+
+En clase se abordó la preocupación de algunas familias —por ejemplo, de alumnado con TEA— ante las adaptaciones curriculares significativas. Pueden percibir que estas medidas reducen las expectativas de aprendizaje, limitan las oportunidades futuras o generan una forma de segregación dentro del propio centro ordinario.
+
+Esta preocupación pone de manifiesto una tensión entre la respuesta administrativa y normativa, por un lado, y la experiencia de inclusión que viven el alumno y su familia, por otro. La existencia de una medida formal no garantiza por sí sola que la respuesta sea inclusiva. Es necesario explicar su finalidad, escuchar a la familia, valorar sus efectos y revisar si está favoreciendo el aprendizaje, la participación y el desarrollo del estudiante.
+
+La adaptación significativa puede ser necesaria en determinados casos, pero no debe convertirse en una respuesta automática ante una etiqueta diagnóstica ni en una forma de rebajar expectativas sin analizar previamente las barreras del contexto y las alternativas disponibles.
+
+### 17.4. Las categorías NEAE/NEE: utilidad administrativa y límites pedagógicos
+
+En el debate del aula se cuestionó la claridad de algunas clasificaciones administrativas y la tendencia a convertir el diagnóstico en el punto de partida de toda intervención. Se plantearon, entre otras cuestiones, las diferencias de clasificación entre condiciones como el TEA y el TDAH.
+
+Las categorías NEAE y NEE son necesarias para organizar la respuesta educativa, establecer procedimientos y planificar recursos, pero no describen por completo a una persona ni determinan de forma automática cómo aprende o qué apoyo necesita. Tampoco deben entenderse como compartimentos pedagógicos rígidos.
+
+La clasificación normativa es un marco de referencia administrativo y educativo, no un dogma que sustituya el conocimiento individual del alumno. En el aula, el profesorado debe centrarse en las necesidades funcionales concretas: qué barreras encuentra el estudiante, en qué situaciones participa, qué apoyos le ayudan y cuáles son sus fortalezas. La etiqueta no debe eclipsar a la persona.
+
+### 17.5. Estrategias para reconocer fortalezas y aprovechar la diversidad
+
+La diversidad sociocultural e intercultural puede convertirse en un recurso pedagógico. La experiencia previa, los conocimientos, las lenguas, los orígenes y las tradiciones del alumnado migrante o extranjero pueden enriquecer el aprendizaje de todo el grupo. No conviene contemplarlos exclusivamente como factores de vulnerabilidad o como déficits que haya que compensar.
+
+Del mismo modo, ante un alumno con alta sociabilidad, tendencia a hablar o dificultades para permanecer pasivo, el docente puede buscar responsabilidades y roles activos que canalicen esas fortalezas en beneficio del grupo. En una estructura cooperativa, por ejemplo, puede asumir tareas de portavoz, coordinación, explicación o dinamización, siempre que el rol sea adecuado y no se convierta en una etiqueta fija. La respuesta educativa debe ir más allá del castigo o del silenciamiento cuando sea posible transformar esa energía en participación constructiva.
+
+En el alumnado con altas capacidades, el aburrimiento, la falta de implicación o la desconexión pueden constituir señales de alerta. La respuesta no consiste únicamente en ofrecer más ejercicios del mismo tipo, sino en proponer profundización, retos, problemas abiertos y oportunidades de investigación. También es necesario atender los perfiles de doble excepcionalidad —por ejemplo, altas capacidades junto con dislexia o TDAH—, en los que las fortalezas pueden coexistir con necesidades de apoyo específicas.
+
+### 17.6. La planificación como adaptación a un aula real: la metáfora de la alacena
+
+La planificación inclusiva no debería entenderse como la aplicación rígida de un guion idéntico en cualquier grupo. La metáfora del cocinero y la alacena ayuda a expresar esta idea: antes de preparar una experiencia de aprendizaje, el docente debe «abrir la nevera» y conocer los ingredientes disponibles.
+
+En términos educativos, esos ingredientes son los conocimientos previos, intereses, ritmos, fortalezas, necesidades, relaciones, recursos y circunstancias del alumnado. La programación proporciona una estructura y unas intenciones, pero su desarrollo exige observar el grupo y tomar decisiones profesionales contextualizadas. Adaptar la propuesta no significa improvisar sin criterio, sino ajustar los medios para que los objetivos de aprendizaje sean accesibles y exigentes para todos.
+
+---
+
+## 18. El trabajo de la asignatura: evaluación competencial y acción tutorial
+
+El trabajo de la asignatura debe conectar los conceptos de atención a la diversidad con situaciones educativas concretas. No basta con reproducir definiciones normativas o enumerar categorías: es necesario analizar qué barreras aparecen, qué necesidades se observan, qué medidas pueden adoptarse y cómo se comprobará si la intervención mejora la participación y el aprendizaje.
+
+### 18.1. Diversificar las formas de evaluación
+
+Una evaluación coherente con la educación inclusiva no puede depender exclusivamente de exámenes escritos realizados en un único formato y momento. Conviene ofrecer distintas oportunidades para demostrar el aprendizaje, siempre que permitan valorar los mismos criterios y competencias: reflexión individual, análisis colaborativo, producciones digitales, argumentación escrita y explicaciones orales, entre otras.
+
+Diversificar los formatos no significa eliminar los criterios de evaluación ni reducir automáticamente el nivel de exigencia. Significa evitar que una barrera ajena al aprendizaje que se pretende evaluar —por ejemplo, una dificultad de expresión escrita cuando se quiere comprobar el razonamiento matemático— distorsione la valoración de lo que el estudiante sabe y sabe hacer.
+
+En la práctica, el docente debe distinguir entre el aprendizaje que desea evaluar y el canal concreto utilizado para hacerlo. Cuando sea pertinente, puede ofrecer alternativas de expresión y recoger evidencias complementarias, manteniendo la coherencia con los criterios establecidos.
+
+### 18.2. Simulaciones y juego de roles para preparar la acción tutorial
+
+El trabajo competencial de la asignatura contempla la preparación de entrevistas y situaciones de acción tutorial mediante simulaciones o juegos de roles. Estas actividades permiten ensayar la comunicación con alumnado y familias, practicar la escucha activa, formular preguntas adecuadas, explicar decisiones educativas y afrontar conversaciones difíciles en un entorno formativo antes de las prácticas en centros de Secundaria.
+
+El juego de roles no debe limitarse a representar una conversación: ha de permitir analizar qué necesidades aparecen, qué barreras condicionan la situación, qué expectativas expresa cada participante y qué acuerdos concretos pueden alcanzarse. También permite trabajar la competencia comunicativa del futuro docente y reducir la inseguridad ante entrevistas reales.
+
+### 18.3. Aplicación al caso trabajado: tutoría, Elena y su padre
+
+En el caso práctico desarrollado para la asignatura, la representación se organiza únicamente con tres participantes: el tutor, Elena y su padre. La conversación debe conducir a un acuerdo educativo claro, realista y compartido, evitando que la alumna quede reducida a su dificultad o que la familia sea tratada como un mero receptor de decisiones.
+
+El compromiso que se debe hacer explícito es doble y progresivo: **Elena acepta realizar inicialmente una evaluación oral con el docente en privado**, en un contexto de menor exposición y presión; posteriormente, **se compromete a intentar expresar sus respuestas y participar oralmente en pequeños grupos**. Su padre conoce y respalda este proceso gradual.
+
+Este acuerdo constituye una medida de acompañamiento que busca facilitar la participación sin convertir la evitación en una solución permanente. La evaluación privada funciona como primer paso para que Elena pueda demostrar lo que sabe y ganar confianza; la participación en pequeños grupos representa una progresión hacia contextos de comunicación compartida. Conviene revisar cómo evoluciona la experiencia, escuchar a Elena y ajustar los pasos si aparecen nuevas barreras.
+
+El caso permite relacionar la atención a la diversidad con la acción tutorial, la colaboración con las familias, la evaluación mediante vías alternativas y la construcción gradual de autonomía y participación. La finalidad no es eximir a Elena de participar, sino crear condiciones adecuadas para que pueda hacerlo progresivamente.
+
+### 18.4. Criterios para analizar el trabajo práctico
+
+Al analizar una entrevista o simulación de acción tutorial conviene comprobar si:
+
+- Se escucha a la alumna y se tiene en cuenta su propia perspectiva.
+- Se identifican las barreras concretas, sin atribuir toda la dificultad a características personales.
+- Se mantiene una comunicación respetuosa y no culpabilizadora con la familia.
+- Los acuerdos son específicos, comprensibles, viables y compartidos.
+- Se establecen pasos progresivos, evitando tanto la sobreprotección como la exposición brusca.
+- Se prevé un seguimiento para valorar si las medidas facilitan realmente el aprendizaje y la participación.
+- Se protege la confidencialidad y la dignidad de la alumna.
+
+---
+
+## 19. Síntesis de los debates: principios para la práctica docente
+
+Las reflexiones y debates de clase permiten concretar varios principios que complementan el marco conceptual, normativo y metodológico del tema:
+
+1. **La diversidad es universal:** no existe un grupo ordinario homogéneo frente a otro grupo «diverso».
+2. **La inclusión se comprueba en la práctica:** presencia física, participación y aprendizaje son dimensiones relacionadas, pero no equivalentes.
+3. **El rendimiento debe interpretarse de forma contextualizada:** las expectativas han de ser altas y realistas, atendiendo al progreso y las posibilidades de cada estudiante.
+4. **Las etiquetas no sustituyen al conocimiento del alumno:** las categorías ayudan a organizar recursos, pero la intervención parte de las necesidades funcionales y las barreras observadas.
+5. **Las medidas específicas requieren justificación y coordinación:** no deben aplicarse automáticamente ni quedar a la decisión aislada de un docente.
+6. **Las familias son interlocutoras:** sus preocupaciones deben escucharse y formar parte de la construcción y revisión de la respuesta educativa.
+7. **Las fortalezas también orientan la intervención:** la diversidad cultural, la sociabilidad, los intereses y las altas capacidades pueden enriquecer el aprendizaje.
+8. **La evaluación debe ofrecer vías diversas:** diferentes formas de demostrar el aprendizaje pueden ser compatibles con criterios comunes.
+9. **La acción tutorial es una herramienta inclusiva:** permite acordar apoyos, acompañar procesos y coordinar al centro, al alumnado y a las familias.
+10. **La inclusión exige condiciones organizativas:** formación, recursos, tiempo, coordinación y revisión de las prácticas, no solo buena voluntad individual.
+
+---
+
+## 20. Ampliación de referencias y procedencia de las aportaciones
+
+Las ampliaciones de los apartados 17–19 proceden principalmente de las reflexiones, debates, aclaraciones y actividades prácticas recogidas en el documento complementario de clase. Se incorporan como contenido de trabajo y reflexión docente, no como nuevas afirmaciones atribuidas a autores o normas que no aparecen citados en dicho material.
+
+Para profundizar en los marcos ya presentes en el tema, se mantienen como referencias las obras de Alba Pastor (DUA), López Melero (diversidad), Tarabini (desigualdad y usos eufemísticos) y los trabajos sobre inclusión y barreras recogidos en la bibliografía original. La conexión con Educación Emocional del Profesorado, los PAT y las Técnicas de Investigación aplicadas a la Docencia debe entenderse como una relación interdisciplinar entre asignaturas del máster.
