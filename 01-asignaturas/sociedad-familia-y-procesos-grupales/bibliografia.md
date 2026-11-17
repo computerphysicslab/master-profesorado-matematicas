@@ -34,6 +34,8 @@ Referencias principales utilizadas en los apuntes de Psicología Social y Sociol
 - Walumbwa, F. O., Avolio, B. J., Gardner, W. L., Wernsing, T. S., & Peterson, S. J. (2008). Authentic leadership: Development and validation of a theory-based measure. *Journal of Management*, 34, 89–126.
 - Weiner, B. (1985). An attributional theory of achievement motivation and emotion. *Psychological Review*, 92, 548–573.
 
+Asimismo, el diseño de intervenciones grupales, como la implementación de escape rooms cooperativos, pone de manifiesto la importancia de la interdependencia positiva y la logística en la cohesión del aula. Estos procesos, integrados en la dinámica de grupos, requieren una planificación estratégica que trasciende la teoría, permitiendo observar el liderazgo y la comunicación en entornos de resolución de problemas reales, conforme a lo establecido en la Guía Unificada de Psicología de Grupos.
+
 ## Sociología y educación
 
 - Bourdieu, P. (various). Capital cultural y reproducción social.
@@ -46,26 +48,5 @@ Referencias principales utilizadas en los apuntes de Psicología Social y Sociol
 - Las referencias se han priorizado por su aparición directa en los contenidos de los temas.
 - Para profundizar se recomienda consultar las fuentes originales citadas en cada apunte.
 
-<!-- CANONICO_INICIO: sintetico-canonico-sociedad-familia-y-procesos-grupales-psicologia-social.md::sec-fuentes-utilizadas -->
-## Sincronizado desde el canónico — Fuentes utilizadas
+El material de estudio se complementa con las diapositivas de los temas 0 al 3 y la presentación del grupo 7 (2026-27). Asimismo, se integra el análisis de la socialización, la dicotomía estructura-agencia, los paradigmas sociológicos, la meritocracia y el capital cultural, junto con las pautas metodológicas para la investigación y el estudio de casos como el ciberbullying. Se incorporan como referencias secundarias los sintéticos temáticos y el análisis de Giddens sobre la constitución de la sociedad.
 
-> Fuente: `asignaturas/1erTrimestre/sociedad-familia-y-procesos-grupales/Pscologia-Social/sinteticos/sintetico-canonico-sociedad-familia-y-procesos-grupales-psicologia-social.md`
-
-**Diapositivas:** `Tema_1_El_aula_como_grupo.pdf`, `Tema_2_Liderazgo.pdf`, `teoria-tema-3.pdf`, `tema-2-sfypg-2024-25.pdf` (la profesora).
-
-**Transcripciones de audio:** `2026-10-16-sociedad.txt` (diseño y logística de la dinámica de escape room cooperativo e interdependencia positiva), `2026-10-21-sociedad-1.txt`, `2026-10-21-sociedad-2.txt`, `2026-10-28-sociedadEx.txt`.
-
-**Referencia secundaria (sintéticos), para dinámicas/técnicas, comunicación y evaluación:** `Sociedad_Familia_Procesos_Grupales_Bloque2_Psicologia_Social.docx`, `Guia_Unificada_Psicologia_Grupos_Liderazgo.pdf`, `agregados.txt`.
-<!-- CANONICO_FIN: sintetico-canonico-sociedad-familia-y-procesos-grupales-psicologia-social.md::sec-fuentes-utilizadas -->
-
-<!-- CANONICO_INICIO: sintetico-canonico-sociedad-familia-y-procesos-grupales-sociologia.md::sec-fuentes-utilizadas -->
-## Sincronizado desde el canónico — Fuentes utilizadas
-
-> Fuente: `asignaturas/1erTrimestre/sociedad-familia-y-procesos-grupales/Sociologia/sinteticos/sintetico-canonico-sociedad-familia-y-procesos-grupales-sociologia.md`
-
-**Slides (fuente principal, `/slides/`)**: `tema-0-introducccion.pdf`; `tema-1-sociedad-y-educacion-ssocializaciones-multiples-y-funciones-sociales-de-la-educacion.pdf`; `tema-2-familia-y-educacion.pdf`; `tema-3-familia-genero-y-cultura.pdf`; `presentacion-sfypg-g7-2026-27.pdf`.
-
-**Transcripciones (`/audios/`)**: `2026-11-13-sociologia.txt` (tema 1: socialización, estructura/agencia, paradigmas, meritocracia y capital cultural; fuente principal de los matices de clase); `2026-11-06-sociologia.txt` (metodología de la investigación y prácticas: preguntas, objetivos, fuentes, nota de investigación y caso ciberbullying; §1.7 y §4.4). Revisadas y **excluidas** por ser Psicología Social/logística: `2026-10-16-sociedad.txt` (diseño de escape room sobre cooperación y organización de exposiciones), `2026-10-21-sociedad-1.txt`, `2026-10-21-sociedad-2.txt`, `2026-10-28-sociedadEx.txt`.
-
-**Sintéticos (referencia secundaria, `/sinteticos/`)**: `tema0.md`; `La-constitucion-de-la-sociedad_Giddens_apuntes-ampliados.md`.
-<!-- CANONICO_FIN: sintetico-canonico-sociedad-familia-y-procesos-grupales-sociologia.md::sec-fuentes-utilizadas -->

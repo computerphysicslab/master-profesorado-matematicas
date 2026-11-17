@@ -755,6 +755,8 @@ En definitiva, estudiar Sociología de la Educación permite comprender que educ
 | Bullying | Acoso entre iguales caracterizado por intencionalidad, repetición y desequilibrio de poder. |
 | Ciberacoso | Acoso realizado mediante tecnologías y medios digitales. |
 
+Adicionalmente, el marco teórico se sustenta en la **teoría de la estructuración** de Giddens, que propone la **dualidad de la estructura**: esta actúa simultáneamente como medio y resultado de la acción humana. En este esquema, el agente posee una **supervisión reflexiva** y capacidad de intervención, interactuando con **reglas y recursos** (de significación, dominación y legitimación) que organizan la vida social a través de **rutinas** y sistemas institucionales. La aplicación de este enfoque permite evitar reduccionismos, analizando la educación no solo desde el individuo o la norma, sino como un proceso donde la **dialéctica del control** y la **doble hermenéutica** explican la capacidad de transformación social desde las aulas.
+
 ## 10. Referencias y fuentes de ampliación
 
 - Eurostat. Estadísticas sobre jóvenes que no están empleados ni participan en educación o formación (indicador NEET). [Base de datos estadística](https://ec.europa.eu/eurostat/databrowser/view/edat_lfse_20/default/table).
@@ -762,34 +764,3 @@ En definitiva, estudiar Sociología de la Educación permite comprender que educ
 - UNESCO. *Safe learning environments: Preventing and addressing violence and bullying in and around school*. [UNESCO](https://www.unesco.org/en/health-education/safe-learning-environments).
 - Moreno Mínguez, A. (2011). *La reproducción intergeneracional de las desigualdades educativas: límites y oportunidades de la democracia*. Revista de Educación.
 - Eurostat. *Fewer young people not in work or education in 2025*. [Eurostat, 28 de mayo de 2026](https://ec.europa.eu/eurostat/web/products-eurostat-news/w/ddn-20260528-2).
-
-<!-- CANONICO_INICIO: sintetico-canonico-sociedad-familia-y-procesos-grupales-sociologia.md::sec-4 -->
-## Sincronizado desde el canónico — 4. Sociología de la educación contemporánea
-
-> Fuente: `asignaturas/1erTrimestre/sociedad-familia-y-procesos-grupales/Sociologia/sinteticos/sintetico-canonico-sociedad-familia-y-procesos-grupales-sociologia.md`
-
-### 4.1. Giddens y la teoría de la estructuración
-
-Además de su definición de socialización (1997), el sintético *La constitución de la sociedad* desarrolla la **teoría de la estructuración** (*The Constitution of Society*, 1984), que supera la oposición entre objetivismo y subjetivismo. Idea central: **dualidad de la estructura** —la estructura es medio y resultado de la acción—; los actores usan reglas y recursos existentes y al hacerlos los reproducen o transforman. El agente es competente (*knowledgeability*), con **supervisión reflexiva**; caben **conciencia discursiva**, **práctica** (saber tácito, distinto del inconsciente) e **inconsciente**; la agencia es capacidad de intervenir, con consecuencias no buscadas. Estructura = **reglas y recursos** (de autoridad y de asignación), analizables en **significación** (comunicación), **dominación** (poder) y **legitimación** (normas). La vida social se sostiene en **rutinas** que dan **seguridad ontológica**, se organiza espacio-temporalmente (copresencia, regionalización) y se deposita en sistemas e instituciones. El poder está en todas las relaciones; la **dialéctica del control** da influencia también a posiciones subordinadas. El cambio es contingente. La **doble hermenéutica**: el conocimiento sociológico vuelve a la realidad que estudia y puede transformarla. Aplicado al aula, evita reducir lo que ocurre al alumno individual o a la norma institucional.
-
-### 4.2. Clásicos y otros autores
-
-Durkheim (cohesión, transmisión), Parsons (subsistema, roles) y Weber (racionalización, cierre social, credenciales, meritocracia) son el andamiaje de los temas 0-1; el sintético de tema 0 amplía estructura social y agentes de transformación (administraciones = políticas educativas y sociales). Aparecen también **Castells** (sociedad red), **Bauman** (modernidad líquida), **Tezanos**, **Ayuso**, **Beck y Beck-Gernsheim**, **Flecha**, **Summers**, autores de género (Puigvert, Valls, Duque; Oliver; Medina; Gómez; Habermas) y fuentes estadísticas (Eurostat, CIS, INE, IAE, OCDE, Centro Reina Sofía, Sanidad, CSISC).
-
-### 4.3. FOESSA, Bourdieu y políticas educativas: estado de las fuentes
-
-En slides y transcripciones **no aparecen** Bourdieu ni FOESSA; "políticas educativas" solo se menciona de pasada en el tema 1 (funciones manifiestas, nivel macro) y las administraciones figuran genéricamente como agentes. El bloque se ha construido, por tanto, sobre Giddens y los autores citados, sin atribuir a las fuentes contenidos ausentes en ellas.
-
-### 4.4. Metodología de la investigación sociológica aplicada (prácticas)
-
-La sesión de prácticas del 6 de noviembre (`2026-11-06-sociologia.txt`) introduce el procedimiento de investigación que estructura el trabajo del curso:
-
-- **Pregunta de investigación**: toda investigación arranca de una pregunta que conduce a la respuesta o conclusión; se formulan varias (p. ej., sobre ciberbullying o violencia de género en aulas de secundaria) y, si no ayudan, se descartan: son una herramienta, no un requisito.
-- **Objetivo de investigación**: cuanto más acotado, más información y respuesta se obtienen (franja de 13 a 17 años, Aragón/España/Europa; sexo, edad y perfil).
-- **Fuentes**: se priorizan fuentes acreditadas y académicas citadas (OMS, ONU, UNICEF, INE, Ministerio, INCIBE, DGA), combinando **cualitativas** (definición, marco teórico o diagnóstico) y **cuantitativas** (prevalencia, distribución por sexo y edad, centrada en ESO y Bachillerato), con un mínimo de dos artículos por grupo.
-- **Nota de investigación**: breve (dos o tres páginas), responde a las preguntas planteadas y concluye con una **reflexión fundamentada**; el problema detectado debe reaparecer después en la propuesta educativa.
-- **Estructura del diagnóstico** (caso *ciberbullying*): definición, impacto/prevalencia, actores (víctima, acosador y testigos silenciosos) y recursos/gestión; de ahí se deriva la propuesta educativa original en la especialidad correspondiente.
-- **Entregables**: las prácticas se reúnen al final en un dossier con índice, portada y conclusiones; la exposición en rol docente no es evaluable y sirve para compartir lo investigado.
-
----
-<!-- CANONICO_FIN: sintetico-canonico-sociedad-familia-y-procesos-grupales-sociologia.md::sec-4 -->

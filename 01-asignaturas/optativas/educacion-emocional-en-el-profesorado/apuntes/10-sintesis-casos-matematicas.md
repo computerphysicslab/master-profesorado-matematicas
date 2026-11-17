@@ -20,6 +20,8 @@ El objetivo no es que el alumno «se sienta bien» a cualquier precio, sino que 
 
 ---
 
+Ante la ira, la rabia o la agresividad, la intervención debe priorizar la regulación emocional (relajación) sobre el abordaje del problema inmediato. Resulta ineficaz intentar rebajar la emoción mediante imperativos; el objetivo es desescalar evitando el enfrentamiento directo, manteniendo la autoridad mediante la negociación y, si es necesario, solicitando ayuda externa. Ante conductas disruptivas graves, se aplica la disciplina positiva: el daño debe ser reparado por el alumno, sin perjuicio de las medidas disciplinarias correspondientes, siempre priorizando la seguridad y el establecimiento de límites claros frente a la confrontación personal.
+
 ## 2. Caso A — Ansiedad ante el examen
 
 | Elemento | Ejemplo |
@@ -104,13 +106,3 @@ El objetivo no es que el alumno «se sienta bien» a cualquier precio, sino que 
 - [Material afectividad–motivación](../materiales/afectividad-y-motivacion-intrinseca.md)  
 - [Checklist observación](../../procesos-y-contextos-educativos/materiales/checklist-observacion-centro-aula.md)  
 - [Goleman: cinco competencias y aplicación al aula](../materiales/goleman-cinco-competencias-aplicacion-aula.md)
-
-<!-- CANONICO_INICIO: sintetico-canonico-educacion-emocional-del-profesorado.md::sec-7 -->
-## Sincronizado desde el canónico — 7. Gestión de la ira
-
-> Fuente: `asignaturas/1erTrimestre/educacion-emocional-del-profesorado/sinteticos/sintetico-canonico-educacion-emocional-del-profesorado.md`
-
-La ira (rabia, furia, irritabilidad) lleva al ataque; la agresividad es su forma excesiva. No se rebaja de frente («estad contentos» no funciona), pero **si se relaja al alumno, el cerebro razona y responde menos airado**. Intervención centrada en la emoción (relajación) frente a centrada en el problema (la del examen). Regla: **no escalar** —«un adolescente es un búfalo del Serengueti, un hipopótamo»—; desescalar hablando sin perder autoridad, negociar y pedir ayuda («¡socorro!», delegar, acudir a Jefatura). Cambiar el pensamiento irracional («soy un mal tutor») por «¿de qué modo resuelvo esto?» y buscar *pathways*. Casos: móvil en la mochila (no se puede registrar; escalar a Jefatura/familias), compulsiones que acumulaban compases y guantes, pistola de balines requisada. Consejo del director: «no te metas con ellos, nunca, y menos con el líder», con cercanía y límites («no se va al baño en clase», saber decir no). Disciplina positiva: el daño se repara (pedir perdón, disculpa pública, limpiar, reparar); la agresión sigue siendo expulsión, pero hay que enseñar alternativas; con marcas, llamar a Servicios Sociales es obligatorio.
-
----
-<!-- CANONICO_FIN: sintetico-canonico-educacion-emocional-del-profesorado.md::sec-7 -->

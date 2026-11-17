@@ -79,6 +79,8 @@ Por eso las **etiquetas globales** (“es malo en mates”, “es vago”, “es
 
 ---
 
+Además de la capacidad, en el aula influyen factores como los conocimientos previos, los estilos cognitivos, la motivación, el autoconcepto y la autoestima. Es preciso distinguir conceptos clave: el autoconcepto (ideas sobre uno mismo), la autoestima (valoración afectiva), la autoeficacia (creencia sobre la capacidad para una tarea específica) y la autonomía (capacidad de decidir con los apoyos necesarios). Bajo el enfoque del Diseño Universal para el Aprendizaje (DUA), se busca diseñar la enseñanza desde el inicio para todos, evitando la necesidad de adaptaciones posteriores y eliminando los llamados «contextos discapacitantes» mediante tres principios: I. múltiples representaciones (*qué*: variedad de formatos, gráficos y apoyos); II. múltiples acciones y expresiones (*cómo*: permitir la respuesta escrita, oral o visual); y III. múltiples formas de participación (*por qué*: conectar con los intereses y fomentar la autonomía del alumno).
+
 ## 3. Problemas frecuentes: cuadro orientativo
 
 | Ámbito | Señales de alerta en el aula | Respuesta de partida | Material |
@@ -328,6 +330,8 @@ Guía ampliada: [observación practicum — Psicología](../materiales/guia-obse
 
 ---
 
+| Trabajo práctico | Análisis de problemáticas adolescentes (ej. TCA, bulimia, imagen corporal) y estrategias de intervención comunitaria/familiar. El foco se centra en la transmisión de recursos y marcos de prevención, derivando la profundidad clínica y diagnóstica a los materiales complementarios de lectura y ejercicios. |
+
 ## Material relacionado (índice rápido)
 
 - [Neurodivergencia en el aula de Matemáticas](../materiales/neurodivergencia-aula-matematicas.md)  
@@ -344,19 +348,3 @@ Guía ampliada: [observación practicum — Psicología](../materiales/guia-obse
 ---
 
 *Apunte orientativo para el Máster de Profesorado · especialidad Matemáticas. Complementa la guía docente; no la sustituye. El docente no diagnostica: observa, adapta y deriva.*
-
-<!-- CANONICO_INICIO: sintetico-canonico-psicologia-del-desarrollo-y-de-la-educacion.md::sec-5 -->
-## Sincronizado desde el canónico — 5. Diferencias individuales y DUA
-
-> Fuente: `asignaturas/1erTrimestre/psicologia-del-desarrollo-y-de-la-educacion/sinteticos/sintetico-canonico-psicologia-del-desarrollo-y-de-la-educacion.md`
-
-Además de la capacidad influyen conocimientos previos, estilos cognitivos, motivación, autoconcepto y autoestima. No son sinónimos: autoconcepto (ideas sobre uno mismo), autoestima (valoración afectiva), autoeficacia (creencia sobre capacidad para una tarea) y autonomía (decidir con apoyos). El **Diseño Universal para el Aprendizaje (DUA)** diseña desde el inicio para todos, evitando adaptaciones posteriores; parte del concepto de «contextos discapacitantes». Principios: I. múltiples representaciones (*qué*: formatos, gráficos, apoyos); II. múltiples acciones y expresiones (*cómo*: escrito, oral, visual); III. múltiples formas de participación (*por qué*: intereses y autonomía).
-<!-- CANONICO_FIN: sintetico-canonico-psicologia-del-desarrollo-y-de-la-educacion.md::sec-5 -->
-
-<!-- CANONICO_INICIO: sintetico-canonico-psicologia-del-desarrollo-y-de-la-educacion.md::sec-6 -->
-## Sincronizado desde el canónico — 6. Problemas frecuentes: TCA, dismorfia corporal y presión estética
-
-> Fuente: `asignaturas/1erTrimestre/psicologia-del-desarrollo-y-de-la-educacion/sinteticos/sintetico-canonico-psicologia-del-desarrollo-y-de-la-educacion.md`
-
-Las transcripciones documentan que el trabajo práctico consiste en «conocer a fondo una de las problemáticas de la adolescencia y transmitirla», mencionando un «trastorno alimenticio… bulimia» y dos presentaciones —definición e intervención (recursos comunitarios, familias)— previstas para el 4 y 11 de noviembre, con 15 minutos por grupo. Las diapositivas aportan el marco: preocupación por la imagen corporal y comparación temprana, atractivo físico como variable de la autoestima, «falso yo», modelos mediáticos y presión de los iguales. Más allá de esto, slides y transcripciones no desarrollan sintomatología, diagnóstico ni protocolos de TCA, dismorfia o presión estética: ese contenido está en `/ejercicios/` y `/lecturas/`, fuera de las fuentes de este canónico.
-<!-- CANONICO_FIN: sintetico-canonico-psicologia-del-desarrollo-y-de-la-educacion.md::sec-6 -->

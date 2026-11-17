@@ -64,6 +64,8 @@ Los **estudios longitudinales** siguen a las mismas personas en el tiempo (útil
 
 ---
 
+En cuanto a la enseñanza eficaz, esta se articula mediante la planificación clara, la estructuración de contenidos, la evaluación formativa, el establecimiento de relaciones seguras, el fomento de la autonomía progresiva y la creación de experiencias de competencia. Ante situaciones de bajo rendimiento, es preciso distinguir entre capacidad, motivación, estrategias y contexto. La intervención debe incluir la corrección de conductas sin descalificar, la provisión de feedback específico y privado, y la enseñanza explícita de estrategias (planificar, elaborar, organizar, recuperar, supervisar y regular), dividiendo las tareas y revisando su eficacia. Finalmente, el clima emocional seguro constituye el sustrato necesario para el condicionamiento positivo y la motivación intrínseca; dado que esta última precede y es, a la vez, resultado del aprendizaje, debe entenderse como un elemento a orientar y no simplemente como una carencia del estudiante.
+
 ## 5. Neuromitos (puente con la optativa)
 
 La psicología educativa **no** se reduce a imágenes de cerebro. Desconfiar de:
@@ -94,11 +96,3 @@ Manuales generales de psicología educativa (Ormrod / Anderman, Woolfolk, Slavin
 ---
 
 *Ficha de apoyo · no sustituye formación en métodos de investigación.*
-
-<!-- CANONICO_INICIO: sintetico-canonico-psicologia-del-desarrollo-y-de-la-educacion.md::sec-13 -->
-## Sincronizado desde el canónico — 13. Aplicación docente
-
-> Fuente: `asignaturas/1erTrimestre/psicologia-del-desarrollo-y-de-la-educacion/sinteticos/sintetico-canonico-psicologia-del-desarrollo-y-de-la-educacion.md`
-
-Enseñanza eficaz = planificación clara, contenidos estructurados, evaluación formativa, relaciones seguras, autonomía progresiva y experiencias de competencia. Corregir conductas sin descalificar, feedback específico y privado, enseñar estrategias (planificar, elaborar, organizar, recuperar, supervisar, regular), dividir tareas y revisar lo que funcionó. Ante el bajo rendimiento distinguir capacidad, motivación, estrategias y contexto. El clima emocional seguro es sustrato del condicionamiento positivo y de la motivación intrínseca: «no tiene sentido decir que los estudiantes fracasan por falta de motivación, sino que es necesario orientarla»; la motivación precede y es resultado del aprendizaje.
-<!-- CANONICO_FIN: sintetico-canonico-psicologia-del-desarrollo-y-de-la-educacion.md::sec-13 -->

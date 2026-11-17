@@ -51,6 +51,26 @@ La corresponsabilidad **no** significa que la familia deba enseñar el temario d
 
 ---
 
+### 2.1. Socialización primaria
+Es la más importante: interioriza la cultura de forma particular, mediatizada por la familia; es más que cognoscitiva (importa la afectividad); opera por identificación (modelos a imitar transmitidos por el afecto), mecanismo individual con alcance social. La familia forma parte del "otro generalizado" del niño: su abstracción de la sociedad a través del modelo familiar. Los contenidos varían por sociedad y cultura; dura toda la vida pero es el núcleo de la socialización posterior. En clase: primeras normas escolares (no pegar, silencio, levantar la mano para pedir la palabra = orden, cohesión y convivencia).
+
+### 2.2. Definición y modelos: high context / low context
+Familia = grupo básico de socialización y agente fundamental; concepto no estático, cada vez más variable, con formas según culturas, épocas y contextos. Edward T. Hall (1976):
+- Alto contexto (high context): comunicación implícita (gestos, miradas, tono); cohesión, honor, "nosotros"; valores transmitidos por rituales; culturas colectivistas (Asia oriental, Oriente Medio, Latinoamérica, Mediterráneo —España, Italia, Grecia—); familia extensa o comunitaria, normas interiorizadas y jerarquías claras.
+- Bajo contexto (low context): comunicación explícita y directa; individualidad y autonomía; argumentación, negociación, claridad normativa; culturas individualistas (anglosajonas, Europa del Norte y escandinava); familia nuclear e igualitaria con roles negociados.
+
+### 2.3. Cambio familiar y sociodemografía
+Desfamiliarización: de familia extensa a nuclear por modernización; instituciones (escuelas, hospitales) asumen funciones antes familiares; familia más orientada a la crianza que a la socialización y más individualista. En España (Luis Ayuso, 2019): mayor diversidad, hogares más pequeños y valores igualitarios. Causas: libertad de elección, autonomía vital (teoría de la individualización), acceso de la mujer al mercado laboral, anticonceptivos y secularización. Estructuras: más hogares unipersonales, emancipación retrasada >30 años y fecundidad hundida. Claves actuales: individualización, privatización, movilidad, digitalización, envejecimiento, inmigración y familias mixtas.
+
+### 2.4. Nuevos modelos y digitalización
+Junto a la familia tradicional, surgen modelos como monoparentales, reconstruidas, homoparentales (LGTBIQ+), LAT (Living Apart Together) y multiespecie. Beck-Gernsheim (2003) ilustran el choque entre amor, familia y libertad. Ámbitos digitales: socialización mediada, educación on-line, parejas virtuales, teletrabajo y tecnologización del hogar, planteando retos en conciliación y calidad de la comunicación.
+
+### 2.5. Participación familiar: APAs, AMPAs y AFAs
+La participación es creciente y requiere coordinar Familia/Escuela/Barrio, con referentes positivos y altas expectativas. Existen perspectivas duales de reproducción y transformación. Tipos de participación: (1) informativa, (2) consultiva, (3) decisiva, (4) evaluativa y (5) educativa. Espacios de mejora: responsabilidades en actividades del centro, grupos interactivos y formación de familiares.
+
+### 2.6. Evidencias y estudios de caso
+Casos como La Paz Primary School (Albacete) y Mediterrani School (Tarragona) demuestran que la participación familiar reduce el absentismo, mejora el rendimiento y la convivencia, y tiene mayor impacto en grupos vulnerables. El tema conecta con los modelos de Comunidades de Aprendizaje y RedEvolución.
+
 ## 3. Expectativas familiares y Matemáticas
 
 ### 3.1. Qué suelen esperar (patrones frecuentes)
@@ -212,42 +232,3 @@ Este Tema 5 aporta el **porqué** y el **marco**; aquel, el **cómo** en el día
 ---
 
 *Apunte orientativo para el Máster de Profesorado · especialidad Matemáticas. Complementa la guía docente; no la sustituye.*
-
-<!-- CANONICO_INICIO: sintetico-canonico-sociedad-familia-y-procesos-grupales-sociologia.md::sec-2 -->
-## Sincronizado desde el canónico — 2. Familia y educación: tipos de familia, cambios sociodemográficos y participación
-
-> Fuente: `asignaturas/1erTrimestre/sociedad-familia-y-procesos-grupales/Sociologia/sinteticos/sintetico-canonico-sociedad-familia-y-procesos-grupales-sociologia.md`
-
-### 2.1. Socialización primaria
-
-Es la más importante: interioriza la cultura de forma **particular**, mediatizada por la familia; es más que cognoscitiva (importa la **afectividad**); opera por **identificación** (modelos a imitar transmitidos por el afecto), mecanismo individual con alcance social. La familia forma parte del **"otro generalizado"** del niño: su abstracción de la sociedad a través del modelo familiar. Los contenidos varían por sociedad y cultura; dura toda la vida pero es el núcleo de la socialización posterior. En clase: primeras normas escolares (no pegar, silencio, levantar la mano para pedir la palabra = orden, cohesión y convivencia).
-
-### 2.2. Definición y modelos: high context / low context
-
-Familia = grupo básico de socialización y agente fundamental; concepto **no estático**, cada vez más variable, con formas según culturas, épocas y contextos. **Edward T. Hall (1976)**:
-
-- **Alto contexto (*high context*)**: comunicación implícita (gestos, miradas, tono); cohesión, honor, "nosotros"; valores transmitidos por rituales; culturas colectivistas (Asia oriental, Oriente Medio, Latinoamérica, Mediterráneo —España, Italia, Grecia—); familia extensa o comunitaria, normas interiorizadas y jerarquías claras.
-- **Bajo contexto (*low context*)**: comunicación explícita y directa; individualidad y autonomía; argumentación, negociación, claridad normativa; culturas individualistas (anglosajonas, Europa del Norte y escandinava); familia nuclear e igualitaria con roles negociados.
-
-### 2.3. Cambio familiar y sociodemografía
-
-**Desfamiliarización**: de familia extensa a nuclear por modernización; instituciones (escuelas, hospitales) asumen funciones antes familiares; familia más orientada a la crianza que a la socialización y más individualista; la tradicional no desaparece pero pierde predominio ante nuevas convivencias.
-
-**España (Luis Ayuso, 2019)**: mayor diversidad familiar, hogares más pequeños, valores igualitarios y democráticos. Causas: libertad de elección de pareja y autonomía vital (**teoría de la individualización**), acceso masivo de la mujer a universidad y mercado laboral (enfoque de género), anticonceptivos, secularización y aprobación del divorcio. **Estructuras**: más hogares unipersonales; esperanza de vida alta (con Japón, de las mayores en 2050); emancipación retrasada >30 años por paro, fracaso escolar, vivienda y dificultad de pareja estable; fecundidad hundida (deseos frente a realidades); inmigración necesaria pero insuficiente; reto de los cuidados y red invisible de familiaridad. **Valores**: tolerancia a la pluralización, familia como unidad emocional, cambio en comunicación (más información, nuevos roles, adaptación intergeneracional), persistencia de redes de apoyo. **Claves**: individualización, privatización, globalización y movilidad, digitalización, envejecimiento, inmigración y familias mixtas, igualdad de género, erotización de la cotidianidad (pérdida del pudor), autonomía y adaptación.
-
-### 2.4. Nuevos modelos y digitalización
-
-Junto a la **familia tradicional** (padre-madre-hijo/s, legitimada y vitalicia, desarrollada tardíamente bajo influencia del cristianismo y de la industrialización): **monoparentales, reconstruidas, homoparentales (LGTBIQ+), LAT (*Living Apart Together*) y multiespecie/con mascotas**. **Beck-Gernsheim (2003**, *La reinvención de la familia*) y **Beck y Beck-Gernsheim (2001**, *El normal caos del amor*) ilustran el choque entre amor, familia y libertad y la desmembración de la familia nuclear. Ámbitos digitales: socialización mediada (infancia); educación *on-line* (aprendizaje permanente, hijos enseñando a padres); parejas presenciales y digitales (1 de cada tres hombres jóvenes declara cita virtual, CSISC; caso de amor con IA); teletrabajo (conflicto espacio familiar/laboral); tecnologización del hogar, conciliación y "estar y sentirse en comunicación"; apoyo digital (soledad subjetiva, acompañamiento pero pérdida de calidad).
-
-### 2.5. Participación familiar: APAs, AMPAs y AFAs
-
-La participación es creciente y requiere cambios: **APAs, AMPAs, AFAs**. Aprendemos en diversos espacios e interacciones; hace falta coordinar Familia/Escuela/Barrio, con referentes positivos, altas expectativas y resolución dialógica de conflictos. Desde los años 60 se estudió la relación familia-éxito y las dinámicas de reproducción; hoy crecen los estudios sobre colaboración escuela-familia-comunidad desde perspectivas duales de **reproducción y transformación**.
-
-**Tipos de participación**: (1) **informativa** (se informa, no se decide; reuniones); (2) **consultiva** (intervención limitada, organismos legales); (3) **decisiva** (representación en órganos, seguimiento y rendición de cuentas); (4) **evaluativa** (ayuda en la evaluación); (5) **educativa** (intervención en actividades escolares y extraescolares). Espacios de mejora: responsabilidades en actividades del centro (decisiva/evaluativa), participación en aulas (refuerzo, conocimientos, referente, grupos interactivos), actividades consensuadas y formación de familiares.
-
-### 2.6. Evidencias y estudios de caso
-
-**La Paz Primary School** (zona desfavorecida de Albacete): absentismo del 30 % a ocasional en tres cursos (2007-2010) y fuerte subida de puntuación (Flecha & Soler, 2013, *Cambridge Journal of Education*, 3(44)); **Mediterrani School** (Tarragona): del 60 % a ocasional en un curso (datos del centro). Conclusión: se ha atendido mucho al profesorado y poco a otros agentes; la participación reduce absentismo, mejora rendimiento y convivencia, alfabetiza a las familias y tiene mayor impacto en grupos vulnerables. El tema anuncia los casos **Comunidades de Aprendizaje** y **RedEvolución (Gobierno de Aragón)**.
-
----
-<!-- CANONICO_FIN: sintetico-canonico-sociedad-familia-y-procesos-grupales-sociologia.md::sec-2 -->

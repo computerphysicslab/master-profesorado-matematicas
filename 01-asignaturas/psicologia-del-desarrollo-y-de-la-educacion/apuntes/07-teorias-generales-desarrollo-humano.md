@@ -24,6 +24,8 @@ Las teorías no son reproducciones exactas de la realidad. Cada una destaca dete
 
 En educación, estas teorías pueden orientar la observación y el diseño de apoyos, pero **no deben utilizarse para diagnosticar a un alumno ni para asumir que todos los estudiantes de una edad se comportarán de la misma manera**.
 
+Esta disciplina analiza los cambios conductuales y psicológicos desde la concepción hasta la muerte, buscando describir, explicar, predecir y optimizar el desarrollo. Para el ámbito educativo, resulta fundamental comprender cómo es, piensa y se comporta el alumno. El campo se articula a través de debates centrales como la influencia de la herencia frente al medio (perspectiva interaccionista), la dicotomía entre continuidad y discontinuidad —entendida como cambios graduales o mediante estadios—, y la tensión entre irreversibilidad y plasticidad. Asimismo, el estudio del desarrollo emplea diseños metodológicos específicos como el longitudinal, el transversal (considerando el efecto cohorte) y el secuencial.
+
 ## 3. Tres modelos generales del desarrollo
 
 ### 3.1. Modelo mecanicista
@@ -181,6 +183,8 @@ La teoría sociocultural ayuda a planificar colaboración, diálogo, modelado y 
 
 Véase también: [Tema de procesamiento de la información y teorías cognitivas](04-procesamiento-informacion-teorias-cognitivas.md) y [ZDP y andamiaje](../materiales/zdp-andamiaje-matematicas.md).
 
+En esta línea, Bruner complementa el enfoque al introducir el concepto de andamiaje, entendido como el apoyo temporal necesario para que el estudiante alcance un nivel superior de competencia, coincidiendo con la importancia del aprendizaje por descubrimiento. Asimismo, la aplicación pedagógica de estas perspectivas fomenta estrategias como la cooperación, la tutoría entre iguales y la participación guiada, advirtiendo siempre sobre el riesgo del efecto Pigmalión al establecer expectativas docentes.
+
 ## 8. Bronfenbrenner: modelo ecológico del desarrollo
 
 Urie Bronfenbrenner propuso que el desarrollo debe comprenderse a partir de la relación entre la persona y varios sistemas ambientales conectados. La influencia del entorno no se limita a la familia o al aula: también incluye las relaciones entre esos espacios, las instituciones, los valores culturales y los cambios históricos.
@@ -266,21 +270,3 @@ Las siguientes referencias son orientativas. Antes de incorporarlas a una biblio
 - Vygotsky, L. S. — trabajos sobre pensamiento, lenguaje y desarrollo sociocultural.
 - Watson, J. B. y Pavlov, I. P. — trabajos históricos sobre el conductismo y el condicionamiento clásico.
 - Bandura, A. — trabajos sobre aprendizaje por observación y teoría sociocognitiva.
-
-<!-- CANONICO_INICIO: sintetico-canonico-psicologia-del-desarrollo-y-de-la-educacion.md::sec-2 -->
-## Sincronizado desde el canónico — 2. Psicología del desarrollo: objeto y debates
-
-> Fuente: `asignaturas/1erTrimestre/psicologia-del-desarrollo-y-de-la-educacion/sinteticos/sintetico-canonico-psicologia-del-desarrollo-y-de-la-educacion.md`
-
-Estudia los cambios conductuales y psicológicos desde la concepción hasta la muerte, describiéndolos y explicándolos en relación con el sujeto y con las diferencias individuales, para predecir comportamientos y optimizar el desarrollo. Al profesor le interesa cómo es, se comporta y piensa el alumno adolescente.
-
-Debates: **herencia/medio** (visión interaccionista), **continuidad/discontinuidad** (gradual para el conductismo; estadios para Piaget y Freud) e **irreversibilidad/plasticidad**. Modelos: mecanicista (conductismo, Bandura), orgánico (Freud, Erikson, Piaget) y contextual-dialéctico (Vygotsky, Bronfenbrenner). Diseños: longitudinal, transversal (efecto cohorte) y secuencial.
-<!-- CANONICO_FIN: sintetico-canonico-psicologia-del-desarrollo-y-de-la-educacion.md::sec-2 -->
-
-<!-- CANONICO_INICIO: sintetico-canonico-psicologia-del-desarrollo-y-de-la-educacion.md::sec-12 -->
-## Sincronizado desde el canónico — 12. Aprendizaje social y cultural
-
-> Fuente: `asignaturas/1erTrimestre/psicologia-del-desarrollo-y-de-la-educacion/sinteticos/sintetico-canonico-psicologia-del-desarrollo-y-de-la-educacion.md`
-
-**Bandura**: aprendizaje vicario por observación de modelos; autoeficacia construida con éxitos, modelos, feedback creíble y lectura emocional; los elogios vacíos no bastan. **Vygotsky**: conocimiento por interacción y mediación, **zona de desarrollo próximo** entre nivel real y potencial, y **andamiaje** temporal. Bruner coincide en andamiaje y descubrimiento. **Bronfenbrenner**: sistemas micro, meso, exo, macro y crono. En el aula: cooperación, tutoría entre iguales, participación guiada y cuidado con el efecto Pigmalión.
-<!-- CANONICO_FIN: sintetico-canonico-psicologia-del-desarrollo-y-de-la-educacion.md::sec-12 -->

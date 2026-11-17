@@ -23,6 +23,15 @@ En Secundaria conviven (y deben combinarse con criterio):
 
 ---
 
+Asimismo, Doyle identifica cinco estructuras que condicionan el clima de aula: académica, espacio físico y material, cognitiva, social e interpersonal, y organización y control. En este marco, las metodologías activas buscan el aprendizaje significativo (Ausubel), conectando conocimientos previos con nuevos mediante la comprensión y la utilidad práctica. Entre los modelos destacados se encuentran:
+- **Aprendizaje cooperativo:** Basado en la interdependencia positiva, responsabilidad individual y grupal, interacción promotora, habilidades sociales y procesamiento grupal (Johnson y Johnson, Slavin). Se apoya en grupos heterogéneos de 3-4 alumnos y técnicas como *Think-Pair-Share*, *Numbered Heads Together* o el *Jigsaw* de Aronson.
+- **Aprendizaje basado en problemas (ABP):** Con origen en McMaster, utiliza los siete pasos de Maastricht para la indagación, diferenciándose del aprendizaje basado en proyectos en que el problema explica, mientras que el proyecto construye.
+- **Aprendizaje-servicio:** Vincula una necesidad real con un servicio útil a través de la reflexión y etapas de diagnóstico, planificación y difusión.
+- **Estudio de casos:** Análisis estructurado mediante lectura individual, trabajo en equipo y puesta en común.
+- **Aula invertida (*Flipped Classroom*):** Traslada la transmisión de contenidos fuera del aula para potenciar la práctica guiada dentro, requiriendo entrenamiento previo para evitar brechas digitales.
+
+Finalmente, la integración de estas metodologías debe considerar la **competencia digital docente** (Marco DigComp 3.0, 2025), que abarca desde la creación de contenidos y evaluación hasta el uso ético de la IA, siempre bajo una visión de autonomía, equidad y bienestar del alumnado.
+
 ## 2. Criterios para elegir método (checklist)
 
 1. ¿Qué **competencia / criterio** quiero evidenciar?  
@@ -190,13 +199,3 @@ Detalle y ejemplos: [estructuras de aprendizaje cooperativo](../materiales/estru
 - [Tema 4 — Inclusión](04-atencion-diversidad-perspectiva-inclusiva.md)  
 - [Tema 6 — Evaluación](06-evaluacion-procesos-ensenanza-aprendizaje.md)  
 - Coll (2010); Torrego y Negro (2012); Marrasé (2013) — [bibliografía](../bibliografia.md)
-
-<!-- CANONICO_INICIO: sintetico-canonico-procesos-y-contextos-educativos.md::sec-6 -->
-## Sincronizado desde el canónico — 6. Metodologías, recursos y competencia digital docente (Tema 5)
-
-> Fuente: `asignaturas/1erTrimestre/procesos-y-contextos-educativos/sinteticos/sintetico-canonico-procesos-y-contextos-educativos.md`
-
-Cinco estructuras condicionan el clima (Doyle): académica, espacio físico y material, cognitiva, social e interpersonal, y organización y control. Metodologías activas = métodos que fomentan participación y aprendizaje significativo (Ausubel, 1918-2008: relacionar previos y nuevos, comprensión y utilidad). **Aprendizaje cooperativo**: Lewin (interdependencia), Vygotsky (ZDP), Deutsch (metas confluyentes), Johnson y Johnson, Slavin; elementos: interdependencia positiva, responsabilidad individual/grupal, interacción promotora, habilidades sociales y procesamiento grupal; interdependencia de metas, tareas, recursos, roles y premios; grupos heterogéneos de 3-4; técnicas **Think-Pair-Share** (Lyman), **Numbered Heads Together** (Kagan) y **Jigsaw** (Aronson: grupo base, expertos, retorno y evaluación); problemas: efecto polizón, dominancia, baja fidelidad (Adl-Amini, 2023); beneficios (Gillies, 2023; Yang, 2023): rendimiento, retención, pensamiento crítico, autoconcepto y menos exclusión. **Estudio de casos** (Chicago): caso, preguntas y fuentes; lectura individual, equipo y plenario. **Aprendizaje-servicio**: necesidad real, servicio útil, reflexión y cuatro etapas (diagnosticar, contactar, planificar, realizar y difundir). **ABP**: reto, indagación, producto, revisión con rúbricas y presentación (Saavedra y Rapaport, 2024). **Aprendizaje basado en problemas** (McMaster, años 60): siete pasos de Maastricht (Schmidt, 1983: aclarar, definir, lluvia de ideas, inventario, objetivos, estudio autodirigido y síntesis); los problemas explican, los proyectos construyen. **Aula invertida**: transmisión fuera y práctica dentro; no es un curso en línea ni trabajo sin supervisión; exige entrenamiento y puede ampliar brecha digital (Akçayır & Akçayır, 2018). En clase se conecta todo con conocer los consumos culturales del alumnado para «engancharlo».
-
-**Competencia digital docente**: uso ético, crítico y seguro con sentido pedagógico. DigComp 2013 → 2.0 (2016) → Marco Docente (2017) → revisión 2022 → DigComp 3.0 (2025, IA generativa). Marco 2025: información y alfabetización, comunicación y colaboración, creación de contenidos, enseñanza-aprendizaje, desarrollo del alumnado, evaluación digital, más inclusión/seguridad/bienestar. Para el alumnado (RD 157/2022): CD1 a CD5 (información, comunicación/ciudadanía, creación y propiedad, seguridad/bienestar, resolución de problemas y pensamiento computacional). Retos: carga burocrática, niveles dispares, brechas y obsolescencia; estrategias: formación continua, compartir prácticas, progresividad y foco pedagógico; ejes: autonomía y equidad, Plan Digital de Centro, ética y bienestar en IA y liderazgo para una escuela inclusiva.
-<!-- CANONICO_FIN: sintetico-canonico-procesos-y-contextos-educativos.md::sec-6 -->

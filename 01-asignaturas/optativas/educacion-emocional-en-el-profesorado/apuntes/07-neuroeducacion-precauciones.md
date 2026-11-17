@@ -79,6 +79,8 @@ La relación **emociones ↔ estrés** es bidireccional: las emociones modulan l
 
 ---
 
+- La visión de Damásio invierte el dualismo cartesiano: «siento, luego existo», subrayando que el cerebro es ante todo emocional. Las emociones actúan como un superpoder que requiere aprendizaje, pues el sistema 1 (automático) prioriza la reacción inmediata, mientras que el sistema 2 (racional) exige un cultivo deliberado a través de la práctica reiterada y el acompañamiento externo, dado que la mera explicación resulta insuficiente para el aprendizaje significativo. En este proceso, la amígdala gestiona la carga emocional, mientras que las neuronas espejo facilitan la necesaria empatía en el entorno educativo.
+
 ## 6. Criterio profesional
 
 Antes de adoptar un “método neuro…”:
@@ -108,13 +110,3 @@ Si la respuesta a 2 y 3 es débil, mejor no cambiar la práctica por moda.
 - [Apunte de estrés](estres-impacto-y-gestion-emocional.md)  
 - [Material: tres regiones](../materiales/04-tres-regiones-emocion-estres.md)  
 - [Glosario](../glosario.md): neuromito, eustrés, distrés, flow
-
-<!-- CANONICO_INICIO: sintetico-canonico-educacion-emocional-del-profesorado.md::sec-3 -->
-## Sincronizado desde el canónico — 3. Neurociencia de la emoción
-
-> Fuente: `asignaturas/1erTrimestre/educacion-emocional-del-profesorado/sinteticos/sintetico-canonico-educacion-emocional-del-profesorado.md`
-
-Damásio (*El error de Descartes*) invierte el cartesianismo: **«siento, luego existo»**; el cerebro es ante todo emocional. Su frase a Fernández-Berrocal: «las emociones son un superpoder, pero hay que aprender a utilizarlo» (metáfora de las alas y los flamencos que no aprenden a volar). El sistema 1 (Kahneman) responde de forma automática ante el ataque (huir o defenderse); el sistema 2 hay que cultivarlo: «saber darle a la pelota no es darle a la pelota; hay que equivocarse 300 veces». Explicar no basta: hace falta práctica y la distancia de un colega o tutor (con los hijos se pierde). El 90 % de las facultades españolas no enseña esto. Anatómicamente: amígdala en el proceso emocional y neuronas espejo en la empatía.
-
----
-<!-- CANONICO_FIN: sintetico-canonico-educacion-emocional-del-profesorado.md::sec-3 -->

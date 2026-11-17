@@ -72,6 +72,8 @@ Estas referencias aparecen en el material docente (Tema 1 DCI y apuntes) y permi
 
 ---
 
+Asimismo, se integra el material de soporte compuesto por las diapositivas oficiales (temas 1, 2, 3, 5, 6, 7 y 8) y el conjunto de notas y registros de aula desarrollados durante el periodo octubre-noviembre de 2026. Este corpus incluye precisiones específicas sobre los enfoques de resolución de problemas, el diseño universal para el aprendizaje (DUA) con tareas de suelo bajo y techo alto, y los criterios de evaluación vigentes para el curso 2026-27.
+
 ## 3. Normativa curricular de referencia (Aragón – actualizada)
 
 | Ámbito | Norma |
@@ -94,45 +96,3 @@ Consulta siempre [Educaragon – Normativa](https://educa.aragon.es/).
 - Eurydice se recomienda como lectura de contexto europeo en los bloques 1–3.
 
 *Última actualización de esta bibliografía: octubre 2026.*
-
-<!-- CANONICO_INICIO: sintetico-canonico-diseno-curricular-e-instruccional-de-matematicas.md::sec-fuentes-utilizadas -->
-## Sincronizado desde el canónico — Fuentes utilizadas
-
-> Fuente: `asignaturas/1erTrimestre/diseno-curricular-e-instruccional-de-matematicas/sinteticos/sintetico-canonico-diseno-curricular-e-instruccional-de-matematicas.md`
-
-**Diapositivas oficiales (`slides/`, 7 archivos):**
-
-1. `01-tema-1-curriculo-clase-23-09.pdf`
-2. `02-por-que-ensenar-matematicas.pdf`
-3. `03-los-curriculos-cambian.pdf`
-4. `05-competencia-matematica.pdf`
-5. `06-enfoques-rp.pdf`
-6. `07-inclusion-3.pdf`
-7. `08-evaluacion-2026-27.pdf`
-
-**Transcripciones de audio (`audios/`, 19 archivos):**
-
-1. `2026-10-12-curricular1.txt`
-2. `2026-10-12-curricular2.txt`
-3. `2026-10-15-curriculum.txt`
-4. `2026-10-20-curricular-1.txt`
-5. `2026-10-20-curricular-2.txt`
-6. `2026-10-20-curricular.txt`
-7. `2026-10-27-Curricular-1-RP.txt`
-8. `2026-10-27-Curricular-2.txt`
-9. `2026-10-27-Curricular-3.txt`
-10. `2026-10-29-curricular-1.txt`
-11. `2026-10-29-curricular-2.txt`
-12. `2026-10-29-curricular-3.txt`
-13. `2026-11-03-curriculuar-1.txt`
-14. `2026-11-03-curriculuar-2.txt`
-15. `2026-11-05-curricular-1.txt`
-16. `2026-11-05-curricular-2.txt`
-17. `2026-11-05-curricular-3.txt`
-18. `2026-11-10-curricular1.txt`
-19. `2026-10-29-curricular-4.txt` (revisada; contenido de acción tutorial ajeno a este canónico)
-
-`2026-10-27-Curricular-1-RP.txt`, `2026-10-27-Curricular-2.txt` y `2026-10-27-Curricular-3.txt` son tres tomas complementarias de la misma sesión; la segunda se usó sobre todo para el apartado 5.4 y la tercera para DUA tareas de suelo bajo/techo alto. Los audios del 29 de octubre y del 3 y 5 de noviembre aportan las precisiones de evaluación del apartado 8.6.
-
-Referencia secundaria consultada solo para confirmar la estructura temática (no usada como fuente de datos): apuntes de los temas 1, 2 y 3 y ampliaciones de `/sinteticos/`.
-<!-- CANONICO_FIN: sintetico-canonico-diseno-curricular-e-instruccional-de-matematicas.md::sec-fuentes-utilizadas -->

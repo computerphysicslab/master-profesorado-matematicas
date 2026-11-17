@@ -40,6 +40,8 @@ Informar, priorizar, preparar la acción, comunicar al grupo. En clase de Matem�
 
 ---
 
+Etimológicamente, la emoción proviene del latín *movere* (mover hacia fuera), entendiéndose como una tendencia a la acción y un estado complejo del organismo que predispone a una respuesta organizada. Este proceso, que ocurre de forma súbita y pasajera, se articula mediante cuatro dimensiones fundamentales: la fisiológica (cambios hormonales, activación del sistema nervioso autónomo y expresión facial), las tendencias de acción, la experiencia subjetiva (focalización de la atención) y la valoración cognitiva. El flujo procesual se inicia con un evento que es procesado por la amígdala, seguido de una valoración que desencadena la emoción, la cual se traduce en respuestas cognitivas, fisiológicas y conductuales integradas.
+
 ## 4. Emociones básicas y complejas
 
 Las taxonomías de emociones «básicas» (p. ej. tradiciones tipo Ekman) son útiles como mapa, no como lista cerrada. En adolescencia pesan las **emociones secundarias / complejas** (vergüenza, orgullo, culpa, envidia…) y las **emociones colectivas** del grupo-clase (clima, contagio, normas implícitas sobre el error).
@@ -262,17 +264,3 @@ Relación tipo Yerkes–Dodson: demasiada poca activación (aburrimiento) o dema
 - **Bisquerra, R.** educación emocional y modelo pentagonal.
 
 **Material relacionado:** [Goleman: cinco competencias y aplicación al aula](../materiales/goleman-cinco-competencias-aplicacion-aula.md).
-
-<!-- CANONICO_INICIO: sintetico-canonico-educacion-emocional-del-profesorado.md::sec-2 -->
-## Sincronizado desde el canónico — 2. Emoción, sentimiento y proceso emocional
-
-> Fuente: `asignaturas/1erTrimestre/educacion-emocional-del-profesorado/sinteticos/sintetico-canonico-educacion-emocional-del-profesorado.md`
-
-Del latín *movere* (mover hacia fuera): tendencia a actuar. Es «estado complejo del organismo... que predispone a una respuesta organizada», reacción subjetiva con cambios orgánicos, fisiológicos y endocrinos innatos e influidos por la experiencia, con **función adaptativa**, súbita y pasajera (similar a la respuesta de estrés). Señala estímulos importantes por peligro o agrado; la decisión no es puramente racional. Cuatro dimensiones: fisiológica (hormonas, SNA, expresión facial), tendencias de acción, experiencia subjetiva (atención) y valoración cognitiva. Proceso: Evento → **amígdala** → Valoración → Emoción → SNC → respuestas cognitiva, fisiológica y conductual.
-
-Básicas: miedo (ansiedad, huida), sorpresa (breve, aproximación cognitiva), aversión (asco, alejamiento), ira (rabia, ataque), alegría (euforia, bienestar) y tristeza (pena, soledad). Goleman: felicidad, tristeza, ira, sorpresa, miedo, disgusto. Las básicas tienen expresión facial y tendencia de acción típica; las complejas (celos) no. Plutchik (2001): primarias, secundarias, terciarias. Lazarus (1991): cada emoción tiene un «tema central» de daño o beneficio. Estado (segundos/minutos) frente a rasgo (disposición); escala emociones → estados de ánimo → desórdenes → rasgos → ciclo vital. Negativas: ira, miedo, ansiedad, tristeza, vergüenza, aversión; positivas: alegría, humor, amor, felicidad. Secundarias adolescentes: vergüenza, culpa, orgullo, frustración (ira+tristeza), ansiedad, inseguridad, celos, soledad, confusión, desilusión. Funciones: motivar, adaptar, informar, social (expresiones universales) y afectar percepción, atención, memoria, razonamiento y creatividad. Las **emociones colectivas** son interrelaciones sociales: «la empatía es el motor de las emociones, espejo hacia los demás; el cerebro es importante, pero no lo son menos los grupos».
-
-**Escala de conciencia emocional**: embotamiento/analfabetismo (caso Ana: disociación defensiva, otros perciben mejor sus emociones); sensaciones físicas (caso Begoña: latido sin miedo, automedicación); experiencia caótica (caso Ernesto: energía sin palabra ni control, decisiones impulsivas); **barrera verbal** (paso a los niveles superiores: habilidades lingüísticas, apertura); diferenciación (matizar, combinar, verbalizar ambivalencia); causalidad (razonar el porqué); empatía (leer señales faciales y tono, neuronas espejo, no manipular al vulnerable); interactividad (percibir el clima del grupo, compartir contacto emocional).
-
----
-<!-- CANONICO_FIN: sintetico-canonico-educacion-emocional-del-profesorado.md::sec-2 -->

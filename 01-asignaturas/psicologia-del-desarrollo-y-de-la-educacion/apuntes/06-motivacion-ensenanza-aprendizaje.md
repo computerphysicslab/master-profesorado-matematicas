@@ -315,6 +315,13 @@ Weiner (1974), dentro de la teoría de la motivación de logro, estudió los **e
 **Moraleja docente:** ante el mismo suspenso, lo decisivo no es el resultado sino **la causa percibida** y **la ayuda recibida**. Ofrecer una estrategia concreta (en lugar de solo «lo siento») cambia la dimensión de controlabilidad. Material: [Mindset y atribuciones](../materiales/mindset-atribuciones-matematicas.md).
 
 ---
+
+**Maslow.** Humanismo: tendencia a la autorrealización. Siete necesidades jerarquizadas: fisiológicas, seguridad, pertenencia y afecto, autoestima, logro intelectual, apreciación estética y autorrealización. Las cuatro primeras, **de deficiencia** (desaparecen al satisfacerse y bloquean a las superiores); las otras, **de ser** (crecen). La autorrealización requiere identidad y valores, y suele no alcanzarse. Crítica: no siempre se cumple la jerarquía, pero sin necesidades básicas cubiertas es difícil motivarse; explica el menor logro en hogares pobres o abusivos.
+
+**Logro y expectativa-valor.** McClelland y Atkinson: necesidad de superar tareas difíciles. McClelland distingue **expectativa** y **valor del incentivo**: ambos positivos producen aproximación; negativos, evitación. Atkinson: Me (lograr éxito) y Mf (evitar fracaso); Me > Mf prefiere dificultad intermedia y el fracaso le estimula; Me < Mf prefiere extremos y abandona. Se aprende en familia: autonomía, aspiraciones altas, afecto, elogio y refuerzo del esfuerzo.
+
+**Atribución (Weiner, 1974).** Tres dimensiones: **locus** (interno → orgullo o culpa/vergüenza; externo → gratitud o irritación), **estabilidad** (expectativas iguales o de cambio) y **controlabilidad** (esfuerzo y estrategias frente a capacidad, suerte o exigencias). Lo más positivo: éxito a causas internas, inestables y controlables; lo más negativo: fracaso a causas internas, estables e incontrolables. Las causas más frecuentes son capacidad y esfuerzo.
+
 ## 5. Metas y orientaciones motivacionales
 
 > 📘 **Oficial** · Bloque I · Tema 2.1 (Alonso Tapia).
@@ -848,23 +855,3 @@ El docente modela también **cómo se habla del error y del esfuerzo** (Bandura,
 ---
 
 *Apunte orientativo para el Máster de Profesorado · especialidad Matemáticas. Complementa la guía docente; no la sustituye. Cierra el arco de la asignatura: desarrollo → diversidad → conducta → cognición → motivación.*
-
-<!-- CANONICO_INICIO: sintetico-canonico-psicologia-del-desarrollo-y-de-la-educacion.md::sec-11 -->
-## Sincronizado desde el canónico — 11. Motivación
-
-> Fuente: `asignaturas/1erTrimestre/psicologia-del-desarrollo-y-de-la-educacion/sinteticos/sintetico-canonico-psicologia-del-desarrollo-y-de-la-educacion.md`
-
-Factores: las cifras de fracaso escolar (hasta el 50 % en la universidad) llevaron a superar el intelectualismo. Fórmula **poder** (capacidad) + **querer** (motivación). Definición: fuerza que impulsa y orienta la actividad hacia un objetivo; procesos que activan, dirigen y sostienen la conducta. Terry Fox ejemplifica energía, dirección y persistencia. Relación **bidireccional** con el aprendizaje. Explicaciones conductistas (incentivos externos) y cognitivas (motivos, expectativas, metas).
-
-**Maslow.** Humanismo: tendencia a la autorrealización. Siete necesidades jerarquizadas: fisiológicas, seguridad, pertenencia y afecto, autoestima, logro intelectual, apreciación estética y autorrealización. Las cuatro primeras, **de deficiencia** (desaparecen al satisfacerse y bloquean a las superiores); las otras, **de ser** (crecen). La autorrealización requiere identidad y valores, y suele no alcanzarse. Crítica: no siempre se cumple la jerarquía, pero sin necesidades básicas cubiertas es difícil motivarse; explica el menor logro en hogares pobres o abusivos.
-
-**Logro y expectativa-valor.** McClelland y Atkinson: necesidad de superar tareas difíciles. McClelland distingue **expectativa** y **valor del incentivo**: ambos positivos producen aproximación; negativos, evitación (caso de las oposiciones). Atkinson: Me (lograr éxito) y Mf (evitar fracaso); Me > Mf prefiere dificultad intermedia y el fracaso le estimula; Me < Mf prefiere extremos y abandona. Se aprende en familia: autonomía, aspiraciones altas, afecto, elogio y refuerzo del esfuerzo. Las metas se clasifican en aprendizaje frente a rendimiento, y según dominio, utilidad, recompensa, seguridad, autoestima, autonomía y aceptación (Alonso-Tapia, 1997).
-
-**Autodeterminación.** Competencia y autonomía facilitan la motivación intrínseca: la obligación y el control la debilitan; elegir la favorece. El docente puede ampliar optatividad y concienciar de gustos. Competencia es percepción propia, no solo elogios: oportunidades de éxito, evitar críticas y atender atribuciones. Las fuentes no nombran a Deci y Ryan, aunque corresponde a su teoría de la autodeterminación; verificar la atribución.
-
-**Atribución (Weiner, 1974).** Tres dimensiones: **locus** (interno → orgullo o culpa/vergüenza; externo → gratitud o irritación), **estabilidad** (expectativas iguales o de cambio) y **controlabilidad** (esfuerzo y estrategias frente a capacidad, suerte o exigencias). Lo más positivo: éxito a causas internas, inestables y controlables; lo más negativo: fracaso a causas internas, estables e incontrolables. Las causas más frecuentes son capacidad y esfuerzo.
-
-**Intrínseca/extrínseca.** El rendimiento es mayor con motivación intrínseca, pero se usan reforzadores externos en tareas concretas y con niños pequeños, tendiendo a internalizar. Medidas de Sampascual: clima seguro, contenidos significativos, conflicto cognitivo, expectativas y atribuciones deseables, separar aprendizaje y evaluación, orientar. Alonso-Tapia (1991): activar curiosidad con información novedosa e incongruente, mostrar relevancia y utilidad, grupos cooperativos, opciones de autonomía, orientar la atención antes/durante/después, promover inteligencia modificable y atribuciones controlables, coherencia y evaluación formativa sin comparaciones ni información pública.
-
-**Evaluación.** Entrevistas, observación y cuestionarios (Harter 1985 adaptada por Broc; MAPE-I y MAPE-II de Tapia y Sánchez, 1992). No etiquetar de «desmotivado»: puede haber dificultad, miedo al ridículo, baja autoeficacia o cansancio. La **indefensión aprendida** se corrige con metas pequeñas, estrategias enseñadas y feedback que identifique qué ayudó.
-<!-- CANONICO_FIN: sintetico-canonico-psicologia-del-desarrollo-y-de-la-educacion.md::sec-11 -->

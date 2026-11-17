@@ -63,6 +63,8 @@ Estas creencias no se debaten en abstracto. Se trabajan a partir de situaciones 
 
 ---
 
+La operatividad del modelo reside en identificar cómo nuestras interpretaciones sobre quién tiene la culpa, qué significa el evento para nosotros o qué podemos aprender de él, determinan directamente la emoción resultante (ira, impotencia, angustia) y la conducta posterior (búsqueda de soluciones, evasión o ataque). Es fundamental detectar distorsiones cognitivas comunes —como el pensamiento de todo o nada, la lectura del pensamiento, el etiquetado o el razonamiento emocional—, ya que, siguiendo la premisa de Ellis, al identificar estas ideas irracionales podemos transformar emociones desproporcionadas. La técnica de registro y reevaluación permite pasar de reacciones automáticas, como la percepción de persecución (ej. «la tienen tomada conmigo»), a un análisis objetivo de la situación, la historia previa, el pensamiento subyacente y la consecuencia conductual.
+
 ## 3. Aplicación al docente
 
 El mismo esquema sirve para el propio profesorado. Situaciones frecuentes:
@@ -152,13 +154,3 @@ El modelo A-B-C es una herramienta de **conciencia y regulación**, no un instru
 ---
 
 **Uso recomendado:** apoyo para el trabajo personal del futuro docente; base para diseñar actividades breves de aula; puente conceptual entre el apunte de estrés y los materiales de modificación de conducta de Psicología.
-
-<!-- CANONICO_INICIO: sintetico-canonico-educacion-emocional-del-profesorado.md::sec-12 -->
-## Sincronizado desde el canónico — 12. Diálogo interno (Beck/Ellis)
-
-> Fuente: `asignaturas/1erTrimestre/educacion-emocional-del-profesorado/sinteticos/sintetico-canonico-educacion-emocional-del-profesorado.md`
-
-Principio **A-B-C**: Acontecimiento → Pensamientos → Sentimos/Hacemos. Lo que nos decimos («¿quién tiene la culpa?», «¿qué significa para mí?», «¿qué puedo aprender?») determina emoción (alegría u angustia, impotencia, ira) y conducta (buscar soluciones frente a evasión, rumiación o ataque). Ellis: «al descubrir las ideas irracionales... podemos sanar las emociones dolorosas y exageradas» (Terapia Racional Emotiva). **Distorsiones**: todo/nada (perfeccionismo), filtro mental, descalificación de lo positivo, conclusiones apresuradas (lectura del pensamiento, adivino), magnificación/minimización, razonamiento emocional, «debería», etiquetación y personalización. Técnica: registro y reevaluación de pensamientos automáticos. Casos: Ángel y el profesor de E.F. («la tienen tomada conmigo» → protesta y amenaza) frente al profesor 1 («me quiere dejar mal delante de todos» → amenaza y expulsión); analizar situación, historia, pensamiento, acción y consecuencia.
-
----
-<!-- CANONICO_FIN: sintetico-canonico-educacion-emocional-del-profesorado.md::sec-12 -->

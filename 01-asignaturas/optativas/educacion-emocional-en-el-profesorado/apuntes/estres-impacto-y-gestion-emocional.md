@@ -50,6 +50,8 @@ El modelo transaccional es el más útil para la educación emocional: sitúa el
 
 ---
 
+Se distingue entre la *respuesta de estrés* (proceso adaptativo y automático) y el *estresor* (estímulo que la activa). El estrés no es intrínsecamente negativo; funciona como un mecanismo de activación para afrontar demandas del entorno. Además de los enfoques de Selye (respuesta fisiológica) y Holmes y Rahe (escala de estresores), el modelo transaccional de Lazarus y Folkman (1986) define el estrés como un proceso de transacciones dinámicas donde la percepción de amenaza o daño, mediada por variables personales, determina la reacción física y psicológica, estableciendo que la relación entre estresor y respuesta no es directa, sino mediada por la evaluación cognitiva.
+
 ## 4. Modelo transaccional (síntesis operativa)
 
 El estrés surge cuando la persona evalúa que las demandas **superan** (o amenazan con superar) sus recursos.
@@ -136,6 +138,8 @@ El **burnout** (agotamiento, despersonalización, baja realización) crece sobre
 
 ---
 
+El afrontamiento implica esfuerzos conductuales y cognitivos destinados a gestionar estresores y reducir el malestar, actuando como mediadores entre el estresor y la salud. Estos esfuerzos están intrínsecamente ligados a la evaluación cognitiva: el optimismo y la personalidad modulan la valoración primaria (percibir la situación como amenaza, reto o pérdida) y la secundaria (evaluación de recursos disponibles), favoreciendo estilos centrados en el problema frente a los centrados en la emoción. El optimismo, en particular, reduce la percepción de amenaza y aumenta la persistencia, aunque en adolescentes puede correlacionar con ira y agresividad. La autoeficacia y la esperanza son componentes clave en este proceso, siendo el modelo de solución de problemas de D'Zurilla y Goldfried el procedimiento conductual de referencia.
+
 ## 14bis. Materiales relacionados (regulación y comunicación)
 
 - [Diálogo interno y modelo A-B-C](../materiales/dialogo-interno-modelo-abc.md) — operacionaliza la evaluación cognitiva (B) del modelo transaccional; útil para el propio docente y para apoyar al alumnado ante el bloqueo.
@@ -163,35 +167,3 @@ Elige **una** situación real o simulada (anonimizada) de estrés en el aula de 
 5. Indica qué recursos del centro activarías si se repitiera o escalara.
 
 Extensión orientativa: una página. Criterio de calidad: precisión conceptual + respeto al rol + aplicabilidad real.
-
-<!-- CANONICO_INICIO: sintetico-canonico-educacion-emocional-del-profesorado.md::sec-1 -->
-## Sincronizado desde el canónico — 1. Estrés y modelo transaccional (Lazarus y Folkman)
-
-> Fuente: `asignaturas/1erTrimestre/educacion-emocional-del-profesorado/sinteticos/sintetico-canonico-educacion-emocional-del-profesorado.md`
-
-El estrés es «respuesta fisiológica, cognitiva y del comportamiento para adaptarse a los estímulos»; se distingue *respuesta de estrés* (adaptativa y automática) de *estresor* (estímulo que la activa). No siempre es negativo: activa el organismo para afrontar demandas. Tres enfoques: Selye (1954, respuesta, SGA), Holmes y Rahe (1967, escala de estresores) y **Lazarus y Folkman (1986, modelo transaccional)**: relación dinámica y bidireccional persona–ambiente; el estrés es un *proceso* de transacciones en el que la percepción de amenaza o daño produce reacciones físicas y psicológicas. La relación estresor→respuesta **no es directa**: median variables.
-
-**Evaluación cognitiva** («lo que preocupa no son las cosas, sino la visión que tenemos de ellas», Epicteto): *primaria* — ¿qué demandas hay y qué recursos exige? (irrelevante, benigna-positiva o estresante; Lazarus 1966); *secundaria* — ¿tengo los recursos? El estrés aparece por **desajuste** entre demanda percibida y capacidad creída (metáfora de la balanza). Es **subjetiva e individual**: influyen autoestima, introversión, creencias, actitudes («la actitud multiplica», Küppers), expectativas, necesidades, rasgos y contexto (apoyo social).
-
-**Zonas de activación**: zona normal/segura (apetito, sueño reparador, funcionamiento correcto; amplitud individual); estrés negativo por exceso de demandas («¿soy incapaz?, ¿esto me desborda?») o por déficit (aburrimiento, frustración, jubilación mal gestionada, subempleo, desempleo: «pocas cosas que hacer puede ser tan estresante como estar sobrecargado»); **estrés positivo** (capacidades > demandas): ideas, motivación, energía, logro; agudiza percepción, acelera procesamiento, amplía creatividad y resolución de problemas; emociones de satisfacción, amabilidad, confianza, autorrealización, decisión y sentido de vida.
-
-**Selye (1956), Síndrome General de Adaptación**: 1) *alarma* (adrenalina, sistema nervioso simpático, atención y concentración, lucha/huida); 2) *resistencia* (cortisol, alteraciones metabólicas, alto impacto emocional, semanas o años); 3) *agotamiento* (estímulo prolongado/intenso, reaparecen síntomas, posible muerte).
-
-**Estresores**: acontecimientos vitales (extraordinarios, inevitables, generales) y sucesos menores (frecuentes, personales, con **mayor impacto en salud**). En el profesorado: sobrecarga, burocracia, falta de recursos, relaciones conflictivas, evaluación constante, bajo reconocimiento, demandas emocionales, falta de control, conciliación y problemas de salud. **Variables personales**: patrón A (el que más predispone; estilo de comportamiento: perfeccionismo, implicación obsesiva, urgencia, competitividad, agresividad, multitarea, lucha por el control, problemas con incertidumbre), introversión, rigidez, dependencia, ansiedad; también formación, experiencia, hábitos, necesidades y valores. **Apoyo social** = recursos emocionales, instrumentales e informativos; distinguir percibido y real; amortigua el estrés.
-
-**Consecuencias**: ≥75 % de enfermedades relacionadas; cardiovascular (noradrenalina: hipertensión, infarto, migraña), digestivo (ácido + curación lenta → úlcera, colon irritable), musculoesquelético (contracturas, cefaleas), inmunitario (cortisona → descenso de linfocitos; diabetes, cáncer, artritis, asma, insomnio), sexual, conductual (evitación, tabaco, alcohol, drogas) y emocional (ansiedad y depresión).
-
-**Regulación**: generales (dieta, cafeína, alcohol, tabaco, ejercicio, sueño); cognitivas (reestructuración cognitiva; modificación de pensamientos automáticos mediante registro; desensibilización sistemática de **Wolpe** sobre relajación de Jacobson; inoculación de estrés de **Meichenbaum y Cameron**; detención del pensamiento —señal «stop» y sustitución—, Peiró y Salvador); fisiológicas (relajación progresiva de **Jacobson**: no se puede estar relajado físicamente y tenso emocionalmente; control respiratorio: mano en abdomen, inspirar por nariz 4 s, mantener 2 s, espirar 4 s; meditación); conductuales (entrenamiento en habilidades sociales; solución de problemas de **D'Zurilla y Goldfried**: describir el problema en conductas propias, generar alternativas sin impulsividad, ponderar, ejecutar; técnicas de autocontrol de antecedentes y consecuentes).
-
----
-<!-- CANONICO_FIN: sintetico-canonico-educacion-emocional-del-profesorado.md::sec-1 -->
-
-<!-- CANONICO_INICIO: sintetico-canonico-educacion-emocional-del-profesorado.md::sec-8 -->
-## Sincronizado desde el canónico — 8. Afrontamiento
-
-> Fuente: `asignaturas/1erTrimestre/educacion-emocional-del-profesorado/sinteticos/sintetico-canonico-educacion-emocional-del-profesorado.md`
-
-Esfuerzos conductuales y cognitivos para hacer frente a estresores y reducir malestar; median entre estresor y salud y están ligados a la evaluación cognitiva. El optimismo y la personalidad modulan la valoración primaria (amenaza/reto/pérdida) y secundaria (¿tengo recursos?) y favorecen estilos **centrados en el problema** frente a **centrados en la emoción**; el optimismo da menor percepción de amenaza, más persistencia y, en adolescentes, predice ira y agresividad (Booman y Yates, 2001). Autoeficacia y esperanza se insertan aquí; la solución de problemas de D'Zurilla y Goldfried es el procedimiento conductual por excelencia.
-
----
-<!-- CANONICO_FIN: sintetico-canonico-educacion-emocional-del-profesorado.md::sec-8 -->

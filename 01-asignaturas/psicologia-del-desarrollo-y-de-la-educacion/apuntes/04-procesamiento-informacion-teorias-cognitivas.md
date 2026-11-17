@@ -38,6 +38,8 @@ En Matemáticas eso explica por qué dos alumnos oyen la misma explicación y co
 
 ---
 
+Esta evolución hacia el paradigma cognitivo-constructivista implica un giro desde la conducta externa hacia los procesos internos. Piaget fundamenta este cambio mediante los mecanismos de asimilación, acomodación y equilibrio, estructurando el desarrollo en estadios (sensoriomotor, preoperacional, operaciones concretas y formales). Por su parte, Ausubel enfatiza el aprendizaje significativo, donde los nuevos contenidos se vinculan de forma no arbitraria con los conocimientos previos a través de inclusores y organizadores. Bruner complementa esta visión con el aprendizaje por descubrimiento y el concepto de andamiaje, destacando la curiosidad y la competencia como motivos innatos del aprendiz. Finalmente, el constructivismo se ramifica en la vertiente cognitiva, centrada en el conflicto cognitivo, y la social, que prioriza el diálogo y la mediación.
+
 ## 2. Procesamiento de la información (modelo de aula)
 
 ```mermaid
@@ -62,6 +64,8 @@ flowchart TB
 **Idea clave:** comprender en el momento de la explicación **no garantiza** que el esquema quede disponible la semana siguiente. Entre la memoria de trabajo y el aprendizaje duradero hacen falta codificación, consolidación y **práctica de recuperación**.
 
 ---
+
+El procesamiento sigue una secuencia lógica: recepción, selección, interpretación, almacenamiento y recuperación. En este proceso, la **atención** es clave para seleccionar y mantener el foco, mientras que la **memoria** gestiona la codificación, consolidación y recuperación de la información. Con el desarrollo adolescente, el procesamiento se vuelve más planificado y eficaz. Ante las demandas del aula, el docente puede gestionar las corrientes atencionales y los modos de reacción (reactivo o proactivo) para combatir la fatiga mediante el movimiento, el cambio de actividades, el uso del humor, la sorpresa, el trabajo en parejas o grupos, y la implementación de momentos de «enseñanza desconectada».
 
 ## 3. Carga cognitiva
 
@@ -304,19 +308,3 @@ El error no es solo “fallo de conducta”: es información sobre el **esquema*
 ---
 
 *Apunte orientativo para el Máster de Profesorado · especialidad Matemáticas. Complementa la guía docente; no la sustituye.*
-
-<!-- CANONICO_INICIO: sintetico-canonico-psicologia-del-desarrollo-y-de-la-educacion.md::sec-9 -->
-## Sincronizado desde el canónico — 9. Procesamiento de la información
-
-> Fuente: `asignaturas/1erTrimestre/psicologia-del-desarrollo-y-de-la-educacion/sinteticos/sintetico-canonico-psicologia-del-desarrollo-y-de-la-educacion.md`
-
-Recepción, selección, interpretación, almacenamiento y recuperación; atención (seleccionar y mantener el foco) y memoria (codificación, consolidación, recuperación). En la adolescencia el procesamiento se vuelve planificado y eficaz. Existen **corrientes atencionales** y dos modos de reacción (reactivo/proactivo). Contra la fatiga atencional: movimiento del docente, descansos, variar actividades, recursos y disposición, grupos y parejas, sorpresa, humor y «enseñar desconectados».
-<!-- CANONICO_FIN: sintetico-canonico-psicologia-del-desarrollo-y-de-la-educacion.md::sec-9 -->
-
-<!-- CANONICO_INICIO: sintetico-canonico-psicologia-del-desarrollo-y-de-la-educacion.md::sec-10 -->
-## Sincronizado desde el canónico — 10. Teorías cognoscitivas
-
-> Fuente: `asignaturas/1erTrimestre/psicologia-del-desarrollo-y-de-la-educacion/sinteticos/sintetico-canonico-psicologia-del-desarrollo-y-de-la-educacion.md`
-
-Frente al conductismo, el cambio es interno. **Piaget**: asimilación, acomodación, equilibrio y estadios (sensoriomotor 0-2, preoperacional 2-7, operaciones concretas 7-11, formales 11+). **Ausubel**: aprendizaje significativo, relación no arbitraria con los conocimientos previos e inclusores y organizadores. **Bruner**: descubrimiento, andamiaje y dos motivos innatos —curiosidad y competencia (sonrisa maestra a los nueve meses)—. Constructivismo cognitivo (conflicto cognitivo) y social (diálogo y mediación). Evolución: del paradigma conductista al cognitivo-constructivista.
-<!-- CANONICO_FIN: sintetico-canonico-psicologia-del-desarrollo-y-de-la-educacion.md::sec-10 -->
