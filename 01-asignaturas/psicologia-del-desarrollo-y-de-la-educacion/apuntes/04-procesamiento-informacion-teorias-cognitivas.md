@@ -304,3 +304,19 @@ El error no es solo “fallo de conducta”: es información sobre el **esquema*
 ---
 
 *Apunte orientativo para el Máster de Profesorado · especialidad Matemáticas. Complementa la guía docente; no la sustituye.*
+
+<!-- CANONICO_INICIO: sintetico-canonico-psicologia-del-desarrollo-y-de-la-educacion.md::sec-9 -->
+## Sincronizado desde el canónico — 9. Procesamiento de la información
+
+> Fuente: `asignaturas/1erTrimestre/psicologia-del-desarrollo-y-de-la-educacion/sinteticos/sintetico-canonico-psicologia-del-desarrollo-y-de-la-educacion.md`
+
+Recepción, selección, interpretación, almacenamiento y recuperación; atención (seleccionar y mantener el foco) y memoria (codificación, consolidación, recuperación). En la adolescencia el procesamiento se vuelve planificado y eficaz. Existen **corrientes atencionales** y dos modos de reacción (reactivo/proactivo). Contra la fatiga atencional: movimiento del docente, descansos, variar actividades, recursos y disposición, grupos y parejas, sorpresa, humor y «enseñar desconectados».
+<!-- CANONICO_FIN: sintetico-canonico-psicologia-del-desarrollo-y-de-la-educacion.md::sec-9 -->
+
+<!-- CANONICO_INICIO: sintetico-canonico-psicologia-del-desarrollo-y-de-la-educacion.md::sec-10 -->
+## Sincronizado desde el canónico — 10. Teorías cognoscitivas
+
+> Fuente: `asignaturas/1erTrimestre/psicologia-del-desarrollo-y-de-la-educacion/sinteticos/sintetico-canonico-psicologia-del-desarrollo-y-de-la-educacion.md`
+
+Frente al conductismo, el cambio es interno. **Piaget**: asimilación, acomodación, equilibrio y estadios (sensoriomotor 0-2, preoperacional 2-7, operaciones concretas 7-11, formales 11+). **Ausubel**: aprendizaje significativo, relación no arbitraria con los conocimientos previos e inclusores y organizadores. **Bruner**: descubrimiento, andamiaje y dos motivos innatos —curiosidad y competencia (sonrisa maestra a los nueve meses)—. Constructivismo cognitivo (conflicto cognitivo) y social (diálogo y mediación). Evolución: del paradigma conductista al cognitivo-constructivista.
+<!-- CANONICO_FIN: sintetico-canonico-psicologia-del-desarrollo-y-de-la-educacion.md::sec-10 -->

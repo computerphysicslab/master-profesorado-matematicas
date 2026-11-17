@@ -267,3 +267,40 @@ Esta cuestión introduce en el debate curricular una perspectiva crítica **sin*
 | **Sociedad, familia y educación** | Ventajas culturales, SES y expectativas familiares |
 
 **No** es un manual de intervención clínica ni un manifiesto partidista: es un documento de **debate curricular** para el máster.
+
+<!-- CANONICO_INICIO: sintetico-canonico-diseno-curricular-e-instruccional-de-matematicas.md::sec-9 -->
+## Sincronizado desde el canónico — 9. Inclusión y atención a la diversidad
+
+> Fuente: `asignaturas/1erTrimestre/diseno-curricular-e-instruccional-de-matematicas/sinteticos/sintetico-canonico-diseno-curricular-e-instruccional-de-matematicas.md`
+
+La relación entre enseñar a través de RP y atender a la diversidad es «muy fuerte» (diapositiva `07-inclusion-3.pdf`). En un aula hay diversidad de niveles, capacidades y actitudes, a la que se añade la diversidad de contextos sociales, económicos y culturales; gestionarla exige mayor preparación de tareas y estrategias instruccionales. El objetivo es fomentar la participación en las prácticas y desarrollar un **sentido de pertenencia a la comunidad de prácticas** formada por docente y estudiantes (**Herzig, 2005**, *Mathematics Teacher* 99(4), 253-259; **NCTM**, *Supporting Each and Every Student*).
+
+### 9.1. Tareas de suelo bajo y techo alto
+
+- **Suelo bajo:** tareas con un punto de entrada accesible. **Techo alto:** tareas en las que todos tienen oportunidad de bloquearse al extenderse.
+- Origen: principio de diseño del lenguaje **LOGO** de **Seymour Papert**: los nuevos usuarios han de encontrar fácil iniciarse y el lenguaje no debe tener límites para los avanzados (Scratch es su heredero por bloques; GeoGebra habla de «curva de aprendizaje», muy rápida al principio). Se habla también de «paredes fuertes» como andamiaje.
+- Sentido socioafectivo: todos pueden demostrar lo que saben hacer sin preocuparse por lo que no saben; como todos tienen la misma tarea, nadie se siente limitado antes de empezar.
+- La diapositiva 07 y la transcripción de 27 de octubre analizan cuáles de las tareas recientes lo son: la suma de consecutivos (suelo accesible, techo alto para demostrar), la abeja (techo alto, suelo no tan bajo), el circuncentro y el problema de la gasolina (no tanto). NRICH (Universidad de Cambridge) estructura sus actividades con edades, nivel de desafío, «Getting started», soluciones de estudiantes de centros de todo el mundo, recursos para el profesor, pistas y extensiones; la actividad trabajada se llama «Cambiando áreas, cambiando perímetros» (11-14 años, una estrella) y su mapa curricular permite buscar por temas.
+- Advertencia de la transcripción: convertir un problema en apartados A, B, C, D que «llevan de la mano» hace que los alumnos vean cuatro o cinco problemas distintos y pierdan autonomía para indagar casos particulares y valorar soluciones parciales.
+
+### 9.2. Medidas concretas en el aula de Matemáticas
+
+- Respetar los ritmos de aprendizaje.
+- Conocer el entorno del estudiante y conectar los contenidos y contextos de las tareas con sus intereses reales.
+- Implementar tareas ricas, abiertas y flexibles que fomenten distintas respuestas y estrategias (en el Thinking Classroom, que aparezcan 2, 3 o 4 estrategias correctas distintas genera la idea de que todos participan y pueden hacerlo de formas distintas).
+- Mantener expectativas altas para todos y valorar ideas, notaciones, procedimientos y estrategias alternativas.
+- Ser cuidadoso con la gestión de preguntas y las técnicas de escucha: dar tiempo, pedir «explícalo un poco mejor», no interpretar deprisa.
+- Identificar y olvidar los propios prejuicios; emplear metodologías y recursos variados; romper estereotipos dominantes (chicos vs. chicas); planificar la evaluación para que todos tengan oportunidades reales de demostrar su comprensión.
+
+La diapositiva 07 incluye la **tarea del granjero y los tomates**: 300 kg a 2 €/kg, decide ganar un 10 % menos; un estudiante, procedente de un entorno rural, observa que al sol los tomates perderán agua y pesarán unos 290 kg, y sus compañeros se ríen. Se pide identificar los aspectos de diversidad y decidir qué haría el docente: la observación es una variable real que el enunciado no controla; hay que reconocerla y delimitar el modelo («suponemos que se mantienen 300 kg y solo cambia el precio»), no ignorarla.
+
+Las transcripciones añaden casos de contextualización cultural: un doctor en Didáctica de la Matemática en EE. UU. que no conectaba con su clase descubrió que muchos padres trabajaban en la industria de la madera/muebles y diseñó el proyecto «diseña la casa de tus sueños» (escalas, semejanza, proporcionalidad geométrica, lenguaje algebraico introducido cuando lo necesitaban, modelos de precios), con lo que desatascó el curso; experiencias semejantes con chatarra en colectivos romaníes o con fábricas de zapatos en Illueca. El profesor defiende un pragmatismo matizado: en un centro difícil, «ponte el casco y hazlo lo mejor posible»; ganar 5 estudiantes motivados ya es un éxito.
+
+### 9.3. DUA y diversidad matemática
+
+El **Diseño Universal para el Aprendizaje (DUA)** aparece en la diapositiva 07 con la referencia de **Lambert (2021)**, «The Magic Is in the Margins: UDL Math», *Mathematics Teacher: Learning and Teaching PK-12*, 114(9), 660-669, y el ejemplo de resolver un sistema de tres formas (verbal apoyada en dibujos, pictórica y algebraica). Se recuerda que en una enseñanza unidireccional quienes no comprenden se centran en seguir reglas sin comprensión conceptual ni relacional (**Skemp, 1978**); en RP cada alumno aborda el problema con estrategias con sentido para él. La pregunta clave es: *¿qué problema/secuencia de tareas elegimos?*
+
+La transcripción de 27 de octubre muestra la diversidad **matemática** comparando algoritmos: el algoritmo usual de la resta (basado en la **compensación**, sumar 10 al minuendo y una decena al sustraendo: `256 - 38 = 266 - 48 = 218`) frente al de «pedir prestado»/**reagrupación** de unidades, decenas y centenas (propio de EE. UU., Rumanía, Francia, Portugal), con apoyo en puntos organizados por valor posicional o en bloques de base diez. Se analizan las diferencias del algoritmo de división estadounidense (que mantiene el control semántico de centenas, decenas y unidades) frente al tradicional, las dificultades de los ceros y la gestión simultánea de multiplicar y restar en la división larga. Se critican las reglas mnemotécnicas («el tobogán», «la pelota», «lo que está sumando se pasa restando») que venden el cuentecillo sin comprensión, y se destaca que **hablar de distintas maneras de llevar, de sus fundamentos y de sus pros y contras ya es trabajar la diversidad en el aula**. Se cita también el caso de una investigadora (grabando sus clases) que no dio peso a la aportación valiosa de un alumno disruptivo porque no la esperaba; al revisar el vídeo constató una oportunidad perdida de inclusión, y el alumno dejó de participar. Finalmente se aborda el debate sobre por qué los chicos participan más rápido en voz alta: no significa que sean mejores, y convertir la clase en un concurso de respuesta rápida genera un sesgo; las causas son multifactoriales y el propio profesor dice desconocer estudios concluyentes.
+
+---
+<!-- CANONICO_FIN: sintetico-canonico-diseno-curricular-e-instruccional-de-matematicas.md::sec-9 -->

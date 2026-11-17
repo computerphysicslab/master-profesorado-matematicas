@@ -179,3 +179,13 @@ Solo puede responderse con **evidencia de la propia práctica** (ensayos de aula
 - **Martín, M. L., Harillo, D. A., & Mora, J. A. (2008).** IE y ajuste psicológico en secundaria. *Ansiedad y Estrés, 14*(1), 31–41.
 
 Instrumentos tratados en el tema (TMMS-24, e-COM, MSCEIT): ver también [bibliografía](../bibliografia.md).
+
+<!-- CANONICO_INICIO: sintetico-canonico-educacion-emocional-del-profesorado.md::sec-14 -->
+## Sincronizado desde el canónico — 14. Autoevaluación y competencia emocional
+
+> Fuente: `asignaturas/1erTrimestre/educacion-emocional-del-profesorado/sinteticos/sintetico-canonico-educacion-emocional-del-profesorado.md`
+
+La autoevaluación es contenido y práctica: en la sesión 1 se autoevaluaron competencias emocionales; al final, el 20 % de prácticas = asistencia (1/3) + autoinforme de ~300 palabras sobre aprendizaje personal y docente en competencia emocional (1/3) + **autocalificación 0–10** (1/3), en Moodle. Instrumentos: TMMS-24, lista de 30 rasgos de personas emocionalmente inteligentes (reconocer y comunicar sentimientos, esperar a calmarse, tolerar frustración, empatizar, no decidir alterado, motivarse, aceptar ambivalencia, equilibrar deberes y derechos) e indicadores de conciencia emocional (diferenciación, causalidad, empatía, interactividad). Evidencias: señales universales (Ekman), tono y cara como canales, percepción ligada a empatía, apertura y éxito académico; expresión emocional ligada a salud, enfermedad (cáncer de pecho) y reparación de traumas.
+
+---
+<!-- CANONICO_FIN: sintetico-canonico-educacion-emocional-del-profesorado.md::sec-14 -->

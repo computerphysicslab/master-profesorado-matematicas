@@ -60,3 +60,15 @@ Referencias de trabajo orientativas. Completar con la guía docente oficial.
 ## Enlace con Educación emocional
 
 La optativa desarrolla IE, regulación y bienestar docente. Aquí solo se **enlaza** (ansiedad matemática, feedback afectivo); no se reproduce su temario.
+
+<!-- CANONICO_INICIO: sintetico-canonico-psicologia-del-desarrollo-y-de-la-educacion.md::sec-fuentes-utilizadas -->
+## Sincronizado desde el canónico — Fuentes utilizadas
+
+> Fuente: `asignaturas/1erTrimestre/psicologia-del-desarrollo-y-de-la-educacion/sinteticos/sintetico-canonico-psicologia-del-desarrollo-y-de-la-educacion.md`
+
+**Diapositivas (`/slides/`):** `bloque-1-tema-1.pdf` (Psicología del desarrollo en la adolescencia); `bloque-2-tema-1-introduccion.pdf` (Introducción a la Psicología de la Educación); `bloque-2-tema-2-aprendizaje-y-condicionamiento-clasico.pdf`; **`bloque-2-tema-3-Aprendizaje-y-Condicionamiento-operante.pdf`** (añadido el 16/11/2026: Thorndike, Skinner, refuerzo/castigo, programas de reforzamiento y métodos de modificación de conducta); `bloque-1-tema-2-motivacion-pptx.pdf`; `bloque-1-motivacion-1.pdf` (factores motivacionales, diseño y refuerzos).
+
+**Transcripciones de audio (`/audios/`, `.txt`):** `2026-10-19-psicologia-Grok.txt` (introducción, estilos educativos, condicionamiento clásico, caso de una alumna); **`2026-10-19-psicologia.txt`** (transcripción literal de la misma sesión: casos Genie y Víctor de Aveyron, matices sobre emociones y estilos, generalización/discriminación y desensibilización sistemática); `2026-10-26-Psicologia-1.txt` (concepto de aprendizaje, condicionamiento, leyes y ejemplos de aversión); `2026-10-09-psicologia.txt` (empatía, compasión, escucha activa, asertividad); `apuntes.txt` (Thorndike, Pavlov, Watson, extinción y generalización); `2026-11-16-psicologia1.txt` (clase del 16/11/2026: condicionamiento operante, repaso de clásico, ejemplos y debate moral).
+
+**Referencia secundaria (`/sinteticos/`):** `2026-10-19-psicologia-Gemini.md`; `apuntes_psicologia_desarrollo_educacion_2026-10-19.md`; `Apuntes_Psicologia_Educacion_hasta_hoy.docx`; `Apuntes_Psicologia_Educacion_hasta_hoy-2.md`.
+<!-- CANONICO_FIN: sintetico-canonico-psicologia-del-desarrollo-y-de-la-educacion.md::sec-fuentes-utilizadas -->

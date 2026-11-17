@@ -152,3 +152,13 @@ El modelo A-B-C es una herramienta de **conciencia y regulación**, no un instru
 ---
 
 **Uso recomendado:** apoyo para el trabajo personal del futuro docente; base para diseñar actividades breves de aula; puente conceptual entre el apunte de estrés y los materiales de modificación de conducta de Psicología.
+
+<!-- CANONICO_INICIO: sintetico-canonico-educacion-emocional-del-profesorado.md::sec-12 -->
+## Sincronizado desde el canónico — 12. Diálogo interno (Beck/Ellis)
+
+> Fuente: `asignaturas/1erTrimestre/educacion-emocional-del-profesorado/sinteticos/sintetico-canonico-educacion-emocional-del-profesorado.md`
+
+Principio **A-B-C**: Acontecimiento → Pensamientos → Sentimos/Hacemos. Lo que nos decimos («¿quién tiene la culpa?», «¿qué significa para mí?», «¿qué puedo aprender?») determina emoción (alegría u angustia, impotencia, ira) y conducta (buscar soluciones frente a evasión, rumiación o ataque). Ellis: «al descubrir las ideas irracionales... podemos sanar las emociones dolorosas y exageradas» (Terapia Racional Emotiva). **Distorsiones**: todo/nada (perfeccionismo), filtro mental, descalificación de lo positivo, conclusiones apresuradas (lectura del pensamiento, adivino), magnificación/minimización, razonamiento emocional, «debería», etiquetación y personalización. Técnica: registro y reevaluación de pensamientos automáticos. Casos: Ángel y el profesor de E.F. («la tienen tomada conmigo» → protesta y amenaza) frente al profesor 1 («me quiere dejar mal delante de todos» → amenaza y expulsión); analizar situación, historia, pensamiento, acción y consecuencia.
+
+---
+<!-- CANONICO_FIN: sintetico-canonico-educacion-emocional-del-profesorado.md::sec-12 -->

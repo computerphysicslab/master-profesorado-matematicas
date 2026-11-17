@@ -179,3 +179,63 @@ Con el estudio y aplicación de este tema, se persigue que el futuro profesorado
 
 ---
 *Apunte operativo del Máster de Profesorado de Matemáticas. No sustituye la guía docente oficial ni los manuales de referencia.*
+
+<!-- CANONICO_INICIO: sintetico-canonico-sociedad-familia-y-procesos-grupales-sociologia.md::sec-1 -->
+## Sincronizado desde el canónico — 1. Sociedad y educación: socializaciones múltiples, funciones sociales de la educación y desigualdad
+
+> Fuente: `asignaturas/1erTrimestre/sociedad-familia-y-procesos-grupales/Sociologia/sinteticos/sintetico-canonico-sociedad-familia-y-procesos-grupales-sociologia.md`
+
+### 1.1. Introducción y naturaleza social de la persona
+
+La educación es **social en doble sentido**: está condicionada por el contexto social y repercute en la sociedad. El esquema de la introducción enfrenta tres contextos —**sociocultural, escolar y familiar**— que convergen en el niño/a. La Sociología estudia sociedades, relaciones, instituciones, normas, valores, desigualdades y socialización; la Sociología de la Educación analiza origen social y rendimiento, movilidad, transmisión de valores, relaciones familia-centro, diversidad, inclusión/exclusión, fracaso escolar y tecnologías. Preguntas rectoras: ¿qué problemas afronta la escuela del siglo XXI y qué responsabilidad docente cabe?
+
+Los sujetos están condicionados por el contexto (micro y macro) pero son quienes lo crean y protagonizan la acción social: ideas, actos, normas, leyes y cultura son **construcciones sociales**. Por eso no se puede hablar de alumnado "con más o menos capacidad o motivación" sin analizar antes su contexto; no es lo mismo un centro en barrio vulnerable que en barrio de posición media-alta. Somos seres sociales por naturaleza (cazar el mamut en grupo, neuronas espejo y empatía, dependencia demostrada en la pandemia), aunque el modelo productivo actual (capitalista, financiero, digital, IA) impulse el "cada uno sobreviva como pueda". La **manifestación** vecinal ilustra la agencia colectiva; **Rosa Parks** y su negativa en el autobús de Montgomery, el cambio social. La profesora remarca que el objetivo de la sociología de la educación es **reducir las desigualdades sociales**.
+
+### 1.2. Estructura, agencia y reproducción frente a transformación
+
+La **estructura social** es el ordenamiento de las relaciones sociales de una comunidad: no es tangible, se asume como natural y opera como sistema con reglas, mecanismos, procesos, valores y contenidos; es cambiante. De ella derivan cuatro elementos: (1) **interacciones normativas** (modo correcto de hacer las cosas según costumbre, leyes y protocolos); (2) **estructuras de desigualdad** (clases, castas, discriminación económica, racial o de género); (3) **instituciones sociales** (familia, escuela, Estado, economía, religión, medios); (4) **posiciones, roles y relaciones de poder**. Actúa por **constricciones internas** (hábitos) y **externas** (jerarquías de posiciones). La **agencia** es la capacidad de los sujetos de transformar sus condiciones de vida usando los márgenes de maniobra de esas constricciones. Escuela y profesorado son agentes transformadores, junto a familias, alumnado, asociaciones, administraciones, medios y movimientos sociales. El par **reproducción/transformación** resume la tensión: la escuela reproduce normas y desigualdades pero puede generar pensamiento crítico, igualdad de oportunidades, inclusión y compensación.
+
+### 1.3. El proceso de socialización y sus autores
+
+Es el conjunto de aprendizajes y experiencias por los que interiorizamos normas, valores, creencias, roles, pautas, lengua, hábitos y ritmos vitales para incorporarnos a la vida social, asegurar la convivencia y reproducir o transformar la cultura. Empieza al nacer y dura toda la vida.
+
+- **Durkheim (1922)**: educación como acción de las generaciones adultas sobre quienes no están preparados para la vida social, suscitando estados físicos, intelectuales y morales (*Educación y Sociología*, 1922; *La educación moral*, 1925).
+- **Berger y Luckmann (1968)**, *La construcción social de la realidad*: socialización **primaria** (infancia, familia, mundo como realidad objetiva) y **secundaria** (escuela, trabajo, otros grupos).
+- **Giddens (1997)**: aprender en interacción con otros lo que se considera apropiado en la sociedad.
+- **Tezanos (2001)**: transmisión de valores, creencias y normas que posibilitan integración y reproducción social.
+
+En clase no se pregunta la definición literal de cada autor, sino el concepto. Entre lo aprendido están las **creencias** —refranes, explicaciones de la muerte—, que si no se trabajan pueden ser futuros traumas. El experimento de **cruzar los brazos** muestra que hasta lo instintivo se aprende; **Mowgli** y *El pequeño salvaje* (Truffaut) sirven para debatir la socialización tardía: el niño aprende conductas animales de supervivencia, pero no normas, valores y cultura, porque lo humano es la razón (córtex prefrontal) y la creencia.
+
+### 1.4. Agentes, socializaciones múltiples y socialización ampliada
+
+**Agentes**: familia (normas básicas, criterios particularistas, afectividad), iguales (primer ámbito autónomo, identidad por edad y sexo, oposición al adulto, jerarquía), escuela (para Parsons una **microsociedad**: aula, patio, pasillos, gimnasio; génesis de vínculos entre iguales) y **mass media** (sociedad de la información; socialización también en momentos privados y redes).
+
+Los agentes influyen de forma conjunta y contradictoria: **constricciones del grupo de iguales, de la escuela, culturales parentales** (la familia incide en barrio, escuela y comunidad) **y de las nuevas tecnologías**. Hay que favorecer la comunicación entre ellos. La línea entre primaria y secundaria se difumina y surge la **socialización ampliada**: medios y redes, entornos comunitarios y culturales, instituciones políticas y económicas, espacios transnacionales (globalización, migraciones, multiculturalidad). La aceleración del cambio la extiende a toda la vida: **Giddens (1997)** diversidad de contextos, **Castells (1997, 2006)** sociedad red y comunicación digital, **Bauman (2000)** modernidad líquida. Se superan las concepciones **edistas**: la educación es también Educación de Personas Adultas y no una actividad adecuada a cada edad.
+
+### 1.5. Funciones sociales de la educación
+
+Unas funciones son **manifiestas** (socializadoras, educativo-formativas y académicas, técnico-instrumentales y científicas; macro: políticas educativas; micro: personal del centro) y otras **ocultas o latentes** (al servicio de grupos preeminentes, objeto central de la Sociología de la Educación):
+
+1. **Guardia y custodia**: nace con la industrialización, al liberar a los adultos, incluidas las mujeres, para el trabajo asalariado; la escuela es "depósito social" de la infancia, garantiza orden y evita el trabajo infantil; no transforma estructuras, adapta la vida familiar y laboral al capitalismo industrial y reproduce el orden mediante vigilancia.
+2. **Socialización y transmisión cultural**: continuidad social, herencia cultural (usos, costumbres, ideas, creencias, temores, deseos); función conservadora que asegura cohesión mediante la formación en hábitos.
+3. **Formación para el trabajo y distribución de posiciones**: funcionalismo y estructuralismo coinciden en formar habilidades, destrezas, disposiciones y conocimientos para el sistema productivo; a cada nivel de estudios corresponde una posición en la estructura ocupacional (públicas/privadas, FP frente a Bachillerato-Universidad).
+4. **Cambio/transformación**: transmisión de nuevos conocimientos científicos y tecnológicos, promoción del bienestar, nuevas metodologías y organización, incorporación de agentes y mejora de la convivencia.
+
+**Actuaciones que reproducen desigualdad**: cambio forzoso de escuela; grupos de nivel dentro/fuera del aula; diversidad de itinerarios; expulsiones; estigmatización de centros o grupos. **Que ayudan a superarla**: grupos heterogéneos con recursos adicionales; desdoblamientos heterogéneos; ampliación del tiempo de aprendizaje; participación familiar; más personas adultas en el aula.
+
+### 1.6. Paradigmas: reproducción y dualidad; meritocracia y capital cultural
+
+**Perspectiva sistémica**: **Durkheim** (educación como socialización y transmisión de normas y valores para la cohesión) y **Talcott Parsons (1902-1979)** (la escuela como subsistema que asigna roles y legitima posiciones, integración y movilidad; *The School Class as a Social System*, 1959).
+
+**Perspectiva dual**: **Weber** (*Economía y sociedad*, 1922): la escuela racionaliza y burocratiza la vida (exámenes, credenciales, títulos), pero es vía de ascenso; **cierre social** (*social closure*) = uso de exámenes y títulos como barreras de acceso a posiciones de prestigio; **meritocracia y ascensor social** = movilidad para quien acumula credenciales.
+
+Matices del audio: la meritocracia funcionó en la industrialización —sin acumulación de capital, partir de cero permitía ascender estudiando y trabajando en fábricas—, pero hoy se ha desvirtuado (titulados que cobran menos que quien sale de la ESO, barreras de clase independientes del esfuerzo, influencers sin formación). La propuesta coherente con el contexto actual es **adquirir capital cultural para ampliar recursos de manejo en la vida**: "no te va a permitir ganar más pasta, pero sí aumentar las cartas que tienes", "los boletos de la lotería"; junto al capital cultural está el capital social, y la estabilidad de funcionario mejora las condiciones de vida. Ante la inmediatez y la desmotivación adolescente, la docente habla de **motivar, ilusionar, orientar e informar** más que de "convencer", y exige pensamiento crítico en una sociedad que cambia muy rápido (los sondeos del CIS cambian en semanas; "en 50 años ha cambiado más que en los 200 anteriores").
+
+### 1.7. Problemas sociales y desigualdad
+
+El tema 0 enumera: diversidad familiar; **fracaso escolar y transición laboral** (Eurostat: España en el top 10 de "ninis" de la UE; uno de cada cinco jóvenes de 20-24 ni trabaja ni estudia; tercer país donde más crece; El Confidencial, 2016); sociedad de la información; diversidad sexual; violencia de género; *bullying* y tasas de suicidio LGBTI (Europa: 34,9 % planeaba suicidarse y 24,9 % lo intentó el año anterior; España: casi 50 jóvenes se quitan la vida al año y 950 lo intentan; Expansión, 2018); caso Shaima (El País, 2010); diversidad cultural y desigualdad. El sintético de tema 0 precisa abandono educativo temprano, NEET, brecha digital (acceso, uso, aprovechamiento) y advierte que la diversidad familiar no determina el éxito o fracaso escolar.
+
+El audio del 6 de noviembre (`2026-11-06-sociologia.txt`) distingue el **ciberbullying** del *bullying* por el canal digital (p. ej., difusión en un grupo de mensajería de una fotografía manipulada de un compañero); un robo en la calle no es *bullying*. Se aborda con preguntas de definición, prevalencia/impacto y gestión.
+
+---
+<!-- CANONICO_FIN: sintetico-canonico-sociedad-familia-y-procesos-grupales-sociologia.md::sec-1 -->

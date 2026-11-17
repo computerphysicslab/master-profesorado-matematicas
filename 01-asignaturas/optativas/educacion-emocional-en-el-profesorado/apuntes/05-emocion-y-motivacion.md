@@ -91,4 +91,6 @@ Aumentan la amenaza el ridículo, la prisa evaluativa y el único camino rígido
 - [Tema 6 — EE como reto educativo](06-educacion-emocional-reto-educativo.md)  
 - [Tema 4 — Bienestar](04-psicologia-positiva-bienestar.md)  
 - [DUA](../../procesos-y-contextos-educativos/materiales/dua-diseno-universal-aprendizaje.md)  
-- [Modelo transaccional](11-modelo-transaccional-educacion-emocional.md)  
+- [Modelo transaccional](11-modelo-transaccional-educacion-emocional.md)
+
+

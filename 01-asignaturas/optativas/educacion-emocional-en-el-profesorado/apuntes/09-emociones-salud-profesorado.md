@@ -90,3 +90,5 @@ Con el alumnado, el mismo principio: observar, acompañar según protocolo y **d
 - Izquierdo, A. *Competencias socioemocionales para el bienestar del profesorado*.
 
 [Bibliografía completa](../bibliografia.md) · [Estrés y gestión emocional](estres-impacto-y-gestion-emocional.md).
+
+

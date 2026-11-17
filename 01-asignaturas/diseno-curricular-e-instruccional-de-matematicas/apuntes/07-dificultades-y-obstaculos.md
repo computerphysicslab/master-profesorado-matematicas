@@ -351,3 +351,36 @@ Elige un contenido (p. ej. suma de fracciones, ecuaciones de primer grado, pendi
 - [DUA — Diseño Universal para el Aprendizaje](../../02-apuntes/didactica/dua-diseno-universal-aprendizaje.md)
 - Optativa afín: educación emocional / clima de aula (ansiedad, frustración ante el error)
 - NRICH (tareas LTHC): https://nrich.maths.org/
+
+<!-- CANONICO_INICIO: sintetico-canonico-diseno-curricular-e-instruccional-de-matematicas.md::sec-6 -->
+## Sincronizado desde el canónico — 6. Aritmética, álgebra, epistemología y obstáculos
+
+> Fuente: `asignaturas/1erTrimestre/diseno-curricular-e-instruccional-de-matematicas/sinteticos/sintetico-canonico-diseno-curricular-e-instruccional-de-matematicas.md`
+
+Este bloque está desarrollado sobre todo en las transcripciones de 12, 27 y 30 de octubre y 10 de noviembre.
+
+### 6.1. Obstáculos epistemológicos y génesis de los negativos
+
+En la transcripción de 12 de octubre se explica que las operaciones aritméticas y sus propiedades están ligadas a acciones físicas: no se puede quitar algo a la nada; la resta está ligada a la sustracción (quitar o separar), por lo que «restar un minuendo menor» no tiene sentido. Se señala que **grandes matemáticos del siglo XVIII** tuvieron dificultad para aceptar los números negativos como entidades numéricas porque el número indicaba siempre una cantidad de magnitud: «eso fue un obstáculo de carácter epistemológico». Al entrar en los negativos cambian cosas: sumar o restar ya no es siempre aumentar o disminuir, aparecen diferencias negativas y números menores que cero. La diapositiva `03` recoge el mismo fenómeno curricular: los Orientaciones de la Orden ECD/1172/2022 recomiendan introducir los enteros en entorno algebraico, porque su origen histórico está vinculado al álgebra y a la manipulación de expresiones con letras.
+
+### 6.2. Del quehacer aritmético al quehacer algebraico
+
+**Eva Cid** (aparece citada repetidamente) sostiene que los enteros nacen de una necesidad puramente algebraica, por lo que propone trabajarlos en ese entorno y construir progresivamente los significados de los signos en lugar de empezar con la notación completa con paréntesis. Un argumento clave de las clases: cualquier argumento basado en modelos concretos (ascensor, deudas, desplazamientos en la recta) se le puede dar la vuelta y entenderlo con naturales, de modo que «un chaval espabilado de 4.º de Primaria» resuelve casi todos los problemas de enteros de un libro de 1.º de ESO. Lo mismo ocurre con las ecuaciones de primer grado: solo las situaciones de comparaciones encadenadas («un estudiante mide 5 cm más que yo, pero yo mido 3 menos que otra estudiante») piden álgebra de verdad.
+
+Cambios de significado señalados en las transcripciones:
+
+- **Signos `+` y `-`:** de *signos operativos binarios* (operaciones entre números sin signo que no pueden suprimirse) a *signos predicativos* (indican positividad/negatividad), pasando por *sumandos y sustraendos aislados*, a medio camino. En álgebra, las sumas se entienden como suma de términos cuyo signo operativo se suprime; una concatenación de números con signo entre paréntesis indica producto y sin paréntesis indica suma.
+- **Signo `=`:** el uso escolar habitual es «tecla de calculadora» (operar a la izquierda y poner el resultado a la derecha), formalmente incorrecto; en aritmética rica y en álgebra debe ser un **signo relacional**. Hay tesis específicas sobre significados del igual (se identifican 15 o 16; se cita a **Marta Molina**).
+- **Letras:** como *incógnita* (valor concreto), como *variable* (hay que evaluar todos los valores; es el significado más algebraico) y como *parámetro* (en `mx+n` o en una cuadrática, `m` y `n` hablan de una familia; `x` e `y` son variables). Aparecen también como *abreviaturas de unidades o de objetos del contexto* (lo que lleva a decir «`a` son entradas de cine» en lugar de «`a` es el precio de las entradas»); las regletas de **Cuisenaire** usadas de forma nemotécnica refuerzan ese significado.
+- **Necesidad de clausura:** en aritmética la solución tiene que ser un número y no se acepta una expresión con un `+` sin resolver; en álgebra una operación indicada también *indica* el resultado (`x+y` ya es la suma de `x` e `y`).
+- **Control semántico:** en aritmética el ida y vuelta al contexto es continuo y marca cada operación; en álgebra hay una fase inicial contextualizada (identificar incógnitas y relaciones, proponer un modelo), una fase de operación descontextualizada y una fase final de interpretación/validación. Por eso aparecen dos tipos de validez: **sintáctica** (comprobación sustituyendo en la ecuación) y **semántica** (que la solución tenga sentido en el contexto: «¿mi padre tendría 110 años?»).
+- **Niveles de algebrización:** incluso resolviendo un problema aritmético, operar de izquierda a derecha es menos algebraico que calcular incrementos y agrupar subidas y bajadas. La **proporcionalidad aritmética** es un objeto peculiar: ya generaliza (aparece el racional) pero sigue viviendo en la aritmética en 1.º y 2.º, y se revisita después desde el punto de vista funcional; la regla de tres no le da sentido a la multiplicación ni permite conectar con la pendiente.
+
+La transcripción de 10 de noviembre resume la moraleja y la vincula con la CE.M.2: conviene proponer tareas del tipo «Pepito Pérez afirma que está bien porque sustituye en el sistema; ¿lo tiene bien? Ayúdale a darse cuenta» para que el alumnado revise la solución desde ambos puntos de vista.
+
+### 6.3. Transposición didáctica: laguna detectada
+
+Las fuentes primarias contienen **una única mención** de «transposición», en la transcripción de 12 de octubre, con sentido genérico: al analizar el cuadernillo de estrellas se comenta «es un buen ejemplo de transposición, ¿no?, de cómo lo que pedía la normativa a lo que se hace en el aula». No aparece **Chevallard**, ni la noción técnica de transposición didáctica (saber sabio → saber a enseñar → saber enseñado), ni la **noosfera**, ni la **Teoría Antropológica de lo Didáctico** (praxeologías, praxis/logos), que sí aparecen en sintéticos secundarios de `/sinteticos/`. Tampoco aparece el término **génesis escolar** en slides ni transcripciones. Por coherencia con las fuentes, estos contenidos se señalan aquí como **laguna** y se remiten al apartado final; véase «Pendiente de incorporar».
+
+---
+<!-- CANONICO_FIN: sintetico-canonico-diseno-curricular-e-instruccional-de-matematicas.md::sec-6 -->

@@ -195,3 +195,32 @@ Las finalidades de la enseñanza de las matemáticas no se agotan en la utilidad
 - [Ampliación §7](../materiales/ampliacion-practica-teoria-abstraccion.md) *(integrada en la §7)*
 - [16 — Margen de acción docente bajo la LOMLOE](../../trabajo-fin-de-master/ideas-interesantes/16-margen-accion-docente-lomloe-libertad-catedra.md)
 - [Programa](../programa.md)
+
+<!-- CANONICO_INICIO: sintetico-canonico-diseno-curricular-e-instruccional-de-matematicas.md::sec-2 -->
+## Sincronizado desde el canónico — 2. ¿Para qué enseñar matemáticas? Las finalidades
+
+> Fuente: `asignaturas/1erTrimestre/diseno-curricular-e-instruccional-de-matematicas/sinteticos/sintetico-canonico-diseno-curricular-e-instruccional-de-matematicas.md`
+
+La justificación de la enseñanza determina la selección de contenidos, la metodología y la evaluación. La referencia clave es **Rico Romero, L. (2016)**, «Matemáticas escolares: fines educativos y estructura curricular», en Rico & Moreno Verdejo (coords.), *Elementos de didáctica de la matemática para el profesor de Secundaria* (Pirámide, pp. 31-44). Junto a él, el **Informe Cockcroft (1985)** (*Las matemáticas sí cuentan*) y las categorías de **Ernest (2000)** permiten refinar la clasificación (diapositiva `02-por-que-ensenar-matematicas.pdf`).
+
+### 2.1. Las cuatro finalidades de Rico
+
+- **Finalidad cultural.** Las matemáticas forman parte de la cultura y ayudan a construir valores culturales: apreciar su belleza («matemáticas monumentalistas»), adquirir actitudes de orden y seguimiento de reglas, conocer su historia. *«Las matemáticas por las matemáticas»*.
+- **Finalidad social.** La sociedad usa las matemáticas. Se distingue:
+  - **Social-instrumental:** el lenguaje y el método científico; fines prácticos. *«Porque sirven para otras cosas»*.
+  - **Social-funcional:** utilidad en contextos personales, académicos, científicos, sociales y laborales.
+- **Finalidad formativa.** Gran potencial para el desarrollo cognitivo: interrelación de sistemas de representación, pensamiento lógico, aprendizaje colaborativo, resolución de problemas y competencia «aprender a aprender». *«Las matemáticas nos desarrollan a nivel cognitivo»*.
+- **Finalidad política / pública / ética.** Crear ciudadanos críticos con valores democráticos: pensamiento analítico, competencia estadística («ciencia del estado»), soltura en la representación y comunicación de la información. *«Las matemáticas forman CIUDADANOS»*.
+
+### 2.2. Clasificación de ejemplos (ejercicio de Rico)
+
+La diapositiva 02 propone clasificar afirmaciones habituales: favorecer la abstracción (F), carácter universal (C), desarrollo del razonamiento (F), lenguaje de la ciencia (S-I), espíritu crítico (P), creatividad y diversión (F/C), asignatura básica (C), lenguaje e instrumento de comunicación (S-F/F/P), instrumento útil de cálculo (S-F), precisión y concisión (C), pensamiento científico (F/S-I), modelizar la vida cotidiana (S-F), resolver problemas (S-I/S-F), pensamiento espacial (F), promover la igualdad entre jóvenes (P), lenguaje de la tecnología (S-I).
+
+### 2.3. Las finalidades en las introducciones normativas
+
+Los textos introductorios de la LOMLOE reflejan estas dimensiones: «forman parte del acervo cultural de nuestra sociedad» (cultural); «herramientas y saberes básicos [...] en contextos personales, académicos, científicos, sociales y laborales» (social-funcional); «carácter instrumental de las matemáticas como herramienta fundamental para materias científicas, sociales, tecnológicas, humanísticas y artísticas» (social-instrumental); «resolución de problemas e investigación matemática [...] desarrollando el razonamiento, la creatividad y el pensamiento abstracto» (formativa); «grandes retos globales [...] ciudadanos informados y comprometidos» (ética). La conclusión del ejercicio 5 es que el currículo se mueve entre un **planteamiento funcional y aplicado**.
+
+La diapositiva 02 propone además una prevalencia orientativa por asignatura: en 1.º-3.º ESO predominan las dimensiones cognitiva, social y ética; en 4.º A gana peso la dimensión social-funcional; en 4.º B se equilibran todas; en Bachillerato de Ciencias y de CCSS domina la social-instrumental (con cultural y cognitiva importantes en Ciencias, y cultural en último lugar en CCSS); en Bachillerato General destacan cultural y cognitiva, con una ética relevante. Son **opiniones razonadas del profesor**, no prescripciones normativas.
+
+---
+<!-- CANONICO_FIN: sintetico-canonico-diseno-curricular-e-instruccional-de-matematicas.md::sec-2 -->

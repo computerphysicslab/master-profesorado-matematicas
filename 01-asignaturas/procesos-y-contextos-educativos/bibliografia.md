@@ -50,3 +50,13 @@ Referencias de trabajo de la asignatura. Completar con la guía docente oficial 
 - [Programa](programa.md)  
 - [Apuntes](apuntes/)  
 - [Banco de preguntas](examen/banco-preguntas.md)
+
+<!-- CANONICO_INICIO: sintetico-canonico-procesos-y-contextos-educativos.md::sec-fuentes-utilizadas -->
+## Sincronizado desde el canónico — Fuentes utilizadas
+
+> Fuente: `asignaturas/1erTrimestre/procesos-y-contextos-educativos/sinteticos/sintetico-canonico-procesos-y-contextos-educativos.md`
+
+**Slides (9):** `presentacion-de-la-asignatura-procesos-y-contextos-educativos.pdf`; `tema-1-evolucion-historica-del-sistema-educativo-espanol-desde-sus-referencias-legislativas-y-la-didactica-contemporanea.pdf`; `tema-1-5-referentes-pedagogicos-desde-la-didactica-contemporanea.pdf`; `tema-1-1-1-2-actividad-practica-dcgl-pptx-1.pdf`; `tema-2-estructura-de-las-ensenanzas-en-el-sistema-educativo-espanol.pdf`; `tema-3-los-centros-educativos-estructura-y-proceso-tutorizacion.pdf`; `tema-4-atencion-a-la-diversidad-desde-una-perspectiva-inclusiva.pdf`; `tema-5-metodologias-y-recursos-para-la-educacion-secundaria.pdf`; `tema-6-evaluacion.pdf`.
+
+**Audios (21):** `2026-10-09-contextos.txt`; `2026-10-09-contextos-parte2.txt`; `2026-10-16-contextos.txt`; `2026-10-16-contextos-parte2.txt`; `2026-10-19-contextos-parte1.txt`; `2026-10-19-contextos-parte1-Grok.txt`; `2026-10-19-contextos-parte2.txt`; `2026-10-19-contextos-parte2-Grok.txt`; `2026-10-23-Contextos-1.txt`; `2026-10-23-Contextos-2.txt`; `2026-10-26-Procesos-1.txt`; `2026-10-30-contextos1.txt`; `2026-11-06-contextos1.txt`; `2026-11-06-contextos2.txt`; `2026-11-09-contextos1.txt`; `2026-11-13-contextos-1.txt`; `2026-11-13-contextos-2.txt`; `2026-11-13-contextos-3.txt`; `2026-11-13-contextos-4.txt`; `2026-11-16-contextos-1.txt`; `2026-11-16-contextos-2.txt`.
+<!-- CANONICO_FIN: sintetico-canonico-procesos-y-contextos-educativos.md::sec-fuentes-utilizadas -->

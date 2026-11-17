@@ -111,4 +111,6 @@ Integrar el sentido socioafectivo en el **diseño de tareas, el feedback y las n
 - [Tema 5](05-emocion-y-motivacion.md) · [Tema 7 — Neuroeducación](07-neuroeducacion-precauciones.md)  
 - [Tema 8 — PAT y aula](08-emociones-pat-aula.md)  
 - [Propuestas de actividades](../materiales/propuestas-actividades.md)  
-- [Bibliografía](../bibliografia.md)  
+- [Bibliografía](../bibliografia.md)
+
+

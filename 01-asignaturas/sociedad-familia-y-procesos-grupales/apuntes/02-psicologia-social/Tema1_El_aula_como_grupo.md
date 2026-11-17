@@ -310,3 +310,82 @@ Prevención de riesgos: atención al acoso (desequilibrio de poder, reiteración
 
 ---
 
+<!-- CANONICO_INICIO: sintetico-canonico-sociedad-familia-y-procesos-grupales-psicologia-social.md::sec-1 -->
+## Sincronizado desde el canónico — 1. El aula como grupo: estructura y procesos
+
+> Fuente: `asignaturas/1erTrimestre/sociedad-familia-y-procesos-grupales/Pscologia-Social/sinteticos/sintetico-canonico-sociedad-familia-y-procesos-grupales-psicologia-social.md`
+
+### 1.1. Concepto de grupo
+
+Un **grupo** es una unidad dinámica cuyos miembros interactúan, intercambian información y mantienen **interdependencia**: lo que hace uno afecta a los demás (Palacín y Aiger, 2020). Se distinguen **interacción** ("nos respondemos"), **interdependencia** ("nos afectamos") e **intercambio** ("ponemos algo en común"). El grupo es una totalidad dinámica, no suma de individuos (Lewin); la sociometría de Moreno revela una red afectiva invisible. El grupo-clase es un grupo **secundario** (Cooley): obligatorio, heterogéneo, permanente, con objetivo institucional, asimetría de poder y espacio compartido, lo que limita la profundidad emocional exigible.
+
+**Ejemplo inicial:** en 2.º de ESO responden siempre los mismos tres, dos se ríen de los errores y una persona hace casi todo el trabajo. Temor a la evaluación, reconocimiento de ciertos compañeros o normas implícitas son **hipótesis** que requieren información.
+
+### 1.2. Estructura, procesos y niveles
+
+La **estructura** (espacio, composición, tamaño, posiciones, estatus, roles, normas) da estabilidad; los **procesos** (socialización, cohesión, comunicación, decisión) muestran el cambio. Se influyen: una norma condiciona la participación y la interacción transforma la norma. Cambiar las mesas no garantiza cooperación.
+
+Cuatro niveles complementarios (Palacín y Aiger, 2014, 2020): **intrapersonal** ("creo que se reirán si pregunto"), **interpersonal** (una interrupción), **intragrupal** (el equipo acepta que uno decida) e **intergrupal** (dos clases compiten).
+
+### 1.3. Espacio y distancia
+
+El **espacio grupal** delimita la interacción (frontera conceptual con expresión física); la **territorialidad** es el uso y apropiación: territorio **primario** (uso estable y control definido), **secundario** (uso habitual, control compartido) y **público** (acceso abierto y ocupación temporal). La **ecología grupal** estudia cómo visibilidad, contacto y acceso condicionan la interacción.
+
+**Hall (1966)** distingue distancias orientativas: **íntima** (hasta ~0,45 m), **personal** (~0,45–1,2 m), **social** (~1,2–3,5 m) y **pública** (desde ~3,5 m); significan según relación, tarea y privacidad. Una disposición **sociópeta** facilita el contacto cara a cara; una **sociófuga** lo reduce (filas al frente). El **efecto Steinzor** describe más interacción con quienes están enfrente; el **efecto cabecera** asocia la cabecera con liderazgo percibido. El asiento no determina la influencia.
+
+### 1.4. Composición y tarea
+
+Mayor tamaño reduce turnos y dificulta integrar aportaciones; los grupos pequeños facilitan el seguimiento. No hay cifra óptima universal. **Homogeneidad** (semejanza) facilita acuerdos; **heterogeneidad** amplía perspectivas pero exige coordinación; la diversidad no impide cohesión. La **tarea** organiza la actividad, la **comunicación** reparte la palabra, la **cultura** son hábitos y valores consolidados y el **clima** es la percepción del ambiente en un momento.
+
+### 1.5. Desarrollo grupal
+
+- **Tuckman (1965):** formación, conflicto, normación y rendimiento; **Tuckman y Jensen (1977)** añaden el **cierre**. Secuencia orientativa: los grupos pueden renegociar normas y retroceder.
+- **Gersick (1988):** periodos de estabilidad y transiciones por la fecha límite. **Worchel:** ciclo de identidad, productividad, individuación y declive. **Wheelan:** estructura, identidad e individualización.
+- **Palacín y Aiger (2014):** confianza, conflicto, cohesión, cooperación y despedida; marco del bloque práctico.
+- **Socialización (Moreland y Levine, 1982):** ajuste mutuo por **asimilación** (persona → grupo) y **acomodación** (grupo → persona); etapas de investigación, socialización, mantenimiento, resocialización y remembranza, con transiciones de **entrada, aceptación, divergencia y salida**.
+- **Cohesión:** atracción interpersonal, identificación y compromiso con la tarea. Puede haber compromiso sin amistad; una cohesión alta **no garantiza inclusión** (puede rechazar novedades o silenciar discrepancias).
+
+### 1.6. Decisión y rendimiento
+
+La **polarización** (Myers y Lamm, 1976; en el repaso, Isenberg y Lamm) intensifica la postura inicial hacia riesgo o cautela. El **pensamiento grupal** (Janis, 1972) deteriora el examen crítico por búsqueda de consenso, con autocensura y presión al disidente; son fenómenos distintos.
+
+**Rendimiento** vs. **productividad** (resultado en relación a recursos). **Pérdidas de coordinación**, **efecto Ringelmann** (menor aportación media al crecer el grupo) y **holgazanería social** (Karau y Williams, 1995); no toda baja contribución es desinterés. La **cooperación** exige interdependencia positiva, responsabilidad individual y explicación de razonamientos; compartir mesa no basta.
+
+**Aplicación del escape room** (`2026-10-16-sociedad.txt`): cada equipo obtiene una sola cifra y solo juntando las cuatro se abre el candado; el docente anima a quienes acaban antes a ayudar a los demás («si no acabáis todos no salís»): interdependencia positiva llevada a la práctica.
+
+**Ejemplo integrado:** Álex decide y redacta sin consultar, interrumpen a Lina, Hugo deja de aportar y Nora entrega sin revisar; todos reciben "Buen trabajo". Estructura: reparto desigual; procesos: interrupciones y decisión concentrada. Hipótesis: norma implícita de acatar al que dirige; pero Hugo también puede tener dificultad con la tarea.
+
+### 1.7. Planes de actividad
+
+Cuatro planos simultáneos (Palacín y Aiger, 2014): **temático** (qué se trabaja), **funcional** (cómo se reparten turnos), **cognitivo** (interpretaciones) y **afectivo** (emociones). Un alumno que no contesta puede no entender el tema, no tener turno, creer que su idea no vale o estar mal ese día.
+<!-- CANONICO_FIN: sintetico-canonico-sociedad-familia-y-procesos-grupales-psicologia-social.md::sec-1 -->
+
+<!-- CANONICO_INICIO: sintetico-canonico-sociedad-familia-y-procesos-grupales-psicologia-social.md::sec-2 -->
+## Sincronizado desde el canónico — 2. Dinámicas y técnicas de grupo
+
+> Fuente: `asignaturas/1erTrimestre/sociedad-familia-y-procesos-grupales/Pscologia-Social/sinteticos/sintetico-canonico-sociedad-familia-y-procesos-grupales-psicologia-social.md`
+
+La **dinámica de grupos** es el fenómeno vivo (quién habla, quién se aísla, cómo se decide); las **técnicas** son herramientas para influir en él: **medio, no fin**. La guía pide técnicas **cognitivas** (pensamiento y decisión: Phillips 6/6, método del caso, lluvia de ideas, simposio, 1-2-4, Jigsaw), **conativas** (voluntad y autorregulación: metas, planificación, autoinstrucciones) y **emocionales** (clima y pertenencia: presentaciones, bombardeo positivo, feedback de fortalezas).
+
+**Catálogo:** Phillips 6/6 (seis personas, seis minutos), cuchicheo, lluvia de ideas, método del caso, **role-playing** (defender, cuestionar, mediar), **Jigsaw** (cada uno especializa y enseña su parte), 1-2-4 (individual → pareja → cuatro), asamblea (acuerdos y normas), dinámicas de conocimiento, intercambio de experiencias, bombardeo positivo, simposio y juegos/simulaciones.
+
+**Selección:** objetivos, fase del grupo, tamaño, espacio, tiempo, perfil y formación docente. **Fases:** explicación y clima → desarrollo observando sin monopolizar → **reflexión guiada** → cierre; sin reflexión, la técnica es solo un juego. La **sociometría** (Moreno) usa el **sociograma** para detectar aislamiento y líderes y planificar agrupamientos, con confidencialidad y fin pedagógico.
+
+**Límites docentes:** usar técnicas de aprendizaje y convivencia, respetar el derecho a no participar en dinámicas emocionales y emplear solo técnicas con formación; no asumir fines terapéuticos, invadir la intimidad ni improvisar alta carga emocional sin clima. Ante la disruptividad, visibilizar la norma vulnerada sin broncas; la **asertividad** mantiene el límite.
+
+**Actividades documentadas:** identificar en grupos un ejemplo prototípico de cada tipo de liderazgo (autoritario, democrático, laissez-faire, alta/baja estructura y consideración, carismático socializado/personalizado, transaccional y transformacional) y el ejercicio "valores que quiero que guíen mi práctica profesional" (diapositivas de la profesora, 2024/25). En las transcripciones: análisis colectivo del **efecto Pigmalión de Rosenthal y Jacobson** (informes falsos de "superdotados" → más mirada, repeticiones, ánimo y oportunidades → mejor rendimiento) y del ejercicio de **Jane Elliott** (1968, ojos azules/marrones: estatus arbitrario, privilegios, discriminación, inversión de roles), con aviso de no reproducirlo.
+
+**Diseño de una dinámica de escape room cooperativo** (`2026-10-16-sociedad.txt`): consignas claras y ajuste de tiempos; división de roles (un presentador, un referente por grupo y un redactor del informe distinto del presentador); materiales listos para empezar en dos minutos, con rotación entre tres grupos y turnos de *feedback*. **Plan B**: si un equipo se atasca se le dan pistas; si va demasiado rápido se reserva como baza la pista final que revela el orden de las cifras. Dos **tarjetas de ayuda** permiten al alumnado autogestionar cuándo pedir pistas. Como **caldeamiento**, cada equipo elige nombre, elemento de la tabla periódica, acróstico y lema motivacional; sirve de rompehielo y de tiempo para verificar que todo está colocado. El **rol docente** es facilitar que se llegue al resultado: las pruebas no buscan ser difíciles, sino que el alumnado se mueva y coopere; una prueba deliberadamente difícil puede controlar tiempos y unir a todos los grupos contra un mismo reto. Se decidió repartir la tabla periódica a cada equipo —en lugar de dejarla en una mesa— para que la **cooperación surja de forma natural**, aplicando deliberadamente los conceptos de disposición sociópeta/sociófuga a la distribución del material. Logística de la práctica: el informe se entrega el día 2 (basta con que un miembro lo suba, con los nombres en la portada, sin entregas tardías); las exposiciones se concentran en las dos últimas sesiones prácticas, con rotación de grupos y un par de minutos de intercambio.
+<!-- CANONICO_FIN: sintetico-canonico-sociedad-familia-y-procesos-grupales-psicologia-social.md::sec-2 -->
+
+<!-- CANONICO_INICIO: sintetico-canonico-sociedad-familia-y-procesos-grupales-psicologia-social.md::sec-5 -->
+## Sincronizado desde el canónico — 5. Roles y estatus
+
+> Fuente: `asignaturas/1erTrimestre/sociedad-familia-y-procesos-grupales/Pscologia-Social/sinteticos/sintetico-canonico-sociedad-familia-y-procesos-grupales-psicologia-social.md`
+
+**Posición** (lugar en la estructura), **rol** (conductas esperadas) y **estatus** (reconocimiento que determina cuánto se escucha). Función asignada e influencia real pueden no coincidir; el estatus es **relacional**. **Adscrito** (categorías previas) frente a **adquirido** (contribuciones y logros). Rol **esperado, percibido y ejercido**: el portavoz que decide en nombre del grupo ilustra la discrepancia. Dificultades: **ambigüedad, conflicto y sobrecarga**.
+
+Benne y Sheats (1948) —también atribuidos a **Bales** en el repaso— distinguen funciones de **tarea** (proponer, informar, coordinar, sintetizar), **mantenimiento socioemocional** (facilitar participación, animar, mediar) y **necesidades individuales** que interfieren (dominar, bloquear).
+
+**Normas explícitas** ("escuchamos hasta que termine quien habla") e **implícitas** (aprendidas por reacciones: ridiculizar preguntas disuade de preguntar). Uruñuela (2016): orientación **reactiva** (sanción) frente a **proactiva/preventiva** (norma como aprendizaje, límites claros, diálogo, reparación y participación). Guía: normas **negociables** (criterios, rotación) y **no negociables** (respeto, no violencia, integridad), sostenidas con asertividad.
+<!-- CANONICO_FIN: sintetico-canonico-sociedad-familia-y-procesos-grupales-psicologia-social.md::sec-5 -->

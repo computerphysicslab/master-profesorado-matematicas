@@ -127,3 +127,33 @@ La asertividad no convierte al docente en mediador profesional ni en terapeuta. 
 ---
 
 **Uso recomendado:** lectura previa a las sesiones de gestión emocional y competencia social; apoyo para diseñar actividades de role-playing en el máster o en el propio centro; material de consulta al preparar reuniones con familias o intervenciones de aula.
+
+<!-- CANONICO_INICIO: sintetico-canonico-educacion-emocional-del-profesorado.md::sec-5 -->
+## Sincronizado desde el canónico — 5. Asertividad
+
+> Fuente: `asignaturas/1erTrimestre/educacion-emocional-del-profesorado/sinteticos/sintetico-canonico-educacion-emocional-del-profesorado.md`
+
+«Autoafirmación, defensa de derechos personales que incluye la expresión de sentimientos, preferencias, necesidades y opiniones en forma adecuada, respetando los de los demás» (versión de clase: «expresar opiniones y sentimientos de manera adecuada y en el momento adecuado»). No es decir siempre lo que se piensa, sino poder hacerlo cuando se quiere; exige **escucha activa** y comprender la jugada propia y la ajena. Áreas (Galassi, 1977): autoafirmación, expresión de sentimientos positivos y negativos.
+
+Persona asertiva: se conoce y acepta, es fiel a sí misma, maneja sentimientos propios y ajenos, no exige, acepta limitaciones, imagen congruente, se respeta y respeta, elige compañía, expresa opiniones y deseos. Consecuencias: comunicación clara, relaciones, más probabilidad de logro, autoestima sana, emociones positivas, interlocutores que se sienten respetados.
+
+No asertivas: **inhibición** (pasivo, sumiso, tímido, conformista: no expresa, espera que adivinen, se culpa al rechazar, teme ofender, voz baja, poco contacto ocular, dependencia de aprobación, no afronta conflictos, «explosiones emocionales»; consecuencias en los «mutilados» —Rodríguez y Serralde—: frustración, culpa, ira reprimida, resentimiento, atrae dominantes; no confundir con cortesía, Lange y Jakubowski) y **agresividad** (no respeta derechos ajenos; ira excesiva; física/verbal, directa/indirecta; combate, imposición, justificación por «sinceridad»; da alteraciones emocionales, pérdida de relaciones, problemas laborales y de salud). El agresivo y el sumiso se buscan (modelo dominio-sumisión, también en el maltrato). Adecuación social: prever reacciones y resultados, considerar objetivos, reglas y roles y percepción ajena; evitar el «fenómeno del cuerpo extraño» (desconocer reglas, sesgos).
+
+**Técnicas** (sesión 3 y *role-playing*; modelo de **Michelson**, clásico de habilidades sociales): *petición* (elegir persona y momento, mirar y sonreír, explicar, pedir exactamente lo necesario, empatizar, agradecer); *decir no* (tono serio y audible, «no» claro sin justificaciones, motivo real, alternativa, primera persona, **disco rayado** —repetir— y **banco de niebla** —«es posible», «lo tendré en cuenta»—); *crítica y emociones negativas* (contar qué pasó y cómo se sintió sin juzgar, destacar lo positivo, empatizar, aceptar responsabilidad, pedir cambio, proponer solución); *recibir críticas* (si no importa, retirada o preguntar y empatizar; si importa y es falsa, explicar y autoafirmarse; si es verdad, reconocer, no justificarse, decidir cambiar o no). *Dar y recibir cumplidos («rosas»)*: la respuesta mínima asertiva es «gracias»; quien no coge el cumplido recibe menos; «en España nos han enseñado a encajar los palos, no los piropos».
+
+Programas: Michelson et al. (1987, infancia) y Goldstein et al. (1987, adolescencia: habilidades básicas, avanzadas, de sentimientos, alternativas a la agresión, para el estrés y de planificación). Metodología: explicación, ventajas, motivos del no uso, modelado, ensayo (*role-playing*), *feedback* y generalización; trabajar la competencia (qué, cuándo y por qué) más allá de la molecularización. **Ética**: sin insultos (si los hay, legítima defensa o acudir al tutor/Jefatura); usar «estar» y no «ser» («hoy estás despistada», no «eres tonta»); no manipular (frases como «tú sabrás» o «si te vas ya no eres mi mejor amigo» son chantajes emocionales). El conocimiento obliga como un cinturón negro: no usarlo para dañar.
+
+**Role-playing de la sesión 4** (`2026-10-29-emocional.txt`): se representan sucesivamente los tres papeles —pasivo, agresivo y asertivo— sobre la misma situación y se rota para que cada persona pase por los tres, con observador que da *feedback* (hablar en primera persona: «yo siento / yo pienso / yo te pido», parafrasear, petición clara, presentarse, no dejarse cambiar de tema). Se eligen casos «un pasito adelante» (*zona de desarrollo próximo* de Vygotsky); los más difíciles son los de familias y el alumno disruptivo con público. Retirarse no reduce la ansiedad: solo se vence exponiéndose. **Reuniones de tutoría con familias**: manda y dirige el tutor (orden del día y acta), aunque la cita la pidan los padres; se empieza por algo positivo del alumno, se garantiza la igualdad de turnos y se mantiene un tono «incisivo pero neutro» («yo tengo otra información», no «es mentira»). Como **mediador** (Jefatura o coordinación de área): la mediación no siempre funciona, no hay que culpabilizar si fracasa y se eleva a Jefatura; **nunca se media en violencia de género ni en acoso escolar** (no se enfrenta a la víctima con el agresor). Se propone preguntar al alumno cada día qué hizo en clase, no solo cuando es castigado.
+
+---
+<!-- CANONICO_FIN: sintetico-canonico-educacion-emocional-del-profesorado.md::sec-5 -->
+
+<!-- CANONICO_INICIO: sintetico-canonico-educacion-emocional-del-profesorado.md::sec-6 -->
+## Sincronizado desde el canónico — 6. Empatía
+
+> Fuente: `asignaturas/1erTrimestre/educacion-emocional-del-profesorado/sinteticos/sintetico-canonico-educacion-emocional-del-profesorado.md`
+
+Competencia interpersonal y «motor de las emociones». **Empatía cognitiva** (entender qué siente el otro; posible en psicopatía o TEA alto) frente a **empatía emocional** (sentir con el otro; la descarga que frena al que hace daño). Fernández-Berrocal: las máquinas tendrán reconocimiento de patrones (Ekman, voz, movimientos oculares) pero «la parte emocional, por ahora, no la tendrían»: serían «un poco psicópata». En la escala de conciencia: leer señales en músculos faciales y tono por neuronas espejo, ponerse en el lugar del otro y no manipular al vulnerable. **La empatía sin ética es peligrosa**. Sensibilidad al momento evolutivo: la escuela «no está diseñada para las personas» (adolescentes a las 8:00, profesorado de secundaria con formación nula frente a infantil/primaria).
+
+---
+<!-- CANONICO_FIN: sintetico-canonico-educacion-emocional-del-profesorado.md::sec-6 -->

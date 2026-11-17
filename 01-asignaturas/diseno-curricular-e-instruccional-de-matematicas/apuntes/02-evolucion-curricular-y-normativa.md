@@ -222,3 +222,48 @@ Análisis y tablas: **[Contenidos eliminados, trasladados y simplificados](../ma
 ---
 
 > **Nota de mantenimiento:** el texto completo histórico del apunte se mantiene en el repositorio local del proyecto; esta versión en `main` prioriza la síntesis operativa y los enlaces a materiales actualizados.
+
+<!-- CANONICO_INICIO: sintetico-canonico-diseno-curricular-e-instruccional-de-matematicas.md::sec-3 -->
+## Sincronizado desde el canónico — 3. Evolución histórica de los currículos de Matemáticas
+
+> Fuente: `asignaturas/1erTrimestre/diseno-curricular-e-instruccional-de-matematicas/sinteticos/sintetico-canonico-diseno-curricular-e-instruccional-de-matematicas.md`
+
+La diapositiva `03-los-curriculos-cambian.pdf` abre con una pregunta que recorre toda la asignatura: **¿cuál es el orden apropiado para enseñar los conjuntos numéricos en la ESO?** La respuesta depende del marco legal. Los currículos desde la LGE (1970) a la LOMLOE (2022) han abordado la enseñanza desde supuestos muy diferentes, coherentes con las finalidades de cada momento, aunque todos dejan margen de concreción.
+
+### 3.1. LGE (1970): la Matemática Moderna
+
+Contexto: Guerra Fría, lanzamiento del Sputnik (1957), Coloquio de Royaumont (1959) donde **Dieudonné** propone un sistema deductivo y lanza el grito «¡Abajo Euclides!», inspirado en **Bourbaki**. Se intenta llevar a la enseñanza las **estructuras matemáticas**: estructuras algebraicas (grupo, anillo, cuerpo) aplicadas a aritmética, álgebra y geometría; construcción de los conjuntos numéricos desde la teoría de conjuntos; geometría mediante grupos de transformaciones. Conviven dos líneas: una, inspirada en **Piaget, Lovell, Bruner y Dienes**, defiende ir de la acción a la abstracción con tres fases (manipulación, representación gráfica, simbólica); otra enseña teorías acabadas con técnicas algorítmicas desde un punto de vista conductista (**Skinner**). La Ley 14/1970 establece EGB obligatoria hasta los 14 años, ciclos piagetianos y la doble vía BUP-FP; las Orientaciones de 1971 organizan la enseñanza por objetivos operativos, realzan el papel cultural y formativo de las Matemáticas como «materia de expresión» y enfatizan teoría de conjuntos y lo numérico-formal frente a lo geométrico-intuitivo.
+
+**Razones del fracaso** (diapositiva 03): deductivismo exagerado (conocimientos terminados y organizados deductivamente), exceso de generalización (de lo más general a lo particular, sin situaciones concretas que permitan abstraer) y matemáticas alejadas de las aplicaciones y de otras materias.
+
+### 3.2. Alternativas y LOGSE (1990)
+
+Surgen propuestas alternativas: la **Escuela Holandesa / Fenomenología Didáctica** de **Hans Freudenthal**, que critica ir de las estructuras a las situaciones que las ejemplifican (*Didactical Phenomenology of Mathematical Structures*, 1983); y la **Escuela Francesa / modelo constructivista** de **Guy Brousseau** y sus *situaciones didácticas*, que resume su propuesta en que «hacer matemáticas es resolver problemas».
+
+Contexto de la LOGSE: Constitución de 1978, contrarreforma de los Programas Renovados (1982), **NCTM, *Una Agenda para la Acción* (1980)**, que propugna la resolución de problemas como principal objetivo de las matemáticas escolares; informes internacionales (Cockcroft 1985; Howson & Kahane 1987), experimentaciones docentes, Libro Blanco de 1990 y LO 1/1990. Características: escolarización obligatoria hasta los 16 años; tres etapas; ESO y Bachillerato; competencias autonómicas; elementos del currículo = objetivos, contenidos, criterios de evaluación y orientaciones metodológicas; Matemáticas presentes en todos los cursos obligatorios con menor carga horaria; desaparece la matemática moderna, se integra la calculadora y las NNTT y se enfatiza la resolución de problemas. En los contenidos se distinguen **conceptos, procedimientos y actitudes** (incluyendo utilización de lenguajes, algoritmos y destrezas, estrategias generales, apreciación de las matemáticas y hábitos de trabajo).
+
+### 3.3. LOE (2006) y LOMCE (2013)
+
+Contexto de la LOE: Informe Delors (1996), estudios PISA desde 1997 (OCDE), estudio DeSeCo (1999), Consejo Europeo de Lisboa (2000), Programa ET 2010, Proyecto Europa 2030. La enseñanza básica comprende diez años (6-16 años), se garantiza educación común y se adopta la atención a la diversidad como principio fundamental; dos opciones de Matemáticas en el último curso de ESO; tres modalidades de Bachillerato; integración de las TIC. Novedad: las **competencias básicas** se incorporan por primera vez a las enseñanzas mínimas; permiten identificar aprendizajes imprescindibles desde un planteamiento integrador y orientado a la aplicación (BOE, 5-1-2007).
+
+La **LOMCE (2013)** pivota sobre autonomía de centros, refuerzo de la dirección, importancia de la evaluación, evaluaciones externas de fin de etapa (no aplicadas), racionalización de la oferta y trayectorias. Amplía el currículo con los **estándares de aprendizaje**, especificaciones de los criterios de evaluación. La diapositiva 03 muestra el ejemplo de proporcionalidad aritmética en 2.º (Aragón): contenidos, criterio `Crit.MA.2.5` y estándares `Est.MA.2.5.1-2`. **Arce et al. (2019)** advierten que un listado tan extenso (82 estándares en Matemáticas I de 1.º de Bachillerato) puede inducir a evaluarlos puntualmente, atomizando las tareas y perdiendo una visión holística centrada en criterios y competencias clave. En la LOE los contenidos se organizan en cinco bloques (Números, Álgebra, Geometría, Funciones y gráficas, Estadística y probabilidad); en la LOMCE se unen Números y Álgebra y aparecen Matemáticas aplicadas y académicas en 3.º y 4.º.
+
+### 3.4. LOMLOE (2022)
+
+Principios: enfoque inclusivo (Diseño Universal de Aprendizaje para la diversidad de grupos ordinarios y para las condiciones de evaluación de la titulación), modernización del currículo, reversión de cambios de la LOMCE en evaluación/autonomía del director/trayectorias, aumento de modalidades de Bachillerato y flexibilización de los primeros cursos por ámbitos. Referentes para Matemáticas: documento **CEMAT** (*Bases para el currículo*, 2021), currículos de Portugal y Ontario y principios y estándares del **NCTM**.
+
+Organizadores curriculares: **objetivos de etapa, competencias clave, competencias específicas, criterios de evaluación** (asociados a las competencias específicas), **saberes básicos** organizados en sentidos —numérico, de la medida, espacial, algebraico y de pensamiento computacional, estocástico y socioafectivo—, **orientaciones para la enseñanza** (no normativas: conexiones internas, descripciones detalladas, tipos de actividades, justificaciones de secuenciación, conexiones con otras asignaturas, recursos), **orientaciones didácticas y metodológicas** y **ejemplos de situaciones de aprendizaje** (diapositiva 03).
+
+Ejemplos de situaciones de aprendizaje en Aragón: «Midiendo como los egipcios», «Polígonos aparentemente regulares», «Jarrones y funciones», «¿Es lo que pienso o es lo qué es?», «Matemática financiera y de consumo», «De los grafos eulerianos al problema del cartero chino», «Mapas y sudokus». Su estructura: introducción y contextualización, objetivos didácticos, elementos curriculares involucrados, descripción de la actividad, metodología y estrategias, atención a las diferencias individuales y recomendaciones para la evaluación formativa.
+
+### 3.5. El caso de las fracciones y los enteros: un ejemplo de cambio curricular
+
+La diapositiva 03 muestra cómo cambia la secuenciación del número:
+
+- **LOMLOE, 1.º ESO (Orden ECD/1172/2022)**: saberes `A.2. Cantidad` (notación exponencial y científica, estimaciones, enteros/fraccionarios/decimales/raíces, recta numérica, porcentajes >100 y <1). Pero las **Orientaciones para la enseñanza** indican que la introducción de la fracción debe desligarse de la idea de parte-todo para darle un sentido más amplio: el racional como número, operador, resultado de un reparto, de una medida, razón y probabilidad; y que los **enteros** se introduzcan en un entorno algebraico (su origen histórico está vinculado al álgebra), trabajando simultáneamente con el sentido algebraico y computacional y reinterpretando los signos `+` y `-`. Conclusión: **se introduce primero el racional positivo**.
+- **LOMLOE, Primaria (Orden ECD/1112/2022)**: primera mención al racional como resultado de un proceso de medida; no hay mención a enteros ni negativos.
+- **LOMCE, 1.º ESO (Orden ECD/489/2016)**: divisibilidad, primos, MCD/mcm, números negativos y enteros, fracciones, decimales, potencias.
+- **LOE (BOA 01/06/07)**: naturales, sistema decimal posicional, racionales positivos (fraccionaria/decimal/porcentual), negativos como necesidad para expresar estados y cambios.
+
+---
+<!-- CANONICO_FIN: sintetico-canonico-diseno-curricular-e-instruccional-de-matematicas.md::sec-3 -->

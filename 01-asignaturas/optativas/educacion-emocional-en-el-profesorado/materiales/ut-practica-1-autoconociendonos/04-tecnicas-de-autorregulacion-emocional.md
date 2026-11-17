@@ -63,3 +63,19 @@ Diseña un plan rápido para tu emoción más desafiante:
 - **La técnica que utilizaré para autorregularme será:** ___________
 
 **Volver al índice:** [UT Práctica 1](README.md)
+
+<!-- CANONICO_INICIO: sintetico-canonico-educacion-emocional-del-profesorado.md::sec-9 -->
+## Sincronizado desde el canónico — 9. Técnicas de autorregulación
+
+> Fuente: `asignaturas/1erTrimestre/educacion-emocional-del-profesorado/sinteticos/sintetico-canonico-educacion-emocional-del-profesorado.md`
+
+**Mindfulness**: conciencia del aquí y ahora, investigada por la psicología positiva; mejora bienestar, atención, resolución de problemas y reacción ante emociones intensas (evidencias en fibromialgia y depresión). Postura: pies apoyados, manos sin cruzar, «posición digna» (también ergonómica para alumnos), conciencia sensorial, ancla en la respiración (aire fresco entra, caliente sale), conteos 1–7 sin divagar —la «loca de la casa» de Santa Teresa, el «mono loco» budista—. Si hay mareo por hiperventilación: abrir ojos y respiración normal para restablecer O₂/CO₂.
+
+**Respiración**: 4 s dentro / 4 fuera hacia el abdomen (mano en el ombligo), hasta 6–7 s para llenar los tres tercios del pulmón; diez respiraciones profundas al día calman la mente; escáner corporal. **Paseo consciente**: «frenar y mirar» (quien llevaba cinco años yendo al trabajo sin ver una estatua; conejos junto a la carretera).
+
+**Mindfulness frente a relajación** (`2026-11-03-emocional-1.txt`; `2026-11-10-emocional.txt`): el mindfulness es atención plena al aquí y ahora, con mente de principiante, compasión y autocompasión; la **relajación** es otra herramienta, útil ante la ansiedad de exámenes. El sistema nervioso autónomo se modifica con técnicas psicomentales: bajan pulsaciones, respiraciones y conductancia de la piel; la respiración abdominal estimula el parasimpático («el freno») y los niños respiran abdominalmente, mientras many adults pasan a una respiración pectoral estresante. **Body scan** de pies a cabeza (en mindfulness, de cabeza a pies y por las vísceras), visualización con cuerpo relajado y mente despierta (ondas alfa) y entrenamiento diario de ~10 min. **Ataques de pánico**: temblores, pérdida de control, parestesias y dolor en extremidades, confundibles con epilepsia; ante la duda, urgencias. La **siesta** de 20–30 min equivale a ~2 h de sueño y conviene entrenarla en 1.º–2.º de Bachillerato antes de la EBAU. La **atención plena de tres minutos** se estructura en conciencia corporal por los sentidos, vuelta al ancla respiratoria contando hasta 7 y conciencia amplia («sexto sentido»); postura de «meter el culo en la silla», espalda recta y manos sobre la mesa, sin cruces de tensión.
+
+**Libreta de la felicidad/gratitud** (Seligman): 21 días, tres cosas buenas —mejor pequeñas y vistas a propósito, «la lupa» (el cierzo, los colores de otoño, apagar velas)— y después explicar por qué. Demostrado que genera bienestar a tres semanas; faltan datos a largo plazo. Detrás, **diario emocional**: lo malo, con una salida positiva (agresiva, asertiva o pasiva). También: planificar el día al levantarse con frases de competencia («puedo con esto, lo he hecho otras veces»: optimismo inteligente que prepara el camino) y dormirse repasando tres momentos felices en vez de rumiar. Actitud estoica (Marco Aurelio, Séneca): ocuparse solo de lo que se controla. Practicar primero con uno mismo antes de llevárselo a los alumnos.
+
+---
+<!-- CANONICO_FIN: sintetico-canonico-educacion-emocional-del-profesorado.md::sec-9 -->
