@@ -9,7 +9,7 @@
 
 > Útil para **gestión de aula**, hábitos y convivencia. No explica por sí solo la comprensión matemática profunda; se complementa con cognición (Tema 4) y motivación (Tema 6).
 
-**Podcast del repo:** 🎧 [Pávlov, Skinner y Erikson en Matemáticas](../../../08-podcasts/recursos/podcast_Pavlov_Skinner_Erikson_Matematicas.mp3)
+**Podcast del repo:** 🎧 [Pávlov, Skinner y Erikson en Matemáticas](../../../08-podcasts/episodios/podcast_Pavlov_Skinner_Erikson_Matematicas.mp3)
 
 > **Cómo está organizado.** El apunte integra tres fuentes, identificadas con marcas:
 >

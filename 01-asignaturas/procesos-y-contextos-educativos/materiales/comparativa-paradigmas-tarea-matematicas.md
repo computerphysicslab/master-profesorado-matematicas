@@ -62,4 +62,4 @@ La exigencia no es “más del mismo ejercicio”: es el tipo de **demanda cogni
 
 Escucha la dramatización de los tres casos y el análisis de las diferencias:
 
-🎧 [Podcast: Comparativa de paradigmas en una tarea de Matemáticas](https://github.com/computerphysicslab/master-profesorado-matematicas/raw/refs/heads/main/08-podcasts/recursos/podcast_comparativa_paradigmas_tarea_matematicas.mp3)
+🎧 [Podcast: Comparativa de paradigmas en una tarea de Matemáticas](https://github.com/computerphysicslab/master-profesorado-matematicas/raw/refs/heads/main/08-podcasts/episodios/podcast_comparativa_paradigmas_tarea_matematicas.mp3)

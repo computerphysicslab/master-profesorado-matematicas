@@ -45,9 +45,9 @@ Orden sugerido alineado con el programa: apunte del tema → materiales enlazado
 | Episodio / recurso | Conexión |
 |--------------------|----------|
 | 🎧 [Escuchar — De Moyano a LOMLOE](../../08-podcasts/episodios/podcast_de_moyano_a_lomloe.mp3) | Tema 1 — evolución legislativa |
-| 🎧 [Escuchar — Comparativa de paradigmas](../../08-podcasts/recursos/podcast_comparativa_paradigmas_tarea_matematicas.mp3) | Tema 1 — paradigmas aplicados |
+| 🎧 [Escuchar — Comparativa de paradigmas](../../08-podcasts/episodios/podcast_comparativa_paradigmas_tarea_matematicas.mp3) | Tema 1 — paradigmas aplicados |
 | 🎧 [Escuchar — Estrés docente](../../08-podcasts/episodios/podcast_estres_docente.mp3) | Condiciones profesionales (TALIS / burocracia) |
-| 🎧 [Escuchar — Motivaciones matemáticas LOMLOE](../../08-podcasts/recursos/podcast_motivaciones_matematicas_LOMLOE.mp3) | Temas 4–6 — sentido e implicación |
+| 🎧 [Escuchar — Motivaciones matemáticas LOMLOE](../../08-podcasts/episodios/podcast_motivaciones_matematicas_LOMLOE.mp3) | Temas 4–6 — sentido e implicación |
 
 ## Examen
 

@@ -10,22 +10,23 @@ permalink: /08-podcasts/
 
 Sección del repositorio del Máster de Profesorado de Matemáticas.
 
-Esta carpeta organiza documentación, guiones, recursos y episodios de podcasts relacionados con el aprendizaje y la enseñanza de las Matemáticas.
+Aquí se organizan los **episodios de audio**, sus guiones y las ideas para futuros podcasts sobre aprendizaje, enseñanza y Matemáticas.
 
 ## Escuchar
 
-Consulta el **[INDICE.md](INDICE.md)** para la lista completa con botones **🎧 Escuchar** y reproductores embebidos.
+Consulta el **[INDICE.md](INDICE.md)** para los **15 episodios**, con botones **🎧 Escuchar** y reproductores embebidos. Todo el audio está en [`episodios/`](episodios/).
 
 ## Estructura
 
 | Carpeta | Contenido |
 |---------|-----------|
-| [`recursos/`](recursos/) | Archivos de audio (MP3) |
-| [`episodios/`](episodios/) | Episodios numerados |
-| [`ideas/`](ideas/) | Ideas para futuros episodios |
+| [`episodios/`](episodios/) | Todo el audio (MP3 y M4A) y su índice local |
 | [`guiones/`](guiones/) | Guiones y textos (p. ej. [desarrollo adolescencia](guiones/podcast_desarrollo_adolescencia.md)) |
+| [`ideas/`](ideas/) | Ideas para futuros episodios |
 | [`referencias/`](referencias/) | Material de apoyo |
+
+> La antigua carpeta `recursos/` se ha eliminado: sus archivos pasaron a `episodios/`.
 
 ## Índice de episodios
 
-Consulta el **[INDICE.md](INDICE.md)** para la lista actualizada de episodios y guiones disponibles.
+Consulta el **[INDICE.md](INDICE.md)** para la lista completa y actualizada de episodios y guiones.
