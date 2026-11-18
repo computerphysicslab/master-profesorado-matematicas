@@ -38,9 +38,11 @@ Asimismo, el diseño de intervenciones grupales, como la implementación de esca
 
 ## Sociología y educación
 
+- Berger, P., & Luckmann, T. (1968). *La construcción social de la realidad*. Amorrortu.
 - Bourdieu, P. (various). Capital cultural y reproducción social.
 - Coleman, J. S. (various). Capital social y educación.
 - Durkheim, É. (various). Educación y socialización.
+- Hall, E. T. (1976). *Beyond Culture*. Anchor Books.
 - Otras referencias específicas de familia, género e interculturalidad según los apuntes de Sociología.
 
 ## Notas
