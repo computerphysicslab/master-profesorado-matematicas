@@ -103,3 +103,17 @@ Con un reto real, andamiaje escalonado, norma explícita de error, evidencia de 
 - [Tema 9 — Salud del profesorado](09-emociones-salud-profesorado.md)  
 - [Afectividad y motivación](../materiales/afectividad-y-motivacion-intrinseca.md)  
 - [Guía de convivencia](../../procesos-y-contextos-educativos/materiales/guia-convivencia-mediacion.md)
+
+<!-- CANONICO_INICIO: sintetico-canonico-educacion-emocional-del-profesorado.md::sec-13 -->
+## Sincronizado desde el canónico — 13. Educación emocional en el aula y en el profesorado
+
+> Fuente: `asignaturas/1erTrimestre/educacion-emocional-del-profesorado/sinteticos/sintetico-canonico-educacion-emocional-del-profesorado.md`
+
+**Efecto Pigmalión/Rosenthal**: expectativas positivas verbales («lo vais a lograr») a un grupo elegido al azar elevaron sus resultados frente al grupo sin expectativas; profecía autocumplida replicada. Sin extremos: «confío en ti si trabajas», no «vas a arrasar». El Pigmalión negativo («vais a caer todos») es dañino. Requiere optimismo fundado y dar herramientas. Se fija con relajación y el cuento de Pigmalión y Galatea (Chipre, Afrodita/Venus, su hijo Pafos).
+
+**Identidad y burnout (conferencia de Fernández-Berrocal)**: profesores → «frustrados, abrumados, estresados»; les gustaría «feliz, valorado, respetado»; la discrepancia sostiene el *burnout*. En España, primera preocupación de salud: **salud mental (62 %)**, antes que cáncer, estrés, obesidad y tabaco; solución fácil farmacológica. Pregunta clave: «¿qué tipo de docente quiero ser cuando las cosas vayan mal?». La respuesta racional (revisar, explicar criterios) es necesaria pero insuficiente sin entrenamiento del sistema 2. Culpar a la IE de los resultados PISA carece de base e ignora la salud mental juvenil. Las **organizaciones emocionalmente inteligentes** importan: IE alta y *percibida* del equipo directivo (regulación y apoyo) reduce ansiedad, depresión y estrés del profesorado; no toda la responsabilidad es individual. lema: «docentes con IE, no solo con IA».
+
+**Pantallas**: móvil prohibido en el centro (retirada, llamada a padres, expulsión), pero sin registrar mochilas ni invadir intimidad; desescalar. Las e-competencias (§4) y la conducta prosocial online completan el aula.
+
+---
+<!-- CANONICO_FIN: sintetico-canonico-educacion-emocional-del-profesorado.md::sec-13 -->

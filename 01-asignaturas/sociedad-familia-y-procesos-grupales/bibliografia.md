@@ -52,3 +52,28 @@ Asimismo, el diseño de intervenciones grupales, como la implementación de esca
 
 El material de estudio se complementa con las diapositivas de los temas 0 al 3 y la presentación del grupo 7 (2026-27). Asimismo, se integra el análisis de la socialización, la dicotomía estructura-agencia, los paradigmas sociológicos, la meritocracia y el capital cultural, junto con las pautas metodológicas para la investigación y el estudio de casos como el ciberbullying. Se incorporan como referencias secundarias los sintéticos temáticos y el análisis de Giddens sobre la constitución de la sociedad.
 
+<!-- CANONICO_INICIO: sintetico-canonico-sociedad-familia-y-procesos-grupales-psicologia-social.md::sec-fuentes-utilizadas -->
+## Sincronizado desde el canónico — Fuentes utilizadas
+
+> Fuente: `asignaturas/1erTrimestre/sociedad-familia-y-procesos-grupales/Pscologia-Social/sinteticos/sintetico-canonico-sociedad-familia-y-procesos-grupales-psicologia-social.md`
+
+**Diapositivas:** `Tema_1_El_aula_como_grupo.pdf`, `Tema_2_Liderazgo.pdf`, `teoria-tema-3.pdf`, `tema-2-sfypg-2024-25.pdf` (la profesora).
+
+**Transcripciones de audio:** `2026-10-16-sociedad.txt` (diseño y logística de la dinámica de escape room cooperativo e interdependencia positiva), `2026-10-21-sociedad-1.txt`, `2026-10-21-sociedad-2.txt`, `2026-10-28-sociedadEx.txt`.
+
+**Referencia secundaria (sintéticos), para dinámicas/técnicas, comunicación y evaluación:** `Sociedad_Familia_Procesos_Grupales_Bloque2_Psicologia_Social.docx`, `Guia_Unificada_Psicologia_Grupos_Liderazgo.pdf`, `agregados.txt`.
+<!-- CANONICO_FIN: sintetico-canonico-sociedad-familia-y-procesos-grupales-psicologia-social.md::sec-fuentes-utilizadas -->
+
+<!-- CANONICO_INICIO: sintetico-canonico-sociedad-familia-y-procesos-grupales-sociologia.md::sec-fuentes-utilizadas -->
+## Sincronizado desde el canónico — Fuentes utilizadas
+
+> Fuente: `asignaturas/1erTrimestre/sociedad-familia-y-procesos-grupales/Sociologia/sinteticos/sintetico-canonico-sociedad-familia-y-procesos-grupales-sociologia.md`
+
+**Slides (fuente principal, `/slides/`)**: `tema-0-introducccion.pdf`; `tema-1-sociedad-y-educacion-ssocializaciones-multiples-y-funciones-sociales-de-la-educacion.pdf`; `tema-2-familia-y-educacion.pdf`; `tema-3-familia-genero-y-cultura.pdf`; `presentacion-sfypg-g7-2026-27.pdf`.
+
+**Comentarios adicionales incorporados a los apuntes** (temas 1-2): matices sobre las etapas de Berger y Luckmann, socialización ampliada, brecha digital y edadismo, agentes, socialización múltiple, funciones sociales de la educación, desigualdades, estudio de Zaragoza y modelos familiares de alto/bajo contexto (§1.3-1.7 y §2.1-2.2).
+
+**Transcripciones (`/audios/`)**: `2026-11-13-sociologia.txt` (tema 1: socialización, estructura/agencia, paradigmas, meritocracia y capital cultural; fuente principal de los matices de clase); `2026-11-06-sociologia.txt` (metodología de la investigación y prácticas: preguntas, objetivos, fuentes, nota de investigación y caso ciberbullying; §1.7 y §4.4). Revisadas y **excluidas** por ser Psicología Social/logística: `2026-10-16-sociedad.txt` (diseño de escape room sobre cooperación y organización de exposiciones), `2026-10-21-sociedad-1.txt`, `2026-10-21-sociedad-2.txt`, `2026-10-28-sociedadEx.txt`.
+
+**Sintéticos (referencia secundaria, `/sinteticos/`)**: `tema0.md`; `La-constitucion-de-la-sociedad_Giddens_apuntes-ampliados.md`.
+<!-- CANONICO_FIN: sintetico-canonico-sociedad-familia-y-procesos-grupales-sociologia.md::sec-fuentes-utilizadas -->

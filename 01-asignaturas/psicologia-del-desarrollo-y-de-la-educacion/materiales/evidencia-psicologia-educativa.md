@@ -96,3 +96,11 @@ Manuales generales de psicología educativa (Ormrod / Anderman, Woolfolk, Slavin
 ---
 
 *Ficha de apoyo · no sustituye formación en métodos de investigación.*
+
+<!-- CANONICO_INICIO: sintetico-canonico-psicologia-del-desarrollo-y-de-la-educacion.md::sec-13 -->
+## Sincronizado desde el canónico — 13. Aplicación docente
+
+> Fuente: `asignaturas/1erTrimestre/psicologia-del-desarrollo-y-de-la-educacion/sinteticos/sintetico-canonico-psicologia-del-desarrollo-y-de-la-educacion.md`
+
+Enseñanza eficaz = planificación clara, contenidos estructurados, evaluación formativa, relaciones seguras, autonomía progresiva y experiencias de competencia. Corregir conductas sin descalificar, feedback específico y privado, enseñar estrategias (planificar, elaborar, organizar, recuperar, supervisar, regular), dividir tareas y revisar lo que funcionó. Ante el bajo rendimiento distinguir capacidad, motivación, estrategias y contexto. El clima emocional seguro es sustrato del condicionamiento positivo y de la motivación intrínseca: «no tiene sentido decir que los estudiantes fracasan por falta de motivación, sino que es necesario orientarla»; la motivación precede y es resultado del aprendizaje.
+<!-- CANONICO_FIN: sintetico-canonico-psicologia-del-desarrollo-y-de-la-educacion.md::sec-13 -->

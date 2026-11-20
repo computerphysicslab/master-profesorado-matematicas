@@ -173,3 +173,90 @@ Contextos en los que el alumnado moviliza competencias y saberes. No son un ador
 - [02 — Evolución curricular y normativa](02-evolucion-curricular-y-normativa.md)  
 - [Crítica CCEC — conciencia cultural](../materiales/critica-ccec-conciencia-cultural.md)  
 - Temarios Aragón: `materiales/temarios-matematicas-aragon/`
+
+<!-- CANONICO_INICIO: sintetico-canonico-diseno-curricular-e-instruccional-de-matematicas.md::sec-1 -->
+## Sincronizado desde el canónico — 1. El currículo educativo: concepto, elementos y niveles
+
+> Fuente: `asignaturas/1erTrimestre/diseno-curricular-e-instruccional-de-matematicas/sinteticos/sintetico-canonico-diseno-curricular-e-instruccional-de-matematicas.md`
+
+### 1.1. Definición y preguntas fundamentales
+
+En las sociedades modernas la educación se lleva a cabo mediante el **sistema escolar**. El **currículo** es una *propuesta de actuación educativa* en la que se concretan principios ideológicos, pedagógicos, psicológicos y sociales que muestran la orientación del sistema educativo. En el caso de Matemáticas, el currículo es un **plan de formación** en el sistema escolar de un país que responde a cuatro preguntas (diapositiva `01-tema-1-curriculo-clase-23-09.pdf`):
+
+1. **La formación, ¿para qué?** ¿Qué aprendizaje se persigue?
+2. **¿Qué formación?** ¿Con qué conocimiento?
+3. **¿Cómo llevar a cabo la formación?**
+4. **¿Cuánta formación y qué resultados se obtuvieron?**
+
+La definición legal ha evolucionado. La **LOGSE (1990)** lo define como «el conjunto de objetivos, contenidos, métodos pedagógicos y criterios de evaluación de cada uno de los niveles, etapas, ciclos, grados y modalidades del sistema educativo que regulan la práctica docente» (art. 4.1). La **LOE (2006)** añade las competencias básicas: «conjunto de objetivos, competencias básicas, contenidos, métodos pedagógicos y criterios de evaluación de cada una de las enseñanzas reguladas en la presente Ley» (art. 6.1). En la LOMLOE se amplía con competencias clave, competencias específicas, criterios de evaluación, saberes básicos y orientaciones.
+
+### 1.2. Elementos básicos y niveles de concreción
+
+Los dos elementos básicos del currículo son las **competencias** y los **saberes**. Los **niveles de concreción del diseño curricular** son (diapositiva 01; modelos de TIMSS 2002 y Remillard & Heck 2014):
+
+- **Currículo estatal** → **Currículo autonómico** → **Proyecto curricular de centro** → **Adaptación curricular** → **Programación didáctica / de aula**.
+
+El modelo de Remillard y Heck (2014) distingue entre *currículo previsto* (sistema), *implementado* (aula) y *alcanzado* (estudiante), además del *evaluado*. La transcripción de 12 de noviembre insiste en que la programación se mueve siempre entre lo que la normativa prescribe y lo que finalmente se hace en el aula, y que el docente debe ser consciente de esa distancia.
+
+### 1.3. Normativa curricular vigente (marco de examen)
+
+**Ámbito estatal:**
+
+- **Ley Orgánica 2/2006, de 3 de mayo, de Educación (LOE)**, modificada por la **Ley Orgánica 3/2020, de 29 de diciembre (LOMLOE)**.
+- **Real Decreto 217/2022, de 29 de marzo**, por el que se establece la ordenación y las enseñanzas mínimas de la **ESO**.
+- **Real Decreto 243/2022, de 5 de abril**, ordenación y enseñanzas mínimas del **Bachillerato**.
+
+**Ámbito de Aragón:**
+
+- **Orden ECD/867/2024, de 25 de julio**, que modifica la **Orden ECD/1172/2022, de 2 de agosto** (currículo y evaluación de ESO).
+- **Orden ECD/886/2024, de 25 de julio**, que modifica la **Orden ECD/1173/2022, de 3 de agosto** (currículo y evaluación de Bachillerato).
+
+En la transcripción de 12 de octubre se aclara un matiz importante para la programación: en Aragón **sí se estructura la programación en unidades didácticas** (no en situaciones de aprendizaje, como ocurre en algunas interpretaciones de Andalucía), y cada unidad debe contener situaciones de aprendizaje. El concepto de «unidad didáctica» no aparece definido en la normativa; procede de la tradición de las oposiciones. Tampoco hay un número legal de unidades: en clase se trabaja con 8 (se sugiere «si se pudiera hacer a 6, también lo haría»), frente a las 10-12 que suelen pedir las convocatorias de oposición.
+
+**Asignaturas de Matemáticas** (diapositiva 01): en ESO, Matemáticas en 1.º, 2.º y 3.º; en 4.º, Matemáticas A y B (más la optativa «Matemáticas para la toma de decisiones»), con cursos de refuerzo y ámbitos de diversificación. En Bachillerato: Matemáticas I y II (Ciencias), Matemáticas Aplicadas a las Ciencias Sociales I y II, y Matemáticas Generales (modalidad General). Matemáticas A se desarrolla preferentemente mediante resolución de problemas, investigación y análisis de situaciones cotidianas; Matemáticas B profundiza además en procedimientos algebraicos, geométricos, analíticos y estadísticos.
+
+---
+<!-- CANONICO_FIN: sintetico-canonico-diseno-curricular-e-instruccional-de-matematicas.md::sec-1 -->
+
+<!-- CANONICO_INICIO: sintetico-canonico-diseno-curricular-e-instruccional-de-matematicas.md::sec-4 -->
+## Sincronizado desde el canónico — 4. Competencia matemática, competencias específicas y criterios
+
+> Fuente: `asignaturas/1erTrimestre/diseno-curricular-e-instruccional-de-matematicas/sinteticos/sintetico-canonico-diseno-curricular-e-instruccional-de-matematicas.md`
+
+### 4.1. Origen internacional
+
+Desde los años 90 la UE insta a crear sistemas para comparar y evaluar competencias básicas. La **definición DeSeCo (OCDE, 1999)**: competencias clave son las que todas las personas precisan para su realización personal, ciudadanía activa, inclusión social y empleo. **PISA** evalúa competencias y orienta la enseñanza. Antes incluso, la comunidad de investigadores en Educación Matemática trabajaba en la noción de competencia matemática (**Niss et al., 2016**); el proyecto danés **KOM**, liderado por **Mogens Niss**, es un referente europeo y nuts fuertemente los marcos PISA (diapositiva `05-competencia-matematica.pdf`).
+
+**Niss (2002)** identifica ocho competencias matemáticas específicas: (1) pensar matemáticamente; (2) plantear y resolver problemas; (3) modelizar; (4) argumentar; (5) representar entidades matemáticas; (6) utilizar operaciones y símbolos; (7) comunicarse con y sobre las matemáticas; (8) utilizar ayudas y herramientas, incluidas las nuevas tecnologías.
+
+**PISA** (32 países en 2000, 41 en 2003, 57 en 2006, 79 en 2018; matemáticas evaluadas en detalle en 2003, 2012 y 2022) define la competencia matemática como «la capacidad del individuo para formular, emplear e interpretar las matemáticas en distintos contextos [...] para describir, explicar y predecir fenómenos». Se vincula al punto de vista **funcional**: matemáticas como «modo de hacer», uso de herramientas y conocimiento matemático en funcionamiento. PISA evalúa solo problemas contextualizados (no hay ejercicios puramente matemáticos) y habla de **alfabetización matemática** con tres componentes: situaciones/contextos, contenido matemático y capacidades/procesos. Capacidades fundamentales (PISA 2012): comunicación, matematización, representación, razonamiento y argumentación, diseño de estrategias, uso de operaciones y lenguaje simbólico, uso de herramientas. Procesos: formular situaciones matemáticamente, emplear conceptos/datos/procedimientos/razonamientos, interpretar/aplicar/evaluar resultados. **Blum y Leiss (2007)** refinan el modelo en **siete etapas**, distinguiendo dentro de «formular» entre situación real y modelo de la situación, y añadiendo una fase final de comunicación.
+
+### 4.2. Competencias clave: LOE, LOMCE y LOMLOE
+
+- **LOE (2006), 8 competencias básicas**: comunicación lingüística; matemática; conocimiento e interacción con el mundo físico; tratamiento de la información y competencia digital; social y ciudadana; cultural y artística; aprender a aprender; autonomía e iniciativa personal.
+- **LOMCE (2013), 7 competencias clave**: comunicación lingüística; **matemática y ciencia y tecnología**; digital; aprender a aprender; sociales y cívicas; sentido de iniciativa y espíritu emprendedor; conciencia y expresiones culturales. Se potencia comunicación lingüística y matemática+ciencia+tecnología.
+- **LOMLOE (RD 217/2022), 8 competencias clave**: comunicación lingüística; plurilingüe; **matemática y ciencia, tecnología e ingeniería (STEM)**; digital; personal, social y de aprender a aprender; ciudadana; emprendedora; conciencia y expresión culturales.
+
+La competencia STEM «entraña la comprensión del mundo utilizando los métodos científicos, el pensamiento y representación matemáticos, la tecnología y los métodos de la ingeniería para transformar el entorno de forma comprometida, responsable y sostenible» (RD 217/2022, BOE 30/03/22, p. 28). Cinco descriptores operativos: **STEM1** usar pensamiento matemático; **STEM2** pensamiento científico; **STEM3** realizar proyectos; **STEM4** interpretar y comunicar resultados; **STEM5** promover salud y medio ambiente. Se advierte que, por la variedad de componentes, estos descriptores «no son muy operativos» para el diseño curricular de Matemáticas; por eso la LOMLOE provee competencias específicas. El acronym STEM nace a finales de los 90 en EE. UU. como categoría de titulaciones y profesiones (no como enfoque pedagógico), vinculado a la promoción de carreras científico-técnicas y de la participación femenina; **Tomà y García-Carmona (2021)** publican «*De STEM nos gusta todo menos STEM*». Las diapositivas plantean el debate «¿*girls in STEM* o *girls in STEAM*?» a propósito de la brecha de género en vocaciones (grados de Bellas Artes e Historia del Arte de Unizar).
+
+### 4.3. Competencias específicas de Matemáticas (ESO)
+
+Las competencias específicas se agrupan en **cinco bloques** (Orden ECD/1172/2022, BOA 11/08/2022, p. 28527). Conviene conocer su enunciado para el examen:
+
+- **Resolución de problemas.** `CE.M.1`: interpretar, modelizar y resolver problemas de la vida cotidiana y propios de las matemáticas, aplicando diferentes estrategias y formas de razonamiento. `CE.M.2`: analizar las soluciones usando técnicas y herramientas, evaluando su validez, idoneidad y repercusión global.
+- **Razonamiento y prueba.** `CE.M.3`: formular y comprobar conjeturas sencillas o plantear problemas de forma autónoma. `CE.M.4`: utilizar los principios del pensamiento computacional (organizar datos, descomponer, reconocer patrones, interpretar, modificar y crear algoritmos).
+- **Conexiones.** `CE.M.5`: reconocer y utilizar conexiones entre elementos matemáticos, interconectando conceptos y procedimientos. `CE.M.6`: identificar matemáticas implicadas en otras materias y situaciones reales.
+- **Comunicación y representación.** `CE.M.7`: representar conceptos, procedimientos, información y resultados, usando diferentes tecnologías. `CE.M.8`: comunicar con lenguaje oral, escrito o gráfico y terminología apropiada.
+- **Destrezas socioafectivas.** `CE.M.9`: gestionar emociones, aceptar el error como parte del aprendizaje y adaptarse a la incertidumbre. `CE.M.10`: desarrollar destrezas sociales, participar en equipos heterogéneos con roles asignados, construir identidad positiva como estudiante de matemáticas.
+
+En **Bachillerato** se mantiene el esquema, pero solo hay **9 competencias específicas** porque se unifican las socioafectivas.
+
+### 4.4. Tareas de competencia: ejemplos de las diapositivas y las clases
+
+- **Modelización de la gasolina** (diapositiva 05; versión original de 2018 para Arce et al. con la señora Silva en Borba — Portugal — y versión actualizada de 2025 con María en La Seu d’Urgell y Andorra): ¿compensa conducir hasta el otro país para repostar? Se pide listar dificultades de los estudiantes y situarlas en el ciclo de Blum y Leiss. La transcripción de 5 de noviembre trabaja además el problema del conductor que lleva 2/3 del viaje con 1/4 de depósito (consumo 9/8 → debe repostar al menos 1/8), donde se movilizan CE1 y sobre todo CE2, además de CE6, CE7 y quizá CE8, con representación en barras de la fracción y articulación de registros fraccionario, decimal y porcentual.
+- **Tres pueblos no alineados**: ¿dónde construir un área de servicio a igual distancia? Solución: circuncentro del triángulo, corte de mediatrices; se analizan CE1, CE2, CE6, CE7 y CE8.
+- **Reinterpretación de un gráfico estadístico**, **la pizza**, **la abeja**, y el problema descontextualizado de **Mason, Burton & Stacey (1988)** (*Pensar matemáticamente*, p. 77): ¿qué números naturales se pueden expresar como suma de naturales consecutivos? Se particulariza, se conjetura que son los que tienen un divisor impar (no potencias de 2), se representan ejemplos (24 = 7+8+9; 45 = 7+...+11; 1344 = 447+448+449) y se demuestra con `N = L·(2K+1)`; se requiere demostrar también el recíproco. La transcripción de 27 de octubre lo cita como ejemplo de «suelo bajo y techo alto».
+- La diapositiva 05 incluye una tabla final que relaciona ocho problemas (`Pro 1`-`Pro 7`, con uno duplicado) con las diez competencias específicas, marcando con ✔ las movilizadas.
+
+---
+<!-- CANONICO_FIN: sintetico-canonico-diseno-curricular-e-instruccional-de-matematicas.md::sec-4 -->

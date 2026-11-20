@@ -87,3 +87,15 @@ Se ha incorporado al repositorio un conjunto de diapositivas oficiales que cubre
 ---
 
 *Documento vivo. Catálogo abierto del repo: [`09-bibliografia/educacion-emocional/`](../../../09-bibliografia/educacion-emocional/).*
+
+<!-- CANONICO_INICIO: sintetico-canonico-educacion-emocional-del-profesorado.md::sec-fuentes-utilizadas -->
+## Sincronizado desde el canónico — Fuentes utilizadas
+
+> Fuente: `asignaturas/1erTrimestre/educacion-emocional-del-profesorado/sinteticos/sintetico-canonico-educacion-emocional-del-profesorado.md`
+
+**Diapositivas oficiales (`/slides/`, 9):** `presentacion-y-cronograma-de-la-asignatura.pdf`; `sesion-1-el-modelo-transacional-del-estres.pdf`; `tema-2-el-estres.pptx`; `tema-2-emociones-e-inteligencia-emocional-beatriz-santos.pdf`; `sesion-3-santos.pdf`; `sesion-4.pdf`; `sesion-5-programas-de-educacion-emocional.pdf`; `sesion-6-ie-y-salud.pdf`; `presentacion1-modelo-ecom.pdf`.
+
+**Transcripciones (`/audios/`, 8):** `2026-10-12-emocional.txt` (relajación, Pigmalión, desescalada); `2026-10-20-emocional.txt` (habilidades sociales, asertividad, mindfulness, libreta de la felicidad, Bar-On/Goleman, chantajes); `2026-10-22-Berrocal.txt` (identidad académica y IE: Damásio, sistemas 1/2, burnout, organizaciones, empatía e IA); `2026-10-27-Emocional.txt` (evidencias, e-COM, role-playing, disciplina positiva, autoeficacia, esperanza, optimismo); `2026-10-29-emocional.txt` (role-playing de asertividad, tutoría con familias, mediación, trabajo final); `2026-11-03-emocional-1.txt` (mindfulness y relajación, esperanza, PYD y materiales descargables); `2026-11-05-emocional-1.txt` (ritmos de aprendizaje, sentido práctico y emociones con música); `2026-11-10-emocional.txt` (creatividad, Pandora, respiración de tres minutos y metodología de la pregunta 9).
+
+**Secundaria (no canónica):** `sinteticos/aulas_felices_programa_de_psicologia_positiva.md` y `sinteticos/04-psicologia-positiva-bienestar.md` (PERMA, VIA, Aulas Felices).
+<!-- CANONICO_FIN: sintetico-canonico-educacion-emocional-del-profesorado.md::sec-fuentes-utilizadas -->

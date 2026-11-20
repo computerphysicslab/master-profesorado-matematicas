@@ -146,3 +146,21 @@ La IE del docente ayuda a **leer la situación** y a responder con criterio; no 
 Catálogo completo: [bibliografía de la asignatura](../bibliografia.md).
 
 **Material relacionado:** [Goleman: cinco competencias y aplicación al aula](../materiales/goleman-cinco-competencias-aplicacion-aula.md).
+
+<!-- CANONICO_INICIO: sintetico-canonico-educacion-emocional-del-profesorado.md::sec-4 -->
+## Sincronizado desde el canónico — 4. Inteligencia emocional
+
+> Fuente: `asignaturas/1erTrimestre/educacion-emocional-del-profesorado/sinteticos/sintetico-canonico-educacion-emocional-del-profesorado.md`
+
+**Antecedentes**: Galton, Binet (CI), Thorndike (inteligencia social), Gardner (intrapersonal e interpersonal), Vygotsky (unidad inteligencia-afecto), Ellis (ideas irracionales), Maslow, Rogers, Allport. Premisas: razón y emoción unidas, arma para adaptarnos; más sabios si usamos ambas; desconocerlas nos hace vulnerables; el éxito relacional capta también emociones.
+
+**Salovey y Mayer (1990)**: «capacidad de percibir los sentimientos propios y ajenos, distinguirlos y servirse de esa información para guiar pensamiento y conducta». **Goleman (1995)** popularizó el término: «reconocer sentimientos propios y ajenos, motivarse y manejar bien las emociones en nosotros y en nuestras relaciones». Goleman es divulgador; Salovey y Mayer son los investigadores. Modelo **iceberg**: lo observable es CI (conocimientos + habilidades); la IE lo hace emerger. Sin correlación directa CI-éxito: Consortium for Research on EI in Organizations → 23 % intelectual, 77 % emocional.
+
+**Modelo de habilidad de Mayer y Salovey (1997)**: percibir, facilitar el pensamiento con la emoción, comprender (¿por qué estoy triste?) y **regular** —la habilidad más compleja, «regulación consciente para lograr crecimiento emocional e intelectual» (p. 5). Microcompetencias de **Bisquerra**: expresión apropiada, regulación (impulsividad, ira, frustración, diferir recompensas), afrontamiento y autogeneración de emociones positivas. El modelo **Mayer-Salovey-Caruana** se operacionaliza en el **TMMS-24** (atención, claridad, reparación; puntos de corte por sexo: atención <21/22–32/>33 en hombres y <24/25–35/>36 en mujeres; claridad <25/26–35/>36 y <23/24–34/>35; reparación <23/24–35/>36 y <23/24–34/>35).
+
+**Goleman (5 pilares)**: autoconocimiento (autoconfianza, autoevaluación realista, humor autocrítico), autocontrol (integridad, ambigüedad, apertura al cambio), automotivación (logro, optimismo ante el fracaso, compromiso), empatía (talento, sensibilidad intercultural, servicio) y habilidades de relación (liderazgo, persuasión, equipos). **Bar-On (1997/2006)**: IE socioemocional; intrapersonales (autoconciencia, asertividad, auto-realización, independencia), interpersonales (empatía, responsabilidad social, relación), manejo del estrés (tolerancia, control de impulsos), adaptabilidad (solución de problemas, validación, flexibilidad) y estado de ánimo (optimismo, alegría). **Bisquerra (2003)**: conciencia, regulación, autonomía, competencia socioemocional y competencias para la vida y el bienestar («Goleman traducido» al aula). **CASEL**: autoconciencia, autogestión, conciencia social, habilidades de relación y decisión responsable.
+
+**Modelo e-COM (Cebollero-Salinas et al., 2022)**: en Internet hay comunicación constante, sin contacto directo ni escenario físico, comunicación no verbal limitada, menor control de audiencia, mensajes grabados (rumiación, contagio, viralidad). Cinco e-competencias: e-conciencia emocional, e-regulación (evaluar información, respuestas asertivas, malentendidos), **e-autocontrol de la impulsividad** (no pinchar enlaces, comentar rumores o contestar sin pensar; demorar gratificación), e-autonomía emocional (autoestima, autoeficacia emocional, resiliencia, análisis crítico; sin dependencia del estatus virtual ni FoMo) y e-competencia social (prosocialidad online, asertividad, solución de conflictos). Conclusiones: traslado solo parcial de lo offline; retroalimentación directa para la alfabetización emocional. González et al. (2024) vinculan competencias online, redes y rendimiento.
+
+---
+<!-- CANONICO_FIN: sintetico-canonico-educacion-emocional-del-profesorado.md::sec-4 -->

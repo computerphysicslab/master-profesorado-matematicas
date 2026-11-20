@@ -53,3 +53,10 @@ Referencias de trabajo de la asignatura. Completar con la guía docente oficial 
 
 - Presentaciones temáticas: evolución histórica y referencias legislativas, referentes pedagógicos, estructura de las enseñanzas, organización y tutorización de centros, atención a la diversidad, metodologías en educación secundaria y evaluación. - Registro de sesiones: recopilación de exposiciones sobre procesos y contextos educativos.
 
+<!-- CANONICO_INICIO: sintetico-canonico-procesos-y-contextos-educativos.md::sec-fuentes-utilizadas -->
+## Sincronizado desde el canónico — Fuentes utilizadas
+
+> Fuente: `asignaturas/1erTrimestre/procesos-y-contextos-educativos/sinteticos/sintetico-canonico-procesos-y-contextos-educativos.md`
+
+El contenido de este sintético se ha elaborado con las presentaciones oficiales de la asignatura, correspondientes a la sesión de presentación y a los seis temas del programa, y con los apuntes y comentarios producidos a lo largo de las sesiones, cotejados con las lecturas y la normativa citada en cada apartado. Las presentaciones son la presentación general de la asignatura; la evolución histórica del sistema educativo español; los referentes pedagógicos desde la didáctica contemporánea; la actividad práctica sobre paradigmas; la estructura de las enseñanzas en el sistema educativo español; los centros educativos, su estructura y los procesos de tutorización; la atención a la diversidad desde una perspectiva inclusiva; las metodologías y los recursos para la educación secundaria; y la evaluación. Las lecturas empleadas de manera directa o indirecta incluyen los textos de Coll y Martín, Esteban y Gil, López Rupérez, Serrano y colaboradores, el preámbulo de la LOMLOE, las guías y rúbricas de evaluación y la normativa educativa estatal y autonómica relacionada con la ordenación de las enseñanzas, la orientación, la atención a la diversidad y la organización de los centros.
+<!-- CANONICO_FIN: sintetico-canonico-procesos-y-contextos-educativos.md::sec-fuentes-utilizadas -->

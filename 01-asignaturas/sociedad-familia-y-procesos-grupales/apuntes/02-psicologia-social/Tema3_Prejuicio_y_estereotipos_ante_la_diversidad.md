@@ -173,3 +173,29 @@ Oportunidades:
 - Johnson & Johnson — aprendizaje cooperativo.
 
 ---
+
+<!-- CANONICO_INICIO: sintetico-canonico-sociedad-familia-y-procesos-grupales-psicologia-social.md::sec-6 -->
+## Sincronizado desde el canónico — 6. Prejuicios y estereotipos ante la diversidad
+
+> Fuente: `asignaturas/1erTrimestre/sociedad-familia-y-procesos-grupales/Pscologia-Social/sinteticos/sintetico-canonico-sociedad-familia-y-procesos-grupales-psicologia-social.md`
+
+### 6.1. Percepción y atribución
+
+**Percepción social** (Asch, 1946; Morales et al., 2007): seleccionamos e interpretamos conducta, lenguaje y contexto con expectativas previas. Los rasgos se integran en configuración; los **rasgos centrales cálido/frío** cambian la impresión global (docente exigente cercano vs. frío). **Primacía** (la primera información ancla), **efecto halo** (extender una valoración: hablar bien no acredita conocimiento; "guapa → inteligente") y **sesgo de confirmación** (Nickerson, 1998: recordar silencios y no aportaciones; metáfora del filtro de los vaqueros; alumno etiquetado de inteligente al que se puntúa alto). Se evitan frases como "a los chicos se les dan mejor las matemáticas".
+
+**Atribución:** personal ("irresponsable") frente a situacional ("incidencia de transporte"). **Kelley (1973):** **consenso** (¿otros igual?), **distintividad** (¿solo ahí?) y **consistencia** (¿se repite?); consenso, distintividad y consistencia altos orientan a la tarea; consenso bajo, distintividad baja y consistencia alta, a la persona. Covariación orienta, no demuestra. **Weiner (1985):** **localización, estabilidad y controlabilidad** (estrategia modificable vs. incapacidad permanente). **Sesgo de correspondencia** (Gilbert y Malone, 1995): inferir rasgos ignorando restricciones (silencio = desinterés, omitiendo una burla). **Profecía autocumplida** (Jussim y Harber, 2005): expectativa errónea que se cumple por el trato; efectos pequeños y una predicción acertada no la demuestra. Método: **observar → interpretar → contrastar** ("intervino una vez en tres debates" ≠ "no le interesa").
+
+### 6.2. Tres conceptos y mecanismos
+
+**Estereotipo** (creencia sobre un grupo), **prejuicio** (evaluación negativa por pertenencia) y **discriminación** (trato desigual) son distintos y no forman secuencia inevitable (Allport, 1954; Morales et al., 2007). **Categorización social** (Tajfel et al., 1971) simplifica pero resalta unas diferencias: **endogrupo** ("nosotros") y **exogrupo** ("ellos"); los **grupos mínimos** muestran favoritismo sin hostilidad previa. **Identidad social** (Tajfel y Turner, 1979): pertenencia y valor, búsqueda de identidad positiva.
+
+**Fiske et al. (2002):** contenido estereotípico en **calidez** (intenciones) y **competencia** (capacidad), con estereotipos mixtos. **Correlación ilusoria** (Hamilton y Gifford, 1976): un premio aislado no acredita un buen centro. **Devine (1989)**: componentes automáticos y controlados; conocer un estereotipo no es asumirlo. **Pettigrew y Meertens (1995):** prejuicio **manifiesto** y **sutil** (valores tradicionales, exageración de diferencias, negación de emociones). **Glick y Fiske (1996):** sexismo **hostil** y **benevolente** (paternalismo: apartar a una alumna de una tarea técnica "para protegerla").
+
+### 6.3. Consecuencias y reducción
+
+Los estereotipos alteran tareas ofrecidas, explicaciones y representación; conviene comparar criterios y respuestas ante conductas similares. **Amenaza del estereotipo** (Steele y Aronson, 1995), con cautela por sesgo de publicación (Flore y Wicherts, 2015).
+
+**Contacto intergrupal** (Allport, 1954): **igualdad de estatus, metas comunes, cooperación y apoyo institucional**. Pettigrew y Tropp (2006), 713 muestras de 515 estudios, hallaron reducción también sin todas las condiciones (facilitadoras). Paluck, Shepherd y Aronow (2016) estudiaron 56 centros y el papel de alumnos influyentes (conflicto escolar, no todo prejuicio); Paluck et al. (2021) advierten sobre persistencia incierta. Analizar la exclusión en niveles **personal, grupal e institucional** y evaluar creencias, valoraciones y conductas con seguimiento.
+
+**Caso integrador:** la alumna nueva participa poco → percepción social, atribución; si la categoría sustituye a la información, estereotipo; si hay rechazo o se limitan oportunidades, prejuicio y discriminación. Hipótesis a contrastar.
+<!-- CANONICO_FIN: sintetico-canonico-sociedad-familia-y-procesos-grupales-psicologia-social.md::sec-6 -->

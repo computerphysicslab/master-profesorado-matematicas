@@ -209,3 +209,53 @@ Progresión histórica: Rasgos → Conductas → Situación → Relación líder
 - Tajfel y Turner — identidad social.
 
 ---
+
+<!-- CANONICO_INICIO: sintetico-canonico-sociedad-familia-y-procesos-grupales-psicologia-social.md::sec-3 -->
+## Sincronizado desde el canónico — 3. Liderazgo: tipos, modelos y cuestionarios
+
+> Fuente: `asignaturas/1erTrimestre/sociedad-familia-y-procesos-grupales/Pscologia-Social/sinteticos/sintetico-canonico-sociedad-familia-y-procesos-grupales-psicologia-social.md`
+
+### 3.1. Poder y enfoques
+
+**Poder** es capacidad potencial de influir; **influencia**, el cambio efectivo; **autoridad**, poder legitimado por normas (French y Raven, 1959). Bases: **recompensa, coerción, legitimidad, experto y referente** (más la **informacional** en la guía). El **liderazgo** es influencia entre líder y seguidores hacia metas grupales (Hollander, 1985, en Molero, 2015): relación entre **persona, seguidores y contexto** (Molero, 2015).
+
+**Rasgos:** Stogdill (1948) revisó 124 estudios y no halló rasgos suficientes en toda situación. **Conductas:** Lewin, Lippitt y White (1939) — **autoritario** (decisiones concentradas, comunicación unilateral), **democrático** (participación con orientación) y **laissez-faire** (intervención mínima); autonomía con objetivo y seguimiento no es desentenderse. Ohio (Stogdill y Coons, 1957): **iniciación de estructura** y **consideración**, dimensiones independientes (cuatro combinaciones); alta en ambas se asocia más a rendimiento y satisfacción, según contexto. **Contingencia:** la eficacia depende de tarea, relaciones y margen. **Identidad social:** ser **prototípico** —encarnar lo que define al grupo— favorece influencia (Tajfel y Turner, 1979; Turner et al., 1987).
+
+### 3.2. Carisma, transacción, transformación
+
+**Carismático** (House y Howell, 1992): cualidades excepcionales atribuidas, visión e identificación; rasgos como innovación, energía, riesgo y autoconfianza. **Carisma socializado** (metas colectivas y desarrollo) frente a **personalizado** (poder propio y dependencia): inspirar no prueba la ética.
+
+**Transaccional** (Bass, 1985): intercambio y **recompensa contingente**, con claridad pero sin explicar el sentido. **Transformacional:** cuatro **I** — **influencia idealizada** (modelo que genera confianza), **motivación inspiracional** (visión con sentido), **estimulación intelectual** (revisar supuestos) y **consideración individualizada** (apoyo ajustado). Pueden coexistir: concretar criterios y explicar por qué estudiar el problema. Kennedy, ejemplo del material: "lo que tú puedes hacer por tu país" frente a "el país puede hacer por ti"; esencia: inspirar y *empowerment*.
+
+### 3.3. Auténtico, ético y positivo
+
+**Auténtico** (Avolio y Gardner, 2005; Walumbwa et al., 2008; Moriano et al., 2011): **conciencia de sí mismo, transparencia relacional, procesamiento equilibrado y moral internalizada**. Ejemplo: profesora que aplicó mal un criterio, lo reconoce, revisa, escucha y aplica el mismo criterio a todos. **Ético** (Brown, Treviño y Harrison, 2005): **persona moral** (honestidad, justicia) y **gestor moral** (comunica estándares, modelo y coherencia). **Positivo** (Cameron, 2013; Luthans y Youssef en el repaso): **fortalezas, resultados destacados y virtudes**, integrando también lo que limita el aprendizaje.
+
+Blanch et al. (2016) advierten solapamientos, diferencias de medida y escasez de estudios educativos: asociación con satisfacción no demuestra causalidad sobre el aprendizaje.
+
+### 3.4. ALQ y MLQ
+
+**ALQ** (Moriano et al., 2011; 623 empleados) mide los cuatro componentes auténticos; **MLQ** (Avolio y Bass, 2004) mide transformacional, transaccional y laissez-faire, además de efectividad, esfuerzo extra y satisfacción. Evalúan aspectos distintos; validados en empleados, no automáticamente en alumnado.
+<!-- CANONICO_FIN: sintetico-canonico-sociedad-familia-y-procesos-grupales-psicologia-social.md::sec-3 -->
+
+<!-- CANONICO_INICIO: sintetico-canonico-sociedad-familia-y-procesos-grupales-psicologia-social.md::sec-4 -->
+## Sincronizado desde el canónico — 4. Relaciones de poder en el aula
+
+> Fuente: `asignaturas/1erTrimestre/sociedad-familia-y-procesos-grupales/Pscologia-Social/sinteticos/sintetico-canonico-sociedad-familia-y-procesos-grupales-psicologia-social.md`
+
+Coexisten la **autoridad formal** docente y liderazgos informales: la delegada representa a la clase y otro alumno marca las opiniones. El **currículo oculto** comunica a quién se da la palabra, a quién se pregunta, quién recibe tiempo extra y cómo se trata el error. Democratizan la palabra el tiempo de espera, el turno equilibrado, el feedback cualitativo, los agrupamientos flexibles y tratar el error como dato de aprendizaje.
+
+Influencia **normativa** (buscar aprobación o evitar rechazo, con posible opinión privada distinta) frente a **informativa** (usar a otros como evidencia ante incertidumbre) (Deutsch y Gerard, 1955). **Conformidad** (Asch, 1956, líneas): acuerdo público ≠ acuerdo privado. **Obediencia** (Milgram, 1963): orden de autoridad, con problemas éticos; no equivale a una instrucción cotidiana. **Minoría consistente** (Moscovici et al., 1969): una propuesta minoritaria abre revisión. Kelman añade **cumplimiento, identificación e internalización**. Un mismo acuerdo puede surgir por argumentos, miedo al aislamiento o reconocimiento de la función docente.
+<!-- CANONICO_FIN: sintetico-canonico-sociedad-familia-y-procesos-grupales-psicologia-social.md::sec-4 -->
+
+<!-- CANONICO_INICIO: sintetico-canonico-sociedad-familia-y-procesos-grupales-psicologia-social.md::sec-8 -->
+## Sincronizado desde el canónico — 8. Evaluación y cuestionarios del bloque
+
+> Fuente: `asignaturas/1erTrimestre/sociedad-familia-y-procesos-grupales/Pscologia-Social/sinteticos/sintetico-canonico-sociedad-familia-y-procesos-grupales-psicologia-social.md`
+
+La parte de Psicología Social es **un cuarto de la asignatura**: examen de **20 preguntas tipo test**, cuatro alternativas, **+1 / −0,33**, **30 minutos**. Entra todo lo subido en teoría (unas 30 diapositivas); no es un examen "para pillar": comprensión, aplicación a aula y asociación autor-idea, sin fechas. Parcial el **4 de noviembre**, mismo aula y horario, entrada **15:00**, DNI y bolígrafo, sin móvil ni ordenador, separación física. Práctica: informe el **día 2**; prueba global **50 % teoría / 50 % práctica**, con 40 preguntas (20 Sociología, 20 Psicología Social). Se citaron evaluación continua (14 de diciembre) y extraordinaria (**15 de junio**). Repaso orientativo la última media hora.
+
+**Preguntas del alumnado:** cada grupo envió una del Tema 1 y una del Tema 2 (ocho en total), con cuatro opciones, autores y referencias, respuesta y justificación; **dos caen en el examen**, elegidas por la profesora sin revelar cuáles, y se comparten para estudiar.
+
+**Cuestionarios:** ALQ (liderazgo auténtico) y MLQ (transformacional, transaccional y laissez-faire, con efectividad, esfuerzo extra y satisfacción) son instrumentos distintos y validados en empleados. Priorizar el modelo de **Palacín y Aiger** en la práctica.
+<!-- CANONICO_FIN: sintetico-canonico-sociedad-familia-y-procesos-grupales-psicologia-social.md::sec-8 -->

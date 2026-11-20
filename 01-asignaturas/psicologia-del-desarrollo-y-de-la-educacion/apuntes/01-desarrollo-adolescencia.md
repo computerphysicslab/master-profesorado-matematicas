@@ -1055,3 +1055,31 @@ Las referencias de este apartado se ofrecen como orientación para profundizar e
 ---
 
 **Fin del documento ampliado.** Se mantienen los apartados originales sobre adolescencia y se añaden fundamentos generales, modelos teóricos, métodos de investigación y una ampliación de psicología de la educación.
+
+<!-- CANONICO_INICIO: sintetico-canonico-psicologia-del-desarrollo-y-de-la-educacion.md::sec-3 -->
+## Sincronizado desde el canónico — 3. Desarrollo cognitivo, socioemocional y moral en el adolescente
+
+> Fuente: `asignaturas/1erTrimestre/psicologia-del-desarrollo-y-de-la-educacion/sinteticos/sintetico-canonico-psicologia-del-desarrollo-y-de-la-educacion.md`
+
+Adolescencia viene de *adolescere*, «crecer hacia la adultez»: etapa transitoria, de límites imprecisos, con cambios físicos, psicológicos, emocionales y sociales. No hay una sino «adolescencias» (Castillo, 1999; Larson y Wilson, 2004); varía por persona, familia, iguales, cultura y economía. Unas culturas tienen ritos de transición; en las sociedades preindustriales se entraba en el mundo adulto al madurar o trabajar, y desde el siglo XX se consolidó como etapa diferenciada.
+
+**Pubertad ≠ adolescencia.** La pubertad (10-15 años) es maduración sexual, fenómeno universal de límites precisos; la adolescencia es más amplia e incluye componente cultural. Fases orientativas (Castillo): temprana (11-13, cambios puberales), intermedia (13-18, contradicciones, identidad, pensamiento reflexivo) y tardía (16-21, consolidación de la personalidad). Cambios físicos: órganos sexuales, caracteres secundarios (en el varón vello, estirón, masa muscular, acné, voz grave; en la mujer senos, grasa en caderas, menarquia), sistema cardiovascular y fuerza; todo ello introduce la sexualidad y la intimidad.
+
+**Identidad y autoconcepto.** La «crisis de identidad» lleva a cuestionarse la propia imagen: el adolescente puede rechazar valoraciones o pedir aprobación constantemente. Marcia (1966) define cuatro estatus por **crisis** y **compromiso**: difusión, identidad hipotecada, moratoria y logro de identidad, con recorridos progresivo, regresivo y de estancamiento. El autoconcepto (Palacios, 1999) integra rasgos físicos y habilidades sociales: a los 11-14 aparece el conflicto de rasgos contradictorios y el «falso yo» (Harter, 1996); a los 15-17 el pensamiento formal lo integra; a los 18-21 se distingue el «yo real» del «yo ideal» (Harter, 1998). En la autoestima adolescente entran relaciones afectivo-sexuales, aceptación grupal y atractivo físico; su baja dimensión produce inseguridad, sensibilidad a la crítica, indecisión por miedo al fracaso, complacencia excesiva, exageración de errores y tendencias depresivas.
+
+**Desarrollo intelectual.** Razonamiento formal, mejora del procesamiento, desarrollo cognitivo y metaconocimiento (García-Milá y Martí, 1997). Piaget (1896-1980): etapas, asimilación y acomodación, operaciones formales desde los 11 años para razonar abstractamente. El procesamiento se vuelve planificado y estratégico (Flavell, 1984); el metaconocimiento es conciencia de los propios pensamientos y valores.
+
+**Conciencia moral.** Crece la preocupación social, política y ética; el adolescente es menos egoísta y considera puntos de vista (Craig, 1997; Abadía, 1998). Kohlberg (Escuela de Ginebra) propone 3 niveles × 2 estadios: **preconvencional** (1. obediencia por castigo/premio; 2. contraprestación «ojo por ojo»), **convencional** (3. aprobación social; 4. legalismo) y **postconvencional** (5. soberanía social/consenso; 6. autonomía y derechos humanos). El pensamiento organiza la moral (sin niveles morales por encima de los intelectuales) y el juicio mejora con la educación (*role-taking*). Críticas: poco peso de familia, escuela y aprendizaje social, olvido de los afectos, dudoso estadio 6; aun así es la teoría con mayor apoyo empírico. La conciencia moral se interioriza por reflexión, imitación de modelos y recompensas/castigos.
+
+**Agentes socializadores.** Familia, amigos, escuela y medios presentan modelos e ideales (aprendizaje vicario). La familia sigue siendo seguridad pese a la renegociación de normas; conflictos: obligaciones cotidianas, discusión con adultos, visión crítica, iguales y cambios familiares (Oliva, 1999). Los amigos son referencia, apoyo y posible apego (de la pandilla unisexual a la mixta y las parejas). La escuela puede proteger o ser riesgo (acoso) y es espacio de participación guiada (De Gispert, 1997). Medios y TIC modelan juicios, amplían redes pero pueden aislar.
+<!-- CANONICO_FIN: sintetico-canonico-psicologia-del-desarrollo-y-de-la-educacion.md::sec-3 -->
+
+<!-- CANONICO_INICIO: sintetico-canonico-psicologia-del-desarrollo-y-de-la-educacion.md::sec-4 -->
+## Sincronizado desde el canónico — 4. Adolescencia y autonomía
+
+> Fuente: `asignaturas/1erTrimestre/psicologia-del-desarrollo-y-de-la-educacion/sinteticos/sintetico-canonico-psicologia-del-desarrollo-y-de-la-educacion.md`
+
+La autonomía se conquista desvinculándose de la niñez, eligiendo amigos, explorando la intimidad y ganando seguridad; el metaconocimiento y las relaciones horizontales con adultos favorecen la independencia emocional sin que la búsqueda de autonomía implique conflicto. Los apuntes la vinculan al ritmo circadiano (retraso del sueño adolescente), actividad física, sinapsis y BDNF, sin reducir el aprendizaje a una molécula.
+
+La **crisis adolescente** se matiza: inestabilidad y estrés transicional (Fierro, 1990), metáfora del «parto adolescente» (Guembe y Goñi, 2004), pero no todos la viven como crisis profunda (Izco, 2007). Es un ajuste evolutivo no necesariamente dramático. Implicaciones: evitar comparaciones, explicar normas con consistencia, dar autonomía gradual, actividades activas y ajustadas, cuidar el clima y actuar ante el acoso, tratar el error como información, comunicarse con las familias y observar cambios persistentes según los protocolos del centro.
+<!-- CANONICO_FIN: sintetico-canonico-psicologia-del-desarrollo-y-de-la-educacion.md::sec-4 -->

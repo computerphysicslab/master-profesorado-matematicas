@@ -236,3 +236,44 @@ Este Tema 5 aporta el **porqué** y el **marco**; aquel, el **cómo** en el día
 ---
 
 *Apunte orientativo para el Máster de Profesorado · especialidad Matemáticas. Complementa la guía docente; no la sustituye.*
+
+<!-- CANONICO_INICIO: sintetico-canonico-sociedad-familia-y-procesos-grupales-sociologia.md::sec-2 -->
+## Sincronizado desde el canónico — 2. Familia y educación: tipos de familia, cambios sociodemográficos y participación
+
+> Fuente: `asignaturas/1erTrimestre/sociedad-familia-y-procesos-grupales/Sociologia/sinteticos/sintetico-canonico-sociedad-familia-y-procesos-grupales-sociologia.md`
+
+### 2.1. Socialización primaria
+
+Es la más importante: interioriza la cultura de forma **particular**, mediatizada por la familia; es más que cognoscitiva (importa la **afectividad**); opera por **identificación** (modelos a imitar transmitidos por el afecto), mecanismo individual con alcance social. La familia forma parte del **"otro generalizado"** del niño: su abstracción de la sociedad a través del modelo familiar. Los contenidos varían por sociedad y cultura; dura toda la vida pero es el núcleo de la socialización posterior. En clase: primeras normas escolares (no pegar, silencio, levantar la mano para pedir la palabra = orden, cohesión y convivencia). Los comentarios adicionales subrayan que se hace de manera **individual y particular**: hermanos con la misma familia, casa y colegio tienen vivencias y aprendizajes distintos. El mecanismo de **identificación** con modelos a imitar (papá, mamá, profesor) es individual y psicológico, pero tiene alcance social: sitúa al niño en la estructura social y en el «otro generalizado». Los contenidos varían según la sociedad y la cultura (normas y lenguaje para moverse en cada una). Aportaciones de los comentarios adicionales: los valores afectivos dejan huella —muchos traumas de adulto se generan hasta los 3-6 años—; la moral y las creencias religiosas (pecados capitales, mandamientos) sirven para moverse en sociedad y cohesionarla; y el **experimento del orfanato chino** (años 60, política de hijo único varón) mostró mortalidad del 99 % en una sala frente al 10 % en otra con iguales condiciones, diferencia atribuida a que en la segunda las cuidadoras abrazaban, cogían y hablaban a las niñas.
+
+### 2.2. Definición y modelos: high context / low context
+
+Familia = grupo básico de socialización y agente fundamental; concepto **no estático**, cada vez más variable, con formas según culturas, épocas y contextos. **Edward T. Hall (1976)**:
+
+- **Alto contexto (*high context*)**: comunicación implícita (gestos, miradas, tono); cohesión, honor, "nosotros"; valores transmitidos por rituales; culturas colectivistas (Asia oriental, Oriente Medio, Latinoamérica, Mediterráneo —España, Italia, Grecia—); familia extensa o comunitaria, normas interiorizadas y jerarquías claras.
+- **Bajo contexto (*low context*)**: comunicación explícita y directa; individualidad y autonomía; argumentación, negociación, claridad normativa; culturas individualistas (anglosajonas, Europa del Norte y escandinava); familia nuclear e igualitaria con roles negociados.
+
+Ejemplos de los comentarios adicionales: el modelo español es de **alto contexto** y familista —«en familia, cuando seas padre, comerás huevos», paella dominical y sobremesa, honor y «nosotros» por encima del «yo»—, con Italia y Grecia como referentes mediterráneos; ese modelo ha servido de colchón en crisis (pensiones de los abuelos en 2007 y en la pandemia), pero al adoptar rasgos individualistas aparecen la soledad de los abuelos y el aumento de hogares unipersonales. El modelo nórdico (**Suecia, Estocolmo**) ejemplifica el bajo contexto: desde niños reciben una asignación mensual que acumulan para un año sabático al terminar el instituto y decidir estudios o Erasmus; dejar al abuelo en el hospital y recogerlo cuando ya está bien es normal, mientras que en nuestra cultura —y en la gitana— acompañar al enfermo es fundamental. Cada modelo tiene pros y contras: protección y cohesión frente a autonomía y menor presión familiar.
+
+### 2.3. Cambio familiar y sociodemografía
+
+**Desfamiliarización**: de familia extensa a nuclear por modernización; instituciones (escuelas, hospitales) asumen funciones antes familiares; familia más orientada a la crianza que a la socialización y más individualista; la tradicional no desaparece pero pierde predominio ante nuevas convivencias.
+
+**España (Luis Ayuso, 2019)**: mayor diversidad familiar, hogares más pequeños, valores igualitarios y democráticos. Causas: libertad de elección de pareja y autonomía vital (**teoría de la individualización**), acceso masivo de la mujer a universidad y mercado laboral (enfoque de género), anticonceptivos, secularización y aprobación del divorcio. **Estructuras**: más hogares unipersonales; esperanza de vida alta (con Japón, de las mayores en 2050); emancipación retrasada >30 años por paro, fracaso escolar, vivienda y dificultad de pareja estable; fecundidad hundida (deseos frente a realidades); inmigración necesaria pero insuficiente; reto de los cuidados y red invisible de familiaridad. **Valores**: tolerancia a la pluralización, familia como unidad emocional, cambio en comunicación (más información, nuevos roles, adaptación intergeneracional), persistencia de redes de apoyo. **Claves**: individualización, privatización, globalización y movilidad, digitalización, envejecimiento, inmigración y familias mixtas, igualdad de género, erotización de la cotidianidad (pérdida del pudor), autonomía y adaptación.
+
+### 2.4. Nuevos modelos y digitalización
+
+Junto a la **familia tradicional** (padre-madre-hijo/s, legitimada y vitalicia, desarrollada tardíamente bajo influencia del cristianismo y de la industrialización): **monoparentales, reconstruidas, homoparentales (LGTBIQ+), LAT (*Living Apart Together*) y multiespecie/con mascotas**. **Beck-Gernsheim (2003**, *La reinvención de la familia*) y **Beck y Beck-Gernsheim (2001**, *El normal caos del amor*) ilustran el choque entre amor, familia y libertad y la desmembración de la familia nuclear. Ámbitos digitales: socialización mediada (infancia); educación *on-line* (aprendizaje permanente, hijos enseñando a padres); parejas presenciales y digitales (1 de cada tres hombres jóvenes declara cita virtual, CSISC; caso de amor con IA); teletrabajo (conflicto espacio familiar/laboral); tecnologización del hogar, conciliación y "estar y sentirse en comunicación"; apoyo digital (soledad subjetiva, acompañamiento pero pérdida de calidad).
+
+### 2.5. Participación familiar: APAs, AMPAs y AFAs
+
+La participación es creciente y requiere cambios: **APAs, AMPAs, AFAs**. Aprendemos en diversos espacios e interacciones; hace falta coordinar Familia/Escuela/Barrio, con referentes positivos, altas expectativas y resolución dialógica de conflictos. Desde los años 60 se estudió la relación familia-éxito y las dinámicas de reproducción; hoy crecen los estudios sobre colaboración escuela-familia-comunidad desde perspectivas duales de **reproducción y transformación**.
+
+**Tipos de participación**: (1) **informativa** (se informa, no se decide; reuniones); (2) **consultiva** (intervención limitada, organismos legales); (3) **decisiva** (representación en órganos, seguimiento y rendición de cuentas); (4) **evaluativa** (ayuda en la evaluación); (5) **educativa** (intervención en actividades escolares y extraescolares). Espacios de mejora: responsabilidades en actividades del centro (decisiva/evaluativa), participación en aulas (refuerzo, conocimientos, referente, grupos interactivos), actividades consensuadas y formación de familiares.
+
+### 2.6. Evidencias y estudios de caso
+
+**La Paz Primary School** (zona desfavorecida de Albacete): absentismo del 30 % a ocasional en tres cursos (2007-2010) y fuerte subida de puntuación (Flecha & Soler, 2013, *Cambridge Journal of Education*, 3(44)); **Mediterrani School** (Tarragona): del 60 % a ocasional en un curso (datos del centro). Conclusión: se ha atendido mucho al profesorado y poco a otros agentes; la participación reduce absentismo, mejora rendimiento y convivencia, alfabetiza a las familias y tiene mayor impacto en grupos vulnerables. El tema anuncia los casos **Comunidades de Aprendizaje** y **RedEvolución (Gobierno de Aragón)**.
+
+---
+<!-- CANONICO_FIN: sintetico-canonico-sociedad-familia-y-procesos-grupales-sociologia.md::sec-2 -->

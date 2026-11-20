@@ -19,3 +19,15 @@
 - Contrastar la caja-problema de Thorndike (gatos en las diapositivas; «palomas» en la  del 16/11) y verificar el nombre «calculación» del principio de Premack.
 
 Volver a la [asignatura](../README.md) · [Materiales](../materiales/) · [Examen](../examen/) · [Glosario](../glosario.md)
+
+<!-- CANONICO_INICIO: sintetico-canonico-psicologia-del-desarrollo-y-de-la-educacion.md::sec-pendiente-de-incorporar -->
+## Sincronizado desde el canónico — Pendiente de incorporar
+
+> Fuente: `asignaturas/1erTrimestre/psicologia-del-desarrollo-y-de-la-educacion/sinteticos/sintetico-canonico-psicologia-del-desarrollo-y-de-la-educacion.md`
+
+- Desarrollo clínico de TCA, dismorfia corporal y presión estética (signos, casos, intervención): en `/ejercicios/` y `/lecturas/`, fuera de las fuentes permitidas; aquí solo se recoge el marco de slides y transcripciones.
+- Atribución a Deci y Ryan (autodeterminación) y enfoque expectativa-valor contemporáneo: las fuentes no nombran a estos autores.
+- Contraste de la numeración de Kohlberg con las indicaciones del profesorado. La distinción refuerzo/castigo positivo/negativo ya quedó resuelta con la tabla del tema 3 (sección 7).
+- Empatía, compasión, escucha activa y asertividad (transcripción `2026-10-09-psicologia.txt`): incluidas solo en esa fuente; ampliar si se incorporan a las diapositivas.
+- Contrastar la caja-problema de Thorndike (gatos en las diapositivas; «palomas» en la transcripción del 16/11) y verificar el nombre «calculación» del principio de Premack.
+<!-- CANONICO_FIN: sintetico-canonico-psicologia-del-desarrollo-y-de-la-educacion.md::sec-pendiente-de-incorporar -->

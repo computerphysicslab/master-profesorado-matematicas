@@ -270,3 +270,21 @@ Las siguientes referencias son orientativas. Antes de incorporarlas a una biblio
 - Vygotsky, L. S. — trabajos sobre pensamiento, lenguaje y desarrollo sociocultural.
 - Watson, J. B. y Pavlov, I. P. — trabajos históricos sobre el conductismo y el condicionamiento clásico.
 - Bandura, A. — trabajos sobre aprendizaje por observación y teoría sociocognitiva.
+
+<!-- CANONICO_INICIO: sintetico-canonico-psicologia-del-desarrollo-y-de-la-educacion.md::sec-2 -->
+## Sincronizado desde el canónico — 2. Psicología del desarrollo: objeto y debates
+
+> Fuente: `asignaturas/1erTrimestre/psicologia-del-desarrollo-y-de-la-educacion/sinteticos/sintetico-canonico-psicologia-del-desarrollo-y-de-la-educacion.md`
+
+Estudia los cambios conductuales y psicológicos desde la concepción hasta la muerte, describiéndolos y explicándolos en relación con el sujeto y con las diferencias individuales, para predecir comportamientos y optimizar el desarrollo. Al profesor le interesa cómo es, se comporta y piensa el alumno adolescente.
+
+Debates: **herencia/medio** (visión interaccionista), **continuidad/discontinuidad** (gradual para el conductismo; estadios para Piaget y Freud) e **irreversibilidad/plasticidad**. Modelos: mecanicista (conductismo, Bandura), orgánico (Freud, Erikson, Piaget) y contextual-dialéctico (Vygotsky, Bronfenbrenner). Diseños: longitudinal, transversal (efecto cohorte) y secuencial.
+<!-- CANONICO_FIN: sintetico-canonico-psicologia-del-desarrollo-y-de-la-educacion.md::sec-2 -->
+
+<!-- CANONICO_INICIO: sintetico-canonico-psicologia-del-desarrollo-y-de-la-educacion.md::sec-12 -->
+## Sincronizado desde el canónico — 12. Aprendizaje social y cultural
+
+> Fuente: `asignaturas/1erTrimestre/psicologia-del-desarrollo-y-de-la-educacion/sinteticos/sintetico-canonico-psicologia-del-desarrollo-y-de-la-educacion.md`
+
+**Bandura**: aprendizaje vicario por observación de modelos; autoeficacia construida con éxitos, modelos, feedback creíble y lectura emocional; los elogios vacíos no bastan. **Vygotsky**: conocimiento por interacción y mediación, **zona de desarrollo próximo** entre nivel real y potencial, y **andamiaje** temporal. Bruner coincide en andamiaje y descubrimiento. **Bronfenbrenner**: sistemas micro, meso, exo, macro y crono. En el aula: cooperación, tutoría entre iguales, participación guiada y cuidado con el efecto Pigmalión.
+<!-- CANONICO_FIN: sintetico-canonico-psicologia-del-desarrollo-y-de-la-educacion.md::sec-12 -->

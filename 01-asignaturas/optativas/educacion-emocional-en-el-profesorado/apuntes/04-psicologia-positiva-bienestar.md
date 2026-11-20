@@ -504,3 +504,22 @@ Compartir materiales entre profesorado no es regalar trabajo: es evitar que 500 
 - “Ratones, dragones y seres auténticos”.
 - Programas de educación emocional del Gobierno Vasco (12-14 y 14-16).
 - Ellis, A.: modelo A-B-C y distorsiones cognitivas.
+
+<!-- CANONICO_INICIO: sintetico-canonico-educacion-emocional-del-profesorado.md::sec-10 -->
+## Sincronizado desde el canónico — 10. Psicología positiva y bienestar
+
+> Fuente: `asignaturas/1erTrimestre/educacion-emocional-del-profesorado/sinteticos/sintetico-canonico-educacion-emocional-del-profesorado.md`
+
+Constructos (Ibercaja Zentrum, 2014): optimismo, autoeficacia, esperanza, sentido de coherencia, personalidad resistente y autónoma, IE, bienestar, fortalezas, creatividad y *flow*. Marco METAS → autopercepciones → CONDUCTAS (estresores, persistencia, afrontamiento) → EMOCIONES.
+
+**Esperanza (Snyder, 1991)** (`2026-11-03-emocional-1.txt`): metas + caminos (*paths*, descomponer en submetas y buscar alternativas) + agencia (*mastery*, aprender de la experiencia y del fracaso); actividades de metas personales, autodiálogo y reescribir fracasos. El **cuento de Pandora** ilustra que, tras salir todos los males de la caja, quedó dentro la esperanza. La **creatividad** está relacionada con la emoción positiva y es la característica más valorada por escuelas de negocio para contratar (`2026-11-10-emocional.txt`). Las distorsiones se encadenan como estereotipo → prejuicio → discriminación → violencia; la lectura mental se corrige preguntando, y el «debería» se sustituye por «quiero / me apetece». Proceso circular: situación → pensamiento → emoción → acción.
+
+- **Optimismo**: disposicional (Scheier y Carver, futuro) —predice ajuste, salud y rendimiento; el sesgo optimista puede traer consumo—; estilo atributivo de Seligman (pasado: interno/externo, estable/inestable, global/específico), útil para autoestima pero tendencioso. El curso defiende el **optimismo fundado** (expectativa de éxito + autoeficacia + búsqueda de alternativas + locus interno). «No funciona decir que hay que ser optimistas»: hay que trabajar experiencias, modelos, reflexión, tutoría y terapia.
+- **Autoeficacia (Bandura, 1986)**: expectativas de eficacia («¿puedo?») y resultado («¿merece la pena?»); regula metas, esfuerzo, estrategias, perseverancia y emoción; r = .38 con rendimiento. Fuentes: experiencias directas, modelado cercano, persuasión social y estados emocionales; problemas: tarea novedosa, modelos inalcanzables, metas sin recursos, diálogo interno negativo.
+- **Esperanza (Snyder, 1991; Lopez et al., 2009)**: metas, **agencia** y **caminos (pathways)** con alternativas y atribución interna e inestable; predice finalización y rendimiento. Mejora: metas claras e intermedias, descomponerlas, ensayar varias rutas, autodiálogo, responsabilidad, aceptar el error y trabajar a largo plazo.
+- **Sentido de coherencia (Antonovsky, 1991)**: comprensibilidad, manejabilidad, significatividad.
+- **Estilo atributivo**: vigilar sesgos (foco en lo negativo, inmediatez, exigencias imposibles, no aceptar el error, no darse permisos).
+- **PERMA (Seligman)**: bienestar = emociones positivas + *engagement* + relaciones + sentido + logro; marco orientativo. Con la clasificación **VIA** de 24 fortalezas en 6 virtudes (sabiduría, valor, humanidad, justicia, templanza, trascendencia) inspire el programa **Aulas Felices** (Equipo SATI), de dos ejes —atención plena y educación en fortalezas—, vinculado a la CPSAA de la LOMLOE. *Procede de sintéticos/lecturas, no de slides ni audios: ver "Pendiente de incorporar".*
+
+---
+<!-- CANONICO_FIN: sintetico-canonico-educacion-emocional-del-profesorado.md::sec-10 -->
