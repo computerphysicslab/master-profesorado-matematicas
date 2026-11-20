@@ -185,7 +185,7 @@ La PD de departamento unifica criterios; la de aula concreta sesiones sin contra
 
 ## 15. Ideas clave para el examen del Máster
 
-Niveles de concreción · PD ≠ libro · calificación por criterios de evaluación · formativa vs sumativa · indicadores observables también en competencias clave.
+Niveles de concreción · PD ≠ libro · calificación por criterios de evaluación · formativa vs sumativa · indicadores observables también en competencias clave · aritmética frente a álgebra (programas de cálculo, control semántico frente a sintáctico, técnicas algorítmicas frente a toma de decisiones) para interpretar los errores del alumnado · socialización de repartos y densidad del racional · significados del igual y de los signos y modelo del giro para los negativos · interpretaciones de las letras y rupturas epistemológicas en el paso al álgebra.
 
 ---
 

@@ -72,7 +72,7 @@ Estas referencias aparecen en el material docente (Tema 1 DCI y apuntes) y permi
 
 ---
 
-Asimismo, se integra el material de soporte compuesto por las diapositivas oficiales (temas 1, 2, 3, 5, 6, 7 y 8) y el conjunto de notas y registros de aula desarrollados durante el periodo octubre-noviembre de 2026. Este corpus incluye precisiones específicas sobre los enfoques de resolución de problemas, el diseño universal para el aprendizaje (DUA) con tareas de suelo bajo y techo alto, y los criterios de evaluación vigentes para el curso 2026-27.
+Asimismo, se integra el material de soporte compuesto por las diapositivas oficiales (temas 1, 2, 3, 5, 6, 7 y 8, además del material sobre diferencias entre el quehacer aritmético y el algebraico y la práctica de análisis de errores) y el conjunto de notas y registros de aula desarrollados durante el periodo octubre-noviembre de 2026. Este corpus incluye precisiones específicas sobre los enfoques de resolución de problemas, el diseño universal para el aprendizaje (DUA) con tareas de suelo bajo y techo alto, y los criterios de evaluación vigentes para el curso 2026-27. Se añaden también las tareas de clase sobre la fracción formada por la suma de numeradores y denominadores y sobre los significados de los signos y de las letras.
 
 ## 3. Normativa curricular de referencia (Aragón – actualizada)
 
@@ -95,4 +95,4 @@ Consulta siempre [Educaragon – Normativa](https://educa.aragon.es/).
 - D’Amore se enlaza desde los bloques 7 y 8.
 - Eurydice se recomienda como lectura de contexto europeo en los bloques 1–3.
 
-*Última actualización de esta bibliografía: octubre 2026.*
+*Última actualización de esta bibliografía: noviembre 2026.*
