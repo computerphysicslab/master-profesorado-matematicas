@@ -20,6 +20,11 @@ Leyenda: **Operativo** · **Parcial** · **Reserva** · **Vacío**
 | `99-archivo/` | **Activo** | Histórico + memoria del proceso de mejoras |
 | Raíz (`README`, `MANIFEST`, `sintesis-…`, `ESTADO`) | **Operativo** | Síntesis con enlaces a evaluación, SA, practicum |
 
+## Actualización de contenido (24/11/2026)
+
+Tras la llegada de nuevas presentaciones y grabaciones, se han actualizado los sintéticos canónicos de **Psicología del desarrollo y de la educación**, **Diseño curricular e instruccional de Matemáticas** y **Procesos y contextos educativos**, y se ha ejecutado `sincronizar-canonicos-repo.py`: los bloques gestionados de seis archivos de `01-asignaturas/` han pasado a reflejar la nueva redacción. No hay cambios de carpeta ni de taxonomía; el diagnóstico de madurez de la tabla anterior sigue vigente.
+
+
 ## Proceso supervisado (oct 2026) — cerrado
 
 | Fase | Resultado |
