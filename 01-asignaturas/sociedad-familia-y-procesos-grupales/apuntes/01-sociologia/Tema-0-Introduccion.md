@@ -776,11 +776,11 @@ Además de su definición de socialización (1997), el sintético *La constituci
 
 ### 4.2. Clásicos y otros autores
 
-Durkheim (cohesión, transmisión), Parsons (subsistema, roles) y Weber (racionalización, cierre social, credenciales, meritocracia) son el andamiaje de los temas 0-1; el sintético de tema 0 amplía estructura social y agentes de transformación (administraciones = políticas educativas y sociales). Aparecen también **Castells** (sociedad red), **Bauman** (modernidad líquida), **Tezanos**, **Ayuso**, **Beck y Beck-Gernsheim**, **Flecha**, **Summers**, autores de género (Puigvert, Valls, Duque; Oliver; Medina; Gómez; Habermas) y fuentes estadísticas (Eurostat, CIS, INE, IAE, OCDE, Centro Reina Sofía, Sanidad, CSISC).
+Durkheim (cohesión, transmisión), Parsons (subsistema, roles) y Weber (racionalización, cierre social, credenciales, meritocracia) son el andamiaje de los temas 0-1; el sintético de tema 0 amplía estructura social y agentes de transformación (administraciones = políticas educativas y sociales). Aparecen también **Castells** (sociedad red), **Bauman** (modernidad líquida), **Tezanos**, **Beck y Beck-Gernsheim**, **Flecha**, **Summers**, autores de género (Puigvert, Valls, Duque; Oliver; Medina; Gómez; Habermas) y fuentes estadísticas (Eurostat, CIS, INE, IAE, OCDE, Centro Reina Sofía, Sanidad, CSISC).
 
 ### 4.3. FOESSA, Bourdieu y políticas educativas: estado de las fuentes
 
-En slides y transcripciones **no aparecen** Bourdieu ni FOESSA; "políticas educativas" solo se menciona de pasada en el tema 1 (funciones manifiestas, nivel macro) y las administraciones figuran genéricamente como agentes. El bloque se ha construido, por tanto, sobre Giddens y los autores citados, sin atribuir a las fuentes contenidos ausentes en ellas.
+El bloque se ha construido sobre Giddens y los autores citados, sin atribuir a las fuentes contenidos ausentes en ellas. Bourdieu aparece ahora con la propuesta de los tres capitales aplicada a la familia (§2.7), que permite explicar cómo el origen familiar influye sin determinar el recorrido vital. **FOESSA sigue sin aparecer** en las fuentes trabajadas y "políticas educativas" solo se menciona de pasada en el tema 1 (funciones manifiestas, nivel macro), con las administraciones como agentes genéricos.
 
 ### 4.4. Metodología de la investigación sociológica aplicada (prácticas)
 

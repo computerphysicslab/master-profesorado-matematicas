@@ -49,6 +49,6 @@ Se recomienda actualizar el estado de los recursos pedagógicos: el modelo PERMA
 - **PERMA** sigue procedente de sintéticos y lecturas; **Aulas Felices** ya aparece en `2026-11-03-emocional-1.txt` y `2026-11-10-emocional.txt` (Ricardo Argüis, versión 2012): retirar del pendiente y contrastar la atribución «Equipo SATI» del §10.
 - **Caruana** ya aparece en audio (`2026-11-03-emocional-1.txt`) como coordinador del programa valenciano; la denominación **«modelo Mayer-Salovey-Caruana»** no aparece literalmente: verificar en `lecturas/mayer-j-salovey-p-2015...pdf` y confirmar si es el mismo autor del TMMS-24.
 - Las direcciones web de materiales gratuitos (Gobierno Vasco, CEFIRE, Xunta) cambian periódicamente: verificar enlaces antes de citarlos.
-- Las tablas de resultados del meta-análisis de Durlak y del programa SEA están vacías de texto extraído en las diapositivas.
+- Las tablas numéricas del meta-análisis de Durlak y del programa SEA siguen sin texto extraído en las diapositivas; los resultados esenciales del primero ya están desarrollados en el apartado 11 y no son necesarios para responder a la pregunta 9.
 - Algunas diapositivas de las sesiones 4 y 6 son esquemas sin desarrollo (marco METAS-CONDUCTAS-EMOCIONES), cuya explicación depende de narración no transcrita.
 <!-- CANONICO_FIN: sintetico-canonico-educacion-emocional-del-profesorado.md::sec-pendiente-de-incorporar -->
