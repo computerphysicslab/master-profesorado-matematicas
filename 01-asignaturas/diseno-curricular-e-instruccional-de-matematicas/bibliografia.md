@@ -102,7 +102,7 @@ Consulta siempre [Educaragon – Normativa](https://educa.aragon.es/).
 
 > Fuente: `asignaturas/1erTrimestre/diseno-curricular-e-instruccional-de-matematicas/sinteticos/sintetico-canonico-diseno-curricular-e-instruccional-de-matematicas.md`
 
-**Diapositivas oficiales (`slides/`, 10 archivos):**
+**Diapositivas oficiales (`slides/`, 11 archivos):**
 
 1. `01-tema-1-curriculo-clase-23-09.pdf`
 2. `02-por-que-ensenar-matematicas.pdf`
@@ -114,10 +114,11 @@ Consulta siempre [Educaragon – Normativa](https://educa.aragon.es/).
 8. `[09] Diferencias quehaceres.pdf`
 9. `Diferencias aritmética-álgebra.pdf`
 10. `Práctica 7_24-25.pdf`
+11. `[10] Elementos epistemologicos.pdf`
 
 **Tarea de clase (`ejercicios/`):** `tareas-clase-tema-10.docx` (fracción formada por la suma de numeradores y denominadores; significados de los signos y de las letras).
 
-**Transcripciones de audio (`audios/`, 21 archivos):**
+**Transcripciones de audio (`audios/`, 23 archivos):**
 
 1. `2026-10-12-curricular1.txt`
 2. `2026-10-12-curricular2.txt`
@@ -140,8 +141,10 @@ Consulta siempre [Educaragon – Normativa](https://educa.aragon.es/).
 19. `2026-10-29-curricular-4.txt` (revisada; contenido de acción tutorial ajeno a este canónico)
 20. `2026-11-19-curricular-1.txt`
 21. `2026-11-19-curricular-2.txt`
+22. `2026-11-26-curricular-1.txt`
+23. `2026-11-26-curricular-2.txt`
 
-`2026-10-27-Curricular-1-RP.txt`, `2026-10-27-Curricular-2.txt` y `2026-10-27-Curricular-3.txt` son tres tomas complementarias de la misma sesión; la segunda se usó sobre todo para el apartado 5.4 y la tercera para DUA tareas de suelo bajo/techo alto. Los audios del 29 de octubre y del 3 y 5 de noviembre aportan las precisiones de evaluación del apartado 8.6.
+`2026-10-27-Curricular-1-RP.txt`, `2026-10-27-Curricular-2.txt` y `2026-10-27-Curricular-3.txt` son tres tomas complementarias de la misma sesión; la segunda se usó sobre todo para el apartado 5.4 y la tercera para DUA tareas de suelo bajo/techo alto. Los audios del 29 de octubre y del 3 y 5 de noviembre aportan las precisiones de evaluación del apartado 8.6. Las dos sesiones del 26 de noviembre sustentan el apartado 6.7 (razón de ser, praxeologías y análisis de propuestas).
 
 Referencia secundaria consultada solo para confirmar la estructura temática (no usada como fuente de datos): apuntes de los temas 1, 2 y 3 y ampliaciones de `/sinteticos/`.
 <!-- CANONICO_FIN: sintetico-canonico-diseno-curricular-e-instruccional-de-matematicas.md::sec-fuentes-utilizadas -->

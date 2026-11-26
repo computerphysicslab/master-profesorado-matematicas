@@ -322,6 +322,9 @@ La transcripción de 5 de noviembre matiza fuertemente el **examen de cuaderno**
 - En la programación: saberes tal cual, criterios concretados, situaciones de aprendizaje solo como criterios de diseño; el referente de la evaluación son los criterios asociados a competencias específicas.
 - Evaluar no es calificar: recoger indicios, diseñar buenas tareas, dar *feedback* con preguntas y evitar la atomización y la ponderación de instrumentos.
 - Incluir no es solo dar más tiempo o letra más grande: es elegir tareas accesibles y extensibles, escuchar la experiencia del alumno, contrastar representaciones y mantener expectativas altas.
+- La actividad matemática se analiza como praxeología: campo de problemas, técnica, tecnología y teoría (praxis y logos); una técnica sin tecnología queda automatizada y sin significado.
+- La razón de ser justifica la introducción de un objeto con sentido (enteros por álgebra, racionales por medida, derivada con varias razones); la transposición didáctica, la noosfera y la vigilancia epistemológica explican la distancia entre saber sabio, saber a enseñar y saber enseñado.
+- El modelo epistemológico de referencia reúne las cuestiones generatrices del objeto; en la negatividad su razón de ser es el cálculo algebraico y su aceptación exigió un álgebra abstracta independiente de la medida.
 
 ---
 <!-- CANONICO_FIN: sintetico-canonico-diseno-curricular-e-instruccional-de-matematicas.md::sec-10 -->
